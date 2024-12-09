@@ -290,71 +290,97 @@ async function getRelatedTopics({ keyword, geo }) {
 
 async function getTrends({ keyword }) {
   console.log(`Getting trends for "${keyword}" `);
-  return googleTrends
-    .interestByRegion({
+  try {
+    const response = await googleTrends.interestByRegion({
       keyword,
       resolution: 'city',
-    })
-    .then((response) => {
-      const trends = [];
-      const geoMapData = JSON.parse(response)?.default?.geoMapData;
-      if (geoMapData) {
-        geoMapData.forEach((d) => {
-          const { coordinates, geoName, value } = d;
-          const { lat, lng } = coordinates;
-          const country = reverseGeocode.get_country(lat, lng);
-          const countryCode = ISO_3_TO_2[country?.code];
-          if (countryCode) {
-            trends.push({
-              id: `${lat}-${lng}`,
-              city: geoName,
-              countryCode,
-              countryName: country.name,
-              coordinates: [lat, lng],
-              value: value[0],
-            });
-          }
+    });
+
+    if (response.status !== 200) {
+      console.error(`Error fetching trends: HTTP status ${response.status}`);
+      return [];
+    }
+
+    let geoMapData;
+    try {
+      geoMapData = JSON.parse(response)?.default?.geoMapData;
+    } catch (jsonError) {
+      console.error('Error parsing JSON response:', jsonError);
+      return [];
+    }
+
+    if (!geoMapData) {
+      console.error('No geoMapData found in response');
+      return [];
+    }
+
+    const trends = [];
+    geoMapData.forEach((d) => {
+      const { coordinates, geoName, value } = d;
+      const { lat, lng } = coordinates;
+      const country = reverseGeocode.get_country(lat, lng);
+      const countryCode = ISO_3_TO_2[country?.code];
+      if (countryCode) {
+        trends.push({
+          id: `${lat}-${lng}`,
+          city: geoName,
+          countryCode,
+          countryName: country.name,
+          coordinates: [lat, lng],
+          value: value[0],
         });
       }
-      return trends.sort(sortNumericDescending);
-    })
-    .catch(console.error);
+    });
+
+    return trends.sort(sortNumericDescending);
+  } catch (error) {
+    console.error('Error fetching trends:', error);
+    return [];
+  }
 }
 
 async function buildData(keyword) {
-  const trends = await getTrends({ keyword });
+  try {
+    const trends = await getTrends({ keyword });
 
-  const relatedTopics = {};
-  for (const trend of trends) {
-    const { countryCode } = trend;
-    if (countryCode && !relatedTopics[countryCode]) {
-      await wait(500); // wait/throttle 500ms
-      relatedTopics[countryCode] = await getRelatedTopics({
-        keyword,
-        geo: countryCode,
-      });
+    if (!Array.isArray(trends)) {
+      throw new Error('Trends is not an array');
     }
-  }
 
-  if (trends.length === 0) {
-    console.log('No data fetched.  Skip writing to file...');
-    return;
-  }
-
-  const data = {
-    lastUpdated: moment().valueOf(),
-    keyword,
-    relatedTopics,
-    trends,
-  };
-
-  console.log('Writing data to file...');
-  fs.writeFile('./src/data/data.json', JSON.stringify(data, null, 2), (err) => {
-    if (err) {
-      throw err;
+    const relatedTopics = {};
+    for (const trend of trends) {
+      const { countryCode } = trend;
+      if (countryCode && !relatedTopics[countryCode]) {
+        await wait(500); // wait/throttle 500ms
+        relatedTopics[countryCode] = await getRelatedTopics({
+          keyword,
+          geo: countryCode,
+        });
+      }
     }
-    console.log('Data file successfully saved!');
-  });
+
+    if (trends.length === 0) {
+      console.log('No data fetched. Skip writing to file...');
+      return;
+    }
+
+    const data = {
+      lastUpdated: moment().valueOf(),
+      keyword,
+      relatedTopics,
+      trends,
+    };
+
+    console.log('Writing data to file...');
+    fs.writeFile('./src/data/data.json', JSON.stringify(data, null, 2), (err) => {
+      if (err) {
+        throw err;
+      }
+      console.log('Data file successfully saved!');
+    });
+  } catch (error) {
+    console.error('Error in buildData:', error);
+  }
 }
 
 buildData(config.keyword);

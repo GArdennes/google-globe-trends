@@ -2,7 +2,7 @@ import React from "react";
 
 import { useStateValue } from "../state";
 import Button from "./button";
-import Description from "./description";
+// import Description from "./description";
 import Fade from "./fade";
 
 export default function Intro() {
@@ -11,9 +11,9 @@ export default function Intro() {
   return (
     <Fade className="intro" show={!start}>
       <h1>Google Globe Trends</h1>
-      <p>
+      {/* <p>
         <Description />
-      </p>
+      </p> */}
       <Fade show={hasLoaded}>
         <Button label="Explore" onClick={() => dispatch({ type: "START" })} />
       </Fade>

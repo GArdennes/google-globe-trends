@@ -15,6 +15,8 @@ export const initialState = {
   start: false,
 };
 
+console.log(trends);
+
 export function reducer(state, action) {
   const { payload, type } = action;
   switch (type) {
