@@ -1,7 +1,7 @@
-import React, { createContext, useContext, useReducer } from 'react';
+import React, { createContext, useContext, useReducer } from "react";
 
-import config from './config';
-import data from './data/data.json';
+import config from "./config";
+import data from "./data/data.json";
 
 const { lastUpdated, relatedTopics, trends } = data;
 
@@ -18,17 +18,17 @@ export const initialState = {
 export function reducer(state, action) {
   const { payload, type } = action;
   switch (type) {
-    case 'LOADED':
+    case "LOADED":
       return {
         ...state,
         hasLoaded: true,
       };
-    case 'START':
+    case "START":
       return {
         ...state,
         start: true,
       };
-    case 'FOCUS':
+    case "FOCUS":
       return {
         ...state,
         focusedMarker: payload,

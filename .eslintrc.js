@@ -15,10 +15,11 @@ module.exports = {
       {
         bracketSpacing: true,
         jsxBracketSameLine: true,
-        singleQuote: true,
+        singleQuote: false,
         tabWidth: 2,
         trailingComma: 'all',
         useTabs: false,
+        endOfLine: 'auto',
       },
     ],
     'react/prop-types': 'off',
@@ -28,4 +29,5 @@ module.exports = {
       version: 'detect',
     },
   },
+  "plugins": ["prettier"],
 }

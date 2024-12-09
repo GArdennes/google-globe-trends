@@ -1,18 +1,20 @@
-import moment from 'moment';
-import React, { useState } from 'react';
+import moment from "moment";
+import React, { useState } from "react";
 
-import { useStateValue } from '../state';
-import About from './about';
-import Description from './description';
-import Fade from './fade';
-import Link from './link';
+import { useStateValue } from "../state";
+import About from "./about";
+import Description from "./description";
+import Fade from "./fade";
+import Link from "./link";
 
 export default function Overlay() {
-  const [
-    { focusedMarker, lastUpdated, markers, start },
-    dispatch,
-  ] = useStateValue();
+  const [{ focusedMarker, lastUpdated, markers, start }, dispatch] =
+    useStateValue();
   const [showAbout, setShowAbout] = useState(false);
+
+  if (!markers) {
+    console.error("No markers found.");
+  }
 
   const showOverlay = start && !showAbout && !focusedMarker;
 
@@ -34,18 +36,18 @@ export default function Overlay() {
             <Link link="GITHUB_REPO">Github</Link>
           </div>
         </div>
-        <div className="content">
+        {/* <div className="content">
           TOP 5 SEARCHING CITIES
           {markers.slice(0, 5).map((marker) => (
             <Link key={marker.city}>
-              <h2 onClick={() => dispatch({ type: 'FOCUS', payload: marker })}>
+              <h2 onClick={() => dispatch({ type: "FOCUS", payload: marker })}>
                 {marker.city} ({marker.value})
               </h2>
             </Link>
           ))}
-        </div>
+        </div> */}
         <div className="footer">
-          Updated on {moment(lastUpdated).format('MMM D, YYYY')}
+          Updated on {moment(lastUpdated).format("MMM D, YYYY")}
         </div>
       </Fade>
     </>

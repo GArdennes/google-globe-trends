@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
-import { useStateValue } from '../state';
-import Button from './button';
-import Description from './description';
-import Fade from './fade';
+import { useStateValue } from "../state";
+import Button from "./button";
+import Description from "./description";
+import Fade from "./fade";
 
 export default function Intro() {
   const [{ hasLoaded, start }, dispatch] = useStateValue();
@@ -15,7 +15,7 @@ export default function Intro() {
         <Description />
       </p>
       <Fade show={hasLoaded}>
-        <Button label="Explore" onClick={() => dispatch({ type: 'START' })} />
+        <Button label="Explore" onClick={() => dispatch({ type: "START" })} />
       </Fade>
     </Fade>
   );

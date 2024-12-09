@@ -1,15 +1,16 @@
-import React, { useEffect, useState } from 'react';
-import ReactGlobe, { tween } from 'react-globe';
-import * as THREE from 'three';
+import React, { useEffect, useState } from "react";
+// import ReactGlobe, { tween } from "react-globe";
+import Globe from "react-globe.gl";
+import * as THREE from "three";
 
-import { useStateValue } from '../state';
-import Fade from './fade';
+import { useStateValue } from "../state";
+import Fade from "./fade";
 
-import 'tippy.js/dist/tippy.css';
-import 'tippy.js/animations/scale.css';
+import "tippy.js/dist/tippy.css";
+import "tippy.js/animations/scale.css";
 
-const MARKER_COLOR = '#fcffbe';
-const MARKER_COMPANION_COLOR = '#fff9e6';
+const MARKER_COLOR = "#fcffbe";
+const MARKER_COMPANION_COLOR = "#fff9e6";
 
 function random(scaleFactor) {
   return Math.random() > 0.5
@@ -61,7 +62,7 @@ function markerRenderer(marker) {
         from,
         to,
         animationDuration: 4000,
-        easingFunction: ['Quadratic', 'InOut'],
+        easingFunction: ["Quadratic", "InOut"],
         onUpdate: () => {
           const [x, y, z] = from.position;
           const companionMaterial = companion.material;
@@ -87,20 +88,14 @@ function markerRenderer(marker) {
   return mesh;
 }
 
-export default function Globe() {
-  const [
-    hasGlobeBackgroundTextureLoaded,
-    setHasGlobeBackgroundTextureLoaded,
-  ] = useState(false);
-  const [
-    hasGlobeCloudsTextureLoaded,
-    setHasGlobeCloudsTextureLoaded,
-  ] = useState(false);
+export default function World() {
+  const [hasGlobeBackgroundTextureLoaded, setHasGlobeBackgroundTextureLoaded] =
+    useState(false);
+  const [hasGlobeCloudsTextureLoaded, setHasGlobeCloudsTextureLoaded] =
+    useState(false);
   const [hasGlobeTextureLoaded, setHasGlobeTextureLoaded] = useState(false);
-  const [
-    { config, focusedMarker, hasLoaded, markers, start },
-    dispatch,
-  ] = useStateValue();
+  const [{ config, focusedMarker, hasLoaded, markers, start }, dispatch] =
+    useStateValue();
 
   useEffect(() => {
     if (
@@ -108,7 +103,7 @@ export default function Globe() {
       hasGlobeCloudsTextureLoaded &&
       hasGlobeTextureLoaded
     ) {
-      dispatch({ type: 'LOADED' });
+      dispatch({ type: "LOADED" });
     }
   }, [
     dispatch,
@@ -131,18 +126,18 @@ export default function Globe() {
 
   return (
     <>
-      <div className={hasLoaded ? undefined : 'hidden'}>
-        <ReactGlobe
+      <div className={hasLoaded ? undefined : "hidden"}>
+        <Globe
           globeBackgroundTexture={globeBackgroundTexture}
           globeCloudsTexture={globeCloudsTexture}
           globeTexture={globeTexture}
-          height="100vh"
+          // height={window.innerHeight}
           focus={focusedMarker?.coordinates}
           markers={start ? markers : []}
-          width="100vw"
+          // width={window.innerWidth}
           options={options}
           onClickMarker={(marker) => {
-            dispatch({ type: 'FOCUS', payload: marker });
+            dispatch({ type: "FOCUS", payload: marker });
           }}
           onGlobeTextureLoaded={() => setHasGlobeTextureLoaded(true)}
           onGlobeBackgroundTextureLoaded={() =>
