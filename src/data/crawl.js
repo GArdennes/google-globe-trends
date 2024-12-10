@@ -1,386 +1,53 @@
-import countryReverseGeoCoding from 'country-reverse-geocoding';
 import fs from 'fs';
-import googleTrends from 'google-trends-api';
-import moment from 'moment';
+import axios from 'axios';
+import { parseStringPromise } from 'xml2js';
 
-import config from '../config';
-
-const reverseGeocode = countryReverseGeoCoding.country_reverse_geocoding();
-
-const ISO_3_TO_2 = {
-  AFG: 'AF',
-  ALA: 'AX',
-  ALB: 'AL',
-  DZA: 'DZ',
-  ASM: 'AS',
-  AND: 'AD',
-  AGO: 'AO',
-  AIA: 'AI',
-  ATA: 'AQ',
-  ATG: 'AG',
-  ARG: 'AR',
-  ARM: 'AM',
-  ABW: 'AW',
-  AUS: 'AU',
-  AUT: 'AT',
-  AZE: 'AZ',
-  BHS: 'BS',
-  BHR: 'BH',
-  BGD: 'BD',
-  BRB: 'BB',
-  BLR: 'BY',
-  BEL: 'BE',
-  BLZ: 'BZ',
-  BEN: 'BJ',
-  BMU: 'BM',
-  BTN: 'BT',
-  BOL: 'BO',
-  BIH: 'BA',
-  BWA: 'BW',
-  BVT: 'BV',
-  BRA: 'BR',
-  VGB: 'VG',
-  IOT: 'IO',
-  BRN: 'BN',
-  BGR: 'BG',
-  BFA: 'BF',
-  BDI: 'BI',
-  KHM: 'KH',
-  CMR: 'CM',
-  CAN: 'CA',
-  CPV: 'CV',
-  CYM: 'KY',
-  CAF: 'CF',
-  TCD: 'TD',
-  CHL: 'CL',
-  CHN: 'CN',
-  HKG: 'HK',
-  MAC: 'MO',
-  CXR: 'CX',
-  CCK: 'CC',
-  COL: 'CO',
-  COM: 'KM',
-  COG: 'CG',
-  COD: 'CD',
-  COK: 'CK',
-  CRI: 'CR',
-  CIV: 'CI',
-  HRV: 'HR',
-  CUB: 'CU',
-  CYP: 'CY',
-  CZE: 'CZ',
-  DNK: 'DK',
-  DJI: 'DJ',
-  DMA: 'DM',
-  DOM: 'DO',
-  ECU: 'EC',
-  EGY: 'EG',
-  SLV: 'SV',
-  GNQ: 'GQ',
-  ERI: 'ER',
-  EST: 'EE',
-  ETH: 'ET',
-  FLK: 'FK',
-  FRO: 'FO',
-  FJI: 'FJ',
-  FIN: 'FI',
-  FRA: 'FR',
-  GUF: 'GF',
-  PYF: 'PF',
-  ATF: 'TF',
-  GAB: 'GA',
-  GMB: 'GM',
-  GEO: 'GE',
-  DEU: 'DE',
-  GHA: 'GH',
-  GIB: 'GI',
-  GRC: 'GR',
-  GRL: 'GL',
-  GRD: 'GD',
-  GLP: 'GP',
-  GUM: 'GU',
-  GTM: 'GT',
-  GGY: 'GG',
-  GIN: 'GN',
-  GNB: 'GW',
-  GUY: 'GY',
-  HTI: 'HT',
-  HMD: 'HM',
-  VAT: 'VA',
-  HND: 'HN',
-  HUN: 'HU',
-  ISL: 'IS',
-  IND: 'IN',
-  IDN: 'ID',
-  IRN: 'IR',
-  IRQ: 'IQ',
-  IRL: 'IE',
-  IMN: 'IM',
-  ISR: 'IL',
-  ITA: 'IT',
-  JAM: 'JM',
-  JPN: 'JP',
-  JEY: 'JE',
-  JOR: 'JO',
-  KAZ: 'KZ',
-  KEN: 'KE',
-  KIR: 'KI',
-  PRK: 'KP',
-  KOR: 'KR',
-  KWT: 'KW',
-  KGZ: 'KG',
-  LAO: 'LA',
-  LVA: 'LV',
-  LBN: 'LB',
-  LSO: 'LS',
-  LBR: 'LR',
-  LBY: 'LY',
-  LIE: 'LI',
-  LTU: 'LT',
-  LUX: 'LU',
-  MKD: 'MK',
-  MDG: 'MG',
-  MWI: 'MW',
-  MYS: 'MY',
-  MDV: 'MV',
-  MLI: 'ML',
-  MLT: 'MT',
-  MHL: 'MH',
-  MTQ: 'MQ',
-  MRT: 'MR',
-  MUS: 'MU',
-  MYT: 'YT',
-  MEX: 'MX',
-  FSM: 'FM',
-  MDA: 'MD',
-  MCO: 'MC',
-  MNG: 'MN',
-  MNE: 'ME',
-  MSR: 'MS',
-  MAR: 'MA',
-  MOZ: 'MZ',
-  MMR: 'MM',
-  NAM: 'NA',
-  NRU: 'NR',
-  NPL: 'NP',
-  NLD: 'NL',
-  ANT: 'AN',
-  NCL: 'NC',
-  NZL: 'NZ',
-  NIC: 'NI',
-  NER: 'NE',
-  NGA: 'NG',
-  NIU: 'NU',
-  NFK: 'NF',
-  MNP: 'MP',
-  NOR: 'NO',
-  OMN: 'OM',
-  PAK: 'PK',
-  PLW: 'PW',
-  PSE: 'PS',
-  PAN: 'PA',
-  PNG: 'PG',
-  PRY: 'PY',
-  PER: 'PE',
-  PHL: 'PH',
-  PCN: 'PN',
-  POL: 'PL',
-  PRT: 'PT',
-  PRI: 'PR',
-  QAT: 'QA',
-  REU: 'RE',
-  ROU: 'RO',
-  RUS: 'RU',
-  RWA: 'RW',
-  BLM: 'BL',
-  SHN: 'SH',
-  KNA: 'KN',
-  LCA: 'LC',
-  MAF: 'MF',
-  SPM: 'PM',
-  VCT: 'VC',
-  WSM: 'WS',
-  SMR: 'SM',
-  STP: 'ST',
-  SAU: 'SA',
-  SEN: 'SN',
-  SRB: 'RS',
-  SYC: 'SC',
-  SLE: 'SL',
-  SGP: 'SG',
-  SVK: 'SK',
-  SVN: 'SI',
-  SLB: 'SB',
-  SOM: 'SO',
-  ZAF: 'ZA',
-  SGS: 'GS',
-  SSD: 'SS',
-  ESP: 'ES',
-  LKA: 'LK',
-  SDN: 'SD',
-  SUR: 'SR',
-  SJM: 'SJ',
-  SWZ: 'SZ',
-  SWE: 'SE',
-  CHE: 'CH',
-  SYR: 'SY',
-  TWN: 'TW',
-  TJK: 'TJ',
-  TZA: 'TZ',
-  THA: 'TH',
-  TLS: 'TL',
-  TGO: 'TG',
-  TKL: 'TK',
-  TON: 'TO',
-  TTO: 'TT',
-  TUN: 'TN',
-  TUR: 'TR',
-  TKM: 'TM',
-  TCA: 'TC',
-  TUV: 'TV',
-  UGA: 'UG',
-  UKR: 'UA',
-  ARE: 'AE',
-  GBR: 'GB',
-  USA: 'US',
-  UMI: 'UM',
-  URY: 'UY',
-  UZB: 'UZ',
-  VUT: 'VU',
-  VEN: 'VE',
-  VNM: 'VN',
-  VIR: 'VI',
-  WLF: 'WF',
-  ESH: 'EH',
-  YEM: 'YE',
-  ZMB: 'ZM',
-  ZWE: 'ZW',
-};
-
-function sortNumericDescending(a, b) {
-  return b.value - a.value;
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function wait(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-async function getRelatedTopics({ keyword, geo }) {
-  console.log(`Getting related topics for "${keyword}" in "${geo}"`);
-  return googleTrends
-    .relatedTopics({ keyword, geo })
-    .then((response) => {
-      let relatedTopics = [];
-      const rankedList = JSON.parse(response)?.default?.rankedList[0]
-        ?.rankedKeyword;
-      if (rankedList) {
-        relatedTopics = rankedList
-          .map((d) => ({
-            link: d.link,
-            topic: d.topic.title,
-            value: d.value,
-          }))
-          .sort(sortNumericDescending)
-          .slice(0, 10);
-      }
-      return relatedTopics;
-    })
-    .catch(console.error);
-}
-
-async function getTrends({ keyword }) {
-  console.log(`Getting trends for "${keyword}" `);
-  try {
-    const response = await googleTrends.interestByRegion({
-      keyword,
-      resolution: 'city',
-    });
-
-    if (response.status !== 200) {
-      console.error(`Error fetching trends: HTTP status ${response.status}`);
-      return [];
-    }
-
-    let geoMapData;
+export default async function crawl(data) {
+  for (const country of data) {
     try {
-      geoMapData = JSON.parse(response)?.default?.geoMapData;
-    } catch (jsonError) {
-      console.error('Error parsing JSON response:', jsonError);
-      return [];
+      console.log(`Crawling ${country.name} with ${country['alpha-2']}...`);
+      let countryName = country.name;
+      let geoCode = country['alpha-2'];
+      const url = `https://trends.google.com/trending/rss?geo=${geoCode}`;
+      const response = await axios.get(url);
+      const feed = await parseStringPromise(response.data);
+
+      const trend = feed.rss.channel[0].item.map((item) => ({
+        title: item.title[0],
+        link: item.link[0],
+        pubdate: item.pubDate[0],
+        approx_traffic: item['ht:approx_traffic'] ? item['ht:approx_traffic'][0] : 'N/A',
+        picture: item['ht:picture'] ? item['ht:picture'][0] : 'N/A',
+        picture_source: item['ht:picture_source'] ? item['ht:picture_source'][0] : 'N/A',
+        news_items: item['ht:news_item'] ? item['ht:news_item'].map(newsItem => ({
+          title: newsItem['ht:news_item_title'] ? newsItem['ht:news_item_title'][0] : 'N/A',
+          snippet: newsItem['ht:news_item_snippet'] ? newsItem['ht:news_item_snippet'][0] : 'N/A',
+          url: newsItem['ht:news_item_url'] ? newsItem['ht:news_item_url'][0] : 'N/A',
+          picture: newsItem['ht:news_item_picture'] ? newsItem['ht:news_item_picture'][0] : 'N/A',
+          source: newsItem['ht:news_item_source'] ? newsItem['ht:news_item_source'][0] : 'N/A'
+        })) : []
+      }));
+
+      fs.writeFileSync(`./src/data/countries/${countryName}.json`, JSON.stringify(trend, null, 2));
+    } catch (error) {
+      console.error(`Error crawling ${country.name}:`, error.message);
+      continue;
     }
-
-    if (!geoMapData) {
-      console.error('No geoMapData found in response');
-      return [];
-    }
-
-    const trends = [];
-    geoMapData.forEach((d) => {
-      const { coordinates, geoName, value } = d;
-      const { lat, lng } = coordinates;
-      const country = reverseGeocode.get_country(lat, lng);
-      const countryCode = ISO_3_TO_2[country?.code];
-      if (countryCode) {
-        trends.push({
-          id: `${lat}-${lng}`,
-          city: geoName,
-          countryCode,
-          countryName: country.name,
-          coordinates: [lat, lng],
-          value: value[0],
-        });
-      }
-    });
-
-    return trends.sort(sortNumericDescending);
-  } catch (error) {
-    console.error('Error fetching trends:', error);
-    return [];
+    await delay(1000); // Delay for 1 second between requests
   }
+  return "Crawl completed";
 }
 
-async function buildData(keyword) {
-  try {
-    const trends = await getTrends({ keyword });
+var list = JSON.parse(fs.readFileSync('./src/data/all.json', 'utf8'));
+(async () => {
+  await crawl(list);
+})();
 
-    if (!Array.isArray(trends)) {
-      throw new Error('Trends is not an array');
-    }
-
-    const relatedTopics = {};
-    for (const trend of trends) {
-      const { countryCode } = trend;
-      if (countryCode && !relatedTopics[countryCode]) {
-        await wait(500); // wait/throttle 500ms
-        relatedTopics[countryCode] = await getRelatedTopics({
-          keyword,
-          geo: countryCode,
-        });
-      }
-    }
-
-    if (trends.length === 0) {
-      console.log('No data fetched. Skip writing to file...');
-      return;
-    }
-
-    const data = {
-      lastUpdated: moment().valueOf(),
-      keyword,
-      relatedTopics,
-      trends,
-    };
-
-    console.log('Writing data to file...');
-    fs.writeFile('./src/data/data.json', JSON.stringify(data, null, 2), (err) => {
-      if (err) {
-        throw err;
-      }
-      console.log('Data file successfully saved!');
-    });
-  } catch (error) {
-    console.error('Error in buildData:', error);
-  }
-}
-
-buildData(config.keyword);
+// const url = `https://trends.google.com/trending/rss?geo=ZA`;
+// const feed = await axios.get(url);
+// const response = await parser.parseStringPromise(feed.data);
+// console.log(response.rss.channel[0].item);

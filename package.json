@@ -8,6 +8,7 @@
   "repository": "chrisrzhou/google-globe-trends",
   "bugs": "https://github.com/chrisrzhou/google-globe-trends/issues",
   "author": "Chris Zhou <chrisrzhou@pm.me> (https://chrisrzhou.io)",
+  "type": "module",
   "keywords": [
     "google",
     "globe",
@@ -34,14 +35,18 @@
   "dependencies": {
     "@types/react": "^16.9.45",
     "@types/react-dom": "^16.9.8",
+    "axios": "^1.7.9",
+    "date-format": "^4.0.14",
     "moment": "^2.24.0",
-    "sass": "^1.56.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-globe": "^5.0.2",
     "react-scripts": "3.4.1",
+    "rss-parser": "^3.13.0",
+    "sass": "^1.56.0",
     "three": "^0.119.1",
-    "typescript": "^3.4.4"
+    "typescript": "^3.4.4",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.11.1",

@@ -1,0 +1,64 @@
+[
+  {
+    "title": "weather",
+    "link": "https://trends.google.com/trending/rss?geo=TM",
+    "pubdate": "Mon, 9 Dec 2024 18:30:00 -0800",
+    "approx_traffic": "100+",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-iyH6gJCl1HfO9CQv95gNzLVp0MBwl4Aw00y06yESXupvq2RAfB9lGLbVN9U",
+    "picture_source": "KKCO 11 News",
+    "news_items": [
+      {
+        "title": "Snow Showers Today & Cold Air Tomorrow",
+        "snippet": "",
+        "url": "https://www.kkco11news.com/2024/12/09/snow-showers-today-cold-air-tomorrow/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-iyH6gJCl1HfO9CQv95gNzLVp0MBwl4Aw00y06yESXupvq2RAfB9lGLbVN9U",
+        "source": "KKCO 11 News"
+      },
+      {
+        "title": "Denver weather: Cool and breezy Tuesday with sunny skies",
+        "snippet": "",
+        "url": "https://kdvr.com/weather/weather-forecast/denver-cool-and-breezy-tuesday-with-sunny-skies/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUTWpIG1sVQ4rgwYuLXfIa9JRGkIehIiyYkkG3VAgu9F3OH38xzkBg1jW25ew",
+        "source": "KDVR"
+      },
+      {
+        "title": "Colorado Storm To Bring Much-Needed Refresh to Ski Resorts",
+        "snippet": "",
+        "url": "https://www.powder.com/news/colorad-storm-refresh-december-2024",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwvVVNAdcCqVMJDSt4nyrnykPjVJeDjjk_Kb1e2aTAx_FN8f0GoBcBEU3RR7c",
+        "source": "POWDER Magazine"
+      }
+    ]
+  },
+  {
+    "title": "вест хэм юнайтед – вулверхэмптон",
+    "link": "https://trends.google.com/trending/rss?geo=TM",
+    "pubdate": "Mon, 9 Dec 2024 18:00:00 -0800",
+    "approx_traffic": "100+",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDBb7s9T6kQME5P9hUH3KplbZZqeK7P2ZjUcFPkeJuw4erjHqwRXYkkmF8d3o",
+    "picture_source": "Metaratings",
+    "news_items": [
+      {
+        "title": "Вест Хэм – Вулверхэмптон: прогноз и ставки на матч АПЛ 9 декабря 2024 года, коэффициенты на игру",
+        "snippet": "",
+        "url": "https://metaratings.ru/prognozy/futbol/vest-hehm-vulverhehmpton-prognoz-na-match-apl-9-dekabrya-2024-goda/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDBb7s9T6kQME5P9hUH3KplbZZqeK7P2ZjUcFPkeJuw4erjHqwRXYkkmF8d3o",
+        "source": "Metaratings"
+      },
+      {
+        "title": "«Вест Хэм» добыл важную победу в матче с «Вулверхэмптоном»",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/31/1005798050_vest_hem_dobyil_vajnuyu_pobedu_v_matche_s_vulverhemptonom",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrvgagk1Nf553ZE79gfinnONA6T1WsTWIx8ln1jfoIJc3WWNs3TEcLTmLVU94",
+        "source": "Евро-Футбол.Ру"
+      },
+      {
+        "title": "Еще один шаг к отставке. Вест Хэм - Вулверхэмптон 2:1. Видео голов и обзор матча",
+        "snippet": "",
+        "url": "https://www.ua-football.com/foreign/england/1733805623-esche-odin-shag-k-otstavke-vest-hyem-vulverhyempton-2-1-video-golov-i-obzor-matcha.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShNJTnnCwgsi70qmgl7hgFOwf3esB4213eoNNPUs4iaBHsBpvJObArA4CmS1k",
+        "source": "UA-Football"
+      }
+    ]
+  }
+]

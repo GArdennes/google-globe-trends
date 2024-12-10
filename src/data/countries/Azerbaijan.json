@@ -1,0 +1,64 @@
+[
+  {
+    "title": "teams",
+    "link": "https://trends.google.com/trending/rss?geo=AZ",
+    "pubdate": "Mon, 9 Dec 2024 20:10:00 -0800",
+    "approx_traffic": "100+",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ07ckADGPzqWqYNqIwLBUXI9K5rI8l3GEQD4l-4cYBQ09eYUfLvwOoO50Nghg",
+    "picture_source": "ESPN",
+    "news_items": [
+      {
+        "title": "'Stings': Gaffe hurts Cowboys' playoff hopes",
+        "snippet": "",
+        "url": "https://www.espn.com/nfl/story/_/id/42887152/cowboys-muted-special-teams-gaffe-leads-another-loss",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ07ckADGPzqWqYNqIwLBUXI9K5rI8l3GEQD4l-4cYBQ09eYUfLvwOoO50Nghg",
+        "source": "ESPN"
+      },
+      {
+        "title": "Micah Parsons feels Cowboys 'paying a due that's not fair' after deflating \nloss vs. Bengals",
+        "snippet": "",
+        "url": "https://www.cbssports.com/nfl/news/micah-parsons-feels-cowboys-paying-a-due-thats-not-fair-after-deflating-loss-vs-bengals/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROGZyyb8F2fL49CGfgq-AqRJi6oHIPSwkxhrbezXUID0DLyajf4ak7HY3m-gQ",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "Ja’Marr Chase’s TD lifts Bengals past Cowboys on ‘Monday Night Football’: \nKey takeaways - The Athletic",
+        "snippet": "",
+        "url": "https://www.nytimes.com/athletic/5982188/2024/12/10/cowboys-bengals-mnf-score-result-takeaways/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXN0JG5bzFOiP1qDgKXlito-I7tDFV6ONmZyZbn2w4wxAmJ2pDQowUgtYmPQ",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "title": "kanal d canlı",
+    "link": "https://trends.google.com/trending/rss?geo=AZ",
+    "pubdate": "Mon, 9 Dec 2024 10:00:00 -0800",
+    "approx_traffic": "1000+",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWn8U0Zdaoub4jB1A0QmE9llZPANGDoaKKA9DT269FnQrRVE8O3-gPhfLzpJQ",
+    "picture_source": "Kanal D",
+    "news_items": [
+      {
+        "title": "Uzak Şehir 4. Bölüm",
+        "snippet": "",
+        "url": "https://www.kanald.com.tr/uzak-sehir/bolumler/uzak-sehir-4-bolum",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWn8U0Zdaoub4jB1A0QmE9llZPANGDoaKKA9DT269FnQrRVE8O3-gPhfLzpJQ",
+        "source": "Kanal D"
+      },
+      {
+        "title": "Aşiretini arayan izleyici",
+        "snippet": "",
+        "url": "https://www.gazeteduvar.com.tr/asiretini-arayan-izleyici-makale-1740738",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmw2e7LcE7Dub6q20AQMZfid0o46XKkP1TX4YeuYiL_c5wjqEgYD5-AEFncc",
+        "source": "Gazete Duvar"
+      },
+      {
+        "title": "Uzak Şehir 6. Bölüm Fragmanı",
+        "snippet": "",
+        "url": "https://www.milliyet.com.tr/milliyet-tv/uzak-sehir-6-bolum-fragmani-video-7254914",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLIa9kdA2sAE-Eky0FiYjTwKOnwUVFyMO4fdOredxP84W383ZQyZuDF3mZYU",
+        "source": "Milliyet"
+      }
+    ]
+  }
+]

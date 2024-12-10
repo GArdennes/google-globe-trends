@@ -1,0 +1,64 @@
+[
+  {
+    "title": "weather",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Mon, 9 Dec 2024 21:40:00 -0800",
+    "approx_traffic": "2000+",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhs2AbgzUl5QZOoKGwG6gBQ-ImTZJ7tjf6dLyjiwmGBTgLqePCvGKCULKJtc",
+    "picture_source": "The Denver Post",
+    "news_items": [
+      {
+        "title": "Northbound I-25 reopens in Douglas County after snowy semitrailer crash",
+        "snippet": "",
+        "url": "https://www.denverpost.com/2024/12/09/northbound-southbound-i25-douglas-county-crashes-road-closure/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhs2AbgzUl5QZOoKGwG6gBQ-ImTZJ7tjf6dLyjiwmGBTgLqePCvGKCULKJtc",
+        "source": "The Denver Post"
+      },
+      {
+        "title": "School districts announce delayed starts during slick Tuesday morning commute",
+        "snippet": "",
+        "url": "https://www.9news.com/article/weather/weather-colorado/colorado-schools-closed-delays-snow/73-5b42ab6b-3ca3-40f7-acfa-64070e5d7f09",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLLMLx288vCPJSQHyBSo_m_Lxa3ux6zH5-vBNi75FsgvbDCzt9dEUSY8SdQSE",
+        "source": "9News"
+      },
+      {
+        "title": "Cold Start To Tuesday; Warm-Up Coming",
+        "snippet": "",
+        "url": "https://krdo.com/video/weather-video-2/2024/12/10/cold-start-to-tuesday-warm-up-coming/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQShgKg72tDGwYFMwBwuulY4_eEaPGcHfHS6MkEWRdBTOGcf8XARzvx1CgSg0U",
+        "source": "KRDO"
+      }
+    ]
+  },
+  {
+    "title": "luigi mangione",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Mon, 9 Dec 2024 17:10:00 -0800",
+    "approx_traffic": "100+",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
+    "picture_source": "CNN",
+    "news_items": [
+      {
+        "title": "‘I never got the impression he would self-destruct:’ Friends of suspect in fatal CEO shooting left in shock",
+        "snippet": "",
+        "url": "https://www.cnn.com/2024/12/09/us/luigi-mangione-what-we-know-monday/index.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
+        "source": "CNN"
+      },
+      {
+        "title": "UnitedHealthcare CEO shooting: Suspect charged with murder, said 'these parasites had it coming' in handwritten note",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/news/us-news/live-blog/unitedhealthcare-ceo-shooting-suspect-charged-murder-live-updates-rcna183566",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSms806I2hM-URrnIWpZdrtXAefOsyRpWfPqVEQfwjJRyGtT8Zh4z0Z0IexVdM",
+        "source": "NBC News"
+      },
+      {
+        "title": "Luigi Mangione, alleged UnitedHealthcare CEO killer, charged with murder in New York",
+        "snippet": "",
+        "url": "https://www.foxnews.com/us/luigi-mangione-alleged-unitedhealthcare-ceo-killer-charged-murder-new-york",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVVP7UPCwCPD6FMTIxaJJ2A1QO88aVljzSDTQ3p7HxKY1vrtegX_dX-y8TbSQ",
+        "source": "Fox News"
+      }
+    ]
+  }
+]

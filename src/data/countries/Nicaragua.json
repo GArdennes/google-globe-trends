@@ -1,0 +1,64 @@
+[
+  {
+    "title": "west ham - wolves",
+    "link": "https://trends.google.com/trending/rss?geo=NI",
+    "pubdate": "Mon, 9 Dec 2024 13:30:00 -0800",
+    "approx_traffic": "100+",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ_7BQ2XUMRtCFl7p2VWh5Nn8vQ0JIYY1Hrtt5xL3wtWD5aonphzvHkJTLWvI",
+    "picture_source": "The New York Times",
+    "news_items": [
+      {
+        "title": "West Ham-Wolves: The queasy, quirky and eerily quiet reality of ‘El Sackico’ - The Athletic",
+        "snippet": "",
+        "url": "https://www.nytimes.com/athletic/5982016/2024/12/10/wolves-west-ham-lopetegui-oneil-manager/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ_7BQ2XUMRtCFl7p2VWh5Nn8vQ0JIYY1Hrtt5xL3wtWD5aonphzvHkJTLWvI",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Jermaine Defoe hails three West Ham stars who can 'create something out of nothing' after win over Wolves",
+        "snippet": "",
+        "url": "https://tbrfootball.com/jermaine-defoe-hails-three-west-ham-stars-who-can-create-something-out-of-nothing-after-win-over-wolves/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppHUlCdDufhpjHxytefi0p97NG84QUJes1KsUPHqZZXWQHMgFPbYHa1o5azk",
+        "source": "TBR Football"
+      },
+      {
+        "title": "Bowen eases pressure on West Ham boss Lopetegui to leave O'Neil on the ropes",
+        "snippet": "",
+        "url": "https://www.besoccer.com/new/bowen-eases-pressure-on-west-ham-boss-lopetegui-to-leave-o-neil-on-the-ropes-1340800",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXfhKccz3VdENetscOZVzHIyJAWGUcgx8TwjygS0-P5RsQZZD7ObpRD734SAw",
+        "source": "BeSoccer"
+      }
+    ]
+  },
+  {
+    "title": "getafe - rcd espanyol",
+    "link": "https://trends.google.com/trending/rss?geo=NI",
+    "pubdate": "Mon, 9 Dec 2024 11:10:00 -0800",
+    "approx_traffic": "1000+",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo-wAL9fkBEjsod510KpEQc-QTU8O3beKMnesuIGHB6Cr7PbFzEYTYD4scwxI",
+    "picture_source": "Diario AS",
+    "news_items": [
+      {
+        "title": "Álvaro Rodríguez es el ‘Coco’",
+        "snippet": "",
+        "url": "https://as.com/futbol/primera/alvaro-rodriguez-es-el-coco-n/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo-wAL9fkBEjsod510KpEQc-QTU8O3beKMnesuIGHB6Cr7PbFzEYTYD4scwxI",
+        "source": "Diario AS"
+      },
+      {
+        "title": "El Getafe vuelve a sonreír un lunes: un gol de Álvaro Rodríguez complica al Espanyol",
+        "snippet": "",
+        "url": "https://www.marca.com/futbol/primera-division/cronica/2024/12/09/675753ca46163ff8478b4581.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK3lXJ5NXhO67JCbDd_2FpVCPkASy-oJzUF3Fdbr3h5_dl3Hc8cJ0rcAFmc4",
+        "source": "Marca.com"
+      },
+      {
+        "title": "Final de la primera etapa en el estadio Coliseum Alfonso Pérez, con victoria de Getafe por 1 a 0",
+        "snippet": "",
+        "url": "https://www.directvsports.com/futbol/Final-de-la-primera-etapa-en-el-estadio-Coliseum-Alfonso-Perez-con-victoria-de-Getafe-por-1-a-0-20241206-0013.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92lbEBvxeJegpxaGdfZIo4CRMlJSf_GOa4bjAF-KMRy0_7Z7dSTxbO3DfxbI",
+        "source": "DSports"
+      }
+    ]
+  }
+]
