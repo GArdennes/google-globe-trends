@@ -7,6 +7,7 @@ function delay(ms) {
 }
 
 export default async function crawl(data) {
+  let tableData = [];
   for (const country of data) {
     try {
       console.log(`Crawling ${country.name} with ${country["alpha-2"]}...`);
@@ -21,8 +22,8 @@ export default async function crawl(data) {
         link: item.link[0],
         pubdate: item.pubDate[0],
         approx_traffic: item["ht:approx_traffic"]
-          ? item["ht:approx_traffic"][0]
-          : "N/A",
+          ? parseInt(item["ht:approx_traffic"][0].replace(/\D+/g, ""), 10) || 0
+          : 0,
         picture: item["ht:picture"] ? item["ht:picture"][0] : "N/A",
         picture_source: item["ht:picture_source"]
           ? item["ht:picture_source"][0]
@@ -48,6 +49,20 @@ export default async function crawl(data) {
           : [],
       }));
 
+      const maxTrend = trend.reduce(
+        (max, item) => (item.approx_traffic > max.approx_traffic ? item : max),
+        trend[0],
+      );
+
+      const x = {
+        country: countryName,
+        ISO: geoCode,
+        title: maxTrend.title,
+        link: maxTrend.news_items[0].url,
+        traffic: maxTrend.approx_traffic,
+      };
+
+      tableData.push(x);
       fs.writeFileSync(
         `./src/data/countries/${countryName}.json`,
         JSON.stringify(trend, null, 2),
@@ -58,6 +73,13 @@ export default async function crawl(data) {
     }
     await delay(1000); // Delay for 1 second between requests
   }
+
+  const res = {
+    lastUpdate: new Date().toISOString(),
+    data: tableData,
+  };
+  fs.writeFileSync(`./src/data/data.json`, JSON.stringify(res, null, 2));
+  // fs.writeFileSync(`./public/data/data.json`, JSON.stringify(res, null, 2));
   return "Crawl completed";
 }
 

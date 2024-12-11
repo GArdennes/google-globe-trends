@@ -12,10 +12,19 @@ export default function World() {
     // load data
     fetch(`../data/populatedmap.geojson`)
       .then((res) => res.json())
-      .then(({ features }) => setPlaces(features))
+      .then(({ features }) =>
+        setPlaces(
+          features.filter(
+            (feature) => feature.properties.featurecla === "Admin-0 capital",
+          ),
+        ),
+      )
       .catch((error) => {
         console.error("Error fetching data:", error);
       });
+    if (places && markers) {
+      dispatch({ type: "LOADED" });
+    }
   }, []);
 
   return (
@@ -28,10 +37,18 @@ export default function World() {
           labelLat={(d) => d.properties.latitude}
           labelLng={(d) => d.properties.longitude}
           labelText={(d) => d.properties.name}
-          labelSize={(d) => Math.sqrt(d.properties.pop_max) * 4e-4}
-          labelDotRadius={(d) => Math.sqrt(d.properties.pop_max) * 4e-4}
-          labelColor={() => "rgba(255, 165, 0, 0.75)"}
+          labelSize={() => 0.5}
+          labelDotRadius={() => 0.5}
+          labelColor={(d) =>
+            markers.find((m) => m.ISO === d.properties.iso_a2)
+              ? "rgba(255, 165, 0, 0.75)"
+              : "rgba(255, 0, 0, 0.75)"
+          }
           labelResolution={2}
+          onLabelClick={(d) => {
+            const marker = markers.find((m) => m.ISO === d.properties.iso_a2);
+            dispatch({ type: "FOCUS", payload: marker });
+          }}
         />
       </div>
       <Fade animationDuration={3000} className="cover" show={!hasLoaded} />

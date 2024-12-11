@@ -4,30 +4,42 @@ import { useStateValue } from "../state";
 import Button from "./button";
 import Fade from "./fade";
 
-function getSearchUrl(city, country, keyword) {
-  const formattedQuery = `${encodeURIComponent(city)}, ${encodeURIComponent(
-    country,
-  )} ${encodeURIComponent(keyword)}`.replace(/(%20| )/g, "+");
+function getSearchUrl(country, keyword) {
+  const formattedQuery = `${encodeURIComponent(country)} ${encodeURIComponent(
+    keyword,
+  )}`.replace(/(%20| )/g, "+");
   return `https://www.google.com/search?q=${formattedQuery}`;
 }
 
 export function getRandomMarker({ focusedMarker, markers }) {
-  const filteredMarkers = (markers || []).filter((marker) => {
-    return marker.id !== focusedMarker?.id;
-  });
-  return filteredMarkers[Math.floor(Math.random() * filteredMarkers.length)];
+  if (!markers || markers.length === 0) {
+    return null;
+  }
+
+  // Filter out the focused marker from the list of markers
+  const availableMarkers = markers.filter((marker) => marker !== focusedMarker);
+
+  // If there are no available markers, return null
+  if (availableMarkers.length === 0) {
+    return null;
+  }
+
+  // Select a random marker from the available markers
+  const randomIndex = Math.floor(Math.random() * availableMarkers.length);
+  return availableMarkers[randomIndex];
 }
 
 export default function Details() {
-  const [{ config, focusedMarker, markers, relatedTopics }, dispatch] =
-    useStateValue();
+  const [{ config, focusedMarker, markers }, dispatch] = useStateValue();
   const randomMarker = getRandomMarker({ focusedMarker, markers });
 
   let content;
   if (focusedMarker) {
-    const { city, countryCode, countryName, value } = focusedMarker;
-    const url = getSearchUrl(city, countryName, config.keyword);
-    const topics = relatedTopics[countryCode] || [];
+    const countryName = focusedMarker.country;
+    const countryCode = focusedMarker.ISO;
+    const value = focusedMarker.traffic;
+    const topics = focusedMarker.title;
+    const url = getSearchUrl(countryName, topics);
 
     content = (
       <>
@@ -42,22 +54,9 @@ export default function Details() {
           />
         </div>
         <div className="content">
-          <h2>
-            {city}, {countryName} ({value})
-          </h2>
+          <h1>{`${countryName}`}</h1>
           <div className="details-content">
-            RELATED TOPICS
-            {topics.map(({ topic, link }) => {
-              return (
-                <a
-                  key={topic}
-                  href={`https://trends.google.com${link}`}
-                  rel="noopener noreferrer"
-                  target="_blank">
-                  {topic}
-                </a>
-              );
-            })}
+            <p>{`Trending topic: ${topics} (Approximate traffic of ${value})`}</p>
           </div>
           <Button
             label="View search results"

@@ -3,7 +3,8 @@ import React, { createContext, useContext, useReducer } from "react";
 import config from "./config";
 import data from "./data/data.json";
 
-const { lastUpdated, relatedTopics, trends } = data;
+const lastUpdated = data.lastUpdate;
+const trends = data.data;
 
 export const initialState = {
   config,
@@ -11,7 +12,6 @@ export const initialState = {
   hasLoaded: false,
   lastUpdated,
   markers: trends,
-  relatedTopics,
   start: false,
 };
 
