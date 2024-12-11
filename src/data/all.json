@@ -75,7 +75,9 @@
     "intermediate-region": "",
     "region-code": "150",
     "sub-region-code": "039",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "latitude": 42.5000014435,
+    "longitude": 1.51648596051
   },
   {
     "name": "Angola",
@@ -647,7 +649,9 @@
     "intermediate-region": "Eastern Africa",
     "region-code": "002",
     "sub-region-code": "202",
-    "intermediate-region-code": "014"
+    "intermediate-region-code": "014",
+    "latitude": -11.7041576957,
+    "longitude": 43.2402440987
   },
   {
     "name": "Congo",
@@ -920,7 +924,9 @@
     "intermediate-region": "Southern Africa",
     "region-code": "002",
     "sub-region-code": "202",
-    "intermediate-region-code": "018"
+    "intermediate-region-code": "018",
+    "latitude": -26.4666674614,
+    "longitude": 31.1999971097    
   },
   {
     "name": "Ethiopia",
@@ -1531,7 +1537,9 @@
     "intermediate-region": "",
     "region-code": "009",
     "sub-region-code": "057",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "latitude": 1.33818750562,
+    "longitude": 173.017570829
   },
   {
     "name": "Korea, Democratic People's Republic of",
@@ -1700,7 +1708,9 @@
     "intermediate-region": "",
     "region-code": "150",
     "sub-region-code": "155",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "latitude": 49.6116603791,
+    "longitude": 6.13000280623
   },
   {
     "name": "Macao",
@@ -1804,7 +1814,9 @@
     "intermediate-region": "",
     "region-code": "009",
     "sub-region-code": "057",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "latitude": 7.10300431122,
+    "longitude": 171.380000176
   },
   {
     "name": "Martinique",
@@ -1882,7 +1894,9 @@
     "intermediate-region": "",
     "region-code": "009",
     "sub-region-code": "057",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "latitude": 6.91664369601,
+    "longitude": 158.149974324    
   },
   {
     "name": "Moldova, Republic of",
@@ -1908,7 +1922,9 @@
     "intermediate-region": "",
     "region-code": "150",
     "sub-region-code": "155",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "latitude": 43.7396456879,
+    "longitude": 7.40691317347
   },
   {
     "name": "Mongolia",
@@ -2207,7 +2223,9 @@
     "intermediate-region": "",
     "region-code": "009",
     "sub-region-code": "057",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "latitude": 7.48739617298,
+    "longitude": 134.626548467
   },
   {
     "name": "Palestine, State of",
@@ -3000,7 +3018,9 @@
     "intermediate-region": "",
     "region-code": "009",
     "sub-region-code": "061",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "latitude": -8.51665199904,
+    "longitude": 179.216647094    
   },
   {
     "name": "Uganda",
@@ -3195,7 +3215,9 @@
     "intermediate-region": "",
     "region-code": "002",
     "sub-region-code": "015",
-    "intermediate-region-code": ""
+    "intermediate-region-code": "",
+    "latitude": 26.119166686,
+    "longitude": -9.65252221825
   },
   {
     "name": "Yemen",

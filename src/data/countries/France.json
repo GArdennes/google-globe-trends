@@ -1,242 +1,304 @@
 [
   {
-    "title": "météo vigilance orange neige verglas",
+    "title": "maxime chattam",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:50:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyYMMDw3iV6hK0RfzfraADLT9clAxVHokSHEzfq10k6i4WGk4XxZ27TghMoQ",
-    "picture_source": "CNews",
+    "pubdate": "Wed, 11 Dec 2024 05:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJLs8miEO2nS4pK-M-tSKnBAyXvsMFBpfeaQOZFeB2LBNUUyT2pM4Bublo0-E",
+    "picture_source": "Télé-Loisirs",
     "news_items": [
       {
-        "title": "Neige-verglas : voici les 12 départements placés en vigilance jaune ce mardi",
+        "title": "\"J'accompagne ma femme\" : Maxime Chattam fait des confidences sur son quotidien avec Faustine Bollaert et leurs habitudes de couple",
         "snippet": "",
-        "url": "https://www.cnews.fr/france/2024-12-10/neige-verglas-voici-les-12-departements-places-en-vigilance-jaune-ce-mardi-1600647",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyYMMDw3iV6hK0RfzfraADLT9clAxVHokSHEzfq10k6i4WGk4XxZ27TghMoQ",
-        "source": "CNews"
+        "url": "https://www.programme-tv.net/news/people/366277-j-accompagne-ma-femme-maxime-chattam-fait-des-confidences-sur-son-quotidien-avec-faustine-bollaert-et-leurs-habitudes-de-couple/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJLs8miEO2nS4pK-M-tSKnBAyXvsMFBpfeaQOZFeB2LBNUUyT2pM4Bublo0-E",
+        "source": "Télé-Loisirs"
       },
       {
-        "title": "Ils sont bloqués dans leur voiture ensevelie par la neige, les secours arrivent à ski",
+        "title": "« Je serais tenté de répondre oui » : une intrusion sur le plateau du JT de RTL serait-elle possible, comme dans le roman de Maxime Chattam ? Luc Gilson répond !",
         "snippet": "",
-        "url": "https://www.20minutes.fr/monde/espagne/4128332-20241210-espagne-pieges-voiture-ensevelie-neige-sauves-secours-venus-ski",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0cxIYS-YbHAT-ZHgDTQVs3LAjbIpjKuixc7mvzNWAiGkNtGp7s67LUQQDLgU",
+        "url": "https://www.sudinfo.be/id927579/article/2024-12-11/je-serais-tente-de-repondre-oui-une-intrusion-sur-le-plateau-du-jt-de-rtl-serait",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRP3YCyTuip74uFNhCPSfyDQhryGKbNco6VuQbiQVp5w-BauMVp5EIMm_psUpE",
+        "source": "Sudinfo"
+      },
+      {
+        "title": "Maxime Chattam, fan de sa femme Faustine Bollaert : \"je regarde toutes ses émissions\"",
+        "snippet": "",
+        "url": "https://www.journaldesfemmes.fr/people/magazine/3208578-la-semaine-des-stars-people-decembre-slimane-pierre-palmade-loana/3209086-maxime-chattam-et-faustine-bollaert",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTA5rre72geidRCbYX2jl3ExwdiVYlzH5PmS6aSmqVaMj4dHabpbderbXZaTs",
+        "source": "Journal des Femmes"
+      }
+    ]
+  },
+  {
+    "title": "captagon drogue",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Wed, 11 Dec 2024 05:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXf7PKjdlHYoY_KycLDUWn63sF3Z2bwTCFdiFZX0ILf46yS0jmGQQfJ_JzfMY",
+    "picture_source": "L'Indépendant",
+    "news_items": [
+      {
+        "title": "DIRECT. Chute du régime de Bachar el-Assad en Syrie : le Premier ministre Mohammad al-Bachir appelle les Syriens de l'étranger à rentrer chez eux",
+        "snippet": "",
+        "url": "https://www.lindependant.fr/2024/12/11/chute-du-regime-de-bachar-el-assad-en-syrie-il-est-temps-pour-ce-peuple-de-jouir-de-la-stabilite-et-du-calme-a-annonce-le-nouveau-ministre-de-la-12384371.php",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXf7PKjdlHYoY_KycLDUWn63sF3Z2bwTCFdiFZX0ILf46yS0jmGQQfJ_JzfMY",
+        "source": "L'Indépendant"
+      },
+      {
+        "title": "Damas : la nouvelle vie des habitants",
+        "snippet": "",
+        "url": "https://www.tf1.fr/tf1/jt-13h/videos/damas-la-nouvelle-vie-des-habitants-98737148.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4kE_rZTuB1G0zps5LFCKGMMX68P4Ya49Rg9ZopuQ_tFwu_Svl2_Vcn2pW12k",
+        "source": "TF1+"
+      },
+      {
+        "title": "«Nous garantirons le droit de tous les peuples», assure le premier ministre de transition syrien Mohammed Al-Bachir",
+        "snippet": "",
+        "url": "https://www.lefigaro.fr/international/nous-garantirons-le-droit-de-tous-les-peuples-assure-le-premier-ministre-de-transition-syrien-mohammed-al-bachir-20241211",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI4lZPJo3S1stnFgOSCvEBOrjan5ath8N8wYFJwZ6MDdA5fgthz0Kw0H4uJgc",
+        "source": "Le Figaro"
+      }
+    ]
+  },
+  {
+    "title": "marine lorphelin",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Wed, 11 Dec 2024 05:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKI3dnCGloKv9IZm2agV-qNNlZbO_UuNHeX8R3h4NoK-T32W2V-nfw-oWj-hY",
+    "picture_source": "20 Minutes",
+    "news_items": [
+      {
+        "title": "Miss France : Que sont-elles devenues ?",
+        "snippet": "",
+        "url": "https://www.20minutes.fr/television/miss_france/diaporama-4128103-miss-france-elles-devenues",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKI3dnCGloKv9IZm2agV-qNNlZbO_UuNHeX8R3h4NoK-T32W2V-nfw-oWj-hY",
         "source": "20 Minutes"
       },
       {
-        "title": "Alerte Météo : Fortes chutes de neige sur les Pyrénées et risque d'avalanche",
+        "title": "QUIZ. C'est bientôt l'élection de Miss France 2025 : que sont devenues ces anciennes miss ?",
         "snippet": "",
-        "url": "https://actualite.lachainemeteo.com/alerte-meteo/8257-fortes-chutes-de-neige-sur-les-pyrenees-et-risque-d-avalanche",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuTbO6qlMgDGW0zDx0mg4QSvZQ0IzK1S92QbY87v_bZfz5dwevBcebvopcwLQ",
-        "source": "La Chaîne Météo"
+        "url": "https://actu.fr/loisirs-culture/quiz-c-est-bientot-miss-france-2025-que-sont-devenues-ces-anciennes-miss_61916070.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnaaGEB1grMP7BtZ-I-QBANZ3H0pnh2OAW7QD1q-zpk727nuLr7_QgX_CyhbQ",
+        "source": "Actu.fr"
+      },
+      {
+        "title": "Télévision, cinéma, égéries… Quel parcours ont suivi les Miss France après leur sacre ? par Centre Presse",
+        "snippet": "",
+        "url": "https://www.poitevins.fr/centre-presse/actu/153033",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlFJQES1G5t5wVgmWMsDaFrdxFSrcCP2bv1egFS7_UoDQkiKyCLyfKRplEtzA",
+        "source": "Poitevins.fr"
       }
     ]
   },
   {
-    "title": "brignoles",
+    "title": "epic games",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:50:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5d1VtVtyKR4AatpMto4WGqroHYELJ6DgB7IxmCEMcNnqPaqHvipFJAUe1a2Y",
-    "picture_source": "mesinfos",
+    "pubdate": "Wed, 11 Dec 2024 05:00:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAR_WIPf_tVLkxwfR8qrlo7cHED0nefxE36ekZkamUnTTo3vLMf2KwbOvtkBA",
+    "picture_source": "Federal Trade Commission (.gov)",
     "news_items": [
       {
-        "title": "Plus grand et tout neuf, le cinéma Liberté prend place à Brignoles",
+        "title": "Refunds on the way for Fortnite gamers charged for unwanted items",
         "snippet": "",
-        "url": "https://mesinfos.fr/83170-brignoles/plus-grand-et-tout-neuf-le-cinema-liberte-prend-place-a-brignoles-212030.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5d1VtVtyKR4AatpMto4WGqroHYELJ6DgB7IxmCEMcNnqPaqHvipFJAUe1a2Y",
-        "source": "mesinfos"
+        "url": "https://consumer.ftc.gov/consumer-alerts/2024/12/refunds-way-fortnite-gamers-charged-unwanted-items",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAR_WIPf_tVLkxwfR8qrlo7cHED0nefxE36ekZkamUnTTo3vLMf2KwbOvtkBA",
+        "source": "Federal Trade Commission (.gov)"
       },
       {
-        "title": "George et Amal Clooney : à quoi ressemble leur sublime maison du Var ?",
+        "title": "The US will pay $72 million in compensation to victims of “dark schemes” of the Fortnite game",
         "snippet": "",
-        "url": "https://www.closermag.fr/people/george-et-amal-clooney-a-quoi-ressemble-leur-sublime-maison-du-var-3376550",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6eKldi-bf3zK4732Vb9ScC6IBFkISDfYuLMzP2XbAlj9o5i9pOi8GDu93-Sw",
-        "source": "Closer"
+        "url": "https://babel.ua/en/news/113472-the-us-will-pay-72-million-in-compensation-to-victims-of-dark-schemes-of-the-fortnite-game",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBI7y4sD0cDAF301Gf-b_yL_HU7Lirct4s-ApnQzEXv1DozHxqAMPoATnF4A8",
+        "source": "Бабель"
       },
       {
-        "title": "George Clooney, de passage au McDonald's de Brignoles, prend la pose avec les employés",
+        "title": "How to get your cut of $245 million Fortnight settlement",
         "snippet": "",
-        "url": "https://www.laprovence.com/article/region/2395777060619915/george-clooney-de-passage-au-mcdonalds-de-brignoles-prend-la-pose-avec-les-employes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSLgX0vGeoOxZas8fArz-fJUhft68RV8H4FZWmkW2HGu5BS-kWMW0kQQTxzyw",
+        "url": "https://tribuneonlineng.com/how-to-get-your-cut-of-245-million-fortnight-settlement/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTc_8xXhCxv5h8San-_4CQauMkzAANLjsWV4rzLXVsemUehha6F8tIzfckOtSk",
+        "source": "Tribune Online"
+      }
+    ]
+  },
+  {
+    "title": "benguigui catherine",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Wed, 11 Dec 2024 04:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_y3MdFm1L4W8uamco5viN47bht6ALlOYNdxK6jsCkVU3xr4LY49lDkbYvCVY",
+    "picture_source": "Télé-Loisirs",
+    "news_items": [
+      {
+        "title": "Catherine Benguigui (Demain nous appartient) : Ce salaire à cinq chiffres qu'elle touche dans la série de TF1",
+        "snippet": "",
+        "url": "https://www.programme-tv.net/news/people/366813-catherine-benguigui-demain-nous-appartient-ce-salaire-a-cinq-chiffres-qu-elle-touche-dans-la-serie-de-tf1/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_y3MdFm1L4W8uamco5viN47bht6ALlOYNdxK6jsCkVU3xr4LY49lDkbYvCVY",
+        "source": "Télé-Loisirs"
+      },
+      {
+        "title": "Des techniciens virés de Demain nous appartient pour leur comportement : \"Il y a eu des problèmes...\", révèle Catherine Benguigui (VIDEO)",
+        "snippet": "",
+        "url": "https://www.programme-television.org/news/tv/sequences-tele/des-techniciens-vires-de-demain-nous-appartient-pour-leur-comportement-il-y-a-eu-des-problemes-revele-catherine-benguigui-video-4735871",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyJilWe--dX_Noc1B-zrzlmbuHURtC5C3JydBVCP_Ih-aimjz-3g9JHasldic",
+        "source": "Télé 7 Jours"
+      },
+      {
+        "title": "Demain nous appartient : \"Des gens virés\" après des comportements déplacés, Catherine Benguigui raconte",
+        "snippet": "",
+        "url": "https://www.telestar.fr/serie_tv/demain-nous-appartient-des-gens-vires-apres-des-comportements-deplaces-catherine-benguigui-raconte-1701119",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsVwy8MHzndL0Bq9wUhUyHoIMV9kC0Rez0UhpVZVqNBgqi_O6eVWfl99l8L-s",
+        "source": "Télé Star"
+      }
+    ]
+  },
+  {
+    "title": "parc asterix",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Wed, 11 Dec 2024 04:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS__oboJOmLqJjOur2zpyDwClV7BMQvLbz5yjuOVRLGT9rAHn6HDR6bIWwhtyU",
+    "picture_source": "Europe 2",
+    "news_items": [
+      {
+        "title": "Gagnez vos places pour le Parc Astérix avec Europe 2 !",
+        "snippet": "",
+        "url": "https://www.europe2.fr/jeux-concours/gagnez-vos-places-pour-le-parc-asterix-avec-europe-2-4-131828.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS__oboJOmLqJjOur2zpyDwClV7BMQvLbz5yjuOVRLGT9rAHn6HDR6bIWwhtyU",
+        "source": "Europe 2"
+      },
+      {
+        "title": "Laura Smet, Louis Garrel, Camille Cottin, Faustine Bollaert, Nagui… Leur Noël Gaulois au Parc Astérix",
+        "snippet": "",
+        "url": "https://www.parismatch.com/people/laura-smet-louis-garrel-camille-cottin-faustine-bollaert-nagui-leur-noel-gaulois-au-parc-asterix-244420",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGF-rIMn_CFDX6QWTwv_UWFePVLu8xT9w9cJmL4ucys-ChbL5QST48ni3G2xE",
+        "source": "parismatch.com"
+      },
+      {
+        "title": "On a goûté aux nouveautés culinaires du Parc Astérix pour Noël et, franchement, on s’est régalés",
+        "snippet": "",
+        "url": "https://www.konbini.com/lifestyle/on-a-goute-aux-nouveautes-culinaires-du-parc-asterix-pour-noel-et-franchement-on-sest-regales/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxXlMuLD4ihUAueRHzsgE2mScq9F07_lXVTYD4gyjsZ3mADkfBdL53nxkPAcY",
+        "source": "Konbini"
+      }
+    ]
+  },
+  {
+    "title": "digne les bains",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Wed, 11 Dec 2024 04:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOnzNeEVH2UlySdVR109YoSgqkFxQJsA6xKEJ34Ip6BNTYdm5sOHPs7m9tMJM",
+    "picture_source": "Le Dauphiné",
+    "news_items": [
+      {
+        "title": "Alpes-de-Haute-Provence. Municipales : Julien Di Benedetto, premier à se présenter à Digne-les-Bains",
+        "snippet": "",
+        "url": "https://www.ledauphine.com/politique/2024/12/11/julien-di-benedetto-est-le-premier-candidat-aux-municipales-de-digne",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOnzNeEVH2UlySdVR109YoSgqkFxQJsA6xKEJ34Ip6BNTYdm5sOHPs7m9tMJM",
+        "source": "Le Dauphiné"
+      },
+      {
+        "title": "Municipales 2026 : à Digne-les-Bains, Julien Di Benedetto, candidat surprise pour être maire \"à plein temps\"",
+        "snippet": "",
+        "url": "https://www.laprovence.com/article/region/2369823685087615/municipales-2026-a-digne-les-bains-julien-di-benedetto-candidat-surprise-pour-etre-maire-a-plein-temps",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv8SVFs7VX7L9vuyMWuyzMv_PojnBGNGdAX2Yhrp50xwfP3MqhlDHsZWGu_vk",
         "source": "La Provence"
-      }
-    ]
-  },
-  {
-    "title": "horoscopes christine haas",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:40:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6LyaMWk9KV3OdAlDNar3ve9-tdqyNfbSo5vu6CrM0iUM2rgwD6X0IaFdW5Ko",
-    "picture_source": "France Bleu",
-    "news_items": [
-      {
-        "title": "L'horoscope du mardi 10 décembre 2024",
-        "snippet": "",
-        "url": "https://www.francebleu.fr/emissions/l-horoscope-de-catherine-viguie/l-horoscope-du-mardi-10-decembre-2024-7751216",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6LyaMWk9KV3OdAlDNar3ve9-tdqyNfbSo5vu6CrM0iUM2rgwD6X0IaFdW5Ko",
-        "source": "France Bleu"
       },
       {
-        "title": "L'horoscope de la semaine du 11 au 17 décembre 2024",
+        "title": "Digne-les-Bains. Municipales 2026 : Julien Di Benedetto annonce sa candidature",
         "snippet": "",
-        "url": "https://www.pointdevue.fr/lifestyle/astrologie/lhoroscope-de-la-semaine-du-11-au-17-decembre-2024",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkY0vsfzbY7YHDc1iJAPjxXT03j1gYhzk61IRVJk78ya4g9RGg0n3zVfOLZtQ",
-        "source": "Point de Vue"
-      },
-      {
-        "title": "Horoscope du Mardi 10 décembre 2024 : prévisions signe par signe pour aujourd’hui",
-        "snippet": "",
-        "url": "https://www.sudouest.fr/horoscope/horoscope-du-mardi-10-decembre-2024-previsions-signe-par-signe-pour-aujourd-hui-22470669.php",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAHWGgwo-V15rpLs6tHk0IQbZ1T7CNV5Tjz4qtGO0ExbVmUlHY_jW3zZxLvPQ",
-        "source": "Sud Ouest"
-      }
-    ]
-  },
-  {
-    "title": "pouillon",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:40:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc4g_c4S3F39V_gjCJ7AsSAG6vzumqlEvcheqVe9otepfwsOlHeKNOsRf7-MU",
-    "picture_source": "Sud Ouest",
-    "news_items": [
-      {
-        "title": "Pouillon : le Club de gymnastique volontaire poursuit sa belle aventure",
-        "snippet": "",
-        "url": "https://www.sudouest.fr/landes/pouillon/pouillon-le-club-de-gymnastique-volontaire-poursuit-sa-belle-aventure-22468631.php",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc4g_c4S3F39V_gjCJ7AsSAG6vzumqlEvcheqVe9otepfwsOlHeKNOsRf7-MU",
-        "source": "Sud Ouest"
-      },
-      {
-        "title": "Seyssinet-Pariset. ACS gymnastique volontaire : « Le mouvement, c’est la vie »",
-        "snippet": "",
-        "url": "https://www.ledauphine.com/societe/2024/12/08/acs-gymnastique-volontaire-le-mouvement-c-est-la-vie",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8794hp1vgflh60PUf8c70UYQGwP1KAhgSb_X--upm26ZKuZnYuILkkCciF6I",
-        "source": "Le Dauphiné Libéré"
-      },
-      {
-        "title": "Les Mées. La gymnastique volontaire en assemblée générale",
-        "snippet": "",
-        "url": "https://www.hauteprovenceinfo.com/actualite-45645-les-mees-la-gymnastique-volontaire-en-assemblee-generale",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8zoYFUjYdwiCOeSmr01RdBOkm0JwhPkbbwFitIqOq6_tLBVAQ5mAfdM3AcPE",
+        "url": "https://www.hauteprovenceinfo.com/actualite-45678-digne-les-bains-municipales-2026-julien-di-benedetto-annonce-sa-candidature",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAp537y97BhPF3wjlIW4SKC5tR6Z7tD9ovR8hVFlUz52OjllOBMsS_myt_XE",
         "source": "hauteprovenceinfo.com"
       }
     ]
   },
   {
-    "title": "macaulay culkin",
+    "title": "incendie marché de noël bordeaux",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:40:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX-yeckdNStnThcx40cx-yAcon4L_y0BcYkyl-a5_sJtPqhGmolkNNViqqzto",
-    "picture_source": "E! Online",
-    "news_items": [
-      {
-        "title": "Kieran Culkin Shares Why He Won't Let His Kids Watch Brother Macaulay Culkin's Home Alone Movies - E! Online",
-        "snippet": "",
-        "url": "https://www.eonline.com/news/1410655/kieran-culkin-shares-why-he-wont-let-his-kids-watch-brother-macaulay-culkins-home-alone-movies",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX-yeckdNStnThcx40cx-yAcon4L_y0BcYkyl-a5_sJtPqhGmolkNNViqqzto",
-        "source": "E! Online"
-      },
-      {
-        "title": "Macaulay Culkin's famous brother had no idea he starred in Christmas favourite Home Alone",
-        "snippet": "",
-        "url": "https://www.mirror.co.uk/3am/celebrity-news/macaulay-culkins-famous-brother-no-34266167",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD894CI8brVj8Mkv2LebE1TDRfqnPLKPmoLXEp-hFDfqsW_Ga1nWgTjw9kM5A",
-        "source": "The Mirror"
-      },
-      {
-        "title": "‘I Had No Idea What The Movie Was...’: Home Alone Star Keiran Culkin Reveals His Experience Of Working On Popular Christmas Film",
-        "snippet": "",
-        "url": "https://www.pinkvilla.com/entertainment/hollywood/i-had-no-idea-what-the-movie-was-home-alone-star-keiran-culkin-reveals-his-experience-of-working-on-popular-christmas-film-1361286",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvnKPhqTcCIfG5epe5p7yyTdMKfCti1Kjy4ARzudISL0ug6k81_wiFwwxiMIY",
-        "source": "Pinkvilla"
-      }
-    ]
-  },
-  {
-    "title": "marolles les braults",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:20:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLp4LJZ7BuzU6layRYwNxHLr-e2HIJ7ubWUiENOrQ4RULGvCsemrSU9glQ-mw",
+    "pubdate": "Wed, 11 Dec 2024 04:20:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQahwvgB-5T3z4RJPFJKa1WKyodjYDoKMskT1-1JiKRCR5iJ6NE0eviGh-01sw",
     "picture_source": "Sud Ouest",
     "news_items": [
       {
-        "title": "Insolite : un défilé de tracteurs illuminés aux couleurs de Noël se prépare en Pays de Duras",
+        "title": "VIDEO. Incendie à Bordeaux : deux chalets du marché de Noël prennent feu sur la place des Quinconces",
         "snippet": "",
-        "url": "https://www.sudouest.fr/lot-et-garonne/duras/insolite-un-defile-de-tracteurs-illumines-aux-couleurs-de-noel-se-prepare-en-pays-de-duras-22394430.php",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLp4LJZ7BuzU6layRYwNxHLr-e2HIJ7ubWUiENOrQ4RULGvCsemrSU9glQ-mw",
+        "url": "https://www.sudouest.fr/gironde/bordeaux/video-un-stand-du-marche-de-noel-de-bordeaux-prend-feu-22485609.php",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQahwvgB-5T3z4RJPFJKa1WKyodjYDoKMskT1-1JiKRCR5iJ6NE0eviGh-01sw",
         "source": "Sud Ouest"
       },
       {
-        "title": "Noël. Les agriculteurs du Pas-de-Calais vont traverser vos communes avec des tracteurs illuminés ce samedi",
+        "title": "Incendie au marché de Noël de Bordeaux : on sait quand rouvre le marché après la destruction de deux chalets",
         "snippet": "",
-        "url": "https://actu.fr/loisirs-culture/noel-les-agriculteurs-du-pas-de-calais-vont-traverser-vos-communes-avec-des-tracteurs-illumines-ce-samedi_61981022.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYZfvirfmf_4TR9IwREuRoE2VQdR5WHiAylDWL4d5cC07t7aRMH3dA5fyw2n0",
+        "url": "https://actu.fr/nouvelle-aquitaine/bordeaux_33063/incendie-au-marche-de-noel-de-bordeaux-on-sait-quand-rouvre-le-marche-apres-la-destruction-de-deux-chalets_61988127.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYETmms5_4tdiTxt-LV3u6B8mXphK17GFPaAQqbuNnjy0ynx0jqFvD5SVumZU",
         "source": "Actu.fr"
       },
       {
-        "title": "La parade des tracteurs illuminés revient en pays du Guinefort près de Dinan vendredi soir",
+        "title": "Un impressionnant incendie se déclare dans un cabanon du marché de Noël, un second chalet touché",
         "snippet": "",
-        "url": "https://www.letelegramme.fr/cotes-d-armor/dinan-22100/la-parade-des-tracteurs-illumines-revient-en-pays-du-guinefort-pres-de-dinan-vendredi-soir-6720928.php",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqPqrc242uBjaS3qNdaJprbvO905AydBeh1JZQqrVxHT4ppZSFVw8CuXX7sVQ",
-        "source": "Le Télégramme"
+        "url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/un-impressionnant-incendie-se-declare-dans-un-cabanon-du-marche-de-noel-d-autres-chalets-touches-3074617.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSXJ9ICwMtcLuLr8nUrat-GmZ_9oVwMgkPKJe1w2Ciq69rsI5L3uNheG2BVYE",
+        "source": "France 3 Régions"
       }
     ]
   },
   {
-    "title": "gl events",
+    "title": "thiberville",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:10:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-uZifnU0R31y0E8JVgqTf_eilUBqOtNqMDBmDm3nIddKsk0ROM3z24ldPxlc",
-    "picture_source": "Le Monde.fr",
+    "pubdate": "Wed, 11 Dec 2024 04:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSljsx31DvbthCEkpriNfvQ6RmdfxTSAGK8lNdQkqAng45TAHzFt6ZjLYZJQGU",
+    "picture_source": "Actu.fr",
     "news_items": [
       {
-        "title": "L’Etat entre en négociations exclusives avec la société GL Events pour la concession du Stade de France",
+        "title": "Cette petite commune de Normandie reçoit dix millions d'euros... d'un inconnu",
         "snippet": "",
-        "url": "https://www.lemonde.fr/sport/article/2024/12/10/l-etat-entre-en-negociations-exclusives-avec-la-societe-gl-events-pour-la-concession-du-stade-de-france_6440233_3242.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-uZifnU0R31y0E8JVgqTf_eilUBqOtNqMDBmDm3nIddKsk0ROM3z24ldPxlc",
-        "source": "Le Monde.fr"
+        "url": "https://actu.fr/normandie/thiberville_27629/cette-petite-commune-de-normandie-recoit-dix-millions-deuros-dun-inconnu_61962325.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSljsx31DvbthCEkpriNfvQ6RmdfxTSAGK8lNdQkqAng45TAHzFt6ZjLYZJQGU",
+        "source": "Actu.fr"
       },
       {
-        "title": "Vinci perd la concession du Stade de France, quelles conséquences pour le Matmut Atlantique à Bordeaux ?",
+        "title": "Un inconnu lègue plus de 10 millions d'euros à une petite commune de l'Eure",
         "snippet": "",
-        "url": "https://www.sudouest.fr/gironde/bordeaux/vinci-perd-la-concession-du-stade-de-france-quelles-consequences-pour-le-matmut-a-bordeaux-22473758.php",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPtS9vAyki156rQXzaayfDTWotCbqgl7IyGS0K2oAUO2wtQZMHYQ4nzF1aeYo",
-        "source": "Sud Ouest"
-      },
-      {
-        "title": "Concession du Stade de France : GL Events préféré à Vinci-Bouygues",
-        "snippet": "",
-        "url": "https://sports.orange.fr/football/autres/article/concession-du-stade-de-france-gl-events-prefere-a-vinci-bouygues-CNT000002gE7c0.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH6_t3Pb3vqrJCX8Xa_UCwIJJtmyrYfOzyOnRR6xg9x2fRl65KN8fcYpI5-Yk",
+        "url": "https://actu.orange.fr/videos/actu-locale/un-inconnu-legue-plus-de-10-millions-d-euros-a-une-petite-commune-de-l-eure-CNT000002gEZRH.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrgEJe1RzWN_AI1APIQr3CmIm4XKb1MoJgQDZETJXGA2xpb_s_vJK4hKkpqzU",
         "source": "Orange"
+      },
+      {
+        "title": "Eure: un inconnu lègue plus de 10 millions d'euros à une petite commune qui porte son nom",
+        "snippet": "",
+        "url": "https://www.bfmtv.com/normandie/eure-un-inconnu-legue-plus-de-10-millions-d-euros-a-une-petite-commune-qui-porte-son-nom_AN-202412110456.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD9TyqjlfMAQZuDXGQNkwOoJmAZsaM-1ldbCUtLEUfowzwhwKhfQUxB-ooUhI",
+        "source": "BFMTV"
       }
     ]
   },
   {
-    "title": "miss guadeloupe 2025",
+    "title": "miss france 2025 candidates",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:10:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREmxCMK2BjKCsAmjfFwsyr_4jhGo-zNGxsUybdWgmrW5UnHMC3n09lUa04av8",
-    "picture_source": "Sud Ouest",
+    "pubdate": "Wed, 11 Dec 2024 04:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArASgQhzmaenHyr6Y52vUEc0rqN6VP_dqYQkojo_CD92sXhFF31JcLiUn_4M",
+    "picture_source": "ladepeche.fr",
     "news_items": [
       {
-        "title": "EN IMAGES. Miss France 2025 : de Miss Aquitaine à Miss Bretagne... découvrez les 30 candidates",
+        "title": "Miss France 2025 : yaourt, photos dénudées, caractère… quand la polémique s’empare du concours",
         "snippet": "",
-        "url": "https://www.sudouest.fr/culture/programmes-tv/miss-france/en-images-miss-france-2025-de-miss-aquitaine-a-miss-bretagne-decouvrez-les-30-candidates-22412756.php",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREmxCMK2BjKCsAmjfFwsyr_4jhGo-zNGxsUybdWgmrW5UnHMC3n09lUa04av8",
-        "source": "Sud Ouest"
+        "url": "https://www.ladepeche.fr/2024/12/11/miss-france-2025-yaourt-photos-denudees-caractere-quand-la-polemique-sempare-du-concours-12371246.php",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArASgQhzmaenHyr6Y52vUEc0rqN6VP_dqYQkojo_CD92sXhFF31JcLiUn_4M",
+        "source": "ladepeche.fr"
       },
       {
-        "title": "Quand l’IA prédit la victoire de Miss France 2025",
+        "title": "Miss France 2025 : cette candidate qui bouscule les codes du concours",
         "snippet": "",
-        "url": "https://www.lepoint.fr/culture/une-intelligence-artificielle-pense-savoir-qui-va-gagner-miss-france-2025--10-12-2024-2577609_3.php",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBwso8JkYEJY_Y1XvIoCLz8tKClT3S1JsnnHYCUAMHFvItFGgOlGxBuc4P3G0",
-        "source": "Le Point"
+        "url": "https://madame.lefigaro.fr/beaute/miss-france-2025-cette-candidate-qui-bouscule-les-codes-du-concours-20241211",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5hmQ2H1KP7Lnv47HcD0JfA0s7cdLZ5DgC3OzDMl3XP2y1uAzla0iD68_7sqc",
+        "source": "Madame Figaro"
       },
       {
         "title": "Miss Guadeloupe va devenir Miss France 2025 (selon une IA prédictive)",
@@ -244,68 +306,6 @@
         "url": "https://www.20minutes.fr/arts-stars/television/miss_france/4128241-20241210-miss-france-2025-miss-guadeloupe-va-emporter-selon-ia-predictive",
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0VLhBc383-l4d7dgeyJSrVpm7UHupjPLV8rCRkRn-naHKIh8bYy2AuCTKhwg",
         "source": "20 Minutes"
-      }
-    ]
-  },
-  {
-    "title": "vittozzi",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:00:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSR4_K4z1SapIkEhFA7JWxwJiJsCKeim3EmvgVqxWfGmm8jTl7LwJX60NI6_Ws",
-    "picture_source": "Eurosport",
-    "news_items": [
-      {
-        "title": "Biathlon : Lisa Vittozzi reporte à janvier son retour en Coupe du monde",
-        "snippet": "",
-        "url": "https://www.eurosport.fr/biathlon/biathlon-lisa-vittozzi-reporte-a-janvier-son-retour-en-coupe-du-monde_sto20061454/story.shtml",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSR4_K4z1SapIkEhFA7JWxwJiJsCKeim3EmvgVqxWfGmm8jTl7LwJX60NI6_Ws",
-        "source": "Eurosport"
-      },
-      {
-        "title": "Biathlon – Coupe du monde (F) : Vittozzi ne reviendra pas avant 2025",
-        "snippet": "",
-        "url": "https://www.msn.com/fr-fr/sport/other/biathlon-coupe-du-monde-f-vittozzi-ne-reviendra-pas-avant-2025/ar-AA1vwTJa",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR260kZv3fSyiU43btlx7FhdrTij7ojLXhY0wjAP_BpLYPTePtEjP4-4_8oNPY",
-        "source": "MSN"
-      },
-      {
-        "title": "Biathlon. Coupe du monde : Lisa Vittozzi fait une croix sur Hochfilzen et le Grand-Bornand",
-        "snippet": "",
-        "url": "https://www.ledauphine.com/skichrono/2024/12/09/lisa-vittozzi-fait-une-croix-sur-hochfilzen-et-le-grand-bornand",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxHhp2bJOnxLfftkx32He_WVtbnOocVv9qEIC5pbcbUM81mMxHd3fChh2LfFM",
-        "source": "Le Dauphiné Libéré"
-      }
-    ]
-  },
-  {
-    "title": "shen yun",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Tue, 10 Dec 2024 04:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1stmlpO4pyXi78Fq8BebzFqH5oRQpSg-CnI_uAHvxAW0rnAURwWo4Caz03jc",
-    "picture_source": "FOX 11 Los Angeles",
-    "news_items": [
-      {
-        "title": "Lawsuit alleges that young dancers for Shen Yun Performing Arts have faced abuse",
-        "snippet": "",
-        "url": "https://www.foxla.com/news/shen-yun-lawsuit-dancers-faced-abuse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1stmlpO4pyXi78Fq8BebzFqH5oRQpSg-CnI_uAHvxAW0rnAURwWo4Caz03jc",
-        "source": "FOX 11 Los Angeles"
-      },
-      {
-        "title": "Chinese dance spectacular, Shen Yun faces allegations of child trafficking and abuse",
-        "snippet": "",
-        "url": "https://johnmenadue.com/chinese-dance-spectacular-shen-yun-faces-allegations-of-child-trafficking-and-abuse/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKs5_Mm8oFJ3MQRV_0MeF7ijD8pOMIrQkTx28AMTIiEZDDRSQzMC_V5xftUQk",
-        "source": "Pearls and Irritations"
-      },
-      {
-        "title": "CCP’s Attacks on Shen Yun Performing Arts Threaten Foundations of American Freedoms: Investigative Reporter",
-        "snippet": "",
-        "url": "https://www.ntd.com/ccps-attacks-on-shen-yun-performing-arts-threaten-foundations-of-american-freedoms-investigative-reporter_1033129.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrpe-pyYFItLWZbJ6uXDyyhgTU_X4qXRn60Q1Sa-jrSqcB4_ATsYLTrNmi94Y",
-        "source": "NTD News"
       }
     ]
   }

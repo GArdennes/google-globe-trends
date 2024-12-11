@@ -1,280 +1,311 @@
 [
   {
-    "title": "andrej kiska",
+    "title": "hromadna nehoda d1",
     "link": "https://trends.google.com/trending/rss?geo=SK",
-    "pubdate": "Tue, 10 Dec 2024 04:10:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkfOkrs0wL3nS-cSBzPuOIeeqTLV2PduVRhCmDbB96aUYH9bDHZjpPUNKEpgk",
-    "picture_source": "blog.sme.sk",
+    "pubdate": "Wed, 11 Dec 2024 05:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-r5jR4fEap9qusthQIVipS6rWTXsUKc3uQTrOtVv-BfycQfczW1b-YcY3_k",
+    "picture_source": "TVnoviny",
     "news_items": [
       {
-        "title": "Matúškov prezidentský právoplatne odsúdený daňový podvodník.",
+        "title": "Hromadná nehoda na D1. Diaľnica bola hodiny neprejazdná, zasahoval aj \nvrtuľník",
         "snippet": "",
-        "url": "https://blog.sme.sk/cani/politika/matuskov-prezidentsky-pravoplatne-odsudeny-danovy-podvodnik",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkfOkrs0wL3nS-cSBzPuOIeeqTLV2PduVRhCmDbB96aUYH9bDHZjpPUNKEpgk",
-        "source": "blog.sme.sk"
+        "url": "https://tvnoviny.sk/domace/clanok/940557-hromadna-nehoda-na-d1-dialnica-bola-hodiny-neprejazdna-zasahoval-aj-vrtulnik",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-r5jR4fEap9qusthQIVipS6rWTXsUKc3uQTrOtVv-BfycQfczW1b-YcY3_k",
+        "source": "TVnoviny"
       },
       {
-        "title": "Kiska vypenil! Podáva žalobu na Kanceláriu prezidenta SR: Je mi to trápne, \nba až smutné",
+        "title": "Diaľnica D1 je neprejazdná. V smere do Trnavy prišlo k dopravnej nehode",
         "snippet": "",
-        "url": "https://www.topky.sk/cl/10/2918795/Kiska-vypenil--Podava-zalobu-na-Kancelariu-prezidenta-SR--Je-mi-to-trapne--ba-az-smutne",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTC1CTDuhtQcklCLGRfOgr9ADAb6H7qfMx9BIL6yH3VS3lyxLrzsLRo2RTowqI",
+        "url": "https://mytrnava.sme.sk/c/23422674/dialnica-d1-je-neprejazdna-v-smere-do-trnavy-prislo-k-dopravnej-nehode.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScswcKgKRTR_-C9B2Yj1yWVnR1l1thFeyaPhNYV7z5FyXSKXlhZWflwvsx6Gs",
+        "source": "mytrnava.sme.sk"
+      },
+      {
+        "title": "AKTUÁLNE: Na diaľnici D1 došlo k zrážke áut a nákladného auta. Na mieste \nzasahoval vrtuľník",
+        "snippet": "",
+        "url": "https://news.refresher.sk/172353-AKTUALNE-Na-dialnici-D1-doslo-k-zrazke-aut-a-nakladneho-auta-Na-mieste-zasahoval-vrtulnik",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcW2ayTXcnUpKjiszitKvHbFGoNj4edzcCPGjqLOJooV9B9dWSEOE8w1Nw3Zg",
+        "source": "Refresher News"
+      }
+    ]
+  },
+  {
+    "title": "taiwan",
+    "link": "https://trends.google.com/trending/rss?geo=SK",
+    "pubdate": "Wed, 11 Dec 2024 05:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSDChmzpu6Qk2RD2tLInlIFfeXGnJ1v3O0olaQym6kdklOkU1x2hkz2BS_eUw",
+    "picture_source": "HNonline",
+    "news_items": [
+      {
+        "title": "Taiwan žiada Peking, aby ukončil vojenské manévre v okolí ostrova",
+        "snippet": "",
+        "url": "https://hnonline.sk/svet/96184094-taiwan-ziada-peking-aby-ukoncil-vojenske-manevre-v-okoli-ostrova",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSDChmzpu6Qk2RD2tLInlIFfeXGnJ1v3O0olaQym6kdklOkU1x2hkz2BS_eUw",
+        "source": "HNonline"
+      },
+      {
+        "title": "V okolí Taiwanu za uplynulý deň zaznamenali 47 čínskych lietadiel a 12 lodí",
+        "snippet": "",
+        "url": "https://www.topky.sk/cl/11/2919659/V-okoli-Taiwanu-za-uplynuly-den-zaznamenali-47-cinskych-lietadiel-a-12-lodi",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9KzXEzJdTSMYXa1TSf61PL0OtzUTmDNnVB2fGG6VUNq7-LhnRic4IMNxYPPc",
         "source": "Topky.sk"
       },
       {
-        "title": "Andrej Kiska žaluje kanceláriu prezidenta. Stopli mu doživotnú rentu",
+        "title": "Taiwan hlási vysoký počet čínských vojenských letadel a lodí v okolí \nostrova – Správy",
         "snippet": "",
-        "url": "https://www.aktuality.sk/clanok/cwQkL5h/andrej-kiska-zaluje-kancelariu-prezidenta-stopli-mu-dozivotnu-rentu/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTue8NiLf9O0eI6Tc8AyAjo51KvFQ66eRgAEGHXRiPY0vaE8nnnHhtYOLu4v90",
+        "url": "https://www.aktuality.sk/clanok/N9DHE8v/taiwan-hlasi-vysoky-pocet-cinskych-vojenskych-letadel-a-lodi-v-okoli-ostrova/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ3kQNV68a_UnD5ys4td4SuYGr4ZbbbTZEkvs2NR5LpMCUipINtnuBNd6T2U8",
         "source": "Aktuality"
       }
     ]
   },
   {
-    "title": "unicredit",
+    "title": "megan fox",
     "link": "https://trends.google.com/trending/rss?geo=SK",
-    "pubdate": "Tue, 10 Dec 2024 01:10:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg926zihTQ2BIixGEA8a8qjTACPck3HicY5cMEZb5o6z9px5d99KIRCxXSEhs",
-    "picture_source": "Yahoo Finance",
+    "pubdate": "Wed, 11 Dec 2024 04:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3nHWx5jlybzh9rJTtUqtoGPKD3EiV58cEYYLlgArZzddM0aQGVYfmYdhS43k",
+    "picture_source": "TMZ",
     "news_items": [
       {
-        "title": "UniCredit says ready to sit down with Credit Agricole over Banco BPM",
+        "title": "Megan Fox, Machine Gun Kelly Break Up Weeks After Revealing Pregnancy News",
         "snippet": "",
-        "url": "https://finance.yahoo.com/news/unicredit-says-ready-sit-down-183430085.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg926zihTQ2BIixGEA8a8qjTACPck3HicY5cMEZb5o6z9px5d99KIRCxXSEhs",
-        "source": "Yahoo Finance"
+        "url": "https://www.tmz.com/2024/12/10/megan-fox-machine-gun-kelly-break-up/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3nHWx5jlybzh9rJTtUqtoGPKD3EiV58cEYYLlgArZzddM0aQGVYfmYdhS43k",
+        "source": "TMZ"
       },
       {
-        "title": "Shares jump in Italy's Banco BPM after Credit Agricole raises stake",
+        "title": "Pregnant Megan Fox and Machine Gun Kelly Have Split ‘For Now’",
         "snippet": "",
-        "url": "https://www.euronews.com/business/2024/12/09/shares-jump-in-italys-banco-bpm-after-credit-agricole-builds-its-stake",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmYFihhrn6aUZ3lbsPiQpqkYa0FeemNCl2DmGm_7IdGwLHv8X2IkAGszGnKyQ",
-        "source": "Euronews.com"
+        "url": "https://www.usmagazine.com/celebrity-news/news/pregnant-megan-fox-and-machine-gun-kelly-have-split-for-now/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtti9plbcu_0pn21lkSCb7zXLXI0PXQT8WO9kcffr3SdWx2zfDgLHFhVTXWqA",
+        "source": "Us Weekly"
       },
       {
-        "title": "UniCredit's Orcel could still sweeten his bid and take on a double M&A \noffensive",
+        "title": "Megan Fox and Machine Gun Kelly will 'never' reconcile as insiders lift the \nlid on why their breakup is final",
         "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/06/unicredits-orcel-could-still-sweeten-his-bid-and-take-on-a-double-ma-offensive.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzwGuw0ungqjmL5X6G8vIRJgAWAcx1H4f78D6ZDSYDekga1NbCtZD993tMvX4",
-        "source": "CNBC"
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-14178861/Megan-Fox-Machine-Gun-Kelly-never-reconcile-truth-breakup.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw2iUW8ahKftTzy8CMYXSbts6QXD2CtwhkaiiPcIm972YfJIRRSXgpJVDIRsI",
+        "source": "Daily Mail"
       }
     ]
   },
   {
-    "title": "orange",
+    "title": "liga majstrov",
     "link": "https://trends.google.com/trending/rss?geo=SK",
-    "pubdate": "Mon, 9 Dec 2024 20:10:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv5BJ_KGZPMUJff4sytRhQYg-xE5L6kdOO673Hflxifa3uGl0cPeKx7EJys2s",
-    "picture_source": "ESPN",
+    "pubdate": "Tue, 10 Dec 2024 19:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAHEuL-7N_YfY7ZJzdxM925-sIlnIgXzE3R05PXoBGkRNUg3wah3IuXlkTiMs",
+    "picture_source": "Sportnet",
     "news_items": [
       {
-        "title": "Bowl season preview: Storylines to know and players to watch from each \nmatchup",
+        "title": "Weiss poslal veterána do inej kategórie: To, čo predviedol, vojde do dejín",
         "snippet": "",
-        "url": "https://www.espn.com/college-football/story/_/id/42797666/2024-college-football-bowl-game-preview-storylines-players",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv5BJ_KGZPMUJff4sytRhQYg-xE5L6kdOO673Hflxifa3uGl0cPeKx7EJys2s",
-        "source": "ESPN"
+        "url": "https://sportnet.sme.sk/spravy/futbal-preview-atletico-madrid-slovan-bratislava-6-kolo-liga-majstrov-2024-2025/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAHEuL-7N_YfY7ZJzdxM925-sIlnIgXzE3R05PXoBGkRNUg3wah3IuXlkTiMs",
+        "source": "Sportnet"
       },
       {
-        "title": "Ranking all 41 college football bowl games for 2024-25: Orange, Cotton \nentice as Pop-Tarts leads best of rest",
+        "title": "Slovan Bratislava v TV: Kde môžete sledovať dnešný zápas „belasých“ s \nAtléticom Madrid v Lige majstrov?",
         "snippet": "",
-        "url": "https://www.cbssports.com/college-football/news/ranking-all-41-college-football-bowl-games-for-2024-25-orange-cotton-entice-as-pop-tarts-leads-best-of-rest/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRegHvbJK3sLgC4HUJ7zzaNhTkeND3dkt_XtVj1F-Ndw4mdzRxIGHwkkyti0lc",
-        "source": "CBS Sports"
-      },
-      {
-        "title": "College Football Playoff bracket reveal: SMU is in, Alabama and Miami are \nout",
-        "snippet": "",
-        "url": "https://apnews.com/live/cfp-playoff-bracket-schedule",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwR6b--mzlYYO4V3VLnzPyDr0zvr0wX9XCykd6cXzgR3YCPUv7dzydTqkuwBY",
-        "source": "AP News"
-      }
-    ]
-  },
-  {
-    "title": "nela lopušanová",
-    "link": "https://trends.google.com/trending/rss?geo=SK",
-    "pubdate": "Mon, 9 Dec 2024 13:40:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS2_322eC_zgjkBICZjjLBkv4wGNcLEeVIrpBe0ku9NtP1MoKdW3fI53tg470",
-    "picture_source": "Šport.sk",
-    "news_items": [
-      {
-        "title": "🎧 Dala si hotdog a predviedla Hail Mary. Nela Lopušanová zabojuje o ZOH, v \nUSA dosiahla obrovský úspech",
-        "snippet": "",
-        "url": "https://sport.aktuality.sk/hokej/clanok/podcast-nela-lopusanova-hotdog-a-hail-mary-zabojuje-o-zoh-2024120613570516493",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS2_322eC_zgjkBICZjjLBkv4wGNcLEeVIrpBe0ku9NtP1MoKdW3fI53tg470",
+        "url": "https://sport.aktuality.sk/futbal/clanok/futbal-slovan-bratislava-ac-milano-dnes-v-tv-kde-pozerat-zapas-liga-majstrov-2024121107241233830",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZbke9AI4VR47j_1iONY2z92L3_E1lvI3nj3pGNugTfMXO0C5Ge_kk2rqJdUM",
         "source": "Šport.sk"
       },
       {
-        "title": "HOKEJ: Hokejistky zabojujú o postup na ZOH 2026 (aktualizované)",
+        "title": "Šestka od Atletica? Sparta počúvala o hanbe a blamáži. Posily pre Slovan? \nOstré lakte a prípad Polievka",
         "snippet": "",
-        "url": "https://slovensko.rtvs.sk/clanky/sport/386011/hokej-hokejistky-zabojuju-o-postup-na-zoh-2026-aktualizovane",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdh_OtD-2sDeNO3qT9p5zEE4wkMjShKKgT0rLFoXmCAU_HoBfQQEw2BpemkM8",
-        "source": "Rádio Slovensko"
-      },
-      {
-        "title": "HOKEJ: Hokejistky zabojujú o postup na ZOH 2026",
-        "snippet": "",
-        "url": "https://slovensko.rtvs.sk/clanky/sport/386011/hokej-hokejistky-zabojuju-o-postup-na-zoh-2026",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdh_OtD-2sDeNO3qT9p5zEE4wkMjShKKgT0rLFoXmCAU_HoBfQQEw2BpemkM8",
-        "source": "Rádio Slovensko"
+        "url": "https://sportweb.pravda.sk/futbal/europske-pohare/clanok/733726-sestka-od-atletica-sparta-pocuvala-o-hanbe-a-blamazi-posily-pre-slovan-ostre-lakte-a-pripad-polievka/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnY-WsxKANnBRgeahRk-gpihsn0g0HGB6055ewN_LV8YkItBGCh_kCyF9_ZeE",
+        "source": "Športweb"
       }
     ]
   },
   {
-    "title": "dolly parton",
+    "title": "leverkusen – inter",
     "link": "https://trends.google.com/trending/rss?geo=SK",
-    "pubdate": "Mon, 9 Dec 2024 12:50:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbgNAxdXkRk5Oe8H30GzN03xXbOGk8DcpV8gbCucVhPiqknvkKxOCoDtvMQFU",
-    "picture_source": "People.com",
+    "pubdate": "Tue, 10 Dec 2024 18:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7kyFVSj7bvrNPXICnP8m_x2a9dGrRPX-XSShzGmZoQDeucMhQOAZ4I_exq6k",
+    "picture_source": "BILD.de",
     "news_items": [
       {
-        "title": "Dolly Parton Reveals the Real Reason Her Husband Doesn't Attend Events with \nHer",
+        "title": "Champions League: Leverkusens Trainer Alonso „schoss“ das Sieg-Tor gegen \nInter",
         "snippet": "",
-        "url": "https://people.com/dolly-parton-why-husband-carl-dean-doesnt-attend-events-8758565",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbgNAxdXkRk5Oe8H30GzN03xXbOGk8DcpV8gbCucVhPiqknvkKxOCoDtvMQFU",
-        "source": "People.com"
+        "url": "https://www.bild.de/sport/fussball/champions-league-leverkusens-trainer-alonso-schoss-das-sieg-tor-gegen-inter-67595b605a14524c9e5deed5",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7kyFVSj7bvrNPXICnP8m_x2a9dGrRPX-XSShzGmZoQDeucMhQOAZ4I_exq6k",
+        "source": "BILD.de"
       },
       {
-        "title": "Dolly Parton Shares Rare Insight Into Marriage With Husband Carl Dean - E! \nOnline",
+        "title": "Champions League: Emotionale Heimkehr mit brutalem Ende",
         "snippet": "",
-        "url": "https://www.eonline.com/news/1410770/dolly-parton-shares-rare-insight-into-marriage-with-husband-carl-dean",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR35l9turL2gvBdveXZxv2Me609hvtNqhP3b_BAGAukSY-Ne-KgJmDkBK4m2aQ",
-        "source": "E! Online"
+        "url": "https://www.sport1.de/news/fussball/champions-league/2024/12/champions-league-emotionale-heimkehr-mit-brutalem-ende",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxQ_mLXNJfzcQhL7YjdFk0W_ZHExzPdN4EADTVjKWBjcFTB9h9pXLbGmZdxk",
+        "source": "Sport1"
       },
       {
-        "title": "Dolly Parton Tells Bunnie XO the Secret to Her 6-Decade Marriage: ‘He’s \nQuiet & I’m Loud’",
+        "title": "Matchwinner Mukiele: Ein Geständnis und ein Wink an den FC Bayern",
         "snippet": "",
-        "url": "https://www.yahoo.com/entertainment/dolly-parton-tells-bunnie-xo-032431202.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkZI4Yeuz8-8cfLXqVaKlTQF2qP2U5098CFGHv8g_Nz0ko-4a-WQkzEs3hhts",
-        "source": "Yahoo"
+        "url": "https://www.kicker.de/matchwinner-mukiele-ein-gestaendnis-und-ein-wink-an-den-fc-bayern-1074815/artikel",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ2eYTI8zru-oZIrbqu9Ptld96vf0PEwr-TMi8HUk4jrx1weu3yzxBiSBjvzM",
+        "source": "Kicker"
       }
     ]
   },
   {
-    "title": "luigi mangione",
+    "title": "champions league",
     "link": "https://trends.google.com/trending/rss?geo=SK",
-    "pubdate": "Mon, 9 Dec 2024 11:50:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
-    "picture_source": "CNN",
-    "news_items": [
-      {
-        "title": "‘I never got the impression he would self-destruct:’ Friends of suspect in fatal CEO shooting left in shock",
-        "snippet": "",
-        "url": "https://www.cnn.com/2024/12/09/us/luigi-mangione-what-we-know-monday/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
-        "source": "CNN"
-      },
-      {
-        "title": "UnitedHealthcare CEO shooting: Suspect charged with murder, said 'these parasites had it coming' in handwritten note",
-        "snippet": "",
-        "url": "https://www.nbcnews.com/news/us-news/live-blog/unitedhealthcare-ceo-shooting-suspect-charged-murder-live-updates-rcna183566",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSms806I2hM-URrnIWpZdrtXAefOsyRpWfPqVEQfwjJRyGtT8Zh4z0Z0IexVdM",
-        "source": "NBC News"
-      },
-      {
-        "title": "Luigi Mangione, Suspect in CEO Killing, Withdrew From a Life of Privilege and Promise",
-        "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/09/nyregion/united-healthcare-ceo-shooting-luigi-mangione.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMkfTtiaVil_C9Y-9bMjZXoQLTJngOHivVs0meoX1X6PRVp9MXrpueCFednW8",
-        "source": "The New York Times"
-      }
-    ]
-  },
-  {
-    "title": "west ham – wolverhampton",
-    "link": "https://trends.google.com/trending/rss?geo=SK",
-    "pubdate": "Mon, 9 Dec 2024 11:40:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOR3Nj-mrfEpVVTFX4gvMTcvmgj8GwJh2ezR5m-rkGV1eatHKUPw9097zcJNw",
+    "pubdate": "Tue, 10 Dec 2024 14:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT4x1J4CeJroEFoPbTf7DJggenLVcNbZF8rMjCk7Q_HXU_3TaHYiWZ6zH9wKw",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "West Ham 2-1 Wolves LIVE: Jarrod Bowen scores winner as West Ham increase \npressure on Wolves boss Gary O'Neil",
+        "title": "Are Liverpool Champions League favourites? - Alisson 'one of world's best' \n- Slot",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cly7j2pngr4t",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOR3Nj-mrfEpVVTFX4gvMTcvmgj8GwJh2ezR5m-rkGV1eatHKUPw9097zcJNw",
+        "url": "https://www.bbc.com/sport/football/articles/cqjzdegvpx5o",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT4x1J4CeJroEFoPbTf7DJggenLVcNbZF8rMjCk7Q_HXU_3TaHYiWZ6zH9wKw",
         "source": "BBC"
       },
       {
-        "title": "Joe Cole Sees Goals in 18/1 Bet Builder",
+        "title": "Rio Ferdinand throws doubt on Liverpool's tag as favourites for the \nChampions League despite Reds winning again",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2160772-joe-cole-sees-goals-in-18-1-bet-builder",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbKPqyRwDD4fOtis1bLfFB88gbyBohabgiJgHK8byuYoEsfwud0wu3sD4dHew",
-        "source": "FootBoom"
+        "url": "https://www.rousingthekop.com/2024/12/11/rio-ferdinand-throws-doubt-on-liverpools-tag-as-favourites-for-the-champions-league-despite-reds-winning-again/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZuB4rFiy6Jf6TsH8c9iDAymjDelmN5TEOQoII12aYBBP4z0xCkfbwIvSb8Bk",
+        "source": "Rousing The Kop"
       },
       {
-        "title": "'A stay of execution - but for how long?'",
+        "title": "Rio Ferdinand's Liverpool verdict brings quadruple question back into play",
         "snippet": "",
-        "url": "https://www.aol.com/stay-execution-long-091056992.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDr1PZsUsjkLBYdfdZMaVV5VLAp65AbPQisy0ZguNudowWtB0jJgAdHoQSvXo",
-        "source": "AOL.com"
+        "url": "https://www.liverpool.com/liverpool-fc-news/features/rio-ferdinand-liverpool-quadruple-champions-30558262",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9wiuNDvW-jfWtQZQGZgCo8tqtwaIIpWHTQMEl001dscGbGNFRL0RQX6wOgXU",
+        "source": "Liverpool.com"
       }
     ]
   },
   {
-    "title": "barbora buhnova",
+    "title": "dunaj k vašim službám",
     "link": "https://trends.google.com/trending/rss?geo=SK",
-    "pubdate": "Mon, 9 Dec 2024 09:40:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyS9bJQgDZlRSrB6UwMDFtTr5iBLXXgkotBd3kjZ4uy5f-uH3gl569tF2kDWA",
-    "picture_source": "Nový Čas",
+    "pubdate": "Tue, 10 Dec 2024 13:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipMqpmNSGw4pQKcZXHMw9iVdcTjjkaTQmCkfxh9OUMDZzSsluFw4h_YivyLw",
+    "picture_source": "Zoznam",
     "news_items": [
       {
-        "title": "Zomrela jedna z najvplyvnejších Češiek: Barbora Bühnová mala len 43 rokov",
+        "title": "Diváci Dunaja v OBROVSKOM ŠOKU: Prekvapivé zvraty a SMRŤ obľúbenej postavy!",
         "snippet": "",
-        "url": "https://www.cas.sk/clanok/2989949/zomrela-jedna-z-najvplyvnejsich-cesiek-barbora-buhnova-mala-len-43-rokov/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyS9bJQgDZlRSrB6UwMDFtTr5iBLXXgkotBd3kjZ4uy5f-uH3gl569tF2kDWA",
-        "source": "Nový Čas"
+        "url": "https://novinky.zoznam.sk/cl/178/2919607/Divaci-Dunaja-v-OBROVSKOM-SOKU--Prekvapive-zvraty-a-SMRT-oblubenej-postavy-",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipMqpmNSGw4pQKcZXHMw9iVdcTjjkaTQmCkfxh9OUMDZzSsluFw4h_YivyLw",
+        "source": "Zoznam"
       },
       {
-        "title": "Zomrela Barbora Bühnová, jedna z najvplyvnejších Češiek. Mladá žena \npodľahla chorobe",
+        "title": "Prečo zabil Walter Wolfiho? Ján Koleník a Šimon Jakuš prehovorili o scéne, \nktorá rozplakala Slovensko",
         "snippet": "",
-        "url": "https://svetevity.sk/magazin/zivotny-styl/96183789-zomrela-barbora-buehnova-jedna-z-najvplyvnejsich-cesiek-mlada-zena-podlahla-chorobe",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHqyWV9QiwG1etCUkos4f7KPBr3LIrjCmeJH54PghlTlAI5bNhvKL2BJ1fWmU",
-        "source": "Svetevity"
+        "url": "https://www.markiza.sk/relacie/dunaj-k-vasim-sluzbam/clanok/940577-preco-zabil-walter-wolfiho-jan-kolenik-a-simon-jakus-prehovorili-o-scene-ktora-rozplakala-slovensko",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZasQEDgKbA6yCnvGDcHxzJRrHSu7vrh9ODFP3VSVo39M44WxzIi-KFBaEn8",
+        "source": "TV Markíza"
       },
       {
-        "title": "Vo veku 43 rokov zomrela Barbora Bühnová, jedna z najvplyvnejších žien Česka",
+        "title": "Dunaj rozplakal celé Slovensko: Walter prehovoril o dramatickej scéne s \nWolfim! PREČO ho zabil",
         "snippet": "",
-        "url": "https://sita.sk/zomrela-barbora-buhnova-jedna-z-najvplyvnejsich-zien-ceska-mala-len-43-rokov/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCslJVOjF1_NwxxNC3U42j32FdoWCL6rFHepnIrfjUuSXlAklIRai4PrV0YJw",
-        "source": "SITA.sk"
+        "url": "https://casprezeny.pluska.sk/celebrity/dunaj-rozplakal-cele-slovensko-walter-prehovoril-o-dramatickej-scene-s-wolfim-preco-ho-zabil",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvWkQHi0-pA8EHUFS0SfvnVDNdX-cVwW2XjY5nqPb4iIts3Z5Zyg5iJyR4Z-s",
+        "source": "Nový Čas pre ženy"
       }
     ]
   },
   {
-    "title": "zelenskyj",
+    "title": "real madrid",
     "link": "https://trends.google.com/trending/rss?geo=SK",
-    "pubdate": "Mon, 9 Dec 2024 08:10:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4vITgXHWCmpN84ZT1FWuNi8sgIF4sSa2DKks--fLPBPvStJ1QEj7H6nlVr0",
-    "picture_source": "Aktuality",
+    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
+    "picture_source": "Marca.com",
     "news_items": [
       {
-        "title": "Rusi zažili najhoršiu porážku od konca studenej vojny. Prichádzajú o \nnámornú základňu (146. týždeň vojny)",
+        "title": "Atalanta - Real Madrid: resumen, resultado y goles",
         "snippet": "",
-        "url": "https://www.aktuality.sk/clanok/QiGRZfu/rusi-zazili-najhorsiu-porazku-od-konca-studenej-vojny-prichadzaju-o-namornu-zakladnu-146-tyzden-vojny/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4vITgXHWCmpN84ZT1FWuNi8sgIF4sSa2DKks--fLPBPvStJ1QEj7H6nlVr0",
-        "source": "Aktuality"
+        "url": "https://www.marca.com/futbol/champions-league/atalanta-r-madrid/2024/12/10/01_0103_20241210_456_186-directo.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
+        "source": "Marca.com"
       },
       {
-        "title": "Ruskí okupanti prišli o ďalších vyše 1 200 vojakov",
+        "title": "Pegada en el día clave",
         "snippet": "",
-        "url": "https://www.sme.sk/minuta/23421842/ruski-okupanti-prisli-o-dalsich-vyse-1-200-vojakov",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6ODxqBoL3dkctFQ9zPY6P32pl2DJ0vAzX_EHkKt1QU13qdmtK3Jt5NoA_ac",
-        "source": "SME.sk"
+        "url": "https://as.com/futbol/champions/pegada-en-el-dia-clave-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQex1vdn9gnSYzyHUJeot8zc3iPLzLSKL0n4SSnI5RR35P2UvWpCqTCOL5T7kk",
+        "source": "Diario AS"
       },
       {
-        "title": "Zelenskyj prezradil, koľko ukrajinských vojakov padlo od vypuknutia vojny. \nA v čom sa líšia jeho a Trumpove údaje o ruských stratách?",
+        "title": "Poesía para los oídos madridistas, así fue la narración de Rac-1 del fallo \nde Retegui en el 93’",
         "snippet": "",
-        "url": "https://spravy.pravda.sk/svet/clanok/733626-zelenskyj-prezradil-kolko-ukrajinskych-vojakov-padlo-od-vypuknutia-vojny-a-v-com-sa-lisia-jeho-a-trumpove-udaje-o-ruskych-strata/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQahdI83LVI5hADPXkYalkf1C6ejz_KBhtxPDb391yOTVLnRQ5e6jICVnvJEwc",
-        "source": "Pravda"
+        "url": "https://www.realmadridexclusivo.com/lo-mas-visto/poesia-oidos-madridistas-fue-narracion-rac-1-fallo-retegui-en-93_165496_102.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJkTwXDdXW0B15lgApSbaYYlbcIhBEl55L7_sXGTTW9KQPucV4bMqGU-V4FqI",
+        "source": "Real Madrid Exclusivo"
+      }
+    ]
+  },
+  {
+    "title": "rb salzburg – psg",
+    "link": "https://trends.google.com/trending/rss?geo=SK",
+    "pubdate": "Tue, 10 Dec 2024 11:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLkDxq0akZHSINc9MHpkYQTU-3gvhjmZCw5xGrSLh1ra2CufBiyFcCYn4UsU",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Red Bull Salzburg 0-3 Paris St-Germain: French side end wait for win in \nChampions League",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/c3900vnyr18t",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLkDxq0akZHSINc9MHpkYQTU-3gvhjmZCw5xGrSLh1ra2CufBiyFcCYn4UsU",
+        "source": "BBC"
+      },
+      {
+        "title": "PSG cruises to vital victory in Austria",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-nz/football/uefa-champions-league/articles-video/psg-cruises-to-vital-victory-in-austria-2024-12-10",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR2wxbSqFMEQ9yoWAjvUPQUTK4MDy6x20l_PyGrd38V7tuVkVNIe8NAGJ4440",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "'We didn't play better than against PSV or Atletico'",
+        "snippet": "",
+        "url": "https://www.besoccer.com/new/we-didn-t-play-better-than-against-psv-or-atletico-1341010",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqYyMc25aqYlWOxfMbWD8CMC3tFjk7FPAFpv1YaMQBhzOEJ2AziZHiq_p-5Fc",
+        "source": "BeSoccer"
+      }
+    ]
+  },
+  {
+    "title": "atalanta – real",
+    "link": "https://trends.google.com/trending/rss?geo=SK",
+    "pubdate": "Tue, 10 Dec 2024 11:00:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+    "picture_source": "beIN SPORTS",
+    "news_items": [
+      {
+        "title": "Real Madrid revive Champions League title defence with win at spirited \nAtalanta",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/real-madrid-revive-champions-league-title-defence-with-win-at-spirited-atalanta-2024-12-10",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Atalanta - Real Madrid Live - Champions League: Football Scores & \nHighlights - 10/12/2024",
+        "snippet": "",
+        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-atalanta-real-madrid_mtc1525372/live-commentary.shtml",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSADbxgB8RAJHccFY4iSOMu5OY4c-2b4cwcnnCtXKra9EUr0_uPmvxZlDkSErg",
+        "source": "Eurosport"
+      },
+      {
+        "title": "Rodrygo: \"We made the most of our chances when we were in space\"",
+        "snippet": "",
+        "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/rodrygo-ha-sido-una-victoria-muy-importante-hemos-trabajado-bien-10-12-2024",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6f-gljgRYcefEfUJ62UuALMel-CY944LCQzf4DuPzlOW1huCIAJ4iTaAW_k",
+        "source": "Real Madrid CF"
       }
     ]
   }

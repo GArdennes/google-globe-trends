@@ -1,289 +1,311 @@
 [
   {
-    "title": "таганрог",
+    "title": "skyup",
     "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 05:00:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFWMn6EGI3bVmx-NSDeNUvQX0KChOEHGrNZFiM16IAogWGd2k7KI0yQAjkNrM",
-    "picture_source": "Ruffnews",
+    "pubdate": "Wed, 11 Dec 2024 05:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIdYANZLldn4qoaeqKktcaoE-2UMixcLc03KFj_RY4PitfmltKgVZdLyXzDa4",
+    "picture_source": "Mind.ua",
     "news_items": [
       {
-        "title": "Транспорт, наркоторговцы и оскорбления в детсаде — вспомним, чем \nзапомнилась уходящая неделя",
+        "title": "Українська авіакомпанія SkyUp відновлює регулярні польоти: літатиме з Молдови",
         "snippet": "",
-        "url": "https://www.ruffnews.ru/taganrog/transport-narkotorgovtsy-i-oskorbleniya-v-detsade-vspomnim-chem-zapomnilas-uhodyaschaya-nedelya",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFWMn6EGI3bVmx-NSDeNUvQX0KChOEHGrNZFiM16IAogWGd2k7KI0yQAjkNrM",
-        "source": "Ruffnews"
+        "url": "https://mind.ua/news/20282513-ukrayinska-aviakompaniya-skyup-vidnovlyue-regulyarni-poloti-litatime-z-moldovi",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIdYANZLldn4qoaeqKktcaoE-2UMixcLc03KFj_RY4PitfmltKgVZdLyXzDa4",
+        "source": "Mind.ua"
       },
       {
-        "title": "Потребность есть, а остановки нет: проблема маршруток в Таганроге остается \nпрежней",
+        "title": "Авіакомпанія з України почне рейси з Молдови до Європи для українців",
         "snippet": "",
-        "url": "https://bloknot-taganrog.ru/news/potrebnost-est-a-ostanovki-net-problema-marshrutok",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxLyRVZGfA0qSmkKaE_Xwz-fyPQ9hO_TsiuggSp0zTFVehC9dj5DPhmZeMJ6I",
-        "source": "Блокнот Таганрог"
+        "url": "https://epravda.com.ua/biznes/aviakompaniya-z-ukrajini-pochinaye-reysi-do-yevropi-dlya-ukrajinciv-800741/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4J66CTdCxooX8fOCMCxPUlf4c7PllcpK661xkr2Hgw0-XX9Y61mELjUPK67s",
+        "source": "Економічна правда"
       },
       {
-        "title": "Рейд в таганрогских автобусах выявил очередные нарушения",
+        "title": "Українська авіакомпанія анонсувала регулярні польоти з Кишинева",
         "snippet": "",
-        "url": "https://taganrogprav.ru/rejd-v-taganrogskih-avtobusah-vyyavil-ocherednye-narusheniya/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_2JRIEfsGPLeefNQyfIVnb78SB4wbilLZJDw0mkcV9korFm5BQ-YboDsj3HA",
-        "source": "Таганрогская правда"
+        "url": "https://glavcom.ua/economics/business/ukrajinska-aviakompanija-anonsuvala-rehuljarni-poloti-z-kishineva-1035553.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjSIzhCobWP_1XKzTI2LNOv02kUsud9lIUGnKbfCpmqstZA0A9CBpD1eufn1o",
+        "source": "Главком"
       }
     ]
   },
   {
-    "title": "енакиево",
+    "title": "орбан",
     "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 03:30:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtyhtv4Bxy78e_wuaRVKMf6br2ej5bnfm_JJwhFauY0lHoKU0UjM7kwzSqy4",
-    "picture_source": "РБК-Україна",
+    "pubdate": "Wed, 11 Dec 2024 05:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcYxGLN7lR_YJIDZq1TWVzheXtz8TRvT2e6isRhdF2Ygh1Gj4sf03Gctz1YwM",
+    "picture_source": "ТСН",
     "news_items": [
       {
-        "title": "В оккупированном Енакиево прогремели взрывы, возможен прилет в склад \nбоеприпасов",
+        "title": "Орбан після дзвінка Путіну заявив про \"найнебезпечніші тижні\" війни",
         "snippet": "",
-        "url": "https://www.rbc.ua/ukr/news/v-okupovanomu-enakievomu-prolunali-vibuhi-1733834771.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtyhtv4Bxy78e_wuaRVKMf6br2ej5bnfm_JJwhFauY0lHoKU0UjM7kwzSqy4",
-        "source": "РБК-Україна"
-      },
-      {
-        "title": "Привет от \"Хаймарса\": в оккупированном Енакиево взорвался склад боеприпасов \n(видео)",
-        "snippet": "",
-        "url": "https://www.unian.net/war/vzryvy-v-enakievo-gorit-sklad-boepripasov-rossiyskih-okkupantov-12847770.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM_-94iNkRHPeNQHD0HpT_zCgxuplPg5tIX0O7A91XSI1hRaX9Zw5eyWk9elc",
-        "source": "УНИАН"
-      },
-      {
-        "title": "Силы обороны поразили склад боеприпасов россиян в оккупированном Енакиево \nДонецкой области — видео",
-        "snippet": "",
-        "url": "https://nv.ua/ukraine/events/enakievo-video-udara-sil-oborony-po-skladu-boepripasov-v-enakievo-doneckoy-oblasti-10-dekabrya-50473088.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHuNyjDtf098XCaBlNhRwp7xplQxo83ekXUYgOcJ-dX2jayhRSZOshwGTGOoc",
-        "source": "НВ"
-      }
-    ]
-  },
-  {
-    "title": "біла церква",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 03:10:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtslGWDyM6wcXOWs6btQ215NPXmZObj94OlQLt5bRhtpAJkjspLK0Zl0XgiDE",
-    "picture_source": "УНІАН",
-    "news_items": [
-      {
-        "title": "Україна і Румунія побудують міст через Тису",
-        "snippet": "",
-        "url": "https://www.unian.ua/economics/transport/ukrajina-i-rumuniya-pobuduyut-mist-cherez-tisu-12847833.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtslGWDyM6wcXOWs6btQ215NPXmZObj94OlQLt5bRhtpAJkjspLK0Zl0XgiDE",
-        "source": "УНІАН"
-      },
-      {
-        "title": "В Україні збудують міст через Тису: рішення уряду",
-        "snippet": "",
-        "url": "https://tsn.ua/ukrayina/v-ukrayini-zbudut-mist-cherez-tisu-rishennya-uryadu-2720094.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbNfuQN0e0fJAm9q2DiuhNHj33oLRHYkVTR0SgsQSTQTT1JY-hEg94eH3ClWk",
+        "url": "https://tsn.ua/ato/orban-pislya-dzvinka-putinu-zayaviv-pro-naynebezpechnishi-tizhni-viyni-2721027.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcYxGLN7lR_YJIDZq1TWVzheXtz8TRvT2e6isRhdF2Ygh1Gj4sf03Gctz1YwM",
         "source": "ТСН"
       },
       {
-        "title": "Міст через Тису збудують на Закарпатті",
+        "title": "Пєсков заявив, що Орбан не передавав Путіну послання від Трампа",
         "snippet": "",
-        "url": "https://mind.ua/news/20282457-mist-cherez-tisu-zbuduyut-na-zakarpatti",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX5CYQ_QI9z0fCBy1nbW9aHJP2xThBdlvtYZGnLSYCylcIrIbNd6G57-P9oqQ",
-        "source": "Mind.ua"
+        "url": "https://www.pravda.com.ua/news/2024/12/11/7488662/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMqzqiGyK5UC-9j2z-2Jh7AK1HuUZqm3RDxPa5eIr-yU0l19MLfTfUMlsWkOo",
+        "source": "Українська правда"
+      },
+      {
+        "title": "Орбан провів переговори з Путіним щодо України",
+        "snippet": "",
+        "url": "https://ua.korrespondent.net/world/russia/4739265-orban-proviv-perehovory-z-putinym-schodo-ukrainy",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-xMbRTnYmf-rCAbYTKhTe0xbI8_rTWCKjV9_RfrWGwTzC1JmvtiZ5lGX0t4",
+        "source": "Korrespondent.net"
       }
     ]
   },
   {
-    "title": "карта бойових дій",
+    "title": "филипп бегак",
     "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 01:10:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "златополь харьковская область",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 01:00:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjODWtxGfxfEX9AP-51EFRt9gBMWyk73irMG1UZg0L_x5U7pqZNRjz2s3NhXU",
-    "picture_source": "Українська правда",
+    "pubdate": "Wed, 11 Dec 2024 04:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPreN0zFTT8SFwKlGHaNQzQ7PboCP6LE5UJgu89DfHdzp58jg3BOJKF7tr0so",
+    "picture_source": "Кино-Театр.Ру",
     "news_items": [
       {
-        "title": "Россияне дважды атаковали \"Искандерами\" Златополь на Харьковщине: 11 \nчеловек пострадали",
+        "title": "Настя Ивлеева вышла замуж - лайфстайл - 10 декабря 2024",
         "snippet": "",
-        "url": "https://www.pravda.com.ua/rus/news/2024/12/10/7488473/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjODWtxGfxfEX9AP-51EFRt9gBMWyk73irMG1UZg0L_x5U7pqZNRjz2s3NhXU",
-        "source": "Українська правда"
+        "url": "https://www.kino-teatr.ru/lifestyle/news/y2024/12-10/36253/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPreN0zFTT8SFwKlGHaNQzQ7PboCP6LE5UJgu89DfHdzp58jg3BOJKF7tr0so",
+        "source": "Кино-Театр.Ру"
       },
       {
-        "title": "Двойной ракетный удар России по Златополю: есть раненые",
+        "title": "Фермер и родственник Михалковых: стало известно, за кого Настя Ивлеева вышла замуж",
         "snippet": "",
-        "url": "https://www.dw.com/ru/dvojnoj-raketnyj-udar-rossii-po-zlatopolu-est-ranenye/a-71010171",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3oAgOF4jn24hYDMmHjtEmczaWpRxFeASuG-SfFf0NYBk3Fl_AHI0fppHOl0",
-        "source": "DW"
+        "url": "https://spletnik.ru/325415",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRl6fkg3vBHW68BhmU0DJRDcZxCWET576WB2KeqdEetO6srJ0FCXrroMv061OM",
+        "source": "Spletnik"
       },
       {
-        "title": "РФ ударила по городу Златополь в Харьковской области: число пострадавших \nустанавливается",
+        "title": "Юная модель, артисты и муж Варнавы: с кем крутила романы Настя Ивлеева",
         "snippet": "",
-        "url": "https://www.rbc.ua/ukr/news/rf-vdarila-mistu-zlatopil-harkivskiy-oblasti-1733822168.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaSQH8cJDOf7iCqMkV-u7X--QGE9YTsoFIe8Xi1ivZo8uKHxPFYX2gwS3Mgk4",
+        "url": "https://ura.news/news/1052854961",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNus-76KxPDwDLp5yr-Mq3icjVn8g0zc0Zw_mIU2szg4RHLUltxcfIYeAKgrw",
+        "source": "Ura.ru"
+      }
+    ]
+  },
+  {
+    "title": "кам'янське",
+    "link": "https://trends.google.com/trending/rss?geo=UA",
+    "pubdate": "Wed, 11 Dec 2024 01:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9DzO0v_dqlcgl8_a52Gn6Vll4jskyGqThZMFCRRsMWsen9UYJMu7cXhjsZ5A",
+    "picture_source": "Sobitie",
+    "news_items": [
+      {
+        "title": "Падіння дрона у Кам’янському потрапило на відео: моторошні кадри",
+        "snippet": "",
+        "url": "https://sobitie.com.ua/voyna/padinnya-dronu-u-kamyanskomu-potrapylo-na-video-motoroshni-kadry-352222/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9DzO0v_dqlcgl8_a52Gn6Vll4jskyGqThZMFCRRsMWsen9UYJMu7cXhjsZ5A",
+        "source": "Sobitie"
+      },
+      {
+        "title": "Про ситуацію в Кам’янському на ранок 11 грудня",
+        "snippet": "",
+        "url": "https://nashreporter.com/suspilstvo/pro-sytuacziyu-v-kamyanskomu-na-ranok-11-grudnya-196121",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy8Upl1N-NOxoopvRpL2fPR1zuduG9HZszMqBxapXLUoewdrgirC76YYHM2qY",
+        "source": "Наш Репортер"
+      },
+      {
+        "title": "Камери спостереження зафіксували момент влучання \"шахеда\" на Дніпропетровщині",
+        "snippet": "",
+        "url": "https://regionews.ua/ukr/news/dnepropetrovshchina/1733660584-moment-vluchannya-shaheda-na-dnipropetrovshchini-potrapiv-na-video",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpcVmmYR_nncWK-41EW7QIYVCVXEmHY-N5IZyel6sFPp_UQQPt8LMuyDZk_JU",
+        "source": "RegioNews.ua"
+      }
+    ]
+  },
+  {
+    "title": "шаламага",
+    "link": "https://trends.google.com/trending/rss?geo=UA",
+    "pubdate": "Wed, 11 Dec 2024 00:20:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_FITi7nuxySV9FLREHWR9957WRKfvHnJBqZUmNR3ZzAJUYYLj8-mLimsVXQ",
+    "picture_source": "Главком",
+    "news_items": [
+      {
+        "title": "Маркус вперше за тривалий час вийшов на публіку і розповів про конфлікт з Шаламагою",
+        "snippet": "",
+        "url": "https://glavcom.ua/country/society/markus-vpershe-za-trivalij-chas-vijshov-na-publiku-i-rozpoviv-pro-konflikt-z-shalamahoju-1035532.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_FITi7nuxySV9FLREHWR9957WRKfvHnJBqZUmNR3ZzAJUYYLj8-mLimsVXQ",
+        "source": "Главком"
+      },
+      {
+        "title": "Маркус повернувся, розказавши про конфлікт з керівництвом бригади",
+        "snippet": "",
+        "url": "https://hromadske.ua/viyskovi/236061-markus-povernuvsia-rozkazavshy-pro-konflikt-z-kerivnytstvom-bryhady",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvEJKp3i8S_b98KrYMeFc-QGkq0hc5jNv6pRwneKfn0CeEgbIF2Prb0C87as",
+        "source": "Hromadske"
+      },
+      {
+        "title": "Валерій Маркус раптово з'явився на публіці та розповів про конфлікт з керівництвом 47 ОМБр",
+        "snippet": "",
+        "url": "https://24tv.ua/valeriy-markus-de-zaraz-viyskoviy-rozpoviv-pro-konflikt-shalamagoyu_n2704977",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFQhcbXAoGFnCt-6YcSTFS2-iwBqMbHEgsISi7M8lYjgII_RezNjL9bzknfg0",
+        "source": "24 Канал"
+      }
+    ]
+  },
+  {
+    "title": "арестович",
+    "link": "https://trends.google.com/trending/rss?geo=UA",
+    "pubdate": "Tue, 10 Dec 2024 23:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvpuUhBHPNEFTSJEMYhmXCZFcXFTKW_BNn0PAMxN0gnO9XuyYrGUMeFAv9fNc",
+    "picture_source": "ТСН",
+    "news_items": [
+      {
+        "title": "Окончание войны в январе или хотя бы временное перемирие: Портников оценил перспективу",
+        "snippet": "",
+        "url": "https://tsn.ua/ru/politika/okonchanie-voyny-v-yanvare-ili-hotya-by-vremennoe-peremirie-portnikov-ocenil-perspektivu-2720649.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvpuUhBHPNEFTSJEMYhmXCZFcXFTKW_BNn0PAMxN0gnO9XuyYrGUMeFAv9fNc",
+        "source": "ТСН"
+      },
+      {
+        "title": "Арестович назвал дату соглашения о прекращении огня в Украине",
+        "snippet": "",
+        "url": "https://oxu.az/ru/v-mire/arestovich-nazval-datu-soglasheniya-o-prekrashenii-ognya-v-ukraine",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWrzKgw1epd1aOwgwwht89OieHF4wq1sx2bqYiKqYP8KQbo1X54sUzLCoSwiw",
+        "source": "Oxu.Az"
+      },
+      {
+        "title": "Арестович*: скверный конец Зеленского после хамства в адрес Трампа обеспечен",
+        "snippet": "",
+        "url": "https://military.pravda.ru/news/2146438-skvernyi-konec-zelenskogo/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSdElYUzfeM2f5Vsni93lY4h1fqS04eTCdpfZmiOVBsthDDV8I-XT4j-09oIo",
+        "source": "Правда.Ру"
+      }
+    ]
+  },
+  {
+    "title": "нбу",
+    "link": "https://trends.google.com/trending/rss?geo=UA",
+    "pubdate": "Tue, 10 Dec 2024 23:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPlAWkj4A4JQQist6qWvAfuF4p_wBw-5arcd54xSYm9AWharLiFobS5W-uhE",
+    "picture_source": "Korrespondent.net",
+    "news_items": [
+      {
+        "title": "В обмінниках триває зростання курсу долара",
+        "snippet": "",
+        "url": "https://ua.korrespondent.net/business/financial/4739216-v-obminnykakh-tryvaie-zrostannia-kursu-dolara",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPlAWkj4A4JQQist6qWvAfuF4p_wBw-5arcd54xSYm9AWharLiFobS5W-uhE",
+        "source": "Korrespondent.net"
+      },
+      {
+        "title": "З'явився прогноз, яким буде курс долара в Україні найближчими днями",
+        "snippet": "",
+        "url": "https://www.unian.ua/economics/finance/kurs-dolara-v-ukrajini-do-13-grudnya-yakim-bude-dolar-prognoz-12848640.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOA5yjb38-cBd3kaPhYD19SwYg3-B-LDGXXNk8k2r1u2w_tuZyWz9onuQ2Wrs",
+        "source": "УНІАН"
+      },
+      {
+        "title": "Долар дорожчає: новий курс в обмінниках",
+        "snippet": "",
+        "url": "https://www.rbc.ua/rus/news/dolar-dorozhchae-noviy-kurs-obminnikah-1733904005.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjAEMCYbygJXPVmhD3Mj89kJE_4wno0056KN-1at41iyB6tQT-oiso-p488Y",
         "source": "РБК-Україна"
       }
     ]
   },
   {
-    "title": "олександрія",
+    "title": "новий рік",
     "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 01:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7OCjshyP2wIuTF7hAf2q2gB1dl8Li076Ylch--StRon5OwOKq3IipRO8f30",
-    "picture_source": "ua.tribuna.com",
+    "pubdate": "Tue, 10 Dec 2024 23:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTW7wk_otZPwbFcsLns9SBI8kncrJ9f7VurPf6cgANs1WCjvwW-2s3Rr0-5dk",
+    "picture_source": "УНІАН",
     "news_items": [
       {
-        "title": "Чемпионат Украины: «Динамо» – «Александрия» – 3:0, матч восстановлен",
+        "title": "Новий рік за кордоном: доступна екзотика та довга дорога до Європи",
         "snippet": "",
-        "url": "https://ua.tribuna.com/football/1000000204405-chempionat-ukrayiny-dynamo-oleksandriya-start-videotrans/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7OCjshyP2wIuTF7hAf2q2gB1dl8Li076Ylch--StRon5OwOKq3IipRO8f30",
-        "source": "ua.tribuna.com"
+        "url": "https://www.unian.ua/tourism/wheretogo/noviy-rik-2025-za-kordonom-rizdvo-v-yevropi-ta-ekzotichna-vidpustka-na-mori-12848775.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTW7wk_otZPwbFcsLns9SBI8kncrJ9f7VurPf6cgANs1WCjvwW-2s3Rr0-5dk",
+        "source": "УНІАН"
       },
       {
-        "title": "Фаворит на \"золото\" чи команда з \"маленьким\" менталітетом? \"Олександрія\" \nрозпочала друге коло як один з лідерів УПЛ",
+        "title": "Львів, Чернівці чи Ужгород? Де можна яскраво відсвяткувати Новий рік: ціни та програми",
         "snippet": "",
-        "url": "https://suspilne.media/sport/898183-favorit-na-zoloto-ci-komanda-z-malenkim-mentalitetom-oleksandria-rozpocala-druge-kolo-ak-odin-z-lideriv-upl/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfXt-g4kYdd5F2NLyolYTSYbeogi2fFLnOEQCOUPOakvO_s0ZUQlLtphwFMZU",
-        "source": "Суспільне | Новини"
+        "url": "https://glavcom.ua/country/society/novij-rik-1035143.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsB-ToKLMJoxO1V1YyGi5K9WO07bu8pLkP0pCAwLb5jJIcKWEEq3pL0XGltwA",
+        "source": "Главком"
       },
       {
-        "title": "«Їм пощастило». Експерт назвав причину перемоги Динамо над Олександрією",
+        "title": "Як створити новорічний настрій під час війни: поради психологів. Життя - Новини Рівного та області",
         "snippet": "",
-        "url": "https://sport.ua/uk/news/722542-yim-poshchastilo-ekspert-nazvav-prichinu-peremogi-dinamo-nad-oleksandriieyu",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSDlkutXBCPD1UVKDCnn2W08SKiPsxW095V31CQylIAerZVsrh5OhMRrpusoY",
-        "source": "спорт.ua"
+        "url": "https://rivnepost.rv.ua/news/yak-stvoriti-novorichniy-nastriy-pid-chas-viyni-poradi-psikholohiv",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6pFeM03HN_uKAV_nIap6VphKSCWTLSKz1CJW26PJcTk7n7WvKH15GLN6tzBs",
+        "source": "Рівне Вечірнє"
       }
     ]
   },
   {
-    "title": "deepstate",
+    "title": "втрати ворога на 11 грудня 2024 року",
     "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 00:30:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtkAKaW9TNh89e6fmIvTsAV5ht1XZC_bI7q8qXJ1OTmTzqw_2iCiEKS9YiegE",
-    "picture_source": "Українська правда",
+    "pubdate": "Tue, 10 Dec 2024 23:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct1rR3yKsogYFd6_3uZWy5OowtVhlZ4c_daZiq5OzTYPw_Uq6FZ-iIHmC5Y8",
+    "picture_source": "Прямий",
     "news_items": [
       {
-        "title": "DeepState claims Russians entered Sumy Oblast: Ukrainian border guards \ndon't confirm it, local officials say it's disinformation",
+        "title": "ВСУ за сутки ликвидировали 1350 оккупантов, 5 танков и 3 артсистемы",
         "snippet": "",
-        "url": "https://www.pravda.com.ua/eng/news/2024/12/10/7488480/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtkAKaW9TNh89e6fmIvTsAV5ht1XZC_bI7q8qXJ1OTmTzqw_2iCiEKS9YiegE",
-        "source": "Українська правда"
+        "url": "https://prm.ua/ru/vsu-za-sutky-lykvydyrovaly-1350-okkupantov-5-tankov-y-3-artsystem/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct1rR3yKsogYFd6_3uZWy5OowtVhlZ4c_daZiq5OzTYPw_Uq6FZ-iIHmC5Y8",
+        "source": "Прямий"
       },
       {
-        "title": "Ukrainian officials deny claims of Russian border breach",
+        "title": "Атака на Запоріжжя: зросла кількість жертв і поранених",
         "snippet": "",
-        "url": "https://english.nv.ua/russian-war/ukraine-denies-russian-border-breach-in-sumy-oblast-50473081.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7T07yQtyUNxGNNHiSfpfm5Ct2GnFJMjVjrWLBDbQwsNKqWsjrjdqygdQnRU",
-        "source": "The New Voice of Ukraine"
+        "url": "https://tsn.ua/ato/ataka-na-zaporizhzhya-zrosla-kilkist-zhertv-i-poranenih-2720685.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqx99mHvvCFGsjTVXbmjUiEBgHoVw7HiVOzAvHIbQ_39tqgXLW_Ce1Xu5geyw",
+        "source": "ТСН"
       },
       {
-        "title": "Russians attack Bilopillia community in Sumy region with mortars",
+        "title": "Генштаб назвав втрати РФ у війні",
         "snippet": "",
-        "url": "https://www.ukrinform.net/rubric-ato/3936262-russians-attack-bilopillia-community-in-sumy-region-with-mortars.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMLOgswx-2zRm3BbaDOy1_g65KUn5kdgID_8X2DcdGap0WkkQp8PHtt6uenGk",
-        "source": "Ukrinform"
-      }
-    ]
-  },
-  {
-    "title": "суми",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 00:30:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbR-KsnntJEdjadeTr6-6qX7LTKEOdaQ4CBbssDqH9W4mPB8FLGzDNW8z-Un4",
-    "picture_source": "Суспільне | Новини",
-    "news_items": [
-      {
-        "title": "В Сумах вразливі категорії ВПО зможуть отримати продуктові набори",
-        "snippet": "",
-        "url": "https://suspilne.media/sumy/898087-v-sumah-vrazlivi-kategorii-vpo-zmozut-otrimati-produktovi-nabori/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbR-KsnntJEdjadeTr6-6qX7LTKEOdaQ4CBbssDqH9W4mPB8FLGzDNW8z-Un4",
-        "source": "Суспільне | Новини"
-      },
-      {
-        "title": "Продуктові набори для ВПО в Сумах: як отримати",
-        "snippet": "",
-        "url": "https://donpatriot.news/produktovi-nabory-dlya-vpo-v-sumah-yak-otrymaty",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF0mbu4hOsypozrkbEIrdKMcexiCWoT90QqzB8RNTyk3CmEs9XDzqzzxdEwgE",
-        "source": "Патріот Донбасу"
-      },
-      {
-        "title": "Благодійний фонд видає безкоштовні продуктові набори: як отримати \nгуманітарну допомогу",
-        "snippet": "",
-        "url": "https://napensii.ua/uk/news-uk/343070-blagodijnyj-fond-vydaye-bezkoshtovni-produktovi-nabory-yak-otrymaty-gumanitarnu-dopomogu/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQY6979dfX5V9zAJf47B0CQei7dlYGxophI3JOQn4ID87zA5NuAzo5RNK2fHW0",
-        "source": "На пенсии"
-      }
-    ]
-  },
-  {
-    "title": "златопіль",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 00:10:00 -0800",
-    "approx_traffic": "2000+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIgqK0v2l668rXasIeBvD08mWguYMw6z1pgOELpRPohhkRHMDgVU9KOxsu8lE",
-    "picture_source": "Радіо Свобода",
-    "news_items": [
-      {
-        "title": "Прокуратура: війська РФ вдарили по Златополю ракетами «Іскандер-М» (фото)",
-        "snippet": "",
-        "url": "https://www.radiosvoboda.org/a/news-prokuratura-zlatopol-udar-iskander/33234723.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIgqK0v2l668rXasIeBvD08mWguYMw6z1pgOELpRPohhkRHMDgVU9KOxsu8lE",
-        "source": "Радіо Свобода"
-      },
-      {
-        "title": "Подвійного удару по Златополю на Харківщині було завдано \"Іскандерами\"",
-        "snippet": "",
-        "url": "https://interfax.com.ua/news/general/1033039.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyFRx8qgZ9NtWgRunFrUscYtKLR2x7dgTpi4POFfYYVDEFRCbYlmXXqnzYwbw",
-        "source": "Інтерфакс-Україна"
-      },
-      {
-        "title": "Росіяни двічі атакували \"Іскандерами\" Златопіль на Харківщині: 10 людей \nпостраждали",
-        "snippet": "",
-        "url": "https://www.pravda.com.ua/news/2024/12/10/7488473/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjODWtxGfxfEX9AP-51EFRt9gBMWyk73irMG1UZg0L_x5U7pqZNRjz2s3NhXU",
-        "source": "Українська правда"
+        "url": "https://ua.korrespondent.net/ukraine/4739163-henshtab-nazvav-vtraty-rf-u-viini",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVolIKQtg05dZNl67z9CWrrvJifmJBTw7HDe8IVaU8VysBqHMYCIdacwmYzMQ",
+        "source": "Korrespondent.net"
       }
     ]
   },
   {
     "title": "індекс інфляції",
     "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Tue, 10 Dec 2024 00:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmN5-whlegK9r9FkM97x_1lQc-fRgLr0Vsg2TvzzG7oD9dgfXdJysYUU2Drsk",
-    "picture_source": "Крим.Реалії",
+    "pubdate": "Tue, 10 Dec 2024 22:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnRVdgsypA2rKlMngpsGTJlLnB-Ik54P5EJGj1p48nPeMSaKW7iVjSL50rnmc",
+    "picture_source": "ТСН",
     "news_items": [
       {
-        "title": "Що буде з цінами у 2025 році? (відео)",
+        "title": "Шалені ціни: з чим пов'язане здорожчання продуктів",
         "snippet": "",
-        "url": "https://ua.krymr.com/a/video-scho-bude-z-tsinamy-u-2025/33231422.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmN5-whlegK9r9FkM97x_1lQc-fRgLr0Vsg2TvzzG7oD9dgfXdJysYUU2Drsk",
-        "source": "Крим.Реалії"
+        "url": "https://tsn.ua/groshi/shaleni-cini-z-chim-pov-yazane-zdorozhchannya-produktiv-2720874.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnRVdgsypA2rKlMngpsGTJlLnB-Ik54P5EJGj1p48nPeMSaKW7iVjSL50rnmc",
+        "source": "ТСН"
       },
       {
-        "title": "Індекс інфляції у 2024 році: дані Держстату",
+        "title": "Інфляція в Україні подолала психологічний рубіж",
         "snippet": "",
-        "url": "https://fakty.com.ua/ua/ukraine/ekonomika/20241210-indeks-inflyacziyi-u-2024-roczi-dani-derzhstatu/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCUBlbTSm1ymmUA2leKu5mQbA-2ZjdToOBILMqL6HkmtV_mtI5dk6NObr_jko",
-        "source": "Факти ICTV"
+        "url": "https://ua.korrespondent.net/business/economics/4739051-infliatsiia-v-ukraini-podolala-psykholohichnyi-rubizh",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzzD7-04RQ2m_Fja63EibT2-gNOmaD9Howa8AsEfHfGpsEWK_IGKJdWWveFZ4",
+        "source": "Korrespondent.net"
       },
       {
-        "title": "Що буде з цінами в Україні: прогнози - Бізнес та Фінанси - Курс України",
+        "title": "Деякі продукти подорожчали на понад 60%: в Україні значно прискорилася інфляція",
         "snippet": "",
-        "url": "https://kurs.com.ua/novost/1293366-chto-budet-s-cenami-v-ukraine-prognozi",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSueVElQCMEyrQIycm9fWoZtpfYahhNLKOEs0mrzVHocjv1SCW6ScEhvGtYxA4",
-        "source": "Курс України"
+        "url": "https://www.unian.ua/economics/agro/cini-na-produkti-v-ukrajini-yaki-tovari-podorozhchali-12848142.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7F3Zk9XxxTjH_VwPMUnWxoZoR7igGo1P-TPV1tRUxlxauJIOdR3ZwVPNKsJc",
+        "source": "УНІАН"
       }
     ]
   }

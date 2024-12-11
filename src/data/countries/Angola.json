@@ -2,93 +2,310 @@
   {
     "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Mon, 9 Dec 2024 21:40:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-iyH6gJCl1HfO9CQv95gNzLVp0MBwl4Aw00y06yESXupvq2RAfB9lGLbVN9U",
-    "picture_source": "KKCO 11 News",
+    "pubdate": "Tue, 10 Dec 2024 21:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrioFmjLgAAdKKVFB4AhSdlltGlrjmLLwoPVfqCGM_bbVmOZGxal_TwPmiZQ",
+    "picture_source": "Texas Storm Chasers",
     "news_items": [
       {
-        "title": "Snow Showers Today & Cold Air Tomorrow",
+        "title": "Here Comes The Next Big Weather Maker!",
         "snippet": "",
-        "url": "https://www.kkco11news.com/2024/12/09/snow-showers-today-cold-air-tomorrow/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-iyH6gJCl1HfO9CQv95gNzLVp0MBwl4Aw00y06yESXupvq2RAfB9lGLbVN9U",
-        "source": "KKCO 11 News"
+        "url": "https://texasstormchasers.com/forecast/here-comes-the-next-big-weather-maker/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrioFmjLgAAdKKVFB4AhSdlltGlrjmLLwoPVfqCGM_bbVmOZGxal_TwPmiZQ",
+        "source": "Texas Storm Chasers"
       },
       {
-        "title": "Denver weather: Cool and breezy Tuesday with sunny skies",
+        "title": "Millions of Texans Face Property Damage as Temperatures Plummet",
         "snippet": "",
-        "url": "https://kdvr.com/weather/weather-forecast/denver-cool-and-breezy-tuesday-with-sunny-skies/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUTWpIG1sVQ4rgwYuLXfIa9JRGkIehIiyYkkG3VAgu9F3OH38xzkBg1jW25ew",
-        "source": "KDVR"
+        "url": "https://www.newsweek.com/winter-weather-warning-texas-property-damage-1998932",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbc8-tMqDlEWNkBw6PtkLIuZoTGO11lnyzlcLY98JJAF0EMZzc9Y2rXroSab8",
+        "source": "Newsweek"
       },
       {
-        "title": "Colorado Storm To Bring Much-Needed Refresh to Ski Resorts",
+        "title": "On Today's Date: Heavy Minneapolis Snow Sets Table For Metrodome Roof Collapse",
         "snippet": "",
-        "url": "https://www.powder.com/news/colorad-storm-refresh-december-2024",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwvVVNAdcCqVMJDSt4nyrnykPjVJeDjjk_Kb1e2aTAx_FN8f0GoBcBEU3RR7c",
-        "source": "POWDER Magazine"
+        "url": "https://www.aol.com/news/todays-date-heavy-minneapolis-snow-110000061.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9kCECm_YSabvKIc8-YDLRZeU3YdLIMlPnB5_SXmIZet-UdvgfqZBWlhsiyIg",
+        "source": "AOL.com"
       }
     ]
   },
   {
-    "title": "getafe",
+    "title": "inter de milão",
     "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Mon, 9 Dec 2024 14:00:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoQapYQXdsi6NWkasNWOc9RzsmrZhNsXMpUl-jJ9dJSNNXhRmiIi0zHypn9RE",
-    "picture_source": "MSN",
+    "pubdate": "Tue, 10 Dec 2024 14:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJr1FvfrD8JNNp8i9mDGNsbyi2LXZQwN1QZsc8u29E9YHMK1L_9Xj8ti33piM",
+    "picture_source": "TNT Sports",
     "news_items": [
       {
-        "title": "España: Álvaro Rodríguez le dio la victoria a Getafe y mandó a callar a los hinchas",
+        "title": "Bayer Leverkusen marca no fim e vence a Inter de Milão na Champions: melhores momentos",
         "snippet": "",
-        "url": "https://www.msn.com/es-xl/noticias/other/espa%C3%B1a-%C3%A1lvaro-rodr%C3%ADguez-le-dio-la-victoria-a-getafe-y-mand%C3%B3-a-callar-a-los-hinchas/ar-AA1vyrQe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoQapYQXdsi6NWkasNWOc9RzsmrZhNsXMpUl-jJ9dJSNNXhRmiIi0zHypn9RE",
-        "source": "MSN"
+        "url": "https://tntsports.com.br/videos/mm_leverkusen_1x0_inter_de_milxo_1012_-_sem_entrega-vf20241210mp4.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJr1FvfrD8JNNp8i9mDGNsbyi2LXZQwN1QZsc8u29E9YHMK1L_9Xj8ti33piM",
+        "source": "TNT Sports"
       },
       {
-        "title": "El 1X1 de un Espanyol que no da para más",
+        "title": "Liga dos Campeões: Grimaldo leva a melhor em duelo com Taremi",
         "snippet": "",
-        "url": "https://onefootball.com/es/noticias/el-1x1-de-un-espanyol-que-no-da-para-mas-40418874",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmeG2HR67IZVIIpfQvMhTOhWb6EfTU9pxhGl-d4sfOFkO4s8tg0t3oZy_rKR0",
-        "source": "OneFootball"
+        "url": "https://www.abola.pt/futebol/noticias/liga-dos-campeoes-grimaldo-leva-a-melhor-em-duelo-com-taremi-2024121022264443653",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5TiY8H96WvNnGfsidjIYC54oO0ODN6Y9zmm2_MIfzaP7K4oWIOhoqt69Wa-4",
+        "source": "A Bola"
       },
       {
-        "title": "El Geta, como un Toro",
+        "title": "Liga dos Campeões de alta intensidade: Atalanta desafia os campeões Real Madrid e Inter enfrenta o ...",
         "snippet": "",
-        "url": "https://www.pressreader.com/spain/marca-leonef1h/20241210/282080577420233",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeqoqZEUDS9VMN4EwDHZGfD0ZURpXrSpR4mwFpc8VxBtl_qxHDtXSHCwEaD5k",
-        "source": "PressReader"
+        "url": "https://www.firstonline.info/pt/champions-ad-alta-intensita-latalanta-sfida-i-campioni-del-real-madrid-e-linter-affronta-i-tedeschi-del-bayer-leverkusen/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9UKQqiuKr3wll3dp6zqiroL45flhKveelh8swgudhSszGeBg_rTTdu2OvWGU",
+        "source": "FIRSTonline"
       }
     ]
   },
   {
-    "title": "endrick",
+    "title": "bayer leverkusen fc inter de milão",
     "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Mon, 9 Dec 2024 09:10:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaQotT9quIhgDbaCBhhf1hbzC1xIpDCTRf-gDLUog6vbRIsrY8s7GvE2syeHA",
-    "picture_source": "90Min.com",
+    "pubdate": "Tue, 10 Dec 2024 13:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFGefCQ4IW7m8yfa-jywOOOWCuNmUaD_utf1xUVTZwZG_FEpn2RXNsJYDf9cA",
+    "picture_source": "Inter.it",
     "news_items": [
       {
-        "title": "Carlo Ancelotti confirms Real Madrid's transfer plans for Endrick",
+        "title": "Youth League, the line-ups from Bayer Leverkusen vs Inter",
         "snippet": "",
-        "url": "https://www.90min.com/carlo-ancelotti-confirms-real-madrid-transfer-plans-endrick",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaQotT9quIhgDbaCBhhf1hbzC1xIpDCTRf-gDLUog6vbRIsrY8s7GvE2syeHA",
-        "source": "90Min.com"
+        "url": "https://www.inter.it/en/news/youth-league-line-ups-bayer-leverkusen-inter",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFGefCQ4IW7m8yfa-jywOOOWCuNmUaD_utf1xUVTZwZG_FEpn2RXNsJYDf9cA",
+        "source": "Inter.it"
       },
       {
-        "title": "Real Madrid Star Makes Decision On Potential Exit, Reports MARCA",
+        "title": "Alonso hails Leverkusen 'maturity and determination' after dramatic Inter win",
         "snippet": "",
-        "url": "https://www.forbes.com/sites/tomsanderson/2024/12/08/real-madrid-star-makes-decision-on-potential-exit-reports-marca/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2xwgG7xkKwH9U0Qgg6-varLWP43l1aC5jhrPcujgQFWUZ7AAYtu5Oi-bC_D4",
-        "source": "Forbes"
+        "url": "https://www.beinsports.com/en-nz/football/uefa-champions-league/articles/alonso-hails-leverkusen-maturity-and-determination-after-dramatic-inter-win-2024-12-11",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc3f7wmSkDQK-RCVFf52xCj3dT7Cc27_w6ixndDD_MJy-LIGa5aXq87111-TU",
+        "source": "beIN SPORTS"
       },
       {
-        "title": "The two Real Madrid football players that worry Florentino Pérez",
+        "title": "Mukiele comments after late winner",
         "snippet": "",
-        "url": "https://www.fichajes.net/en/news/the-two-real-madrid-football-players-that-worry-florentino-perez-20241209.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqk5XQiWAyFZWpGcZC17GMBwqUTnXh8Wfe6ipz4mfHMdBMHD2h_Wll_IOiwdE",
-        "source": "Fichajes.net"
+        "url": "https://bulinews.com/mukiele-comments-after-late-winner",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxB_xKqST6ZNSKJAR2rj4YKvuJ3ImRPzK9OOxHqRD75weUqTjtuGAD3zg4jWQ",
+        "source": "Bundesliga News in English"
+      }
+    ]
+  },
+  {
+    "title": "inter milan",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 10 Dec 2024 13:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc3f7wmSkDQK-RCVFf52xCj3dT7Cc27_w6ixndDD_MJy-LIGa5aXq87111-TU",
+    "picture_source": "beIN SPORTS",
+    "news_items": [
+      {
+        "title": "Alonso hails Leverkusen 'maturity and determination' after dramatic Inter win",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-nz/football/uefa-champions-league/articles/alonso-hails-leverkusen-maturity-and-determination-after-dramatic-inter-win-2024-12-11",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc3f7wmSkDQK-RCVFf52xCj3dT7Cc27_w6ixndDD_MJy-LIGa5aXq87111-TU",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Mukiele comments after late winner",
+        "snippet": "",
+        "url": "https://bulinews.com/mukiele-comments-after-late-winner",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxB_xKqST6ZNSKJAR2rj4YKvuJ3ImRPzK9OOxHqRD75weUqTjtuGAD3zg4jWQ",
+        "source": "Bundesliga News in English"
+      },
+      {
+        "title": "Report – Two Defensive Stalwarts Unavailable For Lazio Vs Inter Milan Serie A Clash",
+        "snippet": "",
+        "url": "https://sempreinter.com/2024/12/11/francesco-acerbi-benjamin-pavard-unavailable-lazio-vs-inter-milan-serie-a-clash/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7jsd9f-w2MUY_xtLVwvPmuMtnw_6WSVuGSfY2AWDQ6iwmsZTbg5swmT_i47E",
+        "source": "SempreInter.com"
+      }
+    ]
+  },
+  {
+    "title": "psv fc",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 10 Dec 2024 13:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4GUvRJLdROmPrnfaDWlZL6w9qzUWhGPfoq0vSShnM1ljl5U1hiW9Dz2BAKEc",
+    "picture_source": "SBI Soccer",
+    "news_items": [
+      {
+        "title": "Americans Abroad Player of the Week: Richie Ledezma - SBI Soccer",
+        "snippet": "",
+        "url": "https://sbisoccer.com/2024/12/americans-abroad-player-of-the-week-richie-ledezma-2",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4GUvRJLdROmPrnfaDWlZL6w9qzUWhGPfoq0vSShnM1ljl5U1hiW9Dz2BAKEc",
+        "source": "SBI Soccer"
+      },
+      {
+        "title": "Golden Prospects: PSV Fans Celebrate American Contributions Amid Premier League Buzz",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2160433-golden-prospects-psv-fans-celebrate-american-contributions-amid-premier-league-buzz",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrYnfq1eQw7BmGtUpxMNG5C3Cpa-Qgizw-lMKopG9V8Yu9fJ6ga6y7P5gcIn0",
+        "source": "FootBoom"
+      },
+      {
+        "title": "USMNT Rewind: PSV’s American contingent stays red hot, a meeting of MNTers in Liga MX, and more from around the globe",
+        "snippet": "",
+        "url": "https://www.ussoccer.com/stories/2024/12/usmnt-rewind-psvs-american-contingent-stays-red-hot-a-meeting-of-mnters-in-liga-mx-and-more-from-around-the-globe",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEp52cPcUxdp3dytfaWVeiBCaHafOKPCaJhvom4R1ZyeptScbRC0c5v-pD1o",
+        "source": "US Soccer"
+      }
+    ]
+  },
+  {
+    "title": "sporting fc",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 10 Dec 2024 12:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB8cK3oXEQYHXcxk5ImziGsIwd9hdvCkh9GrylD0Q0xIXhJovuc8KyW9EIo1A",
+    "picture_source": "CaughtOffside",
+    "news_items": [
+      {
+        "title": "Exclusive: Man United and Man City begin talks for €75m talent with 60 goals in 2024",
+        "snippet": "",
+        "url": "https://www.caughtoffside.com/2024/12/06/viktor-gyokeres-man-united-man-city/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB8cK3oXEQYHXcxk5ImziGsIwd9hdvCkh9GrylD0Q0xIXhJovuc8KyW9EIo1A",
+        "source": "CaughtOffside"
+      },
+      {
+        "title": "“He has the physique” – Manchester United legend backs Red Devils pursuit of target",
+        "snippet": "",
+        "url": "https://sportwitness.co.uk/he-has-the-physique-manchester-united-legend-backs-red-devils-pursuit-of-target/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGl8-cMxZllffRs361ChgxNEDEH4vfhWWJ_XCs_USPqzwP4AZlP-sQhxruIds",
+        "source": "Sport Witness"
+      },
+      {
+        "title": "Details of Gyökeres' Outburst in the Sporting CP Locker Room Revealed",
+        "snippet": "",
+        "url": "https://www.fcbarcelonanoticias.com/en/football-soccer/details-of-gy-keres-outburst-in-the-sporting-cp-locker-room-revealed_309207_102.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxxH6pcYWKH6Q6vnAjzu34Cn3VwHPQSzMgf6OY_OZcUUryNc0jg1fpsll1fsk",
+        "source": "FCBN"
+      }
+    ]
+  },
+  {
+    "title": "sporting",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF6vdn0vDDwGV3DQYsP9DhwkPuW-Lo9Ohu4u-vYi6fZYox5TGHoU4PthnJaQ",
+    "picture_source": "A Bola",
+    "news_items": [
+      {
+        "title": "Sporting: o anão continua, inexplicavelmente, a crescer",
+        "snippet": "",
+        "url": "https://www.abola.pt/futebol/noticias/sporting-o-anao-continua-inexplicavelmente-a-crescer-2024121100094751072",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF6vdn0vDDwGV3DQYsP9DhwkPuW-Lo9Ohu4u-vYi6fZYox5TGHoU4PthnJaQ",
+        "source": "A Bola"
+      },
+      {
+        "title": "DIRETO | Liga dos Campeões: Club Brugge-Sporting",
+        "snippet": "",
+        "url": "https://www.ojogo.pt/3390315849/direto-liga-dos-campeoes-club-brugge-sporting/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGQMQjcZ8JBHNEMuBbHUGUQf0jmvJWtQloTZipjbG-p3ONZ8DQMiy9U6UbC0Y",
+        "source": "O Jogo"
+      },
+      {
+        "title": "Geny Catamo é o primeiro moçambicano de sempre a marcar na Champions League: \"Tudo nos acontece\"",
+        "snippet": "",
+        "url": "https://somosfanaticos.fans/mz/jogadores/geny-catamo/geny-catamo-e-o-primeiro-mocambicano-de-sempre-a-marcar-na-champions-league-tudo-nos-acontece",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBEjv04e30drxcbNgcqHPcivvVGJPf64H6Efz_c_Rrt5q4ql1QjA9-5iSvqms",
+        "source": "Somos Fanáticos"
+      }
+    ]
+  },
+  {
+    "title": "psv",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8_SpOXbdLFRyZUF1eUWgXiTEuKGTdFQu55WkiuNAY7kPTBVh-LmqXlrg9ltU",
+    "picture_source": "Voetbal International",
+    "news_items": [
+      {
+        "title": "Tussenrapport PSV in CL: Tillman blinkt uit en Belgische tegenvallers",
+        "snippet": "",
+        "url": "https://www.vi.nl/nieuws/tussenrapport-psv-in-cl-tillman-blinkt-uit-en-belgische-tegenvallers",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8_SpOXbdLFRyZUF1eUWgXiTEuKGTdFQu55WkiuNAY7kPTBVh-LmqXlrg9ltU",
+        "source": "Voetbal International"
+      },
+      {
+        "title": "Bosz kan vernietigende term Boscagli alleen maar beamen: 'Geldt voor mij ook'",
+        "snippet": "",
+        "url": "https://www.voetbalprimeur.nl/videos/1243890/peter-bosz-en-olivier-boscagli-roerend-eens-over-psv-spel.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xj4hzAjaXoU2nhD-VLmtwDy2rMUTxoY6hMhOLs8YAswDGOQAvx3XK0P87WU",
+        "source": "VoetbalPrimeur.nl"
+      },
+      {
+        "title": "Dreun PSV in Champions League plaatst galavoorstellingen in eredivisie in ander perspectief",
+        "snippet": "",
+        "url": "https://www.parool.nl/sport/dreun-psv-in-champions-league-plaatst-galavoorstellingen-in-eredivisie-in-ander-perspectief~ba5c028a/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGar9clBCWAeA0gVoRnXnI_hLWREmFZQStWlFVfVTq3DQEVBXPigmr_DVSkn8",
+        "source": "Het Parool"
+      }
+    ]
+  },
+  {
+    "title": "real madrid club de fútbol",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2xqBlzNlNFEM566svvPYnas2dgMRONkI20I1RUqXACajxnRxjCsz7iXdIcGY",
+    "picture_source": "Noticias Morelos TV",
+    "news_items": [
+      {
+        "title": "Copa del Rey: Real Madrid y Barcelona listos para iniciar su camino",
+        "snippet": "",
+        "url": "https://noticiasmorelostv.org/copa-del-rey-real-madrid-y-barcelona-listos-para-iniciar-su-camino/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2xqBlzNlNFEM566svvPYnas2dgMRONkI20I1RUqXACajxnRxjCsz7iXdIcGY",
+        "source": "Noticias Morelos TV"
+      },
+      {
+        "title": "La Promesa de Courtois al Portero de Deportiva Minera Antes del Épico Encuentro de la Copa del Rey Contra el Real Madrid: \"Significa Mucho Para Mí\"",
+        "snippet": "",
+        "url": "https://www.footboom1.com/es/news/football/2162909-courtois-promise-to-deportiva-minera-keeper-ahead-of-epic-copa-del-rey-clash-against-real-madrid-it-means-a-lot-to-me",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJrYs69IrmZWiDpFEwCHvwnqwNVwlt3lemfvp8pykQ8DX4wv_EmjVa5ECk6ns",
+        "source": "FootBoom"
+      },
+      {
+        "title": "¿Cuál es el rival del Real Madrid en los dieciseisavos de final de la Copa del Rey?",
+        "snippet": "",
+        "url": "https://fansided.com/es/cual-rival-real-madrid-dieciseisavos-final-copa-rey",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVa7OQ_PWEWZguMfhZEvz9kEn-6NnfnIg6X97mNiImalvSi-m2iWr_EPjFJYY",
+        "source": "FanSided"
+      }
+    ]
+  },
+  {
+    "title": "real vs atalanta",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD9nfjuFCnRqG0N097_GJfCN3RDYTAJ0N7GIqykkXrH_yHUtuFLJK7xL9o9_U",
+    "picture_source": "Goal.com",
+    "news_items": [
+      {
+        "title": "Le Real Madrid recadre Kylian Mbappé après sa célébration contre l’Atalanta",
+        "snippet": "",
+        "url": "https://www.goal.com/fr/news/le-real-madrid-recadre-kylian-mbappe-apres-sa-celebration-contre-l-atalanta/blt027210c416e7c16b",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD9nfjuFCnRqG0N097_GJfCN3RDYTAJ0N7GIqykkXrH_yHUtuFLJK7xL9o9_U",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Le trio Bellingham-Mbappé-Vinicius choque l’Espagne, le PSG rassure la presse",
+        "snippet": "",
+        "url": "https://www.footmercato.net/a8569475571944348774-le-trio-bellingham-mbappe-vinicius-choque-lespagne-le-psg-rassure-la-presse",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCHCMZuS7uEyHNR4xvz5F-fkNEukVyUyQL2uZjw4a8orRXDlrhFy5pk8oN22w",
+        "source": "Foot Mercato"
+      },
+      {
+        "title": "Rodrygo : \"Le calendrier est un peu fou\"",
+        "snippet": "",
+        "url": "https://real-france.fr/rodrygo-le-calendrier-est-un-peu-fou/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPXIzCbWSV674irSAfc-8SAoNU_q4iTngJ7peoleDUE_fC5duOYeYdH1ywgE",
+        "source": "Real France"
       }
     ]
   }

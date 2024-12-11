@@ -1,63 +1,196 @@
 [
   {
-    "title": "weather",
+    "title": "livescore",
     "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Mon, 9 Dec 2024 21:40:00 -0800",
-    "approx_traffic": "2000+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhs2AbgzUl5QZOoKGwG6gBQ-ImTZJ7tjf6dLyjiwmGBTgLqePCvGKCULKJtc",
-    "picture_source": "The Denver Post",
+    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "uefa champions league",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpKTQqghKtycMwr7_p4l7SyoUQ3ZscNUWwWn-1fI1cSE7eOotps5RFpc6JkI",
+    "picture_source": "beIN SPORTS",
     "news_items": [
       {
-        "title": "Northbound I-25 reopens in Douglas County after snowy semitrailer crash",
+        "title": "Luis Enrique Not Thrilled After PSG's Champions League Victory",
         "snippet": "",
-        "url": "https://www.denverpost.com/2024/12/09/northbound-southbound-i25-douglas-county-crashes-road-closure/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhs2AbgzUl5QZOoKGwG6gBQ-ImTZJ7tjf6dLyjiwmGBTgLqePCvGKCULKJtc",
-        "source": "The Denver Post"
+        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/psg-need-to-improve-to-avoid-champions-league-elimination-according-to-enrique-2024-12-11",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpKTQqghKtycMwr7_p4l7SyoUQ3ZscNUWwWn-1fI1cSE7eOotps5RFpc6JkI",
+        "source": "beIN SPORTS"
       },
       {
-        "title": "School districts announce delayed starts during slick Tuesday morning commute",
+        "title": "PSG wins and enters the playoff zone",
         "snippet": "",
-        "url": "https://www.9news.com/article/weather/weather-colorado/colorado-schools-closed-delays-snow/73-5b42ab6b-3ca3-40f7-acfa-64070e5d7f09",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLLMLx288vCPJSQHyBSo_m_Lxa3ux6zH5-vBNi75FsgvbDCzt9dEUSY8SdQSE",
-        "source": "9News"
+        "url": "https://www.koha.net/en/futboll/psg-ja-fiton-dhe-del-ne-zonen-e-plejofit",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-S0Kxfk6Fs-iqVftIf90ZdmfbvfrCCylHcs381oOBvUd2Fwsd1GPQ5I1oUHE",
+        "source": "KOHA.net"
       },
       {
-        "title": "Cold Start To Tuesday; Warm-Up Coming",
+        "title": "PSG's Champions League campaign given new life thanks to Nuno Mendes, \nGoncalo Ramos and Desire Doue goals",
         "snippet": "",
-        "url": "https://krdo.com/video/weather-video-2/2024/12/10/cold-start-to-tuesday-warm-up-coming/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQShgKg72tDGwYFMwBwuulY4_eEaPGcHfHS6MkEWRdBTOGcf8XARzvx1CgSg0U",
-        "source": "KRDO"
+        "url": "https://www.cbssports.com/soccer/news/psgs-champions-league-campaign-given-new-life-thanks-to-nuno-mendes-goncalo-ramos-and-desire-doue-goals/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX2F_SoQyIs5IAiMcA9yBTGke5xW_ZlFNaSk61KDSnownmf5N5ONL29S85f8",
+        "source": "CBS Sports"
       }
     ]
   },
   {
-    "title": "luigi mangione",
+    "title": "real madrid",
     "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Mon, 9 Dec 2024 17:10:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
-    "picture_source": "CNN",
+    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuNS-gilYf9Aicvf8K2VKq9UbIwETunDzXDl8vGfVqYwvoozBW488C35dLsUE",
+    "picture_source": "Diario AS",
     "news_items": [
       {
-        "title": "‘I never got the impression he would self-destruct:’ Friends of suspect in fatal CEO shooting left in shock",
+        "title": "Reacciones, análisis y comentarios del Atalanta 2-3 Real Madrid de \nChampions League",
         "snippet": "",
-        "url": "https://www.cnn.com/2024/12/09/us/luigi-mangione-what-we-know-monday/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
-        "source": "CNN"
+        "url": "https://as.com/futbol/champions/reacciones-analisis-y-comentarios-del-atalanta-2-3-real-madrid-de-champions-league-n/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuNS-gilYf9Aicvf8K2VKq9UbIwETunDzXDl8vGfVqYwvoozBW488C35dLsUE",
+        "source": "Diario AS"
       },
       {
-        "title": "UnitedHealthcare CEO shooting: Suspect charged with murder, said 'these parasites had it coming' in handwritten note",
+        "title": "Atalanta - Real Madrid: resumen, resultado y goles",
         "snippet": "",
-        "url": "https://www.nbcnews.com/news/us-news/live-blog/unitedhealthcare-ceo-shooting-suspect-charged-murder-live-updates-rcna183566",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSms806I2hM-URrnIWpZdrtXAefOsyRpWfPqVEQfwjJRyGtT8Zh4z0Z0IexVdM",
-        "source": "NBC News"
+        "url": "https://www.marca.com/futbol/champions-league/atalanta-r-madrid/2024/12/10/01_0103_20241210_456_186-directo.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
+        "source": "Marca.com"
       },
       {
-        "title": "Luigi Mangione, alleged UnitedHealthcare CEO killer, charged with murder in New York",
+        "title": "Poesía para los oídos madridistas, así fue la narración de Rac-1 del fallo \nde Retegui en el 93’",
         "snippet": "",
-        "url": "https://www.foxnews.com/us/luigi-mangione-alleged-unitedhealthcare-ceo-killer-charged-murder-new-york",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVVP7UPCwCPD6FMTIxaJJ2A1QO88aVljzSDTQ3p7HxKY1vrtegX_dX-y8TbSQ",
-        "source": "Fox News"
+        "url": "https://www.realmadridexclusivo.com/lo-mas-visto/poesia-oidos-madridistas-fue-narracion-rac-1-fallo-retegui-en-93_165496_102.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJkTwXDdXW0B15lgApSbaYYlbcIhBEl55L7_sXGTTW9KQPucV4bMqGU-V4FqI",
+        "source": "Real Madrid Exclusivo"
+      }
+    ]
+  },
+  {
+    "title": "shakhtar donetsk vs bayern",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuzvucN6q18H5VKzP4Yu8gzyqhd43bbYIi_uHCPXGOzznq_4mWoPTxO0Q9n_Y",
+    "picture_source": "ESPN",
+    "news_items": [
+      {
+        "title": "Bayern 5-1 Shakhtar (Dec 10, 2024) Game Analysis",
+        "snippet": "",
+        "url": "https://www.espn.com/soccer/report/_/gameId/720415",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuzvucN6q18H5VKzP4Yu8gzyqhd43bbYIi_uHCPXGOzznq_4mWoPTxO0Q9n_Y",
+        "source": "ESPN"
+      },
+      {
+        "title": "'Like in Mario Kart when you get a star!' - Michael Olise praised by Bayern \nteam-mate for superb solo goal in 5-1 Champions League win over Shakhtar",
+        "snippet": "",
+        "url": "https://www.goal.com/en-us/lists/mario-kart-star-michael-olise-praised-by-bayern-team-mate-superb-solo-goal-5-1-champions-league-win-shakhtar/blt760888c88389220c",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNV09eTtoOe61OfqG3ddX5ZnUhjeTnUjnmJYgRqkYxdEpQfA8ZwGSULdsbPRc",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Shakhtar Donetsk 1-5 Bayern Munich: Michael Olise double helps Bayern \nthrash Shakhtar",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/c80vvyl2gymt",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPjGguOTouSBu71ntymb_REiceLcm1GEUPYMF2Lk1_tFHQEVgZr9V4mYQn8K4",
+        "source": "BBC"
+      }
+    ]
+  },
+  {
+    "title": "leverkusen vs inter",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Tue, 10 Dec 2024 11:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW1dsxXPlmUuDPFQ6qixS5t-5hgsyEGPD5nasl6OqsTOzOjP8yFhwj7VnByw",
+    "picture_source": "SempreInter.com",
+    "news_items": [
+      {
+        "title": "Inter Milan Manager Blasts Lethargic Nerazzurri Performance Vs Bayer \nLeverkusen: “Not Good Enough”",
+        "snippet": "",
+        "url": "https://sempreinter.com/2024/12/10/simone-inzaghi-blasts-inter-milan-performance-not-good-enough/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW1dsxXPlmUuDPFQ6qixS5t-5hgsyEGPD5nasl6OqsTOzOjP8yFhwj7VnByw",
+        "source": "SempreInter.com"
+      },
+      {
+        "title": "Inter Milan's Matteo Darmian Urges Teammates to Stay Confident After Bayer \nLeverkusen Setback",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2167256-inter-milan-s-matteo-darmian-urges-teammates-to-stay-confident-after-bayer-leverkusen-setback",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCAeJnN3yEVEb1WkUfbOLloGlTQdqVItDJM1SgyFrY00RUI5RQ4c6WGkt8Wt8",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Subpar Offensive Production Starting to Hinder Inter",
+        "snippet": "",
+        "url": "https://cultofcalcio.com/subpar-offensive-production-starting-to-hinder-inter/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhHmhdXak2o8G1DwzcUk4Wilyx55U2kYOPuaNXr_uVgq0FEW3LVWv70PCc-14",
+        "source": "The Cult of Calcio"
+      }
+    ]
+  },
+  {
+    "title": "atalanta vs real madrid",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Tue, 10 Dec 2024 11:00:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+    "picture_source": "beIN SPORTS",
+    "news_items": [
+      {
+        "title": "Real Madrid revive Champions League title defence with win at spirited \nAtalanta",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/real-madrid-revive-champions-league-title-defence-with-win-at-spirited-atalanta-2024-12-10",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Atalanta vs Real Madrid 2-3: UEFA Champions League – as it happened",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/sports/liveblog/2024/12/10/live-real-madrid-vs-atalanta-uefa-champions-league-team-news-stream",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBiSxmx4PD7cjABUr2Fzu9B0aB__kua1kq8Fheh4GWr6pm3HCndNbnrsXKRI",
+        "source": "Al Jazeera"
+      },
+      {
+        "title": "Brahim: “These games are made for Madrid and today we proved that and got \nthe win\"",
+        "snippet": "",
+        "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/declaraciones-jugador-10-12-2024",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2HhZllCQWA_fLHB8KlFmj8ZfApSR5kLz7ARcIedmhkXqagLJQX9Ic96niGUc",
+        "source": "Real Madrid CF"
+      }
+    ]
+  },
+  {
+    "title": "girona vs liverpool",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Tue, 10 Dec 2024 09:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVhS-1ZQQIDfWjl0qXs_1H5hwf82TtQ2UO9Qb4HvefxS5IAY42JqL3Rp3GhRU",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Girona 0-1 Liverpool: Mohamed Salah scores in Champions League as Allison \nBecker returns",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/c6233zj1q3pt",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVhS-1ZQQIDfWjl0qXs_1H5hwf82TtQ2UO9Qb4HvefxS5IAY42JqL3Rp3GhRU",
+        "source": "BBC"
+      },
+      {
+        "title": "Michel admits Girona need 'magic' to beat Liverpool in Champions League",
+        "snippet": "",
+        "url": "https://www.flashscore.com/news/soccer-champions-league-michel-admits-girona-need-magic-to-beat-liverpool-in-champions-league/UXFT5dqR/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu65LSK9CEFeUv3kWQgAnoQNgsi2cdyO-3heQhA1z1LOwVRBVz6ISGL2Q3cvk",
+        "source": "Flashscore.com"
+      },
+      {
+        "title": "Girona manager Michel puts pundits to shame with dignified verdict on \ndecisive Liverpool penalty",
+        "snippet": "",
+        "url": "https://onefootball.com/de/news/girona-manager-michel-puts-pundits-to-shame-with-dignified-verdict-on-decisive-liverpool-penalty-40424376",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0X5_VHNhsOVCszULxrGBPtzxzqd_g8PMUu46UrEldAHkoX98icL_jxNXbxpE",
+        "source": "OneFootball"
       }
     ]
   }

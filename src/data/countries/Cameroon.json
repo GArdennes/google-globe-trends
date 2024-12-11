@@ -1,118 +1,297 @@
 [
   {
-    "title": "getafe vs espanyol",
+    "title": "alice nkom",
     "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Mon, 9 Dec 2024 13:40:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjsBnmEdrA3GBb8UQ_-jHC3gAN9HebCGaa2o7K-A68olE-b5bhhuXIBB1h36k",
+    "pubdate": "Tue, 10 Dec 2024 21:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2AZ_SokQWsKflDQl12fXLLSQKPZ0NgH6zZ_4aG5WPGieEGzs7WYvM4Aq99eM",
+    "picture_source": "Actu Cameroun",
+    "news_items": [
+      {
+        "title": "Aristide Mono: « Je soutiens l’acte posé par Me Alice Nkom. (…) Qu’ils l’arrêtent alors, on voit »",
+        "snippet": "",
+        "url": "https://actucameroun.com/2024/12/10/aristide-mono-je-soutiens-lacte-pose-par-me-alice-nkom-quils-larretent-alors-on-voit/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2AZ_SokQWsKflDQl12fXLLSQKPZ0NgH6zZ_4aG5WPGieEGzs7WYvM4Aq99eM",
+        "source": "Actu Cameroun"
+      },
+      {
+        "title": "Cameroun : Me Alice Nkom répond à la convocation du préfet",
+        "snippet": "",
+        "url": "https://fr.journalducameroun.com/cameroun-me-alice-nkom-repond-a-la-convocation-du-prefet/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ22UNVyHcM8524knMCXivdNUcKy8sEqhRj32meRjwwILSy6pJ2D_jhR7thCw",
+        "source": "Journalducameroun.com"
+      },
+      {
+        "title": "Financements illicites : des associations suspendues",
+        "snippet": "",
+        "url": "https://www.cameroon-tribune.cm/article.html/68355/fr.html/financements-illicites-associations",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxssVTYhk_f3F_iY1vDaWElfoTcJednKdTLBOM3uElpEHxTrvzGvb-QWxARBI",
+        "source": "Cameroon-Tribune"
+      }
+    ]
+  },
+  {
+    "title": "champions league table",
+    "link": "https://trends.google.com/trending/rss?geo=CM",
+    "pubdate": "Tue, 10 Dec 2024 14:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNDhCW9LIRqFiISP3buQ4yyXQki7bfGwFLifE69mwXpSGc13OvUDZR0shE_-w",
+    "picture_source": "SportyTrader",
+    "news_items": [
+      {
+        "title": "Champions League: Who's disappointed ahead of Matchday 6, and which teams \nare the surprise packages?",
+        "snippet": "",
+        "url": "https://www.sportytrader.com/us/news/champions-league-matchday-6-2024-2025/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNDhCW9LIRqFiISP3buQ4yyXQki7bfGwFLifE69mwXpSGc13OvUDZR0shE_-w",
+        "source": "SportyTrader"
+      },
+      {
+        "title": "UCL Fantasy Matchday 6: Ed’s team reveal, Limitless + players to buy",
+        "snippet": "",
+        "url": "https://www.fantasyfootballscout.co.uk/2024/12/10/ucl-fantasy-matchday-6-eds-team-reveal-limitless-players-to-buy/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCx7IwDQ3H621l8zTzUUYaU_4G90NeRiPjbedMPgLvm3LIqNjzPRG-Qt3f9k",
+        "source": "Fantasy Football Scout"
+      },
+      {
+        "title": "Champions League expert picks, predictions, best bets: Barcelona to beat \nDortmund; Juve and City to draw?",
+        "snippet": "",
+        "url": "https://www.cbssports.com/soccer/news/champions-league-expert-picks-predictions-best-bets-barcelona-to-beat-dortmund-juve-and-city-to-draw/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQni4FLPJKEkBlSliR_HUzpLGH-HTqjRD2aJ8CEGkoJq3Qx-fzh6ZhJzwTQVbk",
+        "source": "CBS Sports"
+      }
+    ]
+  },
+  {
+    "title": "classement ligue des champions de l'uefa",
+    "link": "https://trends.google.com/trending/rss?geo=CM",
+    "pubdate": "Tue, 10 Dec 2024 14:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7z5FHErRwrKEbWshbATNmQS9L9IxlHBtM1vvUl8BV3Ri8UcFWa-zIC3CfNQ",
+    "picture_source": "UEFA.com",
+    "news_items": [
+      {
+        "title": "Huitièmes de finale et barrages de la Ligue des champions : qui est \nqualifié ?",
+        "snippet": "",
+        "url": "https://fr.uefa.com/uefachampionsleague/news/0294-1c87ba581ac3-f5f7ae26e91a-1000--huitiemes-de-finale-et-barrages-de-la-ligue-des-champions-q/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7z5FHErRwrKEbWshbATNmQS9L9IxlHBtM1vvUl8BV3Ri8UcFWa-zIC3CfNQ",
+        "source": "UEFA.com"
+      },
+      {
+        "title": "Sorteo des Play-offs de la Ligue des Champions et de la Ligue Europa : \ntoutes les infos de l'UEFA",
+        "snippet": "",
+        "url": "https://www.lesnews.ca/football/ligue-europa/sorteo-des-play-offs-de-la-ligue-des-champions-et-de-la-ligue-europa-toutes-les-infos-de-luefa/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGOyV0zQQ21d0wYsKxVuzf-YYo-Z3obul8wedVTnsgWeSJfDOAVubodrfkKas",
+        "source": "www.lesnews.ca"
+      },
+      {
+        "title": "Comment se déroule la nouvelle phase à élimination directe des compétitions \nde clubs de l'UEFA ?",
+        "snippet": "",
+        "url": "https://fr.uefa.com/uefachampionsleague/video/0294-1c899d239fe6-19417a5a674a-1000--comment-se-deroule-la-nouvelle-phase-a-elimination-directe-/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIplOm3IXVC73bfG8X_peyDTPE9BBLbmm4mCRdc-hOsYmEmB3y0akF4vBvFw",
+        "source": "UEFA.com"
+      }
+    ]
+  },
+  {
+    "title": "leverkusen vs inter",
+    "link": "https://trends.google.com/trending/rss?geo=CM",
+    "pubdate": "Tue, 10 Dec 2024 14:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLyHpYCQDeQSD1JceVVAGA_W-JzMLC1SzC8K9m0bc_knRA6TTMKEW4KzxohBY",
     "picture_source": "Sports Mole",
     "news_items": [
       {
-        "title": "Preview: Getafe vs. Espanyol - prediction, team news, lineups",
+        "title": "Preview: Bayer Leverkusen vs. Inter Milan - prediction, team news, lineups",
         "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/espanyol/preview/preview-getafe-vs-espanyol-prediction-team-news-lineups_560048.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjsBnmEdrA3GBb8UQ_-jHC3gAN9HebCGaa2o7K-A68olE-b5bhhuXIBB1h36k",
+        "url": "https://www.sportsmole.co.uk/football/bayer-leverkusen/champions-league/preview/preview-b-leverkusen-vs-inter-milan-prediction-team-news-lineups_560149.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLyHpYCQDeQSD1JceVVAGA_W-JzMLC1SzC8K9m0bc_knRA6TTMKEW4KzxohBY",
         "source": "Sports Mole"
       },
       {
-        "title": "Joan García: \"We are fully behind Manolo\"",
+        "title": "Artem Stepanov on the Bench for Match Against Inter",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2162495-joan-garcia-we-are-fully-behind-manolo",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsCjbA1Ixzeux0RyGmaw3hBrzballDjsipe9PitniJGIaT4plMp99uDmSe2_s",
+        "url": "https://www.footboom1.com/en/news/football/2164452-artem-stepanov-on-the-bench-for-match-against-inter",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC02j9a24iPcmUbnVGsXb1_ls5Q4Ps7k1b1fk63XZkVZ3t3j4siaBbnr50JsM",
         "source": "FootBoom"
       },
       {
-        "title": "Getafe extract mammoth three points from Espanyol in relegation six-pointer",
+        "title": "Bayer Leverkusen Manager Offers His Assessment Of UEFA Champions League \nTriumph: “We Respect Inter, But We Wanted To Win”",
         "snippet": "",
-        "url": "https://www.football-espana.net/2024/12/09/getafe-extract-mammoth-three-points-from-espanyol-in-relegation-six-pointer",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ORqpJawnY-C2T7TUjNQg6fgbPf1IOF5cLJj_PAN9fnFjNQT1MvAUWRH_0ZA",
-        "source": "Football España"
+        "url": "https://onefootball.com/fr/news/bayer-leverkusen-manager-offers-his-assessment-of-uefa-champions-league-triumph-we-respect-inter-but-we-wanted-to-win-40423203",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRbw2jNKjoBsBFyWNcBg15AFVAbfIxxLOzyxCsRdCEHHXIb_Qm_RxGpr_z2ZU",
+        "source": "OneFootball"
       }
     ]
   },
   {
-    "title": "michail antonio",
+    "title": "classement champions league",
     "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Mon, 9 Dec 2024 12:00:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDTtaEcxNwSglpCjEVQkl4-wdQX2bQtl47syB4s6R58GJKn4XfgIvOxQUefAY",
-    "picture_source": "Le Soir",
+    "pubdate": "Tue, 10 Dec 2024 13:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRigSxKR6S89-XfDKkc5FoX2oXUV9LowqyyGYRrye6g9678XI2UuJzYqYsOBco",
+    "picture_source": "RMC Sport",
     "news_items": [
       {
-        "title": "Premier League : Michail Antonio opéré après son grave accident de la route",
+        "title": "Ligue des champions: le Real gagne en perdant Mbappé, le Bayern en balade, \nLeipzig premier éliminé",
         "snippet": "",
-        "url": "https://www.lesoir.be/641098/article/2024-12-08/premier-league-michail-antonio-opere-apres-son-grave-accident-de-la-route",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDTtaEcxNwSglpCjEVQkl4-wdQX2bQtl47syB4s6R58GJKn4XfgIvOxQUefAY",
-        "source": "Le Soir"
+        "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/direct-gerone-liverpool-atalanta-real-leverkusen-inter-suivez-en-live-les-affiches-de-la-6e-journee-de-ligue-des-champions_LS-202412100410.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRigSxKR6S89-XfDKkc5FoX2oXUV9LowqyyGYRrye6g9678XI2UuJzYqYsOBco",
+        "source": "RMC Sport"
       },
       {
-        "title": "L’échappée de Michail Antonio d’un terrible accident de voiture.",
+        "title": "Les 9 infos à savoir sur la soirée : trois énormes chocs, la L1 peut \nfrapper fort, des confirmations attendues...",
         "snippet": "",
-        "url": "https://motorcyclesports.net/fr/l-echappee-presque-mortelle-de-michail-antonio-dans-un-accident-de-voiture-terrifiant/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPcTFXkEHy-pHaAjyrwrwIiGif4Wjl-eDje23_dpF6YBFoYX8ocu9ucmwl3ek",
-        "source": "Motorcycle Sports"
+        "url": "https://m.maxifoot.fr/football/article-59773.htm",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR07OkQGErWkbCXgRU_1Bde2IyV3gF2n-OasL5jTGS3hKaad5B7G1oecQUUV5M",
+        "source": "Maxifoot"
+      },
+      {
+        "title": "J6 : le classement complet de la Ligue des Champions",
+        "snippet": "",
+        "url": "https://www.footmercato.net/a2005917360622925061-j6-le-classement-complet-de-la-ligue-des-champions",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUcTloCs_CfcNVD1_bk858nvD2J853yvWh9DOcip2YNtAbJb6ulLjhUpSVo5c",
+        "source": "Foot Mercato"
       }
     ]
   },
   {
-    "title": "west ham – wolves",
+    "title": "score",
     "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Mon, 9 Dec 2024 11:20:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOR3Nj-mrfEpVVTFX4gvMTcvmgj8GwJh2ezR5m-rkGV1eatHKUPw9097zcJNw",
-    "picture_source": "BBC",
+    "pubdate": "Tue, 10 Dec 2024 13:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7fq0bTVNvIL4SjQpmeydKgXXWm-qzSNwtwB-l8cTOHVk0sj_ATDgsX_sazJE",
+    "picture_source": "The New York Times",
     "news_items": [
       {
-        "title": "West Ham 2-1 Wolves LIVE: Jarrod Bowen scores winner as West Ham increase \npressure on Wolves boss Gary O'Neil",
+        "title": "‘The Texas Chain Saw Massacre’ Score, a Noisy Gem, Will Arrive at Last",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cly7j2pngr4t",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOR3Nj-mrfEpVVTFX4gvMTcvmgj8GwJh2ezR5m-rkGV1eatHKUPw9097zcJNw",
-        "source": "BBC"
+        "url": "https://www.nytimes.com/2024/12/11/arts/music/texas-chain-saw-massacre-score-m.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7fq0bTVNvIL4SjQpmeydKgXXWm-qzSNwtwB-l8cTOHVk0sj_ATDgsX_sazJE",
+        "source": "The New York Times"
       },
       {
-        "title": "Joe Cole Sees Goals in 18/1 Bet Builder",
+        "title": "Syed Mushtaq Ali Trophy Quarterfinal Live Score: VID 181/3 (18) vs MUM, \nJitesh Sharma at crease; Baroda beats Bengal",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2160772-joe-cole-sees-goals-in-18-1-bet-builder",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbKPqyRwDD4fOtis1bLfFB88gbyBohabgiJgHK8byuYoEsfwud0wu3sD4dHew",
-        "source": "FootBoom"
+        "url": "https://sportstar.thehindu.com/cricket/domestic/smat-2024-live-score-syed-mushtaq-ali-quarterfinal-updates-trophy-t20-highlights-commentary-streaming-info/article68968999.ece",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjK9dLwU0nnu066LjJ_8fd7nT_wWE84igg5lmGbL9EghSBcokBuHKe3tCEqaA",
+        "source": "Sportstar"
       },
       {
-        "title": "'A stay of execution - but for how long?'",
+        "title": "Delhi Vs Uttar Pradesh, SMAT 2024 QF 2 Live Score: Confident DEL Meet \nBhuvneshwar Kumar's UP In Bengaluru",
         "snippet": "",
-        "url": "https://www.aol.com/stay-execution-long-091056992.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDr1PZsUsjkLBYdfdZMaVV5VLAp65AbPQisy0ZguNudowWtB0jJgAdHoQSvXo",
-        "source": "AOL.com"
+        "url": "https://www.outlookindia.com/sports/cricket/delhi-vs-uttar-pradesh-live-score-syed-mushtaq-ali-trophy-2024-quarter-final-2-updates-m-chinnaswamy-stadium-bengaluru-bhuvneshwar-kumar-rinku-singh",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6_Lwy8I8CtTD79IIh2oNoSDpcM101G_hKlDfGuaUj8ylApr2TDgzYtNHx378",
+        "source": "Outlook India"
       }
     ]
   },
   {
-    "title": "getafe – espanyol",
+    "title": "bayern",
     "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Mon, 9 Dec 2024 11:10:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoQapYQXdsi6NWkasNWOc9RzsmrZhNsXMpUl-jJ9dJSNNXhRmiIi0zHypn9RE",
-    "picture_source": "MSN",
+    "pubdate": "Tue, 10 Dec 2024 13:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQROjnqnDcpxB9QH_Z6n_kQtOKYUu57fa_Svmyqgv_gKxeJ3clmjzPavxu5PB8",
+    "picture_source": "RAN",
     "news_items": [
       {
-        "title": "España: Álvaro Rodríguez le dio la victoria a Getafe y mandó a callar a los \nhinchas",
+        "title": "Champions League: Warum spielt Schachtar Donezk eigentlich auf Schalke?",
         "snippet": "",
-        "url": "https://www.msn.com/es-xl/noticias/other/espa%C3%B1a-%C3%A1lvaro-rodr%C3%ADguez-le-dio-la-victoria-a-getafe-y-mand%C3%B3-a-callar-a-los-hinchas/ar-AA1vyrQe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoQapYQXdsi6NWkasNWOc9RzsmrZhNsXMpUl-jJ9dJSNNXhRmiIi0zHypn9RE",
+        "url": "https://www.ran.de/sports/fussball/champions-league/news/champions-league-warum-spielt-schachtar-donezk-eigentlich-auf-schalke-470693",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQROjnqnDcpxB9QH_Z6n_kQtOKYUu57fa_Svmyqgv_gKxeJ3clmjzPavxu5PB8",
+        "source": "RAN"
+      },
+      {
+        "title": "Donetsk keine Hürde: Dreimal Bestnote für die Bayern",
+        "snippet": "",
+        "url": "https://www.fussballtransfers.com/a6809304751295473328-donetsk-keine-huerde-dreimal-bestnote-fuer-die-bayern",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7NPDzgu5v7E35xQU5RIwA4Opqt6HtPkYzdhhCO6tTtuWv3vopE8tQzQxJwzo",
+        "source": "Fussball Transfers"
+      },
+      {
+        "title": "Sieg auf Schalke: Müller \"melancholisch\", Kompany \"rational\"",
+        "snippet": "",
+        "url": "https://de.nachrichten.yahoo.com/sport/sieg-schalke-m%C3%BCller-melancholisch-kompany-043051228.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo81p56qjwXVcbAqmSs7GqsPjAPULH5zAo0aNfIzZWKKa4HB7YXjCROjTCKxA",
+        "source": "Yahoo Nachrichten"
+      }
+    ]
+  },
+  {
+    "title": "livescore",
+    "link": "https://trends.google.com/trending/rss?geo=CM",
+    "pubdate": "Tue, 10 Dec 2024 12:50:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Z60OVtWCOfu1knPKeznWMKR-f1iQ6zts-ovsI-KQI9EYZJkr8E0Na6-n4Lw",
+    "picture_source": "Sports Mole",
+    "news_items": [
+      {
+        "title": "Live Scores",
+        "snippet": "",
+        "url": "https://amp.sportsmole.co.uk/live-scores/?t=34336",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Z60OVtWCOfu1knPKeznWMKR-f1iQ6zts-ovsI-KQI9EYZJkr8E0Na6-n4Lw",
+        "source": "Sports Mole"
+      }
+    ]
+  },
+  {
+    "title": "live score",
+    "link": "https://trends.google.com/trending/rss?geo=CM",
+    "pubdate": "Tue, 10 Dec 2024 12:50:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8tszhAED3Xlq7l8tAgg3XdhQtATJQfh_SIWQJCnV5ONk588Fmheq9DGyLF60",
+    "picture_source": "Onmanorama",
+    "news_items": [
+      {
+        "title": "Pandya helps Baroda beat Shami's Bengal to enter Syed Mushtaq T20 semis",
+        "snippet": "",
+        "url": "https://www.onmanorama.com/sports/cricket/2024/12/11/syed-mushtaq-ali-t20-quarterfinal-baroda-vs-bengal.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8tszhAED3Xlq7l8tAgg3XdhQtATJQfh_SIWQJCnV5ONk588Fmheq9DGyLF60",
+        "source": "Onmanorama"
+      },
+      {
+        "title": "'At least he'll score more than Rohit, Kohli': Mohammed Shami blasts 32 off \n17 balls, his highest T20 score, in SMAT",
+        "snippet": "",
+        "url": "https://www.msn.com/en-us/sports/other/at-least-hell-score-more-than-rohit-kohli-mohammed-shami-blasts-32-off-17-balls-his-highest-t20-score-in-smat/ar-AA1vwcxY",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg4Ul-b2IoUSl4zmA6qtsYSBInuksL9DsEyaRB7Yo27EuCEWfhOyKSg7uICOw",
         "source": "MSN"
       },
       {
-        "title": "El 1X1 de un Espanyol que no da para más",
+        "title": "Hardik Pandya takes three-fer in Syed Mushtaq Ali Trophy",
         "snippet": "",
-        "url": "https://onefootball.com/es/noticias/el-1x1-de-un-espanyol-que-no-da-para-mas-40418874",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmeG2HR67IZVIIpfQvMhTOhWb6EfTU9pxhGl-d4sfOFkO4s8tg0t3oZy_rKR0",
-        "source": "OneFootball"
+        "url": "https://www.newsbytesapp.com/news/sports/hardik-pandya-takes-three-fer-in-smat-2024-25/story",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjhiU0Rqvz-2OBbKMVYhkYu95AXO5uK0ot3G02QFcNIat46JpmAOq6UYXkTBo",
+        "source": "NewsBytes"
+      }
+    ]
+  },
+  {
+    "title": "rb salzburg vs psg",
+    "link": "https://trends.google.com/trending/rss?geo=CM",
+    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGvC83bPlSw8UuopAy6VAZEQ_kZB4L113P2AAMC3O2YEKJS-O5_PNa1EGkH-0",
+    "picture_source": "LAOLA1",
+    "news_items": [
+      {
+        "title": "Salzburger Katzenjammer: \"Champions League ist uns zu groß\"",
+        "snippet": "",
+        "url": "https://www.laola1.at/de/red/fussball/champions-league/news/salzburger-katzenjammer---champions-league-ist-uns-zu-gross-/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGvC83bPlSw8UuopAy6VAZEQ_kZB4L113P2AAMC3O2YEKJS-O5_PNa1EGkH-0",
+        "source": "LAOLA1"
       },
       {
-        "title": "El Geta, como un Toro",
+        "title": "Luis Enrique fordert PSG auf, nach dem Erfolg gegen Salzburg nachzulegen",
         "snippet": "",
-        "url": "https://www.pressreader.com/spain/marca-leonef1h/20241210/282080577420233",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeqoqZEUDS9VMN4EwDHZGfD0ZURpXrSpR4mwFpc8VxBtl_qxHDtXSHCwEaD5k",
-        "source": "PressReader"
+        "url": "https://www.footboom1.com/de/news/football/2165420-luis-enrique-challenges-psg-to-step-up-following-salzburg-success",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQp3Ney2YlrGjn89Jk5ycH6pA51Pw5lk_0XYzGIx0PxfMzzZue5cx7JWM9bxWw",
+        "source": "FootBoom"
+      },
+      {
+        "title": "\"Pep, es ist vorbei\" - So reagiert Lijnders auf Fan-Plakat",
+        "snippet": "",
+        "url": "https://www.boerse-express.com/news/articles/pep-es-ist-vorbei-so-reagiert-lijnders-auf-fan-plakat-689990",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPPQ0TSdp16e4JamuitVePBwKxDg0qKA5HY1uvDSejMNouS9U1dtRVbpzKN5A",
+        "source": "Börse Express"
       }
     ]
   }

@@ -1,27 +1,281 @@
 [
   {
-    "title": "weather",
+    "title": "nba",
     "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Mon, 9 Dec 2024 21:30:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 19:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT33KlMcu6dRMubsNGS8NDk24jC-7IS_z9mc9pcnh3Thkzys5i_ud_wPgnOMRs",
+    "picture_source": "Yahoo Sports",
+    "news_items": [
+      {
+        "title": "2024 NBA Cup: How to watch every game of the knockout round, plus the full \nschedule and more",
+        "snippet": "",
+        "url": "https://sports.yahoo.com/2024-nba-cup-how-to-watch-every-game-of-the-knockout-round-plus-the-full-schedule-and-more-184650249.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT33KlMcu6dRMubsNGS8NDk24jC-7IS_z9mc9pcnh3Thkzys5i_ud_wPgnOMRs",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Dallas Mavericks vs Oklahoma City Thunder Dec 10, 2024 Game Summary",
+        "snippet": "",
+        "url": "https://www.nba.com/game/dal-vs-okc-0022401203",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTr__9fg4cKIIvVzWzRZz1XZDZEv8Rasbn8JvOAUrv4XBJ1AgLDJmq759Qfc",
+        "source": "NBA.com"
+      },
+      {
+        "title": "3 observations from the Mavericks’ 118-104 NBA Cup loss in Oklahoma City",
+        "snippet": "",
+        "url": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/2024/12/10/24318557/mavericks-thunder-recap-final-score-118-104-nba-cup-luka-doncic-sga-kyrie-irving",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebnaPH2bmRTIgI3ZNBiAOmLorlSofQOcbcQAe608bja496kbz6oPlJy53Fkc",
+        "source": "Mavs Moneyball"
+      }
+    ]
   },
   {
-    "title": "luigi mangione",
+    "title": "liga prvakov",
     "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Mon, 9 Dec 2024 11:30:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSze-3aYhtLOTyOWN0IjU4GGUQlRPZjCwUMQh-snvsTrC2AXFvUvK5oEwPHYZ4",
+    "picture_source": "rtvslo.si",
+    "news_items": [
+      {
+        "title": "Real preživel vroče gostovanje v Bergamu; Liverpool ostaja stoodstoten",
+        "snippet": "",
+        "url": "https://www.rtvslo.si/sport/nogomet/liga-prvakov-v-nogometu/real-prezivel-vroce-gostovanje-v-bergamu-liverpool-ostaja-stoodstoten/730165",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSze-3aYhtLOTyOWN0IjU4GGUQlRPZjCwUMQh-snvsTrC2AXFvUvK5oEwPHYZ4",
+        "source": "rtvslo.si"
+      },
+      {
+        "title": "Jubilejni gol Mbappeja za pomembno zmago Reala v Bergamu",
+        "snippet": "",
+        "url": "https://www.dnevnik.si/sport/nogomet/jubilejni-gol-mbappeja-za-pomembno-zmago-reala-v-bergamu-2705850/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh5DLrXnAIxBzduovxpzkvPI60loOAp7LQUFLSPOYyJDkx2cuTLWWxsQ0xNk",
+        "source": "Dnevnik"
+      },
+      {
+        "title": "Čustvena Iličićeva vrnitev v Bergamo: odziv navijačev je epski (video)",
+        "snippet": "",
+        "url": "https://ekipa.svet24.si/clanek/nogomet/prva-liga/67592618c8cc8/ilicic-josip-bergamo-liga-prvakov-atalanta-real-madrid",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq9fsttwGkpV0fpP6OWKr7M34IJXsP7Jo1e54yzXZWUIvgL7E215kwLPAaBp8",
+        "source": "Ekipa"
+      }
+    ]
   },
   {
-    "title": "eu most wanted",
+    "title": "real madrid",
     "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Mon, 9 Dec 2024 09:20:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RYFEB-SHfAsEXNicLOgC03PhM0oazTYFIgbhwrN0Oh-6HUyk_o8jU5p7kl8",
+    "picture_source": "Diario AS",
+    "news_items": [
+      {
+        "title": "Atalanta 2-3 Real Madrid: resumen, goles y resultado",
+        "snippet": "",
+        "url": "https://as.com/futbol/champions/atalanta-real-madrid-en-directo-champions-league-hoy-en-vivo-n/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RYFEB-SHfAsEXNicLOgC03PhM0oazTYFIgbhwrN0Oh-6HUyk_o8jU5p7kl8",
+        "source": "Diario AS"
+      },
+      {
+        "title": "La BMV desmonta a la Atalanta",
+        "snippet": "",
+        "url": "https://www.marca.com/futbol/champions-league/cronica/2024/12/10/6758bb36e2704e36ae8b4581.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2mlzmrJ-aKjy0ByESY3pFFJfXKsG9nqsew8hD9DrscH3G5t4vl-svoubdhrw",
+        "source": "Marca.com"
+      },
+      {
+        "title": "Poesía para los oídos madridistas, así fue la narración de Rac-1 del fallo de Retegui en el 93’",
+        "snippet": "",
+        "url": "https://www.realmadridexclusivo.com/lo-mas-visto/poesia-oidos-madridistas-fue-narracion-rac-1-fallo-retegui-en-93_165496_102.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJkTwXDdXW0B15lgApSbaYYlbcIhBEl55L7_sXGTTW9KQPucV4bMqGU-V4FqI",
+        "source": "Real Madrid Exclusivo"
+      }
+    ]
   },
   {
-    "title": "matko obradović",
+    "title": "champions league",
     "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Mon, 9 Dec 2024 08:00:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT4x1J4CeJroEFoPbTf7DJggenLVcNbZF8rMjCk7Q_HXU_3TaHYiWZ6zH9wKw",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Are Liverpool Champions League favourites? - Alisson 'one of world's best' - Slot",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/articles/cqjzdegvpx5o",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT4x1J4CeJroEFoPbTf7DJggenLVcNbZF8rMjCk7Q_HXU_3TaHYiWZ6zH9wKw",
+        "source": "BBC"
+      },
+      {
+        "title": "Rio Ferdinand throws doubt on Liverpool's tag as favourites for the Champions League despite Reds winning again",
+        "snippet": "",
+        "url": "https://www.rousingthekop.com/2024/12/11/rio-ferdinand-throws-doubt-on-liverpools-tag-as-favourites-for-the-champions-league-despite-reds-winning-again/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZuB4rFiy6Jf6TsH8c9iDAymjDelmN5TEOQoII12aYBBP4z0xCkfbwIvSb8Bk",
+        "source": "Rousing The Kop"
+      },
+      {
+        "title": "Rio Ferdinand's Liverpool verdict brings quadruple question back into play",
+        "snippet": "",
+        "url": "https://www.liverpool.com/liverpool-fc-news/features/rio-ferdinand-liverpool-quadruple-champions-30558262",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9wiuNDvW-jfWtQZQGZgCo8tqtwaIIpWHTQMEl001dscGbGNFRL0RQX6wOgXU",
+        "source": "Liverpool.com"
+      }
+    ]
   },
   {
-    "title": "slovenske železnice",
+    "title": "šahtar – bayern",
     "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Mon, 9 Dec 2024 05:20:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 12:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvMYVfMCUuk6wlVKsc8Z2gYzQbJquRAuLpzEv3s6E4YPMReAkAyAbfyaxeTw",
+    "picture_source": "Metro.co.uk",
+    "news_items": [
+      {
+        "title": "Chelsea and Man Utd fans say the same thing after £50m target 'turns into Messi'",
+        "snippet": "",
+        "url": "https://metro.co.uk/2024/12/11/chelsea-man-utd-fans-say-thing-50m-target-turns-messi-22163951/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvMYVfMCUuk6wlVKsc8Z2gYzQbJquRAuLpzEv3s6E4YPMReAkAyAbfyaxeTw",
+        "source": "Metro.co.uk"
+      },
+      {
+        "title": "Bayern Munich’s Konrad Laimer in awe of Michael Olise’s \"video game\" goal against Shakhtar Donetsk",
+        "snippet": "",
+        "url": "https://www.bavarianfootballworks.com/2024/12/11/24317622/bayern-munich-uefa-champions-league-shakhtar-donetsk-michael-olise-konrad-laimer-harry-kane-ucl",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHrf973NFYo9L_qB-sFQ90qwSY1lDzMEORuBJuVKwsh0nS6dVUQo9SsjhsOsA",
+        "source": "Bavarian Football Works"
+      },
+      {
+        "title": "Kompany heaps praise on goalscoring Muller after rare start against Shakhtar",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-asia/football/uefa-champions-league/articles/kompany-heaps-praise-on-goalscoring-muller-after-rare-start-against-shakhtar-2024-12-11",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ3LOMRk1-4MkH3SWJ_oh3INOfW0X4MJ7iZQqBOIWcSHQ2uDK5Xok4Dl58240",
+        "source": "beIN SPORTS"
+      }
+    ]
+  },
+  {
+    "title": "rb leipzig – aston villa",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 10 Dec 2024 11:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJA3u60fG2CPSgCSOOw8h-qKM_hVw8OmiHOcX7mIYhnXANl2EAzRbIy6GgOtc",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "UEFA Champions League RB Leipzig 2 Aston Villa 3 Full time",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/cp3zzy56qg4t",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJA3u60fG2CPSgCSOOw8h-qKM_hVw8OmiHOcX7mIYhnXANl2EAzRbIy6GgOtc",
+        "source": "BBC"
+      },
+      {
+        "title": "Jhon Durán's Stunning Goal in the Champions League: Long-Range Rocket Finds the Net",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2164942-jhon-duran-s-stunning-goal-in-the-champions-league-long-range-rocket-finds-the-net",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcsTSM8ePiQwEnveliINVGVfEZ2ZKII179zT46qUPLyfXMj_DFxDTcu_dwAU",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Chelsea FC alum helps Aston Villa to crucial away win",
+        "snippet": "",
+        "url": "https://theprideoflondon.com/chelsea-fc-alum-helps-aston-villa-to-crucial-away-win",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_zOHUJIthQXzDs3Kx0-K3e4Jehcj-JG5OeL0ti86LU_qMJY8u_pBxtVtddw",
+        "source": "The Pride of London"
+      }
+    ]
+  },
+  {
+    "title": "atalanta – real madrid",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 10 Dec 2024 11:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+    "picture_source": "beIN SPORTS",
+    "news_items": [
+      {
+        "title": "Real Madrid revive Champions League title defence with win at spirited Atalanta",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/real-madrid-revive-champions-league-title-defence-with-win-at-spirited-atalanta-2024-12-10",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Atalanta - Real Madrid Live - Champions League: Football Scores & Highlights - 10/12/2024",
+        "snippet": "",
+        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-atalanta-real-madrid_mtc1525372/live-commentary.shtml",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSADbxgB8RAJHccFY4iSOMu5OY4c-2b4cwcnnCtXKra9EUr0_uPmvxZlDkSErg",
+        "source": "Eurosport"
+      },
+      {
+        "title": "Thriller in Bergamo! Real Madrid keeps knockout hopes alive with Bellingham and Vinicius heroics",
+        "snippet": "",
+        "url": "https://en.nogomania.com/read/Thriller-in-Bergamo-Real-Madrid-keeps-knockout-hopes-alive-with-Bellingham-and-Vinicius-heroics",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTalRpdIGQKizrV5od1K3Oa8kHAtNGeWHzywUIPTmg6AQWsCRAd2vRLrcetc8",
+        "source": "Nogomania"
+      }
+    ]
+  },
+  {
+    "title": "girona – liverpool",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 10 Dec 2024 09:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDqXF6bAc9jimrtRDkamDcMkdgm9HG0t0Y91SWKPP_2C44x40uJ23P8pRGDI",
+    "picture_source": "FootBoom",
+    "news_items": [
+      {
+        "title": "Míchel Reflexiona: 'No He Sido Un Entrenador de Elite en la Champions League'",
+        "snippet": "",
+        "url": "https://www.footboom1.com/es/news/football/2166994-michel-reflects-i-haven-t-been-a-top-coach-in-the-champions-league",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDqXF6bAc9jimrtRDkamDcMkdgm9HG0t0Y91SWKPP_2C44x40uJ23P8pRGDI",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Mo Salah, de penal, marcó el gol del triunfo británico",
+        "snippet": "",
+        "url": "https://fdpradio.com/mo-salah-de-penal-marco-el-gol-del-triunfo-britanico/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPOlTDQJ4ghwIv6ZsZ7TWjCSuYLFl46jqD8tr4jr3IeEQ_TW8zrrTi9YqBij4",
+        "source": "FDP Radio"
+      },
+      {
+        "title": "Orgullo máximo",
+        "snippet": "",
+        "url": "https://onefootball.com/id/berita/orgullo-maximo-40423326",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1B35i_xCdWMhS9Olx5F6MrpytFJbMTo5_t2bEQ6GpYSqt-KY37RzsWQP-wgE",
+        "source": "OneFootball"
+      }
+    ]
+  },
+  {
+    "title": "dinamo – celtic",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 10 Dec 2024 09:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSanfrDIko0kk-ZqaEtlcrp7zxy6On9mVRK9bv7ZhBOi0jgyjKJxByiyOzeYRU",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Celtic earn point with goalless draw in Zagreb",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/c80vvyl2gvkt",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSanfrDIko0kk-ZqaEtlcrp7zxy6On9mVRK9bv7ZhBOi0jgyjKJxByiyOzeYRU",
+        "source": "BBC"
+      },
+      {
+        "title": "“We have got to be up for it,” CCV eyes Hampden glory after Zagreb stalemate",
+        "snippet": "",
+        "url": "https://thecelticstar.com/we-have-got-to-be-up-for-it-ccv-eyes-hampden-glory-after-zagreb-stalemate/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUTjSpy8DSbMWeuERUQpUMl8N2VzBzu2-V8-_xmnPpQqdMCJJRMOv8KNJ1xs",
+        "source": "The Celtic Star"
+      },
+      {
+        "title": "CCV Reveals The ‘Belief and Experience’ Driving Celtic’s Champions League Success",
+        "snippet": "",
+        "url": "https://celtsarehere.com/ccv-reveals-the-belief-and-experience-driving-celtics-champions-league-success/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqPuEFpwAyNqTtjmlIUp0O2wLBlPfZvQ8A1TOzXcBxkpfI-vqieutmSTpHguM",
+        "source": "Celts Are Here"
+      }
+    ]
   }
 ]

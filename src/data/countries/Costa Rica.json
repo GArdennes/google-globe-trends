@@ -1,218 +1,311 @@
 [
   {
-    "title": "fabricio alvarado",
+    "title": "marco antonio rojas",
     "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Mon, 9 Dec 2024 22:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrtnDg4I6oOsosIBHCdiZzyoWNE5KQ4WYJ5vSeFWuQc4skmJbOpgfRLaeij3I",
-    "picture_source": "CRHoy.com",
+    "pubdate": "Tue, 10 Dec 2024 17:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX5yWJw79RBKoWI31o7ICBn4ZPlXEl8PXGnf0gp6lmys18iqgsnkUkhSCMbtc",
+    "picture_source": "La Teja",
     "news_items": [
       {
-        "title": "Fiscalía investiga a diputado Fabricio Alvarado por aparente abuso sexual",
+        "title": "Honor a quien honor merece: exporteros del Saprissa recibieron un homenaje \núnico",
         "snippet": "",
-        "url": "https://www.crhoy.com/nacionales/fiscalia-investiga-a-diputado-fabricio-alvarado-por-aparente-abuso-sexual/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrtnDg4I6oOsosIBHCdiZzyoWNE5KQ4WYJ5vSeFWuQc4skmJbOpgfRLaeij3I",
-        "source": "CRHoy.com"
+        "url": "https://www.lateja.cr/deportes/honor-a-quien-honor-merece-exporteros-del-saprissa/4BRSI6CU6JEXZOH6HBXDGWKSGY/story/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX5yWJw79RBKoWI31o7ICBn4ZPlXEl8PXGnf0gp6lmys18iqgsnkUkhSCMbtc",
+        "source": "La Teja"
       },
       {
-        "title": "Fabricio Alvarado investigado por presunto abuso sexual",
+        "title": "Saprissa colgará el mítico dorsal de Marco Rojas en lo alto de La Cueva",
         "snippet": "",
-        "url": "https://www.nacion.com/politica/fabricio-alvarado-investigado-por-presunto-abuso/IA3OYSYQ4VGHHK2NNI22KPRWJE/story/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQToljDzck4zL8wBMHl5Ktw0swdeW0QH2k7lTMUllUVKe6Zw1M9JN-a6-LGoLw",
-        "source": "La Nación Costa Rica"
-      },
-      {
-        "title": "Denuncian a Fabricio Alvarado por presunto abuso sexual",
-        "snippet": "",
-        "url": "https://www.teletica.com/politica/denuncian-a-fabricio-alvarado-por-presunto-abuso-sexual_373720",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHB052rzyxTPRkUiuUACnYBovTC7tDElvhYy0wHlz_hRZs283GI2dkraEmpQ0",
+        "url": "https://www.teletica.com/deportivo-saprissa/saprissa-colgara-el-mitico-dorsal-de-marco-rojas-en-lo-alto-de-la-cueva_373700",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWuBDlGR6D2JzLkY0BdJ6fERZtJEwxuDu9o1wKmKea8o1ToDqYndiAPaUmAoc",
         "source": "Teletica"
-      }
-    ]
-  },
-  {
-    "title": "teletón costa rica",
-    "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Mon, 9 Dec 2024 14:50:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2tHdrPksMXDwoVuUvpYveJOizvzE8gO2O34C6nObxmMuDjy9XbLcM3MAVG_o",
-    "picture_source": "CRHoy.com",
-    "news_items": [
-      {
-        "title": "Teletón 2024 alcanzó la meta: Esto terminaron recaudando",
-        "snippet": "",
-        "url": "https://www.crhoy.com/nacionales/teleton-2024-alcanzo-la-meta-esto-terminaron-recaudando/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2tHdrPksMXDwoVuUvpYveJOizvzE8gO2O34C6nObxmMuDjy9XbLcM3MAVG_o",
-        "source": "CRHoy.com"
       },
       {
-        "title": "En medio de los gritos de Keyla, Ginnés y Édgar, Teletón 2024 alcanzó la \nmeta de ¢600 millones",
+        "title": "Pequeño aficionado al Saprissa no quiso perderse el homenaje a los \nexporteros morados",
         "snippet": "",
-        "url": "https://www.nacion.com/viva/en-medio-de-los-gritos-de-keyla-ginnes-y-edgar/JQ6SOXEQGNB2LDEX45626IQFJE/story/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwBsv7wyR3EjnQszaRRWHlq2wVYHqkH1CtPY9VYrhP7Lty-kne773leQH3YVk",
-        "source": "La Nación Costa Rica"
-      },
-      {
-        "title": "¡La Teletón lo hizo de nuevo! Se recaudó más de la cifra que se había fijado",
-        "snippet": "",
-        "url": "https://www.lateja.cr/farandula/la-teleton-lo-hizo-de-nuevo-se-recaudo-mas-de-la/OV42M3JH7ZHMRKSTAMN3LBUMCM/story/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMzzBLkI71dyN2rX_CjS6_YBl1etuarFcj5mhxxWW5QqwDevyyJZnxkfAyClA",
+        "url": "https://www.lateja.cr/deportes/pequeno-aficionado-al-saprissa-no-quiso-perderse/D7NXZOKNEZABPE3VPYTUQ2ETP4/story/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdK8ub1aSquMdFl8O4RUYgl2-PsgQBd0hHQWGDS_ltQHvXZ3kUh8DDqp8mjl8",
         "source": "La Teja"
       }
     ]
   },
   {
-    "title": "west ham - wolves",
+    "title": "saprissa - san carlos",
     "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Mon, 9 Dec 2024 14:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOR3Nj-mrfEpVVTFX4gvMTcvmgj8GwJh2ezR5m-rkGV1eatHKUPw9097zcJNw",
+    "pubdate": "Tue, 10 Dec 2024 17:40:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5uKC2cvHNeV4ro9TnB9hyL40EqrrkhNqI8SYjitbkvIxcfs0klCfiQOWcsG8",
+    "picture_source": "CRHoy.com",
+    "news_items": [
+      {
+        "title": "Luis Marín: “Hicimos 30 minutos muy malos”",
+        "snippet": "",
+        "url": "https://www.crhoy.com/deportes/luis-marin-hicimos-30-minutos-muy-malos/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5uKC2cvHNeV4ro9TnB9hyL40EqrrkhNqI8SYjitbkvIxcfs0klCfiQOWcsG8",
+        "source": "CRHoy.com"
+      },
+      {
+        "title": "Saprissa espera rival en la final tras vencer a San Carlos",
+        "snippet": "",
+        "url": "https://elmundo.cr/deportes/saprissa-espera-rival-en-la-final-tras-vencer-a-san-carlos/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuSFm2MpdaR_3riasLrwNF0jlJMBQUOstfImBeU-LK6K0o4tTz6B8UBVcmbaE",
+        "source": "El Mundo CR"
+      },
+      {
+        "title": "Luis Marín sobre su futuro en San Carlos: ‘No tengo nada que decir’",
+        "snippet": "",
+        "url": "https://www.nacion.com/puro-deporte/luis-marin-sobre-su-futuro-en-san-carlos-no-tengo/W4ZGAKOKMJDCTGYLNUOIS5KTYM/story/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn8ezQJbUkWGIIgCrxHMG1n31ci_NKAR2teQEgSSm9cvjcedUgpCWei6oMpMU",
+        "source": "La Nación Costa Rica"
+      }
+    ]
+  },
+  {
+    "title": "lula da silva",
+    "link": "https://trends.google.com/trending/rss?geo=CR",
+    "pubdate": "Tue, 10 Dec 2024 16:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGXQtQYBRf7ulhS3WIFL9clQ_or2V_oHjpKLChqmzmD0_9RCrS4qN1ecCO7w",
+    "picture_source": "O Globo",
+    "news_items": [
+      {
+        "title": "Com Lula internado, Alckmin assume agendas, enquanto Haddad e Rui Costa \nnegociam com o Congresso",
+        "snippet": "",
+        "url": "https://oglobo.globo.com/politica/noticia/2024/12/11/com-lula-internado-alckmin-assume-agendas-enquanto-haddad-e-rui-costa-negociam-com-o-congresso.ghtml",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGXQtQYBRf7ulhS3WIFL9clQ_or2V_oHjpKLChqmzmD0_9RCrS4qN1ecCO7w",
+        "source": "O Globo"
+      },
+      {
+        "title": "Cardiologista dos famosos e políticos: quem é Dr. Kalil, médico de Lula",
+        "snippet": "",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2024/12/11/medico-pessoal-de-lula-sobreviveu-a-assalto-a-mao-armada-e-covid-19.htm",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN4Y2cLQMnCNLIWJe9jRwcQJrdhWi1pej1RFDnLprUozsMYRO8L4TOl6S4mU8",
+        "source": "UOL Notícias"
+      },
+      {
+        "title": "Brasil Agora: PT teme que cirurgia de Lula impeça disputa eleitoral",
+        "snippet": "",
+        "url": "https://sbtnews.sbt.com.br/noticia/brasil/brasil-agora-pt-teme-que-cirurgia-de-lula-impeca-disputa-eleitoral",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9R-lB5kPkykD7azMu52MSh9IxjSoSQmNQ9EQnk8xuHY_XvDNSONwhLmVurE0",
+        "source": "SBT News"
+      }
+    ]
+  },
+  {
+    "title": "epic games",
+    "link": "https://trends.google.com/trending/rss?geo=CR",
+    "pubdate": "Tue, 10 Dec 2024 15:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwHvqzyfGRndlxuZU9ERESh_fS8u09KhkERqYl0PeukdM5DxoMqeRiM7GHe-8",
+    "picture_source": "Polygon",
+    "news_items": [
+      {
+        "title": "How to file a Fortnite refund claim with the FTC",
+        "snippet": "",
+        "url": "https://www.polygon.com/gaming/494077/fortnite-refund-ftc-claim-how-to-file",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwHvqzyfGRndlxuZU9ERESh_fS8u09KhkERqYl0PeukdM5DxoMqeRiM7GHe-8",
+        "source": "Polygon"
+      },
+      {
+        "title": "The US will pay $72 million in compensation to victims of “dark schemes” of \nthe Fortnite game",
+        "snippet": "",
+        "url": "https://babel.ua/en/news/113472-the-us-will-pay-72-million-in-compensation-to-victims-of-dark-schemes-of-the-fortnite-game",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBI7y4sD0cDAF301Gf-b_yL_HU7Lirct4s-ApnQzEXv1DozHxqAMPoATnF4A8",
+        "source": "Бабель"
+      },
+      {
+        "title": "How to get your cut of $245 million Fortnight settlement",
+        "snippet": "",
+        "url": "https://tribuneonlineng.com/how-to-get-your-cut-of-245-million-fortnight-settlement/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTc_8xXhCxv5h8San-_4CQauMkzAANLjsWV4rzLXVsemUehha6F8tIzfckOtSk",
+        "source": "Tribune Online"
+      }
+    ]
+  },
+  {
+    "title": "rb leipzig - aston villa",
+    "link": "https://trends.google.com/trending/rss?geo=CR",
+    "pubdate": "Tue, 10 Dec 2024 13:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZcaHaY2fcP8mtLelU-mYBskneJThian_Qze8orZYUZp87gZFASIuiN5Y8Q",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "West Ham 2-1 Wolves LIVE: Jarrod Bowen scores winner as West Ham increase \npressure on Wolves boss Gary O'Neil",
+        "title": "UEFA Champions League RB Leipzig 2 Aston Villa 3 Full time",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cly7j2pngr4t",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOR3Nj-mrfEpVVTFX4gvMTcvmgj8GwJh2ezR5m-rkGV1eatHKUPw9097zcJNw",
+        "url": "https://www.bbc.com/sport/football/live/c89vkp00872t",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZcaHaY2fcP8mtLelU-mYBskneJThian_Qze8orZYUZp87gZFASIuiN5Y8Q",
         "source": "BBC"
       },
       {
-        "title": "Jermaine Defoe hails three West Ham stars who can 'create something out of \nnothing' after win over Wolves",
+        "title": "Chelsea FC alum helps Aston Villa to crucial away win",
         "snippet": "",
-        "url": "https://tbrfootball.com/jermaine-defoe-hails-three-west-ham-stars-who-can-create-something-out-of-nothing-after-win-over-wolves/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppHUlCdDufhpjHxytefi0p97NG84QUJes1KsUPHqZZXWQHMgFPbYHa1o5azk",
-        "source": "TBR Football"
+        "url": "https://theprideoflondon.com/chelsea-fc-alum-helps-aston-villa-to-crucial-away-win",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_zOHUJIthQXzDs3Kx0-K3e4Jehcj-JG5OeL0ti86LU_qMJY8u_pBxtVtddw",
+        "source": "The Pride of London"
       },
       {
-        "title": "Joe Cole Sees Goals in 18/1 Bet Builder",
+        "title": "Jhon Jader Durán: Another Stunning Goal for Aston Villa in Champions League \nAction Against Leipzig",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2160772-joe-cole-sees-goals-in-18-1-bet-builder",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbKPqyRwDD4fOtis1bLfFB88gbyBohabgiJgHK8byuYoEsfwud0wu3sD4dHew",
+        "url": "https://www.footboom1.com/en/news/football/2164966-jhon-jader-duran-another-stunning-goal-for-aston-villa-in-champions-league-action-against-leipzig",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM4JkogdIOwqCRDXrSAR99SecJNOgWJT4Mh3k21fTaEip8nLIKujGSJrbAmcQ",
         "source": "FootBoom"
       }
     ]
   },
   {
-    "title": "getafe - rcd espanyol",
+    "title": "madrid vs",
     "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Mon, 9 Dec 2024 11:40:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK3lXJ5NXhO67JCbDd_2FpVCPkASy-oJzUF3Fdbr3h5_dl3Hc8cJ0rcAFmc4",
-    "picture_source": "Marca.com",
+    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAiQs3FEIUfe39jjDc2V7AgATpzSEp1XMZ_YljNw1xOriFZ6TcBbhmeniANw",
+    "picture_source": "Barron's",
     "news_items": [
       {
-        "title": "El Getafe vuelve a sonreír un lunes: un gol de Álvaro Rodríguez complica al \nEspanyol",
+        "title": "El Atlético De Un Griezmann Estelar Quiere Alargar Su Racha En Champions",
         "snippet": "",
-        "url": "https://www.marca.com/futbol/primera-division/cronica/2024/12/09/675753ca46163ff8478b4581.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK3lXJ5NXhO67JCbDd_2FpVCPkASy-oJzUF3Fdbr3h5_dl3Hc8cJ0rcAFmc4",
+        "url": "https://www.barrons.com/news/spanish/el-atletico-de-un-griezmann-estelar-quiere-alargar-su-racha-en-champions-e47a68f2",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAiQs3FEIUfe39jjDc2V7AgATpzSEp1XMZ_YljNw1xOriFZ6TcBbhmeniANw",
+        "source": "Barron's"
+      },
+      {
+        "title": "Lemar vuelve a la lista",
+        "snippet": "",
+        "url": "https://as.com/futbol/champions/lemar-vuelve-a-la-lista-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzsQZePnkNs8HO752KoIYksiu55TFg_x2rsejGTGF8P-5SSiGb8yzwgz2gGEo",
+        "source": "Diario AS"
+      },
+      {
+        "title": "Simeone se cansa de los horarios de Tebas y le señala como nunca: «Menos de \n68 horas de descanso…»",
+        "snippet": "",
+        "url": "https://okdiario.com/deportes/simeone-cansa-horarios-tebas-senala-como-nunca-menos-68-horas-descanso-13959651",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA8KikOswBVAOFVnPv32bEyPzVSDtHAunIpuxy-bvZsB4wpbUapeQ7Qpj5oao",
+        "source": "OkDiario"
+      }
+    ]
+  },
+  {
+    "title": "real madrid",
+    "link": "https://trends.google.com/trending/rss?geo=CR",
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR76pKFQwKbq4FueGDq0Z7RBzZgG6OeZ3JzKAgYT5pD6mkJBhzpwLch2wnkJF8",
+    "picture_source": "Diario AS",
+    "news_items": [
+      {
+        "title": "Por fin el tridente",
+        "snippet": "",
+        "url": "https://as.com/futbol/primera/por-fin-el-tridente-n/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR76pKFQwKbq4FueGDq0Z7RBzZgG6OeZ3JzKAgYT5pD6mkJBhzpwLch2wnkJF8",
+        "source": "Diario AS"
+      },
+      {
+        "title": "Atalanta - Real Madrid: resumen, resultado y goles",
+        "snippet": "",
+        "url": "https://www.marca.com/futbol/champions-league/atalanta-r-madrid/2024/12/10/01_0103_20241210_456_186-directo.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
         "source": "Marca.com"
       },
       {
-        "title": "Bordalás tiene un nuevo refuerzo",
+        "title": "Real Madrid logró con sufrimiento su “noche mágica” de Champions",
         "snippet": "",
-        "url": "https://onefootball.com/es/noticias/bordalas-tiene-un-nuevo-refuerzo-40420115",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsYOroMKStv2G5uuDkICaG2pSAm6yyxR8vXSbg1BadYzkomBiAhWP533_1SDA",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Soria: \"Hemos conseguido una victoria muy importante en todos los aspectos\"",
-        "snippet": "",
-        "url": "https://www.infobae.com/espana/agencias/2024/12/09/soria-hemos-conseguido-una-victoria-muy-importante-en-todos-los-aspectos/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqPzrRpvXDKlvici8UsKrA2RnCRZpkxH3oEA9uOuQ1K1rr0yUBOSpxLJe3T-U",
-        "source": "Infobae"
-      }
-    ]
-  },
-  {
-    "title": "yuliana ureña",
-    "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Mon, 9 Dec 2024 11:40:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbKi64vsyUwDVMmgZd41u9NJaHO2O5NgUpfCldEcwwWxEMAFAtY4K_QKNNnhY",
-    "picture_source": "La Nación Costa Rica",
-    "news_items": [
-      {
-        "title": "Sospechoso de asesinar a Yuliana Ureña ingresó a juicio gritando \nimproperios y atado de manos y pies",
-        "snippet": "",
-        "url": "https://www.nacion.com/sucesos/sospechoso-de-asesinar-a-yuliana-urena-ingreso-a/DLRDRWQP5FAYVLQIPTSEOAEMCM/story/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbKi64vsyUwDVMmgZd41u9NJaHO2O5NgUpfCldEcwwWxEMAFAtY4K_QKNNnhY",
-        "source": "La Nación Costa Rica"
-      },
-      {
-        "title": "(VIDEO) Altercado a golpes de “Hugo Loco” con custodios del OIJ retrasa \njuicio por femicidio de Yuliana",
-        "snippet": "",
-        "url": "https://www.crhoy.com/nacionales/video-altercado-a-golpes-de-hugo-loco-con-custodios-del-oij-retrasa-juicio-por-femicidio-de-yuliana/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJAsaT5JIQyFoFBSQN8ykRhjh-M7hrtjfVd9ZT68dQ2f1FOnFsuCHr8qpAjmY",
+        "url": "https://www.crhoy.com/deportes/real-madrid-logro-con-sufrimiento-su-noche-magica-de-champions/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv1PeZkEwoE8uqgjNntYM4NLtj4KlFpPr4e76vpsLMUuxRrbMCqz7Ur1cwDIk",
         "source": "CRHoy.com"
-      },
-      {
-        "title": "Video: Así fue el violento ingreso del sospechoso del femicidio de Yuliana",
-        "snippet": "",
-        "url": "https://www.diarioextra.com/noticia/video-asi-fue-el-violento-ingreso-del-sospechoso-del-femicidio-de-yuliana",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSw2tIULYowXsr5VvsA6FxMPaLBTgrLNjpiOrtyXbEopqXutVlxDjb9-Jdd6oU",
-        "source": "Diario Extra"
       }
     ]
   },
   {
-    "title": "luigi mangione",
+    "title": "disney plus",
     "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Mon, 9 Dec 2024 11:20:00 -0800",
-    "approx_traffic": "2000+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
-    "picture_source": "CNN",
+    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb5sXI3g2ccKPqiiXQHxvpxBQxI6T1TNjNS25iklk5i7duXPJIFfuVBe5N_wg",
+    "picture_source": "AV Club",
     "news_items": [
       {
-        "title": "‘I never got the impression he would self-destruct:’ Friends of suspect in fatal CEO shooting left in shock",
+        "title": "Dream Productions is a meta, slightly muddled Inside Out spin-off",
         "snippet": "",
-        "url": "https://www.cnn.com/2024/12/09/us/luigi-mangione-what-we-know-monday/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
-        "source": "CNN"
+        "url": "https://www.avclub.com/dream-productions-review-tv-disney-plus",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb5sXI3g2ccKPqiiXQHxvpxBQxI6T1TNjNS25iklk5i7duXPJIFfuVBe5N_wg",
+        "source": "AV Club"
       },
       {
-        "title": "UnitedHealthcare CEO shooting: Suspect charged with murder, said 'these parasites had it coming' in handwritten note",
+        "title": "‘Dream Productions’ Review: Disney+’s ‘Inside Out’ Spinoff Won’t Stir Big \nEmotions",
         "snippet": "",
-        "url": "https://www.nbcnews.com/news/us-news/live-blog/unitedhealthcare-ceo-shooting-suspect-charged-murder-live-updates-rcna183566",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSms806I2hM-URrnIWpZdrtXAefOsyRpWfPqVEQfwjJRyGtT8Zh4z0Z0IexVdM",
-        "source": "NBC News"
+        "url": "https://www.hollywoodreporter.com/tv/tv-reviews/dream-productions-review-inside-out-spinoff-pixar-disney-plus-1236081110/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGshxvtAc6YUfEf9TAGjV0e8XweQptmhNa5okg9pZE9m3QxoZSEoWgqL8qe-M",
+        "source": "The Hollywood Reporter"
       },
       {
-        "title": "Luigi Mangione, alleged UnitedHealthcare CEO killer, charged with murder in New York",
+        "title": "Dream Productions review – this joyous TV version of Inside Out is a \nChristmas miracle",
         "snippet": "",
-        "url": "https://www.foxnews.com/us/luigi-mangione-alleged-unitedhealthcare-ceo-killer-charged-murder-new-york",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVVP7UPCwCPD6FMTIxaJJ2A1QO88aVljzSDTQ3p7HxKY1vrtegX_dX-y8TbSQ",
-        "source": "Fox News"
+        "url": "https://www.theguardian.com/tv-and-radio/2024/dec/11/dream-productions-review-inside-out-tv-version-disney-plus",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1gmXWrXx39w71N-4ElKFuAWRuAYlt23-nZ_kXbfP31WD23sWK-bCz8UGOyp4",
+        "source": "The Guardian"
       }
     ]
   },
   {
-    "title": "mep",
+    "title": "leverkusen - inter",
     "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Mon, 9 Dec 2024 05:40:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxy23PBE5isr5Eysmau-qrBkgE98NiKwM2RkqQlTHFriDz3w9vcFTFMzvjIWA",
-    "picture_source": "Bloomberg",
+    "pubdate": "Tue, 10 Dec 2024 11:50:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7kyFVSj7bvrNPXICnP8m_x2a9dGrRPX-XSShzGmZoQDeucMhQOAZ4I_exq6k",
+    "picture_source": "BILD.de",
     "news_items": [
       {
-        "title": "With Assad’s Fall, Erdogan Oversees Turkey’s Growing Regional Clout",
+        "title": "Champions League: Leverkusens Trainer Alonso „schoss“ das Sieg-Tor gegen \nInter",
         "snippet": "",
-        "url": "https://www.bloomberg.com/news/articles/2024-12-10/with-assad-s-fall-erdogan-oversees-turkey-s-growing-regional-clout",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxy23PBE5isr5Eysmau-qrBkgE98NiKwM2RkqQlTHFriDz3w9vcFTFMzvjIWA",
-        "source": "Bloomberg"
+        "url": "https://www.bild.de/sport/fussball/champions-league-leverkusens-trainer-alonso-schoss-das-sieg-tor-gegen-inter-67595b605a14524c9e5deed5",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7kyFVSj7bvrNPXICnP8m_x2a9dGrRPX-XSShzGmZoQDeucMhQOAZ4I_exq6k",
+        "source": "BILD.de"
       },
       {
-        "title": "From VOA Turkish: Kurdish politicians in Turkey are satisfied with fall of \nAssad regime but wary of future",
+        "title": "Champions League: Emotionale Heimkehr mit brutalem Ende",
         "snippet": "",
-        "url": "https://www.voanews.com/a/from-voa-turkish-kurdish-politicians-in-turkey-are-satisfied-with-fall-of-assad-regime-but-wary-of-future/7892142.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuRh-hdoNZbWpVrBJD7QVmEGZq-KQacnCS6pTVpJHsyO7Q0NKVfhGhso-2pP4",
-        "source": "Voice of America"
+        "url": "https://www.sport1.de/news/fussball/champions-league/2024/12/champions-league-emotionale-heimkehr-mit-brutalem-ende",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxQ_mLXNJfzcQhL7YjdFk0W_ZHExzPdN4EADTVjKWBjcFTB9h9pXLbGmZdxk",
+        "source": "Sport1"
       },
       {
-        "title": "Turkey FM: Millions Of Displaced Syrians 'Can Return' Home",
+        "title": "Matchwinner Mukiele: Ein Geständnis und ein Wink an den FC Bayern",
         "snippet": "",
-        "url": "https://www.barrons.com/news/turkey-fm-millions-of-displaced-syrians-can-return-home-a7d2fbaa",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAiQs3FEIUfe39jjDc2V7AgATpzSEp1XMZ_YljNw1xOriFZ6TcBbhmeniANw",
-        "source": "Barron's"
+        "url": "https://www.kicker.de/matchwinner-mukiele-ein-gestaendnis-und-ein-wink-an-den-fc-bayern-1074815/artikel",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ2eYTI8zru-oZIrbqu9Ptld96vf0PEwr-TMi8HUk4jrx1weu3yzxBiSBjvzM",
+        "source": "Kicker"
+      }
+    ]
+  },
+  {
+    "title": "rb salzburg - psg",
+    "link": "https://trends.google.com/trending/rss?geo=CR",
+    "pubdate": "Tue, 10 Dec 2024 11:20:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
+    "picture_source": "The Guardian",
+    "news_items": [
+      {
+        "title": "Oil gives you wings: PSG, Red Bull Salzburg and a bad advert for football",
+        "snippet": "",
+        "url": "https://www.theguardian.com/football/2024/dec/11/psg-red-bull-salzburg-bad-advert-for-football-champions-league",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Luis Enrique Not Thrilled After PSG's Champions League Victory",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/psg-need-to-improve-to-avoid-champions-league-elimination-according-to-enrique-2024-12-11",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpKTQqghKtycMwr7_p4l7SyoUQ3ZscNUWwWn-1fI1cSE7eOotps5RFpc6JkI",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Where to watch RB Salzburg vs. Paris Saint-Germain: UEFA Champions League \nfree live stream",
+        "snippet": "",
+        "url": "https://www.masslive.com/tv/2024/12/where-to-watch-rb-salzburg-vs-paris-saint-germain-uefa-champions-league-free-live-stream.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5pY1e61hotRC5agaN9Dt8Z4PuzdBZ3ZANI3UnnDd61enaBbJtLB1cdknaHT4",
+        "source": "MassLive.com"
       }
     ]
   }

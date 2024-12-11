@@ -1,311 +1,289 @@
 [
   {
-    "title": "boletas nacional",
+    "title": "loteria cruz roja 10 de diciembre",
     "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 05:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLu9v8sWLGiSJdx7telX_2-ldDPQbfZmFXWhEUZf94hQZh9q6Pdizyj58V8v8",
-    "picture_source": "ESPN Colombia",
+    "pubdate": "Wed, 11 Dec 2024 05:40:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8JZqnA5bCMJ02ZUq7NSfL43A6Ttu-2EodF9saz6w8pExtxC8ecBEXBy3-uGU",
+    "picture_source": "ELTIEMPO.COM",
     "news_items": [
       {
-        "title": "Todo sobre la final de Copa Colombia entre Nacional y América",
+        "title": "Lotería de la Cruz Roja y el Huila: resultados del sorteo del martes, 10 de diciembre",
         "snippet": "",
-        "url": "https://www.espn.com.co/futbol/colombia/nota/_/id/14548424/todo-sobre-la-final-de-copa-colombia-entre-nacional-y-america",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLu9v8sWLGiSJdx7telX_2-ldDPQbfZmFXWhEUZf94hQZh9q6Pdizyj58V8v8",
+        "url": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-la-cruz-roja-y-el-huila-resultados-del-sorteo-del-martes-10-de-diciembre-3407995",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8JZqnA5bCMJ02ZUq7NSfL43A6Ttu-2EodF9saz6w8pExtxC8ecBEXBy3-uGU",
+        "source": "ELTIEMPO.COM"
+      },
+      {
+        "title": "Lotería de la Cruz Roja: estos son los números ganadores del sorteo de este martes 10 de diciembre de 2024",
+        "snippet": "",
+        "url": "https://www.infobae.com/colombia/2024/12/11/ultimo-resultado-de-la-loteria-de-la-cruz-roja-hoy-martes-10-de-diciembre/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVY3oZPeZ15ikSIBs4cPRFzjeT8sKfcmX69Aae1W-IjpxZXW4CMBGrB0I7fys",
+        "source": "Infobae"
+      },
+      {
+        "title": "Lotería de la Cruz Roja: resultados del 10 de diciembre de 2024",
+        "snippet": "",
+        "url": "https://www.wradio.com.co/2024/12/11/loteria-de-la-cruz-roja-resultados-del-10-de-diciembre-de-2024/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcF1vURgdK8LbYRnQVspsbX_8uCuXv_fr0yjSMbh79ABo_XXzV7Y_HzmSAaDs",
+        "source": "W Radio"
+      }
+    ]
+  },
+  {
+    "title": "impuesto 4x1000",
+    "link": "https://trends.google.com/trending/rss?geo=CO",
+    "pubdate": "Wed, 11 Dec 2024 05:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTL8sta_is34tDb3FdnzLH_bSG-9NytDdgWHM00aKfWCZslU_FaeN3gyfwgGA",
+    "picture_source": "ELTIEMPO.COM",
+    "news_items": [
+      {
+        "title": "Impuesto del 4 x 1.000 cambia a partir de este 13 de diciembre: esto es todo lo que debe saber",
+        "snippet": "",
+        "url": "https://www.eltiempo.com/economia/finanzas-personales/esto-es-lo-que-debe-saber-de-los-cambios-que-tendra-el-impuesto-del-4x1000-a-partir-del-13-de-diciembre-3407559",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTL8sta_is34tDb3FdnzLH_bSG-9NytDdgWHM00aKfWCZslU_FaeN3gyfwgGA",
+        "source": "ELTIEMPO.COM"
+      },
+      {
+        "title": "¡Ojo! Desde este viernes 13 de diciembre las cuentas bancarias estarán exentas del 4x1000, ¿hasta qué tope?",
+        "snippet": "",
+        "url": "https://www.elcolombiano.com/negocios/que-cambia-del-4x1000-desde-el-13-de-diciembre-en-las-cuentas-bancarias-DH26032111",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYvAOLVa3V2v-blkaeTgbl0tNXqonZx-u8UPjDxbIDK887lo0TeolNfKTOHjQ",
+        "source": "El Colombiano"
+      },
+      {
+        "title": "4x1000 en NEQUI y DAVIPLATA cambia: quiénes se beneficiarán",
+        "snippet": "",
+        "url": "https://www.lafm.com.co/economia/el-4x1000-en-nequi-y-daviplata-cambiara-a-partir-del-13-de-diciembre-quienes-se-veran",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXGjH2tGUGk-bj3-ym6SVBBvWHMgUssxaaZqC_1TkUvRbbO1ElrfwhyiMoJIY",
+        "source": "La FM"
+      }
+    ]
+  },
+  {
+    "title": "eltiempo",
+    "link": "https://trends.google.com/trending/rss?geo=CO",
+    "pubdate": "Wed, 11 Dec 2024 03:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA0USeZmZGidzHFrpEZ68fIJvW0Q8PanV6f1difBiOqTd-ppmT_ajDkpYcdzU",
+    "picture_source": "ELTIEMPO.COM",
+    "news_items": [
+      {
+        "title": "Temblor en Colombia |Fuerte sismo en la madrugada de este 11 de diciembre: epicentro y magnitud",
+        "snippet": "",
+        "url": "https://www.eltiempo.com/colombia/santander/temblor-en-colombia-fuerte-sismo-en-la-madrugada-de-este-11-de-diciembre-epicentro-y-magnitud-3408018",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA0USeZmZGidzHFrpEZ68fIJvW0Q8PanV6f1difBiOqTd-ppmT_ajDkpYcdzU",
+        "source": "ELTIEMPO.COM"
+      },
+      {
+        "title": "Esta fue la actividad sísmica en Colombia registrada el 9 de diciembre de 2024",
+        "snippet": "",
+        "url": "https://www.infobae.com/colombia/2024/12/09/esta-fue-la-actividad-sismica-en-colombia-durante-el-9-de-diciembre-de-2024/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFus2VYjPKKI1KlNdhTkIIXzvi_lSGgXM96avb-Vn6fUrWIe2WcZ0wSQ_4CgU",
+        "source": "Infobae"
+      },
+      {
+        "title": "Temblor con epicentro en Chocó sacudió a varios municipios de Antioquia, ¿lo sintió?",
+        "snippet": "",
+        "url": "https://www.elcolombiano.com/colombia/temblor-de-tierra-hoy-choco-se-sintio-en-antioquia-CF26015689",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7yv6a1ECoCcmAqtmD9tW7xQVHUGPGWjAJyuLqByJlwAdO0nEx_PNAkyk5cUw",
+        "source": "El Colombiano"
+      }
+    ]
+  },
+  {
+    "title": "sebastián montoya",
+    "link": "https://trends.google.com/trending/rss?geo=CO",
+    "pubdate": "Wed, 11 Dec 2024 02:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdkhwN37NR-mrfN0F5yqbLYPsvABygR-YqIzu6AuUrCUefZqbt7R01N-ph69w",
+    "picture_source": "ELTIEMPO.COM",
+    "news_items": [
+      {
+        "title": "José Clopatofsky analiza el paso de Sebastián Montoya a la F2 que lo pone en la fila para la F1",
+        "snippet": "",
+        "url": "https://www.eltiempo.com/deportes/automovilismo/jose-clopatofsky-analiza-el-paso-de-sebastian-montoya-a-la-f2-y-se-pone-en-la-fila-para-la-f1-3407979",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdkhwN37NR-mrfN0F5yqbLYPsvABygR-YqIzu6AuUrCUefZqbt7R01N-ph69w",
+        "source": "ELTIEMPO.COM"
+      },
+      {
+        "title": "Primeras declaraciones de Sebastián Montoya tras anunciar a su equipo de F2: “estoy emocionado”",
+        "snippet": "",
+        "url": "https://colombia.as.com/videos/el-show-de-juan-pablo-montoya/primeras-declaraciones-de-sebastian-montoya-tras-anunciar-a-su-equipo-de-f2-estoy-emocionado-v/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1Oim-2hD4Q6Hj_czVmoav_hyyQkUigWgKhpxIPztLb_C7qvg3hrItNyvnwFE",
+        "source": "AS Colombia"
+      },
+      {
+        "title": "Sebastián Montoya correrá en la Fórmula 2 con Prema Racing",
+        "snippet": "",
+        "url": "https://www.elespectador.com/deportes/mas-deportes/sebastian-montoya-correra-en-la-formula-2-con-prema-racing/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7xs44G48wNMVIX3Nyfrxecd7tP-6xy91_KEXAA0vlZ71IKtDJ4p0_q9nw0Os",
+        "source": "El Espectador"
+      }
+    ]
+  },
+  {
+    "title": "resultado de sinuano noche",
+    "link": "https://trends.google.com/trending/rss?geo=CO",
+    "pubdate": "Wed, 11 Dec 2024 02:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfWLVgauP6O8ZQoxTX4EkkRs1VkDX9-2bIyENuZyUdm5sAMKf8MFQ2-DpG1M",
+    "picture_source": "Caracol Radio",
+    "news_items": [
+      {
+        "title": "Resultados Sinuano Día y Noche HOY lunes 9 de diciembre: ganadores y premios",
+        "snippet": "",
+        "url": "https://caracol.com.co/2024/12/09/resultados-sinuano-dia-y-noche-hoy-lunes-9-de-diciembre-ganadores-y-premios/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfWLVgauP6O8ZQoxTX4EkkRs1VkDX9-2bIyENuZyUdm5sAMKf8MFQ2-DpG1M",
+        "source": "Caracol Radio"
+      },
+      {
+        "title": "Sinuano Noche, último sorteo: resultado hoy martes 10 de diciembre de 2024",
+        "snippet": "",
+        "url": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-ultimo-sorteo-resultado-hoy-martes-10-de-diciembre-de-2024-so35",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhsRds5zsx2MgySkvzgtCjor19wN8v48IXnHuQmP8ZTpMVhb0bWHzeh_f11XI",
+        "source": "Blu Radio"
+      },
+      {
+        "title": "Lotería Sinuano Noche del 9 de diciembre de 2024: conozca los resultados",
+        "snippet": "",
+        "url": "https://www.elpais.com.co/loterias/loteria-sinuano-noche-del-9-de-diciembre-de-2024-conozca-los-resultados-0933.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHZJXKY_7CSQoa1bCFHgCYJl81AjxGDjPcYPjfbE1jc0I5jCBpUHIrQ7R1t2w",
+        "source": "El País"
+      }
+    ]
+  },
+  {
+    "title": "copa betplay",
+    "link": "https://trends.google.com/trending/rss?geo=CO",
+    "pubdate": "Wed, 11 Dec 2024 02:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUnhdSSPn3PNWt0gPP0dyn6x0vnxs7b5Jfyd_SJAuwTubXZXE9EiflalfLBU",
+    "picture_source": "ELTIEMPO.COM",
+    "news_items": [
+      {
+        "title": "Tensión por juego entre América y Nacional: autoridades tomaron medidas para evitar tragedia",
+        "snippet": "",
+        "url": "https://www.eltiempo.com/colombia/cali/definieron-medidas-de-seguridad-para-evitar-una-tragedia-en-el-juego-america-de-cali-nacional-3408007",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUnhdSSPn3PNWt0gPP0dyn6x0vnxs7b5Jfyd_SJAuwTubXZXE9EiflalfLBU",
+        "source": "ELTIEMPO.COM"
+      },
+      {
+        "title": "América vs. Nacional al detalle: duelo de arqueros Soto y Ospina en final de Copa Colombia 2024",
+        "snippet": "",
+        "url": "https://www.espn.com.co/futbol/colombia/nota/_/id/14553647/ospina-soto-duelo-arqueros-final-copa-colombia-nacional-america",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuVnuCdXbtZDDBU8D_qjuwR97cNRrzhX-TEV6pp8iqy-BnPRgd_MLvZSY3c8E",
         "source": "ESPN Colombia"
       },
       {
-        "title": "La IA predice al campeón de la Copa BetPlay este 2024",
+        "title": "Así es el balance entre Nacional y América: favorito, quién tiene más victorias y enfrentamientos",
         "snippet": "",
-        "url": "https://colombia.as.com/futbol/la-ia-predice-al-campeon-de-la-copa-betplay-este-2024-n/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsSTiHburv6vKbqxwW3wtVZKgHJMR0BfCP7G-Rsz3UoXr40SivDxXttNFUTl0",
+        "url": "https://colombia.as.com/futbol/asi-es-el-balance-entre-nacional-y-america-favorito-quien-tiene-mas-victorias-y-enfrentamientos-n/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT34XLwY0HYjGb0VMYKrL_jLCxDbvkuNOOcSXWDcNf6w7kTAF2fwITSFAnMEmU",
         "source": "AS Colombia"
-      },
-      {
-        "title": "Así se jugarán las finales de la Copa BetPlay 2024: fechas oficiales",
-        "snippet": "",
-        "url": "https://www.futbolred.com/futbol-colombiano/copa-betplay/atletico-nacional-vs-america-de-cali-oficial-fechas-y-horarios-de-final-copa-betplay-programacion-230586",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzWxKucwFTx-7HjSQF09QlAjupwPGgXWDGBdg6pbPOQdFlx9ewnTUIJQe6-JU",
-        "source": "Futbolred"
       }
     ]
   },
   {
-    "title": "movilidad bogota",
+    "title": "la w en vivo",
     "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 04:10:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRinhuI2n3LlCDdxfgjrZg5wTBzrFhRK5YgQuXcEj5PhxORP2IK80Hs4Yflesc",
+    "pubdate": "Wed, 11 Dec 2024 02:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "pulzo",
+    "link": "https://trends.google.com/trending/rss?geo=CO",
+    "pubdate": "Wed, 11 Dec 2024 01:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdXhFRC-YuDOY3ENGBGbmjQXwZpy5Xw9TIuuWK2WQK_Gna0ilfwcKE-lPIhDs",
+    "picture_source": "Noticias Caracol",
+    "news_items": [
+      {
+        "title": "Pulzo refresca su imagen y le apuesta a ser un laboratorio de innovación más cercano a su audiencia",
+        "snippet": "",
+        "url": "https://www.noticiascaracol.com/tecnologia/pulzo-refresca-su-imagen-y-le-apuesta-a-ser-un-laboratorio-de-innovacion-mas-cercano-a-su-audiencia-rg10",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdXhFRC-YuDOY3ENGBGbmjQXwZpy5Xw9TIuuWK2WQK_Gna0ilfwcKE-lPIhDs",
+        "source": "Noticias Caracol"
+      },
+      {
+        "title": "Laboratorio de innovación más cercano a la audiencia: objetivo de Pulzo con su renovación",
+        "snippet": "",
+        "url": "https://www.lapatria.com/nacional/laboratorio-de-innovacion-mas-cercano-la-audiencia-objetivo-de-pulzo-con-su-renovacion",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlplaEVqOdq6ANjdHVsBlYBsj74pa442WvY_GaMVKes9JAJtctz9CFWS325kk",
+        "source": "La Patria"
+      },
+      {
+        "title": "Pulzo renueva su imagen para convertirse en el laboratorio de innovación más grande de Colombia",
+        "snippet": "",
+        "url": "https://cronicadelquindio.com/noticias/tecnologia/pulzo-renueva-su-imagen-para-convertirse-en-el-laboratorio-de-innovacion-mas-grande-de-colombia",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSlD1ESVafzkbFybSzLAIndK4c_QQM6cs5Ozq0eQFiVNjd77fij_mBkHnPrQc",
+        "source": "La Crónica del Quindí­o"
+      }
+    ]
+  },
+  {
+    "title": "temperatura bogota",
+    "link": "https://trends.google.com/trending/rss?geo=CO",
+    "pubdate": "Tue, 10 Dec 2024 22:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_dOZF3TAhOS6T17lV4Izb7D8k5GYnAW8ovbEShuCrKyEGtHVa4KwuXuDL4gA",
     "picture_source": "El Espectador",
     "news_items": [
       {
-        "title": "Movilidad hoy, martes 10 de diciembre: así está el tráfico en las vías de Bogotá",
+        "title": "Este es el pronóstico del tiempo del Ideam para este miércoles 11 de diciembre",
         "snippet": "",
-        "url": "https://www.elespectador.com/bogota/movilidad-hoy-martes-10-de-diciembre-asi-esta-el-trafico-en-las-vias-de-bogota/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRinhuI2n3LlCDdxfgjrZg5wTBzrFhRK5YgQuXcEj5PhxORP2IK80Hs4Yflesc",
+        "url": "https://www.elespectador.com/ambiente/este-es-el-pronostico-del-tiempo-del-ideam-para-este-miercoles-11-de-diciembre/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_dOZF3TAhOS6T17lV4Izb7D8k5GYnAW8ovbEShuCrKyEGtHVa4KwuXuDL4gA",
         "source": "El Espectador"
       },
       {
-        "title": "EN VIVO Movilidad Bogotá hoy 9 de diciembre: accidente entre camión y ciclista en Suba deja una persona fallecida",
+        "title": "Conoce aquí el reporte del tiempo en Bogotá para hoy miércoles 11 de diciembre",
         "snippet": "",
-        "url": "https://www.eltiempo.com/bogota/en-vivo-movilidad-bogota-hoy-9-de-diciembre-pico-y-placa-transmilenio-accidentes-cierres-y-mas-3407290",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNoZDypWvHSt6Kwpn5sY0IXKnBvjGxHQvhWku84qQrIRb9ueT-wlyeuFHLn4M",
-        "source": "ELTIEMPO.COM"
-      },
-      {
-        "title": "En vivo Movilidad Bogotá: así amanece la ciudad este lunes 9 de diciembre del 2024",
-        "snippet": "",
-        "url": "https://www.msn.com/es-co/noticias/other/en-vivo-movilidad-bogot%C3%A1-as%C3%AD-amanece-la-ciudad-este-lunes-9-de-diciembre-del-2024/ar-AA1vwqxJ",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIO8nYRtt_ug4NEhmdzRq9T8OVKIpYWeKYRsBWTkIcHSLNEvSn34fy70VYYa8",
-        "source": "MSN"
-      }
-    ]
-  },
-  {
-    "title": "secretaria de movilidad",
-    "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 04:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdJhu6tzc41ZGJlMo2tY1h-WDBGA9ZFX72L93D_OZzZ_j-sNtJztxLg-ptMRc",
-    "picture_source": "Bogota.gov.co",
-    "news_items": [
-      {
-        "title": "Pico y placa vehículos particulares y taxis en Bogotá hoy martes 10 de diciembre",
-        "snippet": "",
-        "url": "https://bogota.gov.co/servicios/pico-y-placa-en-bogota-para-el-martes-10-de-diciembre-de-2024",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdJhu6tzc41ZGJlMo2tY1h-WDBGA9ZFX72L93D_OZzZ_j-sNtJztxLg-ptMRc",
+        "url": "https://bogota.gov.co/servicios/pronostico-del-clima-en-bogota-para-miercoles-11-de-diciembre-2024",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqBcgQICM5S8Hxpo50nY-xxxXUHxaDXQL9txplgg6GeHxTdqMzXO-ZO_llFyQ",
         "source": "Bogota.gov.co"
       },
       {
-        "title": "Confirman fechas del Pico y Placa en Bogotá en Navidad del 2024 y Año Nuevo 2025",
+        "title": "Pronóstico del tiempo en Bogotá este miércoles 11 de diciembre de 2024",
         "snippet": "",
-        "url": "https://www.marca.com/co/2024/12/10/6757abdbe2704e60968b45a5.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5O2LnC-56O4rcGPfwRVfaFtTMJ49j_90Z7OE4rC4qjj147-ihUU8WeVkvBdo",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Bogotá, decisiones y responsabilidad",
-        "snippet": "",
-        "url": "https://www.elnuevosiglo.com.co/protagonista/bogota-decisiones-y-responsabilidad",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThq_gf1uD4ZLU_MubWMwnaWamVs5q56ZGZTyTBwMyBTVRqbPK-vAsaV80YtVc",
-        "source": "El Nuevo Siglo"
+        "url": "https://www.diariodelsur.com.co/pronostico-del-tiempo-en-bogota-este-miercoles-11-de-diciembre-de-2024/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRj5dEeyZJWP1jR1mW1bLhWAroBK4Qm_gzbQiMxtY6ARP4rapuzNeeXbLG138",
+        "source": "Diario del Sur"
       }
     ]
   },
   {
-    "title": "salario mínimo en colombia 2025",
+    "title": "megan fox",
     "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 03:10:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi8MJI0LvZs_nNQidxskfuij4q4gT3qok5_yTV1uu96M59KppgSqVBdjLOH9g",
-    "picture_source": "ELTIEMPO.COM",
+    "pubdate": "Tue, 10 Dec 2024 21:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiK9nxl57Mh90E40dXkVDqil5Vg-nDVmjb127vGyZCozdhbn07s7Mzja-K3iE",
+    "picture_source": "TMZ",
     "news_items": [
       {
-        "title": "Salario mínimo 2025 | Así debería ser el aumento, según el gerente general del Banco de la República",
+        "title": "Megan Fox, Machine Gun Kelly Break Up Weeks After Revealing Pregnancy News",
         "snippet": "",
-        "url": "https://www.eltiempo.com/economia/finanzas-personales/salario-minimo-2025-gerente-general-del-banco-de-la-republica-hablo-del-aumento-3407551",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi8MJI0LvZs_nNQidxskfuij4q4gT3qok5_yTV1uu96M59KppgSqVBdjLOH9g",
-        "source": "ELTIEMPO.COM"
+        "url": "https://www.tmz.com/2024/12/10/megan-fox-machine-gun-kelly-break-up/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiK9nxl57Mh90E40dXkVDqil5Vg-nDVmjb127vGyZCozdhbn07s7Mzja-K3iE",
+        "source": "TMZ"
       },
       {
-        "title": "Este es el plan del Gobierno para que más productos y servicios no suban con el salario mínimo",
+        "title": "Pregnant Megan Fox and Machine Gun Kelly Have Split ‘For Now’",
         "snippet": "",
-        "url": "https://www.elcolombiano.com/negocios/salario-minimo-2025-lo-que-debes-saber-sobre-el-aumento-y-las-desindexaciones-DG26028649",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLjVDMFDaQZuFSkT0gx7sKOQl3G-jYcJi6oAyYz3GbKET3RoZqwJFUOFiK8a0",
-        "source": "El Colombiano"
+        "url": "https://www.usmagazine.com/celebrity-news/news/pregnant-megan-fox-and-machine-gun-kelly-have-split-for-now/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtti9plbcu_0pn21lkSCb7zXLXI0PXQT8WO9kcffr3SdWx2zfDgLHFhVTXWqA",
+        "source": "Us Weekly"
       },
       {
-        "title": "Sindicatos descartan acuerdo en negociación sobre salario mínimo",
+        "title": "Megan Fox and Machine Gun Kelly will 'never' reconcile as insiders lift the lid on why their breakup is final",
         "snippet": "",
-        "url": "https://www.lasillavacia.com/en-vivo/sindicatos-descartan-acuerdo-en-negociacion-sobre-salario-minimo/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe_JXwcUem7TDLYkXhS4PnL8QdlU1XgJlMBNYc-yjzpHvLdmokuRZbUim9vag",
-        "source": "La Silla Vacía"
-      }
-    ]
-  },
-  {
-    "title": "cortes de agua bogota",
-    "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 03:10:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOe1cNLJb17LhYlONYIrVZS5lnTxPC4v5yyfH8DepegOFbyDcaEkJ8_99X6mE",
-    "picture_source": "Bogota.gov.co",
-    "news_items": [
-      {
-        "title": "Cortes de agua en barrios de Bogotá hoy martes 10 de diciembre de 2024",
-        "snippet": "",
-        "url": "https://bogota.gov.co/servicios/cortes-de-agua-en-bogota-martes-10-de-diciembre-2024-conoce-zonas",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOe1cNLJb17LhYlONYIrVZS5lnTxPC4v5yyfH8DepegOFbyDcaEkJ8_99X6mE",
-        "source": "Bogota.gov.co"
-      },
-      {
-        "title": "Racionamiento de agua en Bogotá: barrios con cortes este martes 10 de diciembre",
-        "snippet": "",
-        "url": "https://www.elespectador.com/bogota/racionamiento-de-agua-en-bogota-barrios-con-cortes-este-martes-10-de-diciembre/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0HXPsa81uW3dUte_dberwbYbl5RcKew4NZiEkru7U3wvR0pUjJ3jUzKmIaE",
-        "source": "El Espectador"
-      },
-      {
-        "title": "Prepárese para nuevos cortes de agua por reparación de redes",
-        "snippet": "",
-        "url": "https://caracol.com.co/2024/12/08/preparese-para-nuevos-cortes-de-agua-por-reparacion-de-redes/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSntbTspBsaHDSsg3cWvhck3KuHtiDyW75wBPMarAE_fBv--sw_HOMCl45cuBA",
-        "source": "Caracol Radio"
-      }
-    ]
-  },
-  {
-    "title": "antena 2",
-    "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 03:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPMXerKdNHYCkwQblzOy9EDlsKcqyjMgH9tnQmBXg17pJiVYazva-q1qrOGMc",
-    "picture_source": "Futbolred",
-    "news_items": [
-      {
-        "title": "¿Seguirán? Jugadores de Millonarios que acaban contrato",
-        "snippet": "",
-        "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/jugadores-de-millonarios-que-finalizan-contrato-el-31-de-diciembre-falcao-es-uno-seguiran-230638",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPMXerKdNHYCkwQblzOy9EDlsKcqyjMgH9tnQmBXg17pJiVYazva-q1qrOGMc",
-        "source": "Futbolred"
-      },
-      {
-        "title": "“Después de lo de hoy, analizaré qué hacer con mi carrera”",
-        "snippet": "",
-        "url": "https://colombia.as.com/futbol/despues-de-lo-de-hoy-analizare-que-hacer-con-mi-carrera-n/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDlKzGu7KsWNQk2C1OuGEpqvKD3bD2fiHtnmLSKI23zaaviQ9WmCcJGiULWdk",
-        "source": "AS Colombia"
-      },
-      {
-        "title": "Primeras tres salidas de Millonarios tras quedar eliminados de Liga",
-        "snippet": "",
-        "url": "https://www.antena2.com/futbol/liga-betplay/primeras-tres-salidas-de-millonarios-tras-quedar-eliminados-de-liga",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17RyzVlNw3yaEqY7oUUnKUAQ2VyLXM6sp3T2KCmi7SGx6yMgN8AehFw6TFog",
-        "source": "Antena 2"
-      }
-    ]
-  },
-  {
-    "title": "resultado astro luna",
-    "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 02:10:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Cd8mtYrbpVo5RE1crAFrS7uNUhJPVUje1z4M3hL9ww2FfbJ33u_NJYGAT3o",
-    "picture_source": "W Radio",
-    "news_items": [
-      {
-        "title": "Resultados de Super Astro Sol del 9 de diciembre: números ganadores y premios",
-        "snippet": "",
-        "url": "https://www.wradio.com.co/2024/12/09/resultados-de-super-astro-sol-del-9-de-diciembre-numeros-ganadores-y-premios/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Cd8mtYrbpVo5RE1crAFrS7uNUhJPVUje1z4M3hL9ww2FfbJ33u_NJYGAT3o",
-        "source": "W Radio"
-      },
-      {
-        "title": "Super Astro Sol y Luna: aquí están los resultados de los últimos sorteos",
-        "snippet": "",
-        "url": "https://www.infobae.com/colombia/2024/12/07/super-astro-sol-aqui-estan-los-numeros-ganadores-de-este-7-de-diciembre/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9toIdGd6-QC5MGvFovWYp_6z60hlwhdH2sgpstiQBnd_EkHrBzbpQXFfdKpA",
-        "source": "Infobae"
-      },
-      {
-        "title": "Super Astro Luna 9 de diciembre de 2024: este es el resultado del sorteo 7599",
-        "snippet": "",
-        "url": "https://www.semana.com/loterias/articulo/super-astro-luna-9-de-diciembre-de-2024-este-es-el-resultado-del-sorteo-7599/202432/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43LSGXmQD7szOdsxMRbxbFYzNyROifhWFeuvcGgwDM2t35bIygBVJK7ucf3U",
-        "source": "Semana.com"
-      }
-    ]
-  },
-  {
-    "title": "último resultado de la lotería de cundinamarca",
-    "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 01:40:00 -0800",
-    "approx_traffic": "5000+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbze8XnIRgWtgQg0JwHujMRFf66WOVSGwZvcvgpsFYVRb5yVH34Q5-2OBGdCE",
-    "picture_source": "Infobae",
-    "news_items": [
-      {
-        "title": "Resultados de la Lotería de Cundinamarca de hoy 9 de diciembre",
-        "snippet": "",
-        "url": "https://www.infobae.com/colombia/2024/12/10/resultados-de-la-loteria-de-cundinamarca-de-hoy-9-de-diciembre/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbze8XnIRgWtgQg0JwHujMRFf66WOVSGwZvcvgpsFYVRb5yVH34Q5-2OBGdCE",
-        "source": "Infobae"
-      },
-      {
-        "title": "Lotería de Cundinamarca y Tolima: resultados del lunes, 9 de diciembre",
-        "snippet": "",
-        "url": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-cundinamarca-y-tolima-resultados-del-lunes-9-de-diciembre-3407606",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTDxRNzP2-FfVI2iSi-k5vs42aQ0zqk0jBDBHLUOhoCpN7adN8Qwypmq7j1s",
-        "source": "ELTIEMPO.COM"
-      },
-      {
-        "title": "Resultados loterías Cundinamarca y Tolima hoy: números que cayeron y ganadores | 9 de diciembre",
-        "snippet": "",
-        "url": "https://colombia.as.com/actualidad/resultados-loterias-cundinamarca-y-tolima-hoy-numeros-que-cayeron-y-ganadores-9-de-diciembre-n/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz_EOkY1_KVmXjse1gYMuztI72Z8Qz_5aQuvRLXNPb-Trnt5kOt5pJBPyycjg",
-        "source": "AS Colombia"
-      }
-    ]
-  },
-  {
-    "title": "la fm en vivo",
-    "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 01:40:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGXcAMofFGCz053aiP0DqnrIT76Z2-EeBVwsIL43vYknAoqlVEJrq3-Gsdt4s",
-    "picture_source": "ELTIEMPO.COM",
-    "news_items": [
-      {
-        "title": "Presidente Lula da Silva de Brasil, en cuidados intensivos tras operación de urgencia por hemorragia intracraneal",
-        "snippet": "",
-        "url": "https://www.eltiempo.com/mundo/latinoamerica/lula-es-operado-de-una-hemorragia-intracraneal-y-se-recupera-en-la-uci-de-un-hospital-3407632",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGXcAMofFGCz053aiP0DqnrIT76Z2-EeBVwsIL43vYknAoqlVEJrq3-Gsdt4s",
-        "source": "ELTIEMPO.COM"
-      },
-      {
-        "title": "Lula da Silva fue operado de emergencia por una “hemorragia intracraneal” y está en UCI",
-        "snippet": "",
-        "url": "https://www.elcolombiano.com/internacional/lula-da-silva-fue-operado-de-emergencia-IG26028110",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIoE5HU5Te2tDSMqle8ZUbdrADla_JFzCuLQ2qlb0YOLJneV6d1XtwW7o11EY",
-        "source": "El Colombiano"
-      },
-      {
-        "title": "Lula se somete a cirugía cerebral y permanece estable en terapia intensiva",
-        "snippet": "",
-        "url": "https://cnnespanol.cnn.com/2024/12/10/latinoamerica/lula-cirugia-cerebral-permanece-estable-en-uci-reux",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw_kRDGOuvplZQCkvRCRSTdW6XECY_fGUMFgUYFoVfyCUU1Gi01xhyArZoa2Y",
-        "source": "CNN en Español"
-      }
-    ]
-  },
-  {
-    "title": "el espectador",
-    "link": "https://trends.google.com/trending/rss?geo=CO",
-    "pubdate": "Tue, 10 Dec 2024 01:30:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ9KryW4nnIj8cTULKBiqmThnP8Nkr7yix_03r-m2wAYZadxEpgpVpyMYGtzo",
-    "picture_source": "Infobae",
-    "news_items": [
-      {
-        "title": "Las lamentables condiciones de bebé abandonada en un contenedor de basura por su joven madre en Bogotá",
-        "snippet": "",
-        "url": "https://www.infobae.com/colombia/2024/12/08/las-lamentables-condiciones-de-bebe-abandonada-en-un-contenedor-de-basura-por-su-joven-madre-en-bogota/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ9KryW4nnIj8cTULKBiqmThnP8Nkr7yix_03r-m2wAYZadxEpgpVpyMYGtzo",
-        "source": "Infobae"
-      },
-      {
-        "title": "Niña de 15 años abandonó a recién nacida en un basurero a una hora de dar a luz",
-        "snippet": "",
-        "url": "https://www.elespectador.com/bogota/nina-de-15-anos-abandono-a-recien-nacida-en-un-basurero-a-una-hora-de-dar-a-luz-que-paso/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrqNT08BdVGVsqBn70VZ-6AmsjCXaGEG6pDVT5zpaxuGTK4aSNmAWfeQEZFbo",
-        "source": "El Espectador"
-      },
-      {
-        "title": "Consternación en Kennedy por el abandono de una recién nacida en un depósito de basura",
-        "snippet": "",
-        "url": "https://citytv.eltiempo.com/noticias/denuncias/consternacion-en-kennedy-por-el-abandono-de-una-recien-nacida-en-un-deposito-de-basura_75806",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu6GnerMqa_Tb9qIfsjsb6mi62RdoN7Ghs38yE6cYdXFLuyb-oIILuxCiVBn4",
-        "source": "▷ City Tv | Noticias"
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-14178861/Megan-Fox-Machine-Gun-Kelly-never-reconcile-truth-breakup.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw2iUW8ahKftTzy8CMYXSbts6QXD2CtwhkaiiPcIm972YfJIRRSXgpJVDIRsI",
+        "source": "Daily Mail"
       }
     ]
   }

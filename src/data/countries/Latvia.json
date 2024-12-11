@@ -1,22 +1,33 @@
 [
   {
-    "title": "ludmila tarasova",
+    "title": "champions league",
     "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Tue, 10 Dec 2024 04:10:00 -0800"
-  },
-  {
-    "title": "latvija.lv",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Mon, 9 Dec 2024 23:30:00 -0800"
-  },
-  {
-    "title": "jānis kisiels",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Mon, 9 Dec 2024 22:50:00 -0800"
-  },
-  {
-    "title": "luigi mangione",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Mon, 9 Dec 2024 12:40:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5-kDCWguYFEW9Wb38GCz-H_ElQED4IgKCph2NrzM27rlRaNCYZ9-r3Qy2KR0",
+    "picture_source": "Eurosport",
+    "news_items": [
+      {
+        "title": "RB Leipzig v Aston Villa live: UEFA Champions League latest as Unai Emery's \nside bid to boost qualification hopes with victory at winless German hosts",
+        "snippet": "",
+        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-rb-leipzig-aston-villa_mtc1525366/live-commentary.shtml",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5-kDCWguYFEW9Wb38GCz-H_ElQED4IgKCph2NrzM27rlRaNCYZ9-r3Qy2KR0",
+        "source": "Eurosport"
+      },
+      {
+        "title": "UEFA Champions League RB Leipzig 2 Aston Villa 3 Full time",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/c89vkp00872t",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZcaHaY2fcP8mtLelU-mYBskneJThian_Qze8orZYUZp87gZFASIuiN5Y8Q",
+        "source": "BBC"
+      },
+      {
+        "title": "Chelsea FC alum helps Aston Villa to crucial away win",
+        "snippet": "",
+        "url": "https://theprideoflondon.com/chelsea-fc-alum-helps-aston-villa-to-crucial-away-win",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_zOHUJIthQXzDs3Kx0-K3e4Jehcj-JG5OeL0ti86LU_qMJY8u_pBxtVtddw",
+        "source": "The Pride of London"
+      }
+    ]
   }
 ]

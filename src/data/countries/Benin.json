@@ -1,12 +1,312 @@
 [
   {
-    "title": "west ham – wolves",
+    "title": "classement ligue des champions",
     "link": "https://trends.google.com/trending/rss?geo=BJ",
-    "pubdate": "Mon, 9 Dec 2024 13:30:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 13:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRigSxKR6S89-XfDKkc5FoX2oXUV9LowqyyGYRrye6g9678XI2UuJzYqYsOBco",
+    "picture_source": "RMC Sport",
+    "news_items": [
+      {
+        "title": "Ligue des champions: le Real gagne en perdant Mbappé, le Bayern en balade, \nLeipzig premier éliminé",
+        "snippet": "",
+        "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/direct-gerone-liverpool-atalanta-real-leverkusen-inter-suivez-en-live-les-affiches-de-la-6e-journee-de-ligue-des-champions_LS-202412100410.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRigSxKR6S89-XfDKkc5FoX2oXUV9LowqyyGYRrye6g9678XI2UuJzYqYsOBco",
+        "source": "RMC Sport"
+      },
+      {
+        "title": "LDC: Dortmund-Barça, Arsenal-Monaco, le programme de ce mercredi",
+        "snippet": "",
+        "url": "https://beninwebtv.com/ldc-dortmund-barca-arsenal-monaco-le-programme-de-ce-mercredi/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9vozBxiY2wxErMCuYd7FnKlPIzcdO6aSSBRGCzPBOBFy11CpcF5Y2umIQrUA",
+        "source": "Benin Web TV"
+      },
+      {
+        "title": "J6 : le classement complet de la Ligue des Champions",
+        "snippet": "",
+        "url": "https://www.footmercato.net/a2005917360622925061-j6-le-classement-complet-de-la-ligue-des-champions",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUcTloCs_CfcNVD1_bk858nvD2J853yvWh9DOcip2YNtAbJb6ulLjhUpSVo5c",
+        "source": "Foot Mercato"
+      }
+    ]
   },
   {
-    "title": "getafe – espanyol",
+    "title": "rb leipzig – aston villa",
     "link": "https://trends.google.com/trending/rss?geo=BJ",
-    "pubdate": "Mon, 9 Dec 2024 11:10:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 13:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZcaHaY2fcP8mtLelU-mYBskneJThian_Qze8orZYUZp87gZFASIuiN5Y8Q",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "UEFA Champions League RB Leipzig 2 Aston Villa 3 Full time",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/c89vkp00872t",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZcaHaY2fcP8mtLelU-mYBskneJThian_Qze8orZYUZp87gZFASIuiN5Y8Q",
+        "source": "BBC"
+      },
+      {
+        "title": "Chelsea FC alum helps Aston Villa to crucial away win",
+        "snippet": "",
+        "url": "https://theprideoflondon.com/chelsea-fc-alum-helps-aston-villa-to-crucial-away-win",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_zOHUJIthQXzDs3Kx0-K3e4Jehcj-JG5OeL0ti86LU_qMJY8u_pBxtVtddw",
+        "source": "The Pride of London"
+      },
+      {
+        "title": "McGinn toasts Villa's 'surreal' European return",
+        "snippet": "",
+        "url": "https://www.france24.com/en/live-news/20241210-mcginn-toasts-villa-s-surreal-european-return",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtZiwYN2l0e6RYoMjnUAeUSWFgDC8RCDEiehZ3HkAb-SrjyUR9hwk6A0tTmkY",
+        "source": "France 24"
+      }
+    ]
+  },
+  {
+    "title": "psg",
+    "link": "https://trends.google.com/trending/rss?geo=BJ",
+    "pubdate": "Tue, 10 Dec 2024 13:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpunZPZo9YijfF0nTWMKXkerjm9XzrzT8EBkp28L5cb-QhZ9E6zJ-Hmgs-SxI",
+    "picture_source": "Foot Mercato",
+    "news_items": [
+      {
+        "title": "PSG : la réponse brutale de Désiré Doué",
+        "snippet": "",
+        "url": "https://www.footmercato.net/a7134408216726232624-psg-la-reponse-brutale-de-desire-doue",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpunZPZo9YijfF0nTWMKXkerjm9XzrzT8EBkp28L5cb-QhZ9E6zJ-Hmgs-SxI",
+        "source": "Foot Mercato"
+      },
+      {
+        "title": "Luis Enrique : \"Doué j'aime, c'est l'avenir, mais je veux plus\" - Actualite - Paris PSG",
+        "snippet": "",
+        "url": "https://www.paristeam.fr/actu-psg/actualite/luis-enrique-doue-j-aime-c-est-l-avenir-mais-je-veux-plus-69362",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEAOZkUUvc8XV39j_8MprJjkySejunvHFtmNdRP7evlT9_WYPXb6ANAUqqt5E",
+        "source": "Paristeam"
+      },
+      {
+        "title": "PSG : Luis Enrique content de Doué",
+        "snippet": "",
+        "url": "https://news.maxifoot.fr/psg/luis-enrique-content-de-doue-foot-424409.htm",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6ElQGStjIS4VWnY1IZ4SbL8lhgvcXl1Knkx3GGcOhOdvYuR7KCCHA3BZkKW4",
+        "source": "Maxifoot"
+      }
+    ]
+  },
+  {
+    "title": "leverkusen – inter",
+    "link": "https://trends.google.com/trending/rss?geo=BJ",
+    "pubdate": "Tue, 10 Dec 2024 12:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7kyFVSj7bvrNPXICnP8m_x2a9dGrRPX-XSShzGmZoQDeucMhQOAZ4I_exq6k",
+    "picture_source": "BILD.de",
+    "news_items": [
+      {
+        "title": "Champions League: Leverkusens Trainer Alonso „schoss“ das Sieg-Tor gegen Inter",
+        "snippet": "",
+        "url": "https://www.bild.de/sport/fussball/champions-league-leverkusens-trainer-alonso-schoss-das-sieg-tor-gegen-inter-67595b605a14524c9e5deed5",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7kyFVSj7bvrNPXICnP8m_x2a9dGrRPX-XSShzGmZoQDeucMhQOAZ4I_exq6k",
+        "source": "BILD.de"
+      },
+      {
+        "title": "Champions League: Emotionale Heimkehr mit brutalem Ende",
+        "snippet": "",
+        "url": "https://www.sport1.de/news/fussball/champions-league/2024/12/champions-league-emotionale-heimkehr-mit-brutalem-ende",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxQ_mLXNJfzcQhL7YjdFk0W_ZHExzPdN4EADTVjKWBjcFTB9h9pXLbGmZdxk",
+        "source": "Sport1"
+      },
+      {
+        "title": "Matchwinner Mukiele: Ein Geständnis und ein Wink an den FC Bayern",
+        "snippet": "",
+        "url": "https://www.kicker.de/matchwinner-mukiele-ein-gestaendnis-und-ein-wink-an-den-fc-bayern-1074815/artikel",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ2eYTI8zru-oZIrbqu9Ptld96vf0PEwr-TMi8HUk4jrx1weu3yzxBiSBjvzM",
+        "source": "Kicker"
+      }
+    ]
+  },
+  {
+    "title": "real vs atalanta",
+    "link": "https://trends.google.com/trending/rss?geo=BJ",
+    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuYja9wGyiU-blMeTP4IaYxXrU7Cw1flwDTMrEfFk2xf0U0_ZX1wAGoqT-Wpc",
+    "picture_source": "Goal.com",
+    "news_items": [
+      {
+        "title": "Atalanta - Real Madrid : Diffusion TV et en clair, meilleur streaming et compos probables",
+        "snippet": "",
+        "url": "https://www.goal.com/fr/news/atalanta-v-real-madrid-live-stream-online-tv-where-to-watch/bltc45154a1da0b30bb",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuYja9wGyiU-blMeTP4IaYxXrU7Cw1flwDTMrEfFk2xf0U0_ZX1wAGoqT-Wpc",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Vinicius va prendre le risque",
+        "snippet": "",
+        "url": "https://real-france.fr/vinicius-va-prendre-le-risque/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXA-wXOIupRhlxEyL4EBhfYOt1wiepUUWg4h45z5AKN9Oi5mNbf1KGd_g4VE",
+        "source": "Real France"
+      },
+      {
+        "title": "Le clin d’œil de Florentino Pérez à Kylian Mbappé depuis Bergame",
+        "snippet": "",
+        "url": "https://onefootball.com/en/news/le-clin-doeil-de-florentino-perez-a-kylian-mbappe-depuis-bergame-40420303",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEssFkQtmeEeqZLOa8NnB3zY0mWFoB4_dH31YaVUezpdazukGYfMOjjGzuPrQ",
+        "source": "OneFootball"
+      }
+    ]
+  },
+  {
+    "title": "real madrid vs",
+    "link": "https://trends.google.com/trending/rss?geo=BJ",
+    "pubdate": "Tue, 10 Dec 2024 12:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJh55aFUr15_68XEZaSTPzYh7_NY2nkYofjc0JP6nwZ2dfb4yRNyuRqr9jtLY",
+    "picture_source": "Rayo Vallecano",
+    "news_items": [
+      {
+        "title": "Plan Semanal: del 9 al 15 de diciembre",
+        "snippet": "",
+        "url": "https://www.rayovallecano.es/noticias/plan-semanal-del-9-al-15-de-diciembre",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJh55aFUr15_68XEZaSTPzYh7_NY2nkYofjc0JP6nwZ2dfb4yRNyuRqr9jtLY",
+        "source": "Rayo Vallecano"
+      },
+      {
+        "title": "Rayo Vallecano vs. Real Madrid por LALIGA 2024 - 2025, todo lo que tenés que saber",
+        "snippet": "",
+        "url": "https://www.directvsports.com/futbol/Rayo-Vallecano-vs.-Real-Madrid-por-LALIGA-2024---2025-todo-lo-que-tenes-que-saber-20241211-0020.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkqcF04skGZOzejz6UiCt_w-DTPN8Osf5OwkQz4_OmvmfvR-tIim7NGOb19JM",
+        "source": "DSports"
+      },
+      {
+        "title": "El Rayo se prepara para el Madrid",
+        "snippet": "",
+        "url": "https://as.com/futbol/primera/el-rayo-se-prepara-para-el-madrid-n/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlVOuyRlRmVR6wo90HZfprSZGHWLfAZ6gXoxr7KRc_V3loO-ciiG_h6yIoMiQ",
+        "source": "Diario AS"
+      }
+    ]
+  },
+  {
+    "title": "chakhtior donetsk – bayern",
+    "link": "https://trends.google.com/trending/rss?geo=BJ",
+    "pubdate": "Tue, 10 Dec 2024 11:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHrf973NFYo9L_qB-sFQ90qwSY1lDzMEORuBJuVKwsh0nS6dVUQo9SsjhsOsA",
+    "picture_source": "Bavarian Football Works",
+    "news_items": [
+      {
+        "title": "Bayern Munich’s Konrad Laimer in awe of Michael Olise’s \"video game\" goal against Shakhtar Donetsk",
+        "snippet": "",
+        "url": "https://www.bavarianfootballworks.com/2024/12/11/24317622/bayern-munich-uefa-champions-league-shakhtar-donetsk-michael-olise-konrad-laimer-harry-kane-ucl",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHrf973NFYo9L_qB-sFQ90qwSY1lDzMEORuBJuVKwsh0nS6dVUQo9SsjhsOsA",
+        "source": "Bavarian Football Works"
+      },
+      {
+        "title": "Chelsea and Man Utd fans say the same thing after £50m target 'turns into Messi'",
+        "snippet": "",
+        "url": "https://metro.co.uk/2024/12/11/chelsea-man-utd-fans-say-thing-50m-target-turns-messi-22163951/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvMYVfMCUuk6wlVKsc8Z2gYzQbJquRAuLpzEv3s6E4YPMReAkAyAbfyaxeTw",
+        "source": "Metro.co.uk"
+      },
+      {
+        "title": "Kompany heaps praise on goalscoring Muller after rare start against Shakhtar",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-asia/football/uefa-champions-league/articles/kompany-heaps-praise-on-goalscoring-muller-after-rare-start-against-shakhtar-2024-12-11",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ3LOMRk1-4MkH3SWJ_oh3INOfW0X4MJ7iZQqBOIWcSHQ2uDK5Xok4Dl58240",
+        "source": "beIN SPORTS"
+      }
+    ]
+  },
+  {
+    "title": "girona vs liverpool",
+    "link": "https://trends.google.com/trending/rss?geo=BJ",
+    "pubdate": "Tue, 10 Dec 2024 11:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT94pEtwZKffk77ylRKx5k8w_43BQ-Y5e94EFeY3sPCz98pFP7db1ozn7brfyI",
+    "picture_source": "L'Équipe",
+    "news_items": [
+      {
+        "title": "Gérone 0-1 Liverpool, Ligue des champions : 6/6 pour les Reds",
+        "snippet": "",
+        "url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2024-2025/girona-liverpool-live/668052",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT94pEtwZKffk77ylRKx5k8w_43BQ-Y5e94EFeY3sPCz98pFP7db1ozn7brfyI",
+        "source": "L'Équipe"
+      },
+      {
+        "title": "Who was Liverpool's Carlsberg Player of the Match v Girona?",
+        "snippet": "",
+        "url": "https://www.liverpoolfc.com/fr/news/who-was-liverpools-carlsberg-player-match-v-girona",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1o7p1oLKL_poQq1Zw4pfBXrjy511Z8_-wIghQpP4aExu1m94eoSekYhuXUA",
+        "source": "Liverpool FC"
+      },
+      {
+        "title": "Liverpool - Slot : \"Alisson a montré pourquoi il est le gardien numéro 1\"",
+        "snippet": "",
+        "url": "https://www.beinsports.com/fr-fr/football/uefa-ligue-des-champions/articles-video/liverpool-slot-alisson-a-montr%C3%A9-pourquoi-il-est-le-gardien-num%C3%A9ro-1-2024-12-11",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXH0124q1e0mB-mjfbCFtA53arJBb7qGebJl0fe4DkUGC-GOXzJ6P_ww6EIsM",
+        "source": "beIN SPORTS"
+      }
+    ]
+  },
+  {
+    "title": "rb salzburg – paris-sg",
+    "link": "https://trends.google.com/trending/rss?geo=BJ",
+    "pubdate": "Tue, 10 Dec 2024 11:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFj_b6Yo1MISbkuWsWvcAUq7GgYp-KM_svUBguBBb0bARhW9kkVYjVJazz1ZI",
+    "picture_source": "Le Parisien",
+    "news_items": [
+      {
+        "title": "Salzbourg-PSG : Presnel Kimpembe absent du déplacement en Ligue des champions, Hernandez de retour",
+        "snippet": "",
+        "url": "https://www.leparisien.fr/sports/football/ligue-des-champions/salzbourg-psg-presnel-kimpembe-absent-du-deplacement-en-ligue-des-champions-09-12-2024-HMPBKVW5P5DZNPKIKN2LPOIVEM.php",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFj_b6Yo1MISbkuWsWvcAUq7GgYp-KM_svUBguBBb0bARhW9kkVYjVJazz1ZI",
+        "source": "Le Parisien"
+      },
+      {
+        "title": "Salzbourg/PSG – Baidoo souligne le « courage » nécessaire",
+        "snippet": "",
+        "url": "https://www.msn.com/fr-fr/sport/football/salzbourg-psg-baidoo-souligne-le-courage-n%C3%A9cessaire/ar-AA1vBwHt",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8UCoyL4y5TQvKHwsVCGlFg0vvUP7-1RaEwLctmPYn899E7xKcMrAN2l3MhqQ",
+        "source": "MSN"
+      },
+      {
+        "title": "PSG : avec l’énergie du désespoir - C1 - J6 - Salzbourg-PSG",
+        "snippet": "",
+        "url": "https://www.sofoot.com/articles/ligue-des-champions-salzbourg-psg-symphonie-ou-requiem",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuCCaZxgRhfhbXlpmz9r0-nbLYq8vT2--nfpM5KcTykB3_v7ne-4tLxkxqY68",
+        "source": "SO FOOT.com"
+      }
+    ]
+  },
+  {
+    "title": "real madrid vs atalanta",
+    "link": "https://trends.google.com/trending/rss?geo=BJ",
+    "pubdate": "Tue, 10 Dec 2024 11:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+    "picture_source": "beIN SPORTS",
+    "news_items": [
+      {
+        "title": "Real Madrid revive Champions League title defence with win at spirited Atalanta",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/real-madrid-revive-champions-league-title-defence-with-win-at-spirited-atalanta-2024-12-10",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Rodrygo: \"We made the most of our chances when we were in space\"",
+        "snippet": "",
+        "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/rodrygo-ha-sido-una-victoria-muy-importante-hemos-trabajado-bien-10-12-2024",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6f-gljgRYcefEfUJ62UuALMel-CY944LCQzf4DuPzlOW1huCIAJ4iTaAW_k",
+        "source": "Real Madrid CF"
+      },
+      {
+        "title": "'Should have won the Ballon d'Or!' - Jude Bellingham hailed as 'best player in the world' after 'monstrous' display for Real Madrid vs Atalanta",
+        "snippet": "",
+        "url": "https://www.goal.com/en-ae/lists/should-have-won-ballon-d-or-jude-bellingham-hailed-best-player-in-world-monstrous-display-real-madrid-atalanta/blt60c8ebdcf37b9a6a",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIsBo_dQqvMWH9ateAlHEATYFjT4I2kTJxLQcb9jTN6TAGnluAcWG8IQ3f2YA",
+        "source": "Goal.com"
+      }
+    ]
   }
 ]

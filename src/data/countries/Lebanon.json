@@ -1,156 +1,311 @@
 [
   {
-    "title": "الامن العام اللبناني",
+    "title": "google",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Tue, 10 Dec 2024 01:10:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxu0RzPQ7xyer169Q8JSiAgu7bGnYoXZRuzXiVWFV_6Ictvsxj7tXJ6_4suEU",
-    "picture_source": "Elnashra",
+    "pubdate": "Tue, 10 Dec 2024 16:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7MRgQMRq2vdhwoIkgzp7k9OkUk0--yEQA7C9cfBBmF2kTyFu27e8wQ9CcEls",
+    "picture_source": "Google Blog",
     "news_items": [
       {
-        "title": "الأمن العام أعلن حاجته لتطويع ضباط اختصاصيين بطريقة المباراة من بين المدنيين والعسكريين",
+        "title": "Meet Willow, our state-of-the-art quantum chip",
         "snippet": "",
-        "url": "https://www.elnashra.com/news/show/1701165/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A3%D8%B9%D9%84%D9%86-%D8%AD%D8%A7%D8%AC%D8%AA%D9%87-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B9-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%D9%8A%D9%8A%D9%86-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxu0RzPQ7xyer169Q8JSiAgu7bGnYoXZRuzXiVWFV_6Ictvsxj7tXJ6_4suEU",
-        "source": "Elnashra"
+        "url": "https://blog.google/technology/research/google-willow-quantum-chip/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7MRgQMRq2vdhwoIkgzp7k9OkUk0--yEQA7C9cfBBmF2kTyFu27e8wQ9CcEls",
+        "source": "Google Blog"
       },
       {
-        "title": "إعلانٌ من الأمن العام... هذه تفاصيله",
+        "title": "Trending tickers: Alphabet, Tesla, Walgreens, British American Tobacco and TUI",
         "snippet": "",
-        "url": "https://www.mtv.com.lb/News/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/1529805/%D8%A5%D8%B9%D9%84%D8%A7%D9%86--%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85----%D9%87%D8%B0%D9%87-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%D9%87",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaqEPZj9-vL1flKG8Y_I7rBzylrIgLAUf6OTqCJFLls0oVl-TykJEeADahRM4",
-        "source": "MTV Lebanon"
+        "url": "https://uk.finance.yahoo.com/news/alphabet-tesla-walgreens-british-american-tobacco-tui-trending-tickers-105926900.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQuOgxSZAyIzE43cSsV1r-BwmZz3LVOEEtaEhgOWz8M8ogyh43EG98zp18h8U",
+        "source": "Yahoo"
       },
       {
-        "title": "الامن العام أعلن حاجته إلى تطويع ضباط اختصاصيين",
+        "title": "Google Makes New Quantum Computing Breakthrough",
         "snippet": "",
-        "url": "https://www.nna-leb.gov.lb/ar/justice-law/745008/%D8%A7%D9%84%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A3%D8%B9%D9%84%D9%86-%D8%AD%D8%A7%D8%AC%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%AA%D8%B7%D9%88%D9%8A%D8%B9-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%D9%8A%D9%8A%D9%86",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7atSC0ILECBMnRiuAlNi8pQIwzHnLgWbuwWlGGTfHGAAxqeJGhuTYPNa290E",
-        "source": "الوكالة الوطنية للإعلام"
+        "url": "https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHUpJX75nrJf88gkeUV6QHHARpRBdS5xGH7YxrywE5bXBtQPH34dceghgUjiE",
+        "source": "The New York Times"
       }
     ]
   },
   {
-    "title": "مازن حمادة",
+    "title": "x",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Mon, 9 Dec 2024 12:40:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "",
+    "pubdate": "Tue, 10 Dec 2024 16:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVBZFnIiZWKhEbXCHm5d6hTEStRjfPXX_awzRSnnK9Qlz8Rz9djkWM0RniBpA",
+    "picture_source": "Marvel",
+    "news_items": [
+      {
+        "title": "Return to the Days of the Original X-Men in R.B. Silva's Connecting Variant Covers",
+        "snippet": "",
+        "url": "https://www.marvel.com/articles/comics/original-x-men-in-r-b-silva-connecting-variant-covers",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVBZFnIiZWKhEbXCHm5d6hTEStRjfPXX_awzRSnnK9Qlz8Rz9djkWM0RniBpA",
+        "source": "Marvel"
+      },
+      {
+        "title": "Original X-Men connecting cover by R.B. Silva gets",
+        "snippet": "",
+        "url": "https://aiptcomics.com/2024/12/10/original-x-men/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqdj25jqZs71uv_0ANpVYF7Ej5ogoNS3aBWY4U33Cm7DzDBI_fXDjO2jfYgn0",
+        "source": "AIPT"
+      },
+      {
+        "title": "Iron Studios Unveils New Statue for Cyclops Leader of the X-Men",
+        "snippet": "",
+        "url": "https://bleedingcool.com/collectibles/iron-studios-unveils-new-statue-for-cyclops-leader-of-the-x-men/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSAuGygejutatUDzBfLkyScJaZOpslDcPFRi2P-l8v2Oo9pkllr4oYXA9-Z24",
+        "source": "Bleeding Cool News"
+      }
+    ]
+  },
+  {
+    "title": "leverkusen vs inter",
+    "link": "https://trends.google.com/trending/rss?geo=LB",
+    "pubdate": "Tue, 10 Dec 2024 14:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW1dsxXPlmUuDPFQ6qixS5t-5hgsyEGPD5nasl6OqsTOzOjP8yFhwj7VnByw",
+    "picture_source": "SempreInter.com",
+    "news_items": [
+      {
+        "title": "Inter Milan Manager Blasts Lethargic Nerazzurri Performance Vs Bayer Leverkusen: “Not Good Enough”",
+        "snippet": "",
+        "url": "https://sempreinter.com/2024/12/10/simone-inzaghi-blasts-inter-milan-performance-not-good-enough/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW1dsxXPlmUuDPFQ6qixS5t-5hgsyEGPD5nasl6OqsTOzOjP8yFhwj7VnByw",
+        "source": "SempreInter.com"
+      },
+      {
+        "title": "Mukiele comments after late winner",
+        "snippet": "",
+        "url": "https://bulinews.com/mukiele-comments-after-late-winner",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxB_xKqST6ZNSKJAR2rj4YKvuJ3ImRPzK9OOxHqRD75weUqTjtuGAD3zg4jWQ",
+        "source": "Bundesliga News in English"
+      },
+      {
+        "title": "Inter Milan's Matteo Darmian Urges Teammates to Stay Confident After Bayer Leverkusen Setback",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2167256-inter-milan-s-matteo-darmian-urges-teammates-to-stay-confident-after-bayer-leverkusen-setback",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCAeJnN3yEVEb1WkUfbOLloGlTQdqVItDJM1SgyFrY00RUI5RQ4c6WGkt8Wt8",
+        "source": "FootBoom"
+      }
+    ]
+  },
+  {
+    "title": "دوري الأبطال",
+    "link": "https://trends.google.com/trending/rss?geo=LB",
+    "pubdate": "Tue, 10 Dec 2024 13:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBsK3GfIXRba1Nbg2uKqWXpjM1udXNMcOMt75At-_bbPyy0DrRDQ84aUwDvo",
     "picture_source": "الجزيرة نت",
     "news_items": [
       {
-        "title": "مات مرتين في سجون الأسد.. العثور على جثة الناشط مازن حمادة",
+        "title": "موعد مباراة برشلونة ضد دورتموند بدوري أبطال أوروبا والقنوات الناقلة",
         "snippet": "",
-        "url": "https://www.aljazeera.net/news/2024/12/10/%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%AC%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%AB%D8%A9",
-        "picture": "",
+        "url": "https://www.aljazeera.net/sport/2024/12/11/barcelona-borussia-dortmund",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBsK3GfIXRba1Nbg2uKqWXpjM1udXNMcOMt75At-_bbPyy0DrRDQ84aUwDvo",
         "source": "الجزيرة نت"
       },
       {
-        "title": "العثور على جثث عليها آثار تعذيب في مستشفى بسوريا",
+        "title": "فليك يحارب عدو برشلونة قبل موقعة دورتموند",
         "snippet": "",
-        "url": "https://www.skynewsarabia.com/middle-east/1760982-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%AC%D8%AB%D8%AB-%D8%B9%D9%84%D9%8A%D9%87%D8%A7-%D8%A7%D9%93%D8%AB%D8%A7%D8%B1-%D8%AA%D8%B9%D8%B0%D9%8A%D8%A8-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAKPhYgz3b486yQ9LqKxUeFIDSV-yO3fLBa2WMSLSVvZ8AoI4PpHmC7Qb5Xc",
-        "source": "سكاي نيوز عربية"
+        "url": "https://www.kooora.com/?n=1373887",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCoHpmp1DqIzubilhj4UvKgG_n_OpOAq58Jx9NU3Hq3jmgYOWJgJiDfAKr8Io",
+        "source": "كووورة: الموقع العربي الرياضي الأول"
       },
       {
-        "title": "فصائل سورية: عثرنا في مستشفى قرب دمشق على عشرات الجثث وعليها آثار تعذيب",
+        "title": "أراوخو يعود لكتيبة برشلونة أمام دورتموند",
         "snippet": "",
-        "url": "https://www.alarabiya.net/arab-and-world/syria/2024/12/10/%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%B9%D8%AB%D8%B1%D9%86%D8%A7-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D9%82%D8%B1%D8%A8-%D8%AF%D9%85%D8%B4%D9%82-%D8%B9%D9%84%D9%89-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%AB%D8%AB-%D9%88%D8%B9%D9%84%D9%8A%D9%87%D8%A7-%D8%A7%D8%AB%D8%A7%D8%B1-%D8%AA%D8%B9%D8%B0%D9%8A%D8%A8-",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNE263CCgq5pC-bYxaiwvIXI8jXBudaubSSag7zLzGUhhCkImOTZG9hZVkP58",
-        "source": "العربية"
+        "url": "https://www.lebanese-forces.com/2024/12/10/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-103/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2eG3IqGUjtISs7tanZFtFey5uLYLj1sFhMjaos0-8nZxlNn9KbRyiBrfFiR8",
+        "source": "Lebanese Forces Official Website"
       }
     ]
   },
   {
-    "title": "عرض بيانات السجناء",
+    "title": "kooora",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Mon, 9 Dec 2024 10:20:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrkHmiXzLLUGnV2aiz77PdODDWjcZARtdFbQq2ItX_1oYGRWhVc921z5K4GB8",
-    "picture_source": "aljadeed",
+    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYDXUEExGEjrFN-TdkVKsHoBUZh7s_hqdu6tYOL28ZY2L4zm02uGzqS636YYM",
+    "picture_source": "بطولات",
     "news_items": [
       {
-        "title": "بالفيديو - جثث متحللة بالأسيد في سجن صيدنايا",
+        "title": "ترتيب هدافي دوري أبطال أوروبا بعد هدف فينيسيوس جونيور أمام أتالانتا",
         "snippet": "",
-        "url": "https://www.aljadeed.tv/news/%D8%B9%D8%B1%D8%A8%D9%8A%D8%A7%D8%AA/517819/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AC%D8%AB%D8%AB-%D9%85%D8%AA%D8%AD%D9%84%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%A3%D8%B3%D9%8A%D8%AF-%D9%81%D9%8A-%D8%B3%D8%AC%D9%86-%D8%B5%D9%8A%D8%AF%D9%86%D8%A7%D9%8A%D8%A7",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrkHmiXzLLUGnV2aiz77PdODDWjcZARtdFbQq2ItX_1oYGRWhVc921z5K4GB8",
-        "source": "aljadeed"
+        "url": "https://www.btolat.com/news/359273",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYDXUEExGEjrFN-TdkVKsHoBUZh7s_hqdu6tYOL28ZY2L4zm02uGzqS636YYM",
+        "source": "بطولات"
       },
       {
-        "title": "سجن صيدنايا: بي بي سي تزور السجن سيء السمعة في سوريا قبل إعلان انتهاء عمليات البحث عن معتقلين داخله",
+        "title": "مباريات حاسمة غدًا في دوري أبطال أوروبا",
         "snippet": "",
-        "url": "https://www.bbc.com/arabic/articles/c9834382700o",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OHu4-dN28Q769VcpzSJWLApVYwOzU4nxG2bkCjOAg-Wzl9tUTXNGC0ipXJY",
-        "source": "BBC"
+        "url": "https://hihi2.com/2024/12/10/p2974835.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEGQxXCs8Sffdug5OIZ-0Lol_HoK2xnegbf8FTGmvLQTUYSR9rHrz_dzJO52g",
+        "source": "هاي كورة"
       },
       {
-        "title": "\"الاختلاط والطوارئ\".. سر الطوابق المخفية في سجون الأسد",
+        "title": "الصالح سبورت : نتائج مباراة يوم الثلاثاء في دوري أبطال أوروبا",
         "snippet": "",
-        "url": "https://www.skynewsarabia.com/middle-east/1761015-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%B7-%D9%88%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D9%8A%D9%94-%D8%B3%D8%B1-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D9%85%D8%AE%D9%81%D9%8A%D8%A9-%D8%B3%D8%AC%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%94%D8%B3%D8%AF",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqReoICkorPHkxQftfoyODbVzKtaG-gughjs0SmQX74cTkvYJicsCHr7zO0co",
-        "source": "سكاي نيوز عربية"
+        "url": "https://pro.saleh13.com/allnews/%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7-31649/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbHEwB_bxxEkB0A9UVoxP0cuavs5VMB6Iq_gTUpZeFKkmxMsWsfb00KX2QwsE",
+        "source": "الصالح"
       }
     ]
   },
   {
-    "title": "موسى صدر",
+    "title": "real madrid",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Mon, 9 Dec 2024 10:10:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaTdDnL7p8sUnsl3vp8XgC2m43eWV9AzCnPq2Gq0gtb2zNEsETVwgocs6k70",
-    "picture_source": "Lebanon Debate",
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
+    "picture_source": "Marca.com",
     "news_items": [
       {
-        "title": "بعد شائعات حول احتجازه في سوريا... بيانٌ من عائلة موسى الصدر",
+        "title": "Atalanta - Real Madrid: resumen, resultado y goles",
         "snippet": "",
-        "url": "https://www.lebanondebate.com/news/676654",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaTdDnL7p8sUnsl3vp8XgC2m43eWV9AzCnPq2Gq0gtb2zNEsETVwgocs6k70",
-        "source": "Lebanon Debate"
+        "url": "https://www.marca.com/futbol/champions-league/atalanta-r-madrid/2024/12/10/01_0103_20241210_456_186-directo.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
+        "source": "Marca.com"
       },
       {
-        "title": "عائلة الإمام موسى الصدر تنفي وجوده في سجن صيدنايا السوري",
+        "title": "La ‘BMV’ quiere la Champions",
         "snippet": "",
-        "url": "https://www.almayadeen.net/news/politics/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D9%85%D9%88%D8%B3%D9%89-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D8%AA%D9%86%D9%81%D9%8A-%D9%88%D8%AC%D9%88%D8%AF%D9%87-%D9%81%D9%8A-%D8%B3%D8%AC%D9%86-%D8%B5%D9%8A%D8%AF%D9%86%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTQm8NhpzkGZBRX90Mmv464HzuNVYbJasyOz-2pph99_BCJ8pQEVa4dbL2XUM",
+        "url": "https://onefootball.com/fr/news/la-bmv-quiere-la-champions-40425269",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX-JcozUJ8BxnVqdUPkgdsHwRlgOAgj4rTXFjNwANSiIKvSdd-4xsMkc5jzPo",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Poesía para los oídos madridistas, así fue la narración de Rac-1 del fallo de Retegui en el 93’",
+        "snippet": "",
+        "url": "https://www.realmadridexclusivo.com/lo-mas-visto/poesia-oidos-madridistas-fue-narracion-rac-1-fallo-retegui-en-93_165496_102.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJkTwXDdXW0B15lgApSbaYYlbcIhBEl55L7_sXGTTW9KQPucV4bMqGU-V4FqI",
+        "source": "Real Madrid Exclusivo"
+      }
+    ]
+  },
+  {
+    "title": "شاختار ضد البايرن",
+    "link": "https://trends.google.com/trending/rss?geo=LB",
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64ScMSVDUT6aGf3aZnvlXibXdgqSTWkmYRqJiV3MknJFkr_ur736JT9WZEQo",
+    "picture_source": "الميادين",
+    "news_items": [
+      {
+        "title": "بايرن ميونيخ يكتسح شاختار دونيتسك بخماسية",
+        "snippet": "",
+        "url": "https://www.almayadeen.net/sports/%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%85%D9%8A%D9%88%D9%86%D9%8A%D8%AE-%D9%8A%D9%83%D8%AA%D8%B3%D8%AD-%D8%B4%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-%D8%AF%D9%88%D9%86%D9%8A%D8%AA%D8%B3%D9%83-%D8%A8%D8%AE%D9%85%D8%A7%D8%B3%D9%8A%D8%A9",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64ScMSVDUT6aGf3aZnvlXibXdgqSTWkmYRqJiV3MknJFkr_ur736JT9WZEQo",
         "source": "الميادين"
       },
       {
-        "title": "عائلة الإمام الصدر: لا أساس لما نُشر عن وجوده بالسجون السورية ومقتنعون أنه في ليبيا",
+        "title": "مولر يهدد إنجاز ميسي التاريخي في دوري أبطال أوروبا",
         "snippet": "",
-        "url": "https://www.elnashra.com/news/show/1701198/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D8%A3%D8%B3%D8%A7%D8%B3-%D9%84%D9%85%D8%A7-%D9%86%D9%8F%D8%B4%D8%B1-%D9%88%D8%AC%D9%88%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D8%AC%D9%88%D9%86-%D8%A7%D9%84%D8%B3",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSd2Iwqe4nTuyZdX4BzQHWdYFrWUFNGYo2tHwMHMIL-XCZPWvCPbYIUg9q3zoI",
-        "source": "Elnashra"
+        "url": "https://www.annahar.com/Sports/179272/%D9%85%D9%88%D9%84%D8%B1-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A5%D9%86%D8%AC%D8%A7%D8%B2-%D9%85%D9%8A%D8%B3%D9%8A-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZtDo8Fb9vPQBPz3lQm7VibsLpDT6xD_JusSdhKmMHSzehkkPiJZizrf0Kcgc",
+        "source": "annahar.com"
+      },
+      {
+        "title": "مولر: نملك مهاجمين سحرة.. ولقطة \"الإنقاذ\" أفضل من الهدف",
+        "snippet": "",
+        "url": "https://www.kooora.com/?n=1374119",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1nrUuIovB0z_df9uGKy60u0Z8-K9KoYPCgI8P4CMrCiuwSmtzPcSqg1x0MqU",
+        "source": "كووورة: الموقع العربي الرياضي الأول"
       }
     ]
   },
   {
-    "title": "سليمان هلال الأسد",
+    "title": "uefa champions league",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Mon, 9 Dec 2024 06:50:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8aws_gr9upR7Iy2rEscFUZODmviqXFPOFeW-jRJ2htBwjOzz8YCY8EWNEpRU",
-    "picture_source": "العربية",
+    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
+    "picture_source": "The Guardian",
     "news_items": [
       {
-        "title": "فيديو صادم من ريف درعا.. هل أعدم ابن عم الأسد علناً؟",
+        "title": "Oil gives you wings: PSG, Red Bull Salzburg and a bad advert for football",
         "snippet": "",
-        "url": "https://www.alarabiya.net/social-media/2024/12/10/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B5%D8%A7%D8%AF%D9%85-%D9%85%D9%86-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%87%D9%84-%D8%A3%D8%B9%D8%AF%D9%85-%D8%A7%D8%A8%D9%86-%D8%B9%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%86%D8%A7%D9%8B",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8aws_gr9upR7Iy2rEscFUZODmviqXFPOFeW-jRJ2htBwjOzz8YCY8EWNEpRU",
-        "source": "العربية"
+        "url": "https://www.theguardian.com/football/2024/dec/11/psg-red-bull-salzburg-bad-advert-for-football-champions-league",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
+        "source": "The Guardian"
       },
       {
-        "title": "خاص- مشنوقا في سجنه.. مقتل سليمان هلال الأسد",
+        "title": "Luis Enrique Not Thrilled After PSG's Champions League Victory",
         "snippet": "",
-        "url": "https://www.eremnews.com/news/arab-world/xl9ipve",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR01WDSVwWiGCOC9Ts-dv5MGD9OUb0dYwzvagpETgh1C8Qni8XLzh9xSt-mAPI",
-        "source": "إرم نيوز"
+        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/psg-need-to-improve-to-avoid-champions-league-elimination-according-to-enrique-2024-12-11",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpKTQqghKtycMwr7_p4l7SyoUQ3ZscNUWwWn-1fI1cSE7eOotps5RFpc6JkI",
+        "source": "beIN SPORTS"
       },
       {
-        "title": "ما هي حقيقة إعدام عمار الأسد؟.. ومن هو؟",
+        "title": "Where to watch RB Salzburg vs. Paris Saint-Germain: UEFA Champions League free live stream",
         "snippet": "",
-        "url": "https://almashhad.com/article/773112298002792-News/263887932036741-%D9%85%D8%A7%D9%87%D9%8A-%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D8%B9%D8%AF%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D9%85%D9%86-%D9%87%D9%88/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRumcNnz9prxM8o2bYezuu1RP-FCl8SUhcOYSqv3mBOBFkHjl6jOmKhlA1vyM",
-        "source": "قناة ومنصة المشهد"
+        "url": "https://www.masslive.com/tv/2024/12/where-to-watch-rb-salzburg-vs-paris-saint-germain-uefa-champions-league-free-live-stream.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5pY1e61hotRC5agaN9Dt8Z4PuzdBZ3ZANI3UnnDd61enaBbJtLB1cdknaHT4",
+        "source": "MassLive.com"
+      }
+    ]
+  },
+  {
+    "title": "shakhtar donetsk vs bayern",
+    "link": "https://trends.google.com/trending/rss?geo=LB",
+    "pubdate": "Tue, 10 Dec 2024 12:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuzvucN6q18H5VKzP4Yu8gzyqhd43bbYIi_uHCPXGOzznq_4mWoPTxO0Q9n_Y",
+    "picture_source": "ESPN",
+    "news_items": [
+      {
+        "title": "Bayern 5-1 Shakhtar (Dec 10, 2024) Game Analysis",
+        "snippet": "",
+        "url": "https://www.espn.com/soccer/report/_/gameId/720415",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuzvucN6q18H5VKzP4Yu8gzyqhd43bbYIi_uHCPXGOzznq_4mWoPTxO0Q9n_Y",
+        "source": "ESPN"
+      },
+      {
+        "title": "'Like in Mario Kart when you get a star!' - Michael Olise praised by Bayern \nteam-mate for superb solo goal in 5-1 Champions League win over Shakhtar",
+        "snippet": "",
+        "url": "https://www.goal.com/en-us/lists/mario-kart-star-michael-olise-praised-by-bayern-team-mate-superb-solo-goal-5-1-champions-league-win-shakhtar/blt760888c88389220c",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNV09eTtoOe61OfqG3ddX5ZnUhjeTnUjnmJYgRqkYxdEpQfA8ZwGSULdsbPRc",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Shakhtar Donetsk 1-5 Bayern Munich: Michael Olise double helps Bayern \nthrash Shakhtar",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/c80vvyl2gymt",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPjGguOTouSBu71ntymb_REiceLcm1GEUPYMF2Lk1_tFHQEVgZr9V4mYQn8K4",
+        "source": "BBC"
+      }
+    ]
+  },
+  {
+    "title": "champions league",
+    "link": "https://trends.google.com/trending/rss?geo=LB",
+    "pubdate": "Tue, 10 Dec 2024 12:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGj9BgQTxZ2Y46fMOwe2fBP7_ktD1ghWoY6iD8aXwFRIqoI7iuqrNoEF-0CA",
+    "picture_source": "UEFA.com",
+    "news_items": [
+      {
+        "title": "UEFA Conference League knockout phase play-off draw: Where is it, when is it, who is involved?",
+        "snippet": "",
+        "url": "https://www.uefa.com/uefaconferenceleague/news/0294-1c8996f24298-cc1e5eabf8fc-1000--uefa-conference-league-knockout-phase-play-off-draw-where-is/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGj9BgQTxZ2Y46fMOwe2fBP7_ktD1ghWoY6iD8aXwFRIqoI7iuqrNoEF-0CA",
+        "source": "UEFA.com"
+      },
+      {
+        "title": "Confirmed Date for UEFA Champions League and UEFA Europa League Draws",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/confirmed-date-for-uefa-champions-league-and-uefa-europa-league-draws-2024-12-10",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfGQWxmyyFMuuwFLJLeabAqg58oRaLt85QvPG8lOsO2VxH3d3Mf5ehYe751yI",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Inter Milan Manager Blasts Lethargic Nerazzurri Performance Vs Bayer Leverkusen: “Not Good Enough”",
+        "snippet": "",
+        "url": "https://sempreinter.com/2024/12/10/simone-inzaghi-blasts-inter-milan-performance-not-good-enough/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW1dsxXPlmUuDPFQ6qixS5t-5hgsyEGPD5nasl6OqsTOzOjP8yFhwj7VnByw",
+        "source": "SempreInter.com"
       }
     ]
   }

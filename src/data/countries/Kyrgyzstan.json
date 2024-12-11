@@ -1,17 +1,250 @@
 [
   {
-    "title": "хетафе – эспаньол",
+    "title": "рб лейпциг – астон вилла",
     "link": "https://trends.google.com/trending/rss?geo=KG",
-    "pubdate": "Mon, 9 Dec 2024 16:10:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 15:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrtVSPrm1D1x2xThrG8Bs8G-IfyvsIr59KvQhDEu5pnQ3d7RiQZN_mmhty8yU",
+    "picture_source": "Tengri Sport",
+    "news_items": [
+      {
+        "title": "Немецкий клуб первым лишился шанса на выход в плей-офф ЛЧ-2024",
+        "snippet": "",
+        "url": "https://tengrisport.kz/champions-league/nemetskiy-klub-pervyim-lishilsya-shansa-vyihod-pley-off-lch-556526/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrtVSPrm1D1x2xThrG8Bs8G-IfyvsIr59KvQhDEu5pnQ3d7RiQZN_mmhty8yU",
+        "source": "Tengri Sport"
+      },
+      {
+        "title": "«Астон Вилла» одержала победу в матче с клубом «РБ Лейпциг»",
+        "snippet": "",
+        "url": "https://www.soccer.ru/news/1395232/rb-leypcig-aston-villa",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJytZd0dDe0egV-TeVH9W9zhZW-DqH14wXwbFKJV2_ew9za_2lO2LjyMLAtiE",
+        "source": "Soccer.ru"
+      },
+      {
+        "title": "\"Вилла\" одержала победу в Лейпциге",
+        "snippet": "",
+        "url": "http://fapl.ru/posts/111732/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShElhgYCGHoLCkNxYqasJOJFo2hkJVYimwC3Jb2pQRlCcJFQbXaEhISPCjRww",
+        "source": "FAPL.ru"
+      }
+    ]
   },
   {
-    "title": "вест хэм юнайтед – вулверхэмптон",
+    "title": "лч",
     "link": "https://trends.google.com/trending/rss?geo=KG",
-    "pubdate": "Mon, 9 Dec 2024 13:20:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 13:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiZr89kWS3qJ1FnCAa_4VBfkVa3PA8q7WMsRNtzfojfGreCLxbPFnykPSlqiQ",
+    "picture_source": "Футбол на Куличках",
+    "news_items": [
+      {
+        "title": "Отчет о матче Брест - ПСВ, 10 декабря 2024, Лига чемпионов 2024/25 на ФНК",
+        "snippet": "",
+        "url": "https://football.kulichki.net/league/2025/matches/85102-Brest-PSV-obzor-matcha-league-2025.htm",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiZr89kWS3qJ1FnCAa_4VBfkVa3PA8q7WMsRNtzfojfGreCLxbPFnykPSlqiQ",
+        "source": "Футбол на Куличках"
+      },
+      {
+        "title": "«Брест» выиграл у ПСВ в матче Лиги чемпионов",
+        "snippet": "",
+        "url": "https://www.soccer.ru/news/1395230/brest-psv",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0oXjXiIfHrbZtqlCBWYnbb6bkWof9KSMW9X-cS9H7ANJ-xizS1NrJhvl61nI",
+        "source": "Soccer.ru"
+      },
+      {
+        "title": "«Брест» идёт в лидерах Лиги чемпионов после победы над ПСВ",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005798583_brest_idet_v_liderah_ligi_chempionov_posle_pobedyi_nad_psv",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP46BqLbWbG6fNR4XBCwX-244SdalkzlLYC4p-0-ymAS6xJ_xXGeUkNkcvfzQ",
+        "source": "Евро-Футбол.Ру"
+      }
+    ]
   },
   {
-    "title": "футбол реал мадрид",
+    "title": "байер – интер",
     "link": "https://trends.google.com/trending/rss?geo=KG",
-    "pubdate": "Mon, 9 Dec 2024 05:30:00 -0800"
+    "pubdate": "Tue, 10 Dec 2024 13:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRON6CGs0unTzPYwMx4V9l6jl-JSF74IRpPE0ENac_V9ozY_axkpwMdVw0TUro",
+    "picture_source": "Евро-Футбол.Ру",
+    "news_items": [
+      {
+        "title": "Индзаги объяснил поражение «Интера» от «Байера»",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005798592_indzagi_obyyasnil_porajenie_intera_ot_bayera",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRON6CGs0unTzPYwMx4V9l6jl-JSF74IRpPE0ENac_V9ozY_axkpwMdVw0TUro",
+        "source": "Евро-Футбол.Ру"
+      },
+      {
+        "title": "Полузащитник «Байера» Джака: «После победы над «Интером» восьмое или более \nвысокое место для нас абс...",
+        "snippet": "",
+        "url": "https://www.sport-express.net/football/champions-league/news/granit-dzhaka-vyskazalsya-o-pobede-bayera-nad-interom-2280578/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_zQ56I5U1hhE14HIF9YAcHStB1sgDSs7w4mbm-55WwOF63z4vAxQupZLu54",
+        "source": "sport-express.ru"
+      },
+      {
+        "title": "«Байер» - «Интер» - 1:0: обзор матча и видео гола",
+        "snippet": "",
+        "url": "https://ua.tribuna.com/football/1000000205272-bayer-inter-10-ohlyad-matchu-ta-video-holu/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkgb6Mohjlnw3XdWUmu0lKBKivfb-zgz70p6Y1sJ3ml3kp852w7sSB_3MABbM",
+        "source": "ua.tribuna.com"
+      }
+    ]
+  },
+  {
+    "title": "лига чемпионов",
+    "link": "https://trends.google.com/trending/rss?geo=KG",
+    "pubdate": "Tue, 10 Dec 2024 12:50:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NguEOoIjRCgP_t0e1CB5GvPN4sjWDZ6Si1Mj6MCUc5ozqa0lmxSmr3MaU1g",
+    "picture_source": "Евро-Футбол.Ру",
+    "news_items": [
+      {
+        "title": "«Барселона» включила важного игрока в заявку на матч Лиги чемпионов",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005798185_barselona_vklyuchila_vajnogo_igroka_na_match_ligi_chempionov",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NguEOoIjRCgP_t0e1CB5GvPN4sjWDZ6Si1Mj6MCUc5ozqa0lmxSmr3MaU1g",
+        "source": "Евро-Футбол.Ру"
+      },
+      {
+        "title": "Победитель заберёт чистое второе место в Лиге чемпионов. «Барселона» в \nгостях у финалиста турнира",
+        "snippet": "",
+        "url": "https://www.soccer.ru/blogs/record/1395286/borussiya-barselona",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5flw1HrqtWE7JM1gCtN5MyPhisaFAy813PO_25b7hVZafhWf0wQY6ueXenF8",
+        "source": "Soccer.ru"
+      },
+      {
+        "title": "Ханс-Дитер Флик: \"Левандовски делает разницу, но в одиночку невозможно \nвыиграть матч\" - FootBoom",
+        "snippet": "",
+        "url": "https://www.footboom1.com/foreign/champions_league/1733859094-khans-diter-flik-levandovskyi-robyt-riznytsiu-ale-samotuzhky-nemozhlyvo-vyhraty-match.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPhM_vFihMr8u-HUBzPYsBIVmVgd8a1OEH8ZTmhIEn5tAs4r-NHNUrmgxFlKE",
+        "source": "FootBoom"
+      }
+    ]
+  },
+  {
+    "title": "ред булл зальцбург – псж",
+    "link": "https://trends.google.com/trending/rss?geo=KG",
+    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-CJTRpaC2ZsYQcPP7vcJ7kgICM7hLTVBKVLUdicdcFThJxK2KUfyqcM-hX3M",
+    "picture_source": "Футбол на Куличках",
+    "news_items": [
+      {
+        "title": "Отчет о матче Зальцбург - ПСЖ, 10 декабря 2024, Лига чемпионов 2024/25 на \nФНК",
+        "snippet": "",
+        "url": "https://football.kulichki.net/league/2025/matches/85101-Zalcburg-PSZh-obzor-matcha-league-2025.htm",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-CJTRpaC2ZsYQcPP7vcJ7kgICM7hLTVBKVLUdicdcFThJxK2KUfyqcM-hX3M",
+        "source": "Футбол на Куличках"
+      },
+      {
+        "title": "Президент ПСЖ: «Два последних матча в Лиге чемпионов – это финалы»",
+        "snippet": "",
+        "url": "https://www.soccer.ru/news/1395282/al-helaifi-nasser",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGbrtKupKAdi3RclRydz1pqq5dp8TXiJjIlyTgt8PAStRwtUZya5RDknnZ89U",
+        "source": "Soccer.ru"
+      },
+      {
+        "title": "«ПСЖ» устроил разгром «Ред Булл Зальцбургу»",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005798578_psj_ustroil_razgrom_red_bull_zalcburgu",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttzzQnkaDxMuIEv0Vc-WyioSV_rnaLHiC4V8hQmk9B0sqhRuWeqRKULJwdq4",
+        "source": "Евро-Футбол.Ру"
+      }
+    ]
+  },
+  {
+    "title": "шахтёр донецк – бавария",
+    "link": "https://trends.google.com/trending/rss?geo=KG",
+    "pubdate": "Tue, 10 Dec 2024 11:20:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZrbS1OQrTM2JfgnQV1tUrOhSDCQyNZGQTDyZOqAnT4aLySATAFwmYwBWF144",
+    "picture_source": "fclmnews.ru",
+    "news_items": [
+      {
+        "title": "Шахтёр – Бавария – 1:5. Обзор матча и видео голов",
+        "snippet": "",
+        "url": "https://fclmnews.ru/online/129302-shahter-bavariya-video.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZrbS1OQrTM2JfgnQV1tUrOhSDCQyNZGQTDyZOqAnT4aLySATAFwmYwBWF144",
+        "source": "fclmnews.ru"
+      },
+      {
+        "title": "Мусиала: «Нужно двигаться от игры к игре»",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005798661_musiala_nujno_dvigatsya_ot_igryi_k_igre",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyDyo-zrwYvsXDvizuq0xGCq8KhP4_3cCO8He-QUN7tV1_B9U5oP7w3I94oao",
+        "source": "Евро-Футбол.Ру"
+      },
+      {
+        "title": "Траоре — о поражении Баварии: Счет для такой игры — слишком уж тягостный",
+        "snippet": "",
+        "url": "https://sportarena.com/football/liga-chempionov/traore-o-porazhenii-bavarii-schet-dlya-takoj-igry/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1XpyBysupEHIRdIF04ZrjX8GYVjaIzz_-rAQq60qRMdvu_PcEEFDkAdFUdM",
+        "source": "Sportarena.com"
+      }
+    ]
+  },
+  {
+    "title": "аталанта – реал мадрид",
+    "link": "https://trends.google.com/trending/rss?geo=KG",
+    "pubdate": "Tue, 10 Dec 2024 11:00:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUMRZ_6UJwoFz2mGQ47CJ2CznbevWi2S-aKUhFvGiyIMDes7HtDiTedQ1canM",
+    "picture_source": "Футбол на Куличках",
+    "news_items": [
+      {
+        "title": "Отчет о матче Аталанта - Реал Мадрид, 10 декабря 2024, Лига чемпионов \n2024/25 на ФНК",
+        "snippet": "",
+        "url": "https://football.kulichki.net/league/2025/matches/85097-Atalanta-Real-Madrid-obzor-matcha-league-2025.htm",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUMRZ_6UJwoFz2mGQ47CJ2CznbevWi2S-aKUhFvGiyIMDes7HtDiTedQ1canM",
+        "source": "Футбол на Куличках"
+      },
+      {
+        "title": "Браим Диас – о критике в СМИ: «Поговорим в конце сезона»",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005798681_braim_dias__o_kritike_v_smi_pogovorim_v_konce_sezona",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ08mCCrb1eTnESdAC0eMHTC1IVAfY3FD_yqrREIoIVQniZyzZIPfUuZ3IrSRA",
+        "source": "Евро-Футбол.Ру"
+      },
+      {
+        "title": "Фанаты «Реала» злятся после ключевой победы в Лиге чемпионов. Команда \nАнчелотти «отскочила»",
+        "snippet": "",
+        "url": "https://www.soccer.ru/blogs/record/1395255/atalanta-real",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-Xt5RlScBaDofwLgToBs9zi44aCkf_2SnwQ19Xr_M2EbcmvJ2I8o0F0oFICs",
+        "source": "Soccer.ru"
+      }
+    ]
+  },
+  {
+    "title": "жирона – ливерпуль",
+    "link": "https://trends.google.com/trending/rss?geo=KG",
+    "pubdate": "Tue, 10 Dec 2024 08:40:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
+    "picture_source": "24.KG",
+    "news_items": [
+      {
+        "title": "«Ливерпуль» вновь побеждает и остается единоличным лидером Лиги чемпионов",
+        "snippet": "",
+        "url": "https://24.kg/sport/313757_liverpul_vnov_pobejdaet_iostaetsya_edinolichnyim_liderom_ligi_chempionov/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSONoiS2KUeRulZchMINMcbPnB1Jwcbz-m8Y99znSmpi_PbZNVw5VdhGiyXs",
+        "source": "24.KG"
+      },
+      {
+        "title": "Сейвы восстановившегося Алиссона и пенальти Салаха: «Ливерпуль» одержал \nшестую победу на общем этапе Лиги чемпионов",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005798439_seyvyi_vosstanovivshegosya_alissona_i_penalti_salaha_liverpul_oderjal_shestuyu_pobedu_na_obschem_etape_ligi_chempionov",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEHVJfMLnX7c2fl44PUsY5ZWBHOEZC4ErpCdQES_VAfbDeWcd3vQjk9Tb-Auc",
+        "source": "Евро-Футбол.Ру"
+      },
+      {
+        "title": "Слот \"недоволен многим\" в игре \"Ливерпуля\" против \"Жироны\"",
+        "snippet": "",
+        "url": "http://fapl.ru/posts/111733/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBWkwz_OsDJaPYoIV1THJRdqfIL1ZRL3U0mtLr8EIHAFFHtrjYlTtp5JJAifs",
+        "source": "FAPL.ru"
+      }
+    ]
   }
 ]

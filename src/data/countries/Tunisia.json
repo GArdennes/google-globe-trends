@@ -1,156 +1,311 @@
 [
   {
-    "title": "hafnaoui",
+    "title": "miguel cardoso",
     "link": "https://trends.google.com/trending/rss?geo=TN",
-    "pubdate": "Mon, 9 Dec 2024 16:00:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjqRyIKszGR-FL0QbXNLPO5j75w2ZEJ02Ftj6lW2x0Q34K1vQNSOYs1B-L6K8",
-    "picture_source": "Ouest-France",
+    "pubdate": "Wed, 11 Dec 2024 00:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4xy4VpBA-IW6_0T7ZUoDu6kgU8Ke-8YY0aR7-np2ijzYbrsicJ-0Jv0tWJlE",
+    "picture_source": "Confédération Africaine de Football",
     "news_items": [
       {
-        "title": "Dopage. Champion olympique, le nageur tunisien Ahmed Hafnaoui sous la \nmenace d’une suspension",
+        "title": "Sundowns appoint Portuguese coach Miguel Cardoso",
         "snippet": "",
-        "url": "https://www.ouest-france.fr/sport/natation/dopage-champion-olympique-le-nageur-tunisien-ahmed-hafnaoui-sous-la-menace-dune-suspension-098b4eac-b605-11ef-92cc-87419da1008e",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjqRyIKszGR-FL0QbXNLPO5j75w2ZEJ02Ftj6lW2x0Q34K1vQNSOYs1B-L6K8",
-        "source": "Ouest-France"
+        "url": "https://www.cafonline.com/caf-champions-league/news/sundowns-appoint-portuguese-coach-miguel-cardoso/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4xy4VpBA-IW6_0T7ZUoDu6kgU8Ke-8YY0aR7-np2ijzYbrsicJ-0Jv0tWJlE",
+        "source": "Confédération Africaine de Football"
       },
       {
-        "title": "Point de vue – Hafnaoui, une victime !",
+        "title": "Zwane: I Just Feel For Mngqithi",
         "snippet": "",
-        "url": "https://lapresse.tn/2024/12/09/point-de-vue-hafnaoui-une-victime/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScH4bQSk6yFLxYrmWwaVWc0KFWTUUxpkX3M5PovAt70d2y5QGB5ImCxPaUHn4",
-        "source": "La Presse de Tunisie"
+        "url": "https://www.snl24.com/soccerladuma/local/premiership/mamelodi-sundowns/ex-mamelodi-sundowns-defender-siyanda-zwane-feels-magesi-manqoba-mngqithi-fired-20241211",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYkY2w-8tbcqb2GnuS6VnuGufKQaRF5YDcsXNEkPQHd2y6CrndSVYHfvwqe0s",
+        "source": "SNL24"
       },
       {
-        "title": "Ayoub Hafnaoui conteste sa longue suspension",
+        "title": "NEWS: Manqoba Mngqithi Could Make Golden Arrows Return",
         "snippet": "",
-        "url": "https://www.kawarji.com/actu-88812-ayoub-hafnaoui-conteste-sa-longue-suspension.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0HJ3PMNE34k-R0bB5XGdgKw5umfcP04Flti7lP9d4wUmOhLu0AnaA2FWNqyU",
-        "source": "Kawarji.com"
+        "url": "https://blog.hollywoodbets.net/soccer/psl/news-manqoba-mngqithi-could-make-golden-arrows-return/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVRUZfvTl7_iGD5ZWs-EeEqsUz1wEcsS--591T2pVU7_WEvRQiS9VI5FXJXVU",
+        "source": "Hollywoodbets Sports Blog"
       }
     ]
   },
   {
-    "title": "west ham – wolves",
+    "title": "google",
     "link": "https://trends.google.com/trending/rss?geo=TN",
-    "pubdate": "Mon, 9 Dec 2024 12:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYVLB4kUdreTV1427lcK8qafTNbztv0hZF_wBeqhh4Ya5lxAUWEZTGC5uy81Q",
-    "picture_source": "BBC",
+    "pubdate": "Tue, 10 Dec 2024 18:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7MRgQMRq2vdhwoIkgzp7k9OkUk0--yEQA7C9cfBBmF2kTyFu27e8wQ9CcEls",
+    "picture_source": "Google Blog",
     "news_items": [
       {
-        "title": "Champions League build-up: Celtic, Aston Villa & Liverpool in action",
+        "title": "Meet Willow, our state-of-the-art quantum chip",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cx26yx194e0t",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYVLB4kUdreTV1427lcK8qafTNbztv0hZF_wBeqhh4Ya5lxAUWEZTGC5uy81Q",
-        "source": "BBC"
+        "url": "https://blog.google/technology/research/google-willow-quantum-chip/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7MRgQMRq2vdhwoIkgzp7k9OkUk0--yEQA7C9cfBBmF2kTyFu27e8wQ9CcEls",
+        "source": "Google Blog"
       },
       {
-        "title": "West Ham-Wolves: The queasy, quirky and eerily quiet reality of ‘El \nSackico’ - The Athletic",
+        "title": "Quantum Computing Inches Closer to Reality After Another Google Breakthrough",
         "snippet": "",
-        "url": "https://www.nytimes.com/athletic/5982016/2024/12/10/wolves-west-ham-lopetegui-oneil-manager/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ_7BQ2XUMRtCFl7p2VWh5Nn8vQ0JIYY1Hrtt5xL3wtWD5aonphzvHkJTLWvI",
+        "url": "https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyxRrRTx_EqeQJ_koSuSROht3sRzalf_A2Z2vso-7IVyGZslbro9oiQYKQp0",
         "source": "The New York Times"
       },
       {
-        "title": "In Victory: West Ham Players Remember Injured Antonio",
+        "title": "Making quantum error correction work",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2161268-in-victory-west-ham-players-remember-injured-antonio",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLvmw35sOGkKf86RHgvTzymWB6GB2D6lVz5g5zZYIJbaV9XVzp_iR4LkEgQQ",
+        "url": "https://research.google/blog/making-quantum-error-correction-work/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHUHq9-3NLp3ZSymyP9wdU5Jjht6hSvme1F7RPekrX0tUnuzBzkeaP-iDqhO0",
+        "source": "Google Research"
+      }
+    ]
+  },
+  {
+    "title": "xxl",
+    "link": "https://trends.google.com/trending/rss?geo=TN",
+    "pubdate": "Tue, 10 Dec 2024 16:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQien5_BIV-YBsK3KSncKwafLZswecxF4Fco12YDv-S1ZlSCMKotHcQaXB7W8Y",
+    "picture_source": "WBRZ",
+    "news_items": [
+      {
+        "title": "Baton Rouge rapper NBA Youngboy sentenced to 23 months on gun-related charges",
+        "snippet": "",
+        "url": "https://www.wbrz.com/news/baton-rouge-rapper-nba-youngboy-sentenced-to-23-months-on-gun-related-charges/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQien5_BIV-YBsK3KSncKwafLZswecxF4Fco12YDv-S1ZlSCMKotHcQaXB7W8Y",
+        "source": "WBRZ"
+      },
+      {
+        "title": "NBA YoungBoy Sentenced to Nearly Two Years in Prison for Possession of Firearms",
+        "snippet": "",
+        "url": "https://variety.com/2024/music/news/nba-youngboy-sentenced-two-years-prison-possession-firearm-1236244960/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS18xkPQ-4KDyZEIDyVGaX1-W0Uk052oYkLO4tKH9wZwUzIgYyKIVtCAvuQbj0",
+        "source": "Variety"
+      },
+      {
+        "title": "Godmother of rapper NBA Youngboy speaks out after sentencing",
+        "snippet": "",
+        "url": "https://www.ksl.com/article/51208437/godmother-of-rapper-nba-youngboy-speaks-out-after-sentencing",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRomNl49oxiZhDAd30CJw6zSzz76Mq4S9VLkartemLn2OpYH7rzmaHE7fSnnI",
+        "source": "KSL News"
+      }
+    ]
+  },
+  {
+    "title": "leverkusen – inter",
+    "link": "https://trends.google.com/trending/rss?geo=TN",
+    "pubdate": "Tue, 10 Dec 2024 14:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP92uXhc73EoEXR1mnPFKN2APsv1FYB1ldo629iZgNTMm5m02vYcesyyUCSuw",
+    "picture_source": "N-TV",
+    "news_items": [
+      {
+        "title": "Das Bayer-Leverkusen-Beben kehrt mit voller Wucht zurück",
+        "snippet": "",
+        "url": "https://www.n-tv.de/sport/fussball/Eskalation-in-Champions-League-Bayer-Leverkusen-knackt-und-schockt-Inter-Mailand-article25423995.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP92uXhc73EoEXR1mnPFKN2APsv1FYB1ldo629iZgNTMm5m02vYcesyyUCSuw",
+        "source": "N-TV"
+      },
+      {
+        "title": "Çalhanoğlu zurück in Leverkusen: Alonso zieht Kimmich-Parallele",
+        "snippet": "",
+        "url": "https://www.merkur.de/sport/fussball/calhanoglu-zurueck-in-leverkusen-alonso-zieht-kimmich-parallele-zr-93460286.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT14w5LqCdLmXVFZEDzQmNnapr2vCeviTBMBXbzmUjz8irl-R1MqffYZcJNp6c",
+        "source": "Merkur"
+      },
+      {
+        "title": "Durch späte Mukiele-Erlösung: \"Perfekte Ausgangslage für Bayer\"",
+        "snippet": "",
+        "url": "https://www.kicker.de/durch-spaete-mukiele-erloesung-perfekte-ausgangslage-fuer-bayer-1074756/video",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVMYDVvREN6YbNGtzLk64rcCqMkC-LcvFogqhBuobaZoQF09GX7Hh2e041HX8",
+        "source": "Kicker"
+      }
+    ]
+  },
+  {
+    "title": "rb leipzig – aston villa",
+    "link": "https://trends.google.com/trending/rss?geo=TN",
+    "pubdate": "Tue, 10 Dec 2024 14:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx-c2Eqt7p520XZla4g7d_AZZql-sySXkzGtXcOkFLYszDhi1xjqeHarOC45g",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "UEFA Champions League RB Leipzig 2 Aston Villa 3 Full time",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/cp3zzy56qg4t",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx-c2Eqt7p520XZla4g7d_AZZql-sySXkzGtXcOkFLYszDhi1xjqeHarOC45g",
+        "source": "BBC"
+      },
+      {
+        "title": "Jhon Durán's Stunning Goal in the Champions League: Long-Range Rocket Finds the Net",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2164942-jhon-duran-s-stunning-goal-in-the-champions-league-long-range-rocket-finds-the-net",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcsTSM8ePiQwEnveliINVGVfEZ2ZKII179zT46qUPLyfXMj_DFxDTcu_dwAU",
+        "source": "FootBoom"
+      },
+      {
+        "title": "McGinn toasts Villa's 'surreal' European return",
+        "snippet": "",
+        "url": "https://www.france24.com/en/live-news/20241210-mcginn-toasts-villa-s-surreal-european-return",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtZiwYN2l0e6RYoMjnUAeUSWFgDC8RCDEiehZ3HkAb-SrjyUR9hwk6A0tTmkY",
+        "source": "France 24"
+      }
+    ]
+  },
+  {
+    "title": "bayern",
+    "link": "https://trends.google.com/trending/rss?geo=TN",
+    "pubdate": "Tue, 10 Dec 2024 13:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQROjnqnDcpxB9QH_Z6n_kQtOKYUu57fa_Svmyqgv_gKxeJ3clmjzPavxu5PB8",
+    "picture_source": "RAN",
+    "news_items": [
+      {
+        "title": "Champions League: Warum spielt Schachtar Donezk eigentlich auf Schalke?",
+        "snippet": "",
+        "url": "https://www.ran.de/sports/fussball/champions-league/news/champions-league-warum-spielt-schachtar-donezk-eigentlich-auf-schalke-470693",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQROjnqnDcpxB9QH_Z6n_kQtOKYUu57fa_Svmyqgv_gKxeJ3clmjzPavxu5PB8",
+        "source": "RAN"
+      },
+      {
+        "title": "Donetsk keine Hürde: Dreimal Bestnote für die Bayern",
+        "snippet": "",
+        "url": "https://www.fussballtransfers.com/a6809304751295473328-donetsk-keine-huerde-dreimal-bestnote-fuer-die-bayern",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7NPDzgu5v7E35xQU5RIwA4Opqt6HtPkYzdhhCO6tTtuWv3vopE8tQzQxJwzo",
+        "source": "Fussball Transfers"
+      },
+      {
+        "title": "Sieg auf Schalke: Müller \"melancholisch\", Kompany \"rational\"",
+        "snippet": "",
+        "url": "https://de.nachrichten.yahoo.com/sport/sieg-schalke-m%C3%BCller-melancholisch-kompany-043051228.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo81p56qjwXVcbAqmSs7GqsPjAPULH5zAo0aNfIzZWKKa4HB7YXjCROjTCKxA",
+        "source": "Yahoo Nachrichten"
+      }
+    ]
+  },
+  {
+    "title": "ahmed jaouadi",
+    "link": "https://trends.google.com/trending/rss?geo=TN",
+    "pubdate": "Tue, 10 Dec 2024 13:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8H2JfNGV9fW11MlqaUVZXX62jXBslkKe32ihUFDwI6colY1TGdj1VdE53pfs",
+    "picture_source": "Mosaique FM",
+    "news_items": [
+      {
+        "title": "Natation: Ahmed Jaouadi champion du monde sur 1500 m nage libre",
+        "snippet": "",
+        "url": "https://www.mosaiquefm.net/fr/actualites-sport-tunisie/1354207/natation-ahmed-jaouadi-champion-du-monde-sur-1500-m-nage-libre",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8H2JfNGV9fW11MlqaUVZXX62jXBslkKe32ihUFDwI6colY1TGdj1VdE53pfs",
+        "source": "Mosaique FM"
+      },
+      {
+        "title": "Budapest : Le nageur tunisien Ahmed Jaouadi champion du monde (1500 NL)",
+        "snippet": "",
+        "url": "https://kapitalis.com/tunisie/2024/12/10/budapest-le-nageur-tunisien-ahmed-jaouadi-champion-du-monde-1500-nl/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1mzBiF8E6eUeKqFZnGaAIMaSGZO41HjukR2H5jCDBSPRnpeUSCoooSoL7Kj0",
+        "source": "Kapitalis"
+      },
+      {
+        "title": "Mondiaux natation – Budapest 2024 : Ahmad Jaouadi en OR des 1500m NL",
+        "snippet": "",
+        "url": "https://www.tunisienumerique.com/mondiaux-natation-budapest-2024-ahmad-jaouadi-en-or-des-1500m-nl/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEKTb8nY5-PKCGard2Jp55d3RBroI505zYxIQA2SFMlAXL9hgX09CvPvY2TtM",
+        "source": "Tunisie Numérique"
+      }
+    ]
+  },
+  {
+    "title": "ريال مدريد",
+    "link": "https://trends.google.com/trending/rss?geo=TN",
+    "pubdate": "Tue, 10 Dec 2024 12:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd3LaO0PSejszuhtZLanLsKt5EpMQ2CGjb6B6VNVDwFClod7N3lqypTY516pU",
+    "picture_source": "Mosaique FM",
+    "news_items": [
+      {
+        "title": "رابطة الأبطال: ريال مدريد يتنفس الصعداء..وينهي سلسلة أتلانتا الإيجابية",
+        "snippet": "",
+        "url": "https://www.mosaiquefm.net/ar/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/1354261/%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%AA%D9%86%D9%81%D8%B3-%D8%A7%D9%84%D8%B5%D8%B9%D8%AF%D8%A7%D8%A1-%D9%88%D9%8A%D9%86%D9%87%D9%8A-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A3%D8%AA%D9%84%D8%A7%D9%86%D8%AA%D8%A7-%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A%D8%A9",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd3LaO0PSejszuhtZLanLsKt5EpMQ2CGjb6B6VNVDwFClod7N3lqypTY516pU",
+        "source": "Mosaique FM"
+      },
+      {
+        "title": "أنشيلوتي: لن نتأهل بين الثمانية الكبار.. ومباراة الغد أصعب من السوبر",
+        "snippet": "",
+        "url": "https://www.kooora.com/?n=1373842",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8jPHGovRBUBQAAfr_blzWXHPm094joAgP7I9M3oT3HdNQOd63QdjA24S2dY",
+        "source": "كووورة: الموقع العربي الرياضي الأول"
+      },
+      {
+        "title": "تعليق رودريغو على أسلوب أنشيلوتي أمام أتالانتا",
+        "snippet": "",
+        "url": "https://hihi2.com/2024/12/11/p2976050.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaRhm6yQY-r4QW1glFZCi8XrKT6amSVvCJsgj7l5tWkSZvj5R4OZj_oc_Wg8k",
+        "source": "هاي كورة"
+      }
+    ]
+  },
+  {
+    "title": "uefa champions league",
+    "link": "https://trends.google.com/trending/rss?geo=TN",
+    "pubdate": "Tue, 10 Dec 2024 12:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
+    "picture_source": "The Guardian",
+    "news_items": [
+      {
+        "title": "Oil gives you wings: PSG, Red Bull Salzburg and a bad advert for football",
+        "snippet": "",
+        "url": "https://www.theguardian.com/football/2024/dec/11/psg-red-bull-salzburg-bad-advert-for-football-champions-league",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Luis Enrique: \"This match is vitally important for us\"",
+        "snippet": "",
+        "url": "https://en.psg.fr/teams/first-team/content/luis-enrique-this-match-is-vitally-important-for-us-fc-salzburg-paris-saint-germain-press-conference-uefa-champions-league-2024-2025",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQozE4ZrTWNrVLfwpVZw_Wc33OUohbU8ZVfakaoPsSSUQtpgvaQaJLILBKKKeQ",
+        "source": "PSG.FR - Paris Saint-Germain official website"
+      },
+      {
+        "title": "Désiré Doué Shines in PSG's Champions League Victory",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2165351-desire-doue-shines-in-psg-s-champions-league-victory",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOhVZ7XFPiQxOvfrmpgGDyamoWNj97LDCcw1CS0cA_lqIjFcrT5jzfRRyaI1g",
         "source": "FootBoom"
       }
     ]
   },
   {
-    "title": "getafe – espanyol",
+    "title": "real madrid",
     "link": "https://trends.google.com/trending/rss?geo=TN",
-    "pubdate": "Mon, 9 Dec 2024 11:20:00 -0800",
-    "approx_traffic": "500+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoQapYQXdsi6NWkasNWOc9RzsmrZhNsXMpUl-jJ9dJSNNXhRmiIi0zHypn9RE",
-    "picture_source": "MSN",
+    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
+    "picture_source": "Marca.com",
     "news_items": [
       {
-        "title": "España: Álvaro Rodríguez le dio la victoria a Getafe y mandó a callar a los \nhinchas",
+        "title": "Atalanta - Real Madrid: resumen, resultado y goles",
         "snippet": "",
-        "url": "https://www.msn.com/es-xl/noticias/other/espa%C3%B1a-%C3%A1lvaro-rodr%C3%ADguez-le-dio-la-victoria-a-getafe-y-mand%C3%B3-a-callar-a-los-hinchas/ar-AA1vyrQe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoQapYQXdsi6NWkasNWOc9RzsmrZhNsXMpUl-jJ9dJSNNXhRmiIi0zHypn9RE",
-        "source": "MSN"
+        "url": "https://www.marca.com/futbol/champions-league/atalanta-r-madrid/2024/12/10/01_0103_20241210_456_186-directo.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
+        "source": "Marca.com"
       },
       {
-        "title": "El 1X1 de un Espanyol que no da para más",
+        "title": "Ancelotti: « Esta es la victoria de la calidad y del compromiso »",
         "snippet": "",
-        "url": "https://onefootball.com/es/noticias/el-1x1-de-un-espanyol-que-no-da-para-mas-40418874",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmeG2HR67IZVIIpfQvMhTOhWb6EfTU9pxhGl-d4sfOFkO4s8tg0t3oZy_rKR0",
+        "url": "https://onefootball.com/en/news/ancelotti-esta-es-la-victoria-de-la-calidad-y-del-compromiso-40423076",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IyHjf46sTRv5AMKZG8zFJh0A0tSj6V7-t7xyBIyiT-1YQPcs3RdRnqvo_iY",
         "source": "OneFootball"
       },
       {
-        "title": "El Geta, como un Toro",
+        "title": "Vinicius aprovecha un rebote y la envía a la jaula, golazo para el 1-2",
         "snippet": "",
-        "url": "https://www.pressreader.com/spain/marca-leonef1h/20241210/282080577420233",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeqoqZEUDS9VMN4EwDHZGfD0ZURpXrSpR4mwFpc8VxBtl_qxHDtXSHCwEaD5k",
-        "source": "PressReader"
-      }
-    ]
-  },
-  {
-    "title": "coree du sud",
-    "link": "https://trends.google.com/trending/rss?geo=TN",
-    "pubdate": "Mon, 9 Dec 2024 10:10:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAiHCRb-VP_-00kPF3OoCQMPFUXJ4RZfGKSLobhrnZKncbhN2OqjNGSEsuCag",
-    "picture_source": "Businessnews.com.tn",
-    "news_items": [
-      {
-        "title": "Interdiction de quitter le territoire pour le président de la Corée du Sud",
-        "snippet": "",
-        "url": "https://www.businessnews.com.tn/interdiction-de-quitter-le-territoire-pour-le-president-de-la-coree-du-sud,541,143264,3",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAiHCRb-VP_-00kPF3OoCQMPFUXJ4RZfGKSLobhrnZKncbhN2OqjNGSEsuCag",
-        "source": "Businessnews.com.tn"
-      },
-      {
-        "title": "Corée du Sud : l'opposition va de nouveau tenter de faire destituer le \nprésident",
-        "snippet": "",
-        "url": "https://fr.euronews.com/2024/12/08/coree-du-sud-lopposition-va-de-nouveau-tenter-de-faire-destituer-le-president",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxpC0xPOKSQcOlZfaSSWoDXDeC2TLtj_ISgBkiVpr8Hc5sZ5Oib9DoMY3V0y8",
-        "source": "Euronews"
-      },
-      {
-        "title": "International - Monde",
-        "snippet": "",
-        "url": "https://french.ahram.org.eg/Category/2/10/International/Nouvelles-interdictions-de-quitter-le-te.aspx",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkxPm6YM84b-m-vtlY_jDsfxfCNnK79TUhTgi0xLTY2GbhYRjrOdK-efqxgp0",
-        "source": "Ahraminfo"
-      }
-    ]
-  },
-  {
-    "title": "syrien bachar al assad",
-    "link": "https://trends.google.com/trending/rss?geo=TN",
-    "pubdate": "Mon, 9 Dec 2024 10:00:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwh0vtty-Dk9Pk2ul32Yo54UhybjJCVBL1EpCQMNYP2WcQNV_ylhpwZjdVlqY",
-    "picture_source": "France 24",
-    "news_items": [
-      {
-        "title": "Les rebelles célèbrent l'avènement d'une \"nouvelle ère\" en Syrie",
-        "snippet": "",
-        "url": "https://www.france24.com/fr/moyen-orient/20241208-rebelles-syriens-htc-homs-assad-damas",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwh0vtty-Dk9Pk2ul32Yo54UhybjJCVBL1EpCQMNYP2WcQNV_ylhpwZjdVlqY",
-        "source": "France 24"
-      },
-      {
-        "title": "Réfugié à Moscou ou pas : le Kremlin lâche déjà son ex-obligé Bachar \nal-Assad",
-        "snippet": "",
-        "url": "https://www.marianne.net/monde/refugie-a-moscou-ou-pas-le-kremlin-lache-deja-son-ex-oblige-bachar-al-assad",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5DjYcvXcmUwf8Z_jUecFCDykCmAOAi9SVGUaT3gIhFxuH0JfEmQ8KzczdaJ8",
-        "source": "Marianne"
-      },
-      {
-        "title": "Ce que l’on sait de la fuite en avion de Bachar al-Assad et de sa famille",
-        "snippet": "",
-        "url": "https://www.20minutes.fr/monde/syrie/4128145-20241209-chute-bachar-al-assad-sait-fuite-avion-president-dechu-famille",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2GVfoPCVX4tVUvOA5WrxCEsdoaVln4Yae_elIoH3_SasaCASO60xrcDHowI",
-        "source": "20 Minutes"
+        "url": "https://www.realmadridexclusivo.com/ultima-hora/vinicius-aprovecha-rebote-envia-jaula-golazo-1-2_165473_102.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMeNdNk5J5SRzRgPE-jtC0HDU_GCUTUtd6_LE4sEwUqG7bQVbmyqi0UWpQ5yc",
+        "source": "Real Madrid Exclusivo"
       }
     ]
   }

@@ -1,32 +1,258 @@
 [
   {
-    "title": "luigi mangione",
+    "title": "livescore",
     "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Mon, 9 Dec 2024 18:20:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
-    "picture_source": "CNN",
+    "pubdate": "Tue, 10 Dec 2024 14:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "лига чемпионов",
+    "link": "https://trends.google.com/trending/rss?geo=GE",
+    "pubdate": "Tue, 10 Dec 2024 13:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoRo30pVba_XzEdQvt7zYrcfuigJm2M5SLt58tNVsykFffIkgQy4kIEhmuLk",
+    "picture_source": "sport-express.ru",
     "news_items": [
       {
-        "title": "‘I never got the impression he would self-destruct:’ Friends of suspect in \nfatal CEO shooting left in shock",
+        "title": "«Арсенал» — «Монако»: где смотреть матч Лиги чемпионов 11 декабря 2024 года онлайн в прямом эфире",
         "snippet": "",
-        "url": "https://www.cnn.com/2024/12/09/us/luigi-mangione-what-we-know-monday/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
-        "source": "CNN"
+        "url": "https://www.sport-express.net/stavki-na-sport/prognozy/news/arsenal-monako-gde-smotret-match-ligi-chempionov-11-dekabrya-2024-goda-onlayn-v-pryamom-efire-2280712/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoRo30pVba_XzEdQvt7zYrcfuigJm2M5SLt58tNVsykFffIkgQy4kIEhmuLk",
+        "source": "sport-express.ru"
       },
       {
-        "title": "UnitedHealthcare CEO shooting: Suspect charged with murder, said 'these \nparasites had it coming' in handwritten note",
+        "title": "Футбол. Клубы. Международные. Лига чемпионов UEFA. Общий этап. Экспресс от Андрей Энтузиаст 11 дек 2024",
         "snippet": "",
-        "url": "https://www.nbcnews.com/news/us-news/live-blog/unitedhealthcare-ceo-shooting-suspect-charged-murder-live-updates-rcna183566",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSms806I2hM-URrnIWpZdrtXAefOsyRpWfPqVEQfwjJRyGtT8Zh4z0Z0IexVdM",
-        "source": "NBC News"
+        "url": "https://prognozist.ru/lill-shturm-grac-arsenal-monako-wqzedod.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_dscaujBXIGCeHNCcJrnxtcGsSL10qSRk2XCh2nGs0P5fk9zRgUK--0TRAms",
+        "source": "Prognozist.ru"
       },
       {
-        "title": "Person of Interest in UnitedHealthcare CEO’s Killing Identified as Prep \nSchool Valedictorian",
+        "title": "Анонс матча \"Арсенал\" — \"Монако\"",
         "snippet": "",
-        "url": "https://www.yahoo.com/news/person-interest-unitedhealthcare-ceo-killing-181942543.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqYHS1pXuZUQukgLHVTzfik5s016Px--NC6BGuuwsOP0PZI1LSyibpAEFMg0",
-        "source": "Yahoo"
+        "url": "http://fapl.ru/posts/111739/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWipT0AAPlTLemliyCGLRQGyR1jAYZ_IGzpmte6HDpnlERj_-1hX3gIc0R-0A",
+        "source": "FAPL.ru"
+      }
+    ]
+  },
+  {
+    "title": "uefa champions league",
+    "link": "https://trends.google.com/trending/rss?geo=GE",
+    "pubdate": "Tue, 10 Dec 2024 12:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
+    "picture_source": "The Guardian",
+    "news_items": [
+      {
+        "title": "Oil gives you wings: PSG, Red Bull Salzburg and a bad advert for football",
+        "snippet": "",
+        "url": "https://www.theguardian.com/football/2024/dec/11/psg-red-bull-salzburg-bad-advert-for-football-champions-league",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Luis Enrique Not Thrilled After PSG's Champions League Victory",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/psg-need-to-improve-to-avoid-champions-league-elimination-according-to-enrique-2024-12-11",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpKTQqghKtycMwr7_p4l7SyoUQ3ZscNUWwWn-1fI1cSE7eOotps5RFpc6JkI",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Where to watch RB Salzburg vs. Paris Saint-Germain: UEFA Champions League free live stream",
+        "snippet": "",
+        "url": "https://www.masslive.com/tv/2024/12/where-to-watch-rb-salzburg-vs-paris-saint-germain-uefa-champions-league-free-live-stream.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5pY1e61hotRC5agaN9Dt8Z4PuzdBZ3ZANI3UnnDd61enaBbJtLB1cdknaHT4",
+        "source": "MassLive.com"
+      }
+    ]
+  },
+  {
+    "title": "real madrid",
+    "link": "https://trends.google.com/trending/rss?geo=GE",
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXhzY14dapCO4GCP24Jynq5yNBXFl4jHIg_KPrDecrteuiSvvrwIyM5s9UON8",
+    "picture_source": "Visión 360",
+    "news_items": [
+      {
+        "title": "Vinicius Junior y Bellingham reviven al Real madrid",
+        "snippet": "",
+        "url": "https://www.vision360.bo/noticias/2024/12/10/16601-vinicius-junior-y-bellingham-reviven-al-real-madrid",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXhzY14dapCO4GCP24Jynq5yNBXFl4jHIg_KPrDecrteuiSvvrwIyM5s9UON8",
+        "source": "Visión 360"
+      },
+      {
+        "title": "Poesía para los oídos madridistas, así fue la narración de Rac-1 del fallo de Retegui en el 93’",
+        "snippet": "",
+        "url": "https://www.realmadridexclusivo.com/lo-mas-visto/poesia-oidos-madridistas-fue-narracion-rac-1-fallo-retegui-en-93_165496_102.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJkTwXDdXW0B15lgApSbaYYlbcIhBEl55L7_sXGTTW9KQPucV4bMqGU-V4FqI",
+        "source": "Real Madrid Exclusivo"
+      },
+      {
+        "title": "Calificaciones de la 6.ª jornada de la CL: Brahim mágico, Tchouaméni tembloroso",
+        "snippet": "",
+        "url": "https://www.realtotal.de/es/noten-zum-6-cl-spieltag-brahim-magisch-tchouameni-wackelig/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7-vHEqW8XB85XasOJ4eMSSamkQutiycVpbM64Vw_odXlAkWZ4cybn5eCiCI",
+        "source": "real total"
+      }
+    ]
+  },
+  {
+    "title": "أتالانتا ضد الريال",
+    "link": "https://trends.google.com/trending/rss?geo=GE",
+    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUivUqfj7y5JiLWAIsJCxY9KXjNyGv80f5pY5a3wpLA_WfV1yoG3b_hVGO17o",
+    "picture_source": "موجز الأنباء",
+    "news_items": [
+      {
+        "title": "القنوات المفتوحة الناقلة لمباراة ريال مدريد وأتالانتا في دوري أبطال أوروبا 2024-2025",
+        "snippet": "",
+        "url": "https://mojazanba.com/sports/38286/2024/12/10/%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%B1%D9%8A%D8%A7-2/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUivUqfj7y5JiLWAIsJCxY9KXjNyGv80f5pY5a3wpLA_WfV1yoG3b_hVGO17o",
+        "source": "موجز الأنباء"
+      },
+      {
+        "title": "هدف بايرن يضمن انتفاضة ريال مدريد في ليلة احتفالية",
+        "snippet": "",
+        "url": "https://www.fx16tv.com/%D9%84%D8%B9%D8%A8%D8%A9/%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%8A%D8%B6%D9%85%D9%86-%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%81%D9%8A-%D9%84%D9%8A/139002/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSF2kbiJJv9lXP2GG3JMIxYpodASF_oXFNa5Ze1acQmTT_CgJMUljO5-MoixK4",
+        "source": "www.fx16tv.com"
+      },
+      {
+        "title": "ريال مدريد.. «عودة البطل»",
+        "snippet": "",
+        "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/4536091/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF----%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%A8%D8%B7%D9%84",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-Yxu79qJUFWiRGqKaDMT-K_kO9F-LxMIb3bKILhw6oHiIfvmUdl-zaVCACVU",
+        "source": "الاتحاد للأخبار"
+      }
+    ]
+  },
+  {
+    "title": "аталанта – реал мадрид",
+    "link": "https://trends.google.com/trending/rss?geo=GE",
+    "pubdate": "Tue, 10 Dec 2024 11:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT65Yl2RYwlbxcoUDhsRv8Ts6F1jGXkS_EBBtY9kcDTlQ-9G1mknb0Q0gjeuYc",
+    "picture_source": "Спорт Mail",
+    "news_items": [
+      {
+        "title": "«Реал» обыграл «Аталанту» в матче Лиги чемпионов. Мбаппе получил травму",
+        "snippet": "",
+        "url": "https://sportmail.ru/news/football-eurocups/64018725/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT65Yl2RYwlbxcoUDhsRv8Ts6F1jGXkS_EBBtY9kcDTlQ-9G1mknb0Q0gjeuYc",
+        "source": "Спорт Mail"
+      },
+      {
+        "title": "Травма Мбаппе и повторение антирекорда: обзор матча “Реал“ - “Аталанта“",
+        "snippet": "",
+        "url": "https://tengrisport.kz/champions-league/travma-mbappe-povtorenie-antirekorda-obzor-matcha-real-556517/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmFCjVvGfs_RYf18pzGDhXV4yjjnGsRwA0DDOaM4xdYhT0tCx3PCPcT7JiU6M",
+        "source": "Tengri Sport"
+      },
+      {
+        "title": "Мбаппе может не сыграть в оставшихся матчах 2024 года",
+        "snippet": "",
+        "url": "https://sportplustv.kz/ru/news/mbappe-mozet-ne-sygrat-v-ostavsixsia-matcax-2024-goda",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfUIfQf3TsReIJptiEgm34JcXBqu_tIrVh1YKj49Gw2dfrpoYtrAmx6sv28no",
+        "source": "Sport Plus Qazaqstan"
+      }
+    ]
+  },
+  {
+    "title": "atalanta vs real madrid",
+    "link": "https://trends.google.com/trending/rss?geo=GE",
+    "pubdate": "Tue, 10 Dec 2024 11:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+    "picture_source": "beIN SPORTS",
+    "news_items": [
+      {
+        "title": "Real Madrid revive Champions League title defence with win at spirited Atalanta",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/real-madrid-revive-champions-league-title-defence-with-win-at-spirited-atalanta-2024-12-10",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Atalanta - Real Madrid Live - Champions League: Football Scores & Highlights - 10/12/2024",
+        "snippet": "",
+        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-atalanta-real-madrid_mtc1525372/live-commentary.shtml",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSADbxgB8RAJHccFY4iSOMu5OY4c-2b4cwcnnCtXKra9EUr0_uPmvxZlDkSErg",
+        "source": "Eurosport"
+      },
+      {
+        "title": "Rodrygo: \"We made the most of our chances when we were in space\"",
+        "snippet": "",
+        "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/rodrygo-ha-sido-una-victoria-muy-importante-hemos-trabajado-bien-10-12-2024",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6f-gljgRYcefEfUJ62UuALMel-CY944LCQzf4DuPzlOW1huCIAJ4iTaAW_k",
+        "source": "Real Madrid CF"
+      }
+    ]
+  },
+  {
+    "title": "жирона – ливерпуль",
+    "link": "https://trends.google.com/trending/rss?geo=GE",
+    "pubdate": "Tue, 10 Dec 2024 09:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPm0sAiaj7vxtr_laMs8YVnymaTLb1zIWMkS_OTb7lDE2Ely1EkAB_nVjFGKY",
+    "picture_source": "FAPL.ru",
+    "news_items": [
+      {
+        "title": "Слот заступился за Нуньеса после матча с \"Жироной\"",
+        "snippet": "",
+        "url": "http://fapl.ru/posts/111738/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPm0sAiaj7vxtr_laMs8YVnymaTLb1zIWMkS_OTb7lDE2Ely1EkAB_nVjFGKY",
+        "source": "FAPL.ru"
+      },
+      {
+        "title": "Тренер «Ливерпуля» Арне Слот недоволен игрой команды, несмотря на победу в Лиге чемпионов",
+        "snippet": "",
+        "url": "https://sport-pulse.kz/trener-liverpulya-arne-slot-nedovol/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSv5ZdtP1JmSJHUW8bWvdPlHALqVJANRARKsmTm8airpdWMpATPG2OOvMU2_dw",
+        "source": "sport-pulse.kz"
+      },
+      {
+        "title": "Лига чемпионов 10 декабря: расписание матчей и онлайн-трансляция дня",
+        "snippet": "",
+        "url": "https://www.sport-express.net/football/champions-league/news/liga-chempionov-10-dekabrya-2024-raspisanie-matchey-i-onlayn-translyaciya-dnya-kakie-igry-i-gde-smotret-segodnya-2280069/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDbmAECuhi8tis5gexkCaRR8BRPv15Q2WxA33ol221q8hMhmqUrEXW9kWKXNQ",
+        "source": "sport-express.ru"
+      }
+    ]
+  },
+  {
+    "title": "girona vs liverpool",
+    "link": "https://trends.google.com/trending/rss?geo=GE",
+    "pubdate": "Tue, 10 Dec 2024 09:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVhS-1ZQQIDfWjl0qXs_1H5hwf82TtQ2UO9Qb4HvefxS5IAY42JqL3Rp3GhRU",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Girona 0-1 Liverpool: Mohamed Salah scores in Champions League as Allison Becker returns",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/c6233zj1q3pt",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVhS-1ZQQIDfWjl0qXs_1H5hwf82TtQ2UO9Qb4HvefxS5IAY42JqL3Rp3GhRU",
+        "source": "BBC"
+      },
+      {
+        "title": "'His team-mates wanted to make sure he was really fit!' - Arne Slot jokes Liverpool's poor performance at Girona was to test returning goalkeeper Alisson",
+        "snippet": "",
+        "url": "https://www.goal.com/en/lists/arne-slot-jokes-liverpool-s-poor-performance-at-girona-was-to-test-returning-goalkeeper-alisson/bltb8f8dcf36ed43672",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxnW4Qgd_AitVW1tZz1FnBboBT-WgEPz_ic4QVhojaAL-oxSVgWrxxYKHxIk",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Girona's Michel promises to fight on in Champions League",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-asia/football/uefa-champions-league/articles/gironas-michel-promises-to-fight-on-in-champions-league-2024-12-10",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDVjF3E3PMnal19M1YYNI6pAxNtXqbfVvqW3-4JmhoFlGfb6f8TOZT_L1wLE0",
+        "source": "beIN SPORTS"
       }
     ]
   }
