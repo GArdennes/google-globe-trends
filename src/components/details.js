@@ -30,13 +30,12 @@ export function getRandomMarker({ focusedMarker, markers }) {
 }
 
 export default function Details() {
-  const [{ config, focusedMarker, markers }, dispatch] = useStateValue();
+  const [{ focusedMarker, markers }, dispatch] = useStateValue();
   const randomMarker = getRandomMarker({ focusedMarker, markers });
 
   let content;
   if (focusedMarker) {
     const countryName = focusedMarker.country;
-    const countryCode = focusedMarker.ISO;
     const value = focusedMarker.traffic;
     const topics = focusedMarker.title;
     const url = getSearchUrl(countryName, topics);

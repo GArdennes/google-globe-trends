@@ -5,8 +5,7 @@ import Fade from "./fade";
 
 export default function World() {
   const [places, setPlaces] = useState([]);
-  const [{ config, focusedMarker, hasLoaded, markers, start }, dispatch] =
-    useStateValue();
+  const [{ hasLoaded, markers }, dispatch] = useStateValue();
 
   useEffect(() => {
     // load data

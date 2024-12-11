@@ -8,8 +8,7 @@ import Fade from "./fade";
 import Link from "./link";
 
 export default function Overlay() {
-  const [{ focusedMarker, lastUpdated, markers, start }, dispatch] =
-    useStateValue();
+  const [{ focusedMarker, lastUpdated, markers, start }] = useStateValue();
   const [showAbout, setShowAbout] = useState(false);
 
   if (!markers) {
@@ -36,16 +35,6 @@ export default function Overlay() {
             <Link link="GITHUB_REPO">Github</Link>
           </div>
         </div>
-        {/* <div className="content">
-          TOP 5 SEARCHING CITIES
-          {markers.slice(0, 5).map((marker) => (
-            <Link key={marker.city}>
-              <h2 onClick={() => dispatch({ type: "FOCUS", payload: marker })}>
-                {marker.city} ({marker.value})
-              </h2>
-            </Link>
-          ))}
-        </div> */}
         <div className="footer">
           Updated on {moment(lastUpdated).format("MMM D, YYYY")}
         </div>
