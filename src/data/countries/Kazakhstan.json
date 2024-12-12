@@ -1,225 +1,287 @@
 [
   {
-    "title": "челси астана",
+    "title": "крейвен охотник",
     "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Wed, 11 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTYbbGM8GYpuqm6Zu-Df3AAZ3X3PNnwEed_uZZtyY2m13xLxhHyvpLPf32vIQ",
-    "picture_source": "Sports.kz",
-    "news_items": [
-      {
-        "title": "«Могло быть и хуже». Англичане довольны погодой в Алматы в день матча \n«Астана» — «Челси»",
-        "snippet": "",
-        "url": "https://www.sports.kz/news/moglo-byit-ihuje-anglichane-dovolnyi-pogodoy-valmatyi-vden-matcha-astana-chelsi",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTYbbGM8GYpuqm6Zu-Df3AAZ3X3PNnwEed_uZZtyY2m13xLxhHyvpLPf32vIQ",
-        "source": "Sports.kz"
-      },
-      {
-        "title": "Ажиотаж вокруг матча \"Астана\" – \"Челси\": полиция обращается к болельщикам",
-        "snippet": "",
-        "url": "https://www.zakon.kz/obshestvo/6459566-azhiotazh-vokrug-matcha-astana--chelsi-politsiya-obrashchaetsya-k-bolelshchikam.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Yv71ElimTKxVWksriMERQAZVDJpN9m5YEUaUCTzITWfW1uPwvYDAz7IKe1E",
-        "source": "Новости Zakon.kz"
-      },
-      {
-        "title": "Матч \"Астана\" - \"Челси\" отменят? Что об этом известно",
-        "snippet": "",
-        "url": "https://vesti.kz/conference_league/match-astana-chelsi-otmenyat-chto-ob-etom-izvestno-355590/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBeR1d1tBCWS8kkvG4Suuw0GhtRrZUVpwEgMyF5xVp20RxGZLhC97Jx_c2rQ",
-        "source": "Vesti.kz"
-      }
-    ]
-  },
-  {
-    "title": "чемпионат азии по боксу 2024",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Wed, 11 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK5mUaQR_6D_rNBLm53a7GnHuGpIRBOoFhZ67uOuJ7D1WTJfa8XbiEluKRZHk",
-    "picture_source": "Ұлттық олимпиадалық комитет",
-    "news_items": [
-      {
-        "title": "\"Мы не согласны с результатами только в двух весах\": Казахстанские боксеры \nстали вторыми вторыми в медальном зачете чемпионате Азии",
-        "snippet": "",
-        "url": "https://olympic.kz/ru/article/32402-my-ne-soglasny-s-rezultatami-tolko-v-dvukh-vesakh-kazakhstanskie-boksery-stali-vtorymi-vtorymi-v-medalnom-zachete-chempionate-azii",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK5mUaQR_6D_rNBLm53a7GnHuGpIRBOoFhZ67uOuJ7D1WTJfa8XbiEluKRZHk",
-        "source": "Ұлттық олимпиадалық комитет"
-      },
-      {
-        "title": "В Федерации бокса Узбекистана назвали «убедительной» победу над чемпионом \nмира из Казахстана в финале ЧА-2024",
-        "snippet": "",
-        "url": "https://www.sports.kz/news/v-federatsii-boksa-uzbekistana-nazvali-ubeditelnoy-pobedu-nad-chempionom-mira-iz-kazahstana-v-finale-cha-2024",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnnj3nRr85147ZbhuaAq1tTiCUUzTr4UxXuKLeyWHy7sK4MqDWf0yuTFnn2E4",
-        "source": "Sports.kz"
-      },
-      {
-        "title": "Казахстанский боксер бойкотировал выход на пьедестал ЧА-2024",
-        "snippet": "",
-        "url": "https://tengrisport.kz/tnsport/kazahstanskiy-bokser-boykotiroval-vyihod-pedestal-cha-2024-556598/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKvFH-TJD92wtwXHt1hnd7O_WMNoJpUgtkDx-TiJEvSFtZclosROncU7DPyXI",
-        "source": "Tengri Sport"
-      }
-    ]
-  },
-  {
-    "title": "runway",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Wed, 11 Dec 2024 02:40:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 03:20:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfJy5oQtRRNwEO7wRRhA2a-HxreNeROJem7Q45NWsa3QJ1rATxH-TxED9p9KE",
-    "picture_source": "firstcoastnews.com",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4DP_xRZK7h9jIpLkyvTfcp8JHrbGqm3IpjYRDzqkNlNiPIkxOpOWJ9woYDkE",
+    "picture_source": "DTF",
     "news_items": [
       {
-        "title": "New runway safety technology at Jacksonville International Airport aims to \nprevent close calls",
+        "title": "«Крэйвен-охотник» получил рейтинг 15% на Rotten",
         "snippet": "",
-        "url": "https://www.firstcoastnews.com/article/news/local/new-runway-safety-technology-at-jacksonville-international-airport-prevent-close-calls-faa/77-f1db1e20-b6de-4e47-afdd-38b8c1e645e5",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfJy5oQtRRNwEO7wRRhA2a-HxreNeROJem7Q45NWsa3QJ1rATxH-TxED9p9KE",
-        "source": "firstcoastnews.com"
+        "url": "https://dtf.ru/comicbook/3275651-kreiven-ohotnik-poluchil-reiting-15-na-rotten-tomatoes",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4DP_xRZK7h9jIpLkyvTfcp8JHrbGqm3IpjYRDzqkNlNiPIkxOpOWJ9woYDkE",
+        "source": "DTF"
       },
       {
-        "title": "Norfolk airport completes $65 million runway improvements",
+        "title": "«Крэйвен-охотник» может стартовать в США слабее «Мадам Паутины»",
         "snippet": "",
-        "url": "https://www.pilotonline.com/2024/12/06/norfolk-airport-completes-65-million-runway-improvements/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtWT6d4GcuMB0OJuNOPahMcdtxRxoPIrazeHK0jrq-vxXmZjTYP01Ap2_nn-M",
-        "source": "The Virginian-Pilot"
+        "url": "https://www.mirf.ru/news/kreiven-ohotnik-mojet-startovat-v-ssha-slabee-madam-pautiny",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0Iv8ZZlsSkwsvcDeuB-QQoi92ZabqjnrzauQJ-bUCv3x-nFYrq7RO9YC95Ek",
+        "source": "Мир Фантастики"
       },
       {
-        "title": "ORF Completes Multiyear Rehabilitation of Runway 05/23",
+        "title": "Sony — всё! «Крэйвен-охотник» может стать последним фильмом в серии про злодеев Человека-паука",
         "snippet": "",
-        "url": "https://www.aviationpros.com/aoa/press-release/55248509/orf-completes-multiyear-rehabilitation-of-runway-05-23",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6YU6DrAFr5GdMOBUVBjLCRUYVw0KgzFt0OyPTHJJNLM_UkIImsv8J74pSerk",
-        "source": "Aviation Pros"
+        "url": "https://kg-portal.ru/comments/125291-sony-vse-krejvenohotnik-mozhet-stat-poslednim-filmom-v-serii-pro-zlodeev-chelovekapauka/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy_WEkX0fiBv_U-kIUdJD5esl7QW0AoMQYYrPZDc2KRTlDhJXb3PQ_oDTMQsc",
+        "source": "КГ-Портал"
       }
     ]
   },
   {
-    "title": "брест – псв",
+    "title": "аманда байнс",
     "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 10 Dec 2024 17:20:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 19:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRUomqQVFewRODCR8BNvbXMFR_Lxdkg8mTBfFw71qdm-Zxuws2RRKAlSUbAWk",
+    "picture_source": "Кино Mail",
+    "news_items": [
+      {
+        "title": "Ставшую маникюршей голливудскую актрису засняли на прогулке",
+        "snippet": "",
+        "url": "https://kino.mail.ru/news/76195-stavshuyu-manikyurshej-gollivudskuyu-aktrisu-zasnyali-na-progulke/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRUomqQVFewRODCR8BNvbXMFR_Lxdkg8mTBfFw71qdm-Zxuws2RRKAlSUbAWk",
+        "source": "Кино Mail"
+      },
+      {
+        "title": "Как сейчас выглядит Аманда Байнс. Свежие фото звезды нулевых",
+        "snippet": "",
+        "url": "https://kz.kursiv.media/2024-12-12/lfst-rtgm-amanda/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPy0YEmKDuIdO_ze5KYpi7vgiVDFyU55ATIlSzHJfwNwDQDkIAb-iOKz50IGg",
+        "source": "Kursiv Media Казахстан"
+      },
+      {
+        "title": "Похудевшую звезду фильма «Она — мужчина» заметили на прогулке в Малибу",
+        "snippet": "",
+        "url": "https://news.ru/show-business/pohudevshuyu-zvezdu-filma-ona-muzhchina-zametili-na-progulke-v-malibu/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQNOCoiuXrvnUXEhtjMUQq_Ey4VD9hkYQx33YZceNrOhZZ3SMAq5fiS5HVdk",
+        "source": "NEWS.ru"
+      }
+    ]
+  },
+  {
+    "title": "штутгарт – янг бойз",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Wed, 11 Dec 2024 17:10:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiZr89kWS3qJ1FnCAa_4VBfkVa3PA8q7WMsRNtzfojfGreCLxbPFnykPSlqiQ",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS43_kjtxje75m6uXnoibY18FMpJVVJawP8mcHRSSyrVmMmfFJxUbNzKmcZs6Y",
     "picture_source": "Футбол на Куличках",
     "news_items": [
       {
-        "title": "Лига чемпионов. \"Брест\" нейтрализовал атаку ПСВ и вернулся в топ-8.",
+        "title": "Отчет о матче Штутгарт - Янг Бойз, 11 декабря 2024, Лига чемпионов 2024/25 на ФНК",
         "snippet": "",
-        "url": "https://football.kulichki.net/worldnews/news.htm?821389-Liga-chempionov-Brest-pereigral-PSV",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiZr89kWS3qJ1FnCAa_4VBfkVa3PA8q7WMsRNtzfojfGreCLxbPFnykPSlqiQ",
+        "url": "https://football.kulichki.net/league/2025/matches/85111-Shtutgart-Jang-Boiz-obzor-matcha-league-2025.htm",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS43_kjtxje75m6uXnoibY18FMpJVVJawP8mcHRSSyrVmMmfFJxUbNzKmcZs6Y",
         "source": "Футбол на Куличках"
       },
       {
-        "title": "«Брест» идёт в лидерах Лиги чемпионов после победы над ПСВ",
+        "title": "«Штутгарт» забил 5 мячей «Янг Бойз», пропустив первым",
         "snippet": "",
-        "url": "https://www.euro-football.ru/article/45/1005798583_brest_idet_v_liderah_ligi_chempionov_posle_pobedyi_nad_psv",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP46BqLbWbG6fNR4XBCwX-244SdalkzlLYC4p-0-ymAS6xJ_xXGeUkNkcvfzQ",
+        "url": "https://www.euro-football.ru/article/45/1005799212_shtutgart_zabil_5_myachey_yang_boyz_propustiv_pervyim",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_IVZkZVdX-QNks2nXTwGMsLOQ3IG2yl-UIaR34FZKMhiJmmCCoOLcPb-XXs",
         "source": "Евро-Футбол.Ру"
       },
       {
-        "title": "Тренер Бреста: Я не думаю, чтобы кто-то мог предсказать, что мы наберем 13 \nочков на этой стадии",
+        "title": "\"Штутгарт\" одержал разгромную победу над \"Янг Бойз\" в 6-м туре Лиги чемпионов. Немцы забили пять мячей",
         "snippet": "",
-        "url": "https://www.ua-football.com/foreign/champions_league/1733910066-trener-bresta-ya-ne-dumayu-chtoby-kto-to-mog-predskazat-chto-my-naberem-13-ochkov-na-yetoy-stadii.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbavZc7oGl4hheZQcKeRBIM0aEPoaIcVdGO2vrHHHyPli25Kzys4H6SZdJATQ",
-        "source": "UA-Football"
+        "url": "https://www.rusfootball.info/liga_chempionov/1146750808-shtutgart-oderzhal-razgromnuyu-pobedu-nad-yang-boyz-v-6-m-ture-ligi-chempionov-nemcy-zabili-pyat-myachey.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLA48ZTBdLwmLFsh_J62EyPTvvF2N1Ysd1XEjnqehqzPH-dcN7FHS7VzYI7OM",
+        "source": "Футбол России"
       }
     ]
   },
   {
-    "title": "погода астана",
+    "title": "метель",
     "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 10 Dec 2024 17:00:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv8LLjcNLvzxMBtw1E4uiPQGqqqdf5pw0kqQQ2G_cr6Q-AAeuktG8P41DESgE",
-    "picture_source": "NUR.KZ",
+    "pubdate": "Wed, 11 Dec 2024 16:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSwJf6c9rrZZANYUCcbNhtImUsNkVBaOZYY1wO0BckpQF929astWjPq_qThuI",
+    "picture_source": "Новости Zakon.kz",
     "news_items": [
       {
-        "title": "Морозы до 29 градусов опустятся на Астану на этой неделе",
+        "title": "Погода на 13-15 декабря: Астана готовится к метелям, Алматы – к потеплению",
         "snippet": "",
-        "url": "https://www.nur.kz/society/2197797-morozy-do-29-gradusov-opustyatsya-na-astanu-na-etoy-nedele/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv8LLjcNLvzxMBtw1E4uiPQGqqqdf5pw0kqQQ2G_cr6Q-AAeuktG8P41DESgE",
-        "source": "NUR.KZ"
+        "url": "https://www.zakon.kz/obshestvo/6459739-pogoda-na-1315-dekabrya-astana-gotovitsya-k-metelyam-almaty--k-potepleniyu.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSwJf6c9rrZZANYUCcbNhtImUsNkVBaOZYY1wO0BckpQF929astWjPq_qThuI",
+        "source": "Новости Zakon.kz"
       },
       {
-        "title": "Погода в Астане на среду, 11 декабря",
+        "title": "Снег, метели и 28-градусный мороз: погода в Казахстане на 12 декабря",
         "snippet": "",
-        "url": "https://www.inastana.kz/news/3871746/pogoda-v-astane-na-sredu-11-dekabra",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsAIbde4YsE-dn212-F8hm_Sn0pa3lWDucW1Sh8g594Mny2jYU75vUbXiwF7U",
-        "source": "inAstana.kz"
+        "url": "https://tengrinews.kz/kazakhstan_news/sneg-meteli-28-gradusnyiy-moroz-pogoda-kazahstane-12-556614/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGdvTtbLmdDQdojIqjv6Gpmsn54HXBr4Ofthgqw01MOaqqqbs95ph0LOqrq5Y",
+        "source": "Tengrinews"
       },
       {
-        "title": "В Астане 9 декабря без осадков, ночью до −24 °С",
+        "title": "Штормовое предупреждение объявили в ВКО",
         "snippet": "",
-        "url": "https://www.gismeteo.kz/news/klimat/v-astane-9-dekabrya-bez-osadkov-nochju-do-24-s/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTglmmrsVMcvjdvqxgbWO7oTm8J2RiIWolU7YtgnUebR-tjpvdhBRWGkbghm_4",
-        "source": "Gismeteo"
+        "url": "https://ustinka.kz/vko/103762.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV0SSaWtPMhpAWR1edP6jIh0BrX6UAlC0SCJD3Cw5T0m4yUHBn5rjTuJBdm_4",
+        "source": "Устинка"
       }
     ]
   },
   {
-    "title": "шавкат рахмонов иэн гэрри полный бой",
+    "title": "динамо загреб – селтик",
     "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 10 Dec 2024 16:10:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 16:40:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7WxFoSwza6c3fkRRkl6yh7TIcDOUS41nQjxtfv-znA0Y1STpxBF6wftnSxqw",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROgQaBzwQzdAsFkewV3np0F_k78qBF-39F7tDmt8fBvYPtoARZeAd1l0Gz4BQ",
+    "picture_source": "Евро-Футбол.Ру",
+    "news_items": [
+      {
+        "title": "«Динамо» Загреб и «Селтик» оставили голы на 2025 год",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005798440_dinamo_zagreb_i_seltik_ostavili_golyi_na_2025_god",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROgQaBzwQzdAsFkewV3np0F_k78qBF-39F7tDmt8fBvYPtoARZeAd1l0Gz4BQ",
+        "source": "Евро-Футбол.Ру"
+      },
+      {
+        "title": "Чем удивит первый день 6 тура Лиги чемпионов: разбор и прогнозы от эксперта",
+        "snippet": "",
+        "url": "https://ura.news/news/1052853914",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9sPN-ZiRTnou_g7cmzopglPwdIwGKs8KJZTh3Nt0E1NX5BJSagAzXy4XQtjw",
+        "source": "URA.RU"
+      },
+      {
+        "title": "Загребское «Динамо» и «Селтик» сыграли вничью в поединке футбольной Лиги чемпионов",
+        "snippet": "",
+        "url": "https://www.sb.by/articles/zagrebskoe-dinamo-i-seltik-sygrali-vnichyu-v-poedinke-futbolnoy-ligi-chempionov.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuD1NM0efgLJ1qbSqRf7JeFaxFERDS3pmw4BydRArymaJrYbil3jImKhzNp_c",
+        "source": "Беларусь сегодня"
+      }
+    ]
+  },
+  {
+    "title": "кто выиграл шавкат или гэрри",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Wed, 11 Dec 2024 16:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWZSe88VOGx1nE8ps6ZEVNMZtff9jFzhyAZd25NfVdLKia2rA2RNc3zKTHC5U",
     "picture_source": "Sports.kz",
     "news_items": [
       {
-        "title": "Жестким нокаутом начался турнир UFC 310 с участием Шавката Рахмонова. Видео",
+        "title": "Шавката Рахмонова «лишили» боя с чемпионом UFC и нашли ему нового соперника",
         "snippet": "",
-        "url": "https://www.sports.kz/news/jestkim-nokautom-nachalsya-turnir-ufc-310s-uchastiem-shavkata-rahmonova-video",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7WxFoSwza6c3fkRRkl6yh7TIcDOUS41nQjxtfv-znA0Y1STpxBF6wftnSxqw",
+        "url": "https://www.sports.kz/news/shavkata-rahmonova-lishili-boya-schempionom-ufc-inashli-emu-novogo-sopernika",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWZSe88VOGx1nE8ps6ZEVNMZtff9jFzhyAZd25NfVdLKia2rA2RNc3zKTHC5U",
         "source": "Sports.kz"
       },
       {
-        "title": "Путь от уличных боёв до профессиональной карьеры",
+        "title": "Шавката Рахмонова хотят лишить титульного боя в UFC",
         "snippet": "",
-        "url": "https://alsport.kz/boxing/pyt-ot-ylichnyh-boev-do-professionalnoi-karery-6/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4fJPmaZYfnRcogOcQ1R0TPthjiTn0N0SdU0oMg1efnP0UJuJ5jTCIX_Zuly4",
-        "source": "AlSport.kz"
+        "url": "https://www.sports.kz/news/shavkata-rahmonova-hotyat-lishit-titulnogo-boya-vufc",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpTmTaly9tfeDRy6TbV8AhmhnGzJgyvaqOu9pbPiNxKN6TQo86kjMOSBp7Fcc",
+        "source": "Sports.kz"
       },
       {
-        "title": "Досрочной победой завершился главный бой вечера UFC с участием Рахмонова",
+        "title": "Шавкат Рахмонов - казах или узбек? Ставим точку в этом споре",
         "snippet": "",
-        "url": "https://vesti.kz/ufc/dosrochnoy-pobedoy-zavershilsya-glavnyiy-boy-vechera-ufc-355451/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY0VN8fnLczpzaE0GmlxPl2O3WujGIZxnuQrK2S94ALG67kiOLv58h2V48Q8g",
+        "url": "https://vesti.kz/ufc/shavkat-rahmonov-kazah-ili-uzbek-stavim-tochku-v-etom-spore-355598/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbFBQSZEIfNknbWK6vAg6fD4Y05i26RJyY79T0HbwHRZO2jZTgHquYQ-8nn5E",
         "source": "Vesti.kz"
       }
     ]
   },
   {
-    "title": "астана погода",
+    "title": "израиль",
     "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 10 Dec 2024 16:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYmZZmN4LiDYvaGeuZFRzsLLRiVdPTfNlOS3meaw8XCoyNYFVN2Ve17uD0CfE",
-    "picture_source": "Tengrinews",
+    "pubdate": "Wed, 11 Dec 2024 16:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcS-MDYEBPFJzYMEV4fj7cD_4vyBSWBlRXeOwvIIJj3MpbzcS7XcRvTOr2xek",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Метель и 33-градусный мороз: погода в Казахстане на 11 декабря",
+        "title": "Израиль заявил, что уничтожил «большую часть стратегических запасов» оружия в Сирии",
         "snippet": "",
-        "url": "https://tengrinews.kz/kazakhstan_news/metel-33-gradusnyiy-moroz-pogoda-kazahstane-11-dekabrya-556486/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYmZZmN4LiDYvaGeuZFRzsLLRiVdPTfNlOS3meaw8XCoyNYFVN2Ve17uD0CfE",
-        "source": "Tengrinews"
+        "url": "https://www.bbc.com/russian/articles/ckg1nrjy89go",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcS-MDYEBPFJzYMEV4fj7cD_4vyBSWBlRXeOwvIIJj3MpbzcS7XcRvTOr2xek",
+        "source": "BBC"
       },
       {
-        "title": "Тепло до 2 градусов вернется в Казахстан",
+        "title": "Израиль заявил об уничтожении флота Сирии",
         "snippet": "",
-        "url": "https://www.zakon.kz/obshestvo/6459554-teplo-do-2-gradusov-vernetsya-v-kazakhstan.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbjS0r3B1NqDweFshSeF_3wQXouF-zZ9w_2OsPOW3fzwqPSiVWlA57XN5UFIY",
-        "source": "Новости Zakon.kz"
+        "url": "https://www.dw.com/ru/izrail-zaavil-ob-unictozenii-flota-sirii/a-71015689",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTtG4FH91IWYVAk_ATfz-lQ0MUm7FeKobxczwey9RqP1wG5D7fbZ-wViyDYSU",
+        "source": "DW"
       },
       {
-        "title": "Штормовое предупреждение: в ряде областей Казахстана 11 декабря ожидаются \nсложные метеоусловия",
+        "title": "Израиль нанес удары более чем по 250 сирийским военным объектам",
         "snippet": "",
-        "url": "https://www.gismeteo.kz/news/klimat/shtormovoe-preduprezhdenie-v-ryade-oblastej-kazahstana-11-dekabrya-ozhidajutsya-slozhnye-meteousloviya/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrTU_xQ02CMM3ClcRNSQQgnCgS1Dbb2YoLj0KiEA_3_mhs7CikiVfde3mF36w",
-        "source": "Gismeteo"
+        "url": "https://ru.euronews.com/2024/12/10/web-syria-update-israeli-airstrikes",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRepAmTxNxnTK-G2dgmukUpVy1Xv_vbFEv40SBF6QB_StxJHJzb4sfxe9b7KFk",
+        "source": "Euronews"
       }
     ]
   },
   {
-    "title": "pgl astana 2025",
+    "title": "жирона ливерпуль прогноз",
     "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 10 Dec 2024 15:40:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 16:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-SVTDz2nLR5ZS0GWi5WhoufCAG5l8Fuu52IOgKldJ4j-Ti4-GdSJOVB5M-I",
+    "picture_source": "Евро-Футбол.Ру",
+    "news_items": [
+      {
+        "title": "Тренер «Жироны» прокомментировал поражение от «Ливерпуля»",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005798662_trener_jironyi_prokommentiroval_porajenie_ot_liverpulya",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-SVTDz2nLR5ZS0GWi5WhoufCAG5l8Fuu52IOgKldJ4j-Ti4-GdSJOVB5M-I",
+        "source": "Евро-Футбол.Ру"
+      },
+      {
+        "title": "Английский \"Ливерпуль\" выиграл шестой матч подряд",
+        "snippet": "",
+        "url": "https://www.zakon.kz/sport/6459496-angliyskiy-liverpul-vyigral-shestoy-match-podryad.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFoK5qQwN_7W4tao0ZHJpeABuOBQ1Q91otjbwzcvuzHF8ooX2_VrJHaz8Ql7E",
+        "source": "Новости Zakon.kz"
+      },
+      {
+        "title": "Победа над Жироной. Реакция Слота",
+        "snippet": "",
+        "url": "https://liverpoolfc.ru/news/126-news/28441-pobeda-nad-zhironoj-reaktsiya-slota",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHQQhJkV6RGIo7J5OUQN-gjOFaSMeWUym38iRbshVG7sfPb0c5W6ZrkWQqjrc",
+        "source": "ФК Ливерпуль | Сайт русскоязычных болельщиков"
+      }
+    ]
+  },
+  {
+    "title": "аталанта реал мадрид",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Wed, 11 Dec 2024 16:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEcaj2G9UIZDyS3yjGwsacYSZyiFA9dTheNJTkDsf2wVlFq8BzSB1rLCPwhGo",
+    "picture_source": "sport-express.ru",
+    "news_items": [
+      {
+        "title": "«Реал» на выезде обыграл «Аталанту», Винисиус забил гол и сделал голевую передачу",
+        "snippet": "",
+        "url": "https://www.sport-express.net/football/champions-league/news/atalanta-real-rezultat-matcha-ligi-chempionov-10-dekabrya-2024-goda-2280533/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEcaj2G9UIZDyS3yjGwsacYSZyiFA9dTheNJTkDsf2wVlFq8BzSB1rLCPwhGo",
+        "source": "sport-express.ru"
+      },
+      {
+        "title": "Появились плохие новости про Мбаппе",
+        "snippet": "",
+        "url": "https://www.sports.kz/news/poyavilis-plohie-novosti-pro-mbappe",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRolzE9aJVMcBIiXKMB-67MOkx3e1--nj5cvg0wMMX1y714Mz5X-6nsdGcY3c8",
+        "source": "Sports.kz"
+      },
+      {
+        "title": "«Фантастическая игра». Капелло — о матче «Аталанта» — «Реал»",
+        "snippet": "",
+        "url": "https://sportmail.ru/article/football-eurocups/64032206/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAVsCXr9ebLhVRyP4MWfCJARtcGVjsFEMwWaBM7lCJdud5n2b4CU3cm3WXAw",
+        "source": "Спорт Mail"
+      }
+    ]
+  },
+  {
+    "title": "pgl astana",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Wed, 11 Dec 2024 16:10:00 -0800",
     "approx_traffic": 100,
     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcY_Hvc787TKJlL0XreD2VsSpJ75K3vf_uQbk84w4CeqzRUOpBq8ozPN_j4Uc",
     "picture_source": "Тикетон",
@@ -232,80 +294,18 @@
         "source": "Тикетон"
       },
       {
-        "title": "PGL обновила расписание турниров по Counter-Strike 2 на следующие два года",
-        "snippet": "",
-        "url": "https://www.igromania.ru/news/145401/pgl-obnovila-raspisanie-turnirov-na-sleduyuschie-dva-goda/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8xD7nw2zhxD44eznfzE4mFrCSIfKqK6SVzTgO9ACd2gG9VSlJLCNp_uceZ8",
-        "source": "Игромания"
-      },
-      {
         "title": "PGL перенесли турнир из Буэнос-Айреса в Румынию и обновили формат",
         "snippet": "",
         "url": "https://www.ukr.net/ru/news/details/technologies/108400797.html",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxCtPNf_p10GuMmSJ4qD95eIT98vrLsSE1HOjwd09m8ysfOcs6p4H1-2eleYY",
         "source": "UKR.NET"
-      }
-    ]
-  },
-  {
-    "title": "28 лет спустя",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 10 Dec 2024 15:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGy4t8bNY3H-iCglPEl0oUYI8jqDe2YOgySu-97nN1ChXADuL7yw_J_RWAzMk",
-    "picture_source": "Кино Mail",
-    "news_items": [
-      {
-        "title": "Трейлер дня: возвращение зомби «28 лет спустя» в продолжении культового \nхоррора",
-        "snippet": "",
-        "url": "https://kino.mail.ru/news/76041-trejler-dnya-vozvraschenie-zombi-28-let-spustya-v-prodolzhenii-kultovogo-horrora/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGy4t8bNY3H-iCglPEl0oUYI8jqDe2YOgySu-97nN1ChXADuL7yw_J_RWAzMk",
-        "source": "Кино Mail"
       },
       {
-        "title": "На iPhone сняли полноценный голливудский фильм: вышел трейлер «28 лет \nспустя» и он впечатляет",
+        "title": "PGL обновила расписание турниров по Counter-Strike 2 на следующие два года",
         "snippet": "",
-        "url": "https://3dnews.ru/1115262/film-28-let-spustya-snyali-na-iphone-15-pro-max-treyler-vpechatlyaet",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTubHQO1SkbVe39LASVQ_irlTTGpa6E3efbBjqDjD_B7uKtvTC9JsWJmd6hBfs",
-        "source": "3DNews"
-      },
-      {
-        "title": "Посмотрите первый официальный трейлер «28 лет спустя» Дэнни Бойла",
-        "snippet": "",
-        "url": "https://tech.onliner.by/2024/12/10/posmotrite-pervyj-oficialnyj-trejler-28-let-spustya-denni-bojla",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk-bJ1yGz3_Ej-KvI7XI6HZ6slvZqBeQizCVqPFKgRQzpeKMC8mMMJ0kkwZQU",
-        "source": "Onlíner"
-      }
-    ]
-  },
-  {
-    "title": "псж",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 10 Dec 2024 14:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw87zcwjR2kfIQPTt1PiMP11zwXySYULlvAeK67HSUL-SEUftcpW7yma7cf78",
-    "picture_source": "Спорт Mail",
-    "news_items": [
-      {
-        "title": "Трансферная стоимость Сафонова выросла на €2 млн",
-        "snippet": "",
-        "url": "https://sportmail.ru/article/football-foreign/64012896/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw87zcwjR2kfIQPTt1PiMP11zwXySYULlvAeK67HSUL-SEUftcpW7yma7cf78",
-        "source": "Спорт Mail"
-      },
-      {
-        "title": "Голкипер \"ПСЖ\" Матвей Сафонов вырос в стоимости после пересчёта цен \nTransfermarkt",
-        "snippet": "",
-        "url": "https://www.rusfootball.info/france/1146750607-golkiper-pszh-matvey-safonov-vyros-v-stoimosti-posle-perescheta-cen-transfermarkt.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq3MWqZgQYmq_IxoQA40kkAmrHg-jO3-0Di7xZz7qQBxlxmr61NbTBoBHbNcM",
-        "source": "Футбол России"
-      },
-      {
-        "title": "Головин возглавил список самых дорогих игроков Лиги 1 из постсоветского \nпространства",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/36/1005798317_golovin_vozglavil_spisok_samyih_dorogih_igrokov_ligi_1_iz_postsovetskogo_prostranstva",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1DymTUiNdAGBP6KJtEW1HoSdAgEAtAAHT0Mj9Ua2m1cYjZ8c4cl9rmwOZng",
-        "source": "Евро-Футбол.Ру"
+        "url": "https://www.igromania.ru/news/145401/pgl-obnovila-raspisanie-turnirov-na-sleduyuschie-dva-goda/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8xD7nw2zhxD44eznfzE4mFrCSIfKqK6SVzTgO9ACd2gG9VSlJLCNp_uceZ8",
+        "source": "Игромания"
       }
     ]
   }

@@ -1,52 +1,312 @@
 [
   {
-    "title": "28 years later",
+    "title": "benny blanco",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 10 Dec 2024 04:20:00 -0800"
+    "pubdate": "Thu, 12 Dec 2024 00:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
+    "picture_source": "People.com",
+    "news_items": [
+      {
+        "title": "Selena Gomez and Benny Blanco Are Engaged: 'Forever Begins Now'",
+        "snippet": "",
+        "url": "https://people.com/selena-gomez-benny-blanco-are-engaged-married-8661420",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
+        "source": "People.com"
+      },
+      {
+        "title": "Selena Gomez announces engagement to record producer Benny Blanco",
+        "snippet": "",
+        "url": "https://www.foxnews.com/entertainment/selena-gomez-announces-engagement-record-producer-benny-blanco",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedrjVKRELNCEDimTOLRZWjMpqkga79wfrQJU_UaQ1ZuxTht-KNUpOX09U2OY",
+        "source": "Fox News"
+      },
+      {
+        "title": "Selena Gomez engaged to boyfriend Benny Blanco after a year of dating — and \nTaylor Swift agrees to role at wedding",
+        "snippet": "",
+        "url": "https://nypost.com/2024/12/12/entertainment/selena-gomez-engaged-to-boyfriend-benny-blanco-as-taylor-swift-agrees-to-be-flower-girl/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyslhkg6FynQPUM2z_bp1i_JOmrgrrhaqidkrhe3FCQqYvP-8E-lt-z8r3UPY",
+        "source": "New York Post"
+      }
+    ]
   },
   {
-    "title": "lula",
+    "title": "publico",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 10 Dec 2024 01:20:00 -0800"
+    "pubdate": "Wed, 11 Dec 2024 23:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIyDzPuat2iVaWwehywDZCaCbN8c0lUn4KbakgsELqR4ckXRod9FPmfWATLrQ",
+    "picture_source": "Diário de Notícias",
+    "news_items": [
+      {
+        "title": "Ministério Público sueco encerra investigação a Mbappé sobre alegada \nviolação",
+        "snippet": "",
+        "url": "https://www.dn.pt/5280458795/ministerio-publico-sueco-encerra-investigacao-a-mbappe-sobre-alegada-violacao/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIyDzPuat2iVaWwehywDZCaCbN8c0lUn4KbakgsELqR4ckXRod9FPmfWATLrQ",
+        "source": "Diário de Notícias"
+      },
+      {
+        "title": "Arquivado na Suécia caso de alegada violação que envolvia nome de Mbappé",
+        "snippet": "",
+        "url": "https://www.abola.pt/futebol/noticias/arquivado-na-suecia-caso-de-alegada-violacao-que-envolvia-nome-de-mbappe-2024121209015206655",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_OosbTTwEw4BjMOjX-im6PUk9YUwR-ImloSltgRrrroNtt7zTV-fC2B2WpAA",
+        "source": "A Bola"
+      },
+      {
+        "title": "Suécia encerra investigação a Mbappé por violação",
+        "snippet": "",
+        "url": "https://www.jn.pt/5560004353/suecia-encerra-investigacao-a-mbappe-por-alegada-violacao/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIyDzPuat2iVaWwehywDZCaCbN8c0lUn4KbakgsELqR4ckXRod9FPmfWATLrQ",
+        "source": "Jornal de Notícias"
+      }
+    ]
   },
   {
-    "title": "antena 3",
+    "title": "dinis de bragança",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 10 Dec 2024 00:40:00 -0800"
+    "pubdate": "Wed, 11 Dec 2024 22:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRx7exxtS_f12AQhHlFkWOWtrMs06l37K8cUo8VvDlSnhu8nYudZ1HyEAOvc9w",
+    "picture_source": "TVI",
+    "news_items": [
+      {
+        "title": "D. Dinis de Bragança apaixonado por prima mais velha? Filho mais novo da \nfamília Real surge em clima de cumplicidade",
+        "snippet": "",
+        "url": "https://tvi.iol.pt/vmais/d-dinis/duques-de-braganca/d-dinis-de-braganca-apaixonado-por-prima-mais-velha-filho-mais-novo-da-familia-real-surge-em-clima-de-cumplicidade",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRx7exxtS_f12AQhHlFkWOWtrMs06l37K8cUo8VvDlSnhu8nYudZ1HyEAOvc9w",
+        "source": "TVI"
+      },
+      {
+        "title": "Dinis de Bragança vive romance improvável? \"Clima era de cumplicidade\"",
+        "snippet": "",
+        "url": "https://www.noticiasaominuto.com/fama/2688169/dinis-de-braganca-vive-romance-improvavel-clima-era-de-cumplicidade",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoVmLyzDHkPKy6Wa5_7srtQ1_LEXB4Djxh6oNkqdqjWrFwb9Q4bQEZenL9Cb8",
+        "source": "Notícias ao Minuto"
+      },
+      {
+        "title": "Dinis de Bragança cúmplice de princesa brasileira?",
+        "snippet": "",
+        "url": "https://www.msn.com/pt-pt/entretenimento/famosos/dinis-de-bragan%C3%A7a-c%C3%BAmplice-de-princesa-brasileira/ar-AA1vGmRD",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuxJatEAG3g_hd59ChvpMH_Ud4h2C8wQE4TOJexgoz9JfBAppoqf19ZBz5Bx0",
+        "source": "MSN"
+      }
+    ]
   },
   {
-    "title": "estendal roupa lidl",
+    "title": "correio da manhã",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Mon, 9 Dec 2024 23:20:00 -0800"
+    "pubdate": "Wed, 11 Dec 2024 22:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOblxuArbvWxhwXX0jyHZO1Np31iFeQlEze5QOa9Hd3MTj_0aHdFMyYTxBa2A",
+    "picture_source": "Correio da Manhã",
+    "news_items": [
+      {
+        "title": "\"Errei mas não mereço que estejam a arrasar-me\": Liliana Campos criticada \napós falar dos bombeiros",
+        "snippet": "",
+        "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/errei-mas-nao-mereco-que-estejam-a-arrasar-me-liliana-campos-criticada-apos-falar-dos-bombeiros",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOblxuArbvWxhwXX0jyHZO1Np31iFeQlEze5QOa9Hd3MTj_0aHdFMyYTxBa2A",
+        "source": "Correio da Manhã"
+      },
+      {
+        "title": "Mau ambiente nos bastidores do 'Passadeira Vermelha'? Liliana esclarece",
+        "snippet": "",
+        "url": "https://www.noticiasaominuto.com/fama/2687571/mau-ambiente-nos-bastidores-do-passadeira-vermelha-liliana-esclarece",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSipDLyWCasEnm8kwo1PRVmYep25WMhinbLk1CwlqaFUpQHQpUJlcP-K9Tnffg",
+        "source": "Notícias ao Minuto"
+      },
+      {
+        "title": "\"Parem! Há pessoas que estão a ser muito más e muito ordinárias\"",
+        "snippet": "",
+        "url": "https://lifestyle.sapo.pt/fama/noticias-fama/artigos/parem-ha-pessoas-que-estao-a-ser-muito-mas-e-muito-ordinarias",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQilSIgcmWDkNFLgbekv6lac88ryhm5BOcuHoufLCXi3ZG7fOadLzJF0b6aMYI",
+        "source": "SAPO Lifestyle"
+      }
+    ]
   },
   {
-    "title": "massa de ar polar portugal",
+    "title": "wordle",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Mon, 9 Dec 2024 21:20:00 -0800"
+    "pubdate": "Wed, 11 Dec 2024 21:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmNW9u-ygSIeE14VHRbcZCj4EUfYLnkbqdu9XVbyftgh4HrPx5yzkH72RelII",
+    "picture_source": "The New York Times",
+    "news_items": [
+      {
+        "title": "Today’s Wordle Answer for Dec. 12, 2024.",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2024/12/11/crosswords/wordle-review-1272.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmNW9u-ygSIeE14VHRbcZCj4EUfYLnkbqdu9XVbyftgh4HrPx5yzkH72RelII",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Today's 'Wordle' #1,272 Answers, Hints and Clues for Thursday, December 12",
+        "snippet": "",
+        "url": "https://www.newsweek.com/wordle-hint-answer-thursday-12-december-1999096",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5cVDeSRqKNjLwuQKq5b8CBykZ41JXgpdY9EtN95pgo_y2e0PcdGBqhdwU404",
+        "source": "Newsweek"
+      },
+      {
+        "title": "Wordle hint today: Clues for December 12 2024 NYT puzzle #1272",
+        "snippet": "",
+        "url": "https://ftw.usatoday.com/2024/12/wordle-hint-today-clues-december-12-2024",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjGAsg5VKAtZ97juoBF-vXLbJPbRTfX50DOf-0dlj9Alr_EdGtVvUUUtE9D0",
+        "source": "USA Today"
+      }
+    ]
   },
   {
     "title": "ines patrocinio",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Mon, 9 Dec 2024 17:20:00 -0800"
+    "pubdate": "Wed, 11 Dec 2024 18:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdnpUjKZJEeu9MqPvVUAwwAjZ64A9OyIOMYhAcHp3d_OnYo78eBzIuWyjcNSU",
+    "picture_source": "Correio da Manhã",
+    "news_items": [
+      {
+        "title": "Inês Patrocínio teme pela vida da filha de dois anos",
+        "snippet": "",
+        "url": "https://www.cmjornal.pt/vidas/ultimas/detalhe/ines-patrocinio-teme-pela-vida-da-filha-de-dois-anos",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdnpUjKZJEeu9MqPvVUAwwAjZ64A9OyIOMYhAcHp3d_OnYo78eBzIuWyjcNSU",
+        "source": "Correio da Manhã"
+      },
+      {
+        "title": "Irmã de Carolina Patrocínio apanha valente susto com a filha de 2 anos: \n\"Achei que a minha filha ia ficar ali\"",
+        "snippet": "",
+        "url": "https://www.flash.pt/celebridades/nacional/detalhe/irma-de-carolina-patrocinio-apanha-valente-susto-com-a-filha-de-2-anos-achei-que-a-minha-filha-ia-ficar-ali",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVHb0zGtwKqKZSRExL6E1xjpqPkMSDWQPGh7iwCVzlVAVXjflSqF5hdiyAFs",
+        "source": "Flash.pt"
+      },
+      {
+        "title": "Inês Patrocínio - Sobre o susto com Helena: \"Achei que a minha filha ia \nficar ali\"",
+        "snippet": "",
+        "url": "https://www.novagente.pt/ines-patrocinio-sobre-o-susto-com-helena-achei-que-minha-filha-ia-ficar-ali",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_Xj-HfdhvnZnur1Sj2CSbnyYZayfeIL9f_vY7MCHt8ihHcQFvRN6eKEdjDvo",
+        "source": "Nova Gente"
+      }
+    ]
   },
   {
-    "title": "gta 6",
+    "title": "acidente a1",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Mon, 9 Dec 2024 16:30:00 -0800"
+    "pubdate": "Wed, 11 Dec 2024 16:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8aVk9_xU8LaGTDMmJtsi3P4PP3K5C-KziWhIXYn7rlMDqoGMZO971f5yMXl4",
+    "picture_source": "Jornal de Notícias",
+    "news_items": [
+      {
+        "title": "Homem atropelado mortalmente na A1 quando estava a mudar pneu",
+        "snippet": "",
+        "url": "https://www.jn.pt/2535987082/homem-atropelado-mortalmente-na-a1-quando-estava-a-mudar-pneu/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8aVk9_xU8LaGTDMmJtsi3P4PP3K5C-KziWhIXYn7rlMDqoGMZO971f5yMXl4",
+        "source": "Jornal de Notícias"
+      },
+      {
+        "title": "Homem morre em acidente que envolveu carros civis e uma coluna militar na \nA1 em Albergaria-a-Velha",
+        "snippet": "",
+        "url": "https://www.cmjornal.pt/portugal/detalhe/homem-morre-em-acidente-que-envolveu-carros-civis-e-uma-coluna-militar-na-a1-em-albergaria-a-velha",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_WUxSgSuTtWg7zd3qtSJTAtasN3z-rUiHk0U8Cyxc4jLhm9DxBKaEWX-Czvk",
+        "source": "Correio da Manhã"
+      },
+      {
+        "title": "Atropelamento na A1, na zona de Albergaria-a-Velha, faz vítima mortal",
+        "snippet": "",
+        "url": "https://www.diarioaveiro.pt/2024/12/11/atropelamento-na-a1-na-zona-de-albergaria-a-velha-faz-vitima-mortal/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6n9QK1g1AwGeetUXpsC1tt7ql0mWbw9HwVWv40NUe1gGfw0Z7swMs1xv3X3k",
+        "source": "Diário de Aveiro"
+      }
+    ]
   },
   {
-    "title": "miguel araújo",
+    "title": "joao soares",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Mon, 9 Dec 2024 15:40:00 -0800"
+    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUaYGTcdMnHhkbm0L905dBOpPGd8jXI2ypA04tou-po-u3T0egpk368JUHBqY",
+    "picture_source": "RTP",
+    "news_items": [
+      {
+        "title": "Grande Entrevista. Filhos de Mário Soares recordam o homem e o político em \nfamília",
+        "snippet": "",
+        "url": "https://www.rtp.pt/noticias/politica/grande-entrevista-filhos-de-mario-soares-recordam-o-homem-e-o-politico-em-familia_v1621063",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUaYGTcdMnHhkbm0L905dBOpPGd8jXI2ypA04tou-po-u3T0egpk368JUHBqY",
+        "source": "RTP"
+      },
+      {
+        "title": "“Nós” e “eles”",
+        "snippet": "",
+        "url": "http://dn.pt/2142169930/nos-e-eles/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLJJZ0UcC27QSGHqY0exlA3eZBfGnka4j0E8XG0eEKjdx3WcN6RifClliAG_4",
+        "source": "Diário de Notícias"
+      },
+      {
+        "title": "Churchill, Soares e a Democracia Liberal",
+        "snippet": "",
+        "url": "https://observador.pt/opiniao/churchill-soares-e-a-democracia-liberal/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmpbrkpakmoGwVeNJrP0lir6GZdHNG7y9k4EOvU-0KJ51ShAdv46MdA7SKSrk",
+        "source": "Observador"
+      }
+    ]
   },
   {
-    "title": "greve metro lisboa",
+    "title": "ai",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Mon, 9 Dec 2024 13:00:00 -0800"
+    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe9VjVV7lcpWLj-sWbjyz0iUUXUjNbNbkT6iNR5D32tUcA0WvX0NyCM7ogAf8",
+    "picture_source": "The Guardian",
+    "news_items": [
+      {
+        "title": "Kate Bush joins campaign against AI using artists’ work without permission",
+        "snippet": "",
+        "url": "https://www.theguardian.com/technology/2024/dec/12/kate-bush-joins-campaign-against-ai-using-artists-work-without-permission",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe9VjVV7lcpWLj-sWbjyz0iUUXUjNbNbkT6iNR5D32tUcA0WvX0NyCM7ogAf8",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Who Owns Copyright In Generated Arts Created By AI? Justice Gautam Patel \nHighlights New Legal Challenges",
+        "snippet": "",
+        "url": "https://www.livelaw.in/top-stories/who-owns-copyright-in-generated-arts-created-by-ai-justice-gautam-patel-highlights-new-legal-challenges-278090",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1oAraGM-2AqwYg_wybxWg2ytYTxLxiRDAtUzKWh2eyxUt7O8jnPRzOhCY3As",
+        "source": "Live Law"
+      },
+      {
+        "title": "Op-Ed: “Can the CDSM Directive’s TDM Exceptions solve Copyright-Related \nIssues in Generative AI, or is there a Need for Technical Solutions?”",
+        "snippet": "",
+        "url": "https://eulawlive.com/op-ed-can-the-cdsm-directives-tdm-exceptions-solve-copyright-related-issues-in-generative-ai-or-is-there-a-need-for-technical-solutions/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7H5O_-O-tvnqY6SgJGeltksn8zsYmHsyVcP3kWtM4dJMmjxY9NTSdvwZQ4U",
+        "source": "EU Law Live"
+      }
+    ]
   },
   {
-    "title": "beyonce",
+    "title": "chatgpt",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Mon, 9 Dec 2024 12:50:00 -0800"
+    "pubdate": "Wed, 11 Dec 2024 15:30:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+    "picture_source": "CNBC",
+    "news_items": [
+      {
+        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+        "source": "CNBC"
+      },
+      {
+        "title": "ChatGPT is down: What happened and when will it be back?",
+        "snippet": "",
+        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
+        "source": "Diario AS"
+      },
+      {
+        "title": "Apple dropped by release iOS 18.2 ChatGPT chatbot – LSA Magazine",
+        "snippet": "",
+        "url": "https://www.letemsvetemapplem.eu/en/2024/12/12/apple-shodil-vydanim-ios-18-2-chatbota-chatgpt/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsilrjvwNDCX-xIOCsP38hufWo_z9LHLKl1Df1qTD2qJEibpIQ-A6KvoIwaLs",
+        "source": "Letem světem Applem"
+      }
+    ]
   }
 ]

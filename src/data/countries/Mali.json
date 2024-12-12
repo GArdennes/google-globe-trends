@@ -1,187 +1,289 @@
 [
   {
-    "title": "uefa champions league",
+    "title": "fc barcelone",
     "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 10 Dec 2024 14:00:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8Ek1u19PeJFYupnarG6VUcOtFlX9F3gDIzHoyVj7U0xz2sg4Ja-5RY-9LPFw",
+    "picture_source": "Foot Mercato",
+    "news_items": [
+      {
+        "title": "PSG : le prix dérisoire fixé par Manchester United pour Marcus Rashford",
+        "snippet": "",
+        "url": "https://www.footmercato.net/a4971591958894749022-psg-le-prix-derisoire-fixe-par-manchester-united-pour-marcus-rashford",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8Ek1u19PeJFYupnarG6VUcOtFlX9F3gDIzHoyVj7U0xz2sg4Ja-5RY-9LPFw",
+        "source": "Foot Mercato"
+      },
+      {
+        "title": "Manchester United veut tenter un échange de joueurs avec le FC Barcelone",
+        "snippet": "",
+        "url": "https://www.les-transferts.com/rumeurs-transferts/manchester-united-veut-tenter-un-echange-de-joueurs-avec-le-fc-barcelone.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOjIdNPM7XIWwV1iZTPLM1Cjc6CQEN2IQ93bhhPv_b_3P7MQuK3TuB4CD_9SM",
+        "source": "Les Transferts"
+      },
+      {
+        "title": "À peine arrivé, Ruben Amorim le met à la porte",
+        "snippet": "",
+        "url": "https://www.football365.fr/a-peine-arrive-ruben-amorim-le-met-a-la-porte-10217046.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzM7f8OqH5PxtK8zlnaMzcTdHp0TiMN2x6soXycz2Qi7dEGobvwU47oeLHYN0",
+        "source": "Football365"
+      }
+    ]
+  },
+  {
+    "title": "ac milan – étoile rouge",
+    "link": "https://trends.google.com/trending/rss?geo=ML",
+    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
-    "picture_source": "The Guardian",
-    "news_items": [
-      {
-        "title": "Oil gives you wings: PSG, Red Bull Salzburg and a bad advert for football",
-        "snippet": "",
-        "url": "https://www.theguardian.com/football/2024/dec/11/psg-red-bull-salzburg-bad-advert-for-football-champions-league",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Luis Enrique Not Thrilled After PSG's Champions League Victory",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/psg-need-to-improve-to-avoid-champions-league-elimination-according-to-enrique-2024-12-11",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpKTQqghKtycMwr7_p4l7SyoUQ3ZscNUWwWn-1fI1cSE7eOotps5RFpc6JkI",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "Where to watch RB Salzburg vs. Paris Saint-Germain: UEFA Champions League free live stream",
-        "snippet": "",
-        "url": "https://www.masslive.com/tv/2024/12/where-to-watch-rb-salzburg-vs-paris-saint-germain-uefa-champions-league-free-live-stream.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5pY1e61hotRC5agaN9Dt8Z4PuzdBZ3ZANI3UnnDd61enaBbJtLB1cdknaHT4",
-        "source": "MassLive.com"
-      }
-    ]
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
   },
   {
-    "title": "rb salzburg – paris-sg",
+    "title": "borussia dortmund",
     "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 10 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFj_b6Yo1MISbkuWsWvcAUq7GgYp-KM_svUBguBBb0bARhW9kkVYjVJazz1ZI",
-    "picture_source": "Le Parisien",
+    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeJbhytwavKrwC5bRA6EXP8uV8Km8LOiEL_1priCBQyVddccO1kNpqb4kXVYA",
+    "picture_source": "RAN",
     "news_items": [
       {
-        "title": "Salzbourg-PSG : Presnel Kimpembe absent du déplacement en Ligue des \nchampions, Hernandez de retour",
+        "title": "BVB - Sahin sauer auf Ballack: \"Muss aufpassen, was ich sage\"",
         "snippet": "",
-        "url": "https://www.leparisien.fr/sports/football/ligue-des-champions/salzbourg-psg-presnel-kimpembe-absent-du-deplacement-en-ligue-des-champions-09-12-2024-HMPBKVW5P5DZNPKIKN2LPOIVEM.php",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFj_b6Yo1MISbkuWsWvcAUq7GgYp-KM_svUBguBBb0bARhW9kkVYjVJazz1ZI",
-        "source": "Le Parisien"
+        "url": "https://www.ran.de/sports/fussball/champions-league/news/bvb-nuri-sahin-reagiert-auf-michael-ballack-muss-aufpassen-was-ich-sage-472052",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeJbhytwavKrwC5bRA6EXP8uV8Km8LOiEL_1priCBQyVddccO1kNpqb4kXVYA",
+        "source": "RAN"
       },
       {
-        "title": "Salzbourg/PSG – Baidoo souligne le « courage » nécessaire",
+        "title": "Eine Statistik bleibt nach dem 2:3 gegen den FC Barcelona alarmierend! Marcel Sabitzer ist beim BVB ein Sorgenkind",
         "snippet": "",
-        "url": "https://www.msn.com/fr-fr/sport/football/salzbourg-psg-baidoo-souligne-le-courage-n%C3%A9cessaire/ar-AA1vBwHt",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8UCoyL4y5TQvKHwsVCGlFg0vvUP7-1RaEwLctmPYn899E7xKcMrAN2l3MhqQ",
-        "source": "MSN"
+        "url": "https://www.spox.com/fussball/listen/eine-statistik-bleibt-nach-dem-2-3-gegen-den-fc-barcelona-alarmierend-marcel-sabitzer-ist-beim-bvb-ein-sorgenkind/blt1429407ef5903d79",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSE37NNtwRdTYllgd2PafQV2yklEO4_YkCWzHFA57i-e7ctg6ARGipe6siguFA",
+        "source": "SPOX.com"
       },
       {
-        "title": "PSG : avec l’énergie du désespoir - C1 - J6 - Salzbourg-PSG",
+        "title": "Borussia Dortmund: Schlotterbeck-Schock ist nicht alles – es kommt noch dicker",
         "snippet": "",
-        "url": "https://www.sofoot.com/articles/ligue-des-champions-salzbourg-psg-symphonie-ou-requiem",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuCCaZxgRhfhbXlpmz9r0-nbLYq8vT2--nfpM5KcTykB3_v7ne-4tLxkxqY68",
-        "source": "SO FOOT.com"
-      }
-    ]
-  },
-  {
-    "title": "chakhtior donetsk – bayern",
-    "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 10 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHrf973NFYo9L_qB-sFQ90qwSY1lDzMEORuBJuVKwsh0nS6dVUQo9SsjhsOsA",
-    "picture_source": "Bavarian Football Works",
-    "news_items": [
-      {
-        "title": "Bayern Munich’s Konrad Laimer in awe of Michael Olise’s \"video game\" goal \nagainst Shakhtar Donetsk",
-        "snippet": "",
-        "url": "https://www.bavarianfootballworks.com/2024/12/11/24317622/bayern-munich-uefa-champions-league-shakhtar-donetsk-michael-olise-konrad-laimer-harry-kane-ucl",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHrf973NFYo9L_qB-sFQ90qwSY1lDzMEORuBJuVKwsh0nS6dVUQo9SsjhsOsA",
-        "source": "Bavarian Football Works"
-      },
-      {
-        "title": "Chelsea and Man Utd fans say the same thing after £50m target 'turns into \nMessi'",
-        "snippet": "",
-        "url": "https://metro.co.uk/2024/12/11/chelsea-man-utd-fans-say-thing-50m-target-turns-messi-22163951/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvMYVfMCUuk6wlVKsc8Z2gYzQbJquRAuLpzEv3s6E4YPMReAkAyAbfyaxeTw",
-        "source": "Metro.co.uk"
-      },
-      {
-        "title": "Kompany heaps praise on goalscoring Muller after rare start against Shakhtar",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-asia/football/uefa-champions-league/articles/kompany-heaps-praise-on-goalscoring-muller-after-rare-start-against-shakhtar-2024-12-11",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ3LOMRk1-4MkH3SWJ_oh3INOfW0X4MJ7iZQqBOIWcSHQ2uDK5Xok4Dl58240",
-        "source": "beIN SPORTS"
-      }
-    ]
-  },
-  {
-    "title": "atalanta – real madrid",
-    "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 10 Dec 2024 11:00:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
-    "picture_source": "beIN SPORTS",
-    "news_items": [
-      {
-        "title": "Real Madrid revive Champions League title defence with win at spirited \nAtalanta",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/real-madrid-revive-champions-league-title-defence-with-win-at-spirited-atalanta-2024-12-10",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "Rodrygo: \"We made the most of our chances when we were in space\"",
-        "snippet": "",
-        "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/rodrygo-ha-sido-una-victoria-muy-importante-hemos-trabajado-bien-10-12-2024",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6f-gljgRYcefEfUJ62UuALMel-CY944LCQzf4DuPzlOW1huCIAJ4iTaAW_k",
-        "source": "Real Madrid CF"
-      },
-      {
-        "title": "🚨 Real Madrid, Bayern, Villa, PSG, Levekusen seal wins; Brugge still ahead",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/real-madrid-bayern-villa-psg-levekusen-seal-wins-brugge-still-ahead-40421772",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYYTmPnhNUCwVK5TIeJ6gP9v4DC2gY0-d-GQ9cefIca359MCl3Jc3lOqUiOnQ",
-        "source": "OneFootball"
+        "url": "https://www.derwesten.de/sport/fussball/bvb/borussia-dortmund-bvb-schlotterbeck-bensebaini-ryerson-id301261906.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFiU9X75TNcFKfUpYFAbI_o7VPGixCdUKM-kjAx5R2qn4Ey6FDbnEe9Pn5fxw",
+        "source": "DerWesten.de"
       }
     ]
   },
   {
     "title": "ligue des champions",
     "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 10 Dec 2024 11:00:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBy7ODphx_Rv9MGHPHTqUTIOZ8lnviewl7xKp6TWrkNlUBR8av_a9L9ksvmGw",
-    "picture_source": "Le Soir",
+    "pubdate": "Wed, 11 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ899IvOVM91eCCO7o7H8L8gB0wI6iigTEimFvKwZL4CSInU48r5DgTargi6Yw",
+    "picture_source": "Eurosport",
     "news_items": [
       {
-        "title": "Comment le Real Madrid et le PSG se retrouvent au bord de l’élimination en \nLigue des champions",
+        "title": "Le PSG éliminé dès la 7e journée si...",
         "snippet": "",
-        "url": "https://www.lesoir.be/641379/article/2024-12-10/comment-le-real-madrid-et-le-psg-se-retrouvent-au-bord-de-lelimination-en-ligue",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBy7ODphx_Rv9MGHPHTqUTIOZ8lnviewl7xKp6TWrkNlUBR8av_a9L9ksvmGw",
-        "source": "Le Soir"
+        "url": "https://www.eurosport.fr/football/ligue-des-champions/2024-2025/le-paris-saint-germain-peut-etre-elimine-de-la-ligue-des-champions-des-la-7e-journee-de-la-phase-de-_sto10417761/story.shtml",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ899IvOVM91eCCO7o7H8L8gB0wI6iigTEimFvKwZL4CSInU48r5DgTargi6Yw",
+        "source": "Eurosport"
       },
       {
-        "title": "Ligue des champions: De belles affiches au programme et des Suisses sur le \nqui-vive | blue News",
+        "title": "Ligue des champions: Mauvaises nouvelles pour le PSG",
         "snippet": "",
-        "url": "https://www.bluewin.ch/fr/sport/champions-league/de-belles-affiches-au-programme-mercredi-soir-2480843.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-bR3upUpQplt18vI0p_25u8fO1Yi6kQCZc_o0EFBlgvCzOWkUv3gxKVmmHGs",
-        "source": "blue News"
+        "url": "https://www.sports.fr/football/ligue-des-champions-football/mauvaises-nouvelles-pour-le-psg-2-887627.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXtguI0TGfVwItYwmx2fW5dY0d37yY0PShbfKiy3uFl3TGKnwLvj893-CZD0",
+        "source": "Sports.fr"
       },
       {
-        "title": "Atalanta - Real Madrid : la vidéo du bel enchaînement de Kylian Mbappé pour \nl’ouverture du score",
+        "title": "LdC : “Ce serait impardonnable que le PSG n’arrive pas à gagner”",
         "snippet": "",
-        "url": "https://www.msn.com/fr-fr/sport/football/atalanta-real-madrid-la-vid%C3%A9o-du-bel-encha%C3%AEnement-de-kylian-mbapp%C3%A9-pour-l-ouverture-du-score/ar-AA1vCojX",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkP_TbiqDeayTYq5BI1VRUT5IzrDZlgaJM8Bxto0lfulRHGIT2z7BtD7Wk8HA",
-        "source": "MSN"
+        "url": "https://www.sport.fr/football/ldc-ce-serait-impardonnable-que-le-psg-narrive-pas-a-gagner-1259436.shtm",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaUlqUZyRXM78lCcQCUDkhRnRROFdggoWlAxiZz6SjhT3EQd57YVAkFHnre7s",
+        "source": "Sport.fr"
       }
     ]
   },
   {
-    "title": "girona – liverpool",
+    "title": "barca",
     "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 10 Dec 2024 08:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDqXF6bAc9jimrtRDkamDcMkdgm9HG0t0Y91SWKPP_2C44x40uJ23P8pRGDI",
-    "picture_source": "FootBoom",
+    "pubdate": "Wed, 11 Dec 2024 12:20:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRErMWrDHAjNBFjeYc42CDfQHq2rhWgBmFoNgTjIqij2R_IgYjfU8mD2Ok8TQ",
+    "picture_source": "UEFA.com",
     "news_items": [
       {
-        "title": "Míchel Reflexiona: 'No He Sido Un Entrenador de Elite en la Champions \nLeague'",
+        "title": "Champions League highlights and round-up: Barcelona beat Dortmund to go second, Arsenal into third",
         "snippet": "",
-        "url": "https://www.footboom1.com/es/news/football/2166994-michel-reflects-i-haven-t-been-a-top-coach-in-the-champions-league",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDqXF6bAc9jimrtRDkamDcMkdgm9HG0t0Y91SWKPP_2C44x40uJ23P8pRGDI",
-        "source": "FootBoom"
+        "url": "https://www.uefa.com/uefachampionsleague/news/0294-1c8a30f51d42-ca2ebf5b9afd-1000--champions-league-highlights-and-round-up-barcelona-beat-/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRErMWrDHAjNBFjeYc42CDfQHq2rhWgBmFoNgTjIqij2R_IgYjfU8mD2Ok8TQ",
+        "source": "UEFA.com"
       },
       {
-        "title": "Orgullo máximo",
+        "title": "Barcelona’s Shark finally bites as Hansi Flick gets subs spot on in Dortmund",
         "snippet": "",
-        "url": "https://onefootball.com/de/news/orgullo-maximo-40423326",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1B35i_xCdWMhS9Olx5F6MrpytFJbMTo5_t2bEQ6GpYSqt-KY37RzsWQP-wgE",
+        "url": "https://www.barcablaugranes.com/2024/12/12/24319148/barcelonas-shark-finally-bites-as-hansi-flick-gets-subs-spot-on-in-dortmund",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn9AMnMRhDRxENH7gmWWye0mE5OPDahqpifpS4wh2eDEdw5F81yNHyOBrkAvI",
+        "source": "Barca Blaugranes"
+      },
+      {
+        "title": "Lamine Yamal breaks down chemistry with Ferran and Raphinha - 'We understand each other'",
+        "snippet": "",
+        "url": "https://barcauniversal.com/lamine-yamal-breaks-down-chemistry-with-ferran-and-raphinha-we-understand-each-other/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZf9fqFrwXa1DY7UvQmpZBDa5vhJnpxr62z_GnBn18nCvyWt90YdSPzwViXiA",
+        "source": "Barca Universal"
+      }
+    ]
+  },
+  {
+    "title": "arsenal – monaco",
+    "link": "https://trends.google.com/trending/rss?geo=ML",
+    "pubdate": "Wed, 11 Dec 2024 11:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4jNeTcUSynNgsX2ua9wih92SqRdLlvULhWCA6XKm94WihPXyFrHeDHgAI5Eg",
+    "picture_source": "beIN SPORTS",
+    "news_items": [
+      {
+        "title": "Saka brace sinks Monaco as Arsenal eye Champions League last 16",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/saka-brace-sinks-monaco-as-arsenal-eye-champions-league-last-16-2024-12-11",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4jNeTcUSynNgsX2ua9wih92SqRdLlvULhWCA6XKm94WihPXyFrHeDHgAI5Eg",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "24 touches, 9 passes, 4/11 duels won: Mikel Arteta must now drop 5/10 Arsenal star for Everton clash – opinion",
+        "snippet": "",
+        "url": "https://onefootball.com/fr/news/24-touches-9-passes-411-duels-won-mikel-arteta-must-now-drop-510-arsenal-star-for-everton-clash-opinion-40428360",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TLVCd1cfx0iiZMvFcEcv2FE5oIoHQ25WM_7sQ3z3yteWaHkGXwoZgsGC_g4",
         "source": "OneFootball"
       },
       {
-        "title": "Mo Salah, de penal, marcó el gol del triunfo británico",
+        "title": "Paul Merson praises Arsenal for academy products",
         "snippet": "",
-        "url": "https://fdpradio.com/mo-salah-de-penal-marco-el-gol-del-triunfo-britanico/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPOlTDQJ4ghwIv6ZsZ7TWjCSuYLFl46jqD8tr4jr3IeEQ_TW8zrrTi9YqBij4",
-        "source": "FDP Radio"
+        "url": "https://www.justarsenal.com/paul-merson-praises-arsenal-for-academy-products/382555",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQmgh4NZxB9jMXQ4r3N2qk7AKzPpNOrOkWl9ruitVwUa_MC5GtCLyG6pubUh8",
+        "source": "Just Arsenal News"
+      }
+    ]
+  },
+  {
+    "title": "juventus – manchester city",
+    "link": "https://trends.google.com/trending/rss?geo=ML",
+    "pubdate": "Wed, 11 Dec 2024 11:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1rm7-PixVq_GPZUYFsTCGi53MEf-CXyFX9H8uRrb0_qv1nGsmOVl5xu8v6sU",
+    "picture_source": "BT Sport",
+    "news_items": [
+      {
+        "title": "‘He’s already tired’ – Cole, Laurens question if Guardiola is ‘right guy' for Man City 'rebuild'",
+        "snippet": "",
+        "url": "https://www.tntsports.co.uk/football/champions-league/2024-2025/joe-cole-julien-laurens-question-if-pep-guardiola-is-right-guy-for-manchester-city-rebuild-hes-already-tired_sto20062213/story.shtml",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1rm7-PixVq_GPZUYFsTCGi53MEf-CXyFX9H8uRrb0_qv1nGsmOVl5xu8v6sU",
+        "source": "BT Sport"
+      },
+      {
+        "title": "Man City crisis deepens with loss to Juventus in Champions League as Barcelona and Arsenal triumph",
+        "snippet": "",
+        "url": "https://www.arabnews.com/node/2582744/sport",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNfffTox4V7o-5ZQBBy7lq4bKVZWigWKgLN7n9elVKKHIBDYrpP-V-GJnJ5fM",
+        "source": "Arab News"
+      },
+      {
+        "title": "“Do better” – Ruben Dias simplifies crucial demands of Manchester City teammates after Juventus defeat",
+        "snippet": "",
+        "url": "https://onefootball.com/id/berita/do-better-ruben-dias-simplifies-crucial-demands-of-manchester-city-teammates-after-juventus-defeat-40429055",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjI7_RVSL8NERzr6-Gwto6zdNHooMP6C43vXNLr0ex34xztASsRxO619d4qMk",
+        "source": "OneFootball"
+      }
+    ]
+  },
+  {
+    "title": "dortmund – barcelone",
+    "link": "https://trends.google.com/trending/rss?geo=ML",
+    "pubdate": "Wed, 11 Dec 2024 11:00:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnr3Hck-hOCF59H1bspEGBi6e3NUp1xVJzYgZzNB0iU_rg0l9y_f-yETQj0FM",
+    "picture_source": "Foot Mercato",
+    "news_items": [
+      {
+        "title": "FC Barcelone : Hansi Flick donne des nouvelles de Raphinha",
+        "snippet": "",
+        "url": "https://www.footmercato.net/a5208695528352294161-fc-barcelone-hansi-flick-donne-des-nouvelles-de-raphinha",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnr3Hck-hOCF59H1bspEGBi6e3NUp1xVJzYgZzNB0iU_rg0l9y_f-yETQj0FM",
+        "source": "Foot Mercato"
+      },
+      {
+        "title": "Borussia Dortmund 2-3 FC Barcelone, Ligue des champions : Le Barça renverse Dortmund",
+        "snippet": "",
+        "url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2024-2025/borussia-dortmund-fc-barcelone-live/668064",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXQd0ZGmp6j5MrYviC7K4sQAGL-v8ZYtO-p6VJ6uALsbTgaNltfxc_HUjbas",
+        "source": "L'Équipe"
+      },
+      {
+        "title": "Ligue des Champions : La compo probable du FC Barcelone contre le Borussia Dortmund selon la presse espagnole",
+        "snippet": "",
+        "url": "https://www.90min.com/fr/ligue-des-champions-la-compo-probable-du-fc-barcelone-contre-le-borussia-dortmund-selon-la-presse-espagnole-11-12-2024",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRYxBpCWUcJBk4ZSgFuRc0Kh1wiqREjtIMgnese0IsKp9_eYM5ztwfLvy64FE",
+        "source": "90Min.com"
+      }
+    ]
+  },
+  {
+    "title": "atlético madrid – slovan bratislava",
+    "link": "https://trends.google.com/trending/rss?geo=ML",
+    "pubdate": "Wed, 11 Dec 2024 09:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpoQFJanXlnwrMDH9KPLVTT__X6MpQowR24wqfnb2CTyHfXHdgAEJhc_A4RYs",
+    "picture_source": "ESPN",
+    "news_items": [
+      {
+        "title": "Atlético 3-1 S Bratislava (Dec 11, 2024) Game Analysis",
+        "snippet": "",
+        "url": "https://www.espn.com/soccer/report/_/gameId/720321",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpoQFJanXlnwrMDH9KPLVTT__X6MpQowR24wqfnb2CTyHfXHdgAEJhc_A4RYs",
+        "source": "ESPN"
+      },
+      {
+        "title": "Griezmann double helps Atleti close in on top eight",
+        "snippet": "",
+        "url": "https://www.beinsports.com/en-au/football/uefa-champions-league/articles-video/griezmann-double-helps-atleti-close-in-on-top-eight-2024-12-11",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrXOFe6c1QBGs0xb520cdAHU38TXlG6y1G-_-L5JgLhx22f2oeIKvcVSQ7068",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "Simeone: \"We Compete in Our League Against the Two Best in Europe\"",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2168787-simeone-we-compete-in-our-league-against-the-two-best-in-europe",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS__fEdUDI0krRaFEO07lfpCvigQkLBVKIx1WMUFuwi0i9Rgyd_xa8Cpy_Od5Q",
+        "source": "FootBoom"
+      }
+    ]
+  },
+  {
+    "title": "fenerbahçe – ath. bilbao",
+    "link": "https://trends.google.com/trending/rss?geo=ML",
+    "pubdate": "Wed, 11 Dec 2024 07:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyAfW7v3-o46L7tkNZDwp3BkjNEP_udUQpj6R54xitJLF_EBRQx11cOeoLLM",
+    "picture_source": "T24",
+    "news_items": [
+      {
+        "title": "Fenerbahçe, Athletic Bilbao maçında bu sezon bir ilki yaşadı",
+        "snippet": "",
+        "url": "https://t24.com.tr/haber/fenerbahce-athletic-bilbao-macinda-bu-sezon-bir-ilki-yasadi,1202579",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyAfW7v3-o46L7tkNZDwp3BkjNEP_udUQpj6R54xitJLF_EBRQx11cOeoLLM",
+        "source": "T24"
+      },
+      {
+        "title": "Mouirinho ve Fenerbahçe yönetimine olay sözler! Rıdvan Dilmen'den flaş çağrı",
+        "snippet": "",
+        "url": "https://spor.haber7.com/fenerbahce/haber/3486730-mouirinho-ve-fenerbahce-yonetimine-olay-sozler-ridvan-dilmenden-flas-cagri",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNEVJOTe4iaIoypwQ7gEJDqUhOtQ4KpoE1Ql8JQk0BUD4zDxU0RJk1P2cvus",
+        "source": "Haber7"
+      },
+      {
+        "title": "Semih Şentürk'ten Fenerbahçeli futbolcuya yaylım ateşi: \"Bu taraftar seni sevmez\"",
+        "snippet": "",
+        "url": "https://www.ntvspor.net/foto-galeri/semih-senturk-ten-fenerbahceli-futbolcuya-olay-sozler-bu-taraftar-seni-sevmez-675a82fd49b57003f75e8c65",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQi3YWfI8T6IECXiixo8gVCzYn_EMWMn45_NfOZFe1otwfBTQewil_X-NiGECU",
+        "source": "NTVSpor"
       }
     ]
   }

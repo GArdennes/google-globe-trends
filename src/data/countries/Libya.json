@@ -1,297 +1,289 @@
 [
   {
-    "title": "ترتيب دوري ابطال اوروبا",
+    "title": "chatgpt",
     "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsloVV1RWD40MSRQEBQ0aZ87qWdVbcu8LUUFxD3R66g-Pk3JGA14r1MZJKaeg",
-    "picture_source": "بطولات",
+    "pubdate": "Wed, 11 Dec 2024 16:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+    "picture_source": "CNBC",
     "news_items": [
       {
-        "title": "ترتيب دوري أبطال أوروبا بعد فوز ليفربول وريال مدريد",
+        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
         "snippet": "",
-        "url": "https://www.btolat.com/news/359260",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsloVV1RWD40MSRQEBQ0aZ87qWdVbcu8LUUFxD3R66g-Pk3JGA14r1MZJKaeg",
-        "source": "بطولات"
+        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+        "source": "CNBC"
       },
       {
-        "title": "مباريات حاسمة غدًا في دوري أبطال أوروبا",
+        "title": "ChatGPT is down: What happened and when will it be back?",
         "snippet": "",
-        "url": "https://hihi2.com/2024/12/10/p2974835.html",
+        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
+        "source": "Diario AS"
+      },
+      {
+        "title": "ChatGPT back online after global outage",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "title": "barcelona",
+    "link": "https://trends.google.com/trending/rss?geo=LY",
+    "pubdate": "Wed, 11 Dec 2024 14:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
+    "picture_source": "FootBoom",
+    "news_items": [
+      {
+        "title": "¿Cuál es la capacidad del Signal Iduna Park y la 'Pared Amarilla' en el estadio del Borussia Dortmund?",
+        "snippet": "",
+        "url": "https://www.footboom1.com/es/news/football/2168596-what-is-the-capacity-of-signal-iduna-park-and-the-yellow-wall-at-borussia-dortmund-stadium",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Flick: «El objetivo es ser primeros»",
+        "snippet": "",
+        "url": "https://onefootball.com/en/news/flick-el-objetivo-es-ser-primeros-40427746",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Torres alaba el espíritu de equipo tras la victoria del Barcelona en Dortmund",
+        "snippet": "",
+        "url": "https://es-us.noticias.yahoo.com/torres-alaba-esp%C3%ADritu-equipo-victoria-065103438.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtPopBu-O__xaszCDPKNllktaBonAJ0aZuCxqg3t2dU0dYwBI9GH6TL8-r_xM",
+        "source": "Yahoo Noticias"
+      }
+    ]
+  },
+  {
+    "title": "ترتيب دوري ابطال اوروبا",
+    "link": "https://trends.google.com/trending/rss?geo=LY",
+    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEGQxXCs8Sffdug5OIZ-0Lol_HoK2xnegbf8FTGmvLQTUYSR9rHrz_dzJO52g",
+    "picture_source": "هاي كورة",
+    "news_items": [
+      {
+        "title": "جدول ترتيب دوري أبطال أوروبا",
+        "snippet": "",
+        "url": "https://hihi2.com/2024/12/12/p2978116.html",
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEGQxXCs8Sffdug5OIZ-0Lol_HoK2xnegbf8FTGmvLQTUYSR9rHrz_dzJO52g",
         "source": "هاي كورة"
       },
       {
-        "title": "دوري الابطال: افضل لاعب في كل مباراة من اليوم الاول للجولة السادسة",
+        "title": "تغطية حية مباشر لمباراة فريقي أرسنال و موناكو في بطولة دوري أبطال أوروبا - مرحلة الدوري",
         "snippet": "",
-        "url": "https://ajel.sabaq24.com/uncategorized/73599/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D8%A8%D8%B7%D8%A7%D9%84-%D8%A7%D9%81%D8%B6%D9%84-%D9%84%D8%A7%D8%B9%D8%A8-%D9%81%D9%8A-%D9%83%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D9%84%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIROEM65Br3npErvvWCqxuyqL8k9C7Eu19M4ONSQGBGdirIQ9AFQ53oHAvR-w",
-        "source": "سبق 24"
+        "url": "https://www.filgoal.com/articles/495809",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrYAWt2PvGOusVcjfq6-Fpz4jORoIhXbP5RvEpuHu-vHjTI2c_MtIjcaelLaM",
+        "source": "FilGoal.com"
+      },
+      {
+        "title": "بعد نهاية الجولة السادسة.. أول فريق يضمن التأهل مباشرةً لدور الـ16 من دوري أبطال أوروبا",
+        "snippet": "",
+        "url": "https://www.btolat.com/news/359364",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN6bgZYEN0K13Cllnhr5_Am_CQFwBDOJpDbqBVjMJchhdh04EmbUkhTnsSOfs",
+        "source": "بطولات"
       }
     ]
   },
   {
     "title": "uefa champions league",
     "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 13:50:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
-    "picture_source": "The Guardian",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJpD2KTP7AGdNpwaUdIfbdgY75MYEAcu2XO7ctrnVjbNXSSkfPM4vPrimwpa4",
+    "picture_source": "Sports Mole",
     "news_items": [
       {
-        "title": "Oil gives you wings: PSG, Red Bull Salzburg and a bad advert for football",
+        "title": "Preview: Feyenoord vs. Sparta Prague - prediction, team news, lineups",
         "snippet": "",
-        "url": "https://www.theguardian.com/football/2024/dec/11/psg-red-bull-salzburg-bad-advert-for-football-champions-league",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtMEiZ_8nfFb-F8L_2Fj0Ycoa4I0dTtpetoDPI5nVZRY3KIFBzuy3a29wEnns",
-        "source": "The Guardian"
+        "url": "https://www.sportsmole.co.uk/football/feyenoord/champions-league/preview/preview-feyenoord-vs-sparta-prague-prediction-team-news-lineups_560228.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJpD2KTP7AGdNpwaUdIfbdgY75MYEAcu2XO7ctrnVjbNXSSkfPM4vPrimwpa4",
+        "source": "Sports Mole"
       },
       {
-        "title": "Luis Enrique Not Thrilled After PSG's Champions League Victory",
+        "title": "Santi Giménez Scores His Second Goal in the Current Champions League",
         "snippet": "",
-        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/psg-need-to-improve-to-avoid-champions-league-elimination-according-to-enrique-2024-12-11",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpKTQqghKtycMwr7_p4l7SyoUQ3ZscNUWwWn-1fI1cSE7eOotps5RFpc6JkI",
-        "source": "beIN SPORTS"
+        "url": "https://www.footboom1.com/en/news/football/2169028-santi-gimenez-scores-his-second-goal-in-the-current-champions-league",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ1mB_RyOxJkKofH6Lcr62jA82Kz1_kKxIh6BFv3GuSFGGhtpqiAGhMtSRlkk",
+        "source": "FootBoom"
       },
       {
-        "title": "Where to watch RB Salzburg vs. Paris Saint-Germain: UEFA Champions League free live stream",
+        "title": "UCL Report and quotes: Priske delighted as Feyenoord beat Sparta Prague 4-2",
         "snippet": "",
-        "url": "https://www.masslive.com/tv/2024/12/where-to-watch-rb-salzburg-vs-paris-saint-germain-uefa-champions-league-free-live-stream.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5pY1e61hotRC5agaN9Dt8Z4PuzdBZ3ZANI3UnnDd61enaBbJtLB1cdknaHT4",
-        "source": "MassLive.com"
+        "url": "https://onefootball.com/en/news/ucl-report-and-quotes-priske-delighted-as-feyenoord-beat-sparta-prague-4-2-40429395",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtFcaeo1vzJwaPOiTLnpAxJwgwXRsjto325bn1tObR0P8_5GAo6kNdPMx5A8",
+        "source": "OneFootball"
       }
     ]
   },
   {
-    "title": "ار بي ليبزيج ضد أستون فيلا",
+    "title": "كورة",
     "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 13:40:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5jigOt3IG5YTE-nMNscbtZsIW6O-WkGnkBmeg3AXXptGRhQNyz5LnGnbZn7E",
-    "picture_source": "beIN SPORTS",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRngbeANt72d03oktGmNd1YFskZ4E__2VFDvlCBBQK41CQ0SiLhqbGtjQ1DaQY",
+    "picture_source": "النهار أونلاين",
     "news_items": [
       {
-        "title": "أستون فيلا يعود بالنقاط الثلاث من ملعب لايبتسيغ",
+        "title": "بالصور.. عصاد ضيف شرف في اختتام دورة \"كاف برو\"",
         "snippet": "",
-        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D8%A3%D8%B3%D8%AA%D9%88%D9%86-%D9%81%D9%8A%D9%84%D8%A7-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A8%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B7-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB-%D9%85%D9%86-%D9%85%D9%84%D8%B9%D8%A8-%D9%84%D8%A7%D9%8A%D8%A8%D8%AA%D8%B3%D9%8A%D8%BA-2024-12-10",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5jigOt3IG5YTE-nMNscbtZsIW6O-WkGnkBmeg3AXXptGRhQNyz5LnGnbZn7E",
-        "source": "beIN SPORTS"
+        "url": "https://www.ennaharonline.com/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%B9%D8%B5%D8%A7%D8%AF-%D8%B6%D9%8A%D9%81-%D8%B4%D8%B1%D9%81-%D9%81%D9%8A-%D8%A7%D8%AE%D8%AA%D8%AA%D8%A7%D9%85-%D8%AF%D9%88%D8%B1%D8%A9-%D9%83%D8%A7%D9%81/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRngbeANt72d03oktGmNd1YFskZ4E__2VFDvlCBBQK41CQ0SiLhqbGtjQ1DaQY",
+        "source": "النهار أونلاين"
       },
       {
-        "title": "خيبة الأمل تسيطر على لايبزيج بعد توديع دوري الأبطال",
+        "title": "انطلاق أشغال الوحدة 12 للحصول على شهادة \"كاف بور\"",
         "snippet": "",
-        "url": "https://www.kooora.com/?n=1374127",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDPZCaoFdY7GIpfaSwwHWm-UdvzY-0NOj91iB3GFpyjckaiFdV5n00QPvTTA",
+        "url": "https://www.echaab.dz/2024/12/08/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D8%B4%D8%BA%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A9-12-%D9%84%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%B4%D9%87%D8%A7%D8%AF%D8%A9/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg8MGRPG_nnnKt-WP_SKzMflR4e19eqm15lBdk3hmU54Cc0IeyJlLkCcNYp44",
+        "source": "الشعب أونلاين"
+      },
+      {
+        "title": "بالصور.. عصاد ضيف شرف في اختتام دورة “كاف برو” - نايس كورة",
+        "snippet": "",
+        "url": "https://news.nicekoora.com/uncategorized-khabrgadid/78727",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy_QO6spIpluvWTps2XrROuwHTTIETD-d6wPMMQfY67Ly6FFXoRpGXxfOlK8A",
+        "source": "نايس كورة"
+      }
+    ]
+  },
+  {
+    "title": "ترتيبات دوري أبطال أوروبا",
+    "link": "https://trends.google.com/trending/rss?geo=LY",
+    "pubdate": "Wed, 11 Dec 2024 13:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_XDz3zxbAp3d8yakkEA4Lf8LNEjkvd6QbizqET2vto93x-W4isB_Y1rOdFh0",
+    "picture_source": "كووورة: الموقع العربي الرياضي الأول",
+    "news_items": [
+      {
+        "title": "بالصور.. ليفركوزن يقتل إنتر ويخطف وصافة الأبطال",
+        "snippet": "",
+        "url": "https://www.kooora.com/?n=1374088",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_XDz3zxbAp3d8yakkEA4Lf8LNEjkvd6QbizqET2vto93x-W4isB_Y1rOdFh0",
         "source": "كووورة: الموقع العربي الرياضي الأول"
       },
       {
-        "title": "أول فريق يودع رسميًا دوري أبطال أوروبا 2024/2025 - نايس كورة",
+        "title": "ليفركوزن يُسقط إنتر في اللحظات الأخيرة",
         "snippet": "",
-        "url": "https://news.nicekoora.com/uncategorized-yallashoot/76952",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0WVh10rdthuTVegXVdbAS9KVIc_RXQi9RbFhKT41-VBkWNtbMpDpvpExWSA",
-        "source": "نايس كورة"
+        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D9%84%D9%8A%D9%81%D8%B1%D9%83%D9%88%D8%B2%D9%86-%D9%8A-%D8%B3%D9%82%D8%B7-%D8%A5%D9%86%D8%AA%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-2024-12-10",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJrjSsUrSbtXqp015m9aSz6Tkh4pBJTu9RD1LV2ouMSRuO59j_V_WqAZRsSQ",
+        "source": "beIN SPORTS"
+      },
+      {
+        "title": "باير ليفركوزن يخطف الإنتر بهدف قاتل فى دورى أبطال أوروبا.. فيديو",
+        "snippet": "",
+        "url": "https://www.youm7.com/story/2024/12/11/%D8%A8%D8%A7%D9%8A%D8%B1-%D9%84%D9%8A%D9%81%D8%B1%D9%83%D9%88%D8%B2%D9%86-%D9%8A%D8%AE%D8%B7%D9%81-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1-%D8%A8%D9%87%D8%AF%D9%81-%D9%82%D8%A7%D8%AA%D9%84-%D9%81%D9%89-%D8%AF%D9%88%D8%B1%D9%89-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/6807470",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6wIvuG6dwmTaiCOsCacBJffpgKEjkdSIdwlOoZFigOilvrwfBy9hgY11a5t0",
+        "source": "اليوم السابع"
       }
     ]
   },
   {
     "title": "يلا كوره",
     "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 12:30:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFSU1tctb77LQB70vsnThxncgFel_ZPYUepLG1D6jN7Ul0cy3rD9Sbi0Zm3G0",
-    "picture_source": "beIN SPORTS",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2dznh5LLi20_sjlHgsbVBRR7KZTOJdXjBJSdb4-1VBeW20M0knNm3_Ga5g6M",
+    "picture_source": "كووورة: الموقع العربي الرياضي الأول",
     "news_items": [
       {
-        "title": "وصول بعثة بوتافوغو إلى العاصمة القطرية الدوحة",
+        "title": "كووورة يكشف عن جهاز الزمالك المؤقت بعد رحيل جوميز",
         "snippet": "",
-        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D9%88%D8%B5%D9%88%D9%84-%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A8%D9%88%D8%AA%D8%A7%D9%81%D9%88%D8%BA%D9%88-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9-2024-12-10",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFSU1tctb77LQB70vsnThxncgFel_ZPYUepLG1D6jN7Ul0cy3rD9Sbi0Zm3G0",
-        "source": "beIN SPORTS"
+        "url": "https://www.kooora.com/?n=1374315",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2dznh5LLi20_sjlHgsbVBRR7KZTOJdXjBJSdb4-1VBeW20M0knNm3_Ga5g6M",
+        "source": "كووورة: الموقع العربي الرياضي الأول"
       },
       {
-        "title": "باتشوكا: نتمنى مواجهة الأهلي في إنتركونتيننتال.. وما يفعله طاهر محمد يثير اهتمامنا",
+        "title": "تأهيل شيكابالا والمثلوثى وماهر وعبد الشافى فى أول مران بالزمالك بعد رحيل جوميز",
         "snippet": "",
-        "url": "https://www.yallakora.com/fifa-intercontinental-cup/2903/news/492260/%D8%A8%D8%A7%D8%AA%D8%B4%D9%88%D9%83%D8%A7-%D9%86%D8%AA%D9%85%D9%86%D9%89-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%81%D9%8A-%D8%A5%D9%86%D8%AA%D8%B1%D9%83%D9%88%D9%86%D8%AA%D9%8A%D9%86%D9%86%D8%AA%D8%A7%D9%84-%D9%88%D9%85%D8%A7-%D9%8A%D9%81%D8%B9%D9%84%D9%87-%D8%B7%D8%A7%D9%87%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85%D9%86%D8%A7",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYL6J3JV3ov1ih2iAi6XWAqnXUej2ORzvf4RlnvO4QGNyfgqKTfLnCtgVel0",
-        "source": "يلاكورة الموقع الرياضى الأول فى الشرق الأوسط"
+        "url": "https://m2.youm7.com/story/2024/12/12/%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D8%B4%D9%8A%D9%83%D8%A7%D8%A8%D8%A7%D9%84%D8%A7-%D9%88%D8%A7%D9%84%D9%85%D8%AB%D9%84%D9%88%D8%AB%D9%89-%D9%88%D9%85%D8%A7%D9%87%D8%B1-%D9%88%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D9%89-%D9%81%D9%89-%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83/6809166",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwH-32KsnbKmXkXdTR1y8Enwa850QqZgQAyhr7zzojGBTVY1F3F5S9xNNZuk",
+        "source": "اليوم السابع"
       },
       {
-        "title": "موعد والقنوات الناقلة لمباراة بوتافوجو وباتشوكا اليوم في كأس الإنتركونتيننتتال.. والمعلق",
+        "title": "خالد الغندور: مجلس الزمالك يرفض فكرة التعاقد مع مدرب مصري لقيادة الفريق | المصري اليوم",
         "snippet": "",
-        "url": "https://www.btolat.com/news/359280",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUsbFO6raiYLoB-Ek96tMJ3Q9dfN7asJgmpUY4WHnc7Jf55vW0ykZ0w0WnNBo",
-        "source": "بطولات"
+        "url": "https://www.akhbarak.net/news/details/46778136/3/%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D8%AF%D9%88%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%8A%D8%B1%D9%81%D8%B6-%D9%81%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%82%D8%AF-%D9%85%D8%B9-%D9%85%D8%AF%D8%B1%D8%A8-%D9%85%D8%B5%D8%B1%D9%8A-%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HjQ_2uFnSKVHsxH-H_VJJoD0LDUore3Dzn9gS5kzFuvfrj8pPlJtXgKvtB4",
+        "source": "اخبارك نت"
       }
     ]
   },
   {
-    "title": "real madrid",
+    "title": "juventus vs man city",
     "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 12:10:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXhzY14dapCO4GCP24Jynq5yNBXFl4jHIg_KPrDecrteuiSvvrwIyM5s9UON8",
-    "picture_source": "Visión 360",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1rm7-PixVq_GPZUYFsTCGi53MEf-CXyFX9H8uRrb0_qv1nGsmOVl5xu8v6sU",
+    "picture_source": "BT Sport",
     "news_items": [
       {
-        "title": "Vinicius Junior y Bellingham reviven al Real madrid",
+        "title": "‘He’s already tired’ – Cole, Laurens question if Guardiola is ‘right guy' for Man City 'rebuild'",
         "snippet": "",
-        "url": "https://www.vision360.bo/noticias/2024/12/10/16601-vinicius-junior-y-bellingham-reviven-al-real-madrid",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXhzY14dapCO4GCP24Jynq5yNBXFl4jHIg_KPrDecrteuiSvvrwIyM5s9UON8",
-        "source": "Visión 360"
+        "url": "https://www.tntsports.co.uk/football/champions-league/2024-2025/joe-cole-julien-laurens-question-if-pep-guardiola-is-right-guy-for-manchester-city-rebuild-hes-already-tired_sto20062213/story.shtml",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1rm7-PixVq_GPZUYFsTCGi53MEf-CXyFX9H8uRrb0_qv1nGsmOVl5xu8v6sU",
+        "source": "BT Sport"
       },
       {
-        "title": "Poesía para los oídos madridistas, así fue la narración de Rac-1 del fallo de Retegui en el 93’",
+        "title": "Man City crisis deepens with loss to Juventus in Champions League as Barcelona and Arsenal triumph",
         "snippet": "",
-        "url": "https://www.realmadridexclusivo.com/lo-mas-visto/poesia-oidos-madridistas-fue-narracion-rac-1-fallo-retegui-en-93_165496_102.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJkTwXDdXW0B15lgApSbaYYlbcIhBEl55L7_sXGTTW9KQPucV4bMqGU-V4FqI",
-        "source": "Real Madrid Exclusivo"
+        "url": "https://www.arabnews.com/node/2582744/sport",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNfffTox4V7o-5ZQBBy7lq4bKVZWigWKgLN7n9elVKKHIBDYrpP-V-GJnJ5fM",
+        "source": "Arab News"
       },
       {
-        "title": "Calificaciones de la 6.ª jornada de la CL: Brahim mágico, Tchouaméni tembloroso",
+        "title": "“Do better” – Ruben Dias simplifies crucial demands of Manchester City teammates after Juventus defeat",
         "snippet": "",
-        "url": "https://www.realtotal.de/es/noten-zum-6-cl-spieltag-brahim-magisch-tchouameni-wackelig/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7-vHEqW8XB85XasOJ4eMSSamkQutiycVpbM64Vw_odXlAkWZ4cybn5eCiCI",
-        "source": "real total"
+        "url": "https://onefootball.com/id/berita/do-better-ruben-dias-simplifies-crucial-demands-of-manchester-city-teammates-after-juventus-defeat-40429055",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjI7_RVSL8NERzr6-Gwto6zdNHooMP6C43vXNLr0ex34xztASsRxO619d4qMk",
+        "source": "OneFootball"
       }
     ]
   },
   {
     "title": "الاسطورة",
     "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 12:10:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 12:10:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEeZ6UtRCtJmsqRuQ911euHuzTzn8Hp1Q98GB-Njz5IMp-vK9MrFbLhxdcFvc",
-    "picture_source": "سعودي اوتو",
-    "news_items": [
-      {
-        "title": "لماذا قررت جنرال موتورز وقف إنتاج شيفروليه كامارو الأسطورة بعد 2024؟",
-        "snippet": "",
-        "url": "https://saudiauto.com.sa/%D9%88%D9%82%D9%81-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D8%A9-%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%84%D9%8A%D9%87-%D9%83%D8%A7%D9%85%D8%A7%D8%B1%D9%88/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEeZ6UtRCtJmsqRuQ911euHuzTzn8Hp1Q98GB-Njz5IMp-vK9MrFbLhxdcFvc",
-        "source": "سعودي اوتو"
-      }
-    ]
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
   },
   {
-    "title": "ريد بول سالزبورغ ضد بي اس جي",
+    "title": "dortmund – barcelone",
     "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 12:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRirq6u-xuwAbOkVvGpg5ToiMOXRNGzHtEVfGVQKcojCplCJ5SlIs6KR2bqRl0",
-    "picture_source": "كووورة: الموقع العربي الرياضي الأول",
+    "pubdate": "Wed, 11 Dec 2024 12:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrDAmRwZrK24WsPmZw472j90yQPkpr4vUnJ3YKZarMiAscpqU7_nFFwHP0Lg",
+    "picture_source": "Foot Mercato",
     "news_items": [
       {
-        "title": "الخليفي يهدد مانشستر سيتي برسالة قوية",
+        "title": "Ligue des Champions : le FC Barcelone s’offre Dortmund dans un match fou et la 2e place, la Juventus enfonce Manchester City dans la galère",
         "snippet": "",
-        "url": "https://www.kooora.com/?n=1374111",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRirq6u-xuwAbOkVvGpg5ToiMOXRNGzHtEVfGVQKcojCplCJ5SlIs6KR2bqRl0",
-        "source": "كووورة: الموقع العربي الرياضي الأول"
+        "url": "https://www.footmercato.net/a925558042732807645-ligue-des-champions-le-fc-barcelone-soffre-dortmund-dans-un-match-fou-et-la-2e-place-la-juventus-enfonce-manchester-city-dans-la-galere",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrDAmRwZrK24WsPmZw472j90yQPkpr4vUnJ3YKZarMiAscpqU7_nFFwHP0Lg",
+        "source": "Foot Mercato"
       },
       {
-        "title": "فوز ثمين لباريس سان جيرمان على زالتسبورغ",
+        "title": "PSG -Man City, Guardiola lance les hostilités !",
         "snippet": "",
-        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D9%81%D9%88%D8%B2-%D8%AB%D9%85%D9%8A%D9%86-%D9%84%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D8%B3%D8%A7%D9%86-%D8%AC%D9%8A%D8%B1%D9%85%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%B2%D8%A7%D9%84%D8%AA%D8%B3%D8%A8%D9%88%D8%B1%D8%BA-2024-12-10",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA_B1OL2J7wmXUF60-Kc3EcTk71Kyq2AzFVDpNAgEKjt2pZ6ksxP3IyXnCKEM",
-        "source": "beIN SPORTS"
+        "url": "https://www.football365.fr/psg-man-city-guardiola-lance-les-hostilites-10217375.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2I8IWSsHZU4tf6QZDFSw2T1ojzNhD9v32AT49ppM_nOFyT_5Se6vKtF1QNPs",
+        "source": "Football365"
       },
       {
-        "title": "دوري أبطال أوروبا: باريس سان جرمان يتخطى سالزبورغ وريال مدريد يهزم أتالانتا ويخسر مبابي",
+        "title": "Les déclarations de Thiago Motta et Dusan Vlahovic après la victoire contre Manchester City",
         "snippet": "",
-        "url": "https://www.france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20241211-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D8%B3%D8%A7%D9%86-%D8%AC%D8%B1%D9%85%D8%A7%D9%86-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%A2%D9%85%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D9%84-%D9%81%D9%88%D8%B2-%D8%B9%D9%84%D9%89-%D8%B3%D8%A7%D9%84%D8%B2%D8%A8%D9%88%D8%B1%D8%BA-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D9%81%D9%88%D8%B2-%D9%8A%D8%AE%D8%B3%D8%B1-%D9%85%D8%A8%D8%A7%D8%A8%D9%8A",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfX1nF8xxSCYuZTWhGS1ebW9JnGEvCQ8X_aaRss_Wc9XWd6SbE-qpeXSwE3Xk",
-        "source": "France 24"
-      }
-    ]
-  },
-  {
-    "title": "atalanta – real madrid",
-    "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 11:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbF-5vn_0O__u_uc2v0tQ_ywbZKNXl61CuV8RV9v3UrjblADBE6mlT60Q3uk",
-    "picture_source": "Real Madrid CF",
-    "news_items": [
-      {
-        "title": "Mendy medical report",
-        "snippet": "",
-        "url": "https://www.realmadrid.com/en-US/news/football/first-team/medical-reports/parte-medico-de-mendy-08-12-2024",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbF-5vn_0O__u_uc2v0tQ_ywbZKNXl61CuV8RV9v3UrjblADBE6mlT60Q3uk",
-        "source": "Real Madrid CF"
-      },
-      {
-        "title": "Another Real Madrid star suffered muscle discomfort during Atalanta showdown",
-        "snippet": "",
-        "url": "https://madriduniversal.com/another-real-madrid-star-suffered-muscle-discomfort-during-atalanta-showdown/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnbVEbNgbaZX7hXLk6mFk4DgaEsPi_dJMe7PRGof1XfZXlEsxeuoMGuneBfEw",
-        "source": "Madrid Universal"
-      },
-      {
-        "title": "Ancelotti gives the all-clear for Bellingham - but announces Mendy's absence",
-        "snippet": "",
-        "url": "https://www.realtotal.de/en/carlo-ancelotti-pk-girona-vs-real-madrid-la-liga-2024-25/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb0evFHuIX1wTM0Xent8TPwGUlLbpVdkiGeSBHZy1vzx2Cw9NJ08u6R0uvQxs",
-        "source": "real total"
-      }
-    ]
-  },
-  {
-    "title": "شاختار ضد البايرن",
-    "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1nrUuIovB0z_df9uGKy60u0Z8-K9KoYPCgI8P4CMrCiuwSmtzPcSqg1x0MqU",
-    "picture_source": "كووورة: الموقع العربي الرياضي الأول",
-    "news_items": [
-      {
-        "title": "مولر: نملك مهاجمين سحرة.. ولقطة \"الإنقاذ\" أفضل من الهدف",
-        "snippet": "",
-        "url": "https://www.kooora.com/?n=1374119",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1nrUuIovB0z_df9uGKy60u0Z8-K9KoYPCgI8P4CMrCiuwSmtzPcSqg1x0MqU",
-        "source": "كووورة: الموقع العربي الرياضي الأول"
-      },
-      {
-        "title": "بايرن ميونخ يكتسح شاختار بخماسية مقابل هدف في دوري الابطال",
-        "snippet": "",
-        "url": "https://hihi2.com/2024/12/11/p2975707.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf3_WBpSPnHx6V42X9TWKNAOWqjShf3omjUnGc-d4Eh2HCwxZ10986IwZgCZw",
-        "source": "هاي كورة"
-      },
-      {
-        "title": "الفرنسي أوليز يعزف منفرداً على طريقة ميسي | صحيفة الخليج",
-        "snippet": "",
-        "url": "https://www.alkhaleej.ae/2024-12-11/%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D8%A3%D9%88%D9%84%D9%8A%D8%B2-%D9%8A%D8%B9%D8%B2%D9%81-%D9%85%D9%86%D9%81%D8%B1%D8%AF%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D9%85%D9%8A%D8%B3%D9%8A/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%AF%D9%88%D9%84%D9%8A/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToKuZ91J3ZEm3rG_6Bz7GPJREz59HFaaYhQZjNSE7kyTCKb4B3K3oOwvi4HEQ",
-        "source": "صحيفة الخليج"
-      }
-    ]
-  },
-  {
-    "title": "atalanta vs real madrid",
-    "link": "https://trends.google.com/trending/rss?geo=LY",
-    "pubdate": "Tue, 10 Dec 2024 11:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
-    "picture_source": "beIN SPORTS",
-    "news_items": [
-      {
-        "title": "Real Madrid revive Champions League title defence with win at spirited Atalanta",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/real-madrid-revive-champions-league-title-defence-with-win-at-spirited-atalanta-2024-12-10",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "Rodrygo: \"We made the most of our chances when we were in space\"",
-        "snippet": "",
-        "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/rodrygo-ha-sido-una-victoria-muy-importante-hemos-trabajado-bien-10-12-2024",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6f-gljgRYcefEfUJ62UuALMel-CY944LCQzf4DuPzlOW1huCIAJ4iTaAW_k",
-        "source": "Real Madrid CF"
-      },
-      {
-        "title": "'Should have won the Ballon d'Or!' - Jude Bellingham hailed as 'best player in the world' after 'monstrous' display for Real Madrid vs Atalanta",
-        "snippet": "",
-        "url": "https://www.goal.com/en-ae/lists/should-have-won-ballon-d-or-jude-bellingham-hailed-best-player-in-world-monstrous-display-real-madrid-atalanta/blt60c8ebdcf37b9a6a",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIsBo_dQqvMWH9ateAlHEATYFjT4I2kTJxLQcb9jTN6TAGnluAcWG8IQ3f2YA",
-        "source": "Goal.com"
+        "url": "https://onefootball.com/es/noticias/les-declarations-de-thiago-motta-et-dusan-vlahovic-apres-la-victoire-contre-manchester-city-40428730",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRmmKTp2k0abQiZ9PE727rYXkQUKD13HYkqv9qc_IHGhJN6Cd2-44-LlLbR9U",
+        "source": "OneFootball"
       }
     ]
   }

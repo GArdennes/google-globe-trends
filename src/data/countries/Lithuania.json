@@ -1,187 +1,280 @@
 [
   {
-    "title": "andrius bagdonas",
+    "title": "benny blanco",
     "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Wed, 11 Dec 2024 03:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKWGfHy6eQud8kLe8is5yT0S4Ax3IZtaEgEZnYekhOGp3ClwTpBocQAjg-jLI",
-    "picture_source": "LRT",
+    "pubdate": "Wed, 11 Dec 2024 23:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
+    "picture_source": "People.com",
     "news_items": [
       {
-        "title": "Bagdonas sureagavo į prašymą naikinti jo teisinę neliečiamybę: esu nustebęs",
+        "title": "Selena Gomez and Benny Blanco Are Engaged: 'Forever Begins Now'",
         "snippet": "",
-        "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2436642/bagdonas-sureagavo-i-prasyma-naikinti-jo-teisine-nelieciamybe-esu-nustebes",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKWGfHy6eQud8kLe8is5yT0S4Ax3IZtaEgEZnYekhOGp3ClwTpBocQAjg-jLI",
-        "source": "LRT"
+        "url": "https://people.com/selena-gomez-benny-blanco-are-engaged-married-8661420",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
+        "source": "People.com"
       },
       {
-        "title": "Generalinė prokurorė inicijuoja Seimo nario Bagdono teisinės neliečiamybės \npanaikinimą",
+        "title": "Selena Gomez announces engagement to record producer Benny Blanco",
         "snippet": "",
-        "url": "https://www.delfi.lt/news/lithuania/generaline-prokurore-inicijuoja-seimo-nario-bagdono-teisines-nelieciamybes-panaikinima-120071413",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVBa71DhU2X8rG2a4l-eydOIw8cHte7QzP-ecZziOnqZORLZKpT3H0jlpTeHc",
-        "source": "Delfi"
+        "url": "https://www.foxnews.com/entertainment/selena-gomez-announces-engagement-record-producer-benny-blanco",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedrjVKRELNCEDimTOLRZWjMpqkga79wfrQJU_UaQ1ZuxTht-KNUpOX09U2OY",
+        "source": "Fox News"
       },
       {
-        "title": "„Čekiukų“ skandale atsidūręs A.Bagdonas įvardijo, dėl ko teisėsauga pradėjo \ntyrimą jo atžvilgiu",
+        "title": "Selena Gomez engaged to boyfriend Benny Blanco after a year of dating — and \nTaylor Swift agrees to role at wedding",
         "snippet": "",
-        "url": "https://www.15min.lt/naujiena/aktualu/lietuva/cekiuku-skandale-atsidures-a-bagdonas-ivardijo-del-ko-teisesauga-pradejo-tyrima-jo-atzvilgiu-56-2359206",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTsa5hj0z23IiCPveqz221cx0nOwze9bYG5H_warOQla6PI5y150FDwjqEw64",
-        "source": "15min.lt"
+        "url": "https://nypost.com/2024/12/12/entertainment/selena-gomez-engaged-to-boyfriend-benny-blanco-as-taylor-swift-agrees-to-be-flower-girl/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyslhkg6FynQPUM2z_bp1i_JOmrgrrhaqidkrhe3FCQqYvP-8E-lt-z8r3UPY",
+        "source": "New York Post"
+      }
+    ]
+  },
+  {
+    "title": "gemini",
+    "link": "https://trends.google.com/trending/rss?geo=LT",
+    "pubdate": "Wed, 11 Dec 2024 16:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
+    "picture_source": "Google Blog",
+    "news_items": [
+      {
+        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
+        "snippet": "",
+        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Here’s How You Can Try Google’s Project Astra (Kind of)",
+        "snippet": "",
+        "url": "https://beebom.com/how-you-can-try-google-project-astra-stream-realtime/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfjyOGRCPM1mfaFNLYO0sKGINnnvW39kYqNyFpQ84GWqOcNrA34FFTYh6nXl8",
+        "source": "Beebom"
+      },
+      {
+        "title": "I just put Gemini 2.0 vs Gemini 1.5 head to head — here's how much better the upgrade is",
+        "snippet": "",
+        "url": "https://www.tomsguide.com/ai/google-gemini/i-just-put-gemini-2-0-vs-gemini-1-5-head-to-head-heres-how-much-better-the-upgrade-is",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeUGiw-TNcGomdR-JuqNzvSYfiuAZFwJQ-mXErO6lcB5MAes1_BA74YRJ8O7I",
+        "source": "Tom's Guide"
+      }
+    ]
+  },
+  {
+    "title": "chatgpt",
+    "link": "https://trends.google.com/trending/rss?geo=LT",
+    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+    "picture_source": "CNBC",
+    "news_items": [
+      {
+        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+        "source": "CNBC"
+      },
+      {
+        "title": "ChatGPT is down: What happened and when will it be back?",
+        "snippet": "",
+        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
+        "source": "Diario AS"
+      },
+      {
+        "title": "ChatGPT back online after global outage",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
+        "source": "Times of India"
       }
     ]
   },
   {
     "title": "champions league",
     "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Tue, 10 Dec 2024 14:20:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
-    "picture_source": "beIN SPORTS",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSN2NOIIVjYnhPOLGubR7hLVkPT1jx8v39OVwfsg1rf69a9_JdDPbXt3YG7feo",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Real Madrid revive Champions League title defence with win at spirited \nAtalanta",
+        "title": "Champions League LIVE: Arsenal 3-0 Monaco & Juventus 2-0 Manchester City - report, scores, radio & text",
         "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/real-madrid-revive-champions-league-title-defence-with-win-at-spirited-atalanta-2024-12-10",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
-        "source": "beIN SPORTS"
+        "url": "https://www.bbc.com/sport/football/live/c20gjqz1g7et",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSN2NOIIVjYnhPOLGubR7hLVkPT1jx8v39OVwfsg1rf69a9_JdDPbXt3YG7feo",
+        "source": "BBC"
       },
       {
-        "title": "Atalanta - Real Madrid Live - Champions League: Football Scores & \nHighlights - 10/12/2024",
+        "title": "5️⃣ things we learned from Wednesday's UCL action",
         "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-atalanta-real-madrid_mtc1525372/live-commentary.shtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSADbxgB8RAJHccFY4iSOMu5OY4c-2b4cwcnnCtXKra9EUr0_uPmvxZlDkSErg",
-        "source": "Eurosport"
-      },
-      {
-        "title": "Rodrygo: \"We made the most of our chances when we were in space\"",
-        "snippet": "",
-        "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/rodrygo-ha-sido-una-victoria-muy-importante-hemos-trabajado-bien-10-12-2024",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6f-gljgRYcefEfUJ62UuALMel-CY944LCQzf4DuPzlOW1huCIAJ4iTaAW_k",
-        "source": "Real Madrid CF"
-      }
-    ]
-  },
-  {
-    "title": "real madrid",
-    "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Tue, 10 Dec 2024 12:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
-    "picture_source": "Marca.com",
-    "news_items": [
-      {
-        "title": "Atalanta - Real Madrid: resumen, resultado y goles",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/champions-league/atalanta-r-madrid/2024/12/10/01_0103_20241210_456_186-directo.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
-        "source": "Marca.com"
-      },
-      {
-        "title": "La ‘BMV’ quiere la Champions",
-        "snippet": "",
-        "url": "https://onefootball.com/fr/news/la-bmv-quiere-la-champions-40425269",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX-JcozUJ8BxnVqdUPkgdsHwRlgOAgj4rTXFjNwANSiIKvSdd-4xsMkc5jzPo",
+        "url": "https://onefootball.com/en/news/5-things-we-learned-from-wednesdays-ucl-action-40427676",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDuwqNgtifEkpixSZLlRvYnkfb3eif4BBsb4jsvnAj3IaZJJ5-XfN6rhgKCnQ",
         "source": "OneFootball"
       },
       {
-        "title": "Poesía para los oídos madridistas, así fue la narración de Rac-1 del fallo \nde Retegui en el 93’",
+        "title": "UCL: Manchester City’s Struggles Continue, Arsenal, Barcelona Win",
         "snippet": "",
-        "url": "https://www.realmadridexclusivo.com/lo-mas-visto/poesia-oidos-madridistas-fue-narracion-rac-1-fallo-retegui-en-93_165496_102.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJkTwXDdXW0B15lgApSbaYYlbcIhBEl55L7_sXGTTW9KQPucV4bMqGU-V4FqI",
-        "source": "Real Madrid Exclusivo"
+        "url": "https://www.theheritagetimes.com/ucl-manchester-citys-struggles-continue-arsenal-barcelona-win/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQywGSCrCq3uiOH2y3VO9psOLSGr7xEQL0gPEmXQ_wlfTLXtbKqohNneTCRE4g",
+        "source": "The Heritage Times"
       }
     ]
   },
   {
-    "title": "natalija bunkė",
+    "title": "„mažeikių m basket“ prieš „jonavos „cbet““",
     "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Tue, 10 Dec 2024 10:30:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXzlU2JGFcx-myvRr0QAzXg2yaEGCyfGXffwltapQ1Pdi3MwRRj9Y3moo1SdM",
-    "picture_source": "Lrytas",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1AjVskB7kDnRpdjtBbxePGCb2Gaa6f_NWXhhZDhNloCC9OD3yl9VUSKwPaiQ",
+    "picture_source": "LRT",
     "news_items": [
       {
-        "title": "Natalija Bunkė – apie sprendimą daugiau nebeturėti vaikų: „Aš juose matau \ntik minusus“",
+        "title": "Mažeikių klubas pasirodymą KMT baigė pergale prieš „CBet“",
         "snippet": "",
-        "url": "https://www.lrytas.lt/zmones/tv-antena/2024/12/10/news/natalija-bunke-apie-sprendima-nebetureti-vaiku-as-juose-matau-tik-minusus--35576638",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXzlU2JGFcx-myvRr0QAzXg2yaEGCyfGXffwltapQ1Pdi3MwRRj9Y3moo1SdM",
+        "url": "https://www.lrt.lt/naujienos/sportas/10/2436861/mazeikiu-klubas-pasirodyma-kmt-baige-pergale-pries-cbet",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1AjVskB7kDnRpdjtBbxePGCb2Gaa6f_NWXhhZDhNloCC9OD3yl9VUSKwPaiQ",
+        "source": "LRT"
+      },
+      {
+        "title": "Įrodymas, kad Bronny Jamesas netempia nė G lygos lygio",
+        "snippet": "",
+        "url": "https://www.basketnews.lt/srautas/218172-irodymas-kad-bronny-jamesas-netempia-ne-g-lygos-lygio.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEbjxXR__jp9WJL8KZJJ1gjGz-xo9zxudHEyt63Na95yWfaQzSSGhZfeTqEo0",
+        "source": "BasketNews.lt"
+      },
+      {
+        "title": "Mažeikių klubas pasirodymą KMT baigė pergale prieš „CBet“",
+        "snippet": "",
+        "url": "https://www.lrytas.lt/sportas/krepsinis/2024/12/11/news/mazeikiu-klubas-pasirodyma-kmt-baige-pergale-pries-cbet--35604175",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFQ2p4zGwH0NFrPu-fne43Ftpod_sAM31PapACwK94JOH8dhUs-ebR3kgY-ms",
         "source": "Lrytas"
-      },
-      {
-        "title": "Natalija Bunkė – apie sprendimą nebeturėti vaikų: aš juose matau tik minusus",
-        "snippet": "",
-        "url": "https://www.delfi.lt/veidai/eteris/natalija-bunke-apie-sprendima-nebetureti-vaiku-as-juose-matau-tik-minusus-120071176",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOVY8z8pIy56Kyg0Ld4vrLf1imeRKoAjdoEyr-Rsv2D_pig4YfR_hqM4TWEhI",
-        "source": "Delfi"
-      },
-      {
-        "title": "Natalija Bunkė prabilo apie sprendimą nebeturėti vaikų: „Aš juose matau tik \nminusus“",
-        "snippet": "",
-        "url": "https://www.15min.lt/zmones/naujiena/lietuva/natalija-bunke-prabilo-apie-sprendima-nebetureti-vaiku-as-juose-matau-tik-minusus-1050-2358452",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxvA9nMERuCI8GOMgbB4VpAfXjudOY6es7N1x_lF0kzo21SBlf_Pa-4mKZHRQ",
-        "source": "15min.lt"
       }
     ]
   },
   {
-    "title": "„girona“ prieš „liverpool“",
+    "title": "facebook",
     "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Tue, 10 Dec 2024 10:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoQkgMlpNb_BmOJe0iPACeOWYeFSOHoBX0VcZBUbiCHA7js8CqJGJr-vVxs4s",
+    "pubdate": "Wed, 11 Dec 2024 10:10:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
+    "picture_source": "Forbes",
+    "news_items": [
+      {
+        "title": "Facebook And Instagram Outage: Meta Says It’s ‘99% Of The Way’ To Being Fixed",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/mollybohannon/2024/12/11/facebook-and-instagram-outage-meta-says-its-99-of-the-way-to-being-fixed/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
+        "source": "Forbes"
+      },
+      {
+        "title": "The whole of Meta has broken",
+        "snippet": "",
+        "url": "https://www.independent.co.uk/tech/facebook-whatsapp-instagram-outage-meta-status-b2663043.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB9ZYyZh9p6KBOKE9NZzVbwIO293BXhEOvnM1kklBdqWoxLy5Rkw4QUVgotI",
+        "source": "The Independent"
+      },
+      {
+        "title": "Whatsapp and Instagram restored after Meta outages",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/c623jr6kxz2o",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRcqpbq_jzLKB2xmaCkr1pdGu88MTjs5R3OKHQe6O08QJNKX2r6m5gFp6TyZw",
+        "source": "BBC"
+      }
+    ]
+  },
+  {
+    "title": "eurocup",
+    "link": "https://trends.google.com/trending/rss?geo=LT",
+    "pubdate": "Wed, 11 Dec 2024 10:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5KnutJMULBzyiKxKi8IREL6XUpPEWlzrc3u5o7V-xzPXJJH-G_2xVyNMihoU",
     "picture_source": "Delfi",
     "news_items": [
       {
-        "title": "UEFA Čempionų lyga: „Liverpool“ toliau nebarsto taškų",
+        "title": "„7bet-Lietkabelis“ Europos taurėje iškovojo sensacingą pergalę",
         "snippet": "",
-        "url": "https://www.delfi.lt/sportas/futbolas/uefa-cempionu-lyga-liverpool-toliau-nebarsto-tasku-120071267",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoQkgMlpNb_BmOJe0iPACeOWYeFSOHoBX0VcZBUbiCHA7js8CqJGJr-vVxs4s",
+        "url": "https://www.delfi.lt/krepsinis/naujienos/7bet-lietkabelis-europos-taureje-iskovojo-sensacinga-pergale-120071570",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5KnutJMULBzyiKxKi8IREL6XUpPEWlzrc3u5o7V-xzPXJJH-G_2xVyNMihoU",
         "source": "Delfi"
       },
       {
-        "title": "„Liverpool“ futbolininkai ir toliau Čempionų lygoje skina tik pergales",
+        "title": "Dviguba „Lietkabelio“ sėkmė Europos taurėje: nutraukė prieš „Hapoel“ trijų pralaimėjimų seriją ir išvykoje triumfavo po metų pertraukos",
         "snippet": "",
-        "url": "https://www.lrytas.lt/sportas/futbolas/2024/12/10/news/-girona-cempionu-lygoje-siekia-sustabdyti-liverpool-futbolininkus-35585430",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVn3R-3rPoJWA6oTISFDdfzNhWL15ZH1EBRMhz9x1qtj3dp4VukRX07DUHuHM",
+        "url": "https://www.lrytas.lt/sportas/krepsinis/2024/12/11/news/panevezio-bandymas-nutraukti-pralaimejimu-serija-europos-taureje-hapoel-pries-lietkabeli--35599969",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ86tivMmYGgaoFoTpyoywlyTEUIickp3wrOxvD6j6R5gK1MevOlPBJ-gXcadA",
         "source": "Lrytas"
       },
       {
-        "title": "Lyderiai po pergalės dėkojo vartininkui",
+        "title": "Bulgarijoje pergalę šventęs „Lietkabelis“ nutraukė nesėkmingą atkarpą",
         "snippet": "",
-        "url": "https://www.respublika.lt/lt/naujienos/sportas/futbolas/lyderiai-po-pergales-dekojo-vartininkui/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGrau_LWzs6hc44OVVewDbF6Qn97aJnrdqTgOFgS8QgKZmuq_FFYZWQu5rtAs",
-        "source": "Respublika"
+        "url": "https://www.sportas.lt/naujiena/511598/europos-taure-hapoel-lietkabelis-gyvai",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTZCdA-5rYmfNueFpTTjYZA9jKHb_cIhwRU5X9IgMtJBtk_k8YS14aRaoRiwM",
+        "source": "Sportas.lt"
       }
     ]
   },
   {
-    "title": "poderskis",
+    "title": "messenger",
     "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Tue, 10 Dec 2024 06:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsWU8ReJpjUFF6H-KgxCahQ1n664XK-pbq7Iei8PL9eGRZb9QH5GfkLfa_-Kg",
-    "picture_source": "tv3.lt",
+    "pubdate": "Wed, 11 Dec 2024 10:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCE5XpZILtmnhhMjoUH8-NId49EY-_Uenbub5dIJKJ1kkELDheMR5EmDQerig",
+    "picture_source": "USA Today",
     "news_items": [
       {
-        "title": "Apie skandalingą praeitį – išskirtinis Tomo Kovėros interviu: „Tai yra pats \nblogiausias dalykas“",
+        "title": "FBI warns users to encrypt text messages for cybersecurity. Here's how to do it",
         "snippet": "",
-        "url": "https://www.tv3.lt/naujiena/lietuva/apie-skandalinga-praeiti-isskirtinis-tomo-koveros-interviu-tai-yra-pats-blogiausias-dalykas-n1384205",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsWU8ReJpjUFF6H-KgxCahQ1n664XK-pbq7Iei8PL9eGRZb9QH5GfkLfa_-Kg",
-        "source": "tv3.lt"
+        "url": "https://www.usatoday.com/story/tech/tips/2024/12/11/how-to-encrypt-text-messages/76923892007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCE5XpZILtmnhhMjoUH8-NId49EY-_Uenbub5dIJKJ1kkELDheMR5EmDQerig",
+        "source": "USA Today"
       },
       {
-        "title": "Mirusios Kovėros draugės giminaitė: ji buvo visa mėlyna, išmuštais dantimis",
+        "title": "Senators say US must boost security after Chinese Salt Typhoon telecom hacking",
         "snippet": "",
-        "url": "https://www.delfi.lt/news/lithuania/mirusios-koveros-drauges-giminaite-ji-buvo-visa-melyna-ismustais-dantimis-120071137",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WzgY61ZkzvXdnopSCNdCfuff1T139gMKiNqDNIuEB6KS1rOfUgpaVh62mZU",
+        "url": "https://www.reuters.com/technology/cybersecurity/senators-say-us-must-boost-security-after-chinese-salt-typhoon-telecom-hacking-2024-12-11/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQftqbtPd0ejs0W3vQV0g1_jFH80a1dG9OqpOKnD0j5_ELnpnuyVbabM0oH6zQ",
+        "source": "Reuters"
+      },
+      {
+        "title": "U.S. officials urge Americans to use encrypted apps amid cyberattack",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIK0oBGQ_9UYbCb9nhgN4K7iZMISg_S-JaLpLqO1Jc6DfMffZDTrsFTq8klU",
+        "source": "NBC News"
+      }
+    ]
+  },
+  {
+    "title": "rimantas mockus",
+    "link": "https://trends.google.com/trending/rss?geo=LT",
+    "pubdate": "Wed, 11 Dec 2024 07:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4E_geIR1um7f-dEyOhTcl0ZDNCLkN5mXicg9v1kHAocQ9UjFNoipUnhO6L9c",
+    "picture_source": "Delfi",
+    "news_items": [
+      {
+        "title": "Tragikomiška Vyriausybės formavimo pabaiga: chaosas už uždarų durų",
+        "snippet": "",
+        "url": "https://www.delfi.lt/news/politics/tragikomiska-vyriausybes-formavimo-pabaiga-chaosas-uz-uzdaru-duru-120071600",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4E_geIR1um7f-dEyOhTcl0ZDNCLkN5mXicg9v1kHAocQ9UjFNoipUnhO6L9c",
         "source": "Delfi"
       },
       {
-        "title": "T. Kovėra atsisakė būti kandidatu į aplinkos ministrus, siūlomas P. \nPoderskis",
+        "title": "Prezidentas paskyrė teisingumo ir aplinkos ministrus: suformuota G.Palucko Vyriausybė",
         "snippet": "",
-        "url": "https://www.vz.lt/statyba-ir-nt/2024/12/10/t-kovera-atsisake-buti-kandidatu-i-aplinkos-ministrus-siulomas-p-poderskis",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLljLRKFg-vw9ygp5skWd1zc9fOACQOL8FYUR9mjAYLKJzX9x8RjyMcPuyjrQ",
-        "source": "vz.lt"
+        "url": "https://www.15min.lt/naujiena/aktualu/lietuva/prezidentas-paskyre-teisingumo-ir-aplinkos-ministrus-suformuota-g-palucko-vyriausybe-56-2359354",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIOGGcdBDdBhZLiS-bam5CCYoIGv0KesdHq79iSG6cbG2D8eyS9gqUDugJ1Ts",
+        "source": "15min.lt"
+      },
+      {
+        "title": "V. Dumbliauskas apie Vyriausybės sudėtį: „Žmogus gali turėti solidžią biografiją, tačiau būti prastas ministras“",
+        "snippet": "",
+        "url": "https://www.bernardinai.lt/v-dumbliauskas-apie-vyriausybes-sudeti-zmogus-gali-tureti-solidzia-biografija-taciau-buti-prastas-ministras/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuM1mQ7bLeEj0SEv9AOg15kiX7ZunrhDxN5kdwD2nZp6-0g7eKLYWGsv0tSO0",
+        "source": "Bernardinai.lt"
       }
     ]
   }

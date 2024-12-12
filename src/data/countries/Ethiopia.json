@@ -1,311 +1,311 @@
 [
   {
-    "title": "outlook",
+    "title": "russian",
     "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Wed, 11 Dec 2024 03:20:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 02:10:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZRXnMISqI_YERhZTzlqcLM_t9hV6iJNiiicvVD79wrg7Ev_H3iZhMrSSFpE",
-    "picture_source": "CNN",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk5vLVB15rMCI1WOGxRJaZ8iX-cfQLMXUutelpfdD2p3SVAT0VzopCVfQJA5c",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Macy’s provides more details about that employee who hid more than $150 \nmillion worth of expenses",
+        "title": "Russian ships move from Syria base amid doubts over future",
         "snippet": "",
-        "url": "https://www.cnn.com/2024/12/11/business/macys-employee-expenses-earnings/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZRXnMISqI_YERhZTzlqcLM_t9hV6iJNiiicvVD79wrg7Ev_H3iZhMrSSFpE",
-        "source": "CNN"
+        "url": "https://www.bbc.com/news/articles/ckgn8e2zznno",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk5vLVB15rMCI1WOGxRJaZ8iX-cfQLMXUutelpfdD2p3SVAT0VzopCVfQJA5c",
+        "source": "BBC"
       },
       {
-        "title": "Macy’s Details Multimillion-Dollar Accounting Error in Downbeat Report",
+        "title": "Moscow reaches out to new Syrian leadership in move to secure bases",
         "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/11/business/macys-accounting-sales-profit.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHu7-2pAK9dcd7P9GQ08GsJsBML5ZS0kYTDfoepeLwW7YypuwvPDOqcXy1SW0",
-        "source": "The New York Times"
+        "url": "https://www.theguardian.com/world/2024/dec/09/moscow-reaches-out-to-new-syrian-leadership-in-move-to-secure-bases",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7EQupvzG3slm6H98iTpQEes2zCjgCTlNsfcTNfpEPXDP-ux6NvC2_eg_j_w",
+        "source": "The Guardian"
       },
       {
-        "title": "Macy's ends delivery expense investigation, saying employee hid $151 million",
+        "title": "Fall of Assad is a blow to Russia's prestige",
         "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/macys-m-earnings-q3-2024.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQReLdhEomGtxmbIR17G1HOgvAR32T1GDjhDKZwB5ovLMT-al7LMfkjlvdH6nQ",
+        "url": "https://www.bbc.co.uk/news/articles/clygege97qwo",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp76ZapQ_tp1OHxZvnhj2sKprFfpBnL1L7XHW41Dz8gHVjZ_HWaVLgOnJPrmk",
+        "source": "BBC"
+      }
+    ]
+  },
+  {
+    "title": "barcelona fc",
+    "link": "https://trends.google.com/trending/rss?geo=ET",
+    "pubdate": "Wed, 11 Dec 2024 18:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThozdbgat3M5ebkH9RODy52lkp_Krg6qV4-XOaB03zGfg2GZ9doUeASGjNxTk",
+    "picture_source": "SPORT",
+    "news_items": [
+      {
+        "title": "La apuesta innegociable volvió a carburar en Dortmund",
+        "snippet": "",
+        "url": "https://www.sport.es/es/noticias/barca/apuesta-innegociable-volvio-carburar-dortmund-112541834",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThozdbgat3M5ebkH9RODy52lkp_Krg6qV4-XOaB03zGfg2GZ9doUeASGjNxTk",
+        "source": "SPORT"
+      },
+      {
+        "title": "El Betis, el primer equipo que no cae en el fuera de juego ante el Barcelona",
+        "snippet": "",
+        "url": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-primer-equipo-cae-juego-ante-barcelona-20241209114233-nts.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJL9WnTL4ds0Q1DZ9Rb_DWp9V2xQkTOOU8sH1w40GpHgAP9MLInyEzJISxzVg",
+        "source": "ABC"
+      },
+      {
+        "title": "Barça: ¿por qué se ha atascado la trampa del fuera de juego?",
+        "snippet": "",
+        "url": "https://es.ara.cat/deportes/fc-barcelona/atascado-trampa-fuera-juego-barca_1_5225837.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyuYsnR28z-p42IhQfsMiu4E7TV1xqkzqBqllvr0tCGHIUcm9-mcvQHcrTSc",
+        "source": "Diari ARA"
+      }
+    ]
+  },
+  {
+    "title": "chat gpt",
+    "link": "https://trends.google.com/trending/rss?geo=ET",
+    "pubdate": "Wed, 11 Dec 2024 16:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+    "picture_source": "CNBC",
+    "news_items": [
+      {
+        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
         "source": "CNBC"
+      },
+      {
+        "title": "ChatGPT is down: What happened and when will it be back?",
+        "snippet": "",
+        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
+        "source": "Diario AS"
+      },
+      {
+        "title": "ChatGPT back online after global outage",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
+        "source": "Times of India"
       }
     ]
   },
   {
-    "title": "champions league",
+    "title": "chatgpt",
     "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Tue, 10 Dec 2024 18:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT4x1J4CeJroEFoPbTf7DJggenLVcNbZF8rMjCk7Q_HXU_3TaHYiWZ6zH9wKw",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Are Liverpool Champions League favourites? - Alisson 'one of world's best' \n- Slot",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/cqjzdegvpx5o",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT4x1J4CeJroEFoPbTf7DJggenLVcNbZF8rMjCk7Q_HXU_3TaHYiWZ6zH9wKw",
-        "source": "BBC"
-      },
-      {
-        "title": "Rio Ferdinand throws doubt on Liverpool's tag as favourites for the \nChampions League despite Reds winning again",
-        "snippet": "",
-        "url": "https://www.rousingthekop.com/2024/12/11/rio-ferdinand-throws-doubt-on-liverpools-tag-as-favourites-for-the-champions-league-despite-reds-winning-again/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZuB4rFiy6Jf6TsH8c9iDAymjDelmN5TEOQoII12aYBBP4z0xCkfbwIvSb8Bk",
-        "source": "Rousing The Kop"
-      },
-      {
-        "title": "Didi Hamann names his two 'favourites' to win the Champions League",
-        "snippet": "",
-        "url": "https://www.msn.com/en-gb/sport/football/didi-hamann-names-his-two-favourites-to-win-the-champions-league/ar-AA1vCZII",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa3INcj-u2vVGwHypiOCPxz2DL6BfzzM4axfWH0ln5AtAt9KR5jTTvo4ZSoCQ",
-        "source": "MSN"
-      }
-    ]
-  },
-  {
-    "title": "rb salzburg vs psg",
-    "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Tue, 10 Dec 2024 13:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUaKCUpQgn5O9pghm9HNmhxqTcLwl_eND6IpX8QaZUivw1pMc5lMWfL0f4AHU",
-    "picture_source": "LAOLA1",
-    "news_items": [
-      {
-        "title": "\"Pep, es ist vorbei\" - So reagiert Lijnders auf Fan-Plakat",
-        "snippet": "",
-        "url": "https://www.laola1.at/de/red/fussball/champions-league/news/-pep--es-ist-vorbei----so-reagiert-lijnders-auf-fan-plakat/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUaKCUpQgn5O9pghm9HNmhxqTcLwl_eND6IpX8QaZUivw1pMc5lMWfL0f4AHU",
-        "source": "LAOLA1"
-      },
-      {
-        "title": "Jetzt fühle ich mich besser!",
-        "snippet": "",
-        "url": "https://www.footboom1.com/de/news/football/2166506-now-i-feel-better",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzp1gkUup8PB1a5KwFATLIJilRF6QOro4qNT9A6W1toUpDMOUQ5Z5Mz40fKqI",
-        "source": "FootBoom"
-      },
-      {
-        "title": "Nichts zu holen gegen PSG",
-        "snippet": "",
-        "url": "https://onefootball.com/pt-br/noticias/nichts-zu-holen-gegen-psg-40422959",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdIHMNvAknIEgOHRN09i7kW3IsyZvfIhNNOBG1xN91OnOU9ecxseH1woB9Hyo",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "real madrid",
-    "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXhzY14dapCO4GCP24Jynq5yNBXFl4jHIg_KPrDecrteuiSvvrwIyM5s9UON8",
-    "picture_source": "Visión 360",
-    "news_items": [
-      {
-        "title": "Vinicius Junior y Bellingham reviven al Real madrid",
-        "snippet": "",
-        "url": "https://www.vision360.bo/noticias/2024/12/10/16601-vinicius-junior-y-bellingham-reviven-al-real-madrid",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXhzY14dapCO4GCP24Jynq5yNBXFl4jHIg_KPrDecrteuiSvvrwIyM5s9UON8",
-        "source": "Visión 360"
-      },
-      {
-        "title": "Poesía para los oídos madridistas, así fue la narración de Rac-1 del fallo \nde Retegui en el 93’",
-        "snippet": "",
-        "url": "https://www.realmadridexclusivo.com/lo-mas-visto/poesia-oidos-madridistas-fue-narracion-rac-1-fallo-retegui-en-93_165496_102.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJkTwXDdXW0B15lgApSbaYYlbcIhBEl55L7_sXGTTW9KQPucV4bMqGU-V4FqI",
-        "source": "Real Madrid Exclusivo"
-      },
-      {
-        "title": "Calificaciones de la 6.ª jornada de la CL: Brahim mágico, Tchouaméni \ntembloroso",
-        "snippet": "",
-        "url": "https://www.realtotal.de/es/noten-zum-6-cl-spieltag-brahim-magisch-tchouameni-wackelig/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7-vHEqW8XB85XasOJ4eMSSamkQutiycVpbM64Vw_odXlAkWZ4cybn5eCiCI",
-        "source": "real total"
-      }
-    ]
-  },
-  {
-    "title": "club brugge vs sporting",
-    "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Tue, 10 Dec 2024 12:00:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 16:00:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRl1cSSvIkNeC_hmElUmY6xAfGC6oItnWkO-ZDy84bQx4eEGiQCHcyFcNVsiis",
-    "picture_source": "SuperSport",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOx-1qdZI_C6RbVnBEXdm_DPexHIDMKzGJOaT68zpv0x9B4320mvATiwnwKks",
+    "picture_source": "Apple",
     "news_items": [
       {
-        "title": "Club Brugge v Sporting CP | 90 in 90 | UEFA Champions League",
+        "title": "Apple Intelligence now features Image Playground, Genmoji, and more",
         "snippet": "",
-        "url": "https://supersport.com/football/general$/video/edf14cc2-85eb-45d8-986f-9f05d9304f15/club-brugge-v-sporting-cp-90-in-90-uefa-champions-league",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRl1cSSvIkNeC_hmElUmY6xAfGC6oItnWkO-ZDy84bQx4eEGiQCHcyFcNVsiis",
-        "source": "SuperSport"
+        "url": "https://www.apple.com/newsroom/2024/12/apple-intelligence-now-features-image-playground-genmoji-and-more/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOx-1qdZI_C6RbVnBEXdm_DPexHIDMKzGJOaT68zpv0x9B4320mvATiwnwKks",
+        "source": "Apple"
       },
       {
-        "title": "Club Brugge boost qualification hopes with win over Sporting",
+        "title": "iOS 18.2 official rollout begins - GSMArena.com news",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/ce9008g5r43t",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9KiK8OgwqRT49cdzpBVzIMAyBtlkD_e_JJUEFuFVhhieujVe6P8wnvZ63mvM",
-        "source": "BBC"
+        "url": "https://www.gsmarena.com/ios_182_official_rollout_begins-news-65706.php",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR2FFJTfNxMLAYEYsnBHzLDLpNuqnNSDKXyyPW-tz0BUNv6aBfpNEF92sQjks",
+        "source": "GSMArena.com"
       },
       {
-        "title": "Casper Nielsen comes off the bench to grab huge Champions League victory \nfor Club Brugge",
+        "title": "Massive Update For iPhones Today",
         "snippet": "",
-        "url": "https://sports.yahoo.com/casper-nielsen-comes-off-bench-221400857.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTbjvFuYJUOmCUy-dE6sFNaCdAWcYkabY_ZtrgXU2awnNStTU3Zy0srNZXFKY",
-        "source": "Yahoo Sports"
+        "url": "https://www.911hotfm.com.au/trending/technology/massive-update-for-iphones-today/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUWx1lRDChSFTpYTvuILZohxbkHuRO884Dr7znYfPXiu6iHcz5sqI0m7kit-s",
+        "source": "91.1 Hot FM"
       }
     ]
   },
   {
-    "title": "celtic",
+    "title": "milan vs crvena zvezda",
     "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Tue, 10 Dec 2024 11:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfxvd7n9tvKSwIcNAk-dZtiAzA8ifEzRNTosbRmbSS5DZ76c7F1lT09WsAA2s",
+    "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuRsRpa_QKNrHsYLNzZ6ruE4KnpvBjyKYP6oZOWvu2Oaqh6MLKbxp4kdOIh1w",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Champions League: Celtic 'gaining confidence' despite missed chance",
+        "title": "Champions League: Tammy Abraham scores late as AC Milan beat Red Star Belgrade",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/c8781yyy71qo",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfxvd7n9tvKSwIcNAk-dZtiAzA8ifEzRNTosbRmbSS5DZ76c7F1lT09WsAA2s",
+        "url": "https://www.bbc.com/sport/football/live/ce8nnl6gp00t",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuRsRpa_QKNrHsYLNzZ6ruE4KnpvBjyKYP6oZOWvu2Oaqh6MLKbxp4kdOIh1w",
         "source": "BBC"
       },
       {
-        "title": "“We have got to be up for it,” CCV eyes Hampden glory after Zagreb stalemate",
+        "title": "Champions League: Ruben Loftus-Cheek to replace injured Christian Pulisic for Milan against Red Star",
         "snippet": "",
-        "url": "https://onefootball.com/en/news/we-have-got-to-be-up-for-it-ccv-eyes-hampden-glory-after-zagreb-stalemate-40424476",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSK0atJhpzpmR4SFSMk3czSc09R0KTWXmYEIcCwKK-XH0FcN49bCfccUZYxpI",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Matt Corr in Zagreb – Six decades and counting",
-        "snippet": "",
-        "url": "https://thecelticstar.com/matt-corr-in-zagreb-six-decades-and-counting/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIr654gMln7E5D7JzQvBLsBHpvxz3b9uS_ySy-9GMIC0iYagJhzeojwfWPZ74",
-        "source": "The Celtic Star"
-      }
-    ]
-  },
-  {
-    "title": "uefa champions league",
-    "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Tue, 10 Dec 2024 11:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJ21vEB3DKh31T2av21qLy22ko9B9uaHUIKhAuSqrBxbjv8RnPD3TIJ_pvrQ",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Bayer Leverkusen 1-0 Inter Milan: Germans score dramatic late winner in \nChampions League",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c9388nq2182t",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJ21vEB3DKh31T2av21qLy22ko9B9uaHUIKhAuSqrBxbjv8RnPD3TIJ_pvrQ",
-        "source": "BBC"
-      },
-      {
-        "title": "Champions League: Xabi Alonso hoping Patrik Schick is fit for Bayer \nLeverkusen's clash with Inter Milan",
-        "snippet": "",
-        "url": "https://www.flashscore.com/news/soccer-champions-league-alonso-hoping-to-have-schick-fit-for-leverkusen-s-clash-with-in-from-inter/d4oWKnWs/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbjT56O2xGD4hkEIgp_f0xCT8EjF4IC7OS1xSx4SZZm1eT4aKq25b8TGP6w30",
+        "url": "https://www.flashscore.com/news/soccer-champions-league-ruben-loftus-cheek-to-replace-injured-christian-pulisic-for-milan-against-red-star/zN6kRltS/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSE6vpsxeDb8UwUO5XHlNqnghufiAWTMDvn9EQ1KqLt9te1Sk5xeYS94ROub-k",
         "source": "Flashscore.com"
       },
       {
-        "title": "Mukiele comments after late winner",
+        "title": "Fonseca after win vs Red Star Belgrade: “I am not satisfied with the team’s performance”",
         "snippet": "",
-        "url": "https://bulinews.com/mukiele-comments-after-late-winner",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxB_xKqST6ZNSKJAR2rj4YKvuJ3ImRPzK9OOxHqRD75weUqTjtuGAD3zg4jWQ",
-        "source": "Bundesliga News in English"
+        "url": "https://milanreports.com/2024/12/11/fonseca-not-satisfied-vs-red-star/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5QdLRCir6Db97ok1y0v_ogIiGC1VrPrZelHvIEFd3mbsQRhCAiLIiNVZsLr4",
+        "source": "Milanreports.com"
       }
     ]
   },
   {
-    "title": "shakhtar donetsk vs bayern",
+    "title": "barcelona",
     "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Tue, 10 Dec 2024 11:20:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
+    "picture_source": "FootBoom",
+    "news_items": [
+      {
+        "title": "¿Cuál es la capacidad del Signal Iduna Park y la 'Pared Amarilla' en el estadio del Borussia Dortmund?",
+        "snippet": "",
+        "url": "https://www.footboom1.com/es/news/football/2168596-what-is-the-capacity-of-signal-iduna-park-and-the-yellow-wall-at-borussia-dortmund-stadium",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Flick: «El objetivo es ser primeros»",
+        "snippet": "",
+        "url": "https://onefootball.com/en/news/flick-el-objetivo-es-ser-primeros-40427746",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Torres alaba el espíritu de equipo tras la victoria del Barcelona en Dortmund",
+        "snippet": "",
+        "url": "https://es-us.noticias.yahoo.com/torres-alaba-esp%C3%ADritu-equipo-victoria-065103438.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtPopBu-O__xaszCDPKNllktaBonAJ0aZuCxqg3t2dU0dYwBI9GH6TL8-r_xM",
+        "source": "Yahoo Noticias"
+      }
+    ]
+  },
+  {
+    "title": "champions league table",
+    "link": "https://trends.google.com/trending/rss?geo=ET",
+    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPjGguOTouSBu71ntymb_REiceLcm1GEUPYMF2Lk1_tFHQEVgZr9V4mYQn8K4",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR43UjGdJzx5NAz397GCVdq_C--KShfY5tuFqcK16vNI5mU-oqDc7d7zYE2zVc",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Shakhtar Donetsk 1-5 Bayern Munich: Michael Olise double helps Bayern \nthrash Shakhtar",
+        "title": "Champions League league phase table: How it stands - with Man City in danger",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c80vvyl2gymt",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPjGguOTouSBu71ntymb_REiceLcm1GEUPYMF2Lk1_tFHQEVgZr9V4mYQn8K4",
+        "url": "https://www.bbc.com/sport/football/articles/c390vgmzn8lo",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR43UjGdJzx5NAz397GCVdq_C--KShfY5tuFqcK16vNI5mU-oqDc7d7zYE2zVc",
         "source": "BBC"
       },
       {
-        "title": "'Like in Mario Kart when you get a star!' - Michael Olise praised by Bayern \nteam-mate for superb solo goal in 5-1 Champions League win over Shakhtar",
+        "title": "Champions League: How many points do we need?",
         "snippet": "",
-        "url": "https://www.goal.com/en/lists/mario-kart-star-michael-olise-praised-by-bayern-team-mate-superb-solo-goal-5-1-champions-league-win-shakhtar/blt760888c88389220c",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNV09eTtoOe61OfqG3ddX5ZnUhjeTnUjnmJYgRqkYxdEpQfA8ZwGSULdsbPRc",
-        "source": "Goal.com"
+        "url": "https://www.arsenal.com/news/champions-league-how-many-points-do-you-need",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThrrcUNfjTYrpz38k1K9ayfUwb84QoHkAqzrmL6-ntQbeOEdSWNbw2j1oKC_M",
+        "source": "Arsenal.com"
       },
       {
-        "title": "'Reminds me of Messi' - Carney stunned by Olise's 'impossible' solo goal \nfor Bayern",
+        "title": "This Is What Real Madrid Needs To Qualify For The Next Round Of The Champions League",
         "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/michael-olise-bayern-munich-lionel-messi-shakthar-donetsk-karen-carney_sto20061927/story.shtml",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjI8F2mSr_q0dZpCVZvVB9Q4t6ccOi1aXvR88_hl8TSrNiK5QdbSdoF4bwE5Q",
-        "source": "Eurosport"
-      }
-    ]
-  },
-  {
-    "title": "atalanta vs real madrid",
-    "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Tue, 10 Dec 2024 11:00:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-udQjPfXA03OsEIItfdHtq3M-U8tKGhVd_ozJhQB4OGG-48Uki_k6Rbgg_1E",
-    "picture_source": "Goal.com",
-    "news_items": [
-      {
-        "title": "Real Madrid player ratings vs Atalanta: Jude can't stop scoring! Brilliant \nBellingham leads Blancos to a crucial Champions League win - but lose \nKylian Mbappe to injury",
-        "snippet": "",
-        "url": "https://www.goal.com/en/lists/real-madrid-player-ratings-vs-atalanta-jude-bellingham-kylian-mbappe/bltd04957c4dc1c3e4d",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-udQjPfXA03OsEIItfdHtq3M-U8tKGhVd_ozJhQB4OGG-48Uki_k6Rbgg_1E",
-        "source": "Goal.com"
-      },
-      {
-        "title": "Ancelotti: “We put in a complete display, we dug in, we battled and we \nfought\"",
-        "snippet": "",
-        "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/ancelotti-rueda-de-prensa-tras-atalanta-10-12-2024",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYayqNTX3uguLGw5xrKa_VB8ittpmaI2hJQNx5f2rC_ayeCvLs1ssx3q4TETM",
-        "source": "Real Madrid CF"
-      },
-      {
-        "title": "Bellingham gives Atalanta too much to do as Real Madrid show they are back",
-        "snippet": "",
-        "url": "https://www.theguardian.com/football/2024/dec/10/atalanta-real-madrid-champions-league-match-report",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ47oLLCJFJ0Fi0FId5k04NcN97J2XXHOJxm1Iz415tqxHMScY1Pu0sTQArcZk",
-        "source": "The Guardian"
-      }
-    ]
-  },
-  {
-    "title": "rb leipzig vs aston villa",
-    "link": "https://trends.google.com/trending/rss?geo=ET",
-    "pubdate": "Tue, 10 Dec 2024 11:00:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZcaHaY2fcP8mtLelU-mYBskneJThian_Qze8orZYUZp87gZFASIuiN5Y8Q",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "UEFA Champions League RB Leipzig 2 Aston Villa 3 Full time",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c89vkp00872t",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZcaHaY2fcP8mtLelU-mYBskneJThian_Qze8orZYUZp87gZFASIuiN5Y8Q",
-        "source": "BBC"
-      },
-      {
-        "title": "Aston Villa player ratings vs RB Leipzig: Super-subs to the rescue! Ross \nBarkley and Jhon Duran secure win and spare Emi Martinez's blushes after \nearly blunder",
-        "snippet": "",
-        "url": "https://www.goal.com/en/lists/aston-villa-player-ratings-vs-rb-leipzig-ross-barkley-jhon-duran-secure-win-spare-emi-martinez-s-blushes/blte21a2ea97bd3ca2e",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYTosMlogupMVLeyt3gMv81fq4kSdmjx61kNQT3JO-Su9UJdROG3b2gWtJQeM",
-        "source": "Goal.com"
-      },
-      {
-        "title": "Top-eight finish beckons after Barkley goal sends Villa past Leipzig",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/top-eight-finish-beckons-after-barkley-goal-sends-villa-past-leipzig-2024-12-10",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNTOFAKGUtvVy6vhbDBd9Iwdd2oB4qtxpcG1UF4ln7zt0ihdJiiV220adMSr0",
+        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/this-is-what-real-madrid-needs-to-qualify-for-the-next-round-of-the-champions-league-2024-12-11",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgzHvjq3hTvEn7MCnAHCEIFv3Gm_BmZL7D4-fwa-2depG4P9P2cGbLBihEJ6U",
         "source": "beIN SPORTS"
+      }
+    ]
+  },
+  {
+    "title": "lily phillips",
+    "link": "https://trends.google.com/trending/rss?geo=ET",
+    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR05tnZjCtYghkkeciXYAinc970f9LbKoobaMUeAbmRLvzdHOpek1lI3xBxR0",
+    "picture_source": "The Mirror",
+    "news_items": [
+      {
+        "title": "People call for OnlyFans ban as Lily Phillips in tears after sleeping with 101 men in a day",
+        "snippet": "",
+        "url": "https://www.mirror.co.uk/lifestyle/sex-relationships/people-call-onlyfans-ban-lily-34292312",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR05tnZjCtYghkkeciXYAinc970f9LbKoobaMUeAbmRLvzdHOpek1lI3xBxR0",
+        "source": "The Mirror"
+      },
+      {
+        "title": "Model Lily Phillips bursts into tears after sleeping with 101 men in 1 day for sordid video",
+        "snippet": "",
+        "url": "https://www.themirror.com/lifestyle/dating-relationships/model-lily-phillips-bursts-tears-853491",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6WMnGziWVw5jXAsYwBVKGbDRY01RBf8uzAMMjoVdg-lx8M9hZmQpM7kI2DX4",
+        "source": "The Mirror US"
+      },
+      {
+        "title": "Lily Phillips: Former Sheffield student aims to sleep with 1,000 men in 24 hours to break world record",
+        "snippet": "",
+        "url": "https://www.thestar.co.uk/news/people/lily-phillips-former-sheffield-student-aims-to-sleep-with-1000-men-in-24-hours-to-break-world-record-4906591",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHPbeIq6AaFvj-Q3oWrtaiRqJiJwQeZwbLI8yXt9_ADQxo-ss9HeTBU1bDQ3U",
+        "source": "The Star"
+      }
+    ]
+  },
+  {
+    "title": "uefa champions league standings",
+    "link": "https://trends.google.com/trending/rss?geo=ET",
+    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQzi92W20auXoSrnhjjraGhJFIDCNseMw4ITRaK8Cv2G_tny0cJYft7WC1a18",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Champions League: How well do you remember goalscorers so far?",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/articles/czengd02y32o",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQzi92W20auXoSrnhjjraGhJFIDCNseMw4ITRaK8Cv2G_tny0cJYft7WC1a18",
+        "source": "BBC"
+      },
+      {
+        "title": "Champions League Top Scorers Standings",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2170289-champions-league-top-scorers-standings",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs5XISGXhzp6FB9MNRp4rKqCb5CPnzIFFAr3crqbwOsguYhU7Bd9UN1YJkaAg",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Quiz! Can you name the players who have scored in the most consecutive Champions League seasons?",
+        "snippet": "",
+        "url": "https://www.fourfourtwo.com/news/football-quiz-can-you-name-the-players-who-have-scored-in-the-most-consecutive-champions-league-seasons",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA5-ye6fP5yf5oV36kNCFAmlZKWbRtyyaHIblr2CLh8RIUP48seOmd9UdC4Xs",
+        "source": "FourFourTwo"
+      }
+    ]
+  },
+  {
+    "title": "juventus vs man city",
+    "link": "https://trends.google.com/trending/rss?geo=ET",
+    "pubdate": "Wed, 11 Dec 2024 11:00:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Champions League: Man City and Guardiola under 'real pressure'",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/articles/cly256g64dwo",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
+        "source": "BBC"
+      },
+      {
+        "title": "Man City player ratings vs Juventus: That's why Ederson was dropped! Goalkeeper's gaffe and Weston McKennie wonder goal leave Pep Guardiola's men under serious threat of Champions League humiliation",
+        "snippet": "",
+        "url": "https://www.goal.com/en/lists/man-city-player-ratings-vs-juventus-ederson-erling-haaland/blte64a5c062d360bb7",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJYiiPezYKwoue341ebtbPVv5bs3kTmCIZ-TPydRpL2hvycUXX1bL1KW4nHzM",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Juventus deal Man City huge Champions League blow with victory",
+        "snippet": "",
+        "url": "https://supersport.com/football/uefa-champions-league$/news/917a5d02-c2b2-4a80-ac17-2b3eabcde322/juventus-deal-man-city-huge-champions-league-blow-with-victory",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQktFDkWIBIW9crDbPvFE_058Jerr_N6rIlVOubkyhVuMXpLmF2Dm7z5Z4nZFI",
+        "source": "SuperSport"
       }
     ]
   }

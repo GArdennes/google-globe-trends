@@ -1,118 +1,204 @@
 [
   {
-    "title": "bảng lương",
+    "title": "lịch bóng đá",
     "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Wed, 11 Dec 2024 02:00:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 03:20:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUq_uEMM8uqqOAgUO4ayiTYSRPSKTrB7G1Ge5z9IDj4C0lqYKKcmviifMzW7I",
+    "picture_source": "Báo VietNamNet",
+    "news_items": [
+      {
+        "title": "Lịch thi đấu bóng đá hôm nay 12/12: Tâm điểm AFF Cup, MU xuất trận",
+        "snippet": "",
+        "url": "https://vietnamnet.vn/lich-thi-dau-bong-da-hom-nay-12-12-2351278.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUq_uEMM8uqqOAgUO4ayiTYSRPSKTrB7G1Ge5z9IDj4C0lqYKKcmviifMzW7I",
+        "source": "Báo VietNamNet"
+      },
+      {
+        "title": "Lịch thi đấu bóng đá hôm nay 12/12, rạng sáng 13/12: Indonesia và Lào",
+        "snippet": "",
+        "url": "https://congthuong.vn/lich-thi-dau-bong-da-hom-nay-1212-rang-sang-1312-indonesia-dau-voi-lao-philippines-gap-myanmar-tai-aff-cup-2024-363762.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoyyARCaa43xwBPFNN6oOOjdN-bnya03bEJrPGD_3CUiKwWch9dfSw7UOSPh0",
+        "source": "Báo Công Thương"
+      },
+      {
+        "title": "Lịch thi đấu và trực tiếp bóng đá hôm nay 12/12",
+        "snippet": "",
+        "url": "https://vov.vn/the-thao/lich-thi-dau-va-truc-tiep-bong-da-hom-nay-1212-post1141338.vov",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzaJSqjeBjTkGcorqzSHhWVSZ7t_cTtPsv_E5O4aNiFfpSfosjyKMVJGnwF7Q",
+        "source": "VOV"
+      }
+    ]
+  },
+  {
+    "title": "lịch bong da viet nam",
+    "link": "https://trends.google.com/trending/rss?geo=VN",
+    "pubdate": "Thu, 12 Dec 2024 03:10:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRY4cPkoE-Ngjyfy-NgQvpLhKcfioaOJtPje-5ypyxonF9nTdD1VxWLqbezRRg",
-    "picture_source": "Laodong.vn",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8KrVwjyXLg3gePaHEPfh2EC-oR7YsZb3bgiIusiOb5soVbNevZXv4ey0Qyo4",
+    "picture_source": "Báo Dân trí",
     "news_items": [
       {
-        "title": "Bảng lương quân đội, công an 2025 theo quy định mới",
+        "title": "Báo Indonesia đặc biệt lo ngại một cầu thủ Việt Nam",
         "snippet": "",
-        "url": "https://laodong.vn/cong-doan/bang-luong-quan-doi-cong-an-2025-theo-quy-dinh-moi-1433550.ldo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRY4cPkoE-Ngjyfy-NgQvpLhKcfioaOJtPje-5ypyxonF9nTdD1VxWLqbezRRg",
-        "source": "Laodong.vn"
+        "url": "https://dantri.com.vn/the-thao/bao-indonesia-dac-biet-lo-ngai-mot-cau-thu-viet-nam-20241212165235897.htm",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8KrVwjyXLg3gePaHEPfh2EC-oR7YsZb3bgiIusiOb5soVbNevZXv4ey0Qyo4",
+        "source": "Báo Dân trí"
       },
       {
-        "title": "Có thể chính thức bãi bỏ 7 bảng lương",
+        "title": "Đình Triệu mắc sai lầm, huyền thoại Hàn Quốc gặp riêng nói chuyện",
         "snippet": "",
-        "url": "https://laodong.vn/giai-dap-phap-luat/co-the-chinh-thuc-bai-bo-7-bang-luong-1431860.ldo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoZOAD2muThDwRDHLkCsjQeudleYeJ4cncxrOvk8U7VYb0TzM0suRvaxw4gAE",
-        "source": "Laodong.vn"
+        "url": "https://vtcnews.vn/dinh-trieu-mac-sai-lam-huyen-thoai-han-quoc-gap-rieng-noi-chuyen-ar913041.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuuR6GsTAKTWPbKYoQ9yHXTgwNZ7OeagYq3SmsOZIIDHn9D8XNX3ol1dGzeRg",
+        "source": "Báo điện tử VTC News"
       },
       {
-        "title": "3 bảng lương mới của lực lượng vũ trang đã được thống nhất?",
+        "title": "Vừa trình làng AFF Cup đã chơi quá hay: Chỉ có thể là Văn Vĩ và…",
         "snippet": "",
-        "url": "https://laodong.vn/ban-tin/3-bang-luong-moi-cua-luc-luong-vu-trang-da-duoc-thong-nhat-1430853.ldo",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqxeKDOj_H_hNYn9Ok4L-YzbUPByUme4F8kDKUcfSnPDcW-Dg7mg97FpRo2gA",
-        "source": "Laodong.vn"
+        "url": "https://thanhnien.vn/vua-trinh-lang-aff-cup-da-choi-qua-hay-chi-co-the-la-van-vi-va-185241211115139131.htm",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDTdvvfgIRSREi2X7EIVaKBqZEz6j4G-fGE1CCir988xiwrggNrF1yDfbXoyQ",
+        "source": "Báo Thanh Niên"
       }
     ]
   },
   {
-    "title": "rrr",
+    "title": "lịch bóng đá việt nam",
     "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Wed, 11 Dec 2024 02:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRI9mDBbggiUz-dtQFimEWSv-qXLnFv4tF2tpEjJolKro3lGgyjBiKWYdZXe4",
-    "picture_source": "Business Standard",
+    "pubdate": "Thu, 12 Dec 2024 02:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvUkDAtJtR-5Y91k0XMd2228Y1pVB0PA-Jha3bdJsXpG_VHckItvBKMDFVB0o",
+    "picture_source": "Tin tức 24h",
     "news_items": [
       {
-        "title": "Pushpa 2 Box Office Day 6: Allu Arjun movie breaks record, crosses 1000 cr",
+        "title": "HLV Kim Sang-sik, đội tuyển Việt Nam và những nan đề khó giải",
         "snippet": "",
-        "url": "https://www.business-standard.com/entertainment/pushpa-2-box-office-day-6-allu-arjun-movie-breaks-record-crosses-1000-cr-nc-124121100448_1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRI9mDBbggiUz-dtQFimEWSv-qXLnFv4tF2tpEjJolKro3lGgyjBiKWYdZXe4",
-        "source": "Business Standard"
-      },
-      {
-        "title": "Allu Arjun net worth: Pushpa 2 actor has nearly Rs 500 crore assets including Rs 100 crore bungalow, private jet, multiplex",
-        "snippet": "",
-        "url": "https://m.economictimes.com/news/new-updates/allu-arjun-net-worth-pushpa-2-actor-has-nearly-rs-500-crore-assets-including-rs-100-crore-bunglow-private-jet-multiplex/articleshow/116129813.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE43QSGG_LjmW1DI_ewcBnaqR_Rs2Y02H6GhXvSzfXE2wi9L39c7efYpCsqmU",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "'Pushpa 2: The Rule' worldwide box office collection day 5: Allu Arjun's latest film crosses ₹875 crore, tops Stree 2's lifetime biz",
-        "snippet": "",
-        "url": "https://www.businesstoday.in/trending/box-office/story/pushpa-2-the-rule-worldwide-box-office-collection-day-5-allu-arjuns-latest-film-crosses-rs875-crore-tops-stree-2s-lifetime-biz-456770-2024-12-10",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsF4afMtWIAcs5fD719Q9vxRJYMZxYw3sO2D1HamyD_30w5HiBWlCh9Hm_zg0",
-        "source": "Business Today"
-      }
-    ]
-  },
-  {
-    "title": "singapore campuchia",
-    "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Wed, 11 Dec 2024 02:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjiOjnJmRLm5QGeT6O8-84itX6Cwy61bKIgFTSbXnJzdbBCh2Tmhf3VXmhMjY",
-    "picture_source": "VnExpress",
-    "news_items": [
-      {
-        "title": "Singapore – Campuchia: Nối tiếp bất ngờ ở ASEAN Cup?",
-        "snippet": "",
-        "url": "https://vnexpress.net/singapore-campuchia-noi-tiep-bat-ngo-o-asean-cup-4826438.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjiOjnJmRLm5QGeT6O8-84itX6Cwy61bKIgFTSbXnJzdbBCh2Tmhf3VXmhMjY",
-        "source": "VnExpress"
-      },
-      {
-        "title": "Trực tiếp bóng đá Malaysia - Timor Leste: Tìm kiếm chiến thắng đậm (AFF Cup)",
-        "snippet": "",
-        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-malaysia-timor-leste-tim-kiem-chien-thang-dam-aff-cup-c48a1625501.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBkpBR3LdkAwNfwrm0bX9CltdF-onRZIZQzNhKRaZjMKhI8PfyKZNsrVLdLHs",
+        "url": "https://www.24h.com.vn/bong-da/hlv-kim-sang-sik-doi-tuyen-viet-nam-va-nhung-nan-de-kho-giai-c48a1625900.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvUkDAtJtR-5Y91k0XMd2228Y1pVB0PA-Jha3bdJsXpG_VHckItvBKMDFVB0o",
         "source": "Tin tức 24h"
       },
       {
-        "title": "Lịch thi đấu ASEAN CUP 2024 (AFF Cup) hôm nay 11/12",
+        "title": "Tuyển Việt Nam có thể mất Quang Hải, Filip Nguyễn và ưu thế đặc biệt của HLV Kim Sang-sik",
         "snippet": "",
-        "url": "https://vietnamnet.vn/lich-thi-dau-asean-cup-2024-aff-cup-2024-hom-nay-11-12-2350780.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IEr1JqdSVYPkISyOlDapMT00-kGu633VH6XLcEDLuBhDrzZsCitkJZ1hjjo",
-        "source": "Báo VietNamNet"
+        "url": "https://soha.vn/tuyen-viet-nam-co-the-mat-quang-hai-filip-nguyen-va-uu-the-dac-biet-cua-hlv-kim-sang-sik-198241211114850291.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8O5hKVDkasdVOuFioxpRdIcg8BgZobmzCV1mStW40a5iNOxvHRDtmiuYz_E",
+        "source": "SOHA"
+      },
+      {
+        "title": "Đội tuyển Việt Nam và khoảng trống 'người hùng'",
+        "snippet": "",
+        "url": "https://thethaovanhoa.vn/doi-tuyen-viet-nam-va-khoang-trong-nguoi-hung-20241211221855234.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWt6E072u-gcCxhRh3zgu8XhSfZVsAt0yeH0ltceBRo671aUBjWZicKT358Tc",
+        "source": "thethaovanhoa.vn"
       }
     ]
   },
   {
-    "title": "số miền nam",
+    "title": "lịch thi đấu việt nam",
     "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Wed, 11 Dec 2024 01:30:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 02:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKcWjLWrGZx2agkxweGYotISesD2S8xn_5gXfm8w3VjzomOB26HxvZG9PbdSQ",
+    "picture_source": "Báo Dân trí",
+    "news_items": [
+      {
+        "title": "Hàng nghìn người bất chấp giá rét xếp hàng mua vé xem tuyển Việt Nam",
+        "snippet": "",
+        "url": "https://dantri.com.vn/the-thao/hang-nghin-nguoi-bat-chap-gia-ret-xep-hang-mua-ve-xem-tuyen-viet-nam-20241212110935566.htm",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKcWjLWrGZx2agkxweGYotISesD2S8xn_5gXfm8w3VjzomOB26HxvZG9PbdSQ",
+        "source": "Báo Dân trí"
+      },
+      {
+        "title": "Sốt vé trận Việt Nam – Indonesia, \"phe vé” đẩy giá gấp 4-5 lần",
+        "snippet": "",
+        "url": "https://www.24h.com.vn/kinh-te-the-thao/sot-ve-tran-viet-nam-indonesia-phe-ve-day-gia-gap-4-5-lan-c1107a1625869.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI8rnGdBNBr6uBOBLTvoCPbKOwZIUUiEFi1aTZWZPc3kyrzNfAXQNsvyaGIjM",
+        "source": "Tin tức 24h"
+      },
+      {
+        "title": "Người hâm mộ xếp hàng từ nửa đêm mua vé xem ĐT Việt Nam đá ASEAN Cup 2024",
+        "snippet": "",
+        "url": "https://vov.vn/the-thao/nguoi-ham-mo-xep-hang-tu-nua-dem-mua-ve-xem-dt-viet-nam-da-asean-cup-2024-post1141478.vov",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxcjTwukBTWI_ZxIc-4ZU9q25bwqGj88ZoSFQgSGi5bYTzlp1miFpLYSI8Ick",
+        "source": "VOV"
+      }
+    ]
+  },
+  {
+    "title": "số may mắn 12 con giáp",
+    "link": "https://trends.google.com/trending/rss?geo=VN",
+    "pubdate": "Thu, 12 Dec 2024 02:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvUd-jSLnDyiHUwqqMjjYC8ntSGSkWHh3wuN4bkXUT3ry8dN0VuDCpaxNjSJE",
+    "picture_source": "Báo Kinh tế đô thị",
+    "news_items": [
+      {
+        "title": "Tử vi ngày 13/12/2024 của12 cung hoàng đạo: Xử Nữ không thuận lợi trong công việc",
+        "snippet": "",
+        "url": "https://kinhtedothi.vn/tu-vi-ngay-13-12-2024-cua12-cung-hoang-dao-xu-nu-khong-thuan-loi-trong-cong-viec.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvUd-jSLnDyiHUwqqMjjYC8ntSGSkWHh3wuN4bkXUT3ry8dN0VuDCpaxNjSJE",
+        "source": "Báo Kinh tế đô thị"
+      },
+      {
+        "title": "Dự đoán ngày mới 13/12/2024 cho 12 con giáp: Tỵ rủng rỉnh",
+        "snippet": "",
+        "url": "https://kienthuc.net.vn/kho-tri-thuc/du-doan-ngay-moi-13122024-cho-12-con-giap-ty-rung-rinh-2061484.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1rHa5VLyI-VyWJbhCvh30uJKh9w4IaKxYVXQmnbHod-mGcpgnwikBrS6kR-I",
+        "source": "Báo Tri thức và Cuộc sống"
+      },
+      {
+        "title": "Top 3 con giáp may mắn nhất ngày 13/12",
+        "snippet": "",
+        "url": "https://afamily.vn/top-3-con-giap-may-man-nhat-ngay-13-12-20241211094526956.chn",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7xncmv5XcWDrfizj78Gxs_zmwhO2W3Ltn-vdimZD6RfILwWMybPxvPEEEOE",
+        "source": "afamily.vn"
+      }
+    ]
+  },
+  {
+    "title": "philippines đấu với myanmar",
+    "link": "https://trends.google.com/trending/rss?geo=VN",
+    "pubdate": "Thu, 12 Dec 2024 01:30:00 -0800",
     "approx_traffic": 20000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfFnIyq4seuuGsrUAs0D8oAqeYhQ5O5rZ-D8T3ZS8YXLi4fr7ietZagGjpj-g",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2lt3AoDJasqyGss1j7QWAGMh0UeagWrbJaJx_RlIiaZ9qFRJ002e0ex1piXQ",
+    "picture_source": "VnExpress",
+    "news_items": [
+      {
+        "title": "HLV Lào xếp Park Hang-seo và Shin Tae-yong 'chung mâm'",
+        "snippet": "",
+        "url": "https://vnexpress.net/hlv-lao-xep-park-hang-seo-va-shin-tae-yong-chung-mam-4826931.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2lt3AoDJasqyGss1j7QWAGMh0UeagWrbJaJx_RlIiaZ9qFRJ002e0ex1piXQ",
+        "source": "VnExpress"
+      },
+      {
+        "title": "Trực tiếp Philippines vs Myanmar 0-1 (Hết H1): Myanmar có siêu phẩm đá phạt",
+        "snippet": "",
+        "url": "https://tienphong.vn/truc-tiep-philippines-vs-myanmar-0-1-het-h1-myanmar-co-sieu-pham-da-phat-post1700120.tpo",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCpS8oq62n3jVn9U5pW4wKJ8huXXP-r0DDK8LOX7kAIL7tlUv4EHAmTfN8IDM",
+        "source": "Báo điện tử Tiền Phong"
+      },
+      {
+        "title": "Lịch thi đấu AFF Cup 2024 ngày 12/12: Indonesia chạy đà cho \"đại chiến\"",
+        "snippet": "",
+        "url": "https://www.vietnamplus.vn/lich-thi-dau-asean-cup-2024-ngay-1212-indonesia-chay-da-cho-tran-gap-viet-nam-post1001546.vnp",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNcIHlaA12ehmj9k0dVPRzzF1vWZ9HfCueai1NM3MR6v6EB-ZReqe1qO2I1w",
+        "source": "Vietnam+ (VietnamPlus)"
+      }
+    ]
+  },
+  {
+    "title": "xổ số miền nam hôm nay",
+    "link": "https://trends.google.com/trending/rss?geo=VN",
+    "pubdate": "Thu, 12 Dec 2024 01:30:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsDbu0pX1xMn9MUnX3BNVqGKJmV5iqcTNkn1-dVY94Bl5TYVwXnfIdzoZFQcc",
     "picture_source": "thethaovanhoa.vn",
     "news_items": [
       {
-        "title": "XSMN 11/12 - Kết quả xổ số miền Nam hôm nay 11/12/2024 - Trực tiếp xổ số hôm nay ngày 11 tháng 12",
+        "title": "XSMN 12/12 - Kết quả xổ số miền Nam hôm nay 12/12/2024 - Trực tiếp XSMN ngày 12 tháng 12",
         "snippet": "",
-        "url": "https://thethaovanhoa.vn/xsmn-11-12-ket-qua-xo-so-mien-nam-hom-nay-11-12-2024-truc-tiep-xo-so-hom-nay-ngay-11-thang-12-20241210163938233.htm",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfFnIyq4seuuGsrUAs0D8oAqeYhQ5O5rZ-D8T3ZS8YXLi4fr7ietZagGjpj-g",
+        "url": "https://thethaovanhoa.vn/xsmn-12-12-ket-qua-xo-so-mien-nam-hom-nay-12-12-2024-truc-tiep-xo-so-hom-nay-ngay-12-thang-12-2024121111192209.htm",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsDbu0pX1xMn9MUnX3BNVqGKJmV5iqcTNkn1-dVY94Bl5TYVwXnfIdzoZFQcc",
         "source": "thethaovanhoa.vn"
-      },
-      {
-        "title": "Kết quả xổ số hôm nay ngày 11/12/2024",
-        "snippet": "",
-        "url": "https://kinhtedothi.vn/ket-qua-xo-so-hom-nay-ngay-11-12-2024.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5iVSFkFa8OE1SUNQtVYJiODT9VOA6eFbl_Nb3d2V7pZSZ07dGmpqfD_wR_Y",
-        "source": "Báo Kinh tế đô thị"
       },
       {
         "title": "Kết quả xổ số hôm nay, 11-12: Đồng Nai, Cần Thơ, Sóc Trăng, Đà Nẵng, Khánh Hòa...",
@@ -120,192 +206,106 @@
         "url": "https://nld.com.vn/ket-qua-xo-so-hom-nay-11-12-dong-nai-can-tho-soc-trang-da-nang-khanh-hoa-19624121115240132.htm",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOAbH0h1s0KhvxpJWRck95zXGh5ytrTaOfds50oEc-FqRn6vxqNLrV6utGRks",
         "source": "Báo Người Lao Động"
+      },
+      {
+        "title": "Kết quả xổ số hôm nay ngày 11/12/2024",
+        "snippet": "",
+        "url": "https://kinhtedothi.vn/ket-qua-xo-so-hom-nay-ngay-11-12-2024.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5iVSFkFa8OE1SUNQtVYJiODT9VOA6eFbl_Nb3d2V7pZSZ07dGmpqfD_wR_Y",
+        "source": "Báo Kinh tế đô thị"
       }
     ]
   },
   {
-    "title": "lee min ho",
+    "title": "xổ số miền nam ngày 12 tháng 12",
     "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Wed, 11 Dec 2024 00:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfLIyDD0KuluG0CIr0sk2SNmjNBfw7h98-iRplcVisajAOl-z4-B8QfFPVJ4",
-    "picture_source": "Saostar.vn",
+    "pubdate": "Thu, 12 Dec 2024 01:20:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS3_9mlcMQ5ffG6cTnish1XRVauZLo-gArrD9VIrCGqkgy_xIJ-z2b5bMzGjE",
+    "picture_source": "Báo điện tử Công Thương",
     "news_items": [
       {
-        "title": "Hé lộ bức ảnh từng khiến Lee Min Ho phải lao đao",
+        "title": "XSMN 12/12, trực tiếp Kết quả xổ số miền Nam hôm nay 12/12/2024, XSMN Thứ Năm KQXSMN ngày 12/12",
         "snippet": "",
-        "url": "https://www.saostar.vn/dien-anh/he-lo-buc-anh-tung-khien-lee-min-ho-phai-lao-dao-202412111454579711.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfLIyDD0KuluG0CIr0sk2SNmjNBfw7h98-iRplcVisajAOl-z4-B8QfFPVJ4",
-        "source": "Saostar.vn"
+        "url": "https://congthuong.vn/xsmn-1212-truc-tiep-ket-qua-xo-so-mien-nam-hom-nay-12122024-xsmn-thu-nam-kqxsmn-ngay-1212-363837.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS3_9mlcMQ5ffG6cTnish1XRVauZLo-gArrD9VIrCGqkgy_xIJ-z2b5bMzGjE",
+        "source": "Báo điện tử Công Thương"
       },
       {
-        "title": "Đâu là bức ảnh đáng xấu hổ của nam tài tử Lee Min Ho khiến anh muốn xoá nhất?",
+        "title": "Kết quả xổ số hôm nay ngày 12/12/2024",
         "snippet": "",
-        "url": "https://ngoisao.vn/hau-truong/chuyen-lang-sao/dau-la-buc-anh-dang-xau-ho-cua-nam-tai-tu-lee-min-ho-khien-anh-muon-xoa-nhat-440685.htm",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPgxgeHRnrEfegEcEOFL5AhSAJqs1ZqgYH-HCOrEqd1kViv5Wp24idMg1dR-E",
-        "source": "ngoisao.vn"
+        "url": "https://kinhtedothi.vn/ket-qua-xo-so-hom-nay-ngay-12-12-2024.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5iVSFkFa8OE1SUNQtVYJiODT9VOA6eFbl_Nb3d2V7pZSZ07dGmpqfD_wR_Y",
+        "source": "Báo Kinh tế đô thị"
       },
       {
-        "title": "Bức ảnh xấu hổ nhất cuộc đời Lee Min Ho",
+        "title": "Kết quả xổ số hôm nay, 12-12: Tây Ninh, An Giang, Bình Thuận, Bình Định, Hà Nội...",
         "snippet": "",
-        "url": "https://2sao.vn/buc-anh-xau-ho-nhat-cuoc-doi-lee-min-ho-n-400634.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWjHILW4Vqps0iMX4bRhPFHAx0SRhCUXf6DaUyUA8FSufzSUx9_cBR_8Cuv4",
-        "source": "2Sao.vn"
-      }
-    ]
-  },
-  {
-    "title": "song hye kyo",
-    "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Wed, 11 Dec 2024 00:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwW9f5SdX3rs-BkdR_IK_pPIAWLwpccWTPQhn0Ht4A_sMUy4TzgbsDjW3KjEo",
-    "picture_source": "Laodong.vn",
-    "news_items": [
-      {
-        "title": "“Khi điện thoại đổ chuông” có thể tiếp tục bị hoãn chiếu?",
-        "snippet": "",
-        "url": "https://laodong.vn/giai-tri/khi-dien-thoai-do-chuong-co-the-tiep-tuc-bi-hoan-chieu-1433252.ldo",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwW9f5SdX3rs-BkdR_IK_pPIAWLwpccWTPQhn0Ht4A_sMUy4TzgbsDjW3KjEo",
-        "source": "Laodong.vn"
-      },
-      {
-        "title": "Sắc vóc nữ chính 'Khi điện thoại đổ chuông'",
-        "snippet": "",
-        "url": "https://vnexpress.net/sac-voc-nu-chinh-khi-dien-thoai-do-chuong-4823725.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUUPpU5FHIc9AUHaJF82Vky9qmvKLCz3-eTbuUEjpzelkqkSv8KyayX4LkS08",
-        "source": "VnExpress"
-      },
-      {
-        "title": "Chae Soo Bin: Mỹ nhân qua mặt Song Hye Kyo trở thành nữ diễn viên đẹp nhất Hàn Quốc",
-        "snippet": "",
-        "url": "https://dantri.com.vn/giai-tri/my-nhan-qua-mat-song-hye-kyo-tro-thanh-nu-dien-vien-dep-nhat-han-quoc-20241209111940761.htm",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS91W4BjSVfgqx04mpMRmsTO_UxdRyI3DY8bwmaLblaoTCy4VG49LYuXO80j9o",
-        "source": "Báo Dân trí"
-      }
-    ]
-  },
-  {
-    "title": "tft 14.24",
-    "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Tue, 10 Dec 2024 22:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8nB1zvyZwjIbVVyYBd1gqwqs9JWrTh3l4uBE9dyu2j7OPmGhvlxxMWIfRxSU",
-    "picture_source": "Thể Thao 247",
-    "news_items": [
-      {
-        "title": "DTCL 14.24: Bản cập nhật TFT mới nhất - Ngày 11/12",
-        "snippet": "",
-        "url": "https://thethao247.vn/400-dtcl-1424-ban-cap-nhat-tft-moi-nhat-ngay-11-12-d350794.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8nB1zvyZwjIbVVyYBd1gqwqs9JWrTh3l4uBE9dyu2j7OPmGhvlxxMWIfRxSU",
-        "source": "Thể Thao 247"
-      },
-      {
-        "title": "Chi tiết bản cập nhật LMHT 14.24: Nhiều tướng Arcane bị ‘sờ gáy’, Viktor được cân bằng lại",
-        "snippet": "",
-        "url": "https://www.oneesports.vn/lmht/lmht-14-24-thong-tin-ban-cap-nhat/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GUt2e5HsRJigoD8Z4VZ1GZgU8v78g9WNQLwP5re94xACizoeHioKsZLCiSU",
-        "source": "ONE Esports Vietnam"
-      },
-      {
-        "title": "DTCL 14.24 TFT: Chi tiết bản cập nhật Đấu Trường Chân Lý mới nhất tháng 12/2024",
-        "snippet": "",
-        "url": "https://webthethao.vn/lien-minh-huyen-thoai/dtcl-1424-tft-chi-tiet-ban-cap-nhat-dau-truong-chan-ly-moi-nhat-thang-122024-Xc1OJwVHR.htm",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScId46a0SM_J6SPTU2DN6QYxBJsljfBQylQGwQct7wfC856RrBYvCZS3zMOT4",
-        "source": "Webthethao"
-      }
-    ]
-  },
-  {
-    "title": "giá cà phê arabica",
-    "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Tue, 10 Dec 2024 21:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3TKpt8t2UoRdKo26JdaEALqCIRY0gY0rR7EHlzCHwWWnDkGi55h6mqddIBTI",
-    "picture_source": "VOV",
-    "news_items": [
-      {
-        "title": "Giá cà phê hôm nay 11/12: Giá cà phê trong nước tăng 2.000 đồng/kg",
-        "snippet": "",
-        "url": "https://vov.vn/thi-truong/gia-ca-phe/gia-ca-phe-hom-nay-1112-gia-ca-phe-trong-nuoc-tang-2000-dongkg-post1141180.vov",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3TKpt8t2UoRdKo26JdaEALqCIRY0gY0rR7EHlzCHwWWnDkGi55h6mqddIBTI",
-        "source": "VOV"
-      },
-      {
-        "title": "Giá nông sản hôm nay 11.12: Giá cà phê bất ngờ tăng mạnh",
-        "snippet": "",
-        "url": "https://laodong.vn/video-kinh-te/gia-nong-san-hom-nay-1112-gia-ca-phe-bat-ngo-tang-manh-1433765.ldo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhLN2jjEJAyF-qfaZW0NBJb0IP9FmbS46MUbN7UA6xVQYlazduwZW3664ba4Q",
-        "source": "Laodong.vn"
-      },
-      {
-        "title": "Giá cà phê hôm nay 11-12 lại tăng tiếp, muốn đầu cơ cũng khó",
-        "snippet": "",
-        "url": "https://nld.com.vn/gia-ca-phe-hom-nay-11-12-lai-tang-tiep-muon-dau-co-cung-kho-19624121107172908.htm",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvh5xQ6QtprVbh7JuAd5rt3Yre24T4HdUDMcrLHjUupuHGqy4dkjPGrlb0up4",
+        "url": "https://nld.com.vn/ket-qua-xo-so-hom-nay-12-12-tay-ninh-an-giang-binh-thuan-binh-dinh-ha-noi-196241212145830962.htm",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOAbH0h1s0KhvxpJWRck95zXGh5ytrTaOfds50oEc-FqRn6vxqNLrV6utGRks",
         "source": "Báo Người Lao Động"
       }
     ]
   },
   {
-    "title": "conan",
+    "title": "hồ linh quang",
     "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Tue, 10 Dec 2024 21:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZLXtDUf_vHVWxHxvTRZxzPEtNcV8q4uEH1IhkW4u7277tD8grJ2QDlnaTGk",
-    "picture_source": "Insider Gaming",
+    "pubdate": "Thu, 12 Dec 2024 00:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcrRfjMO22I-ggNKedBzbTgQtVF8aCk84H6zXC0h5jSKsDX_Xugf8A4WUlp8",
+    "picture_source": "Tin tức 24h",
     "news_items": [
       {
-        "title": "Conan the Barbarian Joins Mortal Kombat 1 in January 2025",
+        "title": "Phát hiện cô gái tử vong tại hồ Văn Chương ở Hà Nội",
         "snippet": "",
-        "url": "https://insider-gaming.com/conan-the-barbarian-joins-mortal-kombat-1-in-january-2025/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZLXtDUf_vHVWxHxvTRZxzPEtNcV8q4uEH1IhkW4u7277tD8grJ2QDlnaTGk",
-        "source": "Insider Gaming"
+        "url": "https://www.24h.com.vn/an-ninh-xa-hoi/phat-hien-co-gai-tu-vong-tai-ho-van-chuong-o-ha-noi-c51a1625910.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcrRfjMO22I-ggNKedBzbTgQtVF8aCk84H6zXC0h5jSKsDX_Xugf8A4WUlp8",
+        "source": "Tin tức 24h"
       },
       {
-        "title": "First Look at Conan the Barbarian Gameplay in Mortal Kombat 1",
+        "title": "Bản tin chiều 12/12: Phát hiện cô gái tử vong tại hồ Văn Chương ở Hà Nội",
         "snippet": "",
-        "url": "https://www.ign.com/articles/first-look-at-conan-the-barbarian-gameplay-in-mortal-kombat-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9MsA9-VtIZumTPx7eon5LAa8oZIZ_V17orWgsI-8iHhJRFXx4x58X5wptUKU",
-        "source": "IGN"
+        "url": "https://vietnamnet.vn/ban-tin-chieu-12-12-phat-hien-co-gai-tu-vong-tai-ho-van-chuong-o-ha-noi-2351748.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJrh1aB_cpgUE_yRLxLKwytviImBAUPiRE8jxhyDxzdtzU0ICni5OpYU7r0U",
+        "source": "Báo VietNamNet"
       },
       {
-        "title": "Conan the Barbarian's gameplay revealed in new teaser trailer for Mortal Kombat 1: Khaos Reigns, early access starts January 21",
+        "title": "Phát hiện thi thể một phụ nữ tại hồ Văn Chương, Hà Nội",
         "snippet": "",
-        "url": "https://www.eventhubs.com/news/2024/dec/10/conan-barbarian-gameplay-trailer-mk1/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0067OkH4OgtaIPLx2qRFucgBTmV62mxOxLEV29PB-XOhx4xvDMyOKjEm-y-o",
-        "source": "EventHubs"
+        "url": "https://vov.vn/xa-hoi/phat-hien-thi-the-mot-phu-nu-tai-ho-van-chuong-ha-noi-post1141620.vov",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAKRksl9Yqyph7Cpt6TEcxCD71xafUN2W4ga3BMxoec7cHk_PDUjlq4gZX53g",
+        "source": "VOV"
       }
     ]
   },
   {
-    "title": "hoàng anh tuấn",
+    "title": "dự báo thời tiết tphcm",
     "link": "https://trends.google.com/trending/rss?geo=VN",
-    "pubdate": "Tue, 10 Dec 2024 21:00:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 00:40:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA2NlMnB-xjidIx7Scbj8USAjA5slnR7CzoNonw2mV2anltH6Ztje1GlrPmo0",
-    "picture_source": "VOV",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-ZPZTmPWJ4Iy4O5OY08MZFMQOXAHadq5JJT_y7ZzVcQRMj57xBv91eCQF9Bo",
+    "picture_source": "Báo Tuổi Trẻ",
     "news_items": [
       {
-        "title": "Chia tay HLV Hoàng Anh Tuấn, Bình Dương gây bất ngờ với HLV trưởng mới",
+        "title": "Mưa to kèm dông, sét ở khu vực Bình Chánh, Nhà Bè, Thủ Đức",
         "snippet": "",
-        "url": "https://vov.vn/the-thao/chia-tay-hlv-hoang-anh-tuan-binh-duong-gay-bat-ngo-voi-hlv-truong-moi-post1141247.vov",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA2NlMnB-xjidIx7Scbj8USAjA5slnR7CzoNonw2mV2anltH6Ztje1GlrPmo0",
-        "source": "VOV"
+        "url": "https://tuoitre.vn/mua-to-kem-dong-set-o-khu-vuc-binh-chanh-nha-be-thu-duc-20241212154237954.htm",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-ZPZTmPWJ4Iy4O5OY08MZFMQOXAHadq5JJT_y7ZzVcQRMj57xBv91eCQF9Bo",
+        "source": "Báo Tuổi Trẻ"
       },
       {
-        "title": "CLB Bình Dương công bố HLV trưởng mới thay ông Hoàng Anh Tuấn",
+        "title": "Không khí lạnh khuếch tán, thời tiết TPHCM mưa trái mùa kèm se lạnh",
         "snippet": "",
-        "url": "https://vietnamnet.vn/clb-binh-duong-cong-bo-hlv-truong-moi-thay-ong-hoang-anh-tuan-2351184.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7oxxJrnf-USApcIJFqtOTvRp9ApcXhm6muO8SQsxzD70Sk5yA9wARGUBJAzg",
+        "url": "https://vietnamnet.vn/thoi-tiet-tphcm-va-khu-vuc-nam-bo-tu-11-20-12-don-khong-khi-lanh-khuech-tan-2351197.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNnIAFAMvAvY2B7ssqJ3HrJhXxfVeAJ-zUqFl9I0KnyaaOWbac8vOpEtSilKg",
         "source": "Báo VietNamNet"
       },
       {
-        "title": "Cựu tiền vệ Sông Lam Nghệ An dẫn dắt Becamex Bình Dương",
+        "title": "Diễn biến đợt mưa trái mùa ở TP HCM và Nam Bộ",
         "snippet": "",
-        "url": "https://baonghean.vn/cuu-tien-ve-song-lam-nghe-an-dan-dat-becamex-binh-duong-10286752.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQTbvgACREbjinORurdpNZmg7ihsllmDlV9Ln1FDhXqf8jAMjd7QodU4ECjvs",
-        "source": "baonghean.vn"
+        "url": "https://nld.com.vn/dien-bien-dot-mua-trai-mua-o-tp-hcm-va-nam-bo-196241211081936122.htm",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRl1XMhrsZ7IBWqbt8nRBg8fT73HkzRf9rM3HSlePz2Fj1haBq3JQU3vAsc4lk",
+        "source": "Báo Người Lao Động"
       }
     ]
   }

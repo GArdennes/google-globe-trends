@@ -1,311 +1,304 @@
 [
   {
-    "title": "maxime chattam",
+    "title": "boston",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 05:50:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 03:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJLs8miEO2nS4pK-M-tSKnBAyXvsMFBpfeaQOZFeB2LBNUUyT2pM4Bublo0-E",
-    "picture_source": "Télé-Loisirs",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkjgLZboWTvPVXb6X4y6K25kpysHdwditn2YLJb7xPw8ZFY_zHCiN2XaQjK8g",
+    "picture_source": "The Boston Globe",
     "news_items": [
       {
-        "title": "\"J'accompagne ma femme\" : Maxime Chattam fait des confidences sur son quotidien avec Faustine Bollaert et leurs habitudes de couple",
+        "title": "Boston preps for incoming snowy weather ahead of the winter season",
         "snippet": "",
-        "url": "https://www.programme-tv.net/news/people/366277-j-accompagne-ma-femme-maxime-chattam-fait-des-confidences-sur-son-quotidien-avec-faustine-bollaert-et-leurs-habitudes-de-couple/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJLs8miEO2nS4pK-M-tSKnBAyXvsMFBpfeaQOZFeB2LBNUUyT2pM4Bublo0-E",
+        "url": "https://www.bostonglobe.com/2024/12/11/metro/boston-officials-outline-winter-preparations/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkjgLZboWTvPVXb6X4y6K25kpysHdwditn2YLJb7xPw8ZFY_zHCiN2XaQjK8g",
+        "source": "The Boston Globe"
+      },
+      {
+        "title": "Boston gears up for snowy season, officials remind residents to watch out \nfor neighbors",
+        "snippet": "",
+        "url": "https://www.bostonherald.com/2024/12/11/boston-gears-up-for-snowy-season-officials-remind-residents-to-watch-out-for-neighbors/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXVyCLgWI601v0TvBaRrv-AwJNRRLhLM0Bv-Y6-x4N8JItUdQLvAx03VKvaxM",
+        "source": "Boston Herald"
+      },
+      {
+        "title": "When was the Boston Tea Party? What to know about the infamous Boston \nHarbor protest",
+        "snippet": "",
+        "url": "https://www.patriotledger.com/story/lifestyle/2024/12/12/boston-tea-party-protest-anniversary/76890373007/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV-T9svY84BzjXfaDTfOZzglvk4S54ZTAkGwbFzoN3zd9O9cKUS1cj8kuKozY",
+        "source": "The Patriot Ledger"
+      }
+    ]
+  },
+  {
+    "title": "prime macron",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Thu, 12 Dec 2024 03:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu1Fgms1hYD5nYGXhqJFTU1idgstbwjSYap0qALC0jxPGjrkOOrSrfRrnhuQY",
+    "picture_source": "Le Parisien",
+    "news_items": [
+      {
+        "title": "Prime Macron, fonds vert, crédits de recherche… sans gouvernement, voici \ntout ce qui passe à la trappe",
+        "snippet": "",
+        "url": "https://www.leparisien.fr/economie/prime-macron-fonds-vert-credits-de-recherche-sans-gouvernement-voici-tout-ce-qui-passe-a-la-trappe-11-12-2024-VEQQTQWT4FBZRJHJSBMOME7YBY.php",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu1Fgms1hYD5nYGXhqJFTU1idgstbwjSYap0qALC0jxPGjrkOOrSrfRrnhuQY",
+        "source": "Le Parisien"
+      },
+      {
+        "title": "Budget 2025: On vous explique pourquoi il n’y aura pas de « prime Macron » \nsous le sapin cette année",
+        "snippet": "",
+        "url": "https://fr.news.yahoo.com/budget-2025-explique-pourquoi-n-104332541.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqLCkX62CQcwcOqYv6cD-TySbS-KFgzxzUUD11EbtZ0cup1eoMu7y_YLetJY",
+        "source": "Yahoo Actualités"
+      },
+      {
+        "title": "EXCLUSIF - Salaires : la « prime Macron » n'a plus la cote",
+        "snippet": "",
+        "url": "https://www.lesechos.fr/economie-france/social/exclusif-salaires-la-prime-macron-na-plus-la-cote-2137312",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLKBLguXcKpmkdgRMbmqjzOrMvbwLvjEt0EuBe1MTLfubMiLGV8zywun904KE",
+        "source": "Les Echos"
+      }
+    ]
+  },
+  {
+    "title": "rock en seine",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Thu, 12 Dec 2024 03:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1MZ_369w4TMhjz326P4FV-5g5ocyxwK7NlY07HClXOaRONN9P4PsUT9_5Cu0",
+    "picture_source": "Télérama",
+    "news_items": [
+      {
+        "title": "Pour 2025, Rock en Seine mise sur Chappell Roan, la nouvelle pop star queer",
+        "snippet": "",
+        "url": "https://www.telerama.fr/musique/pour-2025-rock-en-seine-mise-sur-chappell-roan-la-nouvelle-pop-star-queer-7023438.php",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1MZ_369w4TMhjz326P4FV-5g5ocyxwK7NlY07HClXOaRONN9P4PsUT9_5Cu0",
+        "source": "Télérama"
+      },
+      {
+        "title": "Rock en Seine 2025 dévoile ses premiers noms... pas très rock",
+        "snippet": "",
+        "url": "https://www.ouifm.fr/rock-en-seine-2025-devoile-ses-premiers-noms",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjIzC8078ohnhIJGMcMK0LXv5uepKhPscsLAzKDdW98Gl5ndkmFXynqE1rERQ",
+        "source": "OUI FM"
+      },
+      {
+        "title": "Rock en Seine 2025 : Chappell Roan, London Grammar... les premiers noms",
+        "snippet": "",
+        "url": "https://www.sortiraparis.com/scenes/concert-musique/articles/64022-rock-en-seine-2025-chappell-roan-london-grammar-les-premiers-noms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJKSC1gnDyzu7xIAF9Aqi07ClSFW3VJawi0TFgMzlIoPpgGEUm6jYgRCSwOHI",
+        "source": "Sortir à Paris"
+      }
+    ]
+  },
+  {
+    "title": "charlize theron",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Thu, 12 Dec 2024 03:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKWNPTa7ed21VOIO5FVV2boyV_xqXwmNAxjac94OdkPPBV9F4gNyV_Jmal8JA",
+    "picture_source": "Far Out Magazine",
+    "news_items": [
+      {
+        "title": "The role that allowed Charlize Theron to channel her inner Jack Nicholson",
+        "snippet": "",
+        "url": "https://faroutmagazine.co.uk/charlize-theron-channelled-jack-nicholson/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKWNPTa7ed21VOIO5FVV2boyV_xqXwmNAxjac94OdkPPBV9F4gNyV_Jmal8JA",
+        "source": "Far Out Magazine"
+      },
+      {
+        "title": "Cast of Christopher Nolan’s Next Movie Revealed: 3 Actors from Previous \nMovies, 3 Fresh Faces and a Whole Lot of Mystery",
+        "snippet": "",
+        "url": "https://m.imdb.com/news/ni64980187/?ref_=nm_nwr_1",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX8mWXIOCTp-ZNXDNWnTZ_TW1YnpCrRyN6UAi16UWx-QyfjO5qqWd2Wzh_T6s",
+        "source": "IMDb"
+      }
+    ]
+  },
+  {
+    "title": "jose de la torre",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Thu, 12 Dec 2024 03:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsoXSO45V97zON_OpBHbvsx4BflFJdANAFTf5t3ecdoJReIpfzVZruSlhLKv0",
+    "picture_source": "New York Post",
+    "news_items": [
+      {
+        "title": "Netflix star dead at 37 after short battle with ‘serious’ mystery illness",
+        "snippet": "",
+        "url": "https://nypost.com/2024/12/11/entertainment/jose-de-la-torre-netflix-star-dead-at-37-after-mystery-serious-illness/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsoXSO45V97zON_OpBHbvsx4BflFJdANAFTf5t3ecdoJReIpfzVZruSlhLKv0",
+        "source": "New York Post"
+      },
+      {
+        "title": "José de la Torre, Actor From Netflix Series ‘Toy Boy,’ Dies at 37",
+        "snippet": "",
+        "url": "https://variety.com/2024/tv/news/jose-de-la-torre-dead-netflix-toy-boy-1236246771/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4ILw6iDuQGocrgvO-GeB9ALAlogZAXZXOeeIzhKBvQDqk1Wvs3YW32lrX5cY",
+        "source": "Variety"
+      },
+      {
+        "title": "Netflix Star Dies at 37 After Mysterious Illness",
+        "snippet": "",
+        "url": "https://www.thedailybeast.com/spanish-netflix-jose-de-la-torre-star-dies-at-37-after-mysterious-illness/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmM5h5DtBZTEpFsQC2NqUdf9qMf2d88PGH3XqT_LXQ13ctQLu9g7kBiWOHGAU",
+        "source": "The Daily Beast"
+      }
+    ]
+  },
+  {
+    "title": "jean luc reichmann",
+    "link": "https://trends.google.com/trending/rss?geo=FR",
+    "pubdate": "Thu, 12 Dec 2024 03:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14up3n_BSbpVZ0q52T0ATi8VwmwuSF2sfm25u9fUykl7hIjJbuYABlI5Ojs0",
+    "picture_source": "Voici.fr",
+    "news_items": [
+      {
+        "title": "Les 12 coups de midi : Emilien accusé d'avoir des questions plus faciles \nque ses adversaires, Paul El Kharrat prend sa défense",
+        "snippet": "",
+        "url": "https://www.voici.fr/tele/les-12-coups-de-midi-emilien-accuse-d-avoir-des-questions-plus-faciles-que-ses-adversaires-paul-el-kharrat-prend-sa-defense-795441",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14up3n_BSbpVZ0q52T0ATi8VwmwuSF2sfm25u9fUykl7hIjJbuYABlI5Ojs0",
+        "source": "Voici.fr"
+      },
+      {
+        "title": "\"Il faut qu'il parte à un moment donné\" : Une candidate fait une \nproposition surprenante à Émilien dans Les 12 coups de midi",
+        "snippet": "",
+        "url": "https://www.programme-tv.net/news/tv/366845-il-faut-qu-il-parte-a-un-moment-donne-une-candidate-fait-une-proposition-surprenante-a-emilien-dans-les-12-coups-de-midi/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkwRW5h74ZUmuzG5IBq_cSOvXDBF_6Gs53BErWW3YljxYV5D2qZ86yv4uNms4",
         "source": "Télé-Loisirs"
       },
       {
-        "title": "« Je serais tenté de répondre oui » : une intrusion sur le plateau du JT de RTL serait-elle possible, comme dans le roman de Maxime Chattam ? Luc Gilson répond !",
+        "title": "\"C'est 10 heures par jour\" : Émilien (Les 12 coups de midi) se confie sur \nle rythme très intense des tournages",
         "snippet": "",
-        "url": "https://www.sudinfo.be/id927579/article/2024-12-11/je-serais-tente-de-repondre-oui-une-intrusion-sur-le-plateau-du-jt-de-rtl-serait",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRP3YCyTuip74uFNhCPSfyDQhryGKbNco6VuQbiQVp5w-BauMVp5EIMm_psUpE",
-        "source": "Sudinfo"
-      },
-      {
-        "title": "Maxime Chattam, fan de sa femme Faustine Bollaert : \"je regarde toutes ses émissions\"",
-        "snippet": "",
-        "url": "https://www.journaldesfemmes.fr/people/magazine/3208578-la-semaine-des-stars-people-decembre-slimane-pierre-palmade-loana/3209086-maxime-chattam-et-faustine-bollaert",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTA5rre72geidRCbYX2jl3ExwdiVYlzH5PmS6aSmqVaMj4dHabpbderbXZaTs",
-        "source": "Journal des Femmes"
+        "url": "https://www.programme.tv/news/actu/237867-c-est-10-heures-par-jour-emilien-les-12-coups-de-midi-se-confie-sur-le-rythme-tres-intense-des-tournages/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCxq6U-8zvXlbnzh4rq9wMw6SkRrF-YjVQA5cmMWWHq8rBhln2e6s1kclGlM",
+        "source": "Télé 2 semaines"
       }
     ]
   },
   {
-    "title": "captagon drogue",
+    "title": "jean michel moulun",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 05:10:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 02:40:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXf7PKjdlHYoY_KycLDUWn63sF3Z2bwTCFdiFZX0ILf46yS0jmGQQfJ_JzfMY",
-    "picture_source": "L'Indépendant",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaQfCcARY3SIr7lDSocud12EAl8l5lOV0xR7kS5-zWuGNfO7Uy-7baafiUE7E",
+    "picture_source": "La Voix du Nord",
     "news_items": [
       {
-        "title": "DIRECT. Chute du régime de Bachar el-Assad en Syrie : le Premier ministre Mohammad al-Bachir appelle les Syriens de l'étranger à rentrer chez eux",
+        "title": "L’ex-boxeur d’Hautmont Jean-Michel Moulun, accusé de décapitation, passe \naux aveux",
         "snippet": "",
-        "url": "https://www.lindependant.fr/2024/12/11/chute-du-regime-de-bachar-el-assad-en-syrie-il-est-temps-pour-ce-peuple-de-jouir-de-la-stabilite-et-du-calme-a-annonce-le-nouveau-ministre-de-la-12384371.php",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXf7PKjdlHYoY_KycLDUWn63sF3Z2bwTCFdiFZX0ILf46yS0jmGQQfJ_JzfMY",
-        "source": "L'Indépendant"
+        "url": "https://www.lavoixdunord.fr/1532400/article/2024-12-10/l-ex-boxeur-d-hautmont-jean-michel-moulun-accuse-de-decapitation-passe-aux-aveux",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaQfCcARY3SIr7lDSocud12EAl8l5lOV0xR7kS5-zWuGNfO7Uy-7baafiUE7E",
+        "source": "La Voix du Nord"
       },
       {
-        "title": "Damas : la nouvelle vie des habitants",
+        "title": "Montpellier : Prison à perpétuité pour l’ancien boxeur qui avait décapité \nl’institutrice",
         "snippet": "",
-        "url": "https://www.tf1.fr/tf1/jt-13h/videos/damas-la-nouvelle-vie-des-habitants-98737148.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4kE_rZTuB1G0zps5LFCKGMMX68P4Ya49Rg9ZopuQ_tFwu_Svl2_Vcn2pW12k",
-        "source": "TF1+"
-      },
-      {
-        "title": "«Nous garantirons le droit de tous les peuples», assure le premier ministre de transition syrien Mohammed Al-Bachir",
-        "snippet": "",
-        "url": "https://www.lefigaro.fr/international/nous-garantirons-le-droit-de-tous-les-peuples-assure-le-premier-ministre-de-transition-syrien-mohammed-al-bachir-20241211",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI4lZPJo3S1stnFgOSCvEBOrjan5ath8N8wYFJwZ6MDdA5fgthz0Kw0H4uJgc",
-        "source": "Le Figaro"
-      }
-    ]
-  },
-  {
-    "title": "marine lorphelin",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 05:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKI3dnCGloKv9IZm2agV-qNNlZbO_UuNHeX8R3h4NoK-T32W2V-nfw-oWj-hY",
-    "picture_source": "20 Minutes",
-    "news_items": [
-      {
-        "title": "Miss France : Que sont-elles devenues ?",
-        "snippet": "",
-        "url": "https://www.20minutes.fr/television/miss_france/diaporama-4128103-miss-france-elles-devenues",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKI3dnCGloKv9IZm2agV-qNNlZbO_UuNHeX8R3h4NoK-T32W2V-nfw-oWj-hY",
+        "url": "https://www.20minutes.fr/justice/4128752-20241212-montpellier-prison-perpetuite-ancien-boxeur-decapite-institutrice",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAd3BG6NxUoDHRsAARTYr3zQkZcM72pawnKGJHLfT8OsrDd2Jc8JJsGI2gZjM",
         "source": "20 Minutes"
       },
       {
-        "title": "QUIZ. C'est bientôt l'élection de Miss France 2025 : que sont devenues ces anciennes miss ?",
+        "title": "Une retraitée de 77 ans décapitée avec un couteau à pain : l’ancien boxeur \nJean-Michel Moulun avoue le meurtre et écope de la perpétuité",
         "snippet": "",
-        "url": "https://actu.fr/loisirs-culture/quiz-c-est-bientot-miss-france-2025-que-sont-devenues-ces-anciennes-miss_61916070.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnaaGEB1grMP7BtZ-I-QBANZ3H0pnh2OAW7QD1q-zpk727nuLr7_QgX_CyhbQ",
-        "source": "Actu.fr"
-      },
-      {
-        "title": "Télévision, cinéma, égéries… Quel parcours ont suivi les Miss France après leur sacre ? par Centre Presse",
-        "snippet": "",
-        "url": "https://www.poitevins.fr/centre-presse/actu/153033",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlFJQES1G5t5wVgmWMsDaFrdxFSrcCP2bv1egFS7_UoDQkiKyCLyfKRplEtzA",
-        "source": "Poitevins.fr"
+        "url": "https://www.ladepeche.fr/2024/12/11/une-retraitee-de-77-ans-decapitee-avec-un-couteau-a-pain-lancien-boxeur-jean-michel-moulun-avoue-le-meurtre-et-ecope-de-la-perpetuite-12384660.php",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRS96Ft5jcxwIkrboDBxzHN5j4Che7gx2Kdv3aaRzymT-YATnY7LA8cDw27wWI",
+        "source": "ladepeche.fr"
       }
     ]
   },
   {
-    "title": "epic games",
+    "title": "mélanie doutey",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 05:00:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAR_WIPf_tVLkxwfR8qrlo7cHED0nefxE36ekZkamUnTTo3vLMf2KwbOvtkBA",
-    "picture_source": "Federal Trade Commission (.gov)",
-    "news_items": [
-      {
-        "title": "Refunds on the way for Fortnite gamers charged for unwanted items",
-        "snippet": "",
-        "url": "https://consumer.ftc.gov/consumer-alerts/2024/12/refunds-way-fortnite-gamers-charged-unwanted-items",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAR_WIPf_tVLkxwfR8qrlo7cHED0nefxE36ekZkamUnTTo3vLMf2KwbOvtkBA",
-        "source": "Federal Trade Commission (.gov)"
-      },
-      {
-        "title": "The US will pay $72 million in compensation to victims of “dark schemes” of the Fortnite game",
-        "snippet": "",
-        "url": "https://babel.ua/en/news/113472-the-us-will-pay-72-million-in-compensation-to-victims-of-dark-schemes-of-the-fortnite-game",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBI7y4sD0cDAF301Gf-b_yL_HU7Lirct4s-ApnQzEXv1DozHxqAMPoATnF4A8",
-        "source": "Бабель"
-      },
-      {
-        "title": "How to get your cut of $245 million Fortnight settlement",
-        "snippet": "",
-        "url": "https://tribuneonlineng.com/how-to-get-your-cut-of-245-million-fortnight-settlement/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTc_8xXhCxv5h8San-_4CQauMkzAANLjsWV4rzLXVsemUehha6F8tIzfckOtSk",
-        "source": "Tribune Online"
-      }
-    ]
-  },
-  {
-    "title": "benguigui catherine",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_y3MdFm1L4W8uamco5viN47bht6ALlOYNdxK6jsCkVU3xr4LY49lDkbYvCVY",
-    "picture_source": "Télé-Loisirs",
-    "news_items": [
-      {
-        "title": "Catherine Benguigui (Demain nous appartient) : Ce salaire à cinq chiffres qu'elle touche dans la série de TF1",
-        "snippet": "",
-        "url": "https://www.programme-tv.net/news/people/366813-catherine-benguigui-demain-nous-appartient-ce-salaire-a-cinq-chiffres-qu-elle-touche-dans-la-serie-de-tf1/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_y3MdFm1L4W8uamco5viN47bht6ALlOYNdxK6jsCkVU3xr4LY49lDkbYvCVY",
-        "source": "Télé-Loisirs"
-      },
-      {
-        "title": "Des techniciens virés de Demain nous appartient pour leur comportement : \"Il y a eu des problèmes...\", révèle Catherine Benguigui (VIDEO)",
-        "snippet": "",
-        "url": "https://www.programme-television.org/news/tv/sequences-tele/des-techniciens-vires-de-demain-nous-appartient-pour-leur-comportement-il-y-a-eu-des-problemes-revele-catherine-benguigui-video-4735871",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyJilWe--dX_Noc1B-zrzlmbuHURtC5C3JydBVCP_Ih-aimjz-3g9JHasldic",
-        "source": "Télé 7 Jours"
-      },
-      {
-        "title": "Demain nous appartient : \"Des gens virés\" après des comportements déplacés, Catherine Benguigui raconte",
-        "snippet": "",
-        "url": "https://www.telestar.fr/serie_tv/demain-nous-appartient-des-gens-vires-apres-des-comportements-deplaces-catherine-benguigui-raconte-1701119",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsVwy8MHzndL0Bq9wUhUyHoIMV9kC0Rez0UhpVZVqNBgqi_O6eVWfl99l8L-s",
-        "source": "Télé Star"
-      }
-    ]
-  },
-  {
-    "title": "parc asterix",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS__oboJOmLqJjOur2zpyDwClV7BMQvLbz5yjuOVRLGT9rAHn6HDR6bIWwhtyU",
-    "picture_source": "Europe 2",
-    "news_items": [
-      {
-        "title": "Gagnez vos places pour le Parc Astérix avec Europe 2 !",
-        "snippet": "",
-        "url": "https://www.europe2.fr/jeux-concours/gagnez-vos-places-pour-le-parc-asterix-avec-europe-2-4-131828.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS__oboJOmLqJjOur2zpyDwClV7BMQvLbz5yjuOVRLGT9rAHn6HDR6bIWwhtyU",
-        "source": "Europe 2"
-      },
-      {
-        "title": "Laura Smet, Louis Garrel, Camille Cottin, Faustine Bollaert, Nagui… Leur Noël Gaulois au Parc Astérix",
-        "snippet": "",
-        "url": "https://www.parismatch.com/people/laura-smet-louis-garrel-camille-cottin-faustine-bollaert-nagui-leur-noel-gaulois-au-parc-asterix-244420",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGF-rIMn_CFDX6QWTwv_UWFePVLu8xT9w9cJmL4ucys-ChbL5QST48ni3G2xE",
-        "source": "parismatch.com"
-      },
-      {
-        "title": "On a goûté aux nouveautés culinaires du Parc Astérix pour Noël et, franchement, on s’est régalés",
-        "snippet": "",
-        "url": "https://www.konbini.com/lifestyle/on-a-goute-aux-nouveautes-culinaires-du-parc-asterix-pour-noel-et-franchement-on-sest-regales/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxXlMuLD4ihUAueRHzsgE2mScq9F07_lXVTYD4gyjsZ3mADkfBdL53nxkPAcY",
-        "source": "Konbini"
-      }
-    ]
-  },
-  {
-    "title": "digne les bains",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 04:30:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 02:40:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOnzNeEVH2UlySdVR109YoSgqkFxQJsA6xKEJ34Ip6BNTYdm5sOHPs7m9tMJM",
-    "picture_source": "Le Dauphiné",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO7-xamZ32G8orNnWu6BocEUHFrFq98ksEq8bhCQZDUMPM1INjyz_to_ArYyM",
+    "picture_source": "Radio France",
     "news_items": [
       {
-        "title": "Alpes-de-Haute-Provence. Municipales : Julien Di Benedetto, premier à se présenter à Digne-les-Bains",
+        "title": "Mélanie Doutey et Gringe pour \"Les Cadeaux\"",
         "snippet": "",
-        "url": "https://www.ledauphine.com/politique/2024/12/11/julien-di-benedetto-est-le-premier-candidat-aux-municipales-de-digne",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOnzNeEVH2UlySdVR109YoSgqkFxQJsA6xKEJ34Ip6BNTYdm5sOHPs7m9tMJM",
-        "source": "Le Dauphiné"
+        "url": "https://www.radiofrance.fr/franceinter/podcasts/la-bande-originale/la-bande-originale-du-jeudi-12-decembre-2024-8042167",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO7-xamZ32G8orNnWu6BocEUHFrFq98ksEq8bhCQZDUMPM1INjyz_to_ArYyM",
+        "source": "Radio France"
       },
       {
-        "title": "Municipales 2026 : à Digne-les-Bains, Julien Di Benedetto, candidat surprise pour être maire \"à plein temps\"",
+        "title": "[Cinéma] Les Cadeaux : le troisième teaser",
         "snippet": "",
-        "url": "https://www.laprovence.com/article/region/2369823685087615/municipales-2026-a-digne-les-bains-julien-di-benedetto-candidat-surprise-pour-etre-maire-a-plein-temps",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv8SVFs7VX7L9vuyMWuyzMv_PojnBGNGdAX2Yhrp50xwfP3MqhlDHsZWGu_vk",
-        "source": "La Provence"
+        "url": "https://culturellementvotre.fr/2024/12/11/cinema-les-cadeaux-le-troisieme-teaser/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS5VnL4DqQrnNU4FurowzUypzPjjSABsxRho12d80Ew20U9XHjzHPfeUQRlSM",
+        "source": "Culturellement Vôtre"
       },
       {
-        "title": "Digne-les-Bains. Municipales 2026 : Julien Di Benedetto annonce sa candidature",
+        "title": "Cinéma. Un Normand sous le sapin : Gringe illumine votre comédie familiale \nde Noël \"Les Cadeaux\" !",
         "snippet": "",
-        "url": "https://www.hauteprovenceinfo.com/actualite-45678-digne-les-bains-municipales-2026-julien-di-benedetto-annonce-sa-candidature",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAp537y97BhPF3wjlIW4SKC5tR6Z7tD9ovR8hVFlUz52OjllOBMsS_myt_XE",
-        "source": "hauteprovenceinfo.com"
+        "url": "https://www.tendanceouest.com/actualite-424531-cinema-un-normand-sous-le-sapin-gringe-illumine-votre-comedie-familiale-de-noel-les-cadeaux",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSle5ZDJF21ZRzvRPqmlxZ3kuW-dFB4c83s40Q_XhxtLKZVMjkbVkyJhVQzWIY",
+        "source": "tendanceouest.com"
       }
     ]
   },
   {
-    "title": "incendie marché de noël bordeaux",
+    "title": "neuvic",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQahwvgB-5T3z4RJPFJKa1WKyodjYDoKMskT1-1JiKRCR5iJ6NE0eviGh-01sw",
+    "pubdate": "Thu, 12 Dec 2024 02:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA7vs0ZmHdZ_dw1zWDmC6ZdKiK3cOlZPt3yDr1OKSsYsP3gIBDUPotrbFN4Io",
     "picture_source": "Sud Ouest",
     "news_items": [
       {
-        "title": "VIDEO. Incendie à Bordeaux : deux chalets du marché de Noël prennent feu sur la place des Quinconces",
+        "title": "Dordogne : quelle stratégie de conquête pour le Caviar de Neuvic ?",
         "snippet": "",
-        "url": "https://www.sudouest.fr/gironde/bordeaux/video-un-stand-du-marche-de-noel-de-bordeaux-prend-feu-22485609.php",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQahwvgB-5T3z4RJPFJKa1WKyodjYDoKMskT1-1JiKRCR5iJ6NE0eviGh-01sw",
+        "url": "https://www.sudouest.fr/dordogne/neuvic/dordogne-quelle-strategie-de-conquete-pour-le-caviar-de-neuvic-22384789.php",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA7vs0ZmHdZ_dw1zWDmC6ZdKiK3cOlZPt3yDr1OKSsYsP3gIBDUPotrbFN4Io",
         "source": "Sud Ouest"
       },
       {
-        "title": "Incendie au marché de Noël de Bordeaux : on sait quand rouvre le marché après la destruction de deux chalets",
+        "title": "Pétition contre l'ouverture d'un McDonald's : \"La facilité économique de \nses maires fainéants\", tacle Barbara Lefebvre",
         "snippet": "",
-        "url": "https://actu.fr/nouvelle-aquitaine/bordeaux_33063/incendie-au-marche-de-noel-de-bordeaux-on-sait-quand-rouvre-le-marche-apres-la-destruction-de-deux-chalets_61988127.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYETmms5_4tdiTxt-LV3u6B8mXphK17GFPaAQqbuNnjy0ynx0jqFvD5SVumZU",
-        "source": "Actu.fr"
+        "url": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/petition-contre-l-ouverture-d-un-mc-donald-s-la-facilite-economique-de-ses-maires-faineants-tacle-barbara-lefebvre_VN-202412120459.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwDlRor8oGTADYm1-aN6AY3I12E7-8LXUxSc59-P_BCxQUOckfxN8dcDZe8o4",
+        "source": "RMC"
       },
       {
-        "title": "Un impressionnant incendie se déclare dans un cabanon du marché de Noël, un second chalet touché",
+        "title": "\"Au pays de la bonne bouffe, un McDonald’s ici, je ne pense pas que ce soit \nl'esprit village\" : ils ne veulent pas de la célèbre enseigne fast-food \ndans leur commune",
         "snippet": "",
-        "url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/un-impressionnant-incendie-se-declare-dans-un-cabanon-du-marche-de-noel-d-autres-chalets-touches-3074617.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSXJ9ICwMtcLuLr8nUrat-GmZ_9oVwMgkPKJe1w2Ciq69rsI5L3uNheG2BVYE",
+        "url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/dordogne/perigueux/au-pays-de-la-bonne-bouffe-un-mac-donald-ici-je-ne-pense-pas-que-ce-soit-l-esprit-village-ils-ne-veulent-pas-de-la-celebre-enseigne-fast-food-dans-leur-commune-3074281.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGkFjM3SYvShfgOGe5caj1mgRlW077gRksd1E8UYlUPg3608LeqB8lq0ALIxQ",
         "source": "France 3 Régions"
       }
     ]
   },
   {
-    "title": "thiberville",
+    "title": "cyril féraud",
     "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 04:20:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 02:30:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSljsx31DvbthCEkpriNfvQ6RmdfxTSAGK8lNdQkqAng45TAHzFt6ZjLYZJQGU",
-    "picture_source": "Actu.fr",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5EwNXX1PvAH14jr5PWodj7cT0xtzerBwv5_TMKqbE9pgTa-5_zqYKhYXO3qs",
+    "picture_source": "Télé-Loisirs",
     "news_items": [
       {
-        "title": "Cette petite commune de Normandie reçoit dix millions d'euros... d'un inconnu",
+        "title": "Cyril Féraud, Denitsa Ikonomova et François Alu, Leïla Bekhti et Tahar \nRahim... Quelles stars ont accueilli un bébé en 2024 ?",
         "snippet": "",
-        "url": "https://actu.fr/normandie/thiberville_27629/cette-petite-commune-de-normandie-recoit-dix-millions-deuros-dun-inconnu_61962325.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSljsx31DvbthCEkpriNfvQ6RmdfxTSAGK8lNdQkqAng45TAHzFt6ZjLYZJQGU",
-        "source": "Actu.fr"
+        "url": "https://www.programme-tv.net/news/people/366859-cyril-feraud-denitsa-ikonomova-et-francois-alu-leila-bekhti-et-tahar-rahim-quelles-stars-ont-accueilli-un-bebe-en-2024/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5EwNXX1PvAH14jr5PWodj7cT0xtzerBwv5_TMKqbE9pgTa-5_zqYKhYXO3qs",
+        "source": "Télé-Loisirs"
       },
       {
-        "title": "Un inconnu lègue plus de 10 millions d'euros à une petite commune de l'Eure",
+        "title": "12 bébés de stars nés en 2024",
         "snippet": "",
-        "url": "https://actu.orange.fr/videos/actu-locale/un-inconnu-legue-plus-de-10-millions-d-euros-a-une-petite-commune-de-l-eure-CNT000002gEZRH.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrgEJe1RzWN_AI1APIQr3CmIm4XKb1MoJgQDZETJXGA2xpb_s_vJK4hKkpqzU",
-        "source": "Orange"
+        "url": "https://www.cosmopolitan.fr/les-bebes-de-stars-nes-en-2024,2123274.asp",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYxmZRai04fvvoKPOlygnUL_rBJIZvmvsm0nGBar-QtI95sp4t-pCP3Prq-g4",
+        "source": "Cosmopolitan.fr"
       },
       {
-        "title": "Eure: un inconnu lègue plus de 10 millions d'euros à une petite commune qui porte son nom",
+        "title": "Bébés nés en 2024: de nombreuses stars ont accueilli un enfant",
         "snippet": "",
-        "url": "https://www.bfmtv.com/normandie/eure-un-inconnu-legue-plus-de-10-millions-d-euros-a-une-petite-commune-qui-porte-son-nom_AN-202412110456.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD9TyqjlfMAQZuDXGQNkwOoJmAZsaM-1ldbCUtLEUfowzwhwKhfQUxB-ooUhI",
-        "source": "BFMTV"
-      }
-    ]
-  },
-  {
-    "title": "miss france 2025 candidates",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Wed, 11 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArASgQhzmaenHyr6Y52vUEc0rqN6VP_dqYQkojo_CD92sXhFF31JcLiUn_4M",
-    "picture_source": "ladepeche.fr",
-    "news_items": [
-      {
-        "title": "Miss France 2025 : yaourt, photos dénudées, caractère… quand la polémique s’empare du concours",
-        "snippet": "",
-        "url": "https://www.ladepeche.fr/2024/12/11/miss-france-2025-yaourt-photos-denudees-caractere-quand-la-polemique-sempare-du-concours-12371246.php",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArASgQhzmaenHyr6Y52vUEc0rqN6VP_dqYQkojo_CD92sXhFF31JcLiUn_4M",
-        "source": "ladepeche.fr"
-      },
-      {
-        "title": "Miss France 2025 : cette candidate qui bouscule les codes du concours",
-        "snippet": "",
-        "url": "https://madame.lefigaro.fr/beaute/miss-france-2025-cette-candidate-qui-bouscule-les-codes-du-concours-20241211",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5hmQ2H1KP7Lnv47HcD0JfA0s7cdLZ5DgC3OzDMl3XP2y1uAzla0iD68_7sqc",
-        "source": "Madame Figaro"
-      },
-      {
-        "title": "Miss Guadeloupe va devenir Miss France 2025 (selon une IA prédictive)",
-        "snippet": "",
-        "url": "https://www.20minutes.fr/arts-stars/television/miss_france/4128241-20241210-miss-france-2025-miss-guadeloupe-va-emporter-selon-ia-predictive",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0VLhBc383-l4d7dgeyJSrVpm7UHupjPLV8rCRkRn-naHKIh8bYy2AuCTKhwg",
-        "source": "20 Minutes"
+        "url": "https://www.nrj.be/article/27441/bebes-nes-en-2024-de-nombreuses-stars-ont-accueilli-un-enfant",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2urGWzdXoCuDVRAvGJPwf8qvge486h4bgJdfMoGjhHGmhxw3ePts-VqKPVg",
+        "source": "NRJ Belgique"
       }
     ]
   }

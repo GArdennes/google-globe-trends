@@ -1,125 +1,289 @@
 [
   {
-    "title": "outlook",
+    "title": "rockets - warriors",
     "link": "https://trends.google.com/trending/rss?geo=PA",
-    "pubdate": "Tue, 10 Dec 2024 04:30:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsI5Ii_Aw4fwJ_tqJQNX-qULKAfj3JxXs4ZAoQ_CTDdeJAAuWS8xivIH2Z-O4",
-    "picture_source": "BleepingComputer",
+    "pubdate": "Wed, 11 Dec 2024 20:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCw1F9whMIYfOALyuth6m08Tsj1ZJsegnuKXxatujMeeoWpa4vylAhD91ssA",
+    "picture_source": "NBA.com",
     "news_items": [
       {
-        "title": "Microsoft 365 outage takes down Office web apps, admin center",
+        "title": "Updated game schedules for teams eliminated in NBA Cup Quarterfinals",
         "snippet": "",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-office-web-apps-admin-center/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsI5Ii_Aw4fwJ_tqJQNX-qULKAfj3JxXs4ZAoQ_CTDdeJAAuWS8xivIH2Z-O4",
-        "source": "BleepingComputer"
+        "url": "https://www.nba.com/news/updated-game-schedules-for-teams-eliminated-in-nba-cup-quarterfinals",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCw1F9whMIYfOALyuth6m08Tsj1ZJsegnuKXxatujMeeoWpa4vylAhD91ssA",
+        "source": "NBA.com"
       },
       {
-        "title": "Is Outlook email down? Microsoft 365 outage reported today. Here's what to know",
+        "title": "“Stephen Curry Got Hit”: Deprived of $8.7M Dream, Steve Kerr Demands Action Against Bill Kennedy & Co for Cancelling Vegas Flight",
         "snippet": "",
-        "url": "https://www.yahoo.com/news/outlook-email-down-microsoft-365-123636921.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD2Rq6-gxAZJz5XQVtYGxTjzChu6p_A04dTC7bL8tV2_NWo0EuK5jkhKQPslM",
+        "url": "https://www.essentiallysports.com/nba-active-basketball-news-stephen-curry-got-hit-deprived-of-eight-million-seven-hundred-thousand-dream-steve-kerr-demands-action-against-bill-kennedy-co-for-cancelling-vegas-flight/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOC_W6OfpdTn8-D1ktG4Y0Q0rZr6jWFVPVGqx42MzAleQLqeeV_kxTAmgaDko",
+        "source": "EssentiallySports"
+      },
+      {
+        "title": "Late-game scoring issue leading Warriors toward ‘mediocre' realization",
+        "snippet": "",
+        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/late-game-struggles-houston-rockets-nba-cup/1812662/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ79jkJQ7pj4u2UQ3y9ZTPjU5rcDWOgYjsqS4Vfc4hztWGYJkVYlblWdobRYs",
+        "source": "NBC Sports Bay Area & California"
+      }
+    ]
+  },
+  {
+    "title": "lily phillips",
+    "link": "https://trends.google.com/trending/rss?geo=PA",
+    "pubdate": "Wed, 11 Dec 2024 17:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR05tnZjCtYghkkeciXYAinc970f9LbKoobaMUeAbmRLvzdHOpek1lI3xBxR0",
+    "picture_source": "The Mirror",
+    "news_items": [
+      {
+        "title": "People call for OnlyFans ban as Lily Phillips in tears after sleeping with 101 men in a day",
+        "snippet": "",
+        "url": "https://www.mirror.co.uk/lifestyle/sex-relationships/people-call-onlyfans-ban-lily-34292312",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR05tnZjCtYghkkeciXYAinc970f9LbKoobaMUeAbmRLvzdHOpek1lI3xBxR0",
+        "source": "The Mirror"
+      },
+      {
+        "title": "Lily Phillips: Former Sheffield student aims to sleep with 1,000 men in 24 hours to break world record",
+        "snippet": "",
+        "url": "https://www.thestar.co.uk/news/people/lily-phillips-former-sheffield-student-aims-to-sleep-with-1000-men-in-24-hours-to-break-world-record-4906591",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHPbeIq6AaFvj-Q3oWrtaiRqJiJwQeZwbLI8yXt9_ADQxo-ss9HeTBU1bDQ3U",
+        "source": "The Star"
+      },
+      {
+        "title": "OnlyFans Model Lily Phillips Cries After Sex With 100 Men in One Day",
+        "snippet": "",
+        "url": "https://www.yahoo.com/entertainment/onlyfans-model-lily-phillips-cries-220049449.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cohlyY8MBhVJl7xYxtxC68PlT3FiWvhsxOnilgnBsq8epj9_8yImLNmpbvI",
         "source": "Yahoo"
+      }
+    ]
+  },
+  {
+    "title": "chatgpt",
+    "link": "https://trends.google.com/trending/rss?geo=PA",
+    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+    "picture_source": "CNBC",
+    "news_items": [
+      {
+        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+        "source": "CNBC"
       },
       {
-        "title": "Microsoft 365 outage hits Outlook and Teams users worldwide, company suggests temporary solution",
+        "title": "ChatGPT is down: What happened and when will it be back?",
         "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-hits-outlook-and-teams-users-worldwide-company-suggests-temporary-solution/articleshow/116177235.cms",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0oR_uF6EYKZBp2zfxotsYdOD77kkavl-ehaEKuAgDlxm38__YssWEQNovZ6U",
+        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
+        "source": "Diario AS"
+      },
+      {
+        "title": "ChatGPT back online after global outage",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
         "source": "Times of India"
       }
     ]
   },
   {
-    "title": "west ham - wolves",
+    "title": "gemini",
     "link": "https://trends.google.com/trending/rss?geo=PA",
-    "pubdate": "Mon, 9 Dec 2024 12:20:00 -0800",
-    "approx_traffic": "200+",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOR3Nj-mrfEpVVTFX4gvMTcvmgj8GwJh2ezR5m-rkGV1eatHKUPw9097zcJNw",
-    "picture_source": "BBC",
+    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
+    "picture_source": "Google Blog",
     "news_items": [
       {
-        "title": "West Ham 2-1 Wolves LIVE: Jarrod Bowen scores winner as West Ham increase pressure on Wolves boss Gary O'Neil",
+        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cly7j2pngr4t",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOR3Nj-mrfEpVVTFX4gvMTcvmgj8GwJh2ezR5m-rkGV1eatHKUPw9097zcJNw",
-        "source": "BBC"
+        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
+        "source": "Google Blog"
       },
       {
-        "title": "Jermaine Defoe hails three West Ham stars who can 'create something out of nothing' after win over Wolves",
+        "title": "A former Google designer reveals what goes into building its AI models like Gemini",
         "snippet": "",
-        "url": "https://tbrfootball.com/jermaine-defoe-hails-three-west-ham-stars-who-can-create-something-out-of-nothing-after-win-over-wolves/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppHUlCdDufhpjHxytefi0p97NG84QUJes1KsUPHqZZXWQHMgFPbYHa1o5azk",
-        "source": "TBR Football"
+        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
+        "source": "Business Insider"
       },
       {
-        "title": "Joe Cole Sees Goals in 18/1 Bet Builder",
+        "title": "Alphabet Stock Hits a Record High on New AI Models",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2160772-joe-cole-sees-goals-in-18-1-bet-builder",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbKPqyRwDD4fOtis1bLfFB88gbyBohabgiJgHK8byuYoEsfwud0wu3sD4dHew",
-        "source": "FootBoom"
+        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
+        "source": "Barron's"
       }
     ]
   },
   {
-    "title": "luigi mangione",
+    "title": "city",
     "link": "https://trends.google.com/trending/rss?geo=PA",
-    "pubdate": "Mon, 9 Dec 2024 12:00:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
+    "pubdate": "Wed, 11 Dec 2024 14:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-q3HKBhtoSac_sF2z6Vceh4BMHBtDDL9cbWgunMv4Jxfjg5s77GGI8PyhUY4",
     "picture_source": "CNN",
     "news_items": [
       {
-        "title": "‘I never got the impression he would self-destruct:’ Friends of suspect in \nfatal CEO shooting left in shock",
+        "title": "Russian forces less than 2 miles from key Ukrainian city of Pokrovsk",
         "snippet": "",
-        "url": "https://www.cnn.com/2024/12/09/us/luigi-mangione-what-we-know-monday/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjX13yI5ybM8I27g4dRKYNwCk9xD1uRpqXb4q2T7FXqsiTUZxEz3sytuWZntM",
+        "url": "https://www.cnn.com/2024/12/11/europe/russian-forces-close-ukraine-pokrovsk-intl-latam/index.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-q3HKBhtoSac_sF2z6Vceh4BMHBtDDL9cbWgunMv4Jxfjg5s77GGI8PyhUY4",
         "source": "CNN"
       },
       {
-        "title": "UnitedHealthcare CEO shooting: Suspect charged with murder, said 'these \nparasites had it coming' in handwritten note",
+        "title": "Ukraine War Map Reveals Russians Within Striking Distance of Critical City",
         "snippet": "",
-        "url": "https://www.nbcnews.com/news/us-news/live-blog/unitedhealthcare-ceo-shooting-suspect-charged-murder-live-updates-rcna183566",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSms806I2hM-URrnIWpZdrtXAefOsyRpWfPqVEQfwjJRyGtT8Zh4z0Z0IexVdM",
-        "source": "NBC News"
+        "url": "https://www.newsweek.com/ukraine-war-map-reveals-russians-within-striking-distance-critical-city-1999600",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPkstM41EXZhnWtdr5tL_rKY5I-ZX9WuZ-ba3LGThVc_oPojpLkbUcIVYyazM",
+        "source": "Newsweek"
       },
       {
-        "title": "Person of Interest in UnitedHealthcare CEO’s Killing Identified as Prep \nSchool Valedictorian",
+        "title": "Russia Closes In On Key Ukrainian City Amid Surge In Peace Diplomacy",
         "snippet": "",
-        "url": "https://www.yahoo.com/news/person-interest-unitedhealthcare-ceo-killing-181942543.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqYHS1pXuZUQukgLHVTzfik5s016Px--NC6BGuuwsOP0PZI1LSyibpAEFMg0",
-        "source": "Yahoo"
+        "url": "https://www.rferl.org/a/russia-gains-ground-near-pokrovsk-amid-diplomacy-surge-toward-peace-talks-/33237342.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwaFLViIZx-LllqlRU7jxfrKOxT8vxWgWqCYfZW7TKcxrYoBhYHfLeijZRD0E",
+        "source": "Radio Free Europe/Radio Liberty"
       }
     ]
   },
   {
-    "title": "getafe - rcd espanyol",
+    "title": "champions league 2024",
     "link": "https://trends.google.com/trending/rss?geo=PA",
-    "pubdate": "Mon, 9 Dec 2024 11:20:00 -0800",
-    "approx_traffic": "1000+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo-wAL9fkBEjsod510KpEQc-QTU8O3beKMnesuIGHB6Cr7PbFzEYTYD4scwxI",
-    "picture_source": "Diario AS",
+    "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyblcTI_7TaAM-H4Mn-j21Qm6lhKv3jVPjQJvozEBfU_bYh8r5h7dswSifFaY",
+    "picture_source": "Daily Express",
     "news_items": [
       {
-        "title": "Álvaro Rodríguez es el ‘Coco’",
+        "title": "Steve McManaman and Rio Ferdinand slam VAR after Liverpool controversy",
         "snippet": "",
-        "url": "https://as.com/futbol/primera/alvaro-rodriguez-es-el-coco-n/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo-wAL9fkBEjsod510KpEQc-QTU8O3beKMnesuIGHB6Cr7PbFzEYTYD4scwxI",
-        "source": "Diario AS"
+        "url": "https://www.express.co.uk/sport/football/1987134/Steve-McManaman-Rio-Ferdinand-VAR-Liverpool-penalty",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyblcTI_7TaAM-H4Mn-j21Qm6lhKv3jVPjQJvozEBfU_bYh8r5h7dswSifFaY",
+        "source": "Daily Express"
       },
       {
-        "title": "El Getafe vuelve a sonreír un lunes: un gol de Álvaro Rodríguez complica al Espanyol",
+        "title": "Alisson 'the best goalkeeper in the world', says Slot",
         "snippet": "",
-        "url": "https://www.marca.com/futbol/primera-division/cronica/2024/12/09/675753ca46163ff8478b4581.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK3lXJ5NXhO67JCbDd_2FpVCPkASy-oJzUF3Fdbr3h5_dl3Hc8cJ0rcAFmc4",
-        "source": "Marca.com"
+        "url": "https://www.beinsports.com/en-nz/football/premier-league/articles/alisson-the-best-goalkeeper-in-the-world-says-slot-2024-12-11",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZjl7jeZMSpZqmA-mENFLMxMzkmsJVcM6P22tKTp3ZGTFCr3fFZrhvPz2nysQ",
+        "source": "beIN SPORTS"
       },
       {
-        "title": "Así queda la clasificación de LaLiga tras la derrota del Espanyol en Getafe",
+        "title": "Salah penalty maintains Liverpool's winning run with victory at Girona",
         "snippet": "",
-        "url": "https://www.mundodeportivo.com/futbol/laliga/20241209/1002368184/asi-queda-clasificacion-laliga-derrota-espanyol-getafe.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuqT0iZxoFtGNdMciwNUkmY0MKyVGYQlpFXkPVS1pdY1hQFR7vOmmWRAJIu_E",
+        "url": "https://www.chinadaily.com.cn/a/202412/12/WS675a41c1a310f1265a1d2790.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBmqqXbV9fGXXCJdvdmv7BTMWM61LDjCgCARw4nLkIo2feBS26WWSwJ8Im5oM",
+        "source": "China Daily"
+      }
+    ]
+  },
+  {
+    "title": "marca",
+    "link": "https://trends.google.com/trending/rss?geo=PA",
+    "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "dortmund",
+    "link": "https://trends.google.com/trending/rss?geo=PA",
+    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZbgmaBnMvlKidLrNhhBKBjyrrYOmIflkAPeICHEQpf6cBe88EizDwNKi766A",
+    "picture_source": "FootBoom",
+    "news_items": [
+      {
+        "title": "Gio Reyna feiert Champions-League-Rückkehr mit Startelfplatz für Borussia Dortmund",
+        "snippet": "",
+        "url": "https://www.footboom1.com/de/news/football/2169309-gio-reyna-marks-champions-league-return-with-starting-spot-for-borussia-dortmund",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZbgmaBnMvlKidLrNhhBKBjyrrYOmIflkAPeICHEQpf6cBe88EizDwNKi766A",
+        "source": "FootBoom"
+      },
+      {
+        "title": "BVB-Kapitän Emre Can erklärt Elfmeter-Diskussion mit Serhou Guirassy",
+        "snippet": "",
+        "url": "https://www.ruhr24.de/bvb/bvb-elfmeter-diskussion-emre-can-serhou-guirassy-fc-barcelona-champions-league-borussia-dortmund-93464556.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTC7FmKF_crBldVeazP1hOCl4Uly3n9YtrnACpBXqVA7GDuoTLyqOCCvlF4i-c",
+        "source": "RUHR24"
+      },
+      {
+        "title": "Flick-PK auf Deutsch: „Erste Halbzeit eine der besten“",
+        "snippet": "",
+        "url": "https://www.barcawelt.de/interview/nach-bvb-fc-barcelona-hansi-flick-pk-komplett-auf-deutsch-im-video/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-O4cMuzw7huWGlJy70v0c32At0TLkM9i45lxoXnecE_ExS0U4ZFNpFI1cQNs",
+        "source": "Barçawelt"
+      }
+    ]
+  },
+  {
+    "title": "borussia dortmund",
+    "link": "https://trends.google.com/trending/rss?geo=PA",
+    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeJbhytwavKrwC5bRA6EXP8uV8Km8LOiEL_1priCBQyVddccO1kNpqb4kXVYA",
+    "picture_source": "RAN",
+    "news_items": [
+      {
+        "title": "BVB - Sahin sauer auf Ballack: \"Muss aufpassen, was ich sage\"",
+        "snippet": "",
+        "url": "https://www.ran.de/sports/fussball/champions-league/news/bvb-nuri-sahin-reagiert-auf-michael-ballack-muss-aufpassen-was-ich-sage-472052",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeJbhytwavKrwC5bRA6EXP8uV8Km8LOiEL_1priCBQyVddccO1kNpqb4kXVYA",
+        "source": "RAN"
+      },
+      {
+        "title": "Eine Statistik bleibt nach dem 2:3 gegen den FC Barcelona alarmierend! Marcel Sabitzer ist beim BVB ein Sorgenkind",
+        "snippet": "",
+        "url": "https://www.spox.com/fussball/listen/eine-statistik-bleibt-nach-dem-2-3-gegen-den-fc-barcelona-alarmierend-marcel-sabitzer-ist-beim-bvb-ein-sorgenkind/blt1429407ef5903d79",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSE37NNtwRdTYllgd2PafQV2yklEO4_YkCWzHFA57i-e7ctg6ARGipe6siguFA",
+        "source": "SPOX.com"
+      },
+      {
+        "title": "Borussia Dortmund: Schlotterbeck-Schock ist nicht alles – es kommt noch dicker",
+        "snippet": "",
+        "url": "https://www.derwesten.de/sport/fussball/bvb/borussia-dortmund-bvb-schlotterbeck-bensebaini-ryerson-id301261906.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFiU9X75TNcFKfUpYFAbI_o7VPGixCdUKM-kjAx5R2qn4Ey6FDbnEe9Pn5fxw",
+        "source": "DerWesten.de"
+      }
+    ]
+  },
+  {
+    "title": "posiciones de champions league",
+    "link": "https://trends.google.com/trending/rss?geo=PA",
+    "pubdate": "Wed, 11 Dec 2024 13:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmfL6OeWDMndkyFOQ7q9fznujiJ--XLOydVml777J6YlvgLCxeqSAIuN2Yu6Y",
+    "picture_source": "Mundo Deportivo",
+    "news_items": [
+      {
+        "title": "Así queda la clasificación de la Champions tras la victoria del Barça con candidatos en apuros",
+        "snippet": "",
+        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20241211/1002369757/asi-queda-clasificacion-champions-grandisima-victoria-barca.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmfL6OeWDMndkyFOQ7q9fznujiJ--XLOydVml777J6YlvgLCxeqSAIuN2Yu6Y",
         "source": "Mundo Deportivo"
+      },
+      {
+        "title": "Champions League: Así terminó la tabla de goleadores tras la jornada 6",
+        "snippet": "",
+        "url": "https://www.rpctv.com/futbol/futbol-internacional/champions-league/champions-league-asi-termino-la-tabla-goleadores-la-jornada-6-n6020924",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI6DtEV8Xu8k1UbUPxSLbu4g7ZpKTQ3XRPIFim2P5iustPeo0DjXcBVpt2HmM",
+        "source": "RPCTV"
+      },
+      {
+        "title": "Champions League: Conoce cómo quedó la tabla de posiciones y de goleadores - Fútbol internacional | Tvn Panamá",
+        "snippet": "",
+        "url": "https://www.tvn-2.com/tvmax/futbol-internacional/champions-league-uefa-goleadores-tabla-de-posiciones_1_2168837.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cNdrw8ZPecCHdkIaVREC1I1aVH9rCZKZF_BR5FiFIU6EFoFP0k8vBvCb1OI",
+        "source": "Tvn Panamá"
       }
     ]
   }

@@ -1,311 +1,311 @@
 [
   {
-    "title": "extreme cold warning",
+    "title": "wrdsb",
     "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGGYAV_e_0oItFaQjRaFLbckOk2wqY9M_h9sGr7aKKofjUiMC4rIyfizAVJSw",
-    "picture_source": "CTV News Winnipeg",
+    "pubdate": "Thu, 12 Dec 2024 03:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqxltWIfCBHnFcRHko-SgZfZcy6aFpyPmDSZlLZp1GE9Ik93uA-7dL2iZ5rc",
+    "picture_source": "CityNews Kitchener",
     "news_items": [
       {
-        "title": "Extreme cold warning issued in parts of southwestern Manitoba",
+        "title": "School buses cancelled for WRDSB and WCDSB",
         "snippet": "",
-        "url": "https://winnipeg.ctvnews.ca/extreme-cold-warning-issued-in-parts-of-southwestern-manitoba-1.7140741",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGGYAV_e_0oItFaQjRaFLbckOk2wqY9M_h9sGr7aKKofjUiMC4rIyfizAVJSw",
-        "source": "CTV News Winnipeg"
+        "url": "https://kitchener.citynews.ca/2024/12/12/school-buses-cancelled-for-wrdsb-and-wcdsb-2/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqxltWIfCBHnFcRHko-SgZfZcy6aFpyPmDSZlLZp1GE9Ik93uA-7dL2iZ5rc",
+        "source": "CityNews Kitchener"
       },
       {
-        "title": "Wind chill values could make it feel like –40 in parts of western Manitoba",
+        "title": "All area school buses cancelled today",
         "snippet": "",
-        "url": "https://www.cbc.ca/lite/story/1.7406858",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWWpai_1QZT8LRC6FYtEBhhj_HOoLhXioE3iI7Fwo-nOd_52ZZHhwR2nQ31U",
+        "url": "https://www.cambridgetoday.ca/local-news/all-area-school-buses-cancelled-today-9944260",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcFC8lpz_6nbQAZ3vM94J1HNXDYjnELCTzmxHv_BfbG4IeNGVSithzxrEQoWs",
+        "source": "CambridgeToday.ca"
+      },
+      {
+        "title": "Jeewan chanicka left board after internal investigation, multiple sources \nsay",
+        "snippet": "",
+        "url": "https://www.therecord.com/news/waterloo-region/jeewan-chanicka-left-board-after-internal-investigation-multiple-sources-say/article_48330a0e-1fec-5904-9176-515c30b131a7.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNRruFt7YHCNi4AVmOxYzBf_n6LV_LnzN8J5wCEDx6AvjAVd8b5AUGe0o_L-o",
+        "source": "The Record"
+      }
+    ]
+  },
+  {
+    "title": "road closures",
+    "link": "https://trends.google.com/trending/rss?geo=CA",
+    "pubdate": "Thu, 12 Dec 2024 03:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8TUXJS-8Qu-VHrT7D7x_7FesG-A3V2LcpZR8FA6AxI8TqVqQ9_0S7IXx7XK4",
+    "picture_source": "ABC7 Los Angeles",
+    "news_items": [
+      {
+        "title": "LIVE: Franklin Fire in Malibu grows to 4,000+ acres with 7% containment \nafter homes destroyed",
+        "snippet": "",
+        "url": "https://abc7.com/live-updates/malibu-fire-wildfire-los-angeles-area-pepperdine-university-spreads-amid-strong-santa-ana-winds-red-flag-warning/15634926/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8TUXJS-8Qu-VHrT7D7x_7FesG-A3V2LcpZR8FA6AxI8TqVqQ9_0S7IXx7XK4",
+        "source": "ABC7 Los Angeles"
+      },
+      {
+        "title": "Malibu resident helps firefighters battle flames as thousands of acres \ntorched: 'Surreal scene'",
+        "snippet": "",
+        "url": "https://www.foxnews.com/video/6365896564112",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1SI-wY0HQI8m_2u03Pb8yUNHHD0PY1vNzONCCXOE5CM5W-pns_wTamKQt4g",
+        "source": "Fox News"
+      },
+      {
+        "title": "Franklin Fire: Evacuation orders, road closures, school closures and \nshelters",
+        "snippet": "",
+        "url": "https://www.nbclosangeles.com/news/local/evacuations-road-closed-school-closed-franklin-fire-malibu/3579119/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdjwz9mlhYBKxiMDWGTpgjas6D6qBsTwfBHOpFA9pf_AH3JYHkplaItyhwhZo",
+        "source": "NBC Los Angeles"
+      }
+    ]
+  },
+  {
+    "title": "weather montreal",
+    "link": "https://trends.google.com/trending/rss?geo=CA",
+    "pubdate": "Thu, 12 Dec 2024 03:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNZQ1FefpDqFjI0VxA8-z9vrEQqcLaAUdLzf35I8iiiZk5pgcRDW9T0eRcyWE",
+    "picture_source": "CBC",
+    "news_items": [
+      {
+        "title": "Montreal bracing for 'malicious' weather cocktail of heavy rain followed by \nflash freeze",
+        "snippet": "",
+        "url": "https://www.cbc.ca/news/canada/montreal/weather-montreal-parking-storm-snow-clearing-1.7406537",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNZQ1FefpDqFjI0VxA8-z9vrEQqcLaAUdLzf35I8iiiZk5pgcRDW9T0eRcyWE",
         "source": "CBC"
       },
       {
-        "title": "Winnipeg offers advice to keep warm as temperatures set to plummet",
+        "title": "Significant rainfall expected for Montreal, warning in effect",
         "snippet": "",
-        "url": "https://winnipeg.citynews.ca/2024/12/10/cold-weather-spurs-caution-from-winnipeg/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReqwktKQIfnvYr0IX77X8DD_z7HxCFoUBVxTtvt9i8hofPJUki5DyzLrsM808",
-        "source": "CityNews Winnipeg"
+        "url": "https://montreal.citynews.ca/2024/12/11/significant-rainfall-expected-montreal-warning/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvO2PI5albzweGaUCxpXd2HkoN_4Axnqdj9Sk5MKUB0zO5QgaeuQyKEs8A6o",
+        "source": "CityNews Montreal"
+      },
+      {
+        "title": "Quebec 'weather bomb': Heavy snow, rain & ice could bring flooding & power \noutages this week",
+        "snippet": "",
+        "url": "https://www.mtlblog.com/quebec-weather-bomb-snow-rain-ice-flooding-power-outages",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx6K7xRIr4fESVS1jG7oKjqKnC0ihGoghAmHrQhdGJwRyFO12GX6eQiSLuyqE",
+        "source": "MTL Blog"
       }
     ]
   },
   {
-    "title": "canada secondary suite loan program",
+    "title": "wordle answer today",
     "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX6Q5EbHrqSWg-0Q3dDVaVlVYpIfEGnpXMchuf-OQzWqnESs3_c5vvsHRniLM",
-    "picture_source": "The Globe and Mail",
-    "news_items": [
-      {
-        "title": "Federal government pledges more cheap loans for homeowners to create rental suites",
-        "snippet": "",
-        "url": "https://www.theglobeandmail.com/business/article-federal-government-pledges-more-cheap-loans-for-homeowners-to-create/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX6Q5EbHrqSWg-0Q3dDVaVlVYpIfEGnpXMchuf-OQzWqnESs3_c5vvsHRniLM",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Canada’s Secondary Suite Loan Program expands to $80,000 loans with 2% over 15 years",
-        "snippet": "",
-        "url": "https://www.canadianmortgagetrends.com/2024/12/canadas-secondary-suite-loan-program-expands-to-80000-loans-with-2-over-15-years/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5WJHf_jnsldqZkZBL3skogOv_lrvAvl9zyDLsvHNTTieW6cRaCeiRGo_EZiE",
-        "source": "Canadian Mortgage Trends"
-      },
-      {
-        "title": "Ottawa doubling loan limit for secondary suites",
-        "snippet": "",
-        "url": "https://montreal.ctvnews.ca/video/c3044373-ottawa-doubling-loan-limit-for-secondary-suites",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFrxFf_210K8riQ0XpymwPcGGxDs6igGs9lrm4i4QI79x0-v45ePAJ0ybwqqA",
-        "source": "CTV News Montreal"
-      }
-    ]
-  },
-  {
-    "title": "cpi",
-    "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcNe1apvlrRXz6XdpdtGgUNzN1VAAxqGlBB3uQbMphj7gtzHNs__-IotO0g30",
-    "picture_source": "Bloomberg.com",
-    "news_items": [
-      {
-        "title": "Live: Analysis of US CPI Report for November",
-        "snippet": "",
-        "url": "https://www.bloomberg.com/news/live-blog/2024-12-11/us-cpi-report-for-november",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcNe1apvlrRXz6XdpdtGgUNzN1VAAxqGlBB3uQbMphj7gtzHNs__-IotO0g30",
-        "source": "Bloomberg.com"
-      },
-      {
-        "title": "U.S. consumer prices post largest gain in seven months in November",
-        "snippet": "",
-        "url": "https://www.theglobeandmail.com/business/international-business/us-business/article-us-consumer-prices-post-largest-gain-in-seven-months-in-november/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8Qa0iKninU0w0xiYMFOhaQ7Rv9emM963_qMjX-jv6sdD2mihIKwMdTLd1Pyk",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "US Consumer Price Index could determine whether the Fed cuts rates next week or not",
-        "snippet": "",
-        "url": "https://www.fxstreet.com/news/us-cpi-inflation-set-to-rebound-slightly-in-november-core-to-remain-high-202412110300",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHTkSWbRbPJIHu48rjuYYs4WW4FPyk4mzSEDzexp50bvx5Wl5WSNIdUP6w-5w",
-        "source": "FXStreet"
-      }
-    ]
-  },
-  {
-    "title": "bagel recall",
-    "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROng-CUvAmfqvNr-Y2eEmcoBRjglfVFPJtm4ICXvwQiQtk-fa1ZrcGOlPJAbI",
-    "picture_source": "Global News",
-    "news_items": [
-      {
-        "title": "Various bagel brands in several provinces may contain metal pieces: recall",
-        "snippet": "",
-        "url": "https://globalnews.ca/news/10910269/bagel-recall-canada/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROng-CUvAmfqvNr-Y2eEmcoBRjglfVFPJtm4ICXvwQiQtk-fa1ZrcGOlPJAbI",
-        "source": "Global News"
-      },
-      {
-        "title": "Bagels Are Being Recalled in Canada Due to Contamination—Here's What to Know",
-        "snippet": "",
-        "url": "https://www.eatingwell.com/bagels-recalled-in-canada-due-to-contamination-8758452",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf4_euu0sahbX9-WVptDiPiq7GfsNYAeNgwgCYz9pON_w3lg2-4WBnhfuXrzg",
-        "source": "EatingWell"
-      },
-      {
-        "title": "More bread and buns in Ontario, and other Canadian provinces, recalled due to pieces of metal",
-        "snippet": "",
-        "url": "https://www.insidehalton.com/news/more-bread-and-buns-in-ontario-and-other-canadian-provinces-recalled-due-to-pieces-of/article_835d8d40-4a21-520d-a093-b40d4830055a.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTewBZuQjuCdNZtn4Q6n4xthBuCBj67x82AE5oF-gV3Dx-LnN-B0Kz3hg-dy0Y",
-        "source": "Inside Halton"
-      }
-    ]
-  },
-  {
-    "title": "the onion",
-    "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 04:40:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 03:10:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_jBZZMySmOQDbtEmjvi7m3oL5aJWmDqxwSbJtEUA_AzM2I9af6faZWfIR1I",
-    "picture_source": "NBC News",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8cwcNSsx35NQuZ4k6arFfmYMBtEe-cBh2j5PxjBQAWSjQjLhDW_1YhR4P92U",
+    "picture_source": "Forbes",
     "news_items": [
       {
-        "title": "Bankruptcy judge rejects The Onion's bid to buy Alex Jones' Infowars",
+        "title": "Today’s ‘Wordle’ #1272 Hints, Clues And Answer For Thursday, December 12th",
         "snippet": "",
-        "url": "https://www.nbcnews.com/tech/internet/bankruptcy-judge-rejects-onions-bid-buy-alex-jones-infowars-rcna183453",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_jBZZMySmOQDbtEmjvi7m3oL5aJWmDqxwSbJtEUA_AzM2I9af6faZWfIR1I",
-        "source": "NBC News"
+        "url": "https://www.forbes.com/sites/erikkain/2024/12/11/todays-wordle-1272-hints-clues-and-answer-for-thursday-december-12th/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8cwcNSsx35NQuZ4k6arFfmYMBtEe-cBh2j5PxjBQAWSjQjLhDW_1YhR4P92U",
+        "source": "Forbes"
       },
       {
-        "title": "Judge rejects sale of Alex Jones’ Infowars to The Onion in dispute over bankruptcy auction",
+        "title": "Wordle hint today: Clues for December 12 2024 NYT puzzle #1272",
         "snippet": "",
-        "url": "https://www.theglobeandmail.com/world/article-judge-rejects-sale-of-alex-jones-infowars-to-the-onion-in-dispute-over/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuzzK3TKuOaYUQk0IJnhc4TcxfLxEu4y2YxSZJJhUbk3kZXt23MrsdmRGiJjE",
-        "source": "The Globe and Mail"
+        "url": "https://uk.style.yahoo.com/wordle-hint-today-clues-december-050105853.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQtFfnn2V4gif_WBo-eWDGGpUObynmHffkFEh6bD1tXi4qbwJiEWZPaHaj4dU",
+        "source": "Yahoo Life UK"
       },
       {
-        "title": "U.S. judge stops The Onion's purchase of Alex Jones's Infowars",
+        "title": "Today's 'Wordle' #1,271 Answers, Hints and Clues for Wednesday, December 11",
         "snippet": "",
-        "url": "https://www.cbc.ca/news/world/u-s-judge-stops-the-onion-s-purchase-of-alex-jones-s-infowars-1.7407190",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJxXgJhpXc8-WMY363DjA3mRuHs3RW-wz2pPEt1ieyOe9uDGDIv10GJBInA9Y",
+        "url": "https://www.newsweek.com/wordle-today-clues-answer-wednesday-december-11-game-1271-1998436",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5cVDeSRqKNjLwuQKq5b8CBykZ41JXgpdY9EtN95pgo_y2e0PcdGBqhdwU404",
+        "source": "Newsweek"
+      }
+    ]
+  },
+  {
+    "title": "bus cancellations",
+    "link": "https://trends.google.com/trending/rss?geo=CA",
+    "pubdate": "Thu, 12 Dec 2024 03:00:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwhQnKa2RofmSbN-cjsGMp7yCITunMdhphbKQ70ZYRT7zWy8PMJ-1v0Jqgbs",
+    "picture_source": "CTV News Barrie",
+    "news_items": [
+      {
+        "title": "Snow squall warning forces cancellation of central Ontario school buses",
+        "snippet": "",
+        "url": "https://barrie.ctvnews.ca/snow-squall-warning-forces-cancellation-of-central-ontario-school-buses-1.7142775",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwhQnKa2RofmSbN-cjsGMp7yCITunMdhphbKQ70ZYRT7zWy8PMJ-1v0Jqgbs",
+        "source": "CTV News Barrie"
+      },
+      {
+        "title": "Winter weather, road conditions result in northeastern Ontario school bus \ncancellations",
+        "snippet": "",
+        "url": "https://www.cbc.ca/news/canada/sudbury/school-bus-cancellations-1.7406111",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtO3B-UIFUJEO2uTp-ACn8KF85n5X8fR7cVuwt7mDeGgGJu-iSMERNolOpdi4",
         "source": "CBC"
+      },
+      {
+        "title": "All Simcoe County school buses cancelled today",
+        "snippet": "",
+        "url": "https://www.orilliamatters.com/local-news/all-simcoe-county-school-buses-cancelled-today-9944255",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcFC8lpz_6nbQAZ3vM94J1HNXDYjnELCTzmxHv_BfbG4IeNGVSithzxrEQoWs",
+        "source": "OrilliaMatters.com"
       }
     ]
   },
   {
-    "title": "teoscar hernández",
+    "title": "windsor weather",
     "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 04:40:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 03:00:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZo5IPl9oLTkE7yxRSPlTmDAgKemKmnv34FAuZdtE0eJv8AxdNiYSA8Bc9MA",
-    "picture_source": "Sportsnet.ca",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7Sb7JRih9vUbuisAX6T8pWZeQ3GsUhUgmizAjfJX4EGaKG0r1W6qKDJBn2IU",
+    "picture_source": "The Weather Network",
     "news_items": [
       {
-        "title": "Blue Jays 'absolutely' interested in bringing back Hernandez",
+        "title": "Windsor's weather forecast for December 11: Mainly cloudy skies today",
         "snippet": "",
-        "url": "https://www.sportsnet.ca/mlb/article/blue-jays-absolutely-interested-in-bringing-back-hernandez/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZo5IPl9oLTkE7yxRSPlTmDAgKemKmnv34FAuZdtE0eJv8AxdNiYSA8Bc9MA",
-        "source": "Sportsnet.ca"
+        "url": "https://www.theweathernetwork.com/en/news/weather/local-forecasts/windsor-on-weather-forecast-december-11",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7Sb7JRih9vUbuisAX6T8pWZeQ3GsUhUgmizAjfJX4EGaKG0r1W6qKDJBn2IU",
+        "source": "The Weather Network"
       },
       {
-        "title": "Yankees shift focus after Soto moves on",
+        "title": "Windsor’s weekend weather",
         "snippet": "",
-        "url": "https://www.mlb.com/news/yankees-change-plans-after-juan-soto-goes-to-mets",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJCeW973ZFPCq0dSD-AmDmy-Rlilj0B3wAQhYRE33J6b8E2bECWciM11nCxXA",
-        "source": "MLB.com"
+        "url": "https://windsor.ctvnews.ca/windsor-s-weekend-weather-1.7137466",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ37SX2GavyU4rYSXXpLANfs19csE5nHNxMDKDFX3lf4GgtnWK8mya-5mzTgE",
+        "source": "CTV News Windsor"
       },
       {
-        "title": "The Blue Jays’ latest free-agent target could be an old face",
+        "title": "Windsor’s Dec. 12 forecast: Chance of flurries",
         "snippet": "",
-        "url": "https://www.thestar.com/sports/blue-jays/the-blue-jays-latest-free-agent-target-could-be-an-old-face/article_467d15d0-b65e-11ef-98d1-d7a7ae2c55b9.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLEtWrw9H499QXijN98w-LqsxpMsTWiVTD24ZBU5a1yudXoi4_e8RwZS4TMSM",
-        "source": "Toronto Star"
+        "url": "https://www.ourwindsor.ca/news/windsors-dec-12-forecast-chance-of-flurries/article_28222b8c-dee0-5dbe-bd4c-da3c0ecc7eec.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBb6AzkkTHs_rxoavzFMuEO4DlbzCGFECHNc2YNGa6DBG0OXF5i6niqu4XUM",
+        "source": "Our Windsor"
       }
     ]
   },
   {
-    "title": "warhammer community",
+    "title": "school cancellations",
     "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1Q2XU6MfA-LJnBY4x1FQjABsXSCtaStjKLWBJOexMJc9LeLnY7rgJ02yKOVY",
-    "picture_source": "GamesRadar+",
+    "pubdate": "Thu, 12 Dec 2024 02:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVdnIjKmDeeMirdYV0siN57nmes9RV94ukHzE8r5RNddx4eYA6sE92q7uYz2A",
+    "picture_source": "CTV News Atlantic",
     "news_items": [
       {
-        "title": "Over two years after it was first announced, Prime Video's Warhammer series starring Henry Cavill is officially moving forward",
+        "title": "Storm Watch: School closures, cancellations",
         "snippet": "",
-        "url": "https://www.gamesradar.com/entertainment/fantasy-shows/over-two-years-after-it-was-first-announced-prime-videos-warhammer-series-starring-henry-cavill-is-officially-moving-forward/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1Q2XU6MfA-LJnBY4x1FQjABsXSCtaStjKLWBJOexMJc9LeLnY7rgJ02yKOVY",
-        "source": "GamesRadar+"
+        "url": "https://atlantic.ctvnews.ca/storm-watch-school-closures-cancellations-1.7142764",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVdnIjKmDeeMirdYV0siN57nmes9RV94ukHzE8r5RNddx4eYA6sE92q7uYz2A",
+        "source": "CTV News Atlantic"
       },
       {
-        "title": "Henry Cavill honours Jersey shop in Warhammer post",
+        "title": "School bus cancellations in the GTA on Dec. 9, 2024",
         "snippet": "",
-        "url": "https://ca.news.yahoo.com/henry-cavill-honours-jersey-shop-133417230.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE8vFTWIQhBNAVzfaB47SkLVan-EmpIRvs-qxp3gR-dBXq1I-MvlXYIxd4oI0",
-        "source": "Yahoo News Canada"
+        "url": "https://www.cp24.com/local/durham/2024/12/09/school-bus-cancellations-in-the-gta-on-dec-9-2024/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu_NVPdw5YsLgR4PEOiydD4ETL0ZYDiiQIuAittxjhrAyj1_HI0-aCzOBTvkM",
+        "source": "CP24"
       },
       {
-        "title": "‘Warhammer 40,000’ TV Series With Henry Cavill In Development At Amazon Under Deal With Games Workshop",
+        "title": "WINTER IS HERE: All Scugog, Uxbridge and Brock school buses cancelled \nMonday due to freezing rain warning",
         "snippet": "",
-        "url": "https://deadline.com/2024/12/henry-cavill-warhammer-40000-tv-series-amazon-1236199071/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhgb9qdkxFqnD9a-JQTPnJgH1-unkvW6xqExcnereZ0yti_FM3Mai7AWMwlVQ",
-        "source": "Deadline"
+        "url": "https://www.durhamregion.com/news/winter-is-here-all-scugog-uxbridge-and-brock-school-buses-cancelled-monday-due-to-freezing/article_a8ac9f16-f9d5-56f9-82ea-37e8f9e4d6b5.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2R4jBDgrpBuK7waQsjfQuk7t9tdfMHY7d56gzIwX7kWqqjsIkUN8gqDDtVpg",
+        "source": "DurhamRegion.com"
       }
     ]
   },
   {
-    "title": "kreskin",
+    "title": "power outage",
     "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 04:30:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 02:40:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxppzonBqJzdsWAp-ydPotEzW399EVnefUNv5wPb8tKgYfvGDz_KadzJkp80g",
-    "picture_source": "The New York Times",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkUoRviWtw19RCf6gac_cPdq_v4Hm2ArpJ6OpgTDjOFeF5r1OnPFFFadfazBo",
+    "picture_source": "New York Post",
     "news_items": [
       {
-        "title": "The Amazing Kreskin, Mentalist and 1970s TV Star, Dies at 89",
+        "title": "Rush hour power outage leaves 3,500 NYC subway riders stranded on trains \nfor hours: ‘Absolutely brutal commute’",
         "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/11/obituaries/the-amazing-kreskin-dead.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxppzonBqJzdsWAp-ydPotEzW399EVnefUNv5wPb8tKgYfvGDz_KadzJkp80g",
-        "source": "The New York Times"
-      },
-      {
-        "title": "Kreskin, Renowned Mentalist, Dies at 89",
-        "snippet": "",
-        "url": "https://variety.com/2024/tv/news/the-amazing-kreskin-dead-mentalist-1236245463/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSmJN7QFbEeMXtwusLCXG9dKdi_ZgRE9vh_9ndTKYebH58lK6vrCXA9Zc3B3Q",
-        "source": "Variety"
-      },
-      {
-        "title": "The Amazing Kreskin, beloved TV mentalist who mystified ‘Tonight Show’ audiences, dead at 89",
-        "snippet": "",
-        "url": "https://nypost.com/2024/12/11/entertainment/the-amazing-kreskin-beloved-tv-mentalist-dead-at-89/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA66Jt3wi4hqrRggeIcFxSBmTXQDHXTv-yp-B0_Q_UT_cgAHM2W42yk2mFKQ",
+        "url": "https://nypost.com/2024/12/12/us-news/mta-power-outage-leaves-3500-nyc-subway-riders-stranded-on-trains-for-hours/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkUoRviWtw19RCf6gac_cPdq_v4Hm2ArpJ6OpgTDjOFeF5r1OnPFFFadfazBo",
         "source": "New York Post"
+      },
+      {
+        "title": "I Was Stuck in an Underground N.Y.C. Subway for 1.5 Hours and Needed to Be \nEvacuated (Exclusive)",
+        "snippet": "",
+        "url": "https://people.com/i-was-stuck-in-an-underground-nyc-subway-and-needed-to-be-evacuated-out-exclusive-8760231",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoqjJl0zlynt09Rcauj2e6ggf0f5aL8Q0rtgQRaX_7GNAUiJmj9SvxnMVWB1g",
+        "source": "People.com"
+      },
+      {
+        "title": "Subway disruptions continue after Brooklyn power outage",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/newyork/video/subway-disruptions-continue-after-brooklyn-power-outage/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2_MaSfT3I0dh35drjAZ1Ca8Uw15xGkXN09b2Fg2oGvxSYfH2-cfhVuf_Vd44",
+        "source": "CBS News"
       }
     ]
   },
   {
-    "title": "ttc",
+    "title": "ctv news montreal",
     "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpcM34H9hPcoBDLl6mkgV5oCTWrV4cn7BHNJaveQB7Gp9locOWNqxoVIG1Q34",
-    "picture_source": "Toronto Star",
+    "pubdate": "Thu, 12 Dec 2024 02:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVPBap8kLWN5y7aRjTc3ZDmnfZckOTp1JOLyhwkAcd3hO9GQKCTqJMUaA5_Bw",
+    "picture_source": "CTV News Montreal",
     "news_items": [
       {
-        "title": "Service resumes on TTC’s Line 1 between Vaughan and Finch, service delays continue",
+        "title": "5 suspected organized crime figures arrested for 3 Montreal and Quebec \nhomicides",
         "snippet": "",
-        "url": "https://www.thestar.com/news/gta/service-resumes-on-ttcs-line-1-between-vaughan-and-finch-service-delays-continue/article_e7bdc852-b7b9-11ef-a889-17475c4cb6db.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpcM34H9hPcoBDLl6mkgV5oCTWrV4cn7BHNJaveQB7Gp9locOWNqxoVIG1Q34",
-        "source": "Toronto Star"
+        "url": "https://montreal.ctvnews.ca/5-suspected-organized-crime-figures-arrested-for-3-montreal-and-quebec-homicides-1.7141604",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVPBap8kLWN5y7aRjTc3ZDmnfZckOTp1JOLyhwkAcd3hO9GQKCTqJMUaA5_Bw",
+        "source": "CTV News Montreal"
       },
       {
-        "title": "TTC service on Line 1 resumes, but delays continue",
+        "title": "Police arrest suspects in Que., Ont. and B.C. in connection to 3 \nMontreal-area homicides",
         "snippet": "",
-        "url": "https://toronto.ctvnews.ca/ttc-service-on-line-1-resumes-but-delays-continue-1.7141270",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtuUU_iNoJ4-15HI0wd435ACR7inRZIVX6eGmVXjCgKw2VCuAQw4kQ-vo8fWU",
-        "source": "CTV News Toronto"
-      },
-      {
-        "title": "Expect delays on Yonge-University subway line after signal issue, TTC says",
-        "snippet": "",
-        "url": "https://www.cbc.ca/news/canada/toronto/ttc-subway-signal-problem-1.7407212",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJPsyPTs0OnXg7uLOzcL2sA1ov2blI4xFbbBAd7dQXwhjdHFeq-LqHGgy6HH0",
+        "url": "https://www.cbc.ca/news/canada/montreal/montreal-homicides-arrests-1.7407444",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcTyN9a3iAm_dphBG_9FujjNI2glhFUJz6gmQdI9NWLM2cRHKdwUN_Zn-JCGI",
         "source": "CBC"
+      },
+      {
+        "title": "Quebec police arrest five men in connection with three killings in 2023, \n2024",
+        "snippet": "",
+        "url": "https://www.thestar.com/news/canada/quebec/quebec-police-arrest-five-men-in-connection-with-three-killings-in-2023-2024/article_194c1131-d64a-5ce2-be1d-b821d6ef78cb.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKKGD74_JqZpvXWCH9R7pBopl4XtHW-sLNrw0uc3TZR1ngUmmAHoNr1YZAY9o",
+        "source": "Toronto Star"
       }
     ]
   },
   {
-    "title": "weather winnipeg",
+    "title": "bayshore broadcasting",
     "link": "https://trends.google.com/trending/rss?geo=CA",
-    "pubdate": "Wed, 11 Dec 2024 04:00:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 02:30:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjqN0Y5RWdLRKN-Cc_Rkr9VLrTlL3GDzQ6g2ubLUfVrBB84jSKJQXUlTxG38c",
-    "picture_source": "Global News",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPk7X0kUUKOyHgFXh3AkjiP8PxND5ZB1QB3SaUlVzIVMpoZg8mFKzxUIKS0lk",
+    "picture_source": "BayToday.ca",
     "news_items": [
       {
-        "title": "More snow, extreme cold on the way for Winnipeg, meteorologist says",
+        "title": "North Bay woman, first female franchisee of Tim Hortons, passes",
         "snippet": "",
-        "url": "https://globalnews.ca/news/10908474/winnipeg-winter-weather-snow-extreme-cold/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjqN0Y5RWdLRKN-Cc_Rkr9VLrTlL3GDzQ6g2ubLUfVrBB84jSKJQXUlTxG38c",
-        "source": "Global News"
+        "url": "https://www.baytoday.ca/local-news/north-bay-woman-first-female-franchisee-of-tim-hortons-passes-9939343",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPk7X0kUUKOyHgFXh3AkjiP8PxND5ZB1QB3SaUlVzIVMpoZg8mFKzxUIKS0lk",
+        "source": "BayToday.ca"
       },
       {
-        "title": "Manitobans enjoying winter activities following heavy snowfall",
+        "title": "'Trailblazer': Owen Sound Attack owner, first female Tim Hortons franchisee \nmourned",
         "snippet": "",
-        "url": "https://winnipeg.ctvnews.ca/manitobans-enjoying-winter-activities-following-heavy-snowfall-1.7141287",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ13TjJKoFhWrst3FsrnGebL3xr2UE_oqBIl283_NKt5Px4AbRpR-FOt9x-ENk",
-        "source": "CTV News Winnipeg"
+        "url": "https://www.barrietoday.com/local-sports/trailblazer-owen-sound-attack-owner-first-female-tim-hortons-franchisee-mourned-9939821",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlmB-doLQsKTqcAfbA5bRzIC_rG1hqwpMqIEwPCETsOwuy7EcVLwxRa_8PrxQ",
+        "source": "BarrieToday.com"
       },
       {
-        "title": "City digs out after snowstorm",
+        "title": "Fay Harshman remembered as caring and generous",
         "snippet": "",
-        "url": "https://www.winnipegfreepress.com/breakingnews/2024/12/09/city-digs-out-after-snowstorm",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIZfc2aNcYgKW2D43NLnb8zGPswg6nowOYLYL2S8VBLD1u-So7AkBeg-9PRUA",
-        "source": "Winnipeg Free Press"
+        "url": "https://www.owensoundsuntimes.com/news/local-news/fay-harshman-remembered-as-caring-and-generous",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpv0XJ0k316Fn0vcOEgf-bzxkTIscKres-aKO4RAOOnW7FJb2PKqDCyc1mCxk",
+        "source": "Owen Sound Sun Times"
       }
     ]
   }

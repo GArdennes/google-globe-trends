@@ -1,289 +1,297 @@
 [
   {
-    "title": "inter",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8QCLo-kZOj0C3jmAzpEyHBFf4IgC9S_JIALLwxkHo4JjiTpDBnQN_Ia7XV4s",
-    "picture_source": "NEWS.am Sport",
+    "pubdate": "Wed, 11 Dec 2024 19:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLf5mpAWnTs2CBUZweLNpJlU3RIdimkvMc5bWCu9VXw69eqM6rfQmBz7IjpbQ",
+    "picture_source": "USA Today",
     "news_items": [
       {
-        "title": "Inzagi: We have to play against a strong opponent led by a great coach",
+        "title": "'Dangerously cold' winter weather is back in forecast; snow for the Great Lakes",
         "snippet": "",
-        "url": "https://sport.news.am/eng/news/154907/inzagi-we-have-to-play-against-a-strong-opponent-led-by-a-great-coach.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8QCLo-kZOj0C3jmAzpEyHBFf4IgC9S_JIALLwxkHo4JjiTpDBnQN_Ia7XV4s",
-        "source": "NEWS.am Sport"
+        "url": "https://www.usatoday.com/story/news/weather/2024/12/12/winter-weather-in-forecast-thursday/76927335007/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLf5mpAWnTs2CBUZweLNpJlU3RIdimkvMc5bWCu9VXw69eqM6rfQmBz7IjpbQ",
+        "source": "USA Today"
       },
       {
-        "title": "Inter Milan's Matteo Darmian Urges Teammates to Stay Confident After Bayer \nLeverkusen Setback",
+        "title": "LAKE EFFECT SNOW WARNING: Here's how much snow you can expect in your area",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2167256-inter-milan-s-matteo-darmian-urges-teammates-to-stay-confident-after-bayer-leverkusen-setback",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCAeJnN3yEVEb1WkUfbOLloGlTQdqVItDJM1SgyFrY00RUI5RQ4c6WGkt8Wt8",
-        "source": "FootBoom"
+        "url": "https://www.yahoo.com/news/lake-effect-snow-warning-heres-105822688.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSUKD8j1rrEE9mxjQSlCMRAK6RVCSSx5tragGrG0ncApYnaT1Wl4NliPHO0s8",
+        "source": "Yahoo"
       },
       {
-        "title": "Report – Two Defensive Stalwarts Unavailable For Lazio Vs Inter Milan Serie \nA Clash",
+        "title": "Weather Words: Full Fetch",
         "snippet": "",
-        "url": "https://sempreinter.com/2024/12/11/francesco-acerbi-benjamin-pavard-unavailable-lazio-vs-inter-milan-serie-a-clash/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7jsd9f-w2MUY_xtLVwvPmuMtnw_6WSVuGSfY2AWDQ6iwmsZTbg5swmT_i47E",
-        "source": "SempreInter.com"
+        "url": "https://www.wunderground.com/article/science/weather-explainers/news/2024-12-11-weather-words-full-fetch",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1ywJ5auH3_reeGH9dNBHYfFg90AHmDzQEOlH9Nld7estYPsx6pSHk8VGJ6HA",
+        "source": "Weather Underground"
+      }
+    ]
+  },
+  {
+    "title": "chatgpt",
+    "link": "https://trends.google.com/trending/rss?geo=AM",
+    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+    "picture_source": "CNBC",
+    "news_items": [
+      {
+        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+        "source": "CNBC"
+      },
+      {
+        "title": "ChatGPT is down: What happened and when will it be back?",
+        "snippet": "",
+        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
+        "source": "Diario AS"
+      },
+      {
+        "title": "ChatGPT back online after global outage",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "title": "vbet",
+    "link": "https://trends.google.com/trending/rss?geo=AM",
+    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVY6xm4KDH137eiKUK6DYiLiDBFGHMABXdaGD9CuloRXdAjOV8IwsH6LmqTJA",
+    "picture_source": "iGaming Brazil",
+    "news_items": [
+      {
+        "title": "VBET acquires GROWE’s business in Brazil",
+        "snippet": "",
+        "url": "https://igamingbrazil.com/en/bookmakers/2024/12/11/vbet-acquires-growes-business-in-brazil/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVY6xm4KDH137eiKUK6DYiLiDBFGHMABXdaGD9CuloRXdAjOV8IwsH6LmqTJA",
+        "source": "iGaming Brazil"
+      }
+    ]
+  },
+  {
+    "title": "лига чемпионов",
+    "link": "https://trends.google.com/trending/rss?geo=AM",
+    "pubdate": "Wed, 11 Dec 2024 13:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7z5FHErRwrKEbWshbATNmQS9L9IxlHBtM1vvUl8BV3Ri8UcFWa-zIC3CfNQ",
+    "picture_source": "UEFA.com",
+    "news_items": [
+      {
+        "title": "Кто вышел в плей-офф Лиги чемпионов?",
+        "snippet": "",
+        "url": "https://ru.uefa.com/uefachampionsleague/news/0294-1c87c3993039-4061d5c04562-1000--%D0%BA%D1%82%D0%BE-%D0%B2%D1%8B%D1%88%D0%B5%D0%BB-/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7z5FHErRwrKEbWshbATNmQS9L9IxlHBtM1vvUl8BV3Ri8UcFWa-zIC3CfNQ",
+        "source": "UEFA.com"
+      },
+      {
+        "title": "Осталось всего четыре клуба, которые ни разу не побеждали на основном этапе текущей Лиги чемпионов",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/45/1005799392_ostalos_vsego_chetyire_kluba_kotoryie_ni_razu_ne_pobejdali_na_osnovnom_etape_tekuschey_ligi_chempionov",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5TUouSSzWH7cTpxRng-utJzx3LGrvpuTEKF_QNC5Nla_gVGuFzuYu0hlQOQo",
+        "source": "Евро-Футбол.Ру"
+      },
+      {
+        "title": "Три команды вылетели из Лиги чемпионов: Янг Бойз, Слован и Лейпциг",
+        "snippet": "",
+        "url": "https://sports24.kz/football/news/tri-komandi-vileteli-iz-ligi-chempionov-yang-boiz-slovan-i-leiptsig/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSja5n65-mISYH8m1hoBrRIKovJqHgvXJREFDIC0cX612kHR5_DCh200LODJMw",
+        "source": "sports24.kz"
       }
     ]
   },
   {
     "title": "champions league",
     "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 13:00:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5-kDCWguYFEW9Wb38GCz-H_ElQED4IgKCph2NrzM27rlRaNCYZ9-r3Qy2KR0",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJBcsBx_UpG0teIpmCwyRk5AWEGaOB2zLjAdDTCEzDZDJ5tp9B_NOfaFQ-OaY",
     "picture_source": "Eurosport",
     "news_items": [
       {
-        "title": "RB Leipzig v Aston Villa live: UEFA Champions League latest as Unai Emery's \nside bid to boost qualification hopes with victory at winless German hosts",
+        "title": "Juventus - Manchester City Live - Champions League: Football Scores & Highlights - 11/12/2024",
         "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-rb-leipzig-aston-villa_mtc1525366/live-commentary.shtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5-kDCWguYFEW9Wb38GCz-H_ElQED4IgKCph2NrzM27rlRaNCYZ9-r3Qy2KR0",
+        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-juventus-manchester-city_mtc1525379/live-commentary.shtml",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJBcsBx_UpG0teIpmCwyRk5AWEGaOB2zLjAdDTCEzDZDJ5tp9B_NOfaFQ-OaY",
         "source": "Eurosport"
       },
       {
-        "title": "Jhon Durán's Stunning Goal in the Champions League: Long-Range Rocket Finds \nthe Net",
+        "title": "Guardiola questioning himself as Man City struggles continue",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2164942-jhon-duran-s-stunning-goal-in-the-champions-league-long-range-rocket-finds-the-net",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcsTSM8ePiQwEnveliINVGVfEZ2ZKII179zT46qUPLyfXMj_DFxDTcu_dwAU",
-        "source": "FootBoom"
+        "url": "https://www.beinsports.com/en-au/football/uefa-champions-league/articles/guardiola-questioning-himself-as-man-city-struggles-continue-2024-12-12",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQXu8OQwR6RQCGs6gen4fHSqC-_tmECq5IwRxe3XkpKArvYB19jRwKXYYNPvc",
+        "source": "beIN SPORTS"
       },
       {
-        "title": "Chelsea FC alum helps Aston Villa to crucial away win",
+        "title": "How Vlahovic broke the deadlock by a narrow margin",
         "snippet": "",
-        "url": "https://theprideoflondon.com/chelsea-fc-alum-helps-aston-villa-to-crucial-away-win",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_zOHUJIthQXzDs3Kx0-K3e4Jehcj-JG5OeL0ti86LU_qMJY8u_pBxtVtddw",
-        "source": "The Pride of London"
+        "url": "https://www.nytimes.com/athletic/live-blogs/juventus-manchester-city-live-updates-champions-league-score-result/qVLcHFSDXv44/8lEyC6ejds2Q/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7bIx6PbXaNLumGh1m5oHXHVR0aFvKcQO-JJmpugp5SLtaGsbtMGwgBfAyvk",
+        "source": "The New York Times"
       }
     ]
   },
   {
-    "title": "ред булл зальцбург – псж",
+    "title": "милан – црвена звезда",
     "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-CJTRpaC2ZsYQcPP7vcJ7kgICM7hLTVBKVLUdicdcFThJxK2KUfyqcM-hX3M",
-    "picture_source": "Футбол на Куличках",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4jUkhE0bVWf2JsaDBryTXHR2Veqp8chM14T-Jg_J4a9D5eezPUJBbji-GCNQ",
+    "picture_source": "sport-express.ru",
     "news_items": [
       {
-        "title": "Отчет о матче Зальцбург - ПСЖ, 10 декабря 2024, Лига чемпионов 2024/25 на \nФНК",
+        "title": "Леау: «Милан» хочет быть среди лучших в Европе»",
         "snippet": "",
-        "url": "https://football.kulichki.net/league/2025/matches/85101-Zalcburg-PSZh-obzor-matcha-league-2025.htm",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-CJTRpaC2ZsYQcPP7vcJ7kgICM7hLTVBKVLUdicdcFThJxK2KUfyqcM-hX3M",
-        "source": "Футбол на Куличках"
+        "url": "https://www.sport-express.net/football/champions-league/news/rafael-leau-kommentariy-po-matchu-milan-crvena-zvezda-v-lige-chempionov-2280920/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4jUkhE0bVWf2JsaDBryTXHR2Veqp8chM14T-Jg_J4a9D5eezPUJBbji-GCNQ",
+        "source": "sport-express.ru"
       },
       {
-        "title": "Зальцбург – ПСЖ: прогноз на матч 11 декабря 2024 года",
+        "title": "Гол «Милана» на 87-й минуте принес игроку БЕТСИТИ 2.2 млн рублей",
         "snippet": "",
-        "url": "https://sports24.kz/football/predictions/zaltsburg-pszh-prognoz-na-match-11-dekabrya-2024-goda/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDy2KXBuI3RxXji0GyldXj8Dy5L3DhLSb2kA2GDROC-5C7V7S3Srg1ZVD7jm8",
-        "source": "sports24.kz"
+        "url": "https://www.liveresult.ru/bookmaker/stavki/Novosti-bukmekerov/253749",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTF6CWg72AkBc4zWAa-q25qJk5dMSuA9enMCgPOKWekuk0cnoCLAvsFVJTu0",
+        "source": "LiveResult"
       },
       {
-        "title": "Президент ПСЖ: «Два последних матча в Лиге чемпионов – это финалы»",
+        "title": "Фонсека: «Если нужно будет выпустить игроков молодёжки, я это сделаю»",
         "snippet": "",
-        "url": "https://www.soccer.ru/news/1395282/al-helaifi-nasser",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGbrtKupKAdi3RclRydz1pqq5dp8TXiJjIlyTgt8PAStRwtUZya5RDknnZ89U",
+        "url": "https://www.soccer.ru/news/1395380/fonseka-paulu",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuZmCGee5tWW6TRLcqJJfOjGSZndLdmvDE8x3axBZ_dr5mQipqqtlWTDG8CFc",
         "source": "Soccer.ru"
       }
     ]
   },
   {
-    "title": "livescore",
+    "title": "barcelona",
     "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "лига чемпионов",
-    "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoRo30pVba_XzEdQvt7zYrcfuigJm2M5SLt58tNVsykFffIkgQy4kIEhmuLk",
-    "picture_source": "sport-express.ru",
+    "pubdate": "Wed, 11 Dec 2024 12:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
+    "picture_source": "OneFootball",
     "news_items": [
       {
-        "title": "«Арсенал» — «Монако»: где смотреть матч Лиги чемпионов 11 декабря 2024 года \nонлайн в прямом эфире",
+        "title": "Flick: «El objetivo es ser primeros»",
         "snippet": "",
-        "url": "https://www.sport-express.net/stavki-na-sport/prognozy/news/arsenal-monako-gde-smotret-match-ligi-chempionov-11-dekabrya-2024-goda-onlayn-v-pryamom-efire-2280712/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoRo30pVba_XzEdQvt7zYrcfuigJm2M5SLt58tNVsykFffIkgQy4kIEhmuLk",
-        "source": "sport-express.ru"
-      },
-      {
-        "title": "Футбол. Клубы. Международные. Лига чемпионов UEFA. Общий этап. Экспресс от \nАндрей Энтузиаст 11 дек 2024",
-        "snippet": "",
-        "url": "https://prognozist.ru/lill-shturm-grac-arsenal-monako-wqzedod.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_dscaujBXIGCeHNCcJrnxtcGsSL10qSRk2XCh2nGs0P5fk9zRgUK--0TRAms",
-        "source": "Prognozist.ru"
-      },
-      {
-        "title": "«Арсенал» – «Монако»: Попадёт ли Головин в стартовый состав на матч Лиги \nчемпионов",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/45/1005798588_arsenal__monako_popadet_li_golovin_v_startovyiy_sostav_na_match_ligi_chempionov",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPrQMh4kEiCB9pbUOzSsSFb9MObJB2DoUbzM_oUo9h02x7MWktZFEaUAPBbsU",
-        "source": "Евро-Футбол.Ру"
-      }
-    ]
-  },
-  {
-    "title": "real madrid",
-    "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrFOjbNjAOk5hnEZJMKWVp81CPP8bNaNvE07G6oLNziCzi4r9mCdUtNz0rfk",
-    "picture_source": "Real Madrid CF",
-    "news_items": [
-      {
-        "title": "El Madrid gana el partidazo de Bérgamo",
-        "snippet": "",
-        "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/cronicas/cronica-atalanta-real-madrid-j6-10-12-2024",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrFOjbNjAOk5hnEZJMKWVp81CPP8bNaNvE07G6oLNziCzi4r9mCdUtNz0rfk",
-        "source": "Real Madrid CF"
-      },
-      {
-        "title": "Atalanta - Real Madrid: resumen, resultado y goles",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/champions-league/atalanta-r-madrid/2024/12/10/01_0103_20241210_456_186-directo.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxbP15xmGHS995yXNwfgsyIhOVLKm4d2cZFAp2XB8SppcyozqsLJIL711R4",
-        "source": "Marca.com"
-      },
-      {
-        "title": "La ‘BMV’ quiere la Champions",
-        "snippet": "",
-        "url": "https://onefootball.com/fr/news/la-bmv-quiere-la-champions-40425269",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX-JcozUJ8BxnVqdUPkgdsHwRlgOAgj4rTXFjNwANSiIKvSdd-4xsMkc5jzPo",
+        "url": "https://onefootball.com/en/news/flick-el-objetivo-es-ser-primeros-40427746",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
         "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "atalanta vs real madrid",
-    "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 12:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
-    "picture_source": "beIN SPORTS",
-    "news_items": [
-      {
-        "title": "Real Madrid revive Champions League title defence with win at spirited \nAtalanta",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/real-madrid-revive-champions-league-title-defence-with-win-at-spirited-atalanta-2024-12-10",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZZ0oCNAkrlgP9iDgtzWHLiYeN9fccFyXp-HGBieyWNOT2NubRYZp4VwYki9A",
-        "source": "beIN SPORTS"
       },
       {
-        "title": "Atalanta - Real Madrid Live - Champions League: Football Scores & \nHighlights - 10/12/2024",
+        "title": "Torres alaba el espíritu de equipo tras la victoria del Barcelona en Dortmund",
         "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-atalanta-real-madrid_mtc1525372/live-commentary.shtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSADbxgB8RAJHccFY4iSOMu5OY4c-2b4cwcnnCtXKra9EUr0_uPmvxZlDkSErg",
-        "source": "Eurosport"
+        "url": "https://es-us.noticias.yahoo.com/torres-alaba-esp%C3%ADritu-equipo-victoria-065103438.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtPopBu-O__xaszCDPKNllktaBonAJ0aZuCxqg3t2dU0dYwBI9GH6TL8-r_xM",
+        "source": "Yahoo Noticias"
       },
       {
-        "title": "Champions League: Real beat Atalanta, Leverkusen defeat Inter, day’s game \nresults",
+        "title": "Portada de FCBN 12/12/2024: EL REGRESO DEL ¡TIBURÓN!",
         "snippet": "",
-        "url": "https://sport.news.am/eng/news/154925/champions-league-real-beat-atalanta-leverkusen-defeat-inter-days-game-results.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1OyFeuilmF0FVxJkHdBGd6n6FEGrw6zkSQec2XPxp1Om7SJpBfSlXcA9OlgE",
-        "source": "NEWS.am Sport"
-      }
-    ]
-  },
-  {
-    "title": "live tv",
-    "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 12:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrNF7p_W6Q-3C_bdxo2ylIzmuf1lAvR8LRoVaV_zYJoGBjoBHWNA9XeVK5g_8",
-    "picture_source": "Doc's Sports Picks",
-    "news_items": [
-      {
-        "title": "Jacksonville Dolphins vs Florida Atlantic Owls Prediction, 12/10/2024 \nCollege Basketball Picks, Best Bets & Odds",
-        "snippet": "",
-        "url": "https://www.docsports.com/free-picks/ncaa-college-basketball/2024/jacksonville-dolphins-vs-florida-atlantic-owls-prediction-12-10-2024-college-basketball-picks-best-bets-odds.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrNF7p_W6Q-3C_bdxo2ylIzmuf1lAvR8LRoVaV_zYJoGBjoBHWNA9XeVK5g_8",
-        "source": "Doc's Sports Picks"
-      },
-      {
-        "title": "Florida Atlantic earns 85-63 win over Jacksonville",
-        "snippet": "",
-        "url": "https://www.foxsports.com/articles/cfb/florida-atlantic-earns-8563-win-over-jacksonville",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn1qxk-oZiEMEJhp9IJuV9ClTFQzlM4ojaipSKMW_iK0VR-LOLFG-0uMQFFRE",
-        "source": "FOX Sports"
-      },
-      {
-        "title": "Bench Excels in Loss to FAU",
-        "snippet": "",
-        "url": "https://judolphins.com/news/2024/12/10/mens-basketball-jacksonville-falls-85-63-to-florida-atlantic.aspx",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7q5BiOGYWZnTaZGjZu8U_nlJ2v8TUUONJmk5tNmLODejUPwaJ4rM-EPYn0S0",
-        "source": "Jacksonville University Athletics"
+        "url": "https://www.fcbarcelonanoticias.com/portadas-futbol/portada-fcbn-12-12-2024-dortmund-2-3-fc-barcelona-champions-24-25_309246_102.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOga5OfcUAFzNNJlp904nQwOck2o7zPCm5vhZT1e8ySaJlpBu7S7RRE_OPbFM",
+        "source": "FCBN"
       }
     ]
   },
   {
     "title": "fast tv",
     "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 12:00:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 12:00:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL03Tg3g60wa1CdRFfkT19hXISaQw6TtAD0Q-mrCFa21F1rpW7MFPZLcA2LIk",
-    "picture_source": "Yahoo Finance",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4la856b5lue8v7tl1LUdrobG9hzD8ivWnHPCa3JarvZBpLPWkYlE6AJT-u1A",
+    "picture_source": "Sports Video Group",
     "news_items": [
       {
-        "title": "The Roku Channel Hits 150+ FAST Channel Milestone in Canada",
+        "title": "ABC Commercial Partners With Amagi To Launch Suite of FAST Channels Showcasing Iconic Australian Content",
         "snippet": "",
-        "url": "https://finance.yahoo.com/news/roku-channel-hits-150-fast-140000549.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL03Tg3g60wa1CdRFfkT19hXISaQw6TtAD0Q-mrCFa21F1rpW7MFPZLcA2LIk",
-        "source": "Yahoo Finance"
+        "url": "https://www.sportsvideo.org/2024/12/11/abc-commercial-partners-with-amagi-to-launch-suite-of-fast-channels-showcasing-iconic-australian-content/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4la856b5lue8v7tl1LUdrobG9hzD8ivWnHPCa3JarvZBpLPWkYlE6AJT-u1A",
+        "source": "Sports Video Group"
       },
       {
-        "title": "The Roku Channel passes 150 FAST channels in Canada",
+        "title": "ABC launches FAST channels with Amagi",
         "snippet": "",
-        "url": "https://mobilesyrup.com/2024/12/10/the-roku-channel-over-150-fast-channels-canada/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQR9qBqZHJxF9-muSuYRlzGyC2ljRXeUjFT8YH6zHxFeawu1NCNnbKuHAd5xU",
-        "source": "MobileSyrup"
+        "url": "https://advanced-television.com/2024/12/12/254408/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWlbSiuuWRjX7QirGn3xtdXWDQPY-pBkme8uohad-R_wwi4NHig6lh7NEcpfk",
+        "source": "Advanced Television"
       },
       {
-        "title": "Roku, Inc. Announces the Roku Channel Hits 150+ FAST Channel Milestone in \nCanada",
+        "title": "Australia’s ABC Enters FAST Channel Market With Help From Amagi",
         "snippet": "",
-        "url": "https://www.marketscreener.com/quote/stock/ROKU-INC-37892974/news/Roku-Inc-Announces-the-Roku-Channel-Hits-150-FAST-Channel-Milestone-in-Canada-48556888/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzmwO99DaRSt1M5fCkigeLdXoxcZRPh_saO8gaZIis57ngby4JImdJczazQjQ",
-        "source": "www.marketscreener.com"
+        "url": "https://www.tvtechnology.com/news/australias-abc-enters-fast-channel-market-with-help-from-amagi",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUqMpIeA8BDpo4n6J9q7Uu3lm3GVUWAM_cSNPNikDq1pd1Xz-P-1qkeX7OIJs",
+        "source": "TVTechnology"
       }
     ]
   },
   {
-    "title": "шахтёр донецк – бавария",
+    "title": "арсенал – монако",
     "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Tue, 10 Dec 2024 11:50:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 11:50:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZrbS1OQrTM2JfgnQV1tUrOhSDCQyNZGQTDyZOqAnT4aLySATAFwmYwBWF144",
-    "picture_source": "fclmnews.ru",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScSy4lpJeWhkksnIPITI46hW_vzdtq0rcYdMb7U-493UuBLXloiFWLwCml13s",
+    "picture_source": "sport-express.ru",
     "news_items": [
       {
-        "title": "Шахтёр – Бавария – 1:5. Обзор матча и видео голов",
+        "title": "Головин не помог «Монако» с «Арсеналом». Его одноклубники сами подарили победу сопернику",
         "snippet": "",
-        "url": "https://fclmnews.ru/online/129302-shahter-bavariya-video.html",
+        "url": "https://www.sport-express.net/football/champions-league/reviews/arsenal-monako-video-golov-i-obzor-matcha-6-tura-obschego-etapa-ligi-chempionov-11-dekabrya-2024-2280873/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScSy4lpJeWhkksnIPITI46hW_vzdtq0rcYdMb7U-493UuBLXloiFWLwCml13s",
+        "source": "sport-express.ru"
+      },
+      {
+        "title": "«Арсенал» – «Монако»: Льюис-Скелли и Мерино выходят в старте",
+        "snippet": "",
+        "url": "https://fc-arsenal.com/pered-matchem/arsenal-monako-lyuis-skelli-i-merino-vykhodyat-v-starte",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6LU6CFZmdB7ZHbh0tWF1VgtAxdMzg8BRebNr_8cSoY42BvJI4CCShbzBz9JY",
+        "source": "FC-Arsenal.com."
+      },
+      {
+        "title": "Арсенал – Монако – 3:0. Обзор матча и видео голов",
+        "snippet": "",
+        "url": "https://fclmnews.ru/online/129333-arsenal-monako-video.html",
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZrbS1OQrTM2JfgnQV1tUrOhSDCQyNZGQTDyZOqAnT4aLySATAFwmYwBWF144",
         "source": "fclmnews.ru"
+      }
+    ]
+  },
+  {
+    "title": "ювентус – манчестер сити",
+    "link": "https://trends.google.com/trending/rss?geo=AM",
+    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcSkhVungHb1j9zzpPTHqwUPq27bLNyABWJ0G-mLe4dqTa3GTfl4v_W3pG2-o",
+    "picture_source": "Спорт Mail",
+    "news_items": [
+      {
+        "title": "«Ювентус» обыграл «Манчестер Сити» в матче Лиги чемпионов по футболу",
+        "snippet": "",
+        "url": "https://sportmail.ru/news/football-eurocups/64035558/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcSkhVungHb1j9zzpPTHqwUPq27bLNyABWJ0G-mLe4dqTa3GTfl4v_W3pG2-o",
+        "source": "Спорт Mail"
       },
       {
-        "title": "Мусиала: «Нужно двигаться от игры к игре»",
+        "title": "\"Манчестер Сити\" выиграл всего 1 матч из 10 последних",
         "snippet": "",
-        "url": "https://www.euro-football.ru/article/45/1005798661_musiala_nujno_dvigatsya_ot_igryi_k_igre",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyDyo-zrwYvsXDvizuq0xGCq8KhP4_3cCO8He-QUN7tV1_B9U5oP7w3I94oao",
+        "url": "https://sportarena.kz/football/1020954-manchester-siti-vyigral-vsego-1-match-iz-10-poslednikh.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDET4s8t1mnwLh43vuKL1gd5Emol34CAT9fsV6Co_i4DFeywAd4QIOAWcsTa8",
+        "source": "sportarena.kz"
+      },
+      {
+        "title": "«Манчестер Сити» – худшая команда топ-5 лиг с начала ноября по пропущенным голам",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/31/1005799208_manchester_siti__hudshaya_komanda_top-5_lig_s_nachala_noyabrya_po_propuschennyim_golam",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST9bZd095kPnF6zXY_2wAUGS68bAEsc2tS5fuYPtGLR9nJt_MwIBVVVN7RXPQ",
         "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "Шелаев: Украинский футбол вернулся на 30 лет назад, мы в исходной позиции, \nкак в 1994 году",
-        "snippet": "",
-        "url": "https://sportarena.com/football/liga-chempionov/shelaev-ukrainskij-futbol-vernulsya-na-30-let-nazad/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR_3ItWhQ70rrnrRlUy0loyEi-z0H91Uc1YAb20aM0l1oOcTe2wlYSpA1GMuo",
-        "source": "Sportarena.com"
       }
     ]
   }

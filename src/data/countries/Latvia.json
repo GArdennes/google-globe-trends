@@ -1,32 +1,156 @@
 [
   {
-    "title": "champions league",
+    "title": "gemini",
     "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Tue, 10 Dec 2024 12:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5-kDCWguYFEW9Wb38GCz-H_ElQED4IgKCph2NrzM27rlRaNCYZ9-r3Qy2KR0",
-    "picture_source": "Eurosport",
+    "pubdate": "Wed, 11 Dec 2024 16:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
+    "picture_source": "Google Blog",
     "news_items": [
       {
-        "title": "RB Leipzig v Aston Villa live: UEFA Champions League latest as Unai Emery's \nside bid to boost qualification hopes with victory at winless German hosts",
+        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
         "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-rb-leipzig-aston-villa_mtc1525366/live-commentary.shtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5-kDCWguYFEW9Wb38GCz-H_ElQED4IgKCph2NrzM27rlRaNCYZ9-r3Qy2KR0",
-        "source": "Eurosport"
+        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
+        "source": "Google Blog"
       },
       {
-        "title": "UEFA Champions League RB Leipzig 2 Aston Villa 3 Full time",
+        "title": "A former Google designer reveals what goes into building its AI models like \nGemini",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c89vkp00872t",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fZcaHaY2fcP8mtLelU-mYBskneJThian_Qze8orZYUZp87gZFASIuiN5Y8Q",
+        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
+        "source": "Business Insider"
+      },
+      {
+        "title": "Alphabet Stock Hits a Record High on New AI Models",
+        "snippet": "",
+        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
+        "source": "Barron's"
+      }
+    ]
+  },
+  {
+    "title": "chatgpt",
+    "link": "https://trends.google.com/trending/rss?geo=LV",
+    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+    "picture_source": "CNBC",
+    "news_items": [
+      {
+        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+        "source": "CNBC"
+      },
+      {
+        "title": "ChatGPT is down: What happened and when will it be back?",
+        "snippet": "",
+        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
+        "source": "Diario AS"
+      },
+      {
+        "title": "ChatGPT back online after global outage",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "title": "champions league",
+    "link": "https://trends.google.com/trending/rss?geo=LV",
+    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Champions League: Man City and Guardiola under 'real pressure'",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/articles/cly256g64dwo",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
         "source": "BBC"
       },
       {
-        "title": "Chelsea FC alum helps Aston Villa to crucial away win",
+        "title": "Juventus - Manchester City Live - Champions League: Football Scores & \nHighlights - 11/12/2024",
         "snippet": "",
-        "url": "https://theprideoflondon.com/chelsea-fc-alum-helps-aston-villa-to-crucial-away-win",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_zOHUJIthQXzDs3Kx0-K3e4Jehcj-JG5OeL0ti86LU_qMJY8u_pBxtVtddw",
-        "source": "The Pride of London"
+        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-juventus-manchester-city_mtc1525379/live-commentary.shtml",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJBcsBx_UpG0teIpmCwyRk5AWEGaOB2zLjAdDTCEzDZDJ5tp9B_NOfaFQ-OaY",
+        "source": "Eurosport"
+      },
+      {
+        "title": "Made in America: McKennie and Weah link up for goal to help Juventus beat \nCity",
+        "snippet": "",
+        "url": "https://sports.yahoo.com/made-america-mckennie-weah-goal-234243412.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfemq0NHWGPemF3Ce5rhv1J84p0aY472l6pIS7d0IJcUy5ufUwH8I-wXbCP4U",
+        "source": "Yahoo Sports"
+      }
+    ]
+  },
+  {
+    "title": "instagram",
+    "link": "https://trends.google.com/trending/rss?geo=LV",
+    "pubdate": "Wed, 11 Dec 2024 10:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
+    "picture_source": "Forbes",
+    "news_items": [
+      {
+        "title": "Facebook And Instagram Outage: Meta Says It’s ‘99% Of The Way’ To Being \nFixed",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/mollybohannon/2024/12/11/facebook-and-instagram-outage-meta-says-its-99-of-the-way-to-being-fixed/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
+        "source": "Forbes"
+      },
+      {
+        "title": "Facebook, Instagram, and Threads are down",
+        "snippet": "",
+        "url": "https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHSidYCb4OK0QFH4RkooPjqarIzYvzCAhxhBykeVnZRl0BYX6QcVsK3mFjpls",
+        "source": "The Verge"
+      },
+      {
+        "title": "Meta says it has almost resolved outage on Facebook and Instagram apps",
+        "snippet": "",
+        "url": "https://www.cnn.com/2024/12/11/business/facebook-and-instagram-outage/index.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKrHw93-K1EsJ2vGyxZoArniccPi8dnM_jFmnD5XEVAEAwHusKVqzwrkualg",
+        "source": "CNN"
+      }
+    ]
+  },
+  {
+    "title": "evika siliņa",
+    "link": "https://trends.google.com/trending/rss?geo=LV",
+    "pubdate": "Wed, 11 Dec 2024 10:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX9RWAR2HNZDnbN3JPX9fWFUGUYIU8LCsGd3k97kicBgvHN5wyhANYV9a60VU",
+    "picture_source": "NRA",
+    "news_items": [
+      {
+        "title": "Eksperti: Siliņa izvēlējās skandāla ceļu",
+        "snippet": "",
+        "url": "https://nra.lv/neatkariga/komentari/elita-veidemane/477125-eksperti-silina-izvelejas-skandala-celu.htm",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX9RWAR2HNZDnbN3JPX9fWFUGUYIU8LCsGd3k97kicBgvHN5wyhANYV9a60VU",
+        "source": "NRA"
+      },
+      {
+        "title": "Ilzīte, Pēterītis un bērnudārzs Saeimā: Rinkēvičs komentē Siliņas parupjos \nizteicienus",
+        "snippet": "",
+        "url": "https://jauns.lv/raksts/zinas/632931-ilzite-peteritis-un-bernudarzs-saeima-rinkevics-komente-silinas-parupjos-izteicienus",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvigfEXU3Oe7vh7c5sNK82ngWK7Av3u8HwQCv0lxVS-jylwD3JQ8EtRDwLlnc",
+        "source": "Jauns.lv"
+      },
+      {
+        "title": "Anita Daukšte: Neapvemšanās sausais atlikums",
+        "snippet": "",
+        "url": "https://www.la.lv/anita-daukste-neapvemsanas-sausais-atlikums",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTbPG2N5zOdEb1c65uKLLnd6JdK7bQnJ7LSzNcQC0mDBxBs4kGm5xC8JeLCc4",
+        "source": "LA.LV"
       }
     ]
   }

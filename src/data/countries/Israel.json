@@ -1,275 +1,311 @@
 [
   {
-    "title": "פרגוואי",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 11 Dec 2024 01:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQon8lqB9vBJPvLTGR2Y9fFHFWaKecBzxDT3Gr-0u1MHodmNwzVdcSLRgJfFO4",
-    "picture_source": "ynet",
-    "news_items": [
-      {
-        "title": "נתניהו בנאום שהביא לדחיית עדותו: \"מפרקים את ציר הרשע של איראן, העולם נדהם\" | ישיר",
-        "snippet": "",
-        "url": "https://www.ynet.co.il/news/article/by54vaieje",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQon8lqB9vBJPvLTGR2Y9fFHFWaKecBzxDT3Gr-0u1MHodmNwzVdcSLRgJfFO4",
-        "source": "ynet"
-      },
-      {
-        "title": "לפני היום השני של עדות נתניהו: רה\"מ ונשיא פרגוואי יגיעו לכנסת",
-        "snippet": "",
-        "url": "https://www.israelhayom.co.il/news/geopolitics/article/16945248",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu6IcWxyyAJ8GJ6K0-jeZOYcenk-LpOp-wJG8firx2yVvR9HubXThds6YHrVc",
-        "source": "ישראל היום"
-      },
-      {
-        "title": "בצל סערת עדות נתניהו: ההיסטוריה שתירשם היום בכנסת",
-        "snippet": "",
-        "url": "https://www.maariv.co.il/news/politics/article-1155243",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaVG_50DhRegedEWPKgEc9teoC25o8idXjpH6_UxEAITe9QTgwrWTUI_JZDeg",
-        "source": "מעריב"
-      }
-    ]
-  },
-  {
-    "title": "קפטגון",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 11 Dec 2024 01:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwCqvtnI_vPaL8JtdpeJLLTOrh8OjoS9VcqrhkpbRkR9XVlEXu6u0xUxxME",
-    "picture_source": "ynet",
-    "news_items": [
-      {
-        "title": "ה\"קוקאין לעניים\" שנתפס על הנוחבות: מה יעלה בגורל אימפריית הסמים של אסד?",
-        "snippet": "",
-        "url": "https://www.ynet.co.il/economy/article/bkk4nzxejl",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwCqvtnI_vPaL8JtdpeJLLTOrh8OjoS9VcqrhkpbRkR9XVlEXu6u0xUxxME",
-        "source": "ynet"
-      },
-      {
-        "title": "שיקום התשתיות בסוריה צפוי להימשך כעשור ויחזק את כלכלות טורקיה וירדן",
-        "snippet": "",
-        "url": "https://www.calcalist.co.il/world_news/article/hkambc4ekg",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRw1f5EpsZpQCB4tqq6pfBZnb8h6i6ZsBJv3qHZ-W3uVXMOPt9lwwZR17rty1o",
-        "source": "calcalist"
-      },
-      {
-        "title": "דיווח: כך תיראה כלכלת סוריה בעידן שאחרי אסד",
-        "snippet": "",
-        "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/16942674",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRt2wH-vNoyRUrc10xc0YPS2QDH4k3mCg99YDKBTc48U89LnENAvOOvsCCK_Fw",
-        "source": "ישראל היום"
-      }
-    ]
-  },
-  {
-    "title": "ניר גלעדי",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 10 Dec 2024 22:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS3XQqjeFWxMaX331iOEovPZK42-FIvz2ocLSzINlcKl6AYMBmTYYJEWgKfCo",
-    "picture_source": "ynet",
-    "news_items": [
-      {
-        "title": "הנוירולוג פרופ' ניר גלעדי מבכירי משרד הבריאות הלך לעולמו",
-        "snippet": "",
-        "url": "https://www.ynet.co.il/health/article/h1pqwrue1e",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS3XQqjeFWxMaX331iOEovPZK42-FIvz2ocLSzINlcKl6AYMBmTYYJEWgKfCo",
-        "source": "ynet"
-      },
-      {
-        "title": "פרופ' ניר גלעדי, מבכירי הנוירולוגים בישראל, נפטר בגיל 68",
-        "snippet": "",
-        "url": "https://www.israelhayom.co.il/health/article/16945538",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToh6uBxEsWgnJD8bQNEuUoDJLL9P57N9OY50LhFQJkxbTYVN0hLJjpGz08Qk8",
-        "source": "ישראל היום"
-      },
-      {
-        "title": "אבל בעולם הבריאות: אחד הרופאים הבכירים בישראל נפטר בגיל 69",
-        "snippet": "",
-        "url": "https://www.ice.co.il/health/news/article/1041878",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZchZD6tZImt-gtYf3r224wCOslQGPdNA7OnM1bEiXcyWl__eBmkJFE7H1tps",
-        "source": "ice (אייס)"
-      }
-    ]
-  },
-  {
     "title": "עופר וינטר",
     "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 10 Dec 2024 21:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTk0RYIrWBvUICQ0OSfqSy4lRFwOS2LMilAgs1NhpB-sAPHQMyzkk_dpzuVQ4",
+    "pubdate": "Thu, 12 Dec 2024 01:30:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJAlKC0-VRSFvp2G7bMw4Oy-FpkzTfrVhU4n12NpYor-U9WWuCyeQzmQdSsH0",
     "picture_source": "ynet",
     "news_items": [
       {
-        "title": "לפני המשפחה: הקצין הבכיר שביקר את אלי פלדשטיין בכלא",
+        "title": "וינטר במתקפה על הרמטכ\"ל: \"אם אני רה\"מ - הראש שלו מותז בשנייה. מי אתה? חוצפן\"",
         "snippet": "",
-        "url": "https://www.ynet.co.il/news/article/rjueholvyx",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTk0RYIrWBvUICQ0OSfqSy4lRFwOS2LMilAgs1NhpB-sAPHQMyzkk_dpzuVQ4",
+        "url": "https://www.ynet.co.il/news/article/bydsaqu4ye",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJAlKC0-VRSFvp2G7bMw4Oy-FpkzTfrVhU4n12NpYor-U9WWuCyeQzmQdSsH0",
         "source": "ynet"
       },
       {
-        "title": "עופר וינטר, ששוחרר השנה מצה\"ל, ביקר את פלדשטיין בכלא והוצג כקצין בכיר בסיור \nשגרתי",
+        "title": "חדשות היום, 12 בדצמבר",
         "snippet": "",
-        "url": "https://www.haaretz.co.il/news/law/2024-12-11/ty-article/.premium/00000193-b4a1-da87-a7bb-bca524d60000",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXrdKahFQxaLXOB02GtakC75LeCtWoxRYER_i_3PH7-OcNcJa901BT7jBGThg",
+        "url": "https://www.haaretz.co.il/news/dailynews/2024-12-12/ty-article-live/00000193-b829-da67-abff-fbbda0b60000",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu6O2idCIjOG1YaiIobbzYTmRHZ4S_eM90In7DZFBI7sp7HpyZsly21tRiKho",
         "source": "הארץ"
       },
       {
-        "title": "נחשף: הביקור של עופר וינטר אצל פלדשטיין בזמן המעצר",
+        "title": "וינטר על הרמטכ\"ל: \"אם אני רה\"מ - הראש שלו מותז\"",
         "snippet": "",
-        "url": "https://www.srugim.co.il/1068111-%D7%A0%D7%97%D7%A9%D7%A3-%D7%94%D7%91%D7%99%D7%A7%D7%95%D7%A8-%D7%A9%D7%9C-%D7%A2%D7%95%D7%A4%D7%A8-%D7%95%D7%99%D7%A0%D7%98%D7%A8-%D7%90%D7%A6%D7%9C-%D7%A4%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT77SzkjRbla-l3HT_Cm662bSRYWJFI34a8X-JjxwBI8UfLjgE6FSjPfbVN0mc",
-        "source": "סרוגים"
+        "url": "https://news.walla.co.il/item/3711342",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSS2f0_mK8HjKtkFNeqH6GuViyXePB2SLXHOShKF-LuBD2sfQOlOpAN5c4xRHo",
+        "source": "וואלה חדשות"
       }
     ]
   },
   {
-    "title": "sport5",
+    "title": "שדה עוזיהו",
     "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 10 Dec 2024 20:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPsgV0PQ2je3Z7-YEAR19tUW6AgsE7caqFvnD4X60eYChtAkLgK9Ljr05ruM",
-    "picture_source": "ישראל היום",
-    "news_items": [
-      {
-        "title": "הרבה יותר משחשבנו: כמה כסף הרוויח דודו ביטון בחו\"ל?",
-        "snippet": "",
-        "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/16945564",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPsgV0PQ2je3Z7-YEAR19tUW6AgsE7caqFvnD4X60eYChtAkLgK9Ljr05ruM",
-        "source": "ישראל היום"
-      },
-      {
-        "title": "בגיל 36: דודו ביטון הודיע על פרישה מכדורגל",
-        "snippet": "",
-        "url": "https://www.msn.com/he-il/news/other/%D7%91%D7%92%D7%99%D7%9C-36-%D7%93%D7%95%D7%93%D7%95-%D7%91%D7%99%D7%98%D7%95%D7%9F-%D7%94%D7%95%D7%93%D7%99%D7%A2-%D7%A2%D7%9C-%D7%A4%D7%A8%D7%99%D7%A9%D7%94-%D7%9E%D7%9B%D7%93%D7%95%D7%A8%D7%92%D7%9C/ar-AA1vCeL2",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvxsadf9PEl8qUn_cgtVri_ew37YqqtEPVYScdSAdAoRVN_F70Q45kGXHh3Q",
-        "source": "MSN"
-      },
-      {
-        "title": "בגיל 36: דודו ביטון הודיע על פרישה",
-        "snippet": "",
-        "url": "https://www.mako.co.il/Sports-football-il/premier-league-q4_2024/Article-ccfd029a191b391027.htm",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp-S-jB6U7qWIR0ILV4LXLnEERybaTVS5R3raOoJewRg3_y25tJMbdlJqa9Rg",
-        "source": "mako"
-      }
-    ]
-  },
-  {
-    "title": "ביטוח לאומי",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 10 Dec 2024 17:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "دوري الأبطال",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 10 Dec 2024 14:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pAXzQE14XhL2TsBWH_EGbRQxZhnvn8W58fI0cq3gwRn5HrmGJHmT6krnsr0",
-    "picture_source": "هاي كورة",
-    "news_items": [
-      {
-        "title": "غيابات دورتموند قبل مواجهة برشلونة",
-        "snippet": "",
-        "url": "https://hihi2.com/2024/12/10/p2974889.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pAXzQE14XhL2TsBWH_EGbRQxZhnvn8W58fI0cq3gwRn5HrmGJHmT6krnsr0",
-        "source": "هاي كورة"
-      },
-      {
-        "title": "نوري شاهين يحذر من ليفاندوفسكي.. ويؤكد: لن أغير فلسفة بوروسيا دورتموند أمام \nبرشلونة",
-        "snippet": "",
-        "url": "https://www.btolat.com/news/359247",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRb1emimrkXYBSAqNfHkgospRrKl-6g_qS33w1PU3_ZmXm9IBKQXK1LB92Dj8",
-        "source": "بطولات"
-      },
-      {
-        "title": "بينيا: أفكار فليك صدمتنا، ولعب مباراة الغد بمثابة الحلم",
-        "snippet": "",
-        "url": "https://www.ysscores.com/ar/news/8588654/%D8%A8%D9%8A%D9%86%D9%8A%D8%A7-%D8%A3%D9%81%D9%83%D8%A7%D8%B1-%D9%81%D9%84%D9%8A%D9%83-%D8%B5%D8%AF%D9%85%D8%AA%D9%86%D8%A7%D8%8C-%D9%88%D9%84%D8%B9%D8%A8-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%BA%D8%AF-%D8%A8%D9%85%D8%AB%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%AD%D9%84%D9%85",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45WVbJCrCUKrNJH76DqcMob6KC7jnkvz4IUGUtECnlRmbJ23SZF1yb7Z5ewM",
-        "source": "يلا سبورت"
-      }
-    ]
-  },
-  {
-    "title": "دوري ابطال اوروبا",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 10 Dec 2024 14:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStjcGHBqY6lNNvlub77q_GnqmNNskycXCSomxVh-lc2Ksslntm7R8wONpho14",
-    "picture_source": "هاي كورة",
-    "news_items": [
-      {
-        "title": "تشكيلة مانشستر سيتي المتوقعة أمام اليوفينتوس",
-        "snippet": "",
-        "url": "https://hihi2.com/2024/12/11/p2976060.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStjcGHBqY6lNNvlub77q_GnqmNNskycXCSomxVh-lc2Ksslntm7R8wONpho14",
-        "source": "هاي كورة"
-      },
-      {
-        "title": "روميرو ينتقد سياسة توتنهام في بيع لاعبي الفريق - نايس كورة",
-        "snippet": "",
-        "url": "https://news.nicekoora.com/uncategorized-khabrgadid/76554",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvboDe15LXzYlDrcdIOdsyxVc1gDtIrsEmJbW3Anvfwq6CsrgmgZezhMqvYPQ",
-        "source": "نايس كورة"
-      },
-      {
-        "title": "مواجهة مرتقبة بين يوفنتوس ومانشستر سيتي",
-        "snippet": "",
-        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D8%A8%D9%8A%D9%86-%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3-%D9%88%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A-2024-12-11",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPU4wME0OrUimxzcDNS46WpzSIsuL5Y9MVlRe1a_skJxyepF9jKiHjqE0QxXI",
-        "source": "beIN SPORTS"
-      }
-    ]
-  },
-  {
-    "title": "לוטו",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 10 Dec 2024 13:40:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcZM8HcyBybw8MBNjTD-1KK-b0bjXYx9WfJYjW5EPTsdlz3MMDoqv8cQCw4u0",
+    "pubdate": "Thu, 12 Dec 2024 01:20:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnMO9iWnjRgcQlwaT7H8F3nZ4MFmvaLxqB_nejOc1zwjoLrRXne2HZ6repEs",
     "picture_source": "mako",
     "news_items": [
       {
-        "title": "\"אמרו לי שזכיתי במיליון שקל, נתתי להם את פרטי האשראי\"",
+        "title": "הקטל בכבישים: 3 נשים בשנות ה-20 לחייהן נהרגו בתאונת דרכים בכביש 42",
         "snippet": "",
-        "url": "https://www.mako.co.il/men-men_news/Article-e4cb45c28b6a391027.htm",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcZM8HcyBybw8MBNjTD-1KK-b0bjXYx9WfJYjW5EPTsdlz3MMDoqv8cQCw4u0",
+        "url": "https://www.mako.co.il/news-israel/2024_q4/Article-bc68c08f948b391026.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnMO9iWnjRgcQlwaT7H8F3nZ4MFmvaLxqB_nejOc1zwjoLrRXne2HZ6repEs",
+        "source": "mako"
+      },
+      {
+        "title": "התאונה ביבנה: אסתי, ג'ולי וליאם היו בדרכן חזרה מיום הולדת - ונהרגו",
+        "snippet": "",
+        "url": "https://www.kan.org.il/content/kan-news/local/835337/",
+        "picture": "",
+        "source": "כאן 11"
+      },
+      {
+        "title": "אסתי בן עמי, ג'ולי חסאן וליאם גלם ממושב עוזיהו הן ההרוגות בתאונה בכביש 42",
+        "snippet": "",
+        "url": "https://www.israelhayom.co.il/news/local/article/16951949",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu3stpldZYJUI0Y3PJSZOS96aRxZWBhkq5b7hhlqaAaYUhJj3LtrFVY4vmT5E",
+        "source": "ישראל היום"
+      }
+    ]
+  },
+  {
+    "title": "benny blanco",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Wed, 11 Dec 2024 23:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
+    "picture_source": "People.com",
+    "news_items": [
+      {
+        "title": "Selena Gomez and Benny Blanco Are Engaged: 'Forever Begins Now'",
+        "snippet": "",
+        "url": "https://people.com/selena-gomez-benny-blanco-are-engaged-married-8661420",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
+        "source": "People.com"
+      },
+      {
+        "title": "Selena Gomez announces engagement to record producer Benny Blanco",
+        "snippet": "",
+        "url": "https://www.foxnews.com/entertainment/selena-gomez-announces-engagement-record-producer-benny-blanco",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedrjVKRELNCEDimTOLRZWjMpqkga79wfrQJU_UaQ1ZuxTht-KNUpOX09U2OY",
+        "source": "Fox News"
+      },
+      {
+        "title": "Selena Gomez engaged to boyfriend Benny Blanco after a year of dating — and Taylor Swift agrees to role at wedding",
+        "snippet": "",
+        "url": "https://nypost.com/2024/12/12/entertainment/selena-gomez-engaged-to-boyfriend-benny-blanco-as-taylor-swift-agrees-to-be-flower-girl/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyslhkg6FynQPUM2z_bp1i_JOmrgrrhaqidkrhe3FCQqYvP-8E-lt-z8r3UPY",
+        "source": "New York Post"
+      }
+    ]
+  },
+  {
+    "title": "כטבם",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Wed, 11 Dec 2024 23:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnUUs_GJ1uhGztTUZ-YDjqxIxtvfH7N1NWoZIojMJEIrp_DVIDu9n3EG5Q5wo",
+    "picture_source": "ערוץ 14",
+    "news_items": [
+      {
+        "title": "אזעקות בדרום הארץ על חדירת כטב\"ם, צה\"ל: \"הפרטים בבדיקה\"",
+        "snippet": "",
+        "url": "https://www.now14.co.il/%D7%90%D7%96%D7%A2%D7%A7%D7%95%D7%AA-%D7%91%D7%93%D7%A8%D7%95%D7%9D-%D7%94%D7%90%D7%A8%D7%A5-%D7%A2%D7%9C-%D7%97%D7%93%D7%99%D7%A8%D7%AA-%D7%9B%D7%98%D7%91%D7%9D-%D7%A6%D7%94%D7%9C-%D7%94/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnUUs_GJ1uhGztTUZ-YDjqxIxtvfH7N1NWoZIojMJEIrp_DVIDu9n3EG5Q5wo",
+        "source": "ערוץ 14"
+      },
+      {
+        "title": "צה\"ל מעדכן: כך יורט הכטב\"ם מתימן בדרום הארץ",
+        "snippet": "",
+        "url": "https://www.kikar.co.il/israel-news/yemen-drone-interception-israel",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxzz6xvDHKCM-IySJlysaDAxh75eHpGrCIdWsJjEYkUciWvcqwYoC-hwF7qVE",
+        "source": "כיכר השבת"
+      },
+      {
+        "title": "מפקד חיל האוויר על פגיעת הכטב\"ם ביבנה: \"נכשלנו\" | זו הסיבה שכלי הטיס לא יורט",
+        "snippet": "",
+        "url": "https://www.ynet.co.il/news/article/ryzfedrn1x",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHXp9AVcNIpZMe3MWK6XCghBzR3UaHc4Gy8fKL0L1htPG2rsjxwfiPu6DWvo",
+        "source": "ynet"
+      }
+    ]
+  },
+  {
+    "title": "בני בלנקו",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Wed, 11 Dec 2024 23:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qNmHDbkQYadzk8dczDiRVo7NqQsH4xrc_EJGNEKNo7q9JiGw5J-vtc8FPkk",
+    "picture_source": "פנאי פלוס",
+    "news_items": [
+      {
+        "title": "אוהבת אותך כמו שיר אהבה: סלינה גומז ובני בלאנקו מאורסים",
+        "snippet": "",
+        "url": "https://pplus.ynet.co.il/richul/article/bjuplwdv1g",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qNmHDbkQYadzk8dczDiRVo7NqQsH4xrc_EJGNEKNo7q9JiGw5J-vtc8FPkk",
+        "source": "פנאי פלוס"
+      },
+      {
+        "title": "מזל טוב: סלינה גומז התארסה לבן הזוג היהודי",
+        "snippet": "",
+        "url": "https://celebs.walla.co.il/item/3711252",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA831cYDOHqxgupgyiQu2Nihj3GXszuWs7kTWw7tOuJMmHVX6SfWuDEijvkKY",
+        "source": "וואלה סלבס"
+      },
+      {
+        "title": "עם חתיכת יהלום: סלינה גומז התארסה לבן זוגה",
+        "snippet": "",
+        "url": "https://www.mako.co.il/entertainment-celebs/world-2024/Article-6451cfc4c79b391027.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOjxCvbI3Mfw0Z0y4es4OfoRFERnJySrtNIPD5HUzNvJqU09wyf7qrSsCRQ4",
         "source": "mako"
       }
     ]
   },
   {
-    "title": "uefa champions league",
+    "title": "אשדוד נט",
     "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 10 Dec 2024 13:40:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 23:30:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGuBt5sYMIVSDSE9qze8kCybirVMYVnGXkI_1pnlQb7aO2sO44ZJBvK-rATAA",
-    "picture_source": "BBC",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxzz6xvDHKCM-IySJlysaDAxh75eHpGrCIdWsJjEYkUciWvcqwYoC-hwF7qVE",
+    "picture_source": "כיכר השבת",
     "news_items": [
       {
-        "title": "Aston Villa: Jhon Duran scores stunner to send clear message to Unai Emery",
+        "title": "צה\"ל מעדכן: כך יורט הכטב\"ם מתימן בדרום הארץ",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/cp83yeqeelqo",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGuBt5sYMIVSDSE9qze8kCybirVMYVnGXkI_1pnlQb7aO2sO44ZJBvK-rATAA",
-        "source": "BBC"
+        "url": "https://www.kikar.co.il/israel-news/yemen-drone-interception-israel",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxzz6xvDHKCM-IySJlysaDAxh75eHpGrCIdWsJjEYkUciWvcqwYoC-hwF7qVE",
+        "source": "כיכר השבת"
       },
       {
-        "title": "RB Leipzig v Aston Villa live: UEFA Champions League latest as Unai Emery's \nside bid to boost qualification hopes with victory at winless German hosts",
+        "title": "מפקד חיל האוויר על פגיעת הכטב\"ם ביבנה: \"נכשלנו\" | זו הסיבה שכלי הטיס לא יורט",
         "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-rb-leipzig-aston-villa_mtc1525366/live-commentary.shtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5-kDCWguYFEW9Wb38GCz-H_ElQED4IgKCph2NrzM27rlRaNCYZ9-r3Qy2KR0",
-        "source": "Eurosport"
+        "url": "https://www.ynet.co.il/news/article/ryzfedrn1x",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHXp9AVcNIpZMe3MWK6XCghBzR3UaHc4Gy8fKL0L1htPG2rsjxwfiPu6DWvo",
+        "source": "ynet"
       },
       {
-        "title": "Jhon Durán's Stunning Goal in the Champions League: Long-Range Rocket Finds \nthe Net",
+        "title": "קולות נפץ והדף מורגשים באשדוד והסביבה",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2164942-jhon-duran-s-stunning-goal-in-the-champions-league-long-range-rocket-finds-the-net",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcsTSM8ePiQwEnveliINVGVfEZ2ZKII179zT46qUPLyfXMj_DFxDTcu_dwAU",
-        "source": "FootBoom"
+        "url": "https://ashdodnet.com/%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%90%D7%A9%D7%93%D7%95%D7%93/%D7%A7%D7%95%D7%9C%D7%95%D7%AA-%D7%A0%D7%A4%D7%A5-%D7%95%D7%94%D7%93%D7%A3-%D7%9E%D7%95%D7%A8%D7%92%D7%A9%D7%99%D7%9D-%D7%91%D7%90%D7%A9%D7%93%D7%95%D7%93-%D7%95%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%94-607863",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNfKQff0jvvMNz5FeTDGWkcQbA2uHy1n0o31jUb7ptXsWaIKJokDbkhd5RrIE",
+        "source": "אשדוד נט"
+      }
+    ]
+  },
+  {
+    "title": "נתיבות",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Wed, 11 Dec 2024 22:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRc1JwfEQ4mY19d_-ZANa2CCLwc0nkaZEMIP1ZBRdNzUgQm5Id5Sz_YszXhRG0",
+    "picture_source": "ניוזים",
+    "news_items": [
+      {
+        "title": "תושב נתיבות נפגש עם מתנדבי איחוד הצלה שביצעו עליו החייאה – \"הצלתם את חיי\"",
+        "snippet": "",
+        "url": "https://newzim.co.il/darom/?p=20886",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRc1JwfEQ4mY19d_-ZANa2CCLwc0nkaZEMIP1ZBRdNzUgQm5Id5Sz_YszXhRG0",
+        "source": "ניוזים"
+      },
+      {
+        "title": "מרגש: תושב נתיבות נפגש עם המתנדבים שהצילו את חייו",
+        "snippet": "",
+        "url": "https://br7news.co.il/he/news/news-1733834740",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTec2rqxuhNC_YZP6UGGB1QlorJ-xLzpZvy-J_5NL9011kF8ZeMIWP20pvJqKQ",
+        "source": "חדשות באר שבע והנגב"
+      },
+      {
+        "title": "תושב נתיבות נפגש עם מתנדבי איחוד הצלה שביצעו עליו החייאה: \"הצלתם את חיי\"",
+        "snippet": "",
+        "url": "https://www.news08.net/%D7%AA%D7%95%D7%A9%D7%91-%D7%A0%D7%AA%D7%99%D7%91%D7%95%D7%AA-%D7%A0%D7%A4%D7%92%D7%A9-%D7%A2%D7%9D-%D7%9E%D7%AA%D7%A0%D7%93%D7%91%D7%99-%D7%90%D7%99%D7%97%D7%95%D7%93-%D7%94%D7%A6%D7%9C%D7%94-%D7%A9/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ6lNeni7js2p6OgTaIyl87m1947Q5rdeNWdvyfk3vxkk_46G8_-4JZ5IoZTI",
+        "source": "חדשות אפס שמונה"
+      }
+    ]
+  },
+  {
+    "title": "תקומה",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Wed, 11 Dec 2024 22:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1q170ojbOQ9wyzz7lelfwUG96Cwoy9ofLcCm4puB_hzm8ZoRux-6NiBCvbUM",
+    "picture_source": "ישראל היום",
+    "news_items": [
+      {
+        "title": "רכשו כרטיסים בשמות: כך ניסו פעילי שמאל לפגוע בכנס הניצחון",
+        "snippet": "",
+        "url": "https://www.israelhayom.co.il/news/local/article/16950222",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1q170ojbOQ9wyzz7lelfwUG96Cwoy9ofLcCm4puB_hzm8ZoRux-6NiBCvbUM",
+        "source": "ישראל היום"
+      },
+      {
+        "title": "צביקה מור ביקש ממפגיני שמאל לצאת מועידת הגבורה והניצחון",
+        "snippet": "",
+        "url": "https://www.inn.co.il/news/655869",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmt4i8g1i1mYMLBCKKdB_uNlvThIwXhL-HX17q3F8I9KAnsfBcdmS0bfBefg",
+        "source": "ערוץ 7"
+      },
+      {
+        "title": "סמוטריץ', מול שלטי מחאה: \"החזרת החטופים? חשוב מאוד - אבל זה לא ניצחון\"",
+        "snippet": "",
+        "url": "https://www.ynet.co.il/news/article/rjzjadvvyl",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCkQZw3rDDlMGwuOlU1Xy2RzCKGkIPNrzYkCf4a6TeA-srFLoU5UJKbhlU5E",
+        "source": "ynet"
+      }
+    ]
+  },
+  {
+    "title": "קורין אלאל",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Wed, 11 Dec 2024 21:00:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGy3btUTW7uMzl02ngbfRhg2ZTs4T89SwheL1sfysvHPGsQdeyQnwrt7KcADw",
+    "picture_source": "ynet",
+    "news_items": [
+      {
+        "title": "הזמרת קורין אלאל הלכה לעולמה בגיל 69",
+        "snippet": "",
+        "url": "https://www.ynet.co.il/entertainment/article/hj5orxtyp",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGy3btUTW7uMzl02ngbfRhg2ZTs4T89SwheL1sfysvHPGsQdeyQnwrt7KcADw",
+        "source": "ynet"
+      },
+      {
+        "title": "\"זן נדיר של כישרון ורגישות\": החברים נפרדים מקורין אלאל שנפטרה מסרטן",
+        "snippet": "",
+        "url": "https://www.calcalist.co.il/style/article/h125bedn1x",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6vMuVgNhXWsqLdEdHLW_MmIyFJAlrbu2-NsolikXr5SLMXU_ZFq9KsUqdIrg",
+        "source": "calcalist"
+      },
+      {
+        "title": "המוזיקה של קורין אלאל התקיימה בין השלם לשבור, בין המשונן למוזהב",
+        "snippet": "",
+        "url": "https://www.haaretz.co.il/gallery/music/2024-12-12/ty-article-magazine/.premium/00000193-b9f5-d495-adb3-fdfd64e40000",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvR0TDImZlZYJ1haXRYtxc6AP9PK2jv-c-Ms9SYKDC3OWFJr_OrobEL8Hyo4U",
+        "source": "הארץ"
+      }
+    ]
+  },
+  {
+    "title": "лига чемпионов",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Wed, 11 Dec 2024 20:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgV64XqSJQrcwOlDA5Tg7EP2ALJfvj6dxkcxFtWV5YV9Vh29AXheSJbiHD92E",
+    "picture_source": "Champion.com.ua",
+    "news_items": [
+      {
+        "title": "Шахтер за пределами зоны плейоф Ливерпуль уверенно лидирует в таблице Лиги \nчемпионов после 6 тура",
+        "snippet": "",
+        "url": "https://champion.com.ua/rus/football/liga-chempioniv/ukrainskiy-futbolnyy-klub-shahter-za-predelami-zony-pley-off-ligi-chempionov-1019928/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgV64XqSJQrcwOlDA5Tg7EP2ALJfvj6dxkcxFtWV5YV9Vh29AXheSJbiHD92E",
+        "source": "Champion.com.ua"
+      },
+      {
+        "title": "Обзор и хайлайты матчей шестого тура",
+        "snippet": "",
+        "url": "https://ru.uefa.com/uefachampionsleague/news/0294-1c8a3f4ff386-c6ec5012cff2-1000--%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%B8-%D1%85%D0%B0%D0%B8/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflWgZ-C2gTA5VvvY4IiS8ThUgqG_MfLU4wKRbcg0I-HEAGt144mfzgtC6OQ",
+        "source": "UEFA.com"
+      },
+      {
+        "title": "«Барселона» обыграла «Боруссию», «Ювентус» победил «Манчестер Сити» в Лиге \nчемпионов",
+        "snippet": "",
+        "url": "https://matchtv.ru/football/matchtvnews_NI2145834_Barselona_obygrala_Borussiju_Juventus_pobedil_Manchester_Siti_v_Lige_chempionov",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsyNJm0_ErGK0nGJQshL1XEwQOsgxAkK623MtIQmk_KoQDUSOrbJB5zuig9uM",
+        "source": "Матч ТВ"
       }
     ]
   }

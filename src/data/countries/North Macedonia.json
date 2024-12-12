@@ -1,32 +1,311 @@
 [
   {
-    "title": "artan grubi",
+    "title": "earthquake near me",
     "link": "https://trends.google.com/trending/rss?geo=MK",
-    "pubdate": "Mon, 9 Dec 2024 12:50:00 -0800",
-    "approx_traffic": "100+",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvgmlodCqJ3I7p7BT1esGD2olfS7xyC59qRknrZe9UrDlv6LWr5mBQGejjXQE",
-    "picture_source": "Balkan Insight",
+    "pubdate": "Wed, 11 Dec 2024 16:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpIE1EzO34eR_Vw_FwQDmuAhhwWsZ6s-9Wwxr6JQdj2teA9XgLf-cbJupr-Mk",
+    "picture_source": "KTVN",
     "news_items": [
       {
-        "title": "US Blacklists North Macedonia Ex-Deputy PM for Bribery, Corruption",
+        "title": "5.8 magnitude earthquake strikes near Yerington, quickly followed by \nnumerous aftershocks",
         "snippet": "",
-        "url": "https://balkaninsight.com/2024/12/10/us-blacklists-north-macedonia-ex-deputy-pm-for-bribery-corruption/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvgmlodCqJ3I7p7BT1esGD2olfS7xyC59qRknrZe9UrDlv6LWr5mBQGejjXQE",
-        "source": "Balkan Insight"
+        "url": "https://www.2news.com/news/local/5-8-magnitude-earthquake-strikes-near-yerington-quickly-followed-by-numerous-aftershocks/article_6a397c50-b683-11ef-8633-23e5ae148e9d.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpIE1EzO34eR_Vw_FwQDmuAhhwWsZ6s-9Wwxr6JQdj2teA9XgLf-cbJupr-Mk",
+        "source": "KTVN"
       },
       {
-        "title": "Grubi: I will engage with our partners to clarify this issue in its entirety",
+        "title": "Nevada struck by 5.6 magnitude earthquake that rattles homes in California",
         "snippet": "",
-        "url": "https://telegrafi.com/en/grubi-te-angazhohem-partneret-tane-qe-te-zbardhe-kete-ceshtje-ne-teresi/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKWT5M0fL2RlFSP6a5DuHcpEkL4xZjoNei-78kIIlY0hnWjj9929f8NUODSZ8",
-        "source": "Telegrafi"
+        "url": "https://www.yahoo.com/news/nevada-struck-5-6-magnitude-193015163.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRatnOST1v11VV14CFR3ZTFFvUR5eOM9qdOe5arXvQa2_CA3G8Vyus1qj91md8",
+        "source": "Yahoo"
       },
       {
-        "title": "Albanian politician in North Macedonia declared 'non grata' by US",
+        "title": "Moderate Earthquake Rattles Reno and Lake Tahoe",
         "snippet": "",
-        "url": "https://politiko.al/english/rajoni/politikani-shqiptar-ne-maqedonine-e-veriut-shpallet-non-grata-nga-shba-i520955",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ06RTKtauXz7K1xiTAzu-i5iNr1dZXNS6tMAWlG-WOPWv9CgWqLq8Hrx_Ur1c",
-        "source": "Politiko.al"
+        "url": "https://www.nytimes.com/2024/12/09/us/earthquake-reno-lake-tahoe-nevada.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu2k1BQcXe1qvoLjd8WLRTTGAN87tzMlUxMSoXo6MmuNUF7sP4Dz5qV7n_Xg",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "title": "earthquake",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Wed, 11 Dec 2024 16:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3ufSYu7pm15O4SyzFfFSwHTRm1DzpFNi2wUog0xtbfZzZFk0lM08Q_WvtwI",
+    "picture_source": "California Department of Water Resources (.gov)",
+    "news_items": [
+      {
+        "title": "Construction Begins on Lake Perris Emergency Release Facility Project",
+        "snippet": "",
+        "url": "https://water.ca.gov/News/News-Releases/2024/Dec-24/Construction-Begins-on-Lake-Perris-Emergency-Release-Facility-Project",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3ufSYu7pm15O4SyzFfFSwHTRm1DzpFNi2wUog0xtbfZzZFk0lM08Q_WvtwI",
+        "source": "California Department of Water Resources (.gov)"
+      },
+      {
+        "title": "DWR starts construction on State Water Project reservoir",
+        "snippet": "",
+        "url": "https://www.agri-pulse.com/articles/22038-dwr-begins-new-water-infrastructure-construction-part-of-state-water-project",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNVlubCXSB9ZcaZ9vVmqGW_CCqBTdtGAd6s1vASsdGwpl3F7GYUVipYhgAaRs",
+        "source": "Agri-Pulse"
+      },
+      {
+        "title": "How California Is Trying to Earthquake-Proof a Lake",
+        "snippet": "",
+        "url": "https://www.newsweek.com/how-california-trying-earthquake-proof-lake-perris-1999350",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtweoRF_u0Xba1grVwpIYT6e_aRp9oIahvPS94iVDGL-XtOVmtF_tU_0PXLG0",
+        "source": "Newsweek"
+      }
+    ]
+  },
+  {
+    "title": "chatgpt",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+    "picture_source": "CNBC",
+    "news_items": [
+      {
+        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+        "source": "CNBC"
+      },
+      {
+        "title": "ChatGPT is down: What happened and when will it be back?",
+        "snippet": "",
+        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
+        "source": "Diario AS"
+      },
+      {
+        "title": "ChatGPT back online after global outage",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "title": "barcelona",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Wed, 11 Dec 2024 13:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYM4XkCnJaabA835JHa9nOimBy_tMU0CvAHWlwp9GVCNWh0-vzeg2qyMZrcyg",
+    "picture_source": "Marca.com",
+    "news_items": [
+      {
+        "title": "La Champions es el nuevo jardín del Barcelona",
+        "snippet": "",
+        "url": "https://www.marca.com/futbol/barcelona/2024/12/11/champions-nuevo-jardin-barcelona.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYM4XkCnJaabA835JHa9nOimBy_tMU0CvAHWlwp9GVCNWh0-vzeg2qyMZrcyg",
+        "source": "Marca.com"
+      },
+      {
+        "title": "Borussia Dortmund - Barcelona, en directo: Champions League hoy, en vivo",
+        "snippet": "",
+        "url": "https://www.sport.es/es/noticias/barca/borussia-dortmund-barcelona-champions-directo-112531459",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQRw64bzUeDMJIqcJBAEC4GeXG14Qq9G22wB39Y00pDXJnAD54-smCjsnxwl4",
+        "source": "SPORT"
+      },
+      {
+        "title": "Flick: «El objetivo es ser primeros»",
+        "snippet": "",
+        "url": "https://onefootball.com/en/news/flick-el-objetivo-es-ser-primeros-40427746",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
+        "source": "OneFootball"
+      }
+    ]
+  },
+  {
+    "title": "milan vs crvena zvezda",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNpHKXOE7AmpxDdL-kEeRHtt7Ibo1rSgr7g3oKjG5q6p3DFYnjAnSbLpdyzdQ",
+    "picture_source": "SempreMilan",
+    "news_items": [
+      {
+        "title": "Fonseca slams Milan players and hints at consequences: “Like tossing a coin”",
+        "snippet": "",
+        "url": "https://sempremilan.com/fonseca-slams-milan-players-consequences-coin",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNpHKXOE7AmpxDdL-kEeRHtt7Ibo1rSgr7g3oKjG5q6p3DFYnjAnSbLpdyzdQ",
+        "source": "SempreMilan"
+      },
+      {
+        "title": "VIDEO: Abraham made brave Zvezda cry at the finish, Juventus continued \nManchester City's crisis",
+        "snippet": "",
+        "url": "https://www.slobodenpecat.mk/en/video-abraham-vo-finishot-ja-rasplaka-hrabrata-zvezda-juventus-ja-prodolzhi-krizata-na-manchester-siti/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvyvbggAtBfdcATTkWgje2Wx1CTsriMvCax3jOyXDZ7mehAAzbGhpToxUtUaM",
+        "source": "Слободен печат"
+      },
+      {
+        "title": "Champions League: Ruben Loftus-Cheek to replace injured Christian Pulisic \nfor Milan against Red Star",
+        "snippet": "",
+        "url": "https://www.flashscore.com/news/soccer-champions-league-ruben-loftus-cheek-to-replace-injured-christian-pulisic-for-milan-against-red-star/zN6kRltS/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSE6vpsxeDb8UwUO5XHlNqnghufiAWTMDvn9EQ1KqLt9te1Sk5xeYS94ROub-k",
+        "source": "Flashscore.com"
+      }
+    ]
+  },
+  {
+    "title": "bet365",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYvVWgcVFwbwLrbFOQYRHnrSaW0htGKCCoZYj3GNS1BWS9rowjnDg4AEzKvng",
+    "picture_source": "Scioto County Daily News",
+    "news_items": [
+      {
+        "title": "Unlock Your Welcome Bonus with the Bet365 Bonus Code: BETTINGCOM",
+        "snippet": "",
+        "url": "https://sciotocountydailynews.com/unlock-your-welcome-bonus-with-the-bet365-bonus-code-bettingcom/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYvVWgcVFwbwLrbFOQYRHnrSaW0htGKCCoZYj3GNS1BWS9rowjnDg4AEzKvng",
+        "source": "Scioto County Daily News"
+      },
+      {
+        "title": "bet365 promo code: Bet $5, get $150 in bonus bets",
+        "snippet": "",
+        "url": "https://www.pennlive.com/betting/2024/12/bet365-promo-code-bet-5-get-150-in-bonus-bets.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBjHmvZ-q9qnHgJx-oeKNo5IoawjjyuwvIsXbHnehHzaPL4lhc7UwabYVcn38",
+        "source": "PennLive.com"
+      },
+      {
+        "title": "Bet365 Bonus Code MHSXLM: $150 Bonus for NBA Cup, Rams-49ers TNF",
+        "snippet": "",
+        "url": "https://milehighsports.com/bet365-bonus-code-mhsxlm-nba-cup-rams-49ers/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPfPxq8x9J5MNdcNaaCS74ii-FsRUsYHMsvMSyApF09E5GHOprUyomZnzWpbo",
+        "source": "Mile High Sports"
+      }
+    ]
+  },
+  {
+    "title": "juventus vs man city",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Wed, 11 Dec 2024 12:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHJqSSTsozGtaSk4HomlP9S-4GGsq8aZ5dFumRv5svYnWttzBX-nxGOHSK_E",
+    "picture_source": "Goal.com",
+    "news_items": [
+      {
+        "title": "'He said what?!' - Pep Guardiola clashes with Ilkay Gundogan over \n'complicated' assessment after Man City crisis continues with Champions \nLeague defeat at Juventus",
+        "snippet": "",
+        "url": "https://www.goal.com/en/lists/he-said-what-pep-guardiola-clashes-ilkay-gundogan-assessment-man-city-crisis-champions-league-juventus/blt4e2fd576d9fb940f",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHJqSSTsozGtaSk4HomlP9S-4GGsq8aZ5dFumRv5svYnWttzBX-nxGOHSK_E",
+        "source": "Goal.com"
+      },
+      {
+        "title": "Guardiola: ‘The future belongs to Juventus’",
+        "snippet": "",
+        "url": "https://football-italia.net/guardiola-future-belongs-to-juventus/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRijB4ZKGk3sXAVr1D3hZrbBc9QYxOIKeUk5mE2v-m5v0Xk_YOzxpKDzWypmTU",
+        "source": "Football Italia"
+      },
+      {
+        "title": "Manchester City's Champions League hopes dealt big blow with Juventus loss",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/c0q00v5p21jt",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtb10V4u04fQzlcGpb6w6TcAkjP6EdrKdCIsLhZakhk70yWgT_uZd3j3QaPMw",
+        "source": "BBC"
+      }
+    ]
+  },
+  {
+    "title": "dortmund vs barcelona",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Wed, 11 Dec 2024 11:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZf9fqFrwXa1DY7UvQmpZBDa5vhJnpxr62z_GnBn18nCvyWt90YdSPzwViXiA",
+    "picture_source": "Barca Universal",
+    "news_items": [
+      {
+        "title": "Lamine Yamal breaks down chemistry with Ferran and Raphinha - 'We \nunderstand each other'",
+        "snippet": "",
+        "url": "https://barcauniversal.com/lamine-yamal-breaks-down-chemistry-with-ferran-and-raphinha-we-understand-each-other/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZf9fqFrwXa1DY7UvQmpZBDa5vhJnpxr62z_GnBn18nCvyWt90YdSPzwViXiA",
+        "source": "Barca Universal"
+      },
+      {
+        "title": "Arsenal close in on UCL last 16, City in danger of exit",
+        "snippet": "",
+        "url": "http://www.china.org.cn/sports/2024-12/12/content_117603387.htm",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7P5-pyEBu_dI91wV5BZRgL2i42hn8EGp6De5jNun_zJll9mefUg59du8TjmI",
+        "source": "China.org"
+      },
+      {
+        "title": "Hansi Flick: 'Winning here is really special'",
+        "snippet": "",
+        "url": "https://www.fcbarcelona.com/en/news/4184072/hansi-flick-winning-here-is-really-special",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8sRuIdbnXNFk_XyqI8mE8YpQNvzljLdcK687TcR2JS3iOenx3zMq5-2SQJOE",
+        "source": "Official FC Barcelona Website"
+      }
+    ]
+  },
+  {
+    "title": "messenger",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Wed, 11 Dec 2024 10:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCE5XpZILtmnhhMjoUH8-NId49EY-_Uenbub5dIJKJ1kkELDheMR5EmDQerig",
+    "picture_source": "USA Today",
+    "news_items": [
+      {
+        "title": "FBI warns users to encrypt text messages for cybersecurity. Here's how to \ndo it",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/tech/tips/2024/12/11/how-to-encrypt-text-messages/76923892007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCE5XpZILtmnhhMjoUH8-NId49EY-_Uenbub5dIJKJ1kkELDheMR5EmDQerig",
+        "source": "USA Today"
+      },
+      {
+        "title": "Senators say US must boost security after Chinese Salt Typhoon telecom \nhacking",
+        "snippet": "",
+        "url": "https://www.reuters.com/technology/cybersecurity/senators-say-us-must-boost-security-after-chinese-salt-typhoon-telecom-hacking-2024-12-11/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQftqbtPd0ejs0W3vQV0g1_jFH80a1dG9OqpOKnD0j5_ELnpnuyVbabM0oH6zQ",
+        "source": "Reuters"
+      },
+      {
+        "title": "U.S. officials urge Americans to use encrypted apps amid cyberattack",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIK0oBGQ_9UYbCb9nhgN4K7iZMISg_S-JaLpLqO1Jc6DfMffZDTrsFTq8klU",
+        "source": "NBC News"
+      }
+    ]
+  },
+  {
+    "title": "facebook",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Wed, 11 Dec 2024 10:20:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB9ZYyZh9p6KBOKE9NZzVbwIO293BXhEOvnM1kklBdqWoxLy5Rkw4QUVgotI",
+    "picture_source": "The Independent",
+    "news_items": [
+      {
+        "title": "The whole of Meta has broken",
+        "snippet": "",
+        "url": "https://www.independent.co.uk/tech/facebook-whatsapp-instagram-outage-meta-status-b2663043.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB9ZYyZh9p6KBOKE9NZzVbwIO293BXhEOvnM1kklBdqWoxLy5Rkw4QUVgotI",
+        "source": "The Independent"
+      },
+      {
+        "title": "Facebook And Instagram Down: Here’s What We Know About Widespread Outages",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/mollybohannon/2024/12/11/facebook-and-instagram-down-heres-what-we-know-about-widespread-outages/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
+        "source": "Forbes"
+      },
+      {
+        "title": "Facebook, Instagram, and Threads are down",
+        "snippet": "",
+        "url": "https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHSidYCb4OK0QFH4RkooPjqarIzYvzCAhxhBykeVnZRl0BYX6QcVsK3mFjpls",
+        "source": "The Verge"
       }
     ]
   }

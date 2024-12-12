@@ -1,260 +1,289 @@
 [
   {
-    "title": "werchter boutique",
+    "title": "scarlet",
     "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 11 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
+    "pubdate": "Wed, 11 Dec 2024 23:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjDnuwlpZ-yGG_OsOypGrbzf4ysYovygAg_wg6kakVOZTCoCTmL35cWSRQ_70",
+    "picture_source": "NCAA.com",
+    "news_items": [
+      {
+        "title": "College Football Playoff bracket: Schedule, rankings, seeds",
+        "snippet": "",
+        "url": "https://www.ncaa.com/news/football/article/2024-12-08/college-football-playoff-bracket-schedule-rankings-seeds",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjDnuwlpZ-yGG_OsOypGrbzf4ysYovygAg_wg6kakVOZTCoCTmL35cWSRQ_70",
+        "source": "NCAA.com"
+      },
+      {
+        "title": "College Football Playoff: Tennessee at Ohio State - prediction, odds, \nexpert picks, QBs, trends, and stats",
+        "snippet": "",
+        "url": "https://sports.yahoo.com/college-football-playoff-tennessee-ohio-160402910.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW6eQ7cZ_LA6gZaGlZFHqVdxfQwGSMNAUxxZ5VEG9KEUQsY9rZVUMl4DATMsM",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Ohio State Offense Must Learn Lesson From Michigan, Rely On Better Matchups \nOutside vs. Tennessee | Eleven War",
+        "snippet": "",
+        "url": "https://www.elevenwarriors.com/ohio-state-football/2024/12/151680/ohio-state-offense-must-learn-lesson-from-michigan-rely-on-better-matchups-outside-vs-tennessee",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSc7owXDocA2cvsTbKig5B4E7oDSWzcMFPVgZ10zQcaG6lm4wSCdKZKrXatTxk",
+        "source": "Eleven Warriors"
+      }
+    ]
   },
   {
-    "title": "digi belgique prix",
+    "title": "benny blanco",
     "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 11 Dec 2024 04:00:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 22:30:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
+    "picture_source": "People.com",
+    "news_items": [
+      {
+        "title": "Selena Gomez and Benny Blanco Are Engaged: 'Forever Begins Now'",
+        "snippet": "",
+        "url": "https://people.com/selena-gomez-benny-blanco-are-engaged-married-8661420",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
+        "source": "People.com"
+      },
+      {
+        "title": "Selena Gomez announces engagement to record producer Benny Blanco",
+        "snippet": "",
+        "url": "https://www.foxnews.com/entertainment/selena-gomez-announces-engagement-record-producer-benny-blanco",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedrjVKRELNCEDimTOLRZWjMpqkga79wfrQJU_UaQ1ZuxTht-KNUpOX09U2OY",
+        "source": "Fox News"
+      },
+      {
+        "title": "Selena Gomez engaged to boyfriend Benny Blanco after a year of dating — and Taylor Swift agrees to role at wedding",
+        "snippet": "",
+        "url": "https://nypost.com/2024/12/12/entertainment/selena-gomez-engaged-to-boyfriend-benny-blanco-as-taylor-swift-agrees-to-be-flower-girl/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyslhkg6FynQPUM2z_bp1i_JOmrgrrhaqidkrhe3FCQqYvP-8E-lt-z8r3UPY",
+        "source": "New York Post"
+      }
+    ]
+  },
+  {
+    "title": "greve 13 decembre 2024",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Wed, 11 Dec 2024 22:10:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-LTIiDip6edyZ8JJxtBe2Ag8dCS3gMveKycI7PNFiqz9gdBtbUmAfXbCdITo",
-    "picture_source": "RTBF",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrW8pjxCud9WI_jmstqUr3BfoEDq3_o7UE6ksO6UUYiMp3mFRj14ePYkPD-l8",
+    "picture_source": "BFMTV",
     "news_items": [
       {
-        "title": "Appels et SMS illimités, 15 GB de data pour 5€ : le 4e opérateur télécom Digi lance son offre mobile",
+        "title": "Appel à la grève maintenu à la SNCF: à quoi faut-il s'attendre à partir du \n11 décembre?",
         "snippet": "",
-        "url": "https://www.rtbf.be/article/appels-et-sms-illimites-15-gb-de-data-pour-5-le-4e-operateur-telecom-digi-lance-don-offre-mobile-11476106",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-LTIiDip6edyZ8JJxtBe2Ag8dCS3gMveKycI7PNFiqz9gdBtbUmAfXbCdITo",
-        "source": "RTBF"
+        "url": "https://www.bfmtv.com/economie/entreprises/transports/appel-a-la-greve-maintenu-a-la-sncf-a-quoi-faut-il-s-attendre-a-partir-du-11-decembre_AV-202412040510.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrW8pjxCud9WI_jmstqUr3BfoEDq3_o7UE6ksO6UUYiMp3mFRj14ePYkPD-l8",
+        "source": "BFMTV"
       },
       {
-        "title": "Pourquoi l’arrivée de Digi, opérateur télécom low-cost en Belgique, est une révolution",
+        "title": "Grève SNCF : Intercités, TER, TGV, RER... À quelles perturbations \ns’attendre ce jeudi ?",
         "snippet": "",
-        "url": "https://www.lesoir.be/641593/article/2024-12-10/pourquoi-larrivee-de-digi-operateur-telecom-low-cost-en-belgique-est-une",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfVUQlhhlZVDMsk_utK0j2A6bOYSDHx-MQ8hJKOiAT5l-baoKYf3pa-UTtFw",
-        "source": "Le Soir"
+        "url": "https://www.lefigaro.fr/social/greve-sncf-reconductible-a-partir-du-11-decembre-a-quelles-perturbations-faut-il-s-attendre-20241210",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXQRI-q5YhGNGRLIEHC8stnZUpn0kzHmSVFsPCgv6ZExAsU4L9eoljxRSGtLM",
+        "source": "Le Figaro"
       },
       {
-        "title": "Digi lance son offensive commerciale, l'action Proximus décroche",
+        "title": "Quel impact la grève à la SNCF aura-t-elle sur le réseau jeudi ?",
         "snippet": "",
-        "url": "https://www.lecho.be/les-marches/live-blog/digi-lance-son-offensive-commerciale-l-action-proximus-decroche/10578284.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJTDSBHTLx0UoSgycioqb-lPbX0cAplPHpBWjwGRB4oNtl2V4mmzBMCCGniRY",
-        "source": "L'Echo"
+        "url": "https://www.20minutes.fr/societe/greve/4128455-20241210-greve-sncf-perturbations-prevues-reseau-jeudi",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQxYPjcpLEzEeIQNWvn7ug8KS6dje35wfdcimO-1r76K8hiEbfW0tvL7b6LWo",
+        "source": "20 Minutes"
       }
     ]
   },
   {
-    "title": "afghanistan vs zimbabwe",
+    "title": "joe fm",
     "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 11 Dec 2024 03:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMopSo2LJrHCNpvu8ylEPmydj1EGRwwz1EEPIto_j55Ml2ahJ0QFOdy7iVOZk",
-    "picture_source": "ESPNcricinfo",
+    "pubdate": "Wed, 11 Dec 2024 21:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn_XPPVLZv81WnJ4i_fvbQO4Y0gl_DC0wmyJEbxWtHr5pRh84x295SkRtVrdU",
+    "picture_source": "RadioVisie",
     "news_items": [
       {
-        "title": "Mujeeb returns for Afghanistan as visitors bat first in Harare",
+        "title": "Blad 2310: Kenny Everett, Voice of America, JOE",
         "snippet": "",
-        "url": "https://www.espncricinfo.com/series/afghanistan-in-zimbabwe-2024-25-1457916/zimbabwe-vs-afghanistan-1st-t20i-1457920/match-report",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMopSo2LJrHCNpvu8ylEPmydj1EGRwwz1EEPIto_j55Ml2ahJ0QFOdy7iVOZk",
-        "source": "ESPNcricinfo"
+        "url": "https://radiovisie.eu/blad-2310-kenny-everett-voice-of-america-joe/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn_XPPVLZv81WnJ4i_fvbQO4Y0gl_DC0wmyJEbxWtHr5pRh84x295SkRtVrdU",
+        "source": "RadioVisie"
       },
       {
-        "title": "Zimbabwe vs Afghanistan Live Score: It’s a Four. Zimbabwe at 4/0 after 1.1 overs",
+        "title": "JOE Pakjestruck op Castrohof: “Live radio met Evi Hanssen en bezoek van \nbekende Vlamingen” | Sint-Niklaas",
         "snippet": "",
-        "url": "https://www.hindustantimes.com/cricket/zimbabwe-vs-afghanistan-live-score-1st-t20i-of-afghanistan-tour-of-zimbabwe-2024-25-final-updates-today-11-dec-2024-101733912999919.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEaqH0oC3TK15tfy3IrmQCB0QOr9Jq9x21LZOjGGAyOUf4Etw0GkhQelB4pVo",
-        "source": "Hindustan Times"
-      },
-      {
-        "title": "Harare Sports Club Harare Weather Report For AFG Vs ZIM 1st T20I",
-        "snippet": "",
-        "url": "https://cricket.one/match-hub/harare-sports-club-harare-weather-report-for-afg-vs-zim-1st-t20i/67581f30703dbcd7d84a2c84",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_h0P8iUGCNSAlOueWYLOi6yzPWuCI_jdBkAAadr3r88rbaGjnurny0gSe5xs",
-        "source": "cricket.one"
-      }
-    ]
-  },
-  {
-    "title": "enrico macias",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 11 Dec 2024 03:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyECAxh2F6t03cX4pBNjor_-iBGCvOc-WtwpN1xwl1p3xpT3PgamBJQUCksXU",
-    "picture_source": "L'Est Républicain",
-    "news_items": [
-      {
-        "title": "« La fête continue » avec Enrico Macias à la salle Poirel",
-        "snippet": "",
-        "url": "https://www.estrepublicain.fr/culture-loisirs/2024/12/09/la-fete-continue-avec-enrico-macias-a-la-salle-poirel",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyECAxh2F6t03cX4pBNjor_-iBGCvOc-WtwpN1xwl1p3xpT3PgamBJQUCksXU",
-        "source": "L'Est Républicain"
-      },
-      {
-        "title": "Enrico Macias a pris Vendôme dans ses bras",
-        "snippet": "",
-        "url": "https://www.lanouvellerepublique.fr/vendome/enrico-a-pris-vendome-dans-ses-bras",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMXe4h52j81Y4ECXMj901BXidcHjEtuvis84b3yhX5mbxKNT__PTsH0LhUNZo",
-        "source": "lanouvellerepublique.fr"
-      }
-    ]
-  },
-  {
-    "title": "digi belgie",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 11 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "kmsk deinze",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 11 Dec 2024 03:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4hfCJV7hi1xVuUpYAb3q7qTqluP4KW3rQP4AUvjkw2DpJpE5aVEQcs4g5nw0",
-    "picture_source": "sporza",
-    "news_items": [
-      {
-        "title": "Wat met de behaalde punten? En degradeert er nu een club minder? Dit zijn de gevolgen na de schrapping van Deinze",
-        "snippet": "",
-        "url": "https://sporza.be/nl/2024/12/10/wat-met-de-behaalde-punten-en-degradeert-er-nu-een-club-minder-dit-zijn-de-gevolgen-na-de-schrapping-van-deinze~1733825110525/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4hfCJV7hi1xVuUpYAb3q7qTqluP4KW3rQP4AUvjkw2DpJpE5aVEQcs4g5nw0",
-        "source": "sporza"
-      },
-      {
-        "title": "SK Deinze is failliet verklaard: hoe een bijna 100-jarige club naar de afgrond reed",
-        "snippet": "",
-        "url": "https://www.standaard.be/cnt/dmf20241210_92947610",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp9Nsr6FAqzUTrjFqAMINk96srQbAkFWG4SywMumTJExdBGI5mYeFzEx_ff-4",
-        "source": "De Standaard"
-      },
-      {
-        "title": "“We zijn bedrogen, de overnemers blijken een bende charlatans”: faillissement SK Deinze lijkt nu echt wel nabij",
-        "snippet": "",
-        "url": "https://www.hln.be/voetbal/we-zijn-bedrogen-de-overnemers-blijken-een-bende-charlatans-faillissement-sk-deinze-lijkt-nu-echt-wel-nabij~ab1566f5/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7SwV8fmSV49HHnOXl7tmzrScs8_ZlQpADBvBBqfiA1Se3r5ri2fIZtNbHVlU",
-        "source": "HLN"
-      }
-    ]
-  },
-  {
-    "title": "10 miles antwerpen",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Tue, 10 Dec 2024 23:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuM3-Od3qrTWv1N6-Fqs5a_uCvf5hqVJ91Ob13HgGdmuACEI-LKNyD9ToVPPw",
-    "picture_source": "HLN",
-    "news_items": [
-      {
-        "title": "Inschrijven voor Antwerp 10 Miles kan vanaf vandaag | Antwerpen",
-        "snippet": "",
-        "url": "https://www.hln.be/antwerpen/inschrijven-voor-antwerp-10-miles-kan-vanaf-vandaag~a418a68a/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuM3-Od3qrTWv1N6-Fqs5a_uCvf5hqVJ91Ob13HgGdmuACEI-LKNyD9ToVPPw",
+        "url": "https://www.hln.be/sint-niklaas/joe-pakjestruck-op-castrohof-live-radio-met-evi-hanssen-en-bezoek-van-bekende-vlamingen~a9aec5af/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmDkYSbkUdEWkn9S1iDrxUBdXd76kp3HBbQLftsavDyfKW5cAR-axgPcPFFG8",
         "source": "HLN"
       },
       {
-        "title": "Inschrijven voor de Antwerp 10 Miles kan vanaf woensdag",
+        "title": "KIJK. Pakje van je Hart verwarmt Lochristi met buurman Sven Ornelis",
         "snippet": "",
-        "url": "https://www.nieuwsblad.be/cnt/dmf20241209_96114335",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRNYgynKoIyWAE2RP_4N5y5v6__OPfX0-uq9Mw4Pn08AP3E_pQt4aqapkY6I",
+        "url": "https://www.nieuwsblad.be/cnt/dmf20241209_96108590",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1ZYle6wtEZdTMiG5ukP17N5TdDPfDQGlKhfR2DvfxJJYEC2pm352QVCXV0yI",
+        "source": "Het Nieuwsblad"
+      }
+    ]
+  },
+  {
+    "title": "chris janssens",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Wed, 11 Dec 2024 21:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ9F_xkZNa_i1hfoATZZfnbFBcWhNq7D1fsN_ybFvhXNzanyuhDjkE48oTS0g",
+    "picture_source": "VRT",
+    "news_items": [
+      {
+        "title": "Chris Janssens (Vlaams Belang) zou gezegd hebben dat minister Demir (N-VA) \nbeter naar eigen land was teruggekeerd, Tom Van Grieken verdedigt VB-lid",
+        "snippet": "",
+        "url": "https://www.vrt.be/vrtnws/nl/2024/12/11/vlaams-parlement-zuhal-demir-chris-janssens/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ9F_xkZNa_i1hfoATZZfnbFBcWhNq7D1fsN_ybFvhXNzanyuhDjkE48oTS0g",
+        "source": "VRT"
+      },
+      {
+        "title": "“Van Grieken wil maar wat graag tonen dat zijn partij bestaat uit redelijke \nbestuurders. Blijkbaar is het al te veel gevraagd om ranzige uitspraken \nachterwege te laten”",
+        "snippet": "",
+        "url": "https://www.nieuwsblad.be/cnt/dmf20241211_97390275",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCIhBACA99XL8A7f6hENRM9tFPT7WMdWJQymci8o-nrl8d74UUtDRxP1TepgQ",
         "source": "Het Nieuwsblad"
       },
       {
-        "title": "Inschrijvingen 39ste editie Baloise Antwerp 10 Miles openen woensdag om 11u",
+        "title": "Commotie in Parlement: Janssens (Vlaams Belang) zou gezegd hebben dat \nminister Demir “beter was teruggekeerd naar haar eigen land”",
         "snippet": "",
-        "url": "https://running.be/inschrijvingen-39ste-editie-baloise-antwerp-10-miles-openen-woensdag-om-11u/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0T54SN6guQgHr2eSOePw4cnPjIyk9engUwY2Olclph64z9neDo9oTROac7Pg",
-        "source": "RunningBE"
+        "url": "https://www.standaard.be/cnt/dmf20241211_96172702",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9k4uiZa5mXiQ3SIgDe9L6CgBl7WpXM8_9hfrXaOVEzWLSN7RTEhgANvhRoT8",
+        "source": "De Standaard"
       }
     ]
   },
   {
-    "title": "conclave",
+    "title": "ing",
     "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Tue, 10 Dec 2024 23:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSP3_gHjoS0ZCnbcKOCIsWxX2nJHBuXJzJ4SOuIizdIDQA8L0EJup0sVv5NlI",
-    "picture_source": "The New York Times",
-    "news_items": [
-      {
-        "title": "Golden Globes Snubs and Surprises: Jon M. Chu, Danielle Deadwyler, ‘The Substance’ and More",
-        "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/09/movies/golden-globes-snubs-surprises-2025.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSP3_gHjoS0ZCnbcKOCIsWxX2nJHBuXJzJ4SOuIizdIDQA8L0EJup0sVv5NlI",
-        "source": "The New York Times"
-      },
-      {
-        "title": "2025 Golden Globe nominations: 'Emilia Pérez,' 'The Brutalist' lead in film, 'Wicked' stars nab acting accolades. See the full list.",
-        "snippet": "",
-        "url": "https://www.yahoo.com/entertainment/2025-golden-globe-nominations-emilia-perez-the-brutalist-lead-in-film-wicked-stars-nab-acting-accolades-see-the-full-list-140252894.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdTCzsysSPiNAatxTEP7SZ_G-TY98TeeX6GSJfrtbwB_3kQkWRN8nI6lpkAyk",
-        "source": "Yahoo"
-      },
-      {
-        "title": "NOMINATIONS ANNOUNCED FOR 82nd ANNUAL GOLDEN GLOBES®",
-        "snippet": "",
-        "url": "https://goldenglobes.com/articles/nominations-announced-for-82nd-annual-golden-globes/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIiiM9cKGUf_LCAbGSJRXeFpnxrMouS77URHHAM_iyBx_YrjFbRaun55FTl_8",
-        "source": "Golden Globes"
-      }
-    ]
-  },
-  {
-    "title": "syrie bachar al assad",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Tue, 10 Dec 2024 23:20:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 16:50:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4vn8tezuMq-0fPaGuYDkdTcTcsnmVSaw7K1IkyXdsu_n-1OpUspdA_XhNm7Q",
-    "picture_source": "7sur7.be",
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "panne facebook messenger",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Wed, 11 Dec 2024 16:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWSq3sQXOw8Tr5yxXY3TyQX2PoyhWbGuioDa_EY6uVqxXiMPyzuq8SgyjPOHg",
+    "picture_source": "DHnet",
     "news_items": [
       {
-        "title": "LIVE: Moscou confirme la présence de Bachar al-Assad en Russie - Scholz s’est entretenu avec Erdogan",
+        "title": "Facebook, Instagram, Messenger et WhatsApp en panne dans le monde entier: \nfin des perturbations, que s'est-il passé?",
         "snippet": "",
-        "url": "https://www.7sur7.be/monde/live-moscou-confirme-la-presence-de-bachar-al-assad-en-russie-scholz-sest-entretenu-avec-erdogan~a1ddc284/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4vn8tezuMq-0fPaGuYDkdTcTcsnmVSaw7K1IkyXdsu_n-1OpUspdA_XhNm7Q",
-        "source": "7sur7.be"
+        "url": "https://www.dhnet.be/actu/new-tech/2024/12/11/que-se-passe-t-il-avec-les-reseaux-sociaux-de-meta-facebook-instagram-messenger-et-whatsapp-en-panne-dans-le-monde-entier-I7YQCGZ5WZEB3O2CWCUUEEXKFY/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWSq3sQXOw8Tr5yxXY3TyQX2PoyhWbGuioDa_EY6uVqxXiMPyzuq8SgyjPOHg",
+        "source": "DHnet"
       },
       {
-        "title": "Dans la Syrie post-Assad, quelle place pour les Alaouites ?",
+        "title": "Facebook, Instagram, Messenger, WhatsApp : les réseaux sociaux de Meta ont \nconnu une panne dans le monde entier !",
         "snippet": "",
-        "url": "https://www.courrierinternational.com/article/analyse-dans-la-syrie-post-assad-quelle-place-pour-les-alaouites_225499",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjaZRFTgKp1G5ASkIs4KARusyrfauLScp1cHnXXR3Uv1It_6e9eCRSUAx7aO4",
-        "source": "Courrier international"
+        "url": "https://www.sudinfo.be/id927799/article/2024-12-11/facebook-instagram-messenger-whatsapp-les-reseaux-sociaux-de-meta-ont-connu-une",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8JgK6Ha9e94L5CFh3bGcyNQOioQ9CL5gJm-C2oN1htx1D5L6WCQi1KPVOa_E",
+        "source": "Sudinfo"
       },
       {
-        "title": "\"J'éprouve de la joie devant la chute du régime, mais je redoute le chaos et l'avènement d'une dictature islamiste\"",
+        "title": "Des perturbations sur les réseaux Facebook, Instagram et WhatsApp",
         "snippet": "",
-        "url": "https://www.lalibre.be/international/moyen-orient/2024/12/11/jeprouve-de-la-joie-devant-la-chute-du-regime-mais-je-redoute-le-chaos-et-lavenement-dune-dictature-islamiste-EMVPY6LC6BFTVMX3GJJW7PZIDM/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdh8QlOYVXmuUjudmR_93iuQHjNvMCGPbjOh9vTZPeQH1HK5dGEV3VCXVAw7o",
+        "url": "https://www.lalibre.be/dernieres-depeches/2024/12/11/des-perturbations-sur-les-reseaux-facebook-instagram-et-whatsapp-SA35F7MJHBFSPPQH3E3WECND3E/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzDhj9UCKMXB1SfmuGWS4EfADb1ZVVm9m4ljlFkg3szsBK4O9P0nRaBSJsniU",
         "source": "La Libre.be"
       }
     ]
   },
   {
-    "title": "kimberly guilfoyle",
+    "title": "ai",
     "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Tue, 10 Dec 2024 23:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgbRWzSb_WKNxRZDjvatcjISnNrAmE0txC3E0VqOqz37wLeNwugno48wKjLg",
-    "picture_source": "The New York Times",
+    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe9VjVV7lcpWLj-sWbjyz0iUUXUjNbNbkT6iNR5D32tUcA0WvX0NyCM7ogAf8",
+    "picture_source": "The Guardian",
     "news_items": [
       {
-        "title": "Trump Picks Kimberly Guilfoyle, His Son’s Fiancée, as Ambassador to Greece",
+        "title": "Kate Bush joins campaign against AI using artists’ work without permission",
         "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/10/style/kimberly-guilfoyle-trump-greece-ambassador.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgbRWzSb_WKNxRZDjvatcjISnNrAmE0txC3E0VqOqz37wLeNwugno48wKjLg",
-        "source": "The New York Times"
+        "url": "https://www.theguardian.com/technology/2024/dec/12/kate-bush-joins-campaign-against-ai-using-artists-work-without-permission",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe9VjVV7lcpWLj-sWbjyz0iUUXUjNbNbkT6iNR5D32tUcA0WvX0NyCM7ogAf8",
+        "source": "The Guardian"
       },
       {
-        "title": "Donald Trump picks former Fox News host Kimberly Guilfoyle as ambassador to Greece",
+        "title": "Is AI creator or tool? Former Bombay HC judge Gautam Patel unpacks emerging \nlegal questions in Copyright Law",
         "snippet": "",
-        "url": "https://www.usatoday.com/story/news/politics/elections/2024/12/10/kimberly-guilfoyle-donald-trump-ambassador-greece/76900698007/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIzwpigYwuQINLYhogICgi7EPA_N7qhnzV68Ysz_Xc_qrpH_e7mp9T_2NvHQ",
-        "source": "USA Today"
+        "url": "https://indianexpress.com/article/india/is-ai-creator-or-tool-former-bombay-hc-judge-gautam-patel-unpacks-emerging-legal-questions-in-copyright-law-9719633/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSENb22pDTftMFDjX_JQTNnczTvMKHCjuKpUyEth_rPhYy7fFBEoh8m8XqSfHA",
+        "source": "The Indian Express"
       },
       {
-        "title": "Trump to nominate Kimberly Guilfoyle for ambassador to Greece; Tilman Fertitta is likely pick for ambassador to Italy",
+        "title": "Lawyers navigate novel AI legal battles",
         "snippet": "",
-        "url": "https://www.cbsnews.com/news/trump-kimberly-guilfoyle-greece-ambassador/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5Xu28qOMcW1oiMfCYs_RJg360e9TIYo7I4I_1sStIkNmI3QKjvN-vygmzy6w",
-        "source": "CBS News"
+        "url": "https://www.ft.com/content/8e02f5e7-a57c-4e99-96de-56c470352eff",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKwJiqq8AeDaZHafonVLB2sm9aYbfAGpQD4wKFJIr9pD62AGEJE3_fddlDgMo",
+        "source": "Financial Times"
+      }
+    ]
+  },
+  {
+    "title": "chatgpt",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP30UTqUv55MAcSvGOpGanZ3s5CjUSNWsYwNJpywM0rB2c1baFNm3Zwq90Ip4",
+    "picture_source": "TechCrunch",
+    "news_items": [
+      {
+        "title": "ChatGPT and Sora experienced a major outage",
+        "snippet": "",
+        "url": "https://techcrunch.com/2024/12/11/chatgpt-and-sora-are-down/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP30UTqUv55MAcSvGOpGanZ3s5CjUSNWsYwNJpywM0rB2c1baFNm3Zwq90Ip4",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT Down: 6 Alternatives to Consider Instead of Popular AI Chatbot",
+        "snippet": "",
+        "url": "https://www.republicworld.com/world-news/chatgpt-down-6-alternatives-to-consider-instead-of-popular-ai-chatbot-claude-ai-perplexity-ai-gemini-microsoft-co-pilot",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhgiFdo54k0FkvQM0yA-fKFZK7gZWEMjl8XOWfvs7t9UyUbdy3dobzIpIDko",
+        "source": "Republic World"
+      },
+      {
+        "title": "OpenAI hit by outage after ‘technical issue’ impacts Meta social media apps",
+        "snippet": "",
+        "url": "https://www.independent.co.uk/tech/openai-meta-chatgpt-instagram-facebook-b2663023.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKH_WsL0LT0n24VLAvFWjAX7irCDMtlswMuwNT-9YYlsChPd91izqPPqPr0-I",
+        "source": "The Independent"
+      }
+    ]
+  },
+  {
+    "title": "gemini",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
+    "picture_source": "Google Blog",
+    "news_items": [
+      {
+        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
+        "snippet": "",
+        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
+        "source": "Google Blog"
+      },
+      {
+        "title": "A former Google designer reveals what goes into building its AI models like \nGemini",
+        "snippet": "",
+        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
+        "source": "Business Insider"
+      },
+      {
+        "title": "Alphabet Stock Hits a Record High on New AI Models",
+        "snippet": "",
+        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
+        "source": "Barron's"
       }
     ]
   }

@@ -1,304 +1,311 @@
 [
   {
-    "title": "dia del tango",
+    "title": "la mañana de neuquen",
     "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG1pr_WSc5CObGWxXAOPtbslZJeL6vXtBXv6x0IPeVWR6vzG_8ERjqEYKrfeg",
-    "picture_source": "Página12",
+    "pubdate": "Thu, 12 Dec 2024 03:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRi5h9Ip9439E7OdGmanCwgr_EffZrZQj_75LNU4nqHgZ2RB9tEszJE0b9w-iM",
+    "picture_source": "Lmneuquen.com",
     "news_items": [
       {
-        "title": "Día del Nacional del Tango, un ritual pagano para cerrar la temporada | El miércoles 11",
+        "title": "Viento y tormenta en Neuquén: ¿a cuánto llegarán las ráfagas?",
         "snippet": "",
-        "url": "https://www.pagina12.com.ar/789293-dia-del-nacional-del-tango-un-ritual-pagano-para-cerrar-la-t",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG1pr_WSc5CObGWxXAOPtbslZJeL6vXtBXv6x0IPeVWR6vzG_8ERjqEYKrfeg",
+        "url": "https://www.lmneuquen.com/neuquen/viento-y-tormenta-neuquen-a-cuanto-llegaran-las-rafagas-n1161274",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRi5h9Ip9439E7OdGmanCwgr_EffZrZQj_75LNU4nqHgZ2RB9tEszJE0b9w-iM",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Viento, calor y ¿lluvia?, el combo del clima que impactará este jueves en \nNeuquén y el Alto Valle",
+        "snippet": "",
+        "url": "https://www.rionegro.com.ar/sociedad/viento-calor-y-lluvia-el-combo-del-clima-que-impactara-este-jueves-en-neuquen-y-el-alto-valle-3923997/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzctZS30d3VNlKPdqqPBS2TX3UtlCD12UI3orDCbdnAq8-8DSugreKNaVSnR0",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Sigue la inestabilidad en Neuquén, con viento y tormentas",
+        "snippet": "",
+        "url": "https://www.adnsur.com.ar/sociedad/sigue-la-inestabilidad-en-neuquen--con-viento-y-tormentas_a675abc5782c341a0d8707ac8",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy7-Y3nfrdDroHG5QfVJEicVqpSm6WOQaNUW77rpjvqXv4aFeAjyOh_rnhOBY",
+        "source": "ADNSUR"
+      }
+    ]
+  },
+  {
+    "title": "peter lamelas",
+    "link": "https://trends.google.com/trending/rss?geo=AR",
+    "pubdate": "Thu, 12 Dec 2024 03:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhSm9oP7gHktxh-XUFhqWQtoXR-Go6Pq2pPtOoflGpzWw-bf7xUi5gS2CM5PI",
+    "picture_source": "Infobae",
+    "news_items": [
+      {
+        "title": "Trump designó a Peter Lamelas como embajador de Estados Unidos en la \nArgentina",
+        "snippet": "",
+        "url": "https://www.infobae.com/politica/2024/12/12/trump-designo-a-peter-lamelas-como-embajador-de-estados-unidos-en-la-argentina/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhSm9oP7gHktxh-XUFhqWQtoXR-Go6Pq2pPtOoflGpzWw-bf7xUi5gS2CM5PI",
+        "source": "Infobae"
+      },
+      {
+        "title": "La agenda de Javier Milei, con el futuro de Kueider en primer plano",
+        "snippet": "",
+        "url": "https://www.pagina12.com.ar/789477-la-agenda-de-javier-milei-despues-de-su-cadena-nacional",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoGr-bOwQY2RhORu8AFk_gwdMru1TmuSNS42BxaGOwSJx_0czBj6Ir3drYs-c",
         "source": "Página12"
       },
       {
-        "title": "Este miércoles Pergamino celebra el Día Nacional del Tango en la Peatonal",
+        "title": "Donald Trump designó a un médico y empresario de origen cubano como \nembajador de Estados Unidos en Argentina",
         "snippet": "",
-        "url": "https://laopinionpergamino.com.ar/nota/20841/2024/12/este-miercoles-pergamino-celebra-el-dia-nacional-del-tango-en-la-peatonal",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRA3H6r6f_9I7uinoDm6Sak5yJPf3urqL6vXvM3m4HKheZ9xxs5p3HUAWGZwg0",
-        "source": "Diario La Opinion de Pergamino"
+        "url": "https://www.clarin.com/mundo/donald-trump-designo-medico-empresario-origen-cubano-embajador-estados-unidos-argentina_0_ZRKbK7DiAP.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX9Nh3_x_neKTOP84kBv7axVn9yu5a2-beUOwBDDjoCl9XrJAHLXNMg1i9Tj8",
+        "source": "Clarin.com"
+      }
+    ]
+  },
+  {
+    "title": "nominados gh",
+    "link": "https://trends.google.com/trending/rss?geo=AR",
+    "pubdate": "Thu, 12 Dec 2024 02:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRvRuXoA3D_ljWgcbuu2VcDWWlSfhqhq4DsMbpzjO2qOuqtjdI_cNX3m-1fi8",
+    "picture_source": "Infobae",
+    "news_items": [
+      {
+        "title": "Polémica gala de nominación en Gran Hermano: ocho votos anulados y una \nespontánea desperdiciada",
+        "snippet": "",
+        "url": "https://www.infobae.com/teleshow/2024/12/12/polemica-gala-de-nominacion-en-gran-hermano-ocho-votos-anulados-y-una-espontanea-desperdiciada/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRvRuXoA3D_ljWgcbuu2VcDWWlSfhqhq4DsMbpzjO2qOuqtjdI_cNX3m-1fi8",
+        "source": "Infobae"
       },
       {
-        "title": "Día del Tango en la Argentina: por qué se celebra hoy y 10 canciones destacadas para festejar",
+        "title": "Con votos anulados, así quedó la segunda placa de nominados en Gran Hermano \n2024",
         "snippet": "",
-        "url": "https://www.lanacion.com.ar/sociedad/dia-del-tango-en-la-argentina-por-que-se-celebra-hoy-y-10-canciones-destacadas-para-festejar-nid11122024/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGbjzcaa6xfXPu4gqS1pOC249vkG9rleQLLNybqZxY0Aq2hBmfRhmwqvYLaAc",
+        "url": "https://www.a24.com/primiciasya/con-votos-anulados-asi-quedo-la-segunda-placa-nominados-gran-hermano-2024-n1382797",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsxZYitWGPnJpWFOGcHB5reNIy85yR10iSue9nSFPsGDKZEOgtZcLf4cgYPWs",
+        "source": "A24.com"
+      },
+      {
+        "title": "El rating de la segunda gala de nominación de Gran Hermano",
+        "snippet": "",
+        "url": "https://www.lanacion.com.ar/espectaculos/el-rating-de-la-segunda-gala-de-nominacion-de-gran-hermano-nid11122024/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQklFMd-KvCEE_T_9tTVIw-8rUnzoGLdajBc5tkuNcxpBQYHbelj7x4Pnb21kc",
         "source": "La Nación"
       }
     ]
   },
   {
-    "title": "el dólar blue hoy",
+    "title": "dexter",
     "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ59GpdVWvrqOzlVsf3mEzx26DZ2EW9OmXsv9KbVllQfcWmZajO3ETCpkKxi-U",
-    "picture_source": "Página12",
+    "pubdate": "Thu, 12 Dec 2024 02:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4Iqj_NintTK9vgjPMpzkkKEk1y5b-ZXQsroiBHtL80nTSPukdzrL1UTVQnNY",
+    "picture_source": "CBS News",
     "news_items": [
       {
-        "title": "Dólar blue, dólar hoy: a cuánto cotizan el miércoles 11 de diciembre",
+        "title": "Christian Slater, Patrick Gibson talk \"Dexter\" prequel and playing a serial \nkiller",
         "snippet": "",
-        "url": "https://www.pagina12.com.ar/789483-dolar-blue-dolar-hoy-a-cuanto-cotizan-el-miercoles-11-de-dic",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ59GpdVWvrqOzlVsf3mEzx26DZ2EW9OmXsv9KbVllQfcWmZajO3ETCpkKxi-U",
-        "source": "Página12"
+        "url": "https://www.cbsnews.com/news/christian-slater-patrick-gibson-dexter-original-sin-prequel/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4Iqj_NintTK9vgjPMpzkkKEk1y5b-ZXQsroiBHtL80nTSPukdzrL1UTVQnNY",
+        "source": "CBS News"
       },
       {
-        "title": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio \neste miércoles 11 de diciembre",
+        "title": "‘Dexter: Origin Sin’ Sneak Peak From Paramount+",
         "snippet": "",
-        "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-miercoles-11-diciembre_0_07xJpIp7gX.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQva0OIl3_XFhDWtG4mZ88ptYB1O0t7bs0q4x2qmEF-WL8Scq-9SUHRlFozOSo",
+        "url": "https://www.forbes.com/sites/marcberman1/2024/12/07/dexter-origin-sin-sneak-peak-from-paramount/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-K5G1Qzj_QiLaUp6UCcjL-JP14OaaP-lSSINwDrjpf8HzDB_gevFuRKgR-rA",
+        "source": "Forbes"
+      },
+      {
+        "title": "Michael C. Hall's Reaction To Dexter Prequel Series Revealed",
+        "snippet": "",
+        "url": "https://screenrant.com/dexter-original-sin-show-prequel-michael-c-hall-response-review/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUEo_zWP4plRdbfPKvJROojY6uXG_2i4iOgGp8Ssif9YiQCbw8Q3FmvL1RDFw",
+        "source": "Screen Rant"
+      }
+    ]
+  },
+  {
+    "title": "dia de la virgen de guadalupe",
+    "link": "https://trends.google.com/trending/rss?geo=AR",
+    "pubdate": "Thu, 12 Dec 2024 02:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfb3ZGaiikbwbWfGfVULg_KW1nM5gFXAtdZ4OreS9O50i7iPR3odjtJxGJwkI",
+    "picture_source": "Clarin.com",
+    "news_items": [
+      {
+        "title": "Día de la Virgen de Guadalupe: cuál es su historia y por qué se celebra el \n12 de diciembre",
+        "snippet": "",
+        "url": "https://www.clarin.com/internacional/dia-virgen-guadalupe-historia-celebra-12-diciembre_0_ZJVAT5mHyG.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfb3ZGaiikbwbWfGfVULg_KW1nM5gFXAtdZ4OreS9O50i7iPR3odjtJxGJwkI",
         "source": "Clarin.com"
       },
       {
-        "title": "Dólar hoy en vivo: a cuánto abre este miércoles 11 de diciembre y cuál es \nel precio minuto a minuto",
+        "title": "Día de la Virgen de Guadalupe: el atentado y el hundimiento de la Basílica \nque no dañaron la imagen sagrada",
         "snippet": "",
-        "url": "https://www.infobae.com/economia/2024/12/11/dolar-hoy-en-vivo-a-cuanto-abre-este-miercoles-11-de-diciembre-y-cual-es-el-precio-minuto-a-minuto/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqR8h4TV1OkEiLmVqvelfJXNUgxEFDz4pCPxyodNqSGAYgTnTXV1Lrhw6uSCo",
+        "url": "https://www.lanacion.com.ar/estados-unidos/dia-de-la-virgen-de-guadalupe-el-atentado-y-el-hundimiento-de-la-basilica-que-no-danaron-la-imagen-nid12122024/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQMUH3FTCG7mNUtHAkuejRTP_ZIDvA-4yNe4LYAVlG37LLYRHgxniPkdKFw4",
+        "source": "La Nación"
+      },
+      {
+        "title": "Virgen de Guadalupe: qué dice la oración que el Vaticano dedicó a la santa \npatrona de México",
+        "snippet": "",
+        "url": "https://www.infobae.com/mexico/2024/12/11/virgen-de-guadalupe-que-dice-la-oracion-que-el-vaticano-dedico-a-la-santa-patrona-de-mexico/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf81KlZEagYdShViIrPi_ZN2B2alnXb9j6-e0dkcvLipaHvkONsxm6eDt3vfI",
         "source": "Infobae"
       }
     ]
   },
   {
-    "title": "cajero automático",
+    "title": "lanacion",
     "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPpSivnhccoq-29VboqK7KeTW6AD_bjdbf445Djy3Wx0fKGDxpIa2LR-AIYsE",
+    "pubdate": "Thu, 12 Dec 2024 02:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-vK5lzLS8TjbvVhrX9kVz-g2SQsPI1gvUMyW2IkHrdE1ywShyB2-sR-J4uXU",
     "picture_source": "Infobae",
     "news_items": [
       {
-        "title": "Por qué nunca hay que imprimir el ticket del cajero automático al sacar \nplata",
+        "title": "Brutal crimen en Recoleta: mataron a un hombre de tres tiros por la espalda",
         "snippet": "",
-        "url": "https://www.infobae.com/economia/2024/12/11/por-que-nunca-hay-que-imprimir-el-ticket-del-cajero-automatico-al-sacar-plata/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPpSivnhccoq-29VboqK7KeTW6AD_bjdbf445Djy3Wx0fKGDxpIa2LR-AIYsE",
+        "url": "https://www.infobae.com/sociedad/policiales/2024/12/12/brutal-crimen-en-recoleta-mataron-a-un-hombre-de-tres-tiros-por-la-espalda/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-vK5lzLS8TjbvVhrX9kVz-g2SQsPI1gvUMyW2IkHrdE1ywShyB2-sR-J4uXU",
         "source": "Infobae"
       },
       {
-        "title": "¿Por qué no debes imprimir el recibo que da el cajero al retirar dinero?",
+        "title": "Crimen en Recoleta: mataron a un hombre de tres tiros por la espalda en un \nkiosco",
         "snippet": "",
-        "url": "https://www.msn.com/es-mx/video/watch/%C2%BFpor-qu%C3%A9-no-debes-imprimir-el-recibo-que-da-el-cajero-al-retirar-dinero/vi-AA1vzhzC?ocid=hpmsn",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAnU2rkq77nXflQUKEDyyG_m8ROJR-7f57-c5XXsTIFG89Ro0Pm77K6glrxk",
-        "source": "MSN"
+        "url": "https://www.lanacion.com.ar/seguridad/crimen-en-recoleta-mataron-a-un-hombre-de-tres-tiros-por-la-espalda-en-un-kiosco-nid12122024/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I-PmhShqEKu1hH-3fb9wHS8uclkQqTJVR4G7imZekJW2z_breewS66t3pK4",
+        "source": "La Nación"
       },
       {
-        "title": "Recomiendan no imprimir el ticket que da el cajero automático al sacar \nplata: ¿por qué?",
+        "title": "Brutal crimen en Recoleta: matan por la espalda a un hombre en la puerta de \nun kiosco",
         "snippet": "",
-        "url": "https://www.iproup.com/finanzas/51969-recomiendan-no-imprimir-el-ticket-que-da-el-cajero-automatico-al-sacar-plata-por-que",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmDSUhRuebtQQtXi8-TtzNJXc0weQqHdr54Xnj8U6cILnEALr2l6lN1jgRRg",
-        "source": "iProUP"
+        "url": "https://www.clarin.com/policiales/brutal-crimen-recoleta-matan-espalda-hombre-puerta-kiosco_0_55DyaiL1xh.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNSAfebTEjHumcESBEcK-LkeB8oX_bn-cATlLH6ESE_v9EXUG5X97cBNGelAg",
+        "source": "Clarin.com"
       }
     ]
   },
   {
-    "title": "feriado 30 de diciembre 2024",
+    "title": "benny blanco",
     "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 05:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaROMAtvPmDQSw5sbRsI6tJA7XYoQtLSp8DeEubqFIN3Z2ggDCZk0TXTvW70c",
-    "picture_source": "El Cronista",
-    "news_items": [
-      {
-        "title": "ES OFICIAL: SERÁ FERIADO el 30 de DICIEMBRE y habrá un ÚLTIMO fin de semana \nlargo antes del 2025",
-        "snippet": "",
-        "url": "https://www.cronista.com/informacion-gral/es-oficial-sera-feriado-el-30-de-diciembre-y-habra-un-ultimo-fin-de-semana-largo-antes-del-2025/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaROMAtvPmDQSw5sbRsI6tJA7XYoQtLSp8DeEubqFIN3Z2ggDCZk0TXTvW70c",
-        "source": "El Cronista"
-      },
-      {
-        "title": "El 30 de diciembre será no laborable en un municipio bonaerense",
-        "snippet": "",
-        "url": "https://www.baenegocios.com/sociedad/El-30-de-diciembre-sera-no-laborable-en-un-municipio-bonaerense-20241210-0047.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREz6a0i0bwVJn56Nf0QEGQe-HR6QElo86F18Br1MvjtUaND7cCD53ZvrwdrME",
-        "source": "BAE Negocios"
-      },
-      {
-        "title": "Feriados: este fin de semana será XXL gracias a un día no laborable \ninesperado",
-        "snippet": "",
-        "url": "https://www.minutouno.com/sociedad/feriados-este-fin-semana-sera-xxl-gracias-un-dia-no-laborable-inesperado-n6091262",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7kOktGUJxc2qb_M8gC4qXFe73meHwiFKZYv6EIP6BzzcGCrPa4cFshRNV5E",
-        "source": "MinutoUno"
-      }
-    ]
-  },
-  {
-    "title": "all access",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuuwP7neY30zuZKlUvJ1vwhQCZT5icpPNfXgnKc9rVOHIX-RWrETvQbvhkzgo",
+    "pubdate": "Thu, 12 Dec 2024 01:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
     "picture_source": "People.com",
     "news_items": [
       {
-        "title": "Taylor Swift's Longtime Bass Player Writes Emotional Note About Grueling \nEras Tour: 'I've Emerged Changed'",
+        "title": "Selena Gomez and Benny Blanco Are Engaged: 'Forever Begins Now'",
         "snippet": "",
-        "url": "https://people.com/taylor-swift-longtime-bass-player-emerged-changed-from-eras-tour-8759379",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuuwP7neY30zuZKlUvJ1vwhQCZT5icpPNfXgnKc9rVOHIX-RWrETvQbvhkzgo",
+        "url": "https://people.com/selena-gomez-benny-blanco-are-engaged-married-8661420",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
         "source": "People.com"
       },
       {
-        "title": "Here’s How Much Taylor Swift Gave in Bonuses to Eras Tour Team — Report",
+        "title": "Selena Gomez announces engagement to record producer Benny Blanco",
         "snippet": "",
-        "url": "https://www.yahoo.com/entertainment/much-taylor-swift-gave-bonuses-114200404.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKeOc4qkMYuOioTgKmgt6ZVpBlQg9fIjGJliKLLD5WfW1ObCeZP0VZ79W5j20",
-        "source": "Yahoo"
+        "url": "https://www.foxnews.com/entertainment/selena-gomez-announces-engagement-record-producer-benny-blanco",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedrjVKRELNCEDimTOLRZWjMpqkga79wfrQJU_UaQ1ZuxTht-KNUpOX09U2OY",
+        "source": "Fox News"
       },
       {
-        "title": "Taylor Swift’s Eras Tour Grand Total: A Record $2 Billion",
+        "title": "Selena Gomez engaged to boyfriend Benny Blanco after a year of dating — and \nTaylor Swift agrees to role at wedding",
         "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/09/arts/music/taylor-swift-eras-tour-ticket-sales.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQxKxzuUeXo2T-yrHSYe-Aw070vvQ21YDSqksTn_pynNb0VxEmLw71Dj4F4nI",
-        "source": "The New York Times"
+        "url": "https://nypost.com/2024/12/12/entertainment/selena-gomez-engaged-to-boyfriend-benny-blanco-as-taylor-swift-agrees-to-be-flower-girl/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyslhkg6FynQPUM2z_bp1i_JOmrgrrhaqidkrhe3FCQqYvP-8E-lt-z8r3UPY",
+        "source": "New York Post"
       }
     ]
   },
   {
-    "title": "okinawa",
+    "title": "bplay",
     "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_NOjQ3y_2JX0UBJxJhZYD40LfxGliQrnSI-7QW7rV_n6XjpY9Peee53Ole5M",
-    "picture_source": "Stars and Stripes",
-    "news_items": [
-      {
-        "title": "Air Force families living with potential mold on Okinawa learn new housing \noptions",
-        "snippet": "",
-        "url": "https://www.stripes.com/branches/air_force/2024-12-11/air-force-housing-mold-okinawa-16129488.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_NOjQ3y_2JX0UBJxJhZYD40LfxGliQrnSI-7QW7rV_n6XjpY9Peee53Ole5M",
-        "source": "Stars and Stripes"
-      },
-      {
-        "title": "Families at Okinawa air base face February deadline to vacate faulty \nhousing units",
-        "snippet": "",
-        "url": "https://www.stripes.com/branches/air_force/2024-12-09/mold-air-force-housing-okinawa-16107048.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXL3EG1Ew7PUAOcbbD6ST4AedECL0FXAv3ibYkMMFLFpoA5-4AJUUUXy1YeHg",
-        "source": "Stars and Stripes"
-      }
-    ]
-  },
-  {
-    "title": "cien años de soledad",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 04:30:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 23:20:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt8GotZMH9XMnUgQe8OYDTw6zHpnHvofwTPR6aQ5EBB9e_UCVnFL-jzmShOL8",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNC2SzWjmJc2S9J1_wGJXtNYndlMbKnrOCr-6HaAPDSVkAdKi9fx8-5xETETs",
     "picture_source": "Infobae",
     "news_items": [
       {
-        "title": "“Cien años de soledad”: La magia de Macondo ya llegó a Netflix",
+        "title": "Investigan a un árbitro por ganar millones apostando a un partido \nsospechado: los detalles del caso",
         "snippet": "",
-        "url": "https://www.infobae.com/que-puedo-ver/2024/12/11/cien-anos-de-soledad-la-magia-de-macondo-ya-llego-a-netflix/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt8GotZMH9XMnUgQe8OYDTw6zHpnHvofwTPR6aQ5EBB9e_UCVnFL-jzmShOL8",
+        "url": "https://www.infobae.com/deportes/2024/12/10/investigan-a-un-arbitro-por-ganar-millones-apostando-a-un-partido-sospechado-los-detalles-del-caso/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNC2SzWjmJc2S9J1_wGJXtNYndlMbKnrOCr-6HaAPDSVkAdKi9fx8-5xETETs",
         "source": "Infobae"
       },
       {
-        "title": "Por qué no hay que perderse \"Cien años de soledad\", la serie de Netflix que \nadapta a rajatabla la novela de García Márquez",
+        "title": "La Justicia investiga a un árbitro por apuestas en un partido de la Primera \nNacional: la AFA decidió echarlo",
         "snippet": "",
-        "url": "https://www.clarin.com/espectaculos/perderse-cien-anos-soledad-serie-netflix-adapta-rajatabla-novela-garcia-marquez_0_elKEjsBlGS.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdjVQoEmEkvlM49tpT0e40dWgRrWRAJme8FfvSgq8UUm3PQwPhqTqZzcEFjzA",
-        "source": "Clarin.com"
+        "url": "https://tn.com.ar/deportes/futbol/2024/12/11/la-justicia-investiga-a-un-arbitro-por-apuestas-en-un-partido-de-la-primera-nacional-la-afa-decidio-echarlo/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoPuYmKmX76C0QDAkHBZR-UoelNi2KkYuzyaFUosL7GHPZSscMwwmM1SFkTI",
+        "source": "TN"
       },
       {
-        "title": "Netflix estrena adaptación de \"Cien años de soledad\"",
+        "title": "La AFA echó a un árbitro que era investigado por apuestas deportivas",
         "snippet": "",
-        "url": "https://www.pagina12.com.ar/789291-netflix-estrena-adaptacion-de-cien-anos-de-soledad",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFWYhaXwbAhDMDpqDrLrsnZ-KQQ7mYbCjGNdAgTZ60wXPOebwBbsLL2oO3wH4",
-        "source": "Página12"
+        "url": "https://www.diariohuarpe.com/nota/la-afa-echo-a-un-arbitro-que-era-investigado-por-apuestas-deportivas-2024121017550",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPMttpxYzzSJYNP4aYNdvajfiuWW6e8fU3h_ngwT5tAQ6UHGCYjAWHkqDTcNM",
+        "source": "Diario Huarpe"
       }
     ]
   },
   {
-    "title": "ipc noviembre 2024",
+    "title": "character ai",
     "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 04:20:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 22:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmjthf61HHHYH54nyJmCRwJSuAStuN6b0HQ8gWHAP647OmKhiwn2AJWuec_EU",
-    "picture_source": "Ámbito Financiero",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7yt-C4-B4TR3gHNS_UwTHPFjfdl1KaeZuf1nShkuz5qKh66OnSyqLfF87IjM",
+    "picture_source": "NPR",
     "news_items": [
       {
-        "title": "Dólar: más de 40 consultoras pronosticaron el precio para 2025",
+        "title": "Lawsuit: A chatbot hinted a kid should kill his parents over screen time \nlimits",
         "snippet": "",
-        "url": "https://www.ambito.com/finanzas/dolar-mas-40-consultoras-pronosticaron-el-precio-2025-n6091755",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmjthf61HHHYH54nyJmCRwJSuAStuN6b0HQ8gWHAP647OmKhiwn2AJWuec_EU",
-        "source": "Ámbito Financiero"
+        "url": "https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7yt-C4-B4TR3gHNS_UwTHPFjfdl1KaeZuf1nShkuz5qKh66OnSyqLfF87IjM",
+        "source": "NPR"
       },
       {
-        "title": "Se conoce la inflación de noviembre: por qué es clave para la salida del \ncepo",
+        "title": "An AI companion suggested he kill his parents. Now his mom is suing.",
         "snippet": "",
-        "url": "https://www.cadena3.com/noticia/politica-y-economia/se-conoce-la-inflacion-de-noviembre-por-que-es-clave-para-la-salida-del-cepo_402565",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiyK_DFZVBmudICX3HQKbikD6MJo2C6siLCuJ21obee_4FOzmNCcdrXAmpCWs",
-        "source": "Cadena 3 Argentina"
+        "url": "https://www.washingtonpost.com/technology/2024/12/10/character-ai-lawsuit-teen-kill-parents-texas/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6Rtih5wb35kGB86s9LVDFf3pyF07LmPtaVvGs5JIt3yhqzsx8pTWe6ZxTffY",
+        "source": "The Washington Post"
       },
       {
-        "title": "El INDEC publica la inflación de noviembre: por qué necesita el gobierno \nque sea menos de 3%",
+        "title": "Chatbot 'encouraged teen to kill parents over screen time limit'",
         "snippet": "",
-        "url": "https://www.perfil.com/noticias/economia/el-indec-publica-la-inflacion-de-noviembre-por-que-necesita-el-gobierno-que-sea-menos-de-3.phtml",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwneMcBnt4W_MMLtOwS53VwF_nCPwuTSVN_A1r6sKtr5GrVCAr8drVpjMYB28",
-        "source": "Perfil"
+        "url": "https://www.bbc.com/news/articles/cd605e48q1vo",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5gJ9GQ7p8v0wXs5JFy7IWDKJoLzW_YfMjMRCGirrlQNWG0RIXr2Vl-48lYWk",
+        "source": "BBC"
       }
     ]
   },
   {
-    "title": "pago aguinaldo jubilados",
+    "title": "tiktok",
     "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 04:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQC7HvyTWiRXaRiB6yvinKrv5wATCErmpTxhTtvdmvppBkyYX4DnwlrwiWaKOQ",
-    "picture_source": "La Nación",
+    "pubdate": "Wed, 11 Dec 2024 22:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqTtrV71WVlHDXqRVZc0cRB03pZb234fu3P-mjhwSUeZYHcMb9jsEonbhQ_A",
+    "picture_source": "Fox Business",
     "news_items": [
       {
-        "title": "Jubilaciones de Anses: quiénes cobran este miércoles 11 de diciembre",
+        "title": "DOJ asks court to reject TikTok's emergency bid aimed at delaying law that \nwould ban app",
         "snippet": "",
-        "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-quienes-cobran-este-miercoles-11-de-diciembre-nid11122024/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQC7HvyTWiRXaRiB6yvinKrv5wATCErmpTxhTtvdmvppBkyYX4DnwlrwiWaKOQ",
-        "source": "La Nación"
+        "url": "https://www.foxbusiness.com/lifestyle/doj-asks-court-reject-tiktoks-emergency-bid-aimed-delaying-law-would-ban-app",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqTtrV71WVlHDXqRVZc0cRB03pZb234fu3P-mjhwSUeZYHcMb9jsEonbhQ_A",
+        "source": "Fox Business"
       },
       {
-        "title": "Jubilación y aguinaldo: ¿Cuánto cobrarán en diciembre?",
+        "title": "TikTok’s future in jeopardy as US ban looms",
         "snippet": "",
-        "url": "https://www.elnueve.com.ar/todas-las-tardes/31897-jubilacion-y-aguinaldo-cuanto-cobraran-en-diciembre",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthPCRyDIIax8ZjiaLkB0yDxf_cB398BGUzlAgpBo4fJIIna-X2LUGaC6N8lE",
-        "source": "El Nueve"
+        "url": "https://thehill.com/policy/technology/5033399-tiktoks-future-in-jeopardy-as-us-ban-looms/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk_uEvk6u7t7cn2x1uZTWgSgExLjxP9Q210IeW4WfcR1RhqnfS4jK9lyh2pPY",
+        "source": "The Hill"
       },
       {
-        "title": "ANSES: cómo queda el calendario de pagos de diciembre 2024 por las fiestas",
+        "title": "TikTok asks court to let Trump administration review the law that would ban \nthe app",
         "snippet": "",
-        "url": "https://www.ambito.com/informacion-general/anses-como-queda-el-calendario-pagos-diciembre-2024-las-fiestas-n6091422",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh52qALN_5dBLssCTdJ8W-NpQ0G4JrBIiV15oKWpUBADC_TmjlNKxpTCw9lj4",
-        "source": "Ámbito Financiero"
-      }
-    ]
-  },
-  {
-    "title": "contribuyentes no confiables arca",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Wed, 11 Dec 2024 04:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj2Pa7ntSXu-rNTpm29R62bDIn83gPjYYX24YpTkIhIaiwqGsTKp3GWfRUQqs",
-    "picture_source": "La Nación",
-    "news_items": [
-      {
-        "title": "“Contribuyentes no confiables” no podrán cobrar con transferencias o \ntarjetas de débito y crédito",
-        "snippet": "",
-        "url": "https://www.lanacion.com.ar/economia/contribuyentes-no-confiables-no-podran-cobrar-con-transferencias-o-tarjetas-de-debito-y-credito-nid10122024/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj2Pa7ntSXu-rNTpm29R62bDIn83gPjYYX24YpTkIhIaiwqGsTKp3GWfRUQqs",
-        "source": "La Nación"
-      },
-      {
-        "title": "Con CUIT inhabilitado no podrán cobrar",
-        "snippet": "",
-        "url": "https://www.pagina12.com.ar/789354-con-cuit-inhabilitado-no-podran-cobrar",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXjD0uzXDpyRoSWr5V4lCOJ1BFJ1lphhDY7Bwxm1lhO8mcB7w5Vp0Bbxx0tME",
-        "source": "Página12"
-      },
-      {
-        "title": "Contribuyentes no confiables: quiénes tendrán más restricciones con las \ntarjetas de crédito",
-        "snippet": "",
-        "url": "https://www.perfil.com/noticias/economia/contribuyentes-no-confiables-quienes-tendran-mas-restricciones-con-las-tarjetas-de-credito.phtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0wj4za2YCUTjSjPj1P7nBuft9l50Q_00dCVOHoOO17-hT8z4__yVTab5aODU",
-        "source": "Perfil"
+        "url": "https://www.msnbc.com/the-reidout/reidout-blog/tiktok-ban-trump-supreme-court-rcna183652",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgdjA-Idm71_FxWkvJh4745obX5O3qDU044ICXxsrdb-tK42ueORlNEb8bzw",
+        "source": "MSNBC News"
       }
     ]
   }

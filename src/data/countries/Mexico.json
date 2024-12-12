@@ -1,297 +1,311 @@
 [
   {
-    "title": "temperatura monclova",
+    "title": "los bancos abren mañana",
     "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPRMh4MeamgClRxfKLYCr-LgUZeK4Spuh_nF1Lbt0y38_ajqVSbvkJoUIG6M4",
-    "picture_source": "INFO7",
+    "pubdate": "Thu, 12 Dec 2024 03:00:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzIxR-ms1kw6tUkWOqTDEh2G6NVK4-tnHvPaHqXUWOVrnS-XGH2_fB2bpkhKY",
+    "picture_source": "El Financiero",
     "news_items": [
       {
-        "title": "Establecen criterios por bajas temperaturas en escuelas",
+        "title": "Día de la Vigen de Guadalupe: ¿Abren los bancos este 12 de diciembre?",
         "snippet": "",
-        "url": "https://www.info7.mx/coahuila/establecen-criterios-por-bajas-temperaturas-en-escuelas/7020830443",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPRMh4MeamgClRxfKLYCr-LgUZeK4Spuh_nF1Lbt0y38_ajqVSbvkJoUIG6M4",
-        "source": "INFO7"
+        "url": "https://www.elfinanciero.com.mx/nacional/2024/12/11/dia-de-la-vigen-de-guadalupe-abren-los-bancos-este-12-de-diciembre/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzIxR-ms1kw6tUkWOqTDEh2G6NVK4-tnHvPaHqXUWOVrnS-XGH2_fB2bpkhKY",
+        "source": "El Financiero"
       },
       {
-        "title": "Emite SEDU criterios de temperatura para justificar faltas o retardos",
+        "title": "¿Abrirán los Bancos este jueves 12 de diciembre? Aquí te decimos",
         "snippet": "",
-        "url": "https://eldiariodecoahuila.com.mx/2024/12/10/emite-sedu-criterios-de-temperatura-para-justificar-faltas-o-retardos/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfBFZZVWWImWxGNl6s21gQnfjP03P1YcV3FpaUqKPE_g-nS859zUsVpxMFe8",
-        "source": "El Diario de Coahuila"
+        "url": "https://www.record.com.mx/contra/abriran-los-bancos-este-jueves-12-de-diciembre-aqui-te-decimos",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6JyBzII39Ijanr2IxFNGoOztUOVPTpktAniYs9cZG0ATg6MpVaRpQ5kgsmS0",
+        "source": "RÉCORD"
       },
       {
-        "title": "Analiza Educación protocolo de horarios ante bajas temperaturas",
+        "title": "Día de la Virgen de Guadalupe 2024: ¿abren los bancos el jueves 12 de \ndiciembre en México?",
         "snippet": "",
-        "url": "https://rancherita.com.mx/noticias/detalles/169182/analiza-educacion-protocolo-de-horarios-ante-bajas-temperaturas.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcJjFnkDnAy1mBUzo_hAE8LmQmqfmTIatdusmfi_BO5c4prVMkBsLLbzxK4uA",
-        "source": "La Rancherita del Aire"
+        "url": "https://mexico.as.com/actualidad/dia-de-la-virgen-de-guadalupe-2024-abren-los-bancos-el-jueves-12-de-diciembre-en-mexico-n/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuetKVvfa6pcs9-163tYy_hNfV3ywMTLZwMqipb3PDkNkY1VjOzKMx354S8U0",
+        "source": "AS México"
       }
     ]
   },
   {
-    "title": "clima culiacan",
+    "title": "metro",
     "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 05:30:00 -0800",
+    "pubdate": "Thu, 12 Dec 2024 03:00:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlVfXQ-6vun6qa1xym-2aLl_qHFwrjBavwkLikaiU1KgTFuzJDzue1PjoEX4c",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjLkGl9ngquxvn9C43Lp2yk9ycj2AE0JqGQqTlmLK_DPVWLt5ABMSHcDRJWsY",
+    "picture_source": "Metro CDMX",
+    "news_items": [
+      {
+        "title": "En esta temporada decembrina, el Metro hace el llamado a no transportar \npirotecnia al hacer uso de la red.",
+        "snippet": "",
+        "url": "https://www.metro.cdmx.gob.mx/comunicacion/nota/en-esta-temporada-decembrina-el-metro-hace-el-llamado-no-transportar-pirotecnia-al-hacer-uso-de-la-red",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjLkGl9ngquxvn9C43Lp2yk9ycj2AE0JqGQqTlmLK_DPVWLt5ABMSHcDRJWsY",
+        "source": "Metro CDMX"
+      },
+      {
+        "title": "Revisiones a usuarios del metro en operativo Cero Pirotecnia",
+        "snippet": "",
+        "url": "https://www.jornada.com.mx/noticia/2024/12/11/capital/operativo-cero-pirotecnia-haran-revisiones-a-usuarios-del-metro-2256",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjt5fO4ov-9dhdumJ6ooy4C2qfiyjrmerJeM3Thcq5LyCu4caJ2-iZ_sMhzcw",
+        "source": "La Jornada"
+      },
+      {
+        "title": "Cero Pirotecnia en el Metro: Refuerzan seguridad durante la temporada \ndecembrina",
+        "snippet": "",
+        "url": "https://www.cronica.com.mx/metropoli/2024/12/11/cero-pirotecnia-en-el-metro-refuerzan-seguridad-durante-la-temporada-decembrina/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwDNwrQgT-OJIO76CvfY6HqUsK1gNHE8NvDBQIfwRKV4nOrkhy9AcG9eHvJs",
+        "source": "La Crónica de Hoy"
+      }
+    ]
+  },
+  {
+    "title": "onlyfans",
+    "link": "https://trends.google.com/trending/rss?geo=MX",
+    "pubdate": "Thu, 12 Dec 2024 02:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa16CIy7y6395AIOjvXUvTdoPct2L-WSlYdk_5JN6pSBF32vxgMZfloXtQZCk",
+    "picture_source": "New York Post",
+    "news_items": [
+      {
+        "title": "OnlyFans model cries after sleeping with 101 men in a day: ‘Sometimes I \nfeel so robotic’",
+        "snippet": "",
+        "url": "https://nypost.com/2024/12/11/lifestyle/onlyfans-model-lily-phillips-cries-after-sleeping-with-101-men-in-a-day/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa16CIy7y6395AIOjvXUvTdoPct2L-WSlYdk_5JN6pSBF32vxgMZfloXtQZCk",
+        "source": "New York Post"
+      },
+      {
+        "title": "OnlyFans Model Lily Phillips Cries After Sex With 100 Men in One Day",
+        "snippet": "",
+        "url": "https://www.yahoo.com/entertainment/onlyfans-model-lily-phillips-cries-220049449.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cohlyY8MBhVJl7xYxtxC68PlT3FiWvhsxOnilgnBsq8epj9_8yImLNmpbvI",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Heartbreaking moment OnlyFans model breaks down in tears after bedding 100 \nmen in one day",
+        "snippet": "",
+        "url": "https://www.dailymail.co.uk/femail/article-14182999/heartbreaking-onlyfans-lily-phillips-crying-100-men.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXA5klKHnXFO3x6LVpagHjgYLD4xD-mQzeK8r19C3gHQ3QeCl4OjRLbRs0QU",
+        "source": "Daily Mail"
+      }
+    ]
+  },
+  {
+    "title": "f",
+    "link": "https://trends.google.com/trending/rss?geo=MX",
+    "pubdate": "Thu, 12 Dec 2024 01:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-yb3kXDcy_dPupYFTwn_usFmo3dQ8s8xrJWTxvBO4yVKn5Al22SsSTR2bEYc",
+    "picture_source": "Newsweek",
+    "news_items": [
+      {
+        "title": "Ukraine Gets Major $266 Million F-16 Boost From US",
+        "snippet": "",
+        "url": "https://www.newsweek.com/ukraine-major-f16-boost-defense-department-1998949",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-yb3kXDcy_dPupYFTwn_usFmo3dQ8s8xrJWTxvBO4yVKn5Al22SsSTR2bEYc",
+        "source": "Newsweek"
+      },
+      {
+        "title": "US announces $266 million in sales to bolster Ukraine’s F-16 fighter jets",
+        "snippet": "",
+        "url": "https://kyivindependent.com/us-announces-266-million-in-sales-to-bolster-ukraines-f-16-fighter-jets/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfQ3z3cPucAdNQTzCS-dEoX8pglBrmvj3BzI54piiiPp4E1kG-07Own9hX2uM",
+        "source": "The Kyiv Independent"
+      },
+      {
+        "title": "For $266.4 million, the U.S. has authorized a new support package for the \nUkrainian Air Force's F-16 fighter jets",
+        "snippet": "",
+        "url": "https://www.zona-militar.com/en/2024/12/11/for-266-4-million-the-u-s-has-authorized-a-new-support-package-for-the-ukrainian-air-forces-f-16-fighter-jets/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-m5YnRkl3AQv1_RSSpxHChWxyK1W-6b-HATP_zHWmzR8tcQUIL_x1DZxsctM",
+        "source": "Zona Militar"
+      }
+    ]
+  },
+  {
+    "title": "epic",
+    "link": "https://trends.google.com/trending/rss?geo=MX",
+    "pubdate": "Thu, 12 Dec 2024 00:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDApnoJcoJOgkf3_CVcjBmqVl-PmVWzYA5Z0KrUA1w2K_uc3AszB8ZUtvzB2I",
+    "picture_source": "Forbes",
+    "news_items": [
+      {
+        "title": "FTC Sending Refunds To Fortnite Players Charged For Unwanted Items—Here’s \nWho Is Eligible",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/12/10/ftc-sending-refunds-to-fortnite-players-charged-for-unwanted-items-heres-who-is-eligible/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDApnoJcoJOgkf3_CVcjBmqVl-PmVWzYA5Z0KrUA1w2K_uc3AszB8ZUtvzB2I",
+        "source": "Forbes"
+      },
+      {
+        "title": "Fortnite gamers to start receiving refunds after Epic Games settlement with \nFTC",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/tech/video-games/fortnite-gamers-refunds-epic-games-settlement-ftc-rcna183604",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSDOq6xfgK1tcbS2xgGmL0hyOO7qvnXfbu6P1LnVs7CGp42gZwAzXK7LCiiLA",
+        "source": "NBC News"
+      },
+      {
+        "title": "Fortnite Refund Is Giving Players $114 on Average. You Still Have Time to \nMake Your Claim",
+        "snippet": "",
+        "url": "https://www.cnet.com/tech/gaming/fortnite-refund-is-giving-players-114-on-average-you-still-have-time-to-make-your-claim/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4-sxPRr6KxXVth2F7frLtpw6bUxnQpHWP7jhcVG84L5-iSQ3EqWpsIiI73Pw",
+        "source": "CNET"
+      }
+    ]
+  },
+  {
+    "title": "grupos de whatsapp",
+    "link": "https://trends.google.com/trending/rss?geo=MX",
+    "pubdate": "Wed, 11 Dec 2024 23:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-OjmZT39iim8pU41zLZK5h7aP21uH7sLd6hMrWfV-2oRsP5ZQ1593Hh16nHY",
     "picture_source": "Infobae",
     "news_items": [
       {
-        "title": "Clima en México: la predicción del tiempo para Culiacán Rosales este 11 de diciembre",
+        "title": "Un taller mete en un grupo de Whatsapp a un cliente que les contactó: el \nhombre les denuncia y ahora tienen que pagar una multa de 3.000 euros",
         "snippet": "",
-        "url": "https://www.infobae.com/mexico/2024/12/11/clima-en-mexico-la-prediccion-del-tiempo-para-culiacan-rosales-este-11-de-diciembre/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlVfXQ-6vun6qa1xym-2aLl_qHFwrjBavwkLikaiU1KgTFuzJDzue1PjoEX4c",
+        "url": "https://www.infobae.com/espana/2024/12/09/un-taller-mete-en-un-grupo-de-whatsapp-a-un-cliente-que-les-contacto-el-hombre-les-denuncia-y-ahora-tienen-que-pagar-una-multa-de-3000-euros/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-OjmZT39iim8pU41zLZK5h7aP21uH7sLd6hMrWfV-2oRsP5ZQ1593Hh16nHY",
         "source": "Infobae"
       },
       {
-        "title": "Clima en Los Mochis hoy lunes 9 de diciembre: Mínima de 12°C",
+        "title": "Esta es la multa a la que te arriesgas por meter en WhatsApp a una persona \nsin consentimiento",
         "snippet": "",
-        "url": "https://www.debate.com.mx/sinaloa/losmochis/Clima-en-Los-Mochis-hoy-lunes-9-de-diciembre-Minima-de-12C-20241209-0003.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAC43TEYX2FKdoDt1im69_haxg-w2Qgxa_j922LA7na1XO8YrvOcNPr6bi-w",
-        "source": "Debate"
+        "url": "https://as.com/actualidad/sociedad/esta-es-la-multa-a-la-que-te-arriesgas-por-meter-en-whatsapp-a-una-persona-sin-consentimiento-n/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuHdEgCMi6GtuM_e_GXg8Fq04_TDiotJfSzsZH9aulSsMXMbx5sMx3V1myA4",
+        "source": "Diario AS"
       },
       {
-        "title": "Inicio de semana fresco: conoce el pronóstico para tu ciudad",
+        "title": "Meter en un grupo de WhatsApp a una persona o enviar documentos sin permiso \nacaba en una multa de la AEPD",
         "snippet": "",
-        "url": "https://www.elsoldemazatlan.com.mx/local/inicio-de-semana-fresco-conoce-el-pronostico-para-tu-ciudad-12985997.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDwiET1TRckgxNJ3a_efBQBFHcZxoEJh1ZESB0DYjGxxP6CMWOUMlYnauXG_g",
-        "source": "El Sol de Mazatlán"
+        "url": "https://confilegal.com/20241208-meter-en-un-grupo-de-whatsapp-a-una-persona-o-enviar-documentos-sin-permiso-acaba-en-una-multa-de-la-aepd/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxUQmDY9mjP37ADO4hhAFWHREyhBrcGZJ0AYqy5pMB6L4Qw2qzBfPd5EhK2Jw",
+        "source": "Confilegal"
       }
     ]
   },
   {
-    "title": "ketchum",
+    "title": "cinemex",
     "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 05:20:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 23:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1vfZqOIYmxLfivgT2Z3m_M9HG5SrqwfSwM8LW9xgJH138DdiBsadf_ObnHlQ",
+    "picture_source": "Infobae",
+    "news_items": [
+      {
+        "title": "Internautas reaccionaron con MEMES al nuevo logo de Cinemex",
+        "snippet": "",
+        "url": "https://www.infobae.com/mexico/2024/12/12/internautas-reaccionaron-con-memes-al-nuevo-logo-de-cinemex/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1vfZqOIYmxLfivgT2Z3m_M9HG5SrqwfSwM8LW9xgJH138DdiBsadf_ObnHlQ",
+        "source": "Infobae"
+      },
+      {
+        "title": "Mes: diciembre 2024",
+        "snippet": "",
+        "url": "https://laliteradice.com/2024/12/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpHfOq8y4keXFqaFcHeJpuRL8Ii6uccCWKThOYdO43rYpMeX1JixpekZLoVpY",
+        "source": "La Litera"
+      },
+      {
+        "title": "Cinemex estrena NUEVO logo e imagen",
+        "snippet": "",
+        "url": "https://www.telediario.mx/tendencias/cinemex-nuevo-logo-e-imagen-2024",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvdPa6Yq9E3903AU0xI6plF2Jqc1zbkyDea8cHYRX9k2GLXjha_4xUQkYSJ-o",
+        "source": "Telediario México"
+      }
+    ]
+  },
+  {
+    "title": "que se celebra hoy",
+    "link": "https://trends.google.com/trending/rss?geo=MX",
+    "pubdate": "Wed, 11 Dec 2024 22:10:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDkHNqahyr6chvqqoLKi768T5mOG9GFTw2BC6b8pxurpIndem3wN0JxwN8Nj0",
-    "picture_source": "Comic Book Resources",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRAKwlLoXhLqsfdenVZKYphbqmaalf6p-Csgo5yIbLOfd4UeL8-C24eQHVAl4",
+    "picture_source": "El Español",
     "news_items": [
       {
-        "title": "Why Pokemon Horizons Outshines the Original Pokémon Series",
+        "title": "¿Qué santo se celebra hoy, jueves 12 de diciembre? La lista completa del \nsantoral",
         "snippet": "",
-        "url": "https://www.cbr.com/pokemon-horizons-better-original-pokemon-anime/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDkHNqahyr6chvqqoLKi768T5mOG9GFTw2BC6b8pxurpIndem3wN0JxwN8Nj0",
-        "source": "Comic Book Resources"
+        "url": "https://www.elespanol.com/sociedad/santoral/20241212/santo-celebra-hoy-jueves-diciembre-lista-completa-santoral/907909475_0.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRAKwlLoXhLqsfdenVZKYphbqmaalf6p-Csgo5yIbLOfd4UeL8-C24eQHVAl4",
+        "source": "El Español"
+      },
+      {
+        "title": "¿Qué Santo es hoy? Este es el santoral que se celebra el jueves 12 de \ndiciembre de 2024",
+        "snippet": "",
+        "url": "https://www.mundodeportivo.com/actualidad/20241212/1002369838/que-santo-hoy-santoral-celebra-jueves-12-diciembre-2024.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIi3RfejlhN19UbOkXt_ntioqHWTcAVS8Nsjp34FEBwzZXEifS882sEnnB-iU",
+        "source": "Mundo Deportivo"
+      },
+      {
+        "title": "Santoral del 12 de diciembre: qué santos se conmemoran este día",
+        "snippet": "",
+        "url": "https://laopinion.com/2024/12/11/santoral-del-12-de-diciembre-que-santos-se-conmemoran-este-dia/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4Yc6xArXIOmDmpK2Gk3erMm7tojlPRQc7BgzdCIT7fmY1ZeSTDs7Jnf6pRA",
+        "source": "La Opinión"
       }
     ]
   },
   {
-    "title": "niño prodigio horóscopo",
+    "title": "incendio en alcaldía benito juarez",
     "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 05:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSO6r8t_pL6NHzq6grBtq_jY5pMlDL5M7gjj3gGao-Yh-Z7_BBfeWQDqbTV8w",
-    "picture_source": "People en Español",
+    "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31jZtVf4CNjGo2n4-97L-KyAv1r0V2k1Q0cF8jEjq9qfiHgIU78KIDKt9ADA",
+    "picture_source": "Reforma",
     "news_items": [
       {
-        "title": "El Niño Prodigio: Horóscopo para el 11 de diciembre",
+        "title": "Deja 4 muertos incendio en sede de Alcaldía BJ",
         "snippet": "",
-        "url": "https://peopleenespanol.com/horoscopo-11-de-diciembre-2024-8758199",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSO6r8t_pL6NHzq6grBtq_jY5pMlDL5M7gjj3gGao-Yh-Z7_BBfeWQDqbTV8w",
-        "source": "People en Español"
+        "url": "https://www.reforma.com/deja-4-muertos-incendio-en-sede-de-alcaldia-bj/ar2921444",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31jZtVf4CNjGo2n4-97L-KyAv1r0V2k1Q0cF8jEjq9qfiHgIU78KIDKt9ADA",
+        "source": "Reforma"
       },
       {
-        "title": "Qué dice el horóscopo de Niño Prodigio para hoy, martes 10 de diciembre",
+        "title": "“No se podía respirar y la gente comenzó a correr”, narra trabajador de la \nalcaldía Benito Juárez tras incendio",
         "snippet": "",
-        "url": "https://www.lanacion.com.ar/estados-unidos/horoscopo-y-astrologia/el-horoscopo-de-nino-prodigio-para-hoy-martes-10-de-diciembre-nid10122024/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS_Xzd7Cg-LYigv9zcxtJrhkbmPMaolU19f936HP8BYdV9xQLOZv3DdfXJpk",
-        "source": "La Nación"
-      },
-      {
-        "title": "Los horóscopos de Niño Prodigio para la semana del 9 al 13 de diciembre",
-        "snippet": "",
-        "url": "https://www.eltiempo.com/mundo/eeuu-y-canada/los-horoscopos-de-nino-prodigio-para-la-semana-del-9-al-13-de-diciembre-3407342",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpbvun8rNAqrcLh6N7qG3ZqUSOctxFRZs1Yb314UZWoYg27dgJfUyg9jSVuec",
-        "source": "ELTIEMPO.COM"
-      }
-    ]
-  },
-  {
-    "title": "clima durango",
-    "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwuq_g_y8LcUWH7SqkWM_HGOeP86KPz1iMrUPcGmNEIo5c2eLQtWxVF9-GPk",
-    "picture_source": "Milenio",
-    "news_items": [
-      {
-        "title": "La Rosilla, Durango, registra 16 grados bajo cero",
-        "snippet": "",
-        "url": "https://www.milenio.com/estados/durango-la-rosilla-registra-16-grados-bajo-cero",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwuq_g_y8LcUWH7SqkWM_HGOeP86KPz1iMrUPcGmNEIo5c2eLQtWxVF9-GPk",
-        "source": "Milenio"
-      },
-      {
-        "title": "¡No bajes la guardia! Frente frío 14 provocará temperaturas bajo cero en Durango",
-        "snippet": "",
-        "url": "https://lineadirectaportal.com/mexico/no-bajes-la-guardia-frente-frio-14-provocara-temperaturas-bajo-cero-en-durango-2024-12-10__1275638",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5RAcRuqz3hFn9W3FOpVmz4LG_Vz-Yq-VncKnxLNWepBhwvbju3-58ltr2Hh4",
-        "source": "Linea Directa"
-      },
-      {
-        "title": "Alerta: temperatura llegaría a cero grados",
-        "snippet": "",
-        "url": "https://www.elsiglodedurango.com.mx/noticia/2024/alerta-temperatura-llegaria-a-cero-grados.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfjI0vf19yvpWDZeRoyP5PNsji6zCh1-5OfJHy4TvhXVg0BKUNEske6ABEiM",
-        "source": "El Siglo de Durango"
-      }
-    ]
-  },
-  {
-    "title": "clima hermosillo",
-    "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6LitvFO1y7UAWqpGoGWBetbPbq9-uLmagi8_TCRZgkqqotzN7L5EodoExVg",
-    "picture_source": "Diario del Yaqui",
-    "news_items": [
-      {
-        "title": "Clima en Hermosillo hoy 11 de diciembre; días fríos y nublados durante esta semana",
-        "snippet": "",
-        "url": "https://diariodelyaqui.mx/sonora/clima-en-hermosillo-hoy-11-de-diciembre-dias-frios-y-nublados-durante-esta-semana/96983",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6LitvFO1y7UAWqpGoGWBetbPbq9-uLmagi8_TCRZgkqqotzN7L5EodoExVg",
-        "source": "Diario del Yaqui"
-      },
-      {
-        "title": "¡Saca las cobijas! Pronostican temperaturas de hasta -10°C en sierra alta de Sonora; habilitan refugios",
-        "snippet": "",
-        "url": "https://www.eluniversal.com.mx/estados/saca-las-cobijas-pronostican-temperaturas-de-hasta-10c-en-sierra-alta-de-sonora-habilitan-refugios/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DrKS-XRhlDarCRBi6u5gp34m0MrX5rIHk-GA9cem-YMYbvVDdFQuKTamEWw",
+        "url": "https://www.eluniversal.com.mx/metropoli/no-se-podia-respirar-y-la-gente-comenzo-a-correr-narra-trabajador-de-la-alcaldia-benito-juarez-tras-incendio/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkY9UXgkM_jAjCDJk--PFApOTdBZlCNBfL9aq1eU3kNAREwT8M-XNhKS617o",
         "source": "El Universal"
       },
       {
-        "title": "Frente frío 14 ingresará a Sonora este martes",
+        "title": "Apoyará Gobierno de la Ciudad a deudos del incendio en Alcaldía Benito \nJuárez; supervisa jefa de Gobierno Clara Brugada Operativo de Atención",
         "snippet": "",
-        "url": "https://www.uniradioinforma.com/sociedad/frente-frio-14-ingresara-sonora-martes-n789331",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPRgjMUnmiCmeibUu_L0F-RRxtSxsHGSaAf2XtpyTI5AqImvS4U-oWmSntRQ",
-        "source": "Uniradio Informa"
+        "url": "https://jefaturadegobierno.cdmx.gob.mx/comunicacion/nota/apoyara-gobierno-de-la-ciudad-deudos-del-incendio-en-alcaldia-benito-juarez-supervisa-jefa-de-gobierno-clara-brugada-operativo-de-atencion",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMnew-aa_xHS6IYXpymgwxuiVukk_9VQrSfTe3SzpCNLdWLg6q-jX2huLFY8",
+        "source": "CDMX"
       }
     ]
   },
   {
-    "title": "temperatura en monterrey",
+    "title": "cohetes",
     "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ28_zbFO3IBJ77jnxfLSuJEYgVLWMiCT1F3Y3sKcTx7gMCTqIpQBTG6cdkhhY",
-    "picture_source": "Meteored.mx",
-    "news_items": [
-      {
-        "title": "El tiempo en Mexicali, Tijuana y Baja California 10 de diciembre: heladas, lluvias aisladas y rachas de 100 km/h",
-        "snippet": "",
-        "url": "https://www.meteored.mx/noticias/prediccion/el-tiempo-en-mexicali-tijuana-y-baja-california-6-de-diciembre-heladas-lluvias-aisladas-y-rachas-de-70-km-h.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ28_zbFO3IBJ77jnxfLSuJEYgVLWMiCT1F3Y3sKcTx7gMCTqIpQBTG6cdkhhY",
-        "source": "Meteored.mx"
-      },
-      {
-        "title": "Alertan por vientos en zona costa de Baja California",
-        "snippet": "",
-        "url": "https://www.lavozdelafrontera.com.mx/local/alertan-por-vientos-en-zona-costa-de-baja-california-12990255.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkYSeqTBnphpnrJzOCvezic2qEuX_jjwy6bliFB1XM2RD6FA3mCtOSgSmd1Sc",
-        "source": "La Voz de la Frontera"
-      },
-      {
-        "title": "Clima gélido se apodera de Baja California; Conagua analiza impacto del frente frío 14",
-        "snippet": "",
-        "url": "https://www.debate.com.mx/bajacalifornia/Clima-gelido-se-apodera-de-Baja-California-Conagua-analiza-impacto-del-frente-frio-14-20241208-0118.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWzKwArC_ImihO54K3bm8IxynboFhv13qsjk8ToT5ZntrsXjrAswFtmP_3hHA",
-        "source": "Debate"
-      }
-    ]
-  },
-  {
-    "title": "clima",
-    "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 200000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEnypeWk6flUoVtE4awYptgm0lIxihxZ2UjdeHLGDXxcl4BZ2hh7n90Sc2ZtQ",
-    "picture_source": "Aristegui Noticias",
-    "news_items": [
-      {
-        "title": "Frente frío 14 provocará lluvias torrenciales en cuatro estados",
-        "snippet": "",
-        "url": "https://aristeguinoticias.com/1112/mexico/frente-frio-14-provocara-lluvias-torrenciales-en-cuatro-estados/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEnypeWk6flUoVtE4awYptgm0lIxihxZ2UjdeHLGDXxcl4BZ2hh7n90Sc2ZtQ",
-        "source": "Aristegui Noticias"
-      },
-      {
-        "title": "Este miércoles suspensión clases en todos los niveles educativos",
-        "snippet": "",
-        "url": "https://www.veracruz.gob.mx/2024/12/10/este-miercoles-suspension-clases-en-todos-los-niveles-educativos/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjPcxXFF7S6TT9LqfTNXk3-sxGb_jWmVKhJl6vYAmv1RWEG6KTqbHyP6MA_28",
-        "source": "Gobierno del Estado de Veracruz"
-      },
-      {
-        "title": "\"Norte\" intenso afectará México con fuertes vientos y lluvias torrenciales",
-        "snippet": "",
-        "url": "https://www.meteored.mx/noticias/prediccion/norte-intenso-afectara-mexico-con-fuertes-vientos-y-lluvias-torrenciales.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnkJbSKchI6mI66wSED7YF4TNbB1kkt_XRTzIXpybLdPC9_UJ3LbyM98NIXps",
-        "source": "Meteored.mx"
-      }
-    ]
-  },
-  {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX-Hj8p-Ogd1C7cK5N_iPza5zVn0sKR_YDDfNTZ2jZrQWGJMUUe3saChkKQuM",
-    "picture_source": "AOL.com",
-    "news_items": [
-      {
-        "title": "A strong cold front bring heavy rain and gusty winds",
-        "snippet": "",
-        "url": "https://www.aol.com/strong-cold-front-bring-heavy-100728895.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX-Hj8p-Ogd1C7cK5N_iPza5zVn0sKR_YDDfNTZ2jZrQWGJMUUe3saChkKQuM",
-        "source": "AOL.com"
-      },
-      {
-        "title": "Weather impact: Stormy start, cooler end to the day",
-        "snippet": "",
-        "url": "https://www.wltx.com/article/weather/weather-impact-stormy-start-cooler-end-to-the-day-daniel-bonds/101-5d7a7878-ab8a-4072-9b22-43d74c407981",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCxnylsdf2sDaaXd0-_z_i8NLWt37EfJ6svk1xd-2sMowrYEpYIHHaYaH_Pq0",
-        "source": "WLTX"
-      },
-      {
-        "title": "Watch Live: Pinpoint Weather Alert Wednesday morning",
-        "snippet": "",
-        "url": "https://www.qcnews.com/weather/weather-forecast/pinpoint-weather-alert-slippery-roads-rainy-conditions-wednesday-morning/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_w9Tk0_YWtVAc5v0RY_PAbsq9xPDSiMwmuGBKfe84NPH1_pFvhS95wm4i6G0",
-        "source": "Queen City News"
-      }
-    ]
-  },
-  {
-    "title": "clima mty",
-    "link": "https://trends.google.com/trending/rss?geo=MX",
-    "pubdate": "Wed, 11 Dec 2024 03:40:00 -0800",
+    "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFolUu5jVdZhseOFWYxgKFnDNogpUd1CrLf0dT-zjyKqdst2zMx8qrmShb7rI",
-    "picture_source": "Milenio",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB7MycLEeH3gPJ_ivZUawbGumMTwt-1pnbdGJ2hCGXMLf0Dj__ZVbvglj2wD4",
+    "picture_source": "Gobierno Morelos",
     "news_items": [
       {
-        "title": "¿Seguirá la lluvia? Prevén temperaturas bajas para el domingo en Nuevo León",
+        "title": "Fortalece gobierno de Margarita González Saravia labores de prevención \ndurante temporada decembrina",
         "snippet": "",
-        "url": "https://www.milenio.com/el-clima/pronostico-del-tiempo-monterrey-8-diciembre-2024",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFolUu5jVdZhseOFWYxgKFnDNogpUd1CrLf0dT-zjyKqdst2zMx8qrmShb7rI",
-        "source": "Milenio"
+        "url": "https://www.morelos.gob.mx/ultimas-noticias/fortalece-gobierno-de-margarita-gonzalez-saravia-labores-de-prevencion-durante-temporada-decembrina",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB7MycLEeH3gPJ_ivZUawbGumMTwt-1pnbdGJ2hCGXMLf0Dj__ZVbvglj2wD4",
+        "source": "Gobierno Morelos"
       },
       {
-        "title": "Monterrey: Anticipan lluvia, fuerte, viento y frío ¿a partir de cuándo?",
+        "title": "Revisarán venta de pirotecnia en Morelos",
         "snippet": "",
-        "url": "https://abcnoticias.mx/local/2024/12/7/monterrey-anticipan-lluvia-fuerte-viento-frio-a-partir-de-cuando-233928.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbd-mdtMlUvTKVcH5gsYPDi7CmvifDM87_7dwagWQaq0bdv8Q__p-qLFJSLto",
-        "source": "ABCNoticias.MX"
+        "url": "https://www.diariodemorelos.com/noticias/revisar-n-venta-de-pirotecnia-en-morelos",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmbE4RqYP7szwSQUeL8oqrO3QuBkalXmLSEDOK0Je0ag3trlkEGKtKhS-5CE",
+        "source": "diariodemorelos.com"
       },
       {
-        "title": "Alerta Samuel García por frío y lluvias en Nuevo León",
+        "title": "Persiste compra de cohetes para uso recreativo; mercado de Sanctórum \nincrementa ventas",
         "snippet": "",
-        "url": "https://mvsnoticias.com/nuevo-leon/2024/12/3/alerta-samuel-garcia-por-frio-lluvias-en-nuevo-leon-668210.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe-En9wuBNKcAsCh5Wvp18wruapuMRjhOf-c2Gqj0_VX8itcjAEEQTLMmW70k",
-        "source": "MVS Noticias"
+        "url": "https://oem.com.mx/elsoldetlaxcala/local/persiste-compra-de-cohetes-para-uso-recreativo-mercado-incrementa-ventas-18908296",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw7zMtrkONhbBnIKukq_PpR7w3BgTk_nZ54s44abJ08BjdW9jX4z8cc5mY0XM",
+        "source": "Organización Editorial Mexicana"
       }
     ]
   }
