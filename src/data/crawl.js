@@ -6,6 +6,23 @@ function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+async function fetchWithRetry(url, retries = 3, backoff = 1000) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const response = await axios.get(url);
+      return response;
+    } catch (error) {
+      if (error.response && error.response.status === 429 && i < retries - 1) {
+        console.warn(`Rate limit exceeded. Retrying in ${backoff}ms...`);
+        await delay(backoff);
+        backoff *= 2; // Exponential backoff
+      } else {
+        throw error;
+      }
+    }
+  }
+}
+
 export default async function crawl(data) {
   let tableData = [];
   for (const country of data) {
@@ -14,7 +31,7 @@ export default async function crawl(data) {
       let countryName = country.name;
       let geoCode = country["alpha-2"];
       const url = `https://trends.google.com/trending/rss?geo=${geoCode}`;
-      const response = await axios.get(url);
+      const response = await fetchWithRetry(url);
       const feed = await parseStringPromise(response.data);
 
       const trend = feed.rss.channel[0].item.map((item) => ({
@@ -58,7 +75,7 @@ export default async function crawl(data) {
         country: countryName,
         ISO: geoCode,
         title: maxTrend.title,
-        link: maxTrend.news_items[0].url,
+        link: maxTrend.news_items[0] ? maxTrend.news_items[0].url : "N/A",
         traffic: maxTrend.approx_traffic,
       };
 

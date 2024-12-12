@@ -75,7 +75,14 @@ export default function Details() {
           <p
             style={{
               marginBlockEnd: "0rem",
-            }}>{`Trending topic: ${topics}`}</p>
+            }}>
+            Trending topic:{" "}
+            <a
+              className=""
+              onClick={() => window.open(focusedMarker.link, "_blank")}>
+              {topics}
+            </a>
+          </p>
           <p>{`(Approximate traffic of ${value})`}</p>
           <Button
             label="View search results"
