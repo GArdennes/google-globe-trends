@@ -10,8 +10,16 @@ Create beautiful and interactive Google Trends globe visualizations with ease.
 
 * Get the crawl working to collect keywords. (10/12/2024)
 
+* Visualise the globe: options now - react-globe.gl, react-native mapview.(11/12/2024)
+
+* Populate the data.json file with popular keywords per country.(11/12/2024)
+
+* Deploy the site. (11/12/2024)
+
 1. Todays target: 
     
-    * Visualise the globe: options now - react-globe.gl, react-native mapview.
+    * Implement UI changes
 
-    * Populate the data.json file with popular keywords per country.
+    * Update the documentation
+
+    * Setup automatic CI/CD
