@@ -4,22 +4,42 @@ Create beautiful and interactive Google Trends globe visualizations with ease.
 
 ## Overview
 
-<!-- ![image](./demo.gif) -->
+Google Globe Trends is a tool that allows you to visualize trending search keywords on a 3D globe. This project leverages Google Trends data to provide a unique and engaging way to explore what people are searching for around the world.
 
-#### Done
+## Features
 
-* Get the crawl working to collect keywords. (10/12/2024)
+- **Keyword Collection**: Automatically crawl and collect trending keywords from Google Trends.
+- **Interactive Globe**: Visualize the data on an interactive 3D globe using `react-globe.gl`.
+- **Data Population**: Populate a `data.json` file with popular keywords for each country.
+- **Deployment**: Easily deploy the visualization to a web server.
 
-* Visualise the globe: options now - react-globe.gl, react-native mapview.(11/12/2024)
+## Project Status
 
-* Populate the data.json file with popular keywords per country.(11/12/2024)
+### Completed Tasks
 
-* Deploy the site. (11/12/2024)
+- **Crawl Keywords**: Implemented a crawler to collect keywords. (10/12/2024)
+- **Globe Visualization**: Added options for globe visualization using `react-globe.gl` and `react-native-mapview`. (11/12/2024)
+- **Data Population**: Populated `data.json` with popular keywords per country. (11/12/2024)
+- **Deployment**: Deployed the site successfully. (11/12/2024)
 
-1. Todays target: 
-    
-    * Implement UI changes
+## Getting Started
 
-    * Update the documentation
+To get started with Google Globe Trends, you can visit the [link](https://globe-trends.netlify.app/) or follow these steps:
 
-    * Setup automatic CI/CD
+1. Clone the repository.
+2. Install the necessary dependencies.
+3. Run the crawler to collect the latest keywords.
+4. Start the development server to view the interactive globe.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+
+For any questions or feedback, please open an issue or contact me at [support](mailto:thekevin.afachao@gmail.com).
+
+## Contributing
+
+We welcome contributions!
+
