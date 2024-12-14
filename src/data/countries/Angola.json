@@ -1,311 +1,156 @@
 [
   {
-    "title": "chatgpt",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 22:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrz15jwFuVDwZVXq4UtkgunRq1mU0MGPMq84hEzJ1kLo3mB2cz_1ClWBLO3sc",
+    "picture_source": "The Weather Network",
+    "news_items": [
+      {
+        "title": "Southern Ontario's bright weekend will be ending on a gloomy note",
+        "snippet": "",
+        "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/southern-ontarios-bright-weekend-will-be-ending-on-a-gloomy-note",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrz15jwFuVDwZVXq4UtkgunRq1mU0MGPMq84hEzJ1kLo3mB2cz_1ClWBLO3sc",
+        "source": "The Weather Network"
+      },
+      {
+        "title": "Police Asking Residents To Stay Off The Roads If Possible Due To Icy Conditions",
+        "snippet": "",
+        "url": "https://www.kawartha411.ca/2024/12/09/opp-asking-residents-to-stay-off-the-roads-if-possible-due-to-icy-conditions/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwPXIWkprwJmaw25HTDj-QKWTlGeH8HINFKAJ2s9UP6sI7HrC_OReeirLlAuY",
+        "source": "Kawartha 411"
+      },
+      {
+        "title": "GTA sees freezing rain, icy conditions during morning rush hour",
+        "snippet": "",
+        "url": "https://toronto.ctvnews.ca/gta-sees-freezing-rain-icy-conditions-during-morning-rush-hour-1.7138539",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXlK5gd__YQ82mJ4eMdi6vOkmWgt8mf8nQwB8ae6yUCUYYFgEknc_WqwbMFc",
+        "source": "CTV News Toronto"
+      }
+    ]
+  },
+  {
+    "title": "isabel dos santos",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Fri, 13 Dec 2024 13:20:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWd7eGAkcVMx7kr8UmrayMvBlzUTk1Pl0imbEeC8mkcL2uTYpW5c1SPRaR_Zo",
+    "picture_source": "Negócios",
+    "news_items": [
+      {
+        "title": "Isabel dos Santos sinaliza vontade de concorrer à presidência de Angola",
+        "snippet": "",
+        "url": "https://www.jornaldenegocios.pt/economia/mundo/africa/angola/detalhe/isabel-dos-santos-sinaliza-vontade-de-concorrer-a-presidencia-de-angola",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWd7eGAkcVMx7kr8UmrayMvBlzUTk1Pl0imbEeC8mkcL2uTYpW5c1SPRaR_Zo",
+        "source": "Negócios"
+      },
+      {
+        "title": "Isabel dos Santos admite voltar a Angola e concorrer à presidência do país",
+        "snippet": "",
+        "url": "https://observador.pt/2024/12/13/isabel-dos-santos-admite-voltar-a-angola-e-concorrer-a-presidencia-do-pais/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAmyNW0__PrmEea1yY0DSTe0PfrwSp2s-GORowmefnMadOwPyAeMtMX47m5QM",
+        "source": "Observador"
+      },
+      {
+        "title": "Isabel dos Santos quer concorrer à presidência de Angola",
+        "snippet": "",
+        "url": "https://www.cmjornal.pt/mundo/detalhe/isabel-dos-santos-quer-concorrer-a-presidencia-de-angola",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfM0T-CRoucQqOJWHLct0tjoxAvg9YfX70lzNK0AHScROQ9a4H5eOAxp6b7Xg",
+        "source": "Correio da Manhã"
+      }
+    ]
+  },
+  {
+    "title": "valencia fc",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Fri, 13 Dec 2024 13:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoafAbOW27Klvj0wwMo-88lQgJVVs5a7HBX3leQzhjCSMkq1gZiE25XxMOev0",
+    "picture_source": "Yahoo Sports",
+    "news_items": [
+      {
+        "title": "Valencia contemplate managerial sacking after latest La Liga defeat",
+        "snippet": "",
+        "url": "https://sports.yahoo.com/valencia-contemplate-managerial-sacking-latest-100800740.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoafAbOW27Klvj0wwMo-88lQgJVVs5a7HBX3leQzhjCSMkq1gZiE25XxMOev0",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Valencia Analyzes Baraja's Future Amidst Struggles",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2179153-valencia-analyzes-baraja-s-future-amidst-struggles",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB9TmM1RMg6t8H0TZThtIqsdGXq6YFBHQOKbb_MPYw42hlZHxHMYXGv1giiUI",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Ruben Baraja under increased threat as Valencia manager following Rayo Vallecano defeat",
+        "snippet": "",
+        "url": "https://www.yardbarker.com/soccer/articles/ruben_baraja_under_increased_threat_as_valencia_manager_following_rayo_vallecano_defeat/s1_15980_41376601",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpKzzs39duKqI4tVmALJ26OsYHlrlaYWywQLqTe-V3az_XNFwkAlAYcu1O-Po",
+        "source": "Yardbarker"
+      }
+    ]
+  },
+  {
+    "title": "toulouse fc",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Fri, 13 Dec 2024 12:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXc7DyMhrhXn_4z7UM3yGw9AdwP1B9EEgPNSerPx-6-eJeEKUQMoCZ5_AIswg",
+    "picture_source": "Peuple Vert",
+    "news_items": [
+      {
+        "title": "ASSE : Les grands gagnants et perdants du match contre Toulouse",
+        "snippet": "",
+        "url": "https://peuple-vert.fr/asse-actualite/asse-les-grands-gagnants-et-perdants-du-match-contre-toulouse/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXc7DyMhrhXn_4z7UM3yGw9AdwP1B9EEgPNSerPx-6-eJeEKUQMoCZ5_AIswg",
+        "source": "Peuple Vert"
+      },
+      {
+        "title": "Olivier Dall'Oglio : \"Le vestiaire est assez abattu\"",
+        "snippet": "",
+        "url": "https://onefootball.com/fr/news/olivier-dalloglio-le-vestiaire-est-assez-abattu-40437102",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKmLuEKeNrQcICa70QFGUk6_ZbF_Fh3kMF_8mhx0BcJTwhzp6ZXWbbSiDNkXc",
+        "source": "OneFootball"
+      },
+      {
+        "title": "ENTRETIEN. TFC – Saint-Étienne : \"L’Europe ? Pourquoi pas\" répond le buteur gabonais Shavy Babicka après le succès sur les Verts",
+        "snippet": "",
+        "url": "https://www.ladepeche.fr/2024/12/14/entretien-tfc-saint-etienne-leurope-pourquoi-pas-repond-le-buteur-gabonais-shavy-babicka-apres-le-succes-sur-les-verts-12391990.php",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHKePpXGBlP-1pVSp8jCKgWbpVCNfTb-J9Ur06S17p2FMlRxqJ9C-QHg3NR8Y",
+        "source": "ladepeche.fr"
+      }
+    ]
+  },
+  {
+    "title": "elon musk",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Fri, 13 Dec 2024 06:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4e_-c8QqKgLwvuEUdsX_0S3WunvLdcHliCUPFS7FSTPD4shECWao-DF06OnE",
     "picture_source": "CNBC",
     "news_items": [
       {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "title": "Elon Musk reveals SEC sent him 'settlement demand' after Twitter buyout probe",
         "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
+        "url": "https://www.cnbc.com/2024/12/13/elon-musk-says-sec-sent-settlement-demand-after-twitter-deal-probe.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4e_-c8QqKgLwvuEUdsX_0S3WunvLdcHliCUPFS7FSTPD4shECWao-DF06OnE",
         "source": "CNBC"
       },
       {
-        "title": "ChatGPT is down: What happened and when will it be back?",
+        "title": "SEC 'reopens' probe into Neuralink, Musk's lawyer says",
         "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
+        "url": "https://www.reuters.com/technology/sec-reopens-probe-into-elon-musks-neuralink-2024-12-13/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFpNjo3URM5Nh0R8-CQVu9QDP2_HMBbcTWJDETzcxADmHf-2qVzbN9nGnmxOk",
+        "source": "Reuters"
       },
       {
-        "title": "ChatGPT back online after global outage",
+        "title": "SEC extends Musk's response time for Twitter takeover inquiry, Reuters reports",
         "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "classificação liga dos campeões",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo67lV4FSmAHSERjeFuoHJdWC5sQatQASD4YuUkpTL7icLskOpu8vo-jRqJGg",
-    "picture_source": "TNT Sports",
-    "news_items": [
-      {
-        "title": "Exclusivo: Guardiola explica nova derrota do City na Champions e manda recado",
-        "snippet": "",
-        "url": "https://tntsports.com.br/videos/exclusiva_guardiola_16x9-vf20241211mp4.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo67lV4FSmAHSERjeFuoHJdWC5sQatQASD4YuUkpTL7icLskOpu8vo-jRqJGg",
-        "source": "TNT Sports"
-      },
-      {
-        "title": "Guardiola prefere não pensar na tabela da UCL neste momento: ''Precisamos vencer'",
-        "snippet": "",
-        "url": "https://gauchazh.clicrbs.com.br/esportes/noticia/2024/12/guardiola-prefere-nao-pensar-na-tabela-da-ucl-neste-momento-precisamos-vencer-cm4ixy282003m01ce9fbxdvgx.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWLqfu2XlpRqY5Ihp182iGVmYGzcGKE5o6vViLGfp_bUioWFA0WsoMle7IJ9M",
-        "source": "GZH"
-      },
-      {
-        "title": "Guardiola prefere não pensar na tabela da UCL neste momento: ''Precisamos vencer'",
-        "snippet": "",
-        "url": "https://esportes.r7.com/futebol/guardiola-prefere-nao-pensar-na-tabela-da-ucl-neste-momento-precisamos-vencer-10122024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQySNwgmI1jNLH7LZ3djRS4T6F5yR4RGHVnNUXcaMEA33DHPmakK3ktv-Yk5lU",
-        "source": "R7 Esportes"
-      }
-    ]
-  },
-  {
-    "title": "desporto",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTj0OsZWwjc2kuDe9j17dY9y1LI2ox-nojOlbIEE9vgZo4Jp6b18ORV0n6JSUA",
-    "picture_source": "sapo desporto",
-    "news_items": [
-      {
-        "title": "Sérgio Conceição tem trio de interessados em Inglaterra, avançam emblemas da Premier League",
-        "snippet": "",
-        "url": "https://desporto.sapo.pt/geral/artigos/sergio-conceicao-tem-trio-de-interessados-em-inglaterra-avancam-emblemas-da-premier-league",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTj0OsZWwjc2kuDe9j17dY9y1LI2ox-nojOlbIEE9vgZo4Jp6b18ORV0n6JSUA",
-        "source": "sapo desporto"
-      },
-      {
-        "title": "TIP DO DIA | Lopetegui a dar tudo",
-        "snippet": "",
-        "url": "https://www.zerozero.pt/noticias/tip-do-dia-lopetegui-a-dar-tudo/719901",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7Uf9exgFkqgXQX976jyL4FVvnIxvVS2OiTLEAdvzmmh7VSNVo-JiewZrfjQ",
-        "source": "zerozero.pt"
-      },
-      {
-        "title": "Sérgio Conceição e Schmidt podem perder lugar no West Ham para Allegri",
-        "snippet": "",
-        "url": "https://www.noticiasaominuto.com/desporto/2682861/sergio-conceicao-pode-perder-lugar-no-west-ham-para-allegri",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNa5wKx_weDy4Y4ikvkFf-tiznKGWXM3Bj84JPXXRko2M5TWca3np7P6qkG1g",
-        "source": "Notícias ao Minuto"
-      }
-    ]
-  },
-  {
-    "title": "jogos de hoje",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx5P-2JxFRwmiWoKCC0SKcXMiXdCMxZpK8eTi5CEtKwbm0WjO7hAaksQpfgcg",
-    "picture_source": "Terra Brasil Notícias",
-    "news_items": [
-      {
-        "title": "Europa League hoje (12/12): Confira a programação completa dos jogos!",
-        "snippet": "",
-        "url": "https://terrabrasilnoticias.com/2024/12/europa-league-hoje-12-12-confira-a-programacao-completa-dos-jogos/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx5P-2JxFRwmiWoKCC0SKcXMiXdCMxZpK8eTi5CEtKwbm0WjO7hAaksQpfgcg",
-        "source": "Terra Brasil Notícias"
-      },
-      {
-        "title": "Destaques do Futebol de Hoje | MAISFUTEBOL",
-        "snippet": "",
-        "url": "https://www.footboom1.com/br/news/volleyball/2166631-today-s-football-highlights-maisfutebol",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdLpDiwpLk1UvycPOfmBvHKXD-Hw2EPQYVsTLazXMEGFie0_v4GRnA6SH2csI",
-        "source": "FootBoom"
-      },
-      {
-        "title": "Tem jogo no SBT hoje (11/12)? Veja onde assistir a rodada da Liga dos Campeões",
-        "snippet": "",
-        "url": "https://blogdotorcedor.ne10.uol.com.br/ultimas/2024/12/11/tem-jogo-no-sbt-hoje-11-12-veja-onde-assistir-a-rodada-da-liga-dos-campeoes.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSyhdkLGGjtdLYwEUWg78cAUJeoosasXAAf3ZxVlz8-_x3EFu1IpYeSYI6-TQ",
-        "source": "Blog do Torcedor"
-      }
-    ]
-  },
-  {
-    "title": "jogo de hoje",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO6sf9VxicNQqxqhcZxhwTvh_4ox7ziA22ed64zzWnFgh-ICdCTRNVRKylRmI",
-    "picture_source": "TNT Sports",
-    "news_items": [
-      {
-        "title": "Golaço de Julián Álvarez! Argentino coloca bola na gaveta e abre o placar para o Atleti",
-        "snippet": "",
-        "url": "https://tntsports.com.br/videos/lance_1_-_gol_1_-_atm_1x0_slb_-_16x9-vf20241211mp4.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO6sf9VxicNQqxqhcZxhwTvh_4ox7ziA22ed64zzWnFgh-ICdCTRNVRKylRmI",
-        "source": "TNT Sports"
-      },
-      {
-        "title": "Histórico: pais e filhos nos dois lados do At. Madrid-Slovan",
-        "snippet": "",
-        "url": "https://www.abola.pt/futebol/noticias/historico-pais-e-filhos-nos-dois-lados-do-at-madrid-slovan-2024121120162133518",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_2gu4TifbBDUlWnAA7G1fapoGbRtAmIInsemiLxcwUSV_8HVeb14wI6DNBaE",
-        "source": "A Bola"
-      },
-      {
-        "title": "Simeone: \"Competimos em Nossa Liga Contra os Dois Melhores da Europa\"",
-        "snippet": "",
-        "url": "https://www.footboom1.com/br/news/football/2168787-simeone-we-compete-in-our-league-against-the-two-best-in-europe",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgJMOkxawpameePjK7yMU2EhKwDZk90YSIiai7Sk0y4Vm3QYZJZvTCgaTXTRk",
-        "source": "FootBoom"
-      }
-    ]
-  },
-  {
-    "title": "barça",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZqXE6N9jz6Tl5dRkOIjjbFM-yp0xr6MUg678TsyadCvdaLmpqY4Fw4wxbijo",
-    "picture_source": "Mundo Deportivo",
-    "news_items": [
-      {
-        "title": "¿Contra quién jugaría el Barça los octavos de Champions?",
-        "snippet": "",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20241212/1002369862/jugaria-barca-octavos-champions.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZqXE6N9jz6Tl5dRkOIjjbFM-yp0xr6MUg678TsyadCvdaLmpqY4Fw4wxbijo",
-        "source": "Mundo Deportivo"
-      },
-      {
-        "title": "¿Cuánto dinero se juega el Barça? El pastizal que se embolsará si queda entre los 8 primeros de la Champions",
-        "snippet": "",
-        "url": "https://www.sport.es/es/noticias/barca/dinero-juega-barca-pastizal-embolsara-112461572",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt9j3t_5eoAELPBdyxYTLcbgVeJpN8OeoX1eLkZw3AIjbFUvjgELpDKuMEg-M",
-        "source": "SPORT"
-      },
-      {
-        "title": "El Barça se asegura estar entre los 16 mejores de Europa",
-        "snippet": "",
-        "url": "https://www.sportyou.es/noticias/el-barca-se-asegura-estar-entre-los-16-mejores-de-europa-778699",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRd55lHMmMBdWS-4Qarpt6zXalZKrvQZuKGLFe2257yHs9C_FNe65h021n7deo",
-        "source": "SPORTYOU"
-      }
-    ]
-  },
-  {
-    "title": "liga dos campeões hoje",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 13:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqjTWRRjUwZ1ivM9JdFW1V56tMqzsJoV3esRxDaZfZ5RMkgt4n8PYJ4r1vjIE",
-    "picture_source": "ESPN Brasil",
-    "news_items": [
-      {
-        "title": "Jornal destaca sacrifício de Vinicius Jr. pelo Real Madrid: 'Alma do clube, a caminho de ser uma lenda'",
-        "snippet": "",
-        "url": "https://www.espn.com.br/futebol/real-madrid/artigo/_/id/14552463/vinicius-jr-real-madrid-jornal-destaca-sacrificio-vitoria-alma-do-clube-caminho-de-ser-uma-lenda",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqjTWRRjUwZ1ivM9JdFW1V56tMqzsJoV3esRxDaZfZ5RMkgt4n8PYJ4r1vjIE",
-        "source": "ESPN Brasil"
-      },
-      {
-        "title": "Fabio Capello: \"Maravilhoso Real, mas também uma grande Atalanta\"",
-        "snippet": "",
-        "url": "https://www.footboom1.com/br/news/football/2167918-fabio-capello-wonderful-real-but-also-a-great-atalanta",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ9qzewBYAYk5XU8aPddrHf8McrpEB9YVph1h_SYI4ntDhdHPYMJ4ugbmsLyI",
-        "source": "FootBoom"
-      },
-      {
-        "title": "🔴 Com Vini e Rodrygo? Real ESCALADO para desafio dos grandes na Champions",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/com-vini-e-rodrygo-real-escalado-para-desafio-dos-grandes-na-champions-40421611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1TM9JAM6AO8GTHzOuiUSkk1B8dxYNYAAYmjznwOBUnyWHRJ_Ezr14VQxtzqs",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "arsenal",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSN2NOIIVjYnhPOLGubR7hLVkPT1jx8v39OVwfsg1rf69a9_JdDPbXt3YG7feo",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Champions League LIVE: Arsenal 3-0 Monaco & Juventus 2-0 Manchester City - report, scores, radio & text",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c20gjqz1g7et",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSN2NOIIVjYnhPOLGubR7hLVkPT1jx8v39OVwfsg1rf69a9_JdDPbXt3YG7feo",
-        "source": "BBC"
-      },
-      {
-        "title": "5️⃣ things we learned from Wednesday's UCL action",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/5-things-we-learned-from-wednesdays-ucl-action-40427676",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDuwqNgtifEkpixSZLlRvYnkfb3eif4BBsb4jsvnAj3IaZJJ5-XfN6rhgKCnQ",
-        "source": "OneFootball"
-      },
-      {
-        "title": "UCL: Manchester City’s Struggles Continue, Arsenal, Barcelona Win",
-        "snippet": "",
-        "url": "https://www.theheritagetimes.com/ucl-manchester-citys-struggles-continue-arsenal-barcelona-win/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQywGSCrCq3uiOH2y3VO9psOLSGr7xEQL0gPEmXQ_wlfTLXtbKqohNneTCRE4g",
-        "source": "The Heritage Times"
-      }
-    ]
-  },
-  {
-    "title": "besoccer",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEjFcTyxUMkag1yrzXWGzroyCQ9n9CLSYtUjTtXHsH7pMOQ87sQaQchZz-KfI",
-    "picture_source": "Besoccer",
-    "news_items": [
-      {
-        "title": "Arsenal V Monaco - As it happened.",
-        "snippet": "",
-        "url": "https://www.besoccer.com/new/arsenal-v-monaco-s-it-happened-1341045",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEjFcTyxUMkag1yrzXWGzroyCQ9n9CLSYtUjTtXHsH7pMOQ87sQaQchZz-KfI",
-        "source": "Besoccer"
-      },
-      {
-        "title": "Arsenal 3-0 Monaco - Bukayo Saka scores twice in victory",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c7866g31qjjt",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzE--lEZgXqXrElPxULAFqsblKdd4-l53RU3DJ_cQMWNqFOEpa6a3WUuAL2TE",
-        "source": "BBC"
-      },
-      {
-        "title": "Saka brace sinks Monaco as Arsenal eye Champions League last 16",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/saka-brace-sinks-monaco-as-arsenal-eye-champions-league-last-16-2024-12-11",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4jNeTcUSynNgsX2ua9wih92SqRdLlvULhWCA6XKm94WihPXyFrHeDHgAI5Eg",
-        "source": "beIN SPORTS"
-      }
-    ]
-  },
-  {
-    "title": "barcelona hoje",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSae7f5yEJUWy-Ct1DDClomPgvkes5AcWjSRsKvJSxek8AJKXMfSshz_BkjUF0",
-    "picture_source": "TNT Sports",
-    "news_items": [
-      {
-        "title": "Golaço do Barcelona! Yamal dá linda assistência e Ferran Torres bate no canto",
-        "snippet": "",
-        "url": "https://tntsports.com.br/videos/lance_8_gol_5_barcelona_-_16x9-vf20241211mp4.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSae7f5yEJUWy-Ct1DDClomPgvkes5AcWjSRsKvJSxek8AJKXMfSshz_BkjUF0",
-        "source": "TNT Sports"
-      },
-      {
-        "title": "Liga dos Campeões: Barcelona vence em Dortmund antes de jogar com o Benfica",
-        "snippet": "",
-        "url": "https://www.abola.pt/futebol/noticias/liga-dos-campeoes-barcelona-vence-em-dortmund-antes-de-jogar-com-o-benfica-2024121122101492618",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmSKmc0_XHHp7adfyH7qs47CvdHZ26BzY24Xv_wM4luj8dEcRKpXqtH-b_Y4o",
-        "source": "A Bola"
-      },
-      {
-        "title": "Liga dos Campeões: Lewandowski regressa a uma \"casa\" de onde não saiu muito bem",
-        "snippet": "",
-        "url": "https://www.flashscore.pt/noticias/futebol-liga-dos-campeoes-liga-dos-campeoes-lewandowski-regressa-a-uma-casa-de-onde-nao-saiu-muito-bem/OYgVSseR/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmkfY0z4qPkinoaNPnE1MnpjCpljk_9WsEldzZnHH0HtY5ov76sdJtZ11kFo",
-        "source": "Flashscore.pt"
+        "url": "https://www.investing.com/news/company-news/sec-extends-musks-response-time-for-twitter-takeover-inquiry-reuters-reports-93CH-3771920",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVAHQ_FrqJuSWyas0JtgaXTaPfVQA4ymwmu8U5SeaNVYiTUcKA2kw0L2ovVQ",
+        "source": "Investing.com"
       }
     ]
   }

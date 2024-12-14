@@ -1,311 +1,125 @@
 [
   {
-    "title": "kvaratskhelia",
+    "title": "mikheil kavelashvili",
     "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 20:50:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRlbZnyov_W3EhyLPLO4TXWOWAoAyoyZcNraiApIA7d93hPtDswcdyrCeM3Ko",
-    "picture_source": "beIN SPORTS",
-    "news_items": [
-      {
-        "title": "Napoli's Kvaratskhelia suffers knee injury",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-my/football/serie-a/articles/napolis-kvaratskhelia-suffers-knee-injury-2024-12-10",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRlbZnyov_W3EhyLPLO4TXWOWAoAyoyZcNraiApIA7d93hPtDswcdyrCeM3Ko",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "Kvaratskhelia suffers low-grade ligament injury",
-        "snippet": "",
-        "url": "https://www.besoccer.com/new/kvaratskhelia-suffers-low-grade-ligament-injury-1340875",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbn21AkBTDjpSCbFd49YPruATxuJ6B94s8QzLRn6myE3IPgDkO8StN7uoIsgw",
-        "source": "BeSoccer"
-      },
-      {
-        "title": "Soccer-Napoli's Kvaratskhelia suffers knee injury",
-        "snippet": "",
-        "url": "https://www.msn.com/en-gb/health/other/soccer-napoli-s-kvaratskhelia-suffers-knee-injury/ar-AA1vCcy0",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEIV0DNRCWSqqeqENqaL1BrwoktmeFDnrFmRQMbtoOM0sTzSwIlTlFYMVlnk",
-        "source": "MSN"
-      }
-    ]
-  },
-  {
-    "title": "google",
-    "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 17:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-    "picture_source": "Google Blog",
-    "news_items": [
-      {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
-        "snippet": "",
-        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-        "source": "Google Blog"
-      },
-      {
-        "title": "A former Google designer reveals what goes into building its AI models like \nGemini",
-        "snippet": "",
-        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
-        "source": "Business Insider"
-      },
-      {
-        "title": "Alphabet Stock Hits a Record High on New AI Models",
-        "snippet": "",
-        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
-        "source": "Barron's"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "ювентус – манчестер сити",
-    "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 13:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcSkhVungHb1j9zzpPTHqwUPq27bLNyABWJ0G-mLe4dqTa3GTfl4v_W3pG2-o",
-    "picture_source": "Спорт Mail",
-    "news_items": [
-      {
-        "title": "«Ювентус» обыграл «Манчестер Сити» в матче Лиги чемпионов по футболу",
-        "snippet": "",
-        "url": "https://sportmail.ru/news/football-eurocups/64035558/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcSkhVungHb1j9zzpPTHqwUPq27bLNyABWJ0G-mLe4dqTa3GTfl4v_W3pG2-o",
-        "source": "Спорт Mail"
-      },
-      {
-        "title": "\"Манчестер Сити\" выиграл всего 1 матч из 10 последних",
-        "snippet": "",
-        "url": "https://sportarena.kz/football/1020954-manchester-siti-vyigral-vsego-1-match-iz-10-poslednikh.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDET4s8t1mnwLh43vuKL1gd5Emol34CAT9fsV6Co_i4DFeywAd4QIOAWcsTa8",
-        "source": "sportarena.kz"
-      },
-      {
-        "title": "Гвардиола рассказал об атмосфере в «Манчестер Сити»",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/31/1005799292_gvardiola_rasskazal_ob_atmosfere_v_manchester_siti",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6cYy8hNasQ5Hgmj1px_urD-CNLi5fmFawCw58l1JetG2v8YWilkXJPbJWMfY",
-        "source": "Евро-Футбол.Ру"
-      }
-    ]
-  },
-  {
-    "title": "juventus vs man city",
-    "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbj0oEXjiLwKA7ucB44LN1QEsi9r6AaA9mmCsBqY4k5IPRxB8ISH3ZvPhhOhY",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Champions League: Man City and Guardiola under 'real pressure'",
+        "title": "Georgia's crisis deepens as ex-footballer Mikheil Kavelashvili named president",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/cly256g64dwo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
+        "url": "https://www.bbc.com/news/articles/c5ygejxej28o",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbj0oEXjiLwKA7ucB44LN1QEsi9r6AaA9mmCsBqY4k5IPRxB8ISH3ZvPhhOhY",
         "source": "BBC"
       },
       {
-        "title": "Guardiola: ‘The future belongs to Juventus’",
+        "title": "President Zurabishvili Ridicules Kavelashvili’s Planned Election, Asks Mayor to Move Christmas Event",
         "snippet": "",
-        "url": "https://football-italia.net/guardiola-future-belongs-to-juventus/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRijB4ZKGk3sXAVr1D3hZrbBc9QYxOIKeUk5mE2v-m5v0Xk_YOzxpKDzWypmTU",
-        "source": "Football Italia"
+        "url": "https://civil.ge/archives/644685",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPGdp8io7eHS2kN73h5xwdDFacun1NTBAJVSs32l2SpcdPNSGQvLYHHfH2img",
+        "source": "Civil Georgia"
       },
       {
-        "title": "Juventus - Manchester City Live - Champions League: Football Scores & \nHighlights - 11/12/2024",
+        "title": "Georgian lawmakers elect far-right, anti-west hardliner as new president",
         "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-juventus-manchester-city_mtc1525379/live-commentary.shtml",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJBcsBx_UpG0teIpmCwyRk5AWEGaOB2zLjAdDTCEzDZDJ5tp9B_NOfaFQ-OaY",
-        "source": "Eurosport"
+        "url": "https://www.theguardian.com/world/2024/dec/14/georgias-ruling-party-to-appoint-far-right-loyalist-as-president",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKA72V-OBfTygWBxDcbuXqatL_H8QjuGRM0kg7q9mnNKvB78rS6-ujPILI2k",
+        "source": "The Guardian"
       }
     ]
   },
   {
-    "title": "barcelona",
+    "title": "михаил кавелашвили",
     "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 12:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
-    "picture_source": "FootBoom",
+    "pubdate": "Sat, 14 Dec 2024 03:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "¿Cuál es la capacidad del Signal Iduna Park y la 'Pared Amarilla' en el \nestadio del Borussia Dortmund?",
+        "title": "Президентские выборы в Грузии: коллегия проголосовала за бывшего футболиста Михаила Кавелашвили. Оппозиция выборы не признает",
         "snippet": "",
-        "url": "https://www.footboom1.com/es/news/football/2168596-what-is-the-capacity-of-signal-iduna-park-and-the-yellow-wall-at-borussia-dortmund-stadium",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
-        "source": "FootBoom"
+        "url": "https://www.bbc.com/russian/articles/cd0elgx741xo",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
+        "source": "BBC"
       },
       {
-        "title": "Flick: «El objetivo es ser primeros»",
+        "title": "Президентские выборы и протест у здания парламента",
         "snippet": "",
-        "url": "https://onefootball.com/en/news/flick-el-objetivo-es-ser-primeros-40427746",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
-        "source": "OneFootball"
+        "url": "https://www.ekhokavkaza.com/a/prezidentskie-vybory-i-protest-u-zdaniya-parlamenta/33239630.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUG2TFzb3gLiTLHOL-OQoJTXODlZcD70wVvet3ptHEmMAvu4ByMyvfFL3aUyc",
+        "source": "Эхо Кавказа"
       },
       {
-        "title": "Torres alaba el espíritu de equipo tras la victoria del Barcelona en \nDortmund",
+        "title": "В Грузии парламент выбрал нового президента — бывшего футболиста Михаила Кавелашвили. Он был единственным кандидатом",
         "snippet": "",
-        "url": "https://es-us.noticias.yahoo.com/torres-alaba-esp%C3%ADritu-equipo-victoria-065103438.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtPopBu-O__xaszCDPKNllktaBonAJ0aZuCxqg3t2dU0dYwBI9GH6TL8-r_xM",
-        "source": "Yahoo Noticias"
+        "url": "https://meduza.io/news/2024/12/14/v-gruzii-parlament-vybral-novogo-prezidenta-byvshego-futbolista-mihaila-kavelashvili-on-byl-edinstvennym-kandidatom",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuwRWFMgkuXjx2aLAJvW4Y-mcfsb0Y6i6_jHN0Z6VCMLpn-xYdH77N18YSouk",
+        "source": "Meduza"
       }
     ]
   },
   {
-    "title": "боруссия – барселона",
+    "title": "ყაველაშვილი",
     "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 03:00:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_raj4Q1OVXCgrmpTFGqt1MvKqbYdXgaOxn52QnTtBSYmloGtn5DE5Vg-D9J4",
-    "picture_source": "Евро-Футбол.Ру",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ-6ZSvKwH7R8Eygqy3LUD2CFUlrkhCkTBoIwoiMRMFkiBfRGsfdLw0pH9oFs",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "«Барселона» перестреляла «Боруссию» гениальными передачами Ямаля и \nнеожиданным дублем Феррана",
+        "title": "Georgia's crisis deepens as ex-footballer Kavelashvili to be named president",
         "snippet": "",
-        "url": "https://www.euro-football.ru/article/45/1005799214_barselona_perestrelyala_borussiyu_genialnyimi_peredachami_yamalya_i_neojidannyim_dublem_ferrana",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_raj4Q1OVXCgrmpTFGqt1MvKqbYdXgaOxn52QnTtBSYmloGtn5DE5Vg-D9J4",
-        "source": "Евро-Футбол.Ру"
+        "url": "https://www.bbc.com/news/articles/c5ygejxej28o",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ-6ZSvKwH7R8Eygqy3LUD2CFUlrkhCkTBoIwoiMRMFkiBfRGsfdLw0pH9oFs",
+        "source": "BBC"
       },
       {
-        "title": "«Боруссия» — «Барселона»: где смотреть, прямой эфир",
+        "title": "Georgia’s ruling party to appoint far-right loyalist as president",
         "snippet": "",
-        "url": "https://sport24.ru/football/news-708825-borussiya-barselona-gde-smotret-pryamoy-efir",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNjDeL8BGejlVv8emMAuaSmJxS0OqQHj6a-iajaI7k6n9EhIocLubzP1wlCG4",
-        "source": "Sport24.ru"
+        "url": "https://www.theguardian.com/world/2024/dec/14/georgias-ruling-party-to-appoint-far-right-loyalist-as-president",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKA72V-OBfTygWBxDcbuXqatL_H8QjuGRM0kg7q9mnNKvB78rS6-ujPILI2k",
+        "source": "The Guardian"
       },
       {
-        "title": "Барселона обыграла Боруссию в ярком матче. Видео голов и обзор матча",
+        "title": "Mikheil Kavelashvili used to play for Manchester City. Now he’s Georgia’s far-right president-elect - The Athletic",
         "snippet": "",
-        "url": "https://sports24.kz/football/news/barselona-obigrala-borussiyu-v-yarkom-matche-video-golov-i-obzor-matcha/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRh9p4P_W56UFDP1PsfzPmPFl4QYMhN1XFuotLDT0TfiRDGFOmXChOUQ-VeZfM",
-        "source": "sports24.kz"
+        "url": "https://www.nytimes.com/athletic/5974493/2024/12/13/mikheil-kavelashvili-georgia-president-manchester-city/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQurik5pWBoZsAL444Bn_gOIkHrl5OiMuWFPIzl0gLC0H8HfjHOPr4BOq_8N-4",
+        "source": "The New York Times"
       }
     ]
   },
   {
-    "title": "dortmund vs barcelona",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 11:10:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 08:40:00 -0800",
     "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtamj2oWmZ3OiB_YDevuCF94w5g_h7gUJKB_EMS7JB4b7Fm9taC4idA7ETw7s",
-    "picture_source": "BBC",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
+    "picture_source": "5 EYEWITNESS NEWS",
     "news_items": [
       {
-        "title": "Borussia Dortmund 2-3 Barcelona: Ferran Torres double seals Barca points",
+        "title": "Ken says a warming begins today",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c9vkk4j13r9t",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtamj2oWmZ3OiB_YDevuCF94w5g_h7gUJKB_EMS7JB4b7Fm9taC4idA7ETw7s",
-        "source": "BBC"
+        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
+        "source": "5 EYEWITNESS NEWS"
       },
       {
-        "title": "Barcelona’s Shark finally bites as Hansi Flick gets subs spot on in Dortmund",
+        "title": "Warmer temps this weekend and especially for next week",
         "snippet": "",
-        "url": "https://www.barcablaugranes.com/2024/12/12/24319148/barcelonas-shark-finally-bites-as-hansi-flick-gets-subs-spot-on-in-dortmund",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn9AMnMRhDRxENH7gmWWye0mE5OPDahqpifpS4wh2eDEdw5F81yNHyOBrkAvI",
-        "source": "Barca Blaugranes"
+        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
+        "source": "WIS News 10"
       },
       {
-        "title": "Arsenal close in on UCL last 16, City in danger of exit",
+        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
         "snippet": "",
-        "url": "http://www.china.org.cn/sports/2024-12/12/content_117603387.htm",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7P5-pyEBu_dI91wV5BZRgL2i42hn8EGp6De5jNun_zJll9mefUg59du8TjmI",
-        "source": "China.org"
-      }
-    ]
-  },
-  {
-    "title": "facebook",
-    "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 10:10:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
-    "picture_source": "Forbes",
-    "news_items": [
-      {
-        "title": "Facebook And Instagram Outage: Meta Says It’s ‘99% Of The Way’ To Being Fixed",
-        "snippet": "",
-        "url": "https://www.forbes.com/sites/mollybohannon/2024/12/11/facebook-and-instagram-outage-meta-says-its-99-of-the-way-to-being-fixed/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
-        "source": "Forbes"
-      },
-      {
-        "title": "Facebook, Instagram, and Threads are down",
-        "snippet": "",
-        "url": "https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHSidYCb4OK0QFH4RkooPjqarIzYvzCAhxhBykeVnZRl0BYX6QcVsK3mFjpls",
-        "source": "The Verge"
-      },
-      {
-        "title": "Meta's Instagram says services back up after outages",
-        "snippet": "",
-        "url": "https://www.reuters.com/technology/facebook-instagram-down-thousands-users-2024-12-11/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSpb8A2W2_vkzDTO-VVuyWNXV21wz7p6_OUsxe07xvFfwSXzOGn0svvCXiKE",
-        "source": "Reuters"
-      }
-    ]
-  },
-  {
-    "title": "messenger",
-    "link": "https://trends.google.com/trending/rss?geo=GE",
-    "pubdate": "Wed, 11 Dec 2024 10:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCE5XpZILtmnhhMjoUH8-NId49EY-_Uenbub5dIJKJ1kkELDheMR5EmDQerig",
-    "picture_source": "USA Today",
-    "news_items": [
-      {
-        "title": "FBI warns users to encrypt text messages for cybersecurity. Here's how to \ndo it",
-        "snippet": "",
-        "url": "https://www.usatoday.com/story/tech/tips/2024/12/11/how-to-encrypt-text-messages/76923892007/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCE5XpZILtmnhhMjoUH8-NId49EY-_Uenbub5dIJKJ1kkELDheMR5EmDQerig",
-        "source": "USA Today"
-      },
-      {
-        "title": "Senators say US must boost security after Chinese Salt Typhoon telecom \nhacking",
-        "snippet": "",
-        "url": "https://www.reuters.com/technology/cybersecurity/senators-say-us-must-boost-security-after-chinese-salt-typhoon-telecom-hacking-2024-12-11/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQftqbtPd0ejs0W3vQV0g1_jFH80a1dG9OqpOKnD0j5_ELnpnuyVbabM0oH6zQ",
-        "source": "Reuters"
-      },
-      {
-        "title": "U.S. officials urge Americans to use encrypted apps amid cyberattack",
-        "snippet": "",
-        "url": "https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIK0oBGQ_9UYbCb9nhgN4K7iZMISg_S-JaLpLqO1Jc6DfMffZDTrsFTq8klU",
-        "source": "NBC News"
+        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
+        "source": "WLWT"
       }
     ]
   }

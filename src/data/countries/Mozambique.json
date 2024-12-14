@@ -1,311 +1,63 @@
 [
   {
-    "title": "chatgpt",
+    "title": "valencia fc",
     "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 13:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7KZN9TcTjP8VRLixiHggtk2AhWCWFOJtDk8JdX23yStTCQRUtNSWwAqNyq3w",
+    "picture_source": "Sports Mole",
     "news_items": [
       {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "title": "Preview: Real Valladolid vs. Valencia - prediction, team news, lineups",
         "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
+        "url": "https://www.sportsmole.co.uk/football/valencia/preview/preview-valladolid-vs-valencia-prediction-team-news-lineups_560329.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7KZN9TcTjP8VRLixiHggtk2AhWCWFOJtDk8JdX23yStTCQRUtNSWwAqNyq3w",
+        "source": "Sports Mole"
       },
       {
-        "title": "ChatGPT is down: What happened and when will it be back?",
+        "title": "Pepelu: \"We're hurt because we wanted to turn the situation around but nothing goes our way, We must keep fighting\"",
         "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "uefa champions league",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPEsdo8a6KV79SJy2n3u3xC6K3ql5VrVVXx_cOMOPhv2OnVQuR-N5TYDbvlg",
-    "picture_source": "Besoccer",
-    "news_items": [
-      {
-        "title": "Girona v Liverpool - as it happened",
-        "snippet": "",
-        "url": "https://www.besoccer.com/new/live-girona-v-liverpool-1340849",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPEsdo8a6KV79SJy2n3u3xC6K3ql5VrVVXx_cOMOPhv2OnVQuR-N5TYDbvlg",
-        "source": "Besoccer"
-      },
-      {
-        "title": "Alisson 'the best goalkeeper in the world', says Slot",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-nz/football/premier-league/articles/alisson-the-best-goalkeeper-in-the-world-says-slot-2024-12-11",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZjl7jeZMSpZqmA-mENFLMxMzkmsJVcM6P22tKTp3ZGTFCr3fFZrhvPz2nysQ",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "'His team-mates wanted to make sure he was really fit!' - Arne Slot jokes Liverpool's poor performance at Girona was to test returning goalkeeper Alisson",
-        "snippet": "",
-        "url": "https://www.goal.com/en/lists/arne-slot-jokes-liverpool-s-poor-performance-at-girona-was-to-test-returning-goalkeeper-alisson/bltb8f8dcf36ed43672",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxnW4Qgd_AitVW1tZz1FnBboBT-WgEPz_ic4QVhojaAL-oxSVgWrxxYKHxIk",
-        "source": "Goal.com"
-      }
-    ]
-  },
-  {
-    "title": "barcelona hoje",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSae7f5yEJUWy-Ct1DDClomPgvkes5AcWjSRsKvJSxek8AJKXMfSshz_BkjUF0",
-    "picture_source": "TNT Sports",
-    "news_items": [
-      {
-        "title": "Golaço do Barcelona! Yamal dá linda assistência e Ferran Torres bate no canto",
-        "snippet": "",
-        "url": "https://tntsports.com.br/videos/lance_8_gol_5_barcelona_-_16x9-vf20241211mp4.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSae7f5yEJUWy-Ct1DDClomPgvkes5AcWjSRsKvJSxek8AJKXMfSshz_BkjUF0",
-        "source": "TNT Sports"
-      },
-      {
-        "title": "Liga dos Campeões: Barcelona vence em Dortmund antes de jogar com o Benfica",
-        "snippet": "",
-        "url": "https://www.abola.pt/futebol/noticias/liga-dos-campeoes-barcelona-vence-em-dortmund-antes-de-jogar-com-o-benfica-2024121122101492618",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmSKmc0_XHHp7adfyH7qs47CvdHZ26BzY24Xv_wM4luj8dEcRKpXqtH-b_Y4o",
-        "source": "A Bola"
-      },
-      {
-        "title": "Borussia Dortmund x Barcelona: onde assistir e horário do jogo da Champions",
-        "snippet": "",
-        "url": "https://olhardigital.com.br/2024/12/11/internet-e-redes-sociais/borussia-dortmund-x-barcelona-onde-assistir-e-horario-do-jogo-da-champions/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTok9Q9LC6dDuu3JjRkjmUkPlbMJ9TN_KpUZOxe0Myljqt3e1Ts2i9oKQkRtUM",
-        "source": "Olhar Digital"
-      }
-    ]
-  },
-  {
-    "title": "barcelona fc",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThozdbgat3M5ebkH9RODy52lkp_Krg6qV4-XOaB03zGfg2GZ9doUeASGjNxTk",
-    "picture_source": "SPORT",
-    "news_items": [
-      {
-        "title": "La apuesta innegociable volvió a carburar en Dortmund",
-        "snippet": "",
-        "url": "https://www.sport.es/es/noticias/barca/apuesta-innegociable-volvio-carburar-dortmund-112541834",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThozdbgat3M5ebkH9RODy52lkp_Krg6qV4-XOaB03zGfg2GZ9doUeASGjNxTk",
-        "source": "SPORT"
-      },
-      {
-        "title": "El Betis, el primer equipo que no cae en el fuera de juego ante el Barcelona",
-        "snippet": "",
-        "url": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-primer-equipo-cae-juego-ante-barcelona-20241209114233-nts.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJL9WnTL4ds0Q1DZ9Rb_DWp9V2xQkTOOU8sH1w40GpHgAP9MLInyEzJISxzVg",
-        "source": "ABC"
-      },
-      {
-        "title": "Barça: ¿por qué se ha atascado la trampa del fuera de juego?",
-        "snippet": "",
-        "url": "https://es.ara.cat/deportes/fc-barcelona/atascado-trampa-fuera-juego-barca_1_5225837.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyuYsnR28z-p42IhQfsMiu4E7TV1xqkzqBqllvr0tCGHIUcm9-mcvQHcrTSc",
-        "source": "Diari ARA"
-      }
-    ]
-  },
-  {
-    "title": "barça",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 13:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9Lim1yjsBoRRGOy1O4wqF3cehXNa9k-LRev4UVANWTAcAC2fi0bWCQ0w3S0",
-    "picture_source": "Fichajes.net",
-    "news_items": [
-      {
-        "title": "Los 8 laterales que sigue el FC Barcelona para el verano",
-        "snippet": "",
-        "url": "https://www.fichajes.net/noticias/8-laterales-sigue-fc-barcelona-verano-20241212.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9Lim1yjsBoRRGOy1O4wqF3cehXNa9k-LRev4UVANWTAcAC2fi0bWCQ0w3S0",
-        "source": "Fichajes.net"
-      },
-      {
-        "title": "Deco define la estrategia del Barça para el mercado de fichajes de invierno",
-        "snippet": "",
-        "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241211/deco-estrategia-barca-mercado-de-fichajes-invierno/907909238_0.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6GeHww2jYU9X23SzRG6GnVRhnIt3TmRZoOvdpA_vKpvygoyzuQzxXKXgAgC0",
-        "source": "Crónica Global"
-      },
-      {
-        "title": "Joan Laporta pone en marcha 2 fichajes inminentes en el Barça",
-        "snippet": "",
-        "url": "https://www.elnacional.cat/es/deportes/joan-laporta-pone-en-marcha-2-fichajes-inminentes-en-barca_1329473_102.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZdl9siCGRIQF7YJL7lCpPf7Uk4beJ9ZN8H6T6vnDvf6D0_IJjL_AAmQdcxU8",
-        "source": "El Nacional.cat"
-      }
-    ]
-  },
-  {
-    "title": "man city",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Champions League: Man City and Guardiola under 'real pressure'",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/cly256g64dwo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
-        "source": "BBC"
-      },
-      {
-        "title": "Juventus Manager Heaps Praise on Star Midfielder After Huge Man City Win",
-        "snippet": "",
-        "url": "https://cultofcalcio.com/juventus-boss-thiago-motta-praises-teun-koopmeiners-after-man-city-win/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwlRe4mdhx-HXIJsP5IDsLPfNLdtMmEpp-AFHum1k5X5lAvWuPJXFJfpBXuWk",
-        "source": "The Cult of Calcio"
-      },
-      {
-        "title": "“Do better” – Ruben Dias simplifies crucial demands of Manchester City teammates after Juventus defeat",
-        "snippet": "",
-        "url": "https://onefootball.com/id/berita/do-better-ruben-dias-simplifies-crucial-demands-of-manchester-city-teammates-after-juventus-defeat-40429055",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjI7_RVSL8NERzr6-Gwto6zdNHooMP6C43vXNLr0ex34xztASsRxO619d4qMk",
+        "url": "https://onefootball.com/en/news/pepelu-were-hurt-because-we-wanted-to-turn-the-situation-around-but-nothing-goes-our-way-we-must-keep-fighting-40436851",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRaezfixXPSO_lxlTR4vbGt66B9T_-it_AHeB6nW95XuGaz-f1azBbLr_MiKs",
         "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "arsenal",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNe7Ou1k-b8nPuSJdMCiv5i9JKZdhbiuVt0cbjinla2rQRY2IFnSmnHMuktcY",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Bukayo Saka, Arsenal & Champions League: 'He is an incredible person'",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/cx2v8m5r87xo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNe7Ou1k-b8nPuSJdMCiv5i9JKZdhbiuVt0cbjinla2rQRY2IFnSmnHMuktcY",
-        "source": "BBC"
       },
       {
-        "title": "Saka brace sinks Monaco as Arsenal eye Champions League last 16",
+        "title": "Anuar, Key to Valladolid's Victory Over Valencia",
         "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/saka-brace-sinks-monaco-as-arsenal-eye-champions-league-last-16-2024-12-11",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4jNeTcUSynNgsX2ua9wih92SqRdLlvULhWCA6XKm94WihPXyFrHeDHgAI5Eg",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "24 touches, 9 passes, 4/11 duels won: Mikel Arteta must now drop 5/10 Arsenal star for Everton clash – opinion",
-        "snippet": "",
-        "url": "https://onefootball.com/fr/news/24-touches-9-passes-411-duels-won-mikel-arteta-must-now-drop-510-arsenal-star-for-everton-clash-opinion-40428360",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TLVCd1cfx0iiZMvFcEcv2FE5oIoHQ25WM_7sQ3z3yteWaHkGXwoZgsGC_g4",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "benfica",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSV-WyXiu_X5yEspp3j_btQQQidd9bqBsyTw-zrxSFSx2rg2ZR6HHOFZ0-LE",
-    "picture_source": "A Bola",
-    "news_items": [
-      {
-        "title": "A reação de Di María ao empate do Benfica",
-        "snippet": "",
-        "url": "https://www.abola.pt/futebol/noticias/a-reacao-de-di-maria-ao-empate-do-benfica-2024121210471213826",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSV-WyXiu_X5yEspp3j_btQQQidd9bqBsyTw-zrxSFSx2rg2ZR6HHOFZ0-LE",
-        "source": "A Bola"
-      },
-      {
-        "title": "Bologna FC",
-        "snippet": "",
-        "url": "https://www.slbenfica.pt/pt-pt/futebol/match-center/benfica-bologna-11-dezembro-2024",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgufFqgwrLgaEiY6fqiJLif7LoXkKAEWEzVm7Dmon9ePeqtEqzTR58gBA_g4",
-        "source": "Sport Lisboa e Benfica"
-      },
-      {
-        "title": "O Jogo: «Bolonhesa sem sal»",
-        "snippet": "",
-        "url": "https://www.futebol365.pt/artigo/311334-o-jogo-bolonhesa-sem-sal/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy9N9466T2BiNg1VozWJ4ZGbmZmVcPQszjrDdhgQWE2mLF3FNjTtkHx58ncmc",
-        "source": "Futebol 365"
-      }
-    ]
-  },
-  {
-    "title": "city",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnG6m1XnrSS9sC0hp1bY76szyUTi3VTnYGuGtkz5cgQ5fmgVbnyg9ExXWiXno",
-    "picture_source": "The Economist",
-    "news_items": [
-      {
-        "title": "How to clean up India’s filthy cities",
-        "snippet": "",
-        "url": "https://www.economist.com/asia/2024/12/12/how-to-clean-up-indias-filthy-cities",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnG6m1XnrSS9sC0hp1bY76szyUTi3VTnYGuGtkz5cgQ5fmgVbnyg9ExXWiXno",
-        "source": "The Economist"
-      },
-      {
-        "title": "Ukraine War Map Reveals Russians Within Striking Distance of Critical City",
-        "snippet": "",
-        "url": "https://www.newsweek.com/ukraine-war-map-reveals-russians-within-striking-distance-critical-city-1999600",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPkstM41EXZhnWtdr5tL_rKY5I-ZX9WuZ-ba3LGThVc_oPojpLkbUcIVYyazM",
-        "source": "Newsweek"
-      },
-      {
-        "title": "Russia Closes In On Key Ukrainian City Amid Surge In Peace Diplomacy",
-        "snippet": "",
-        "url": "https://www.rferl.org/a/russia-gains-ground-near-pokrovsk-amid-diplomacy-surge-toward-peace-talks-/33237342.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwaFLViIZx-LllqlRU7jxfrKOxT8vxWgWqCYfZW7TKcxrYoBhYHfLeijZRD0E",
-        "source": "Radio Free Europe/Radio Liberty"
-      }
-    ]
-  },
-  {
-    "title": "ac milan",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s55At3NQ6PlrTCSCvknJGoUh5jPW-Z2GSoM5ZgCMXpQzt_sMsXlOTiussmE",
-    "picture_source": "FootBoom",
-    "news_items": [
-      {
-        "title": "Morata Takes the Helm as Milan Clash with Red Star in Champions League Showdown",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2170921-morata-takes-the-helm-as-milan-clash-with-red-star-in-champions-league-showdown",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s55At3NQ6PlrTCSCvknJGoUh5jPW-Z2GSoM5ZgCMXpQzt_sMsXlOTiussmE",
+        "url": "https://www.footboom1.com/en/news/football/2179196-anuar-key-to-valladolid-s-victory-over-valencia",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0iIUP0Nqakf4QqDffR89OtwwQs2PfP45HcCs6NDcDevLVatgkrulWdTbRU8",
         "source": "FootBoom"
+      }
+    ]
+  },
+  {
+    "title": "ciclone chido em moçambique",
+    "link": "https://trends.google.com/trending/rss?geo=MZ",
+    "pubdate": "Fri, 13 Dec 2024 09:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD9zLly8WkrLVwC_o7gvjsSiLC2CZTHtiRfqsI7gEaoPtm-lYjmT6-ra9BPak",
+    "picture_source": "Rádio Moçambique",
+    "news_items": [
+      {
+        "title": "Ciclone tropical CHIDO poderá afectar Cabo Delgado e Nampula",
+        "snippet": "",
+        "url": "https://www.rm.co.mz/ciclone-tropical-chido-podera-afectar-cabo-delgado-e-nampula/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD9zLly8WkrLVwC_o7gvjsSiLC2CZTHtiRfqsI7gEaoPtm-lYjmT6-ra9BPak",
+        "source": "Rádio Moçambique"
       },
       {
-        "title": "Liao: We were not mentally focused, and complex matches awaited us",
+        "title": "Ciclone tropical intenso \"Chido\" avança para Moçambique com impacto previsto nas próximas 72 horas",
         "snippet": "",
-        "url": "https://www.ysscores.com/en/news/8673794/Liao:-We-were-not-mentally-focused,-and-complex-matches-awaited-us",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkNTc3QlKwUctqFVFJPonV8I6Ue4ULLMhPp0EJAmEPyhb_YQd_hCd5avCPN4",
-        "source": "www.ysscores.com"
+        "url": "https://integritymagazine.co.mz/arquivos/35765",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YTyZCVRt-ad1FrNNfdpAx1MdkIUzfJHUIAwF_F5Ehbnscxhf3NI6hVHckHU",
+        "source": "Integrity Magazine"
       },
       {
-        "title": "Fonseca after win vs Red Star Belgrade: “I am not satisfied with the team’s performance”",
+        "title": "Ciclone Chido já é “intenso” e vai afectar norte do país no domingo - O País - A verdade como notícia",
         "snippet": "",
-        "url": "https://milanreports.com/2024/12/11/fonseca-not-satisfied-vs-red-star/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5QdLRCir6Db97ok1y0v_ogIiGC1VrPrZelHvIEFd3mbsQRhCAiLIiNVZsLr4",
-        "source": "Milanreports.com"
+        "url": "https://opais.co.mz/ciclone-chido-ja-e-intenso-e-vai-afectar-norte-do-pais-no-domingo/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyUTHkfZAIHpiL63CUohONA2e4dnJuE7fDftflPZ6LkWcJDoau5k5e9w0Bej8",
+        "source": "O País"
       }
     ]
   }

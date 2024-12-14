@@ -1,311 +1,289 @@
 [
   {
-    "title": "gemini",
+    "title": "arsenal vs everton",
     "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 16:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-    "picture_source": "Google Blog",
-    "news_items": [
-      {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
-        "snippet": "",
-        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-        "source": "Google Blog"
-      },
-      {
-        "title": "A former Google designer reveals what goes into building its AI models like \nGemini",
-        "snippet": "",
-        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
-        "source": "Business Insider"
-      },
-      {
-        "title": "Alphabet Stock Hits a Record High on New AI Models",
-        "snippet": "",
-        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
-        "source": "Barron's"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "يوفنتوس ضد مان سيتي",
-    "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 13:10:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXMiXB9uj1u4pgUtJ_Iwv51Qe3majTv6KFLknf830QxBmBPuWit5zKjUmVr4",
-    "picture_source": "beIN SPORTS",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
+    "picture_source": "Arsenal.com",
     "news_items": [
       {
-        "title": "يوفنتوس يتخطى مانشستر سيتي بجدارة",
+        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
         "snippet": "",
-        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3-%D9%8A%D8%AA%D8%AE%D8%B7%D9%89-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A-%D8%A8%D8%AC%D8%AF%D8%A7%D8%B1%D8%A9-2024-12-11",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXMiXB9uj1u4pgUtJ_Iwv51Qe3majTv6KFLknf830QxBmBPuWit5zKjUmVr4",
-        "source": "beIN SPORTS"
+        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
+        "source": "Arsenal.com"
       },
       {
-        "title": "صراع مصيري بين السيتي واليوفي",
+        "title": "Liverpool vs Fulham LIVE: Premier League team news, line-ups and more",
         "snippet": "",
-        "url": "https://www.raya.com/2024/12/11/%D8%B5%D8%B1%D8%A7%D8%B9-%D9%85%D8%B5%D9%8A%D8%B1%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%AA%D9%8A-%D9%88%D8%A7%D9%84%D9%8A%D9%88%D9%81%D9%8A/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnFtGQ_ASBJf27tIgfV7JbaKVfDV8R9G5bl5ixNxAfK-_O--IxQiPgbSswouA",
-        "source": "جريدة الراية"
+        "url": "https://sports.yahoo.com/liverpool-vs-fulham-live-premier-130024902.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzU2E14EGckBt0ic527jchCx0JekCwkEvir9rpx53DSS4htwFJrh0HfhQtldk",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "عين على هالاند في مباراة مانشستر سيتي ويوفنتوس",
+        "title": "🚨 Gabriel back! Arsenal and Everton name starting XIs for Emirates clash",
         "snippet": "",
-        "url": "https://news.kol7asry.com/uncategorized/97751/%D8%B9%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D9%87%D8%A7%D9%84%D8%A7%D9%86%D8%AF-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A-%D9%88%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qwDqREu_6nGQjfbRL9MdnOURYYbsq4led9Rp9pFSGTK_r-g2tIaF2r3fa1Y",
-        "source": "بوابة كل حصري"
-      }
-    ]
-  },
-  {
-    "title": "uefa champions league standings",
-    "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 13:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQzi92W20auXoSrnhjjraGhJFIDCNseMw4ITRaK8Cv2G_tny0cJYft7WC1a18",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Champions League: How well do you remember goalscorers so far?",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/czengd02y32o",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQzi92W20auXoSrnhjjraGhJFIDCNseMw4ITRaK8Cv2G_tny0cJYft7WC1a18",
-        "source": "BBC"
-      },
-      {
-        "title": "UCL: Leading top scorers after this week’s matches",
-        "snippet": "",
-        "url": "https://dailypost.ng/?p=1149480",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ0W2gIBR2eryejTuuwIPM7ZEFdbB_gG0nC5I1A8nRqzkrLQc-cVurvrJVv0Y",
-        "source": "Daily Post Nigeria"
-      },
-      {
-        "title": "Quiz! Can you name the players who have scored in the most consecutive \nChampions League seasons?",
-        "snippet": "",
-        "url": "https://www.fourfourtwo.com/news/football-quiz-can-you-name-the-players-who-have-scored-in-the-most-consecutive-champions-league-seasons",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA5-ye6fP5yf5oV36kNCFAmlZKWbRtyyaHIblr2CLh8RIUP48seOmd9UdC4Xs",
-        "source": "FourFourTwo"
-      }
-    ]
-  },
-  {
-    "title": "uefa champions league",
-    "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7ptbSKjQ-_mR1gMvLxSK0fsbK25PURQsO3JTYYocKe01-uaVD4vKVLJBf2QY",
-    "picture_source": "Gulf Times",
-    "news_items": [
-      {
-        "title": "Griezmann brace extends Atletico winning streak| Gulf Times",
-        "snippet": "",
-        "url": "https://www.gulf-times.com/article/696475/sports/griezmann-brace-extends-atletico-winning-streak",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7ptbSKjQ-_mR1gMvLxSK0fsbK25PURQsO3JTYYocKe01-uaVD4vKVLJBf2QY",
-        "source": "Gulf Times"
-      },
-      {
-        "title": "Atletico Madrid 3-1 Slovan Bratislava: Julian Alvarez scores stunner",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cj0rr31ed2pt",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJBr7CJcUaZb_IRQs2T64UTb5lWdB4K95j69SjLtqZrZ6q9UrFN9_tT9GhmTM",
-        "source": "BBC"
-      },
-      {
-        "title": "Simeone: \"We Compete in Our League Against the Two Best in Europe\"",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2168787-simeone-we-compete-in-our-league-against-the-two-best-in-europe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS__fEdUDI0krRaFEO07lfpCvigQkLBVKIx1WMUFuwi0i9Rgyd_xa8Cpy_Od5Q",
-        "source": "FootBoom"
-      }
-    ]
-  },
-  {
-    "title": "champions league",
-    "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYn3aYrSW3uazULVpOCA9s6BlA4NxB4dBNzxJHcofoNQ9nykrqGuLYEHUH41Y",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Benfica 0-0 Bologna: 10 bookings but no goals in fiery tie",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c99xx873lrvt",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYn3aYrSW3uazULVpOCA9s6BlA4NxB4dBNzxJHcofoNQ9nykrqGuLYEHUH41Y",
-        "source": "BBC"
-      },
-      {
-        "title": "UEFA Champions League free live stream: Benfica vs. Bologna",
-        "snippet": "",
-        "url": "https://www.masslive.com/tv/2024/12/uefa-champions-league-free-live-stream-benfica-vs-bologna.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiiIZ_WaSxcbXFaUqIwgyMBJB8EAIrcyFvDNIEf1IczB74QBTsXUH5GJ2Ldd0",
-        "source": "MassLive.com"
-      },
-      {
-        "title": "Bologna Manager Hails Team Growth Despite Another Scoring Blank",
-        "snippet": "",
-        "url": "https://cultofcalcio.com/bologna-manager-hails-team-growth-despite-another-scoring-blank/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX9KffJjIz6OBWMjTWvUoE57W05OH_XLfPkOhZdC-WPjUZduAFYepMaa1V_Tw",
-        "source": "The Cult of Calcio"
-      }
-    ]
-  },
-  {
-    "title": "fc barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThozdbgat3M5ebkH9RODy52lkp_Krg6qV4-XOaB03zGfg2GZ9doUeASGjNxTk",
-    "picture_source": "SPORT",
-    "news_items": [
-      {
-        "title": "La apuesta innegociable volvió a carburar en Dortmund",
-        "snippet": "",
-        "url": "https://www.sport.es/es/noticias/barca/apuesta-innegociable-volvio-carburar-dortmund-112541834",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThozdbgat3M5ebkH9RODy52lkp_Krg6qV4-XOaB03zGfg2GZ9doUeASGjNxTk",
-        "source": "SPORT"
-      },
-      {
-        "title": "El Betis, el primer equipo que no cae en el fuera de juego ante el Barcelona",
-        "snippet": "",
-        "url": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-primer-equipo-cae-juego-ante-barcelona-20241209114233-nts.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJL9WnTL4ds0Q1DZ9Rb_DWp9V2xQkTOOU8sH1w40GpHgAP9MLInyEzJISxzVg",
-        "source": "ABC"
-      },
-      {
-        "title": "Barça: ¿por qué se ha atascado la trampa del fuera de juego?",
-        "snippet": "",
-        "url": "https://es.ara.cat/deportes/fc-barcelona/atascado-trampa-fuera-juego-barca_1_5225837.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyuYsnR28z-p42IhQfsMiu4E7TV1xqkzqBqllvr0tCGHIUcm9-mcvQHcrTSc",
-        "source": "Diari ARA"
-      }
-    ]
-  },
-  {
-    "title": "barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 12:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYM4XkCnJaabA835JHa9nOimBy_tMU0CvAHWlwp9GVCNWh0-vzeg2qyMZrcyg",
-    "picture_source": "Marca.com",
-    "news_items": [
-      {
-        "title": "La Champions es el nuevo jardín del Barcelona",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/barcelona/2024/12/11/champions-nuevo-jardin-barcelona.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYM4XkCnJaabA835JHa9nOimBy_tMU0CvAHWlwp9GVCNWh0-vzeg2qyMZrcyg",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Flick: «El objetivo es ser primeros»",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/flick-el-objetivo-es-ser-primeros-40427746",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
+        "url": "https://onefootball.com/en/news/gabriel-back-arsenal-and-everton-name-starting-xis-for-emirates-clash-40438496",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHM4D2GIDwZ85EACSHauqUzPMsPAgEaLzzHKfLs6zQdb_50P7vPTgnK5jwHvA",
         "source": "OneFootball"
-      },
-      {
-        "title": "Portada de FCBN 12/12/2024: EL REGRESO DEL ¡TIBURÓN!",
-        "snippet": "",
-        "url": "https://www.fcbarcelonanoticias.com/portadas-futbol/portada-fcbn-12-12-2024-dortmund-2-3-fc-barcelona-champions-24-25_309246_102.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOga5OfcUAFzNNJlp904nQwOck2o7zPCm5vhZT1e8ySaJlpBu7S7RRE_OPbFM",
-        "source": "FCBN"
       }
     ]
   },
   {
-    "title": "دورتموند ضد برشلونة",
+    "title": "mohun bagan vs kerala blasters",
     "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffTEi9PdPI-4q95RBUBAxes-i9n-NBlPjWX122d8P4jprQkPt7B2o3fncYjg",
-    "picture_source": "هاي كورة",
+    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm3hdfs-_8S1x9dnim38vEQavnb-s0FMMgKy9cSD8t7eTHsmznB3K-GjZObCY",
+    "picture_source": "Daijiworld",
     "news_items": [
       {
-        "title": "ترتيب دوري أبطال أوروبا بعد فوز برشلونة على بروسيا دورتموند",
+        "title": "ISL 2024-25: Table-toppers Mohun Bagan look to capitalise on struggling Kerala Blasters",
         "snippet": "",
-        "url": "https://hihi2.com/2024/12/12/p2977330.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffTEi9PdPI-4q95RBUBAxes-i9n-NBlPjWX122d8P4jprQkPt7B2o3fncYjg",
-        "source": "هاي كورة"
+        "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1253167",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm3hdfs-_8S1x9dnim38vEQavnb-s0FMMgKy9cSD8t7eTHsmznB3K-GjZObCY",
+        "source": "Daijiworld"
       },
       {
-        "title": "برشلونة يعود بالنقاط من أرض دورتموند",
+        "title": "Jose Molina highlights on potential striker rotation and Vishal Kaith's importance ahead of Kerala Blasters clash",
         "snippet": "",
-        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A8%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B7-%D9%85%D9%86-%D8%A3%D8%B1%D8%B6-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF-2024-12-11",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf0XwLtg1B2CYsArTdRmo1Ra2X9GKts-SH5JGIvHJHmsVH9x9Ys5N5jyi9Kzw",
-        "source": "beIN SPORTS"
+        "url": "https://khelnow.com/football/indian-football-isl-jose-molina-pre-pc-202412-2",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUlKD4Z4Vhfdgzev5KySN9ARPvBC4cDIf26ol4jfnX9OFcF4Ppq6RkTZKeLDQ",
+        "source": "Khel Now"
       },
       {
-        "title": "مدرب دورتموند: اللاعبون تحت ضغط لا يحتمل بسبب جدول المباريات المزدحم",
+        "title": "Preview: Formidable Mohun Bagan SG welcome determined Kerala Blasters FC",
         "snippet": "",
-        "url": "https://www.raya.com/2024/12/11/%D9%85%D8%AF%D8%B1%D8%A8-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF-%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%88%D9%86-%D8%AA%D8%AD%D8%AA-%D8%B6%D8%BA%D8%B7-%D9%84%D8%A7-%D9%8A%D8%AD%D8%AA%D9%85/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW96jbgytu5L817LvDvhrKjgArIrZ6moQ6BgF91MKTwFZmee1ss4NdeqHGdHc",
-        "source": "جريدة الراية"
+        "url": "https://www.indiansuperleague.com/news/preview-formidable-mohun-bagan-sg-welcome-determined-kerala-blasters-fc",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCEk4L9yAuZkNqkZaXz5zBOAlgXMLffBtnmPD6GRzEEZ5tnJaQpZaR4qHsX6E",
+        "source": "Indian Super League | Official Website"
       }
     ]
   },
   {
-    "title": "dortmund vs barcelona",
+    "title": "zimbabwe vs afghanistan",
     "link": "https://trends.google.com/trending/rss?geo=QA",
-    "pubdate": "Wed, 11 Dec 2024 11:00:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 03:10:00 -0800",
     "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREaxE28xLVS4uH34A2TYLEdeBZobMW2xCujNhvmaTIXlwAzGn_Qlq11nkg_rc",
-    "picture_source": "Forbes",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhUWVMhOQ8D___AeWNNiVl5GSty-wrXSgV7-NrdfDNyUPXg4Gbaka30UyJs7E",
+    "picture_source": "Cricbuzz.com",
     "news_items": [
       {
-        "title": "FC Barcelona Prodigy Lamine Yamal Makes Doping Test Confession After \nDortmund Masterclass",
+        "title": "Zimbabwe vs Afghanistan, 2nd T20I",
         "snippet": "",
-        "url": "https://www.forbes.com/sites/tomsanderson/2024/12/12/fc-barcelona-prodigy-lamine-yamal-makes-doping-test-confession-after-dortmund-masterclass/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREaxE28xLVS4uH34A2TYLEdeBZobMW2xCujNhvmaTIXlwAzGn_Qlq11nkg_rc",
-        "source": "Forbes"
+        "url": "https://www.cricbuzz.com/live-cricket-scores/109327/afg-vs-zim-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhUWVMhOQ8D___AeWNNiVl5GSty-wrXSgV7-NrdfDNyUPXg4Gbaka30UyJs7E",
+        "source": "Cricbuzz.com"
       },
       {
-        "title": "Three talking points from Borussia Dortmund 2-3 Barcelona",
+        "title": "Convincing Afghanistan win levels Zimbabwe T20 series",
         "snippet": "",
-        "url": "https://www.barcablaugranes.com/2024/12/12/24319445/three-talking-points-from-borussia-dortmund-2-3-barcelona",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTePj1PvUBhV1-0JnJLY6pQvSnpzp6-N7ByMeNMORzwKLaVDo6v0uWiNR8YP6A",
-        "source": "Barca Blaugranes"
+        "url": "https://www.hindustantimes.com/cricket/convincing-afghanistan-win-levels-zimbabwe-t20-series-101734107373499.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1_9n3mbJR7WoRvrUwma40i8u5vFQVkgNRd9BiKo9X-5M-vx3X0wxglmYNm4",
+        "source": "Hindustan Times"
       },
       {
-        "title": "Ferran Torres, the ‘shark’ who has made peace with his role as a supporting \nact at Barcelona",
+        "title": "Zimbabwe vs Afghanistan Dream11 prediction - get fantasy tips, pitch report for 2nd T20I, 2024",
         "snippet": "",
-        "url": "https://www.nytimes.com/athletic/5988928/2024/12/12/ferran-torres-barcelona-dortmund/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBABeB3_UDNM4g0XVF4FY8VdlIphkkNiNXH4342IHQ_oS_a_RwyHZl0t7oWKw",
-        "source": "The New York Times"
+        "url": "https://www.sportsadda.com/cricket/news/zim-vs-afg-cricket-fantasy-dream11-prediction-zimbabwe-vs-afghanistan-2024-2nd-t20i",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5Jz8rp7b8aG-2E84vexW1Ea44r7251bQEY8kuKP0x1EZVTadcF_AyAqGMksU",
+        "source": "SportsAdda"
+      }
+    ]
+  },
+  {
+    "title": "fifa intercontinental cup 2024",
+    "link": "https://trends.google.com/trending/rss?geo=QA",
+    "pubdate": "Sat, 14 Dec 2024 00:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuxSgAA3zuduIXlCd62ri6PLzeT-bnjdMGEpK6U2Jj5EIBrfsIqhJgywaJiT4",
+    "picture_source": "The Peninsula Qatar",
+    "news_items": [
+      {
+        "title": "More tickets released for FIFA Intercontinental Cup matches in Qatar",
+        "snippet": "",
+        "url": "https://thepeninsulaqatar.com/article/12/12/2024/more-tickets-released-for-fifa-intercontinental-cup-matches-in-qatar-1",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuxSgAA3zuduIXlCd62ri6PLzeT-bnjdMGEpK6U2Jj5EIBrfsIqhJgywaJiT4",
+        "source": "The Peninsula Qatar"
+      },
+      {
+        "title": "FIFA Intercontinental Cup Qatar 2024: Teams, match schedule, Mbappe news",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/sports/2024/12/10/fifa-intercontinental-cup-2024-in-qatar-teams-schedule-tickets-stadiums",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2r7diBKBrdXwogbNDW4M9FWAULfl3PFz8PzbKCATthaaYBwIgZYVBalGFnUE",
+        "source": "Al Jazeera"
+      },
+      {
+        "title": "FIFA Intercontinental Cup Qatar 2024 trophies on display| Gulf Times",
+        "snippet": "",
+        "url": "https://www.gulf-times.com/article/696536/qatar/fifa-intercontinental-cup-qatar-2024-trophies-on-display",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqeUl6Lr8ef70D3J54L2b_zGELRUnI81jQNuHAM1-uzNl0Ri8QWd4WSxBoRGY",
+        "source": "Gulf Times"
+      }
+    ]
+  },
+  {
+    "title": "bahrain vs kuwait",
+    "link": "https://trends.google.com/trending/rss?geo=QA",
+    "pubdate": "Fri, 13 Dec 2024 22:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-QJ2tkPmTukswOUn9C4qIM_ZtW_4maAwyJXIDk43cRPFUijcVQRYvvW5aqco",
+    "picture_source": "FootBoom",
+    "news_items": [
+      {
+        "title": "Qatar Takes on Oman in a Thrilling Match 4 of Gulf Cup T20I 2024",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/cricket/2178609-qatar-takes-on-oman-in-a-thrilling-match-4-of-gulf-cup-t20i-2024",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-QJ2tkPmTukswOUn9C4qIM_ZtW_4maAwyJXIDk43cRPFUijcVQRYvvW5aqco",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Cricket: UAE ease to eight-wicket victory in opener",
+        "snippet": "",
+        "url": "https://www.gdnonline.com/Details/1339486/UAE-ease-to-eight-wicket-victory-in-opener",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIrGPCim9zgsc8E1MF4QBaNdf0mR0pw5nl_9FnOJ0tx-6_P_T4iFc89ivG6JQ",
+        "source": "GDNOnline"
+      },
+      {
+        "title": "Kuwait vs Bahrain, 3rd Match",
+        "snippet": "",
+        "url": "https://www.cricbuzz.com/live-cricket-scores/112241/bhr-vs-kuw-3rd-match-gulf-cricket-t20i-championship",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsw_rlXOrOLoF7IKHrpaESgSVZ30xvWTud5XkAvSUVVnn04YNqURLX9gcJTFI",
+        "source": "Cricbuzz.com"
+      }
+    ]
+  },
+  {
+    "title": "cricket",
+    "link": "https://trends.google.com/trending/rss?geo=QA",
+    "pubdate": "Fri, 13 Dec 2024 19:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-1bgVl-VubMCOkxWJBtRN-GcBmS4qyUTeAhz6XtQXM3KUhkAb2u9qUKK3kjs",
+    "picture_source": "Cricbuzz.com",
+    "news_items": [
+      {
+        "title": "Imad Wasim, Mohammad Amir retire from international cricket",
+        "snippet": "",
+        "url": "https://www.cricbuzz.com/cricket-news/132739/imad-wasim-mohammad-amir-retire-from-international-cricket",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-1bgVl-VubMCOkxWJBtRN-GcBmS4qyUTeAhz6XtQXM3KUhkAb2u9qUKK3kjs",
+        "source": "Cricbuzz.com"
+      },
+      {
+        "title": "Mohammad Amir and Imad Wasim go back to international retirement",
+        "snippet": "",
+        "url": "https://www.espncricinfo.com/story/pakistan-news-mohammad-amir-and-imad-wasim-go-back-to-international-retirement-1464981",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSlvh1SEbeWW1enyD-HCkg4FFaX4ymNIfag6o9P0DQl5cRPJU1COEeNzFhrZs",
+        "source": "ESPNcricinfo"
+      },
+      {
+        "title": "Jasprit Bumrah vs. Mohammad Amir: Net worth comparison; who is richer?",
+        "snippet": "",
+        "url": "https://www.india.com/sports/jasprit-bumrah-vs-mohammad-amir-net-worth-comparison-who-is-richer-7465635/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj3iJIR7wJ7E2P_ZEtVstXHG-TmK6QeCILGlS_h6g_XSZWDJNsoeqPOKJ5W9U",
+        "source": "India.Com"
+      }
+    ]
+  },
+  {
+    "title": "new zealand vs england",
+    "link": "https://trends.google.com/trending/rss?geo=QA",
+    "pubdate": "Fri, 13 Dec 2024 17:20:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "New Zealand vs England: Matthew Potts and Gus Atkinson lead tourists in Hamilton",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/cricket/articles/cx27x3w8ypno",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
+        "source": "BBC"
+      },
+      {
+        "title": "Tom Latham, Mitchell Santner fifties prop up New Zealand",
+        "snippet": "",
+        "url": "https://www.espncricinfo.com/series/england-in-new-zealand-2024-25-1428550/new-zealand-vs-england-3rd-test-1428556/match-report",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn6i6FgbqC3_28xK6RN6o3qVoKY1m0EUbbiKmUgCnSe0vYJfuE7zicDXrbxUc",
+        "source": "ESPNcricinfo"
+      },
+      {
+        "title": "Matthew Potts sparks England charge before New Zealand offer late fireworks",
+        "snippet": "",
+        "url": "https://www.theguardian.com/sport/2024/dec/14/new-zealand-england-third-test-day-one-match-report-matthew-potts-seddon-park",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIDZG6B65VwjvFhKOx8aQgMYZZ6SluonXbvv9g6-4k65HA7sZdX7xdnqW9J5Y",
+        "source": "The Guardian"
+      }
+    ]
+  },
+  {
+    "title": "australia vs india",
+    "link": "https://trends.google.com/trending/rss?geo=QA",
+    "pubdate": "Fri, 13 Dec 2024 16:00:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "صدام حسين",
+    "link": "https://trends.google.com/trending/rss?geo=QA",
+    "pubdate": "Fri, 13 Dec 2024 12:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSygw06ZRsbiLz-AmZxMvYIVNFySTNKyLCn00iizPh7hxJhzZiEenMQVjwJuXU",
+    "picture_source": "اليوم السابع",
+    "news_items": [
+      {
+        "title": "العثور على صدام حسين فى سجن صيدنايا.. الشائعات تواصل الانتشار فى سوريا",
+        "snippet": "",
+        "url": "https://www.youm7.com/story/2024/12/13/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D8%B3%D9%8A%D9%86-%D9%81%D9%89-%D8%B3%D8%AC%D9%86-%D8%B5%D9%8A%D8%AF%D9%86%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A7%D8%AA-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1/6810527",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSygw06ZRsbiLz-AmZxMvYIVNFySTNKyLCn00iizPh7hxJhzZiEenMQVjwJuXU",
+        "source": "اليوم السابع"
+      },
+      {
+        "title": "هل صدام حسين عايش ؟ وحقيقة وجودة في سجن صيدنايا - إقرأ نيوز",
+        "snippet": "",
+        "url": "https://iq.iqraa.news/973576/%D9%87%D9%84-%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D8%B3%D9%8A%D9%86-%D8%B9%D8%A7%D9%8A%D8%B4-%D8%9F-%D9%88%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%88%D8%AC%D9%88%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B3%D8%AC%D9%86/",
+        "picture": "",
+        "source": "إقرأ نيوز"
+      },
+      {
+        "title": "صدام حسين في سجن صيدنايا.. خفايا الصورة التي أثارت الجدل على مواقع التواصل",
+        "snippet": "",
+        "url": "https://alhorianews.com/%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D8%B3%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%AC%D9%86-%D8%B5%D8%AF%D9%86%D8%A7%D9%8A%D8%A7-%D8%AE%D9%81%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO17hAOHJb-l6YKcOH05NRQj7lrhYCADOS9DQqMi-G6GR_MLmlolmIOa3-t1c",
+        "source": "موقع الحرية"
+      }
+    ]
+  },
+  {
+    "title": "rassie van der dussen",
+    "link": "https://trends.google.com/trending/rss?geo=QA",
+    "pubdate": "Fri, 13 Dec 2024 11:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiEji6ME1exL70Xtd8sRvjaXELvfJXDGe4RcwNxYnCSAWM8EAQ8KsxxYEorko",
+    "picture_source": "cricket.one",
+    "news_items": [
+      {
+        "title": "Rizwan Falls To A Brilliant Catch By RVD In Second T20I vs SA",
+        "snippet": "",
+        "url": "https://cricket.one/match-hub/watch-rizwan-falls-cheaply-as-van-der-dussen-pulls-off-a-stunner-at-the-boundary/675c64ddb74d6dd9218acbca",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiEji6ME1exL70Xtd8sRvjaXELvfJXDGe4RcwNxYnCSAWM8EAQ8KsxxYEorko",
+        "source": "cricket.one"
+      },
+      {
+        "title": "Watch: Rizwan Outclassed By Baartman's Brilliant Delivery",
+        "snippet": "",
+        "url": "https://cricket.one/match-hub/watch-rizwan-loses-his-balance-as-baartman-outclasses-him-with-a-brilliant-delivery-in-2nd-t20i/675c6428b74d6dd9218a4d1c",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAx-ulu_oFeznUr1MWgM_Ayx_Pe07T-eJtARpVuxhX8GIsBlB2Z0RdyGfjvE8",
+        "source": "cricket.one"
+      },
+      {
+        "title": "Hendricks' maiden T20I ton hands SA first series win since August 2022",
+        "snippet": "",
+        "url": "https://www.espncricinfo.com/series/south-africa-vs-pakistan-2024-25-1432205/south-africa-vs-pakistan-2nd-t20i-1432212/match-report",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCil_ImF3DbYxVoJ1OIN7LpcnKPEhN7nVIuYeVNnqYGYwXrvYslyLZpo3m7Q",
+        "source": "ESPNcricinfo"
       }
     ]
   }

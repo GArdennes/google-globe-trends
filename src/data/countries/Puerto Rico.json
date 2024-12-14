@@ -1,311 +1,134 @@
 [
   {
-    "title": "benny blanco",
+    "title": "primera hora",
     "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Thu, 12 Dec 2024 03:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
-    "picture_source": "People.com",
+    "pubdate": "Fri, 13 Dec 2024 16:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "noticias ponce",
+    "link": "https://trends.google.com/trending/rss?geo=PR",
+    "pubdate": "Fri, 13 Dec 2024 15:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeqw49gFV--BUPKxSrRupbdx-gL1Rhx2siSM_WIjLb4H9Naq6QUezBrihzzwE",
+    "picture_source": "El Nuevo Día",
     "news_items": [
       {
-        "title": "Selena Gomez and Benny Blanco Are Engaged: 'Forever Begins Now'",
+        "title": "Investigan la muerte de mujer reportada como desaparecida y la de su presunta pareja como un asesinato-suicidio",
         "snippet": "",
-        "url": "https://people.com/selena-gomez-benny-blanco-are-engaged-married-8661420",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtxx48sjLPMH2bJbpVwZSJcb7ijiDEsjWEZzkra-C1lgp6Ah7vB1J5yo9SvU",
-        "source": "People.com"
+        "url": "https://www.elnuevodia.com/noticias/seguridad/notas/encuentran-los-cuerpos-de-estudiante-de-leyes-para-quien-se-activo-una-alerta-rosa-y-el-de-su-presunta-pareja/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeqw49gFV--BUPKxSrRupbdx-gL1Rhx2siSM_WIjLb4H9Naq6QUezBrihzzwE",
+        "source": "El Nuevo Día"
       },
       {
-        "title": "Selena Gomez announces engagement to record producer Benny Blanco",
+        "title": "“Hoy es un día triste para la familia Pionera”: Universidad Católica lamenta muerte de estudiante de derecho",
         "snippet": "",
-        "url": "https://www.foxnews.com/entertainment/selena-gomez-announces-engagement-record-producer-benny-blanco",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedrjVKRELNCEDimTOLRZWjMpqkga79wfrQJU_UaQ1ZuxTht-KNUpOX09U2OY",
-        "source": "Fox News"
+        "url": "https://www.elvocero.com/ley-y-orden/hoy-es-un-d-a-triste-para-la-familia-pionera-universidad-cat-lica-lamenta-muerte/article_bb086abe-ba1c-11ef-965c-4f42d2373e3b.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJRxcZaRNz2hE_8CxR2VlHvy2AtC9SKiVlrHBaOfrdxCYRNh4nx_nwsrEcDU",
+        "source": "El Vocero de Puerto Rico"
       },
       {
-        "title": "Selena Gomez engaged to boyfriend Benny Blanco after a year of dating — and Taylor Swift agrees to role at wedding",
+        "title": "Hallan sin vida a joven reportada desaparecida en Ponce y su pareja",
         "snippet": "",
-        "url": "https://nypost.com/2024/12/12/entertainment/selena-gomez-engaged-to-boyfriend-benny-blanco-as-taylor-swift-agrees-to-be-flower-girl/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyslhkg6FynQPUM2z_bp1i_JOmrgrrhaqidkrhe3FCQqYvP-8E-lt-z8r3UPY",
-        "source": "New York Post"
+        "url": "https://www.primerahora.com/noticias/policia-tribunales/notas/hallan-sin-vida-a-joven-reportada-desaparecida-en-ponce-y-su-pareja/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZabUWRMz1KtqKoQIgmYxZ-XWyKq0PzhMypCJocEBO6OuHjqqoDixKqVJwht8",
+        "source": "Primera Hora"
       }
     ]
   },
   {
-    "title": "warriors - rockets",
+    "title": "benny blanco",
     "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Thu, 12 Dec 2024 00:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCw1F9whMIYfOALyuth6m08Tsj1ZJsegnuKXxatujMeeoWpa4vylAhD91ssA",
-    "picture_source": "NBA.com",
+    "pubdate": "Fri, 13 Dec 2024 13:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvc5RyjYLVE-SJMgBG4VFcZwASgrYdPBAid32jmBYH_kvU6LJoTNoR7WVwfNs",
+    "picture_source": "The New York Times",
     "news_items": [
       {
-        "title": "Updated game schedules for teams eliminated in NBA Cup Quarterfinals",
+        "title": "Selena Gomez’s Marquise Engagement Ring Has People Talking",
         "snippet": "",
-        "url": "https://www.nba.com/news/updated-game-schedules-for-teams-eliminated-in-nba-cup-quarterfinals",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCw1F9whMIYfOALyuth6m08Tsj1ZJsegnuKXxatujMeeoWpa4vylAhD91ssA",
-        "source": "NBA.com"
+        "url": "https://www.nytimes.com/2024/12/12/style/selena-gomez-marquise-engagement-ring.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvc5RyjYLVE-SJMgBG4VFcZwASgrYdPBAid32jmBYH_kvU6LJoTNoR7WVwfNs",
+        "source": "The New York Times"
       },
       {
-        "title": "Kerr furious over 'unconscionable' late call in loss",
+        "title": "Selena Gomez Allegedly Delayed Engagement News In Order Not To 'One-Up' Ex Justin Bieber's Baby News",
         "snippet": "",
-        "url": "https://www.espn.com/nba/story/_/id/42925566/steve-kerr-furious-late-call-warriors-fall-nba-cup",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyze-pdvpd-EYNJPyBUfZukvjvFxyeP9U7O05nC6wxFw9JCMptOttsnkfK_2U",
+        "url": "https://www.yahoo.com/entertainment/selena-gomez-allegedly-delayed-engagement-183000040.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRQDsDpD4PhMCWKzzAASgic0lxlZQrDfgvcK0pLqK0tLWmHq-1REsmCK8Ip-A",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Selena Gomez's Engagement to Benny Blanco Was a \"Total Surprise\"",
+        "snippet": "",
+        "url": "https://www.instyle.com/selena-gomez-benny-blanco-engagement-surprise-8760998",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL2jw4CWh0fN1vbTrtPo4ge-Au0C-dCc9VBKKg8cdBKdrfNtt7V1tjnB8GuZ4",
+        "source": "InStyle"
+      }
+    ]
+  },
+  {
+    "title": "cien años de soledad netflix",
+    "link": "https://trends.google.com/trending/rss?geo=PR",
+    "pubdate": "Fri, 13 Dec 2024 12:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwncWDUNop6Io7CAuYKP7f3AM6izIt4RdmXpiWmi8xniWtZSogpsMws41Pdug",
+    "picture_source": "El Nuevo Día",
+    "news_items": [
+      {
+        "title": "“Cien años de soledad”: los detalles curiosos escondidos en la serie de Netflix",
+        "snippet": "",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/cien-anos-de-soledad-los-detalles-curiosos-escondidos-en-la-serie-de-netflix/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwncWDUNop6Io7CAuYKP7f3AM6izIt4RdmXpiWmi8xniWtZSogpsMws41Pdug",
+        "source": "El Nuevo Día"
+      },
+      {
+        "title": "‘Cien años de soledad’ en Netflix: una serie horrorosa, un interminable anuncio de café",
+        "snippet": "",
+        "url": "https://elpais.com/television/2024-12-13/cien-anos-de-soledad-en-netflix-una-serie-horrorosa-un-interminable-anuncio-de-cafe.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZWP-8_QiTpNBdzUCycHJAiWxoqy-zAqaMbHYmza4SMG0q5qKM-QqA-SaghM",
+        "source": "EL PAÍS"
+      },
+      {
+        "title": "La serie que a 24 horas de su estreno ya ocupa el primer puesto del Top Ten de Netflix",
+        "snippet": "",
+        "url": "https://www.infobae.com/que-puedo-ver/2024/12/12/la-serie-que-a-24-horas-de-su-estreno-ya-ocupa-el-primer-puesto-del-top-ten-de-netflix/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7nUgw01koY7HJBC-EfADVkneGLlQNGggvG4ufEr5P14YIxn-AE4Lx_aXMAh8",
+        "source": "Infobae"
+      }
+    ]
+  },
+  {
+    "title": "devin williams",
+    "link": "https://trends.google.com/trending/rss?geo=PR",
+    "pubdate": "Fri, 13 Dec 2024 10:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3Cn0JpCVJQHLH60VZ1I9DPyqNbL0W96t_VHweWvTcABkNHSCT_EcLYT3IlZY",
+    "picture_source": "MLB.com",
+    "news_items": [
+      {
+        "title": "Yanks trade for closer Williams from Brewers",
+        "snippet": "",
+        "url": "https://www.mlb.com/news/devin-williams-trade-to-yankees",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3Cn0JpCVJQHLH60VZ1I9DPyqNbL0W96t_VHweWvTcABkNHSCT_EcLYT3IlZY",
+        "source": "MLB.com"
+      },
+      {
+        "title": "Yankees acquire closer Williams from Brewers",
+        "snippet": "",
+        "url": "https://www.espn.com/mlb/story/_/id/42951126/yankees-acquiring-devin-williams-brewers",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCK83ORllyv9vYcAo-Nllo8oAUAvRUPK1d8V2OD9R8g6Wx86wbVTXUG4fYNo",
         "source": "ESPN"
       },
       {
-        "title": "Alperen Sengun leads the Rockets to the Cup Semifinals",
+        "title": "Yankees Acquire Devin Williams For Nestor Cortes, Caleb Durbin",
         "snippet": "",
-        "url": "https://www.eurohoops.net/en/nba-news/1755815/alperen-sengun-posts-double-double-rockets-beat-warriors-nba-cup/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzswv7vEhTRWIPtFSWlRa_gHLcq95a23HmatlMSmQ6YeNAtXRKDl60jEllWGE",
-        "source": "Eurohoops"
-      }
-    ]
-  },
-  {
-    "title": "lily phillips",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Wed, 11 Dec 2024 20:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR05tnZjCtYghkkeciXYAinc970f9LbKoobaMUeAbmRLvzdHOpek1lI3xBxR0",
-    "picture_source": "The Mirror",
-    "news_items": [
-      {
-        "title": "People call for OnlyFans ban as Lily Phillips in tears after sleeping with 101 men in a day",
-        "snippet": "",
-        "url": "https://www.mirror.co.uk/lifestyle/sex-relationships/people-call-onlyfans-ban-lily-34292312",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR05tnZjCtYghkkeciXYAinc970f9LbKoobaMUeAbmRLvzdHOpek1lI3xBxR0",
-        "source": "The Mirror"
-      },
-      {
-        "title": "OnlyFans model cries after sleeping with 101 men in a day: ‘Sometimes I feel so robotic’",
-        "snippet": "",
-        "url": "https://nypost.com/2024/12/11/lifestyle/onlyfans-model-lily-phillips-cries-after-sleeping-with-101-men-in-a-day/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa16CIy7y6395AIOjvXUvTdoPct2L-WSlYdk_5JN6pSBF32vxgMZfloXtQZCk",
-        "source": "New York Post"
-      },
-      {
-        "title": "Lily Phillips: Former Sheffield student aims to sleep with 1,000 men in 24 hours to break world record",
-        "snippet": "",
-        "url": "https://www.thestar.co.uk/news/people/lily-phillips-former-sheffield-student-aims-to-sleep-with-1000-men-in-24-hours-to-break-world-record-4906591",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHPbeIq6AaFvj-Q3oWrtaiRqJiJwQeZwbLI8yXt9_ADQxo-ss9HeTBU1bDQ3U",
-        "source": "The Star"
-      }
-    ]
-  },
-  {
-    "title": "gemini",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Wed, 11 Dec 2024 16:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-    "picture_source": "Google Blog",
-    "news_items": [
-      {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
-        "snippet": "",
-        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-        "source": "Google Blog"
-      },
-      {
-        "title": "A former Google designer reveals what goes into building its AI models like \nGemini",
-        "snippet": "",
-        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
-        "source": "Business Insider"
-      },
-      {
-        "title": "Alphabet Stock Hits a Record High on New AI Models",
-        "snippet": "",
-        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
-        "source": "Barron's"
-      }
-    ]
-  },
-  {
-    "title": "ai",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Wed, 11 Dec 2024 16:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbberYunGmS5_YLOjpe3GULG14IGHbO70zOhlMuXw5UYwozbnlZu2V9h0uB20",
-    "picture_source": "The Conversation",
-    "news_items": [
-      {
-        "title": "Local governments are using AI without clear rules or policies, and the public has no idea",
-        "snippet": "",
-        "url": "https://theconversation.com/local-governments-are-using-ai-without-clear-rules-or-policies-and-the-public-has-no-idea-244647",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbberYunGmS5_YLOjpe3GULG14IGHbO70zOhlMuXw5UYwozbnlZu2V9h0uB20",
-        "source": "The Conversation"
-      },
-      {
-        "title": "Innovation Leadership Is Not Easy, but Tools, Help Are There",
-        "snippet": "",
-        "url": "https://www.govtech.com/artificial-intelligence/innovation-leadership-is-not-easy-but-tools-help-are-there",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXVe6Q_WrkeWco7VEmLGxeR5ozadQL_BvbHmptOZ6ckKoDu4AobOctvGq1YJY",
-        "source": "GovTech"
-      },
-      {
-        "title": "News",
-        "snippet": "",
-        "url": "https://www.sanjoseca.gov/Home/Components/News/News/6379/4699?backlist=%2F",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1Hk_YDbX98e3K3pK4VWdIjoS9FuKdfJG1EH2mDMqqAMT481gWUi_UCCezVbA",
-        "source": "City of San Jose (.gov)"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "maria callas",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Wed, 11 Dec 2024 15:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeiHrGEZCV2s0iWZuFCFV690Gawh0V_wL1MwnDmYbTCHQ5b7DpsHZ8l5fLBPQ",
-    "picture_source": "Screen Rant",
-    "news_items": [
-      {
-        "title": "Maria 2024 Ending Explained: How Maria Callas Died & The Real Meaning Of Her Swan Song",
-        "snippet": "",
-        "url": "https://screenrant.com/maria-2024-ending-explained/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeiHrGEZCV2s0iWZuFCFV690Gawh0V_wL1MwnDmYbTCHQ5b7DpsHZ8l5fLBPQ",
-        "source": "Screen Rant"
-      },
-      {
-        "title": "Video Angelina Jolie on learning to sing opera to explore a diva's final days",
-        "snippet": "",
-        "url": "https://abcnews.go.com/Nightline/video/angelina-jolie-learning-sing-opera-explore-divas-final-116667774",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9Ugb21LNiimdJMI5_8L2pZpNMn2suBPJQb83018wXiXZgrVqWeil1PzONTJg",
-        "source": "ABC News - Breaking News, Latest News and Videos"
-      },
-      {
-        "title": "Stream It Or Skip It: ‘Maria’ on Netflix, in which Angelina Jolie plays opera star Maria Callas in an overstylized biopic",
-        "snippet": "",
-        "url": "https://decider.com/2024/12/11/angelina-jolie-maria-netflix-movie-review/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmgHvy4G_hbOALipcVBCCW0DQ0di7kgnuRZ4mDe1jSiGu2ydfDdQmBh36dNi0",
-        "source": "Decider"
-      }
-    ]
-  },
-  {
-    "title": "uefa champions league",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgzHvjq3hTvEn7MCnAHCEIFv3Gm_BmZL7D4-fwa-2depG4P9P2cGbLBihEJ6U",
-    "picture_source": "beIN SPORTS",
-    "news_items": [
-      {
-        "title": "This Is What Real Madrid Needs To Qualify For The Next Round Of The Champions League",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/this-is-what-real-madrid-needs-to-qualify-for-the-next-round-of-the-champions-league-2024-12-11",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgzHvjq3hTvEn7MCnAHCEIFv3Gm_BmZL7D4-fwa-2depG4P9P2cGbLBihEJ6U",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "UEFA Champions League Table and Results: Arne Slot's Liverpool Remains Unbeatable in the New Format",
-        "snippet": "",
-        "url": "https://www.republicworld.com/sports/football/uefa-champions-league-table-and-results-arne-slot-s-liverpool-remains-unbeatable-in-the-new-format",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDkYUFx4LfIjJQ8kaL_J6KzzIzIPHInbThyxhg3-YpsZJxv4jsSIlK4FvP2Y0",
-        "source": "Republic World"
-      },
-      {
-        "title": "Champions League: Discover the Latest Standings and Top Scorers",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2169373-champions-league-discover-the-latest-standings-and-top-scorers",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThY33dnXau9S9uOBMOkYNBvslIjB1Z0FbN6MBc-4AO79D5zCqHDC2rc0yoZvc",
-        "source": "FootBoom"
-      }
-    ]
-  },
-  {
-    "title": "champions league",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Wed, 11 Dec 2024 13:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJpD2KTP7AGdNpwaUdIfbdgY75MYEAcu2XO7ctrnVjbNXSSkfPM4vPrimwpa4",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Feyenoord vs. Sparta Prague - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/feyenoord/champions-league/preview/preview-feyenoord-vs-sparta-prague-prediction-team-news-lineups_560228.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJpD2KTP7AGdNpwaUdIfbdgY75MYEAcu2XO7ctrnVjbNXSSkfPM4vPrimwpa4",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Santi Giménez Scores His Second Goal in the Current Champions League",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2169028-santi-gimenez-scores-his-second-goal-in-the-current-champions-league",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ1mB_RyOxJkKofH6Lcr62jA82Kz1_kKxIh6BFv3GuSFGGhtpqiAGhMtSRlkk",
-        "source": "FootBoom"
-      },
-      {
-        "title": "UCL Report and quotes: Priske delighted as Feyenoord beat Sparta Prague 4-2",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/ucl-report-and-quotes-priske-delighted-as-feyenoord-beat-sparta-prague-4-2-40429395",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtFcaeo1vzJwaPOiTLnpAxJwgwXRsjto325bn1tObR0P8_5GAo6kNdPMx5A8",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "dortmund - barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTILrSBytLAC3HuYkMBm8WRKd82IGqzFcPXMTvyOXcwxcOZuw4N-RQ_CdMufJQ",
-    "picture_source": "Diario AS",
-    "news_items": [
-      {
-        "title": "Ferran Torres derriba el muro",
-        "snippet": "",
-        "url": "https://as.com/futbol/champions/ferran-torres-derriba-el-muro-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTILrSBytLAC3HuYkMBm8WRKd82IGqzFcPXMTvyOXcwxcOZuw4N-RQ_CdMufJQ",
-        "source": "Diario AS"
-      },
-      {
-        "title": "La Champions es el nuevo jardín del Barcelona",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/barcelona/2024/12/11/champions-nuevo-jardin-barcelona.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYM4XkCnJaabA835JHa9nOimBy_tMU0CvAHWlwp9GVCNWh0-vzeg2qyMZrcyg",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Borussia Dortmund - Barcelona, en directo: Champions League hoy, en vivo",
-        "snippet": "",
-        "url": "https://www.sport.es/es/noticias/barca/borussia-dortmund-barcelona-champions-directo-112531459",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQRw64bzUeDMJIqcJBAEC4GeXG14Qq9G22wB39Y00pDXJnAD54-smCjsnxwl4",
-        "source": "SPORT"
+        "url": "https://www.mlbtraderumors.com/2024/12/brewers-trade-devin-williams-yankees.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOroSoyPdqPe4XRic_8E20TUVcG8Zmjdq3_O26Z_LLsvX1nvSn7sx7iO8HLzw",
+        "source": "MLB Trade Rumors"
       }
     ]
   }

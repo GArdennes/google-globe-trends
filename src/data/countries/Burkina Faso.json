@@ -1,289 +1,94 @@
 [
   {
-    "title": "chatgpt",
+    "title": "cagliari – atalanta",
     "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
+    "picture_source": "Virgilio Sport",
     "news_items": [
       {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
         "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
+        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
+        "source": "Virgilio Sport"
       },
       {
-        "title": "ChatGPT is down: What happened and when will it be back?",
+        "title": "La vostra formazione: voglia di Retegui dal 1′",
         "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
+        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
+        "source": "CalcioAtalanta"
       },
       {
-        "title": "ChatGPT back online after global outage",
+        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
         "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
+        "source": "ANSA"
       }
     ]
   },
   {
-    "title": "ac milan – étoile rouge",
+    "title": "espanyol – osasuna",
     "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 13:30:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
     "approx_traffic": 100,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "fc barcelone",
-    "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 13:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8Ek1u19PeJFYupnarG6VUcOtFlX9F3gDIzHoyVj7U0xz2sg4Ja-5RY-9LPFw",
-    "picture_source": "Foot Mercato",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTaVMIXaNEO83i1_amrfos1Gj1s5XGg9vWotHs0V7eovOIdrp0aw8CNuYe7YA",
+    "picture_source": "El 1900",
     "news_items": [
       {
-        "title": "PSG : le prix dérisoire fixé par Manchester United pour Marcus Rashford",
+        "title": "Fernando Calero llega a la ‘final’ ante CA Osasuna",
         "snippet": "",
-        "url": "https://www.footmercato.net/a4971591958894749022-psg-le-prix-derisoire-fixe-par-manchester-united-pour-marcus-rashford",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8Ek1u19PeJFYupnarG6VUcOtFlX9F3gDIzHoyVj7U0xz2sg4Ja-5RY-9LPFw",
-        "source": "Foot Mercato"
+        "url": "https://el1900.com/fernando-calero-llega-a-la-fina-ca-osasuna-espanyol/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTaVMIXaNEO83i1_amrfos1Gj1s5XGg9vWotHs0V7eovOIdrp0aw8CNuYe7YA",
+        "source": "El 1900"
       },
       {
-        "title": "Manchester United veut tenter un échange de joueurs avec le FC Barcelone",
+        "title": "Tejero, Kumbulla, Romero y Roca, novedades en el Espanyol; Ibáñez y Raúl, en el Osasuna",
         "snippet": "",
-        "url": "https://www.les-transferts.com/rumeurs-transferts/manchester-united-veut-tenter-un-echange-de-joueurs-avec-le-fc-barcelone.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOjIdNPM7XIWwV1iZTPLM1Cjc6CQEN2IQ93bhhPv_b_3P7MQuK3TuB4CD_9SM",
-        "source": "Les Transferts"
+        "url": "https://www.infobae.com/espana/agencias/2024/12/14/tejero-kumbulla-romero-y-roca-novedades-en-el-espanyol-ibanez-y-raul-en-el-osasuna/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
+        "source": "Infobae"
       },
       {
-        "title": "Le PSG prépare un mercato XXL ! Après Salah, un autre galactique visé",
+        "title": "Moncayola y Moi Gómez se caen de la convocatoria",
         "snippet": "",
-        "url": "https://www.football365.fr/le-psg-prepare-un-mercato-xxl-apres-salah-un-autre-galactique-vise-10217204.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1TucKnYqEuTlbL-8Clfc4CUJOBznZFPra8CWPRUGPCJoWFvrxqtInP1hsIF0",
-        "source": "Mercato365"
+        "url": "https://riojaactual.com/rioja-actual-educacion/320262/moncayola-y-moi-gomez-se-caen-de-la-convocatoria/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkszAcjeUpRyiSvSQxQcQJ84j3qQr0UKsXcLz4n8G6Wtx7vEmp-5ojw_Omh3s",
+        "source": "Rioja Actual"
       }
     ]
   },
   {
-    "title": "barca",
+    "title": "arrivée du jour pmu",
     "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 12:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRErMWrDHAjNBFjeYc42CDfQHq2rhWgBmFoNgTjIqij2R_IgYjfU8mD2Ok8TQ",
-    "picture_source": "UEFA.com",
-    "news_items": [
-      {
-        "title": "Champions League highlights and round-up: Barcelona beat Dortmund to go \nsecond, Arsenal into third",
-        "snippet": "",
-        "url": "https://www.uefa.com/uefachampionsleague/news/0294-1c8a30f51d42-ca2ebf5b9afd-1000--champions-league-highlights-and-round-up-barcelona-beat-/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRErMWrDHAjNBFjeYc42CDfQHq2rhWgBmFoNgTjIqij2R_IgYjfU8mD2Ok8TQ",
-        "source": "UEFA.com"
-      },
-      {
-        "title": "Barcelona’s Shark finally bites as Hansi Flick gets subs spot on in Dortmund",
-        "snippet": "",
-        "url": "https://www.barcablaugranes.com/2024/12/12/24319148/barcelonas-shark-finally-bites-as-hansi-flick-gets-subs-spot-on-in-dortmund",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn9AMnMRhDRxENH7gmWWye0mE5OPDahqpifpS4wh2eDEdw5F81yNHyOBrkAvI",
-        "source": "Barca Blaugranes"
-      },
-      {
-        "title": "Lamine Yamal breaks down chemistry with Ferran and Raphinha - 'We \nunderstand each other'",
-        "snippet": "",
-        "url": "https://barcauniversal.com/lamine-yamal-breaks-down-chemistry-with-ferran-and-raphinha-we-understand-each-other/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZf9fqFrwXa1DY7UvQmpZBDa5vhJnpxr62z_GnBn18nCvyWt90YdSPzwViXiA",
-        "source": "Barca Universal"
-      }
-    ]
-  },
-  {
-    "title": "ligue des champions",
-    "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 12:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ899IvOVM91eCCO7o7H8L8gB0wI6iigTEimFvKwZL4CSInU48r5DgTargi6Yw",
-    "picture_source": "Eurosport",
-    "news_items": [
-      {
-        "title": "Le PSG éliminé dès la 7e journée si...",
-        "snippet": "",
-        "url": "https://www.eurosport.fr/football/ligue-des-champions/2024-2025/le-paris-saint-germain-peut-etre-elimine-de-la-ligue-des-champions-des-la-7e-journee-de-la-phase-de-_sto10417761/story.shtml",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ899IvOVM91eCCO7o7H8L8gB0wI6iigTEimFvKwZL4CSInU48r5DgTargi6Yw",
-        "source": "Eurosport"
-      },
-      {
-        "title": "Real Madrid, Manchester City, PSG, trois cadors en danger !",
-        "snippet": "",
-        "url": "https://www.footmercato.net/a8417374946776141488-real-madrid-manchester-city-psg-trois-cadors-en-danger",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNC2bBDmvYTD2-HbjqAIl07z6n-OovyG62jJkrCof-z2HwqAKhSxt5Ee9698",
-        "source": "Foot Mercato"
-      },
-      {
-        "title": "LdC : “Ce serait impardonnable que le PSG n’arrive pas à gagner”",
-        "snippet": "",
-        "url": "https://www.sport.fr/football/ldc-ce-serait-impardonnable-que-le-psg-narrive-pas-a-gagner-1259436.shtm",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaUlqUZyRXM78lCcQCUDkhRnRROFdggoWlAxiZz6SjhT3EQd57YVAkFHnre7s",
-        "source": "Sport.fr"
-      }
-    ]
-  },
-  {
-    "title": "arsenal – monaco",
-    "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 11:50:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 11:20:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDb5ZykaA8StqGiiW8RWPJC6cmUYUVGaUaOHIsTF1ZyNqfHNfB-gakL-c-9A",
-    "picture_source": "CaughtOffside",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjpp6A-QtEb9Rl6vfcypHsrIhuswdZyvO3yJi_4NLxEEfaM0aNCz6tCxU0-w",
+    "picture_source": "Equidia",
     "news_items": [
       {
-        "title": "“No doubt” Arsenal need to replace these two players, says Gunners legend",
+        "title": "Iris Intense, la base solide du Quinté+ de ce samedi 14 décembre à Vincennes",
         "snippet": "",
-        "url": "https://www.caughtoffside.com/2024/12/12/arsenal-transfers-havertz-jesus/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDb5ZykaA8StqGiiW8RWPJC6cmUYUVGaUaOHIsTF1ZyNqfHNfB-gakL-c-9A",
-        "source": "CaughtOffside"
+        "url": "https://www.equidia.fr/articles/pour-preparer-vos-paris/iris-intense-la-base-solide-du-quinte-de-ce-samedi-14-decembre-a-vincennes",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjpp6A-QtEb9Rl6vfcypHsrIhuswdZyvO3yJi_4NLxEEfaM0aNCz6tCxU0-w",
+        "source": "Equidia"
       },
       {
-        "title": "‘Just enjoy it’: Martin Keown shares the advice he gave to £180k-a-week \nArsenal forward about scoring goals",
+        "title": "Les pronos hippiques du samedi 14 décembre 2024",
         "snippet": "",
-        "url": "https://sports.yahoo.com/just-enjoy-martin-keown-shares-070900671.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVU_JmSrXjn55GiRnwpuviCknqXJsX-KY9Lo5eFRsUYrKj9L5PpqyCf6FjIgA",
-        "source": "Yahoo Sports"
+        "url": "https://rmcsport.bfmtv.com/paris-hippique/les-pronos-hippiques-du-samedi-14-decembre-2024_AN-202412120756.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzXlxI90xJC_EYygp42j0Rogxqib58ol9OMET52Jw0exO0Ua8bLZtPDsd7lg",
+        "source": "RMC Sport"
       },
       {
-        "title": "Mikel Arteta told to replace Arsenal star after Monaco win",
+        "title": "Quinté du samedi 14 décembre 2024 à Vincennes : les pronostics",
         "snippet": "",
-        "url": "https://metro.co.uk/2024/12/11/mikel-arteta-told-replace-arsenal-star-monaco-win-22171799/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEpyxov4ylkD3KsKEgEK6xDvDZMv36_KpIlehM0mwTBZcHkNyQAIOsqSnGGbk",
-        "source": "Metro.co.uk"
-      }
-    ]
-  },
-  {
-    "title": "juventus – manchester city",
-    "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 11:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1rm7-PixVq_GPZUYFsTCGi53MEf-CXyFX9H8uRrb0_qv1nGsmOVl5xu8v6sU",
-    "picture_source": "BT Sport",
-    "news_items": [
-      {
-        "title": "‘He’s already tired’ – Cole, Laurens question if Guardiola is ‘right guy' \nfor Man City 'rebuild'",
-        "snippet": "",
-        "url": "https://www.tntsports.co.uk/football/champions-league/2024-2025/joe-cole-julien-laurens-question-if-pep-guardiola-is-right-guy-for-manchester-city-rebuild-hes-already-tired_sto20062213/story.shtml",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1rm7-PixVq_GPZUYFsTCGi53MEf-CXyFX9H8uRrb0_qv1nGsmOVl5xu8v6sU",
-        "source": "BT Sport"
-      },
-      {
-        "title": "Man City crisis deepens with loss to Juventus in Champions League as \nBarcelona and Arsenal triumph",
-        "snippet": "",
-        "url": "https://www.arabnews.com/node/2582744/sport",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNfffTox4V7o-5ZQBBy7lq4bKVZWigWKgLN7n9elVKKHIBDYrpP-V-GJnJ5fM",
-        "source": "Arab News"
-      },
-      {
-        "title": "“Do better” – Ruben Dias simplifies crucial demands of Manchester City \nteammates after Juventus defeat",
-        "snippet": "",
-        "url": "https://onefootball.com/id/berita/do-better-ruben-dias-simplifies-crucial-demands-of-manchester-city-teammates-after-juventus-defeat-40429055",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjI7_RVSL8NERzr6-Gwto6zdNHooMP6C43vXNLr0ex34xztASsRxO619d4qMk",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "dortmund – barcelone",
-    "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 11:00:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXQd0ZGmp6j5MrYviC7K4sQAGL-v8ZYtO-p6VJ6uALsbTgaNltfxc_HUjbas",
-    "picture_source": "L'Équipe",
-    "news_items": [
-      {
-        "title": "Borussia Dortmund 2-3 FC Barcelone, Ligue des champions : Le Barça renverse \nDortmund",
-        "snippet": "",
-        "url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2024-2025/borussia-dortmund-fc-barcelone-live/668064",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXQd0ZGmp6j5MrYviC7K4sQAGL-v8ZYtO-p6VJ6uALsbTgaNltfxc_HUjbas",
-        "source": "L'Équipe"
-      },
-      {
-        "title": "FC Barcelone : Hansi Flick donne des nouvelles de Raphinha",
-        "snippet": "",
-        "url": "https://www.footmercato.net/a5208695528352294161-fc-barcelone-hansi-flick-donne-des-nouvelles-de-raphinha",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnr3Hck-hOCF59H1bspEGBi6e3NUp1xVJzYgZzNB0iU_rg0l9y_f-yETQj0FM",
-        "source": "Foot Mercato"
-      },
-      {
-        "title": "Avec un doublé, Ferran Torres propulse Barcelone à la 2ème place",
-        "snippet": "",
-        "url": "https://fr.besoccer.com/info/avec-un-double-ferran-torres-propulse-barcelone-a-la-2eme-place-1341124",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjFnVjGaO0Lxr1TQ0pomYZ3xRTOH-PFrvmbm5-tfol4u0G5TIjT6_MDrleBo",
-        "source": "BeSoccer"
-      }
-    ]
-  },
-  {
-    "title": "atlético madrid – slovan bratislava",
-    "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 09:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpoQFJanXlnwrMDH9KPLVTT__X6MpQowR24wqfnb2CTyHfXHdgAEJhc_A4RYs",
-    "picture_source": "ESPN",
-    "news_items": [
-      {
-        "title": "Atlético 3-1 S Bratislava (Dec 11, 2024) Game Analysis",
-        "snippet": "",
-        "url": "https://www.espn.com/soccer/report/_/gameId/720321",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpoQFJanXlnwrMDH9KPLVTT__X6MpQowR24wqfnb2CTyHfXHdgAEJhc_A4RYs",
-        "source": "ESPN"
-      },
-      {
-        "title": "Griezmann double helps Atleti close in on top eight",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-au/football/uefa-champions-league/articles-video/griezmann-double-helps-atleti-close-in-on-top-eight-2024-12-11?q=%E6%B4%9B%E9%98%B3%E7%A7%81%E5%AE%B6%E4%BE%A6%E6%8E%A2%E5%85%AC%E5%8F%B8%28%E7%94%B5%E8%AF%9D15573826973%29d7C",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc8U8Q1Cs6-GNQ7H2YX1x1yyd5qLGoXUfjEWMwFMBCjXnXEvAxBm8fTDuA_JU",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "Simeone: \"We Compete in Our League Against the Two Best in Europe\"",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2168787-simeone-we-compete-in-our-league-against-the-two-best-in-europe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS__fEdUDI0krRaFEO07lfpCvigQkLBVKIx1WMUFuwi0i9Rgyd_xa8Cpy_Od5Q",
-        "source": "FootBoom"
-      }
-    ]
-  },
-  {
-    "title": "fenerbahçe – ath. bilbao",
-    "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Wed, 11 Dec 2024 07:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNEVJOTe4iaIoypwQ7gEJDqUhOtQ4KpoE1Ql8JQk0BUD4zDxU0RJk1P2cvus",
-    "picture_source": "Haber7",
-    "news_items": [
-      {
-        "title": "Mourinho ve Fenerbahçe yönetimine olay sözler! Rıdvan Dilmen'den flaş çağrı",
-        "snippet": "",
-        "url": "https://spor.haber7.com/fenerbahce/haber/3486730-mourinho-ve-fenerbahce-yonetimine-olay-sozler-ridvan-dilmenden-flas-cagri",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNEVJOTe4iaIoypwQ7gEJDqUhOtQ4KpoE1Ql8JQk0BUD4zDxU0RJk1P2cvus",
-        "source": "Haber7"
-      },
-      {
-        "title": "Samet'i bırak, buraya bak! İnanılması güç, 50 metre top sürdü - Fenerbahçe \n- Spor Haberleri",
-        "snippet": "",
-        "url": "https://www.milliyet.com.tr/skorer/fenerbahcede-samet-akaydini-birak-buraya-bak-mourinho-inanilmasi-guc-50-metre-top-surdu-7256387",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQS4ZdNF2Hcf5qYXpldHoqCztG_mHMK-IP9oMm7CyYBDL3qjUAH1ipwKyMDmY",
-        "source": "Milliyet"
-      },
-      {
-        "title": "Kadıköy'de tatsız gece! Fenerbahçe'ye Athletic Bilbao darbesi",
-        "snippet": "",
-        "url": "https://www.gazetearena.com/kadikoy-de-tatsiz-gece-fenerbahce-ye-athletic-bilbao-darbesi/32938/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuJ9vAEmw51stasM48hWK9g4KbmkxoD85zi5-gJe4Rr3o2e5uCg3Ti9Zj06Fs",
-        "source": "Gazete Arena"
+        "url": "https://www.rtl.fr/sport/autres-sports/quinte-du-samedi-14-decembre-2024-a-vincennes-les-pronostics-7900450826",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5u2LXAIgu0hdG-faihOkRc7Y8RweFVYJXo4UnA6w49CAoAyACA-kX3XrNhsc",
+        "source": "RTL.fr"
       }
     ]
   }

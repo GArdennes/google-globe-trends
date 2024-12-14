@@ -1,311 +1,156 @@
 [
   {
-    "title": "rockets vs warriors",
+    "title": "trinidad express",
     "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 02:00:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCw1F9whMIYfOALyuth6m08Tsj1ZJsegnuKXxatujMeeoWpa4vylAhD91ssA",
-    "picture_source": "NBA.com",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTltO9-WReYqF8CLCPTzyOhefk2AZZxOjGy63d4gxDxI6QKBXT-la4gLVebl-Q",
+    "picture_source": "Trinidad Express Newspapers",
     "news_items": [
       {
-        "title": "Updated game schedules for teams eliminated in NBA Cup Quarterfinals",
+        "title": "Speaker to Young: Explain 3-month delay",
         "snippet": "",
-        "url": "https://www.nba.com/news/updated-game-schedules-for-teams-eliminated-in-nba-cup-quarterfinals",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCw1F9whMIYfOALyuth6m08Tsj1ZJsegnuKXxatujMeeoWpa4vylAhD91ssA",
-        "source": "NBA.com"
+        "url": "https://trinidadexpress.com/news/local/speaker-to-young-explain-3-month-delay/article_08c9766e-b9cb-11ef-b8ef-a7a29cd215f5.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTltO9-WReYqF8CLCPTzyOhefk2AZZxOjGy63d4gxDxI6QKBXT-la4gLVebl-Q",
+        "source": "Trinidad Express Newspapers"
       },
       {
-        "title": "NBA Cup winners and losers: Steve Kerr left fuming over call that capped Warriors collapse",
+        "title": "Wharf swimmer found dead in the gulf",
         "snippet": "",
-        "url": "https://www.usatoday.com/story/sports/nba/2024/12/12/nba-cup-winners-losers-hawks-rockets-bucks-thunder/76936317007/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMYIL-hzEDStmULYzEi-qfMFC5pcoS_kr8-_R3WbtkZ0KiOW1QERMOO1z_fUg",
-        "source": "USA Today"
+        "url": "https://trinidadexpress.com/newsextra/wharf-swimmer-found-dead-in-the-gulf/article_2099ef54-ba01-11ef-93e3-a7d03c343cd0.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYsJ07fglAO8QqG3nAFICY6UNvqNqMBxe_7AtzJx1ANDAufn_IxbJnd68H64",
+        "source": "Trinidad Express Newspapers"
       },
       {
-        "title": "Steph Curry Gets Honest About Golden State Warriors After Rockets Loss",
+        "title": "Body found off King's Wharf, San Fernando",
         "snippet": "",
-        "url": "https://www.si.com/fannation/nba/fastbreak/steph-curry-gets-honest-about-golden-state-warriors-after-rockets-loss-nba-cup",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUIvREVK3rIuvJRaYwuBSLBle9SDbn7m4Sd4PmeZ-lFkQYRow0uoHvVQXH8bg",
-        "source": "Sports Illustrated"
+        "url": "https://newsday.co.tt/2024/12/13/body-found-off-kings-wharf-san-fernando/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2F6oeOy7TlGapHP47pMuowsh11UagwEbJeSOlhyuNcJVPw-NbF14jJC0rMyo",
+        "source": "Trinidad and Tobago Newsday"
       }
     ]
   },
   {
-    "title": "chat gpt",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 16:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 17:00:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3cl5191tudk3J3Yx3CqU65jiVAl7Azd5F4w4E4w5vKZUgPmJA6Ad8gbIJT7k",
-    "picture_source": "Forbes",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
+    "picture_source": "5 EYEWITNESS NEWS",
     "news_items": [
       {
-        "title": "iOS 18.2—Update Now Warning Issued To All iPhone Users",
+        "title": "Ken says a warming begins today",
         "snippet": "",
-        "url": "https://www.forbes.com/sites/kateoflahertyuk/2024/12/11/ios-182-update-now-warning-issued-to-all-iphone-users/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3cl5191tudk3J3Yx3CqU65jiVAl7Azd5F4w4E4w5vKZUgPmJA6Ad8gbIJT7k",
-        "source": "Forbes"
+        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
+        "source": "5 EYEWITNESS NEWS"
       },
       {
-        "title": "iPhone users say Apple's iOS 18.2 update is RUINING their battery life - here's what to do if your device is a",
+        "title": "Warmer temps this weekend and especially for next week",
         "snippet": "",
-        "url": "https://www.dailymail.co.uk/sciencetech/article-14184909/iPhone-Apple-iOS-18-2-RUINING-battery-life.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQAQy4AsyJHVl-4L-bD2yHFzqVu8kayYzQLaM8mBv-Kkqv5T62LP8_YW3v5eE",
-        "source": "Daily Mail"
+        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
+        "source": "WIS News 10"
       },
       {
-        "title": "Apple Intelligence now features Image Playground, Genmoji, and more",
+        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
         "snippet": "",
-        "url": "https://www.apple.com/newsroom/2024/12/apple-intelligence-now-features-image-playground-genmoji-and-more/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOx-1qdZI_C6RbVnBEXdm_DPexHIDMKzGJOaT68zpv0x9B4320mvATiwnwKks",
-        "source": "Apple"
+        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
+        "source": "WLWT"
       }
     ]
   },
   {
-    "title": "fc barcelona",
+    "title": "australia vs india",
     "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 13:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThozdbgat3M5ebkH9RODy52lkp_Krg6qV4-XOaB03zGfg2GZ9doUeASGjNxTk",
-    "picture_source": "SPORT",
-    "news_items": [
-      {
-        "title": "La apuesta innegociable volvió a carburar en Dortmund",
-        "snippet": "",
-        "url": "https://www.sport.es/es/noticias/barca/apuesta-innegociable-volvio-carburar-dortmund-112541834",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThozdbgat3M5ebkH9RODy52lkp_Krg6qV4-XOaB03zGfg2GZ9doUeASGjNxTk",
-        "source": "SPORT"
-      },
-      {
-        "title": "El Betis, el primer equipo que no cae en el fuera de juego ante el Barcelona",
-        "snippet": "",
-        "url": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-primer-equipo-cae-juego-ante-barcelona-20241209114233-nts.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJL9WnTL4ds0Q1DZ9Rb_DWp9V2xQkTOOU8sH1w40GpHgAP9MLInyEzJISxzVg",
-        "source": "ABC"
-      },
-      {
-        "title": "Barça: ¿por qué se ha atascado la trampa del fuera de juego?",
-        "snippet": "",
-        "url": "https://es.ara.cat/deportes/fc-barcelona/atascado-trampa-fuera-juego-barca_1_5225837.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyuYsnR28z-p42IhQfsMiu4E7TV1xqkzqBqllvr0tCGHIUcm9-mcvQHcrTSc",
-        "source": "Diari ARA"
-      }
-    ]
-  },
-  {
-    "title": "barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 13:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
-    "picture_source": "FootBoom",
-    "news_items": [
-      {
-        "title": "¿Cuál es la capacidad del Signal Iduna Park y la 'Pared Amarilla' en el estadio del Borussia Dortmund?",
-        "snippet": "",
-        "url": "https://www.footboom1.com/es/news/football/2168596-what-is-the-capacity-of-signal-iduna-park-and-the-yellow-wall-at-borussia-dortmund-stadium",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
-        "source": "FootBoom"
-      },
-      {
-        "title": "Flick: «El objetivo es ser primeros»",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/flick-el-objetivo-es-ser-primeros-40427746",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Torres alaba el espíritu de equipo tras la victoria del Barcelona en Dortmund",
-        "snippet": "",
-        "url": "https://es-us.noticias.yahoo.com/torres-alaba-esp%C3%ADritu-equipo-victoria-065103438.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtPopBu-O__xaszCDPKNllktaBonAJ0aZuCxqg3t2dU0dYwBI9GH6TL8-r_xM",
-        "source": "Yahoo Noticias"
-      }
-    ]
-  },
-  {
-    "title": "uefa champions league",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 12:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVD4Z5KOP5Arkbmm7juC6jn4D6R2UzGdBy9Xo8OgM0YB-Fuz7ZddSDe095r4",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Shakhtar Donetsk 1-5 Bayern Munich: Michael Olise double helps Bayern thrash Shakhtar",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c80vvyl2gymt",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVD4Z5KOP5Arkbmm7juC6jn4D6R2UzGdBy9Xo8OgM0YB-Fuz7ZddSDe095r4",
-        "source": "BBC"
-      },
-      {
-        "title": "🎥 Fancy footwork! Watch Olise's solo UCL goal in close up 👌",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/fancy-footwork-watch-olises-solo-ucl-goal-in-close-up-40429204",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToGtz0GFaiR2gREE1tPea7MRKfPb0cwpF2zBj5m5wdO3cpBKPSzAtvAUXu1c4",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Thomas Muller emulates Cristiano Ronaldo after bringing up 55th Champions League goal for Bayern Munich in Shakhtar Donetsk rout",
-        "snippet": "",
-        "url": "https://www.goal.com/en-cm/lists/thomas-muller-emulates-cristiano-ronaldo-55th-champions-league-goal-bayern-munich-shakhtar-donetsk/blt4b893e75d763678b",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbMC3PTda1kKW_3BURPPQe1-q0Wx7ADRUsrjc-dvOpLOOh70T8287Emcipkwo",
-        "source": "Goal.com"
-      }
-    ]
-  },
-  {
-    "title": "juventus vs man city",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Champions League: Man City and Guardiola under 'real pressure'",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/cly256g64dwo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
-        "source": "BBC"
-      },
-      {
-        "title": "Man City player ratings vs Juventus: That's why Ederson was dropped! Goalkeeper's gaffe and Weston McKennie wonder goal leave Pep Guardiola's men under serious threat of Champions League humiliation",
-        "snippet": "",
-        "url": "https://www.goal.com/en/lists/man-city-player-ratings-vs-juventus-ederson-erling-haaland/blte64a5c062d360bb7",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJYiiPezYKwoue341ebtbPVv5bs3kTmCIZ-TPydRpL2hvycUXX1bL1KW4nHzM",
-        "source": "Goal.com"
-      },
-      {
-        "title": "Pep stumped as Man City face unthinkable Champions League exit",
-        "snippet": "",
-        "url": "https://www.espn.com/soccer/story/_/id/42918137/pep-stumped-man-city-face-unthinkable-champions-league-exit",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCOkbsMW0ExN3sK_h2ObzrFe6UG1INowwPUx-F46dATitHhUV2G2U-SuW8tSQ",
-        "source": "ESPN"
-      }
-    ]
-  },
-  {
-    "title": "arsenal vs monaco",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 16:10:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXmypLKS4N3D4uJKOH3K8XDHU36Ri0hXEC516cL-oMmNQpTv49iK9O7MlP1QM",
-    "picture_source": "Goal.com",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Ie-bkpSEFVb6wVIdUbV7KDipVqWjPMW4LYhQ2eZihq7PdEuAhEwHXk4x6P0",
+    "picture_source": "ESPNcricinfo",
     "news_items": [
       {
-        "title": "Arsenal player ratings vs Monaco: Thank goodness for Bukayo Saka! Starboy leads profligate Gunners to brink of Champions League last-16 place",
+        "title": "Khawaja, McSweeney steady for 13.2 overs before rain ruins day one of Gabba Test",
         "snippet": "",
-        "url": "https://www.goal.com/en/lists/arsenal-player-ratings-monaco-bukayo-saka-kai-havertz/bltc7dbf496efdf1fae",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXmypLKS4N3D4uJKOH3K8XDHU36Ri0hXEC516cL-oMmNQpTv49iK9O7MlP1QM",
-        "source": "Goal.com"
+        "url": "https://www.espncricinfo.com/series/australia-vs-india-2024-25-1426547/australia-vs-india-3rd-test-1426557/match-report",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Ie-bkpSEFVb6wVIdUbV7KDipVqWjPMW4LYhQ2eZihq7PdEuAhEwHXk4x6P0",
+        "source": "ESPNcricinfo"
       },
       {
-        "title": "Bukayo Saka, Arsenal & Champions League: 'He is an incredible person'",
+        "title": "Australia vs India: Rain ruins day one of third Test in Brisbane",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/cx2v8m5r87xo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNe7Ou1k-b8nPuSJdMCiv5i9JKZdhbiuVt0cbjinla2rQRY2IFnSmnHMuktcY",
+        "url": "https://www.bbc.com/sport/cricket/articles/c1d3exv3v9lo",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTngsumfQhgMBeFwE5JN5QPaT8CIhR5yrDngqGcKIR5vYAqtLPcvc61NCJTuug",
         "source": "BBC"
       },
       {
-        "title": "Saka brace sinks Monaco as Arsenal eye Champions League last 16",
+        "title": "Why India's toss decision at the Gabba defies history but not logic",
         "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/saka-brace-sinks-monaco-as-arsenal-eye-champions-league-last-16-2024-12-11",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4jNeTcUSynNgsX2ua9wih92SqRdLlvULhWCA6XKm94WihPXyFrHeDHgAI5Eg",
-        "source": "beIN SPORTS"
+        "url": "https://www.wisden.com/series/australia-vs-india-m-202425/cricket-news/why-indias-history-defying-decision-to-field-at-brisbane-isnt-as-bad-as-it-seems",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdT-hdMmQWSs9buew1Fa2G43GOMHqWcXusLuqVoBRt3yQt8AsuoRVfH_yTaak",
+        "source": "Wisden"
       }
     ]
   },
   {
-    "title": "dortmund vs barcelona",
+    "title": "new zealand vs england",
     "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 11:10:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtamj2oWmZ3OiB_YDevuCF94w5g_h7gUJKB_EMS7JB4b7Fm9taC4idA7ETw7s",
+    "pubdate": "Fri, 13 Dec 2024 13:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Borussia Dortmund 2-3 Barcelona: Ferran Torres double seals Barca points",
+        "title": "New Zealand vs England: Matthew Potts and Gus Atkinson lead tourists in Hamilton",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c9vkk4j13r9t",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtamj2oWmZ3OiB_YDevuCF94w5g_h7gUJKB_EMS7JB4b7Fm9taC4idA7ETw7s",
+        "url": "https://www.bbc.com/sport/cricket/articles/cx27x3w8ypno",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
         "source": "BBC"
       },
       {
-        "title": "Barcelona’s Shark finally bites as Hansi Flick gets subs spot on in Dortmund",
+        "title": "Stokes motivates his team to put in extra effort, says England pacer Potts",
         "snippet": "",
-        "url": "https://www.barcablaugranes.com/2024/12/12/24319148/barcelonas-shark-finally-bites-as-hansi-flick-gets-subs-spot-on-in-dortmund",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn9AMnMRhDRxENH7gmWWye0mE5OPDahqpifpS4wh2eDEdw5F81yNHyOBrkAvI",
-        "source": "Barca Blaugranes"
+        "url": "https://www.socialnews.xyz/2024/12/14/stokes-motivates-his-team-to-put-in-extra-effort-says-england-pacer-potts/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8yf16L3Z8OIdisEwTKYKo0Vk7tuAifDhD0UMf9sWS_QwHon8eOB5Z4KhX4Bw",
+        "source": "Social News XYZ"
       },
       {
-        "title": "Lamine Yamal breaks down chemistry with Ferran and Raphinha - 'We understand each other'",
+        "title": "Woakes replaced by Potts for final New Zealand Test match",
         "snippet": "",
-        "url": "https://barcauniversal.com/lamine-yamal-breaks-down-chemistry-with-ferran-and-raphinha-we-understand-each-other/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZf9fqFrwXa1DY7UvQmpZBDa5vhJnpxr62z_GnBn18nCvyWt90YdSPzwViXiA",
-        "source": "Barca Universal"
+        "url": "https://www.sportsmax.tv/cricket/cricket-international/item/155897-woakes-replaced-by-potts-for-final-new-zealand-test-match",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOHggd7E0Ajt2wUkvpH_k6VtKAnWRxhaQR6VLsWKk39I12bPqLH8wCQNTMCaA",
+        "source": "SportsMax"
       }
     ]
   },
   {
-    "title": "atlético madrid vs slovan bratislava",
+    "title": "pakistan vs south africa",
     "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Wed, 11 Dec 2024 11:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJBr7CJcUaZb_IRQs2T64UTb5lWdB4K95j69SjLtqZrZ6q9UrFN9_tT9GhmTM",
-    "picture_source": "BBC",
+    "pubdate": "Fri, 13 Dec 2024 08:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFY19KY3tmVOHSP4uhglANAWJ9vvzFULGWBMh-cljqo97Sp3-Evdj2VIAaNI",
+    "picture_source": "qhubo.com.ni",
     "news_items": [
       {
-        "title": "Atletico Madrid 3-1 Slovan Bratislava: Julian Alvarez scores stunner",
+        "title": "Missed the Bus, But Not the Moment! What a Comeback!",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cj0rr31ed2pt",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJBr7CJcUaZb_IRQs2T64UTb5lWdB4K95j69SjLtqZrZ6q9UrFN9_tT9GhmTM",
-        "source": "BBC"
+        "url": "https://www.qhubo.com.ni/news2/missed-the-bus-but-not-the-moment-what-a-comeback/9504/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFY19KY3tmVOHSP4uhglANAWJ9vvzFULGWBMh-cljqo97Sp3-Evdj2VIAaNI",
+        "source": "qhubo.com.ni"
       },
       {
-        "title": "Simeone wary of Champions League challenges despite winning run",
+        "title": "RSA Vs PAK, 2nd T20I: Ton-Up Hendricks Takes South Africa To Series Win Over Pakistan",
         "snippet": "",
-        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/simeone-wary-of-champions-league-challenges-despite-winning-run-2024-12-11",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT47jS5EAwc-0bVahLKXVqIc5HaY3EylPuzG1uUytVH1rPIJGJMtvCAVJj1AGY",
-        "source": "beIN SPORTS"
+        "url": "https://www.outlookindia.com/sports/cricket/pakistan-vs-south-africa-2nd-t20i-reeza-hendricks-first-hundred-takes-sa-to-series-win-over-pak-in-pics",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Dhu9f5ZeI7jM8j8VbwaNzcECGqOuCIudmW3w7fc9eooXzOfLAUp1ihBCbS4",
+        "source": "Outlook India"
       },
       {
-        "title": "Griezmann: Alvarez is a great player, and without my teammates I would not be at this level",
+        "title": "SA vs PAK Dream11 Team Prediction Fantasy Tips Predicted Playing XI Match 3 South Africa vs Pakistan T20I seri",
         "snippet": "",
-        "url": "https://www.ysscores.com/en/news/8661392/Griezmann:-Alvarez-is-a-great-player,-and-without-my-teammates-I-would-not-be-at-this-level",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD7rMuVvcoNwkt9E2MAPx2BEbH-OT0K6zi9T504SQn9OH-KgypprDrTxB9gPM",
-        "source": "www.ysscores.com"
+        "url": "https://www.timesnownews.com/sports/cricket/sa-vs-pak-dream11-team-prediction-fantasy-tips-predicted-playing-xi-match-3-south-africa-vs-pakistan-t20i-series-2024-article-116314647",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5F-OcRZbpKpncSZsOd4Z9ySynRcbk8JiuPLZqOTNmKVevV-n3MhaE9F3ExHY",
+        "source": "Times Now"
       }
     ]
   }

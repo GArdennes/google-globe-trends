@@ -1,156 +1,125 @@
 [
   {
-    "title": "gemini",
+    "title": "delfi",
     "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Wed, 11 Dec 2024 16:00:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 21:20:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-    "picture_source": "Google Blog",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIPBj8imMfy-5DK3cu8OC06j-nD2_i3-mzdyL5HYDON1xnzt5OEEh7hT5O0Cg",
+    "picture_source": "DELFI",
     "news_items": [
       {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
+        "title": "Krievijā sadedzināts Su-30 un trīs lokomotīves",
         "snippet": "",
-        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-        "source": "Google Blog"
+        "url": "https://www.delfi.lv/46713439/arzemes/120054214/krievija-sadedzinats-su-30-un-tris-lokomotives",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIPBj8imMfy-5DK3cu8OC06j-nD2_i3-mzdyL5HYDON1xnzt5OEEh7hT5O0Cg",
+        "source": "DELFI"
       },
       {
-        "title": "A former Google designer reveals what goes into building its AI models like \nGemini",
+        "title": "\"Padariet Krieviju atkal mazu\" – Lietuvas sportisti izslēdz no čempionāta par uzrakstu uz krekla",
         "snippet": "",
-        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
-        "source": "Business Insider"
+        "url": "https://www.delfi.lv/sports/19493909/other/120054183/padariet-krieviju-atkal-mazu-lietuvas-sportisti-izsledz-no-cempionata-par-uzrakstu-uz-krekla",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzSGHwALjImIQW6M-SXfSFTc0MmWDmnQS0t7XqzADTK65OjJsrKmPbaQu0U2c",
+        "source": "DELFI"
       },
       {
-        "title": "Alphabet Stock Hits a Record High on New AI Models",
+        "title": "\"Pabaroja – un uzbrukumā\": GUR ziņo par ziemeļkorejiešu gatavību kaujai; Kijiva mudina padoties",
         "snippet": "",
-        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
-        "source": "Barron's"
+        "url": "https://www.delfi.lv/46713439/arzemes/120054180/pabaroja-un-uzbrukuma-gur-zino-par-ziemelkorejiesu-gatavibu-kaujai-kijiva-mudina-padoties",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1lwMDRYp1rV-I9iKscO3AcgmhsDo5FnSDoHNzPW1jzwvlVtgInpGi3uAdA5Y",
+        "source": "DELFI"
       }
     ]
   },
   {
-    "title": "chatgpt",
+    "title": "rigas satiksme",
     "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 19:30:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRYBa3zuoQcY2wnVC6NuqOL6T_0QzCEdnfIXdawOfWzKpArLoqcEQsxq2Nn8M",
+    "picture_source": "Apollo.lv",
     "news_items": [
       {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "title": "Kā nepalaist garām braucienu Rīgas Ziemassvētku tramvajā?",
         "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
+        "url": "https://www.apollo.lv/8152908/ka-nepalaist-garam-braucienu-rigas-ziemassvetku-tramvaja",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRYBa3zuoQcY2wnVC6NuqOL6T_0QzCEdnfIXdawOfWzKpArLoqcEQsxq2Nn8M",
+        "source": "Apollo.lv"
       },
       {
-        "title": "ChatGPT is down: What happened and when will it be back?",
+        "title": "Elektroapgādes izbūves darbu laikā līdz 21. decembrim ierobežota satiksme Rīgas ielas posmā",
         "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
+        "url": "https://www.jelgava.lv/jaunumi/elektroapgades-izbuves-darbu-laika-lidz-21-decembrim-ierobezota-satiksme-rigas-ielas-posma/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXEXaDpV2Jiq0oovU3NMf81o6sh1_bEoJVe2DH6h4Jaxy-wLcfaAlYXGUxaQ",
+        "source": "Jelgava"
       },
       {
-        "title": "ChatGPT back online after global outage",
+        "title": "Līdz 21. decembrim ierobežota gājēju kustība Rīgas ielas posmā",
         "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
+        "url": "https://zz.lv/lidz-21-decembrim-ierobezota-gajeju-kustiba-rigas-ielas-posma/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nnVFSpFDev4oHiWsvIgpcG45RahWEqqgehkrToioS3w7g1HZ9b5thBKG65Q",
+        "source": "ZZ.lv"
       }
     ]
   },
   {
-    "title": "champions league",
+    "title": "dod pieci",
     "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
-    "picture_source": "BBC",
+    "pubdate": "Fri, 13 Dec 2024 10:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXKQd5u6sbAICFypKzWTc5eH030ZghD0L1k2EycSgS7DcHK8SxjfVhS7EVHk",
+    "picture_source": "LSM",
     "news_items": [
       {
-        "title": "Champions League: Man City and Guardiola under 'real pressure'",
+        "title": "Labdarības maratons «Dod pieci!» ir sācies! Stikla studijā uz 144 stundām ieslēdz trīs dīdžejus",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/cly256g64dwo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
-        "source": "BBC"
+        "url": "https://www.lsm.lv/raksts/zinas/latvija/13.12.2024-labdaribas-maratons-dod-pieci-ir-sacies-stikla-studija-uz-144-stundam-iesledz-tris-didzejus.a579222/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXKQd5u6sbAICFypKzWTc5eH030ZghD0L1k2EycSgS7DcHK8SxjfVhS7EVHk",
+        "source": "LSM"
       },
       {
-        "title": "Juventus - Manchester City Live - Champions League: Football Scores & \nHighlights - 11/12/2024",
+        "title": "“Es nevarēju runāt, elpot” - jaunā aktrise Elvita Ragovska ārstējas un aizkustināta saka paldies ziedotājiem",
         "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-juventus-manchester-city_mtc1525379/live-commentary.shtml",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJBcsBx_UpG0teIpmCwyRk5AWEGaOB2zLjAdDTCEzDZDJ5tp9B_NOfaFQ-OaY",
-        "source": "Eurosport"
-      },
-      {
-        "title": "Made in America: McKennie and Weah link up for goal to help Juventus beat \nCity",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/made-america-mckennie-weah-goal-234243412.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfemq0NHWGPemF3Ce5rhv1J84p0aY472l6pIS7d0IJcUy5ufUwH8I-wXbCP4U",
-        "source": "Yahoo Sports"
-      }
-    ]
-  },
-  {
-    "title": "instagram",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Wed, 11 Dec 2024 10:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
-    "picture_source": "Forbes",
-    "news_items": [
-      {
-        "title": "Facebook And Instagram Outage: Meta Says It’s ‘99% Of The Way’ To Being \nFixed",
-        "snippet": "",
-        "url": "https://www.forbes.com/sites/mollybohannon/2024/12/11/facebook-and-instagram-outage-meta-says-its-99-of-the-way-to-being-fixed/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
-        "source": "Forbes"
-      },
-      {
-        "title": "Facebook, Instagram, and Threads are down",
-        "snippet": "",
-        "url": "https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHSidYCb4OK0QFH4RkooPjqarIzYvzCAhxhBykeVnZRl0BYX6QcVsK3mFjpls",
-        "source": "The Verge"
-      },
-      {
-        "title": "Meta says it has almost resolved outage on Facebook and Instagram apps",
-        "snippet": "",
-        "url": "https://www.cnn.com/2024/12/11/business/facebook-and-instagram-outage/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKrHw93-K1EsJ2vGyxZoArniccPi8dnM_jFmnD5XEVAEAwHusKVqzwrkualg",
-        "source": "CNN"
-      }
-    ]
-  },
-  {
-    "title": "evika siliņa",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Wed, 11 Dec 2024 10:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX9RWAR2HNZDnbN3JPX9fWFUGUYIU8LCsGd3k97kicBgvHN5wyhANYV9a60VU",
-    "picture_source": "NRA",
-    "news_items": [
-      {
-        "title": "Eksperti: Siliņa izvēlējās skandāla ceļu",
-        "snippet": "",
-        "url": "https://nra.lv/neatkariga/komentari/elita-veidemane/477125-eksperti-silina-izvelejas-skandala-celu.htm",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX9RWAR2HNZDnbN3JPX9fWFUGUYIU8LCsGd3k97kicBgvHN5wyhANYV9a60VU",
-        "source": "NRA"
-      },
-      {
-        "title": "Ilzīte, Pēterītis un bērnudārzs Saeimā: Rinkēvičs komentē Siliņas parupjos \nizteicienus",
-        "snippet": "",
-        "url": "https://jauns.lv/raksts/zinas/632931-ilzite-peteritis-un-bernudarzs-saeima-rinkevics-komente-silinas-parupjos-izteicienus",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvigfEXU3Oe7vh7c5sNK82ngWK7Av3u8HwQCv0lxVS-jylwD3JQ8EtRDwLlnc",
+        "url": "https://jauns.lv/raksts/par-veselibu/633300-es-nevareju-runat-elpot-jauna-aktrise-elvita-ragovska-arstejas-un-aizkustinata-saka-paldies-ziedotajiem",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyB4Oh6kmxmm0LL_Y8LVExMoD79GYmcbknCx0sqs8q8mp8wZr2Ts7-3VNf0IM",
         "source": "Jauns.lv"
       },
       {
-        "title": "Anita Daukšte: Neapvemšanās sausais atlikums",
+        "title": "Nākamnedēļ ar koncertu atklās labdarības maratonu \"Dod pieci!\"",
         "snippet": "",
-        "url": "https://www.la.lv/anita-daukste-neapvemsanas-sausais-atlikums",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTbPG2N5zOdEb1c65uKLLnd6JdK7bQnJ7LSzNcQC0mDBxBs4kGm5xC8JeLCc4",
-        "source": "LA.LV"
+        "url": "https://nra.lv/latvija/riga/476578-nakamnedel-ar-koncertu-atklas-labdaribas-maratonu-dod-pieci.htm",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_TYdO5SphzXKVOHg9A8-IGEutFyQ8QCaYgv834bbXho8ixAMLTTH3cwCv6ko",
+        "source": "NRA"
+      }
+    ]
+  },
+  {
+    "title": "tv6",
+    "link": "https://trends.google.com/trending/rss?geo=LV",
+    "pubdate": "Fri, 13 Dec 2024 09:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenoCxjeYFq3Dld6D-xoghpNH2_UuvPKXU6UA4gcEOT73aYj2gsyEAmXOoKM",
+    "picture_source": "Upper Michigan's Source",
+    "news_items": [
+      {
+        "title": "Man accused of taking payments for saunas and not delivering waives preliminary exam with ‘unusual’ stipulation",
+        "snippet": "",
+        "url": "https://www.uppermichiganssource.com/2024/12/13/michael-sivula-waives-preliminary-exam-with-unusual-stipulation/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenoCxjeYFq3Dld6D-xoghpNH2_UuvPKXU6UA4gcEOT73aYj2gsyEAmXOoKM",
+        "source": "Upper Michigan's Source"
+      },
+      {
+        "title": "Ishpeming City Council offers city manager job to Randy Scholz",
+        "snippet": "",
+        "url": "https://www.uppermichiganssource.com/2024/12/13/ishpeming-city-council-offers-city-manager-job-randy-scholz/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZptrGnzN5mw8sXWC5e0gf2OLTANnTKKODCSMp5JwV5xS_4FQVGXShRrqdjBU",
+        "source": "Upper Michigan's Source"
+      },
+      {
+        "title": "Number of candidates for Ishpeming City Manager position narrowed down to two",
+        "snippet": "",
+        "url": "https://www.wnmufm.org/government/2024-12-09/number-of-candidates-for-ishpeming-city-manager-position-narrowed-down-to-two",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiuXI2ogzeUVXz_4uc4gtPBYmKRnINYKachnMNp14QvUNljfo-Dx0zRY6Pmgc",
+        "source": "WNMU-FM"
       }
     ]
   }

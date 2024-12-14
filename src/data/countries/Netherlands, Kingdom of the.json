@@ -1,311 +1,311 @@
 [
   {
-    "title": "jose de la torre",
+    "title": "liverpool - fulham",
     "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Thu, 12 Dec 2024 01:40:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtSRnU2q_S9H9zP0KgQwhzkwngJey1FEuZd-IQEcBCLUIBDaviS0Mtkeumbo",
+    "picture_source": "Fulham FC",
+    "news_items": [
+      {
+        "title": "Team News: Fulham without 5 at Anfield",
+        "snippet": "",
+        "url": "https://www.fulhamfc.com/news/2024/december/12/team-news-fulham-without-5-at-anfield/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtSRnU2q_S9H9zP0KgQwhzkwngJey1FEuZd-IQEcBCLUIBDaviS0Mtkeumbo",
+        "source": "Fulham FC"
+      },
+      {
+        "title": "Liverpool's expected lineup vs. Fulham with big Darwin Nunez decision - Liverpool FC",
+        "snippet": "",
+        "url": "https://www.thisisanfield.com/2024/12/liverpools-expected-lineup-vs-fulham-with-big-darwin-nunez-decision/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1-jE4iB_88sIkXH1I2jKxvPriQ21SEwShEwKDLhV5mFQXkY8G9-B9d1cdWGA",
+        "source": "This Is Anfield"
+      },
+      {
+        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
+        "snippet": "",
+        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
+        "source": "Liverpool FC"
+      }
+    ]
+  },
+  {
+    "title": "arsenal - everton",
+    "link": "https://trends.google.com/trending/rss?geo=NL",
+    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOUjxcDv0qlgEx07gyTQxK_8atPSJFrWBWxKH9S14fMg0tdd0H0ItPhcMAn0w",
-    "picture_source": "Telegraaf",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Netflix-ster José de la Torre (37) overleden na korte strijd met \nmysterieuze ziekte",
+        "title": "Premier League Arsenal versus Everton kick off 15:00 Sat 14 Dec 2024",
         "snippet": "",
-        "url": "https://www.telegraaf.nl/entertainment/1578496966/netflix-ster-jose-de-la-torre-37-overleden-na-korte-strijd-met-mysterieuze-ziekte",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOUjxcDv0qlgEx07gyTQxK_8atPSJFrWBWxKH9S14fMg0tdd0H0ItPhcMAn0w",
-        "source": "Telegraaf"
+        "url": "https://www.bbc.com/sport/football/live/c047zvkyd10t",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
+        "source": "BBC"
       },
       {
-        "title": "Acteur Jose De La Torre (37) uit Netflix-serie 'Toy Boy' overleden",
+        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
         "snippet": "",
-        "url": "https://www.msn.com/nl-nl/entertainment/nieuws/acteur-jose-de-la-torre-37-uit-netflix-serie-toy-boy-overleden/ar-AA1vJuvG",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMJJSOiJ0jw5VxrXM9bp8O4pKAL0Ap9v-OoW8H2r4mxwTPn2sRBicoPR-t2Jw",
-        "source": "MSN"
+        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
+        "source": "Arsenal.com"
       },
       {
-        "title": "Netflix-acteur José de la Torre (37) overleden",
+        "title": "Liverpool vs Fulham LIVE: Premier League team news, line-ups and more",
         "snippet": "",
-        "url": "https://nieuws.nl/entertainment/netflix-acteur-jose-de-la-torre-37-overleden",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRflendw4C8Xa6f0QVj0xFnKYEZGk7-W9pDx_f3Rc34ukpNzXgfS4mR14m8j0E",
-        "source": "Nieuws.nl"
+        "url": "https://sports.yahoo.com/liverpool-vs-fulham-live-premier-130024902.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzU2E14EGckBt0ic527jchCx0JekCwkEvir9rpx53DSS4htwFJrh0HfhQtldk",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
-    "title": "svb aow",
+    "title": "mainz 05 - bayern",
     "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Thu, 12 Dec 2024 01:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZyMtdPjNXhkCiLYRPJP9vJx3zimq0hjHRWTzLuoSLoXUzGRETaQqBtc8fmPA",
-    "picture_source": "MAX Vandaag",
+    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
+    "picture_source": "FCBinside",
     "news_items": [
       {
-        "title": "Extra AOW-uitkering met Kerstmis? Trap er niet in! SVB waarschuwt voor deze \nnepvideo’s",
+        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
         "snippet": "",
-        "url": "https://www.maxvandaag.nl/sessies/themas/geld-werk-recht/extra-aow-uitkering-met-kerstmis-trap-er-niet-in-svb-waarschuwt-voor-deze-nepvideos/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZyMtdPjNXhkCiLYRPJP9vJx3zimq0hjHRWTzLuoSLoXUzGRETaQqBtc8fmPA",
-        "source": "MAX Vandaag"
+        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
+        "source": "FCBinside"
       },
       {
-        "title": "Pas op voor AOW nepnieuws",
+        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
         "snippet": "",
-        "url": "https://www.plusonline.nl/pensioen-aow/pas-op-voor-aow-nepnieuws",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLO6FRdiVlTiXasxImpHFM-ALwb-kYNZ1UNaPRreTR4Wfn0NrBmMVaMblYkmE",
-        "source": "Plusonline"
+        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
+        "source": "BILD.de"
       },
       {
-        "title": "Waarschuwing: “Video’s over extra AOW-uitkeringen rond de feestdagen zijn \nnep”",
+        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
         "snippet": "",
-        "url": "https://www.libelle.nl/geldzaken/waarschuwing-video-s-over-extra-aow-uitkeringen-rond-de-feestdagen-zijn-nep~bc658a11/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNGChL5Iwzqwz44Imr9frrsIJef98gySiq7VWjGQTITRF-0ebE6YhnmNyGGGk",
-        "source": "Libelle"
+        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
+        "source": "fan.at"
       }
     ]
   },
   {
-    "title": "miss nederland",
+    "title": "augsburg - leverkusen",
     "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Thu, 12 Dec 2024 01:20:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
+    "picture_source": "BILD.de",
+    "news_items": [
+      {
+        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
+        "snippet": "",
+        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
+        "source": "BILD.de"
+      },
+      {
+        "title": "Adventsheimspiel",
+        "snippet": "",
+        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
+        "snippet": "",
+        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
+        "source": "Frankfurter Rundschau"
+      }
+    ]
+  },
+  {
+    "title": "cagliari - atalanta",
+    "link": "https://trends.google.com/trending/rss?geo=NL",
+    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8DJEHgCx85PpVAgPp-GSHYynXF9r3_sCsE3jD4q3hrrtmW53fyGmy6n0Uk8w",
+    "picture_source": "Fantacalcio",
+    "news_items": [
+      {
+        "title": "Cagliari-Atalanta: le formazioni ufficiali",
+        "snippet": "",
+        "url": "https://www.fantacalcio.it/news/calcio-italia/14_12_2024/cagliari-atalanta-le-formazioni-ufficiali-470451",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8DJEHgCx85PpVAgPp-GSHYynXF9r3_sCsE3jD4q3hrrtmW53fyGmy6n0Uk8w",
+        "source": "Fantacalcio"
+      },
+      {
+        "title": "Le \"ufficiali\": Lookman e De Roon partono dalla panchina",
+        "snippet": "",
+        "url": "https://www.calcioatalanta.it/2024/12/14/le-formazioni-atalanta-con-il-tridente/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRBNwTgWbpvdBN6RX_ig6qboF9pv2gQHkJqX8qoMzwahDyWbKSAsvUURYuSOM",
+        "source": "CalcioAtalanta"
+      },
+      {
+        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
+        "snippet": "",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
+        "source": "ANSA"
+      }
+    ]
+  },
+  {
+    "title": "micheil kavelasjvili",
+    "link": "https://trends.google.com/trending/rss?geo=NL",
+    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0Lyy8NuXA0NyaIkTDAaYvw84fCkIqwgQGh1lXhHhOezTFnpfwudtHnuYs04",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ALAxkrJCvm8uyizP68CL7FKfgz8MYfvhTSewNA-wMcxjI0PXtB7LiX25CD8",
     "picture_source": "NOS",
     "news_items": [
       {
-        "title": "Miss Nederland-verkiezing stopt: 'Niet meer van deze tijd'",
+        "title": "Anti-westerse oud-voetballer Kavelasjvili gekozen tot president Georgië",
         "snippet": "",
-        "url": "https://nos.nl/l/2548017",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0Lyy8NuXA0NyaIkTDAaYvw84fCkIqwgQGh1lXhHhOezTFnpfwudtHnuYs04",
+        "url": "https://nos.nl/l/2548271",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ALAxkrJCvm8uyizP68CL7FKfgz8MYfvhTSewNA-wMcxjI0PXtB7LiX25CD8",
         "source": "NOS"
       },
       {
-        "title": "Hoe beïnvloeden missverkiezingen en sociale media jouw schoonheidsbeeld?",
+        "title": "Video | Anti-Rusland-protest neergeslagen door knokploegen in Georgië",
         "snippet": "",
-        "url": "https://www.nu.nl/nujij/6338827/hoe-beinvloeden-missverkiezingen-en-sociale-media-jouw-schoonheidsbeeld.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOkyFa_bXQxl4NIeGPjIBuH1tE0YZuu5re8nIMdKG9LaFOpwB9nAKs-UWM8lc",
+        "url": "https://www.nu.nl/313376/video/anti-rusland-protest-neergeslagen-door-knokploegen-in-georgie.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDQQ9sJH1w1pK4zTn7WKoZgsKzTQuBgVGm1XCOh5KqDeDmy1vVrGAwliV65rg",
         "source": "NU"
       },
       {
-        "title": "Verkiezing van Miss Nederland stopt na 35 jaar, Kim Kötter reageert: ‘Het \ngaat niet om de prinses op het podium’",
+        "title": "Na twee weken van protesten kiest Georgië opvolger van pro-Europese president die niet weg wil",
         "snippet": "",
-        "url": "https://www.ad.nl/show/verkiezing-van-miss-nederland-stopt-na-35-jaar-kim-kotter-reageert-het-gaat-niet-om-de-prinses-op-het-podium~adc978e2/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmLjR5J9NNw5WS3-EQmrly9ECO1ui4lNqPK8Z-YJ0_Oaun7nZ-lQFQE5YhUJI",
+        "url": "https://www.ad.nl/buitenland/na-twee-weken-van-protesten-kiest-georgie-opvolger-van-pro-europese-president-die-niet-weg-wil~a0f75cd0/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3xzobgmpgpWN8lqs87GRpY6VjJC_Qg8a3tN1jCB-rORT1yi9lCO5M1NReGuc",
         "source": "AD.nl"
       }
     ]
   },
   {
-    "title": "jeugdjournaal",
+    "title": "espanyol - osasuna",
     "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Thu, 12 Dec 2024 01:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAZm-JWfx28zvXuH6J6Yxuqqh4Q8C3hLPe_7yA-qQvoVVI5H5SwiNVXU1Re_4",
-    "picture_source": "NOS Jeugdjournaal",
-    "news_items": [
-      {
-        "title": "Ochtendjournaal van donderdag 12 december",
-        "snippet": "",
-        "url": "https://jeugdjournaal.nl/l/2548021",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAZm-JWfx28zvXuH6J6Yxuqqh4Q8C3hLPe_7yA-qQvoVVI5H5SwiNVXU1Re_4",
-        "source": "NOS Jeugdjournaal"
-      },
-      {
-        "title": "Jeugdjournaal",
-        "snippet": "",
-        "url": "https://www.harlingercourant.nl/sport/574/jeugdjournaal",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWHNff8aVbT9-usbbO_arw0Nvy5bCPmvHI9bjG_lMW_U13b55pPrhaO0Ri7EM",
-        "source": "Harlinger Courant"
-      },
-      {
-        "title": "Jeugdjournaal",
-        "snippet": "",
-        "url": "https://www.harlingercourant.nl/sport/556/jeugdjournaal",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShP-qlH5uswP3p-Z8E8cM8lvecWyBbn5lqBObvs9d3FAF6Apw7gzAJoTSqKzg",
-        "source": "Harlinger Courant"
-      }
-    ]
-  },
-  {
-    "title": "aow-bedragen 2025",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Thu, 12 Dec 2024 01:00:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBF2xwJ7_Qk0f5D1Y6LhdFwKr_GPVa2YM11a61Jdh3_KS-4vLH22nsiVpA6nU",
-    "picture_source": "MAX Vandaag",
-    "news_items": [
-      {
-        "title": "AOW-gerechtigd in 2025: hoe zit het ook alweer met zorgtoeslag en \nhuurtoeslag?",
-        "snippet": "",
-        "url": "https://www.maxvandaag.nl/sessies/themas/geld-werk-recht/aow-gerechtigd-in-2025-hoe-zit-het-ook-alweer-met-zorgtoeslag-en-huurtoeslag/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBF2xwJ7_Qk0f5D1Y6LhdFwKr_GPVa2YM11a61Jdh3_KS-4vLH22nsiVpA6nU",
-        "source": "MAX Vandaag"
-      },
-      {
-        "title": "Rekenregels per 1 januari 2025",
-        "snippet": "",
-        "url": "https://www.salarisnet.nl/12654/rekenregels-per-1-januari-2025",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI_RtOTZDerJ0kAaiZjAFxKDbzB5ve3lBWhWuEQZefvEOCbGZ4f73zL6w7cBY",
-        "source": "SalarisNet"
-      },
-      {
-        "title": "Dit bedrag aan toeslagen ontvangt de gemiddelde zestigplusser in 2025",
-        "snippet": "",
-        "url": "https://www.margriet.nl/goed-geregeld/zorgtoeslag-huurtoeslag-gemiddelde-zestigplusser~b3a81ad75/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2fMFwcml0HclvXNbhEyRvrFpWUcq0pwOWfkoD4D8q0f5AOVWY_L5VJVuX5s",
-        "source": "Margriet"
-      }
-    ]
-  },
-  {
-    "title": "rikkie kollé",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Thu, 12 Dec 2024 00:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBhaYICYHhYMUd0pVMqPZ18YSugP_K6HhZKTOp6KOMo-k1ufwh1y0276X_BUQ",
-    "picture_source": "DutchNews.nl",
-    "news_items": [
-      {
-        "title": "No more Miss Nederland: Support platform replaces beauty show",
-        "snippet": "",
-        "url": "https://www.dutchnews.nl/2024/12/no-more-miss-nederland-support-platform-replaces-beauty-show/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBhaYICYHhYMUd0pVMqPZ18YSugP_K6HhZKTOp6KOMo-k1ufwh1y0276X_BUQ",
-        "source": "DutchNews.nl"
-      },
-      {
-        "title": "Miss Nederland contest ends after 35 years, replaced by new platform",
-        "snippet": "",
-        "url": "https://nltimes.nl/2024/12/12/miss-nederland-contest-ends-35-years-replaced-new-platform",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc15AhcoXQ8U2wH2qrd3vDg8utO8H6kkZqmUUnmULP0qLEo-B0pazARlQ280g",
-        "source": "NL Times"
-      },
-      {
-        "title": "Miss Nederland-verkiezing stopt: 'Niet meer van deze tijd'",
-        "snippet": "",
-        "url": "https://nos.nl/l/2548017",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0Lyy8NuXA0NyaIkTDAaYvw84fCkIqwgQGh1lXhHhOezTFnpfwudtHnuYs04",
-        "source": "NOS"
-      }
-    ]
-  },
-  {
-    "title": "stroomprijs",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Wed, 11 Dec 2024 23:00:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 05:00:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrsFsSmv5ofB--HqtHr_yib73nFVLYLFK_vQL2OlJjj7fwbWis7aozKBPJmIc",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyJcqCT7pbsK_MoBW4P7qRLL-pG7zZaC4cVfEz8u1tfAhAHpj3WSPmPFGT1I",
+    "picture_source": "Marca.com",
+    "news_items": [
+      {
+        "title": "Espanyol - Osasuna en directo | LaLiga en vivo",
+        "snippet": "",
+        "url": "https://www.marca.com/futbol/laliga-ea-sports/espanyol-osasuna/2024/12/14/01_0101_20241214_177_450-directo.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyJcqCT7pbsK_MoBW4P7qRLL-pG7zZaC4cVfEz8u1tfAhAHpj3WSPmPFGT1I",
+        "source": "Marca.com"
+      },
+      {
+        "title": "Portada ‘El 1900’ del sábado 14 de diciembre de 2024",
+        "snippet": "",
+        "url": "https://el1900.com/portada-el1900-14-diciembre-2024-espanyol-ca-osasuna/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfp8O-Fn4mBFoYvxlNZGcQz-wscct86d1cDCfXXCDbExYzmN3nes7oJUDV2l8",
+        "source": "El 1900"
+      },
+      {
+        "title": "Fútbol en Directo | En juego el Espanyol-Osasuna; Navas se despide en el Pizjuán",
+        "snippet": "",
+        "url": "https://www.flashscore.es/noticias/futbol-laliga-ea-sports-futbol-en-directo-en-juego-el-espanyol-osasuna-navas-se-despide-en-el-pizjuan/Iop1urgm/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4h8kwYiSlFI3LYvRQQj0WBh6j0CDKP32-UdVNDzoIPc8awxA5qO0DXqhiUlk",
+        "source": "Flashscore.es"
+      }
+    ]
+  },
+  {
+    "title": "senna netflix",
+    "link": "https://trends.google.com/trending/rss?geo=NL",
+    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-6toko1z2ssHmXYcSjZwK_aFIxunj3n39JB4EY9pqjviFJM1r59JSOtpRHk",
+    "picture_source": "Yahoo",
+    "news_items": [
+      {
+        "title": "Unpacking ‘Senna’: Netflix’s Latest True Story Limited Series",
+        "snippet": "",
+        "url": "https://www.yahoo.com/entertainment/unpacking-senna-netflix-latest-true-214023361.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-6toko1z2ssHmXYcSjZwK_aFIxunj3n39JB4EY9pqjviFJM1r59JSOtpRHk",
+        "source": "Yahoo"
+      },
+      {
+        "title": "People are only just realising how this BAFTA-winning Netflix film was made as incredible footage goes viral:",
+        "snippet": "",
+        "url": "https://www.dailymail.co.uk/tv/article-14185737/senna-bafta-netflix-film-footage.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4Tg-gVuLSlhaXI-gSqkpo5-tD-bt1W5VWdQhIUnY2VACux8zno5OsPCNXqzU",
+        "source": "Daily Mail"
+      },
+      {
+        "title": "People are only just realising how this BAFTA-winning Netflix film was made as incredible footage goes viral: 'It was all a lie'",
+        "snippet": "",
+        "url": "https://www.msn.com/en-ie/entertainment/tv/people-are-only-just-realising-how-this-bafta-winning-netflix-film-was-made-as-incredible-footage-goes-viral-it-was-all-a-lie/ar-AA1vK774",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHbR2GatXFzXFCJLbYsp-ZfbaVVqBOz-pPr7d2Vyu5OF1M65TIWR9U9ddgW0c",
+        "source": "MSN"
+      }
+    ]
+  },
+  {
+    "title": "kavelashvili",
+    "link": "https://trends.google.com/trending/rss?geo=NL",
+    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbj0oEXjiLwKA7ucB44LN1QEsi9r6AaA9mmCsBqY4k5IPRxB8ISH3ZvPhhOhY",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Georgia's crisis deepens as ex-footballer Mikheil Kavelashvili named president",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/c5ygejxej28o",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbj0oEXjiLwKA7ucB44LN1QEsi9r6AaA9mmCsBqY4k5IPRxB8ISH3ZvPhhOhY",
+        "source": "BBC"
+      },
+      {
+        "title": "Georgian lawmakers elect far-right, anti-west hardliner as new president",
+        "snippet": "",
+        "url": "https://www.theguardian.com/world/2024/dec/14/georgias-ruling-party-to-appoint-far-right-loyalist-as-president",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKA72V-OBfTygWBxDcbuXqatL_H8QjuGRM0kg7q9mnNKvB78rS6-ujPILI2k",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Georgian government votes in far-right former soccer player as president",
+        "snippet": "",
+        "url": "https://www.cnn.com/2024/12/14/europe/georgia-president-vote-mikheil-kavelashvili-intl/index.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYMplOowgq1frlYUxOwmTmPASnNeN0nLv0TgJkOvFKVATtaErjMpxjlzkKHCg",
+        "source": "CNN"
+      }
+    ]
+  },
+  {
+    "title": "extinction rebellion schiphol",
+    "link": "https://trends.google.com/trending/rss?geo=NL",
+    "pubdate": "Sat, 14 Dec 2024 04:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR0U_0n6xzG4JYcD9Z3M_KQJq-or4LPvz8mepiJ06P0MXD5_K6Byk_D3UaPBc",
     "picture_source": "NOS",
     "news_items": [
       {
-        "title": "Gebrek aan zon en wind leidt tot recordprijs van elektriciteit",
+        "title": "Marechaussee houdt betogers met bruine vloeistof aan op Schiphol",
         "snippet": "",
-        "url": "https://nos.nl/l/2547999",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrsFsSmv5ofB--HqtHr_yib73nFVLYLFK_vQL2OlJjj7fwbWis7aozKBPJmIc",
+        "url": "https://nos.nl/l/2548274",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR0U_0n6xzG4JYcD9Z3M_KQJq-or4LPvz8mepiJ06P0MXD5_K6Byk_D3UaPBc",
         "source": "NOS"
       },
       {
-        "title": "Stroomprijs vanmiddag vier keer zo hoog als normaal door slecht weer en \nonderhoud aan gascentrales",
+        "title": "99 actievoerders Extinction Rebellion aangehouden na protest achter de paspoortcontrole op Schiphol",
         "snippet": "",
-        "url": "https://www.volkskrant.nl/economie/stroomprijs-vanmiddag-vier-keer-zo-hoog-als-normaal-door-slecht-weer-en-onderhoud-aan-gascentrales~b8a553f99/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5a0VC_qCFQkGSh-9-GbsbN6lMutwWX4X0jrDuaqja7b59rCG6nxy7E3DC_0w",
-        "source": "de Volkskrant"
+        "url": "https://www.parool.nl/amsterdam/99-actievoerders-extinction-rebellion-aangehouden-na-protest-achter-de-paspoortcontrole-op-schiphol~bd841aac/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLM28o6X61P8pvRtzMKxMAP5HJshGfOYvtTG_lR5ESJb23CCAqoCfF9AF2LYA",
+        "source": "Het Parool"
       },
       {
-        "title": "Vandaag hoogste dagprijs voor stroom: ’Dit hebben we nog niet eerder gezien’",
+        "title": "Marechaussee stopt klimaatdemonstratie achter paspoortcontrole bij Schiphol",
         "snippet": "",
-        "url": "https://www.noordhollandsdagblad.nl/extra/vandaag-hoogste-dagprijs-voor-stroom-dit-hebben-we-nog-niet-eerder-gezien/29462713.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWXaT280Euq-uog22wCbZMbwXZBnHkM9B-yfCZl5BEdCBYrpIG16HH4H2_R4",
-        "source": "Noordhollands Dagblad"
-      }
-    ]
-  },
-  {
-    "title": "pokrovsk",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Wed, 11 Dec 2024 22:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMI3ZuDbWdJjg7DmBipoG2EU8JfSmRBpxy2j9P24epBVf9E7m1ZR0yhrZ-mP0",
-    "picture_source": "EADaily",
-    "news_items": [
-      {
-        "title": "Российская армия на подходе: в Покровске отключат газ",
-        "snippet": "",
-        "url": "https://eadaily.com/ru/news/2024/12/11/rossiyskaya-armiya-na-podhode-v-pokrovske-otklyuchat-gaz",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMI3ZuDbWdJjg7DmBipoG2EU8JfSmRBpxy2j9P24epBVf9E7m1ZR0yhrZ-mP0",
-        "source": "EADaily"
-      },
-      {
-        "title": "Из-за наступления россиян с 12 декабря Покровск останется без газа",
-        "snippet": "",
-        "url": "https://www.pravda.com.ua/rus/news/2024/12/10/7488508/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYfTx_xG1vJV4AVTDKljVVfr767WSVjBQBxM7aGQEaJhb5TGashjX5Ysf84JY",
-        "source": "Українська правда"
-      },
-      {
-        "title": "Компания \"Донецкоблгаз\" заявила о прекращении поставок газа в Покровск: \nситуация резко ухудшилась",
-        "snippet": "",
-        "url": "https://www.dialog.ua/ukraine/306184_1733846131",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvfyMFMtR04zSqzrW_F6JerjgowwQfL1A8bpiBLs4lOFwePPLnkVQUakAMYZA",
-        "source": "Диалог.UA"
-      }
-    ]
-  },
-  {
-    "title": "file a7",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Wed, 11 Dec 2024 22:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLaaDgRA31KqaY_f-m8fEs-URw3S_1eXNmAe4qeNs7Imd1MhSiHVWb989Dj8I",
-    "picture_source": "Telegraaf",
-    "news_items": [
-      {
-        "title": "Chaos op A7 bij Purmerend door kettingbotsing, ook elders files",
-        "snippet": "",
-        "url": "https://www.telegraaf.nl/nieuws/2082501800/chaos-op-a7-bij-purmerend-door-kettingbotsing-ook-elders-files",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLaaDgRA31KqaY_f-m8fEs-URw3S_1eXNmAe4qeNs7Imd1MhSiHVWb989Dj8I",
-        "source": "Telegraaf"
-      },
-      {
-        "title": "Kettingbotsing veroorzaakt lange file op A7",
-        "snippet": "",
-        "url": "https://www.nhnieuws.nl/nieuws/343703/kettingbotsing-veroorzaakt-lange-file-op-a7",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ78q9JC9sSkNjwfnPRdW2ZEp9-mVaNqvs3oS5LA-nDTIgHwUmZlLDd8gkaU0",
-        "source": "NH Nieuws"
-      },
-      {
-        "title": "Ongeval met letsel op A7 in Purmerend",
-        "snippet": "",
-        "url": "https://www.ad.nl/112-nieuws-purmerend/ongeval-met-letsel-op-a7-in-purmerend~af402f50/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfoKxD-TdKuYQMEvXsuZnHFl7KmWjRYD_KZFr8nDDXhSPuPT_zLX6-WEOmwSw",
-        "source": "AD.nl"
-      }
-    ]
-  },
-  {
-    "title": "nelson",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Wed, 11 Dec 2024 22:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Px2vVnMF88lPazRoy_KqmvZYK_nAhISNqR7W8zVTyMQ2nlfvyQoO8f4aCpU",
-    "picture_source": "Yahoo Finance",
-    "news_items": [
-      {
-        "title": "Semiconductor Veteran Drew Nelson OBE Joins Finchetto to Accelerate \nEnergy-Efficient AI",
-        "snippet": "",
-        "url": "https://finance.yahoo.com/news/semiconductor-veteran-drew-nelson-obe-101000094.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Px2vVnMF88lPazRoy_KqmvZYK_nAhISNqR7W8zVTyMQ2nlfvyQoO8f4aCpU",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "'The Challenge': Cory addresses portrayal of Nelson's drunk driving accident",
-        "snippet": "",
-        "url": "https://ew.com/the-challenge-cory-wharton-responds-to-nelson-thomas-drunk-driving-accident-backlash-8759913",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9xkqkDOh_wMrbAjfaiJ0_uBBAUSt4r1_X67_BhdMeZEVfMLyrlQ2xY-FbTfk",
-        "source": "Entertainment Weekly"
-      },
-      {
-        "title": "\"He’s owned that mistake”— The Challenge star Cory Wharton comments on \nNelson Thomas’s car accident",
-        "snippet": "",
-        "url": "https://www.sportskeeda.com/us/reality-tv/he-s-owned-mistake-the-challenge-star-cory-wharton-comments-nelson-thomas-s-car-accident",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCFcrAvrfLw1Scd0iZH6aQYmK9A6M0CpES3nXja03gFbHkVtAJhZ0Vxo_uQx0",
-        "source": "Sportskeeda"
+        "url": "https://www.nu.nl/binnenland/6339091/marechaussee-stopt-klimaatdemonstratie-achter-paspoortcontrole-bij-schiphol.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDUkWeIWjIMCPAw3SIb7DJ1XIdEMxAZlApeOj0LJsuHTWL67l-Z8g7ho46moc",
+        "source": "NU"
       }
     ]
   }

@@ -1,311 +1,94 @@
 [
   {
+    "title": "meteo",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Fri, 13 Dec 2024 22:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57h2MzczXjyChPm0lYo5J0xpRIyYObewctk30q42k_xQuYTK9OiKLeAA12G8",
+    "picture_source": "Meteo Giornale",
+    "news_items": [
+      {
+        "title": "Holiday Weather, Everything Will Happen: From Heat to Polar Cold",
+        "snippet": "",
+        "url": "https://www.meteogiornale.it/eng/2024/12/weather-news/holiday-weather-everything-will-happen-from-heat-to-polar-cold/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57h2MzczXjyChPm0lYo5J0xpRIyYObewctk30q42k_xQuYTK9OiKLeAA12G8",
+        "source": "Meteo Giornale"
+      },
+      {
+        "title": "Mid-December Could Be Much Different Than Early December",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/mid-december-could-much-different-214415057.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUka18rG3TBvwf6IXIu8csXjSUojs9Iuvb66juJEF9ShVOfQfYQ4NI5YbfqFs",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Weather outlook for the holidays in December and January",
+        "snippet": "",
+        "url": "https://lismoreapp.com.au/NewsStory/weather-outlook-for-the-holidays-in-december-and-january/675c131f433c61002d52fc04",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNd20z-8IBxKT6AxLgn4jPdGHDTBaD94_x8e1m3j9u45rrGXENsGhv8kgjmL0",
+        "source": "The Lismore App"
+      }
+    ]
+  },
+  {
     "title": "mrbeast",
     "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 17:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU2g87qBid0niKbkIpavf_tM3M8LqZUyYXqHU0qofI5QdD1YREAEbbx53amQs",
-    "picture_source": "Hindustan Times",
-    "news_items": [
-      {
-        "title": "MrBeast reveals massive $14 million 'city' he built for his new reality \nshow 'Beast Games'",
-        "snippet": "",
-        "url": "https://www.hindustantimes.com/trending/mrbeast-reveals-massive-14-million-city-he-built-for-his-new-reality-show-beast-games-101733805133164.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU2g87qBid0niKbkIpavf_tM3M8LqZUyYXqHU0qofI5QdD1YREAEbbx53amQs",
-        "source": "Hindustan Times"
-      },
-      {
-        "title": "Mr Beast is coming to Roblox – Everything we know",
-        "snippet": "",
-        "url": "https://www.destructoid.com/mr-beast-is-coming-to-roblox-everything-we-know/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-ytjtzNJgSvRliNIb2Kok4mdULs34ckut67_jIzs-u7QRuY3ewzMF2dUmzDo",
-        "source": "Destructoid"
-      },
-      {
-        "title": "World-famous blogger built a city for $14 million for his own show",
-        "snippet": "",
-        "url": "https://112.ua/en/vsesvitno-vidomij-bloger-pobuduvav-misto-za-14-mln-dla-vlasnogo-sou-48980",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfNwA5-6LlFZjORwbEbXOqqEOHbt-5oqvtZhdQ56oWFjPoUKkKI3sT7bIiMXw",
-        "source": "112.ua"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "flashscore",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RP0KPmm3hpMUC6eBC1LpRJ-P50zsvw_W3ASALYoCXQVnx0jD0x8LQrneApc",
-    "picture_source": "Flashscore.com",
-    "news_items": [
-      {
-        "title": "Champions League LIVE: Atletico Madrid and Lille in early action, huge \ngames to come",
-        "snippet": "",
-        "url": "https://www.flashscore.com/news/champions-league-live-atletico-madrid-and-lille-in-early-action-huge-games-to-come/xIyMo15L/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RP0KPmm3hpMUC6eBC1LpRJ-P50zsvw_W3ASALYoCXQVnx0jD0x8LQrneApc",
-        "source": "Flashscore.com"
-      },
-      {
-        "title": "Griezmann: Alvarez is a great player, and without my teammates I would not \nbe at this level",
-        "snippet": "",
-        "url": "https://www.ysscores.com/en/news/8661392/Griezmann:-Alvarez-is-a-great-player,-and-without-my-teammates-I-would-not-be-at-this-level",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD7rMuVvcoNwkt9E2MAPx2BEbH-OT0K6zi9T504SQn9OH-KgypprDrTxB9gPM",
-        "source": "www.ysscores.com"
-      },
-      {
-        "title": "Simeone: \"We Compete in Our League Against the Two Best in Europe\"",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2168787-simeone-we-compete-in-our-league-against-the-two-best-in-europe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS__fEdUDI0krRaFEO07lfpCvigQkLBVKIx1WMUFuwi0i9Rgyd_xa8Cpy_Od5Q",
-        "source": "FootBoom"
-      }
-    ]
-  },
-  {
-    "title": "bet365",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYvVWgcVFwbwLrbFOQYRHnrSaW0htGKCCoZYj3GNS1BWS9rowjnDg4AEzKvng",
-    "picture_source": "Scioto County Daily News",
-    "news_items": [
-      {
-        "title": "Unlock Your Welcome Bonus with the Bet365 Bonus Code: BETTINGCOM",
-        "snippet": "",
-        "url": "https://sciotocountydailynews.com/unlock-your-welcome-bonus-with-the-bet365-bonus-code-bettingcom/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYvVWgcVFwbwLrbFOQYRHnrSaW0htGKCCoZYj3GNS1BWS9rowjnDg4AEzKvng",
-        "source": "Scioto County Daily News"
-      },
-      {
-        "title": "bet365 promo code: Bet $5, get $150 in bonus bets",
-        "snippet": "",
-        "url": "https://www.pennlive.com/betting/2024/12/bet365-promo-code-bet-5-get-150-in-bonus-bets.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBjHmvZ-q9qnHgJx-oeKNo5IoawjjyuwvIsXbHnehHzaPL4lhc7UwabYVcn38",
-        "source": "PennLive.com"
-      },
-      {
-        "title": "Bet365 Bonus Code MHSXLM: $150 Bonus for NBA Cup, Rams-49ers TNF",
-        "snippet": "",
-        "url": "https://milehighsports.com/bet365-bonus-code-mhsxlm-nba-cup-rams-49ers/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPfPxq8x9J5MNdcNaaCS74ii-FsRUsYHMsvMSyApF09E5GHOprUyomZnzWpbo",
-        "source": "Mile High Sports"
-      }
-    ]
-  },
-  {
-    "title": "barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5btiHifzRMNWZd5SvIK7WGbe62GtFEGw0NMDnXrK-jLG2TxLFhrOT9ZSliT4",
-    "picture_source": "Diario AS",
-    "news_items": [
-      {
-        "title": "Borussia Dortmund 2-3 Barcelona: resumen, goles y resultado",
-        "snippet": "",
-        "url": "https://as.com/futbol/champions/borussia-dortmund-barcelona-en-directo-champions-league-hoy-en-vivo-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5btiHifzRMNWZd5SvIK7WGbe62GtFEGw0NMDnXrK-jLG2TxLFhrOT9ZSliT4",
-        "source": "Diario AS"
-      },
-      {
-        "title": "La Champions es el nuevo jardín del Barcelona",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/barcelona/2024/12/11/champions-nuevo-jardin-barcelona.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYM4XkCnJaabA835JHa9nOimBy_tMU0CvAHWlwp9GVCNWh0-vzeg2qyMZrcyg",
-        "source": "Marca.com"
-      },
-      {
-        "title": "¿Cuál es la capacidad del Signal Iduna Park y la 'Pared Amarilla' en el \nestadio del Borussia Dortmund?",
-        "snippet": "",
-        "url": "https://www.footboom1.com/es/news/football/2168596-what-is-the-capacity-of-signal-iduna-park-and-the-yellow-wall-at-borussia-dortmund-stadium",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
-        "source": "FootBoom"
-      }
-    ]
-  },
-  {
-    "title": "a.c. milan vs fk crvena zvezda",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 12:30:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 18:40:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxu1aZ4bddHKpxoW8mMCrnBpXgxyfXGOpdwxcU29Zgg7l5hMiKAK7r7MHsuDA",
-    "picture_source": "Goal.com",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe70-9NkJaWm2HGgeEDTcjHMs956zqA10tYVYnv7gggO-14uKrLC3qX3-Flzo",
+    "picture_source": "The Economic Times",
     "news_items": [
       {
-        "title": "USMNT's Yunus Musah steps in for injured Christian Pulisic in AC Milan's \nChampions League win against FK Crvena Zvezda",
+        "title": "MrBeast subscribes to T-Series YouTube channel in 'biggest' social media collaboration ever",
         "snippet": "",
-        "url": "https://www.goal.com/en-sa/lists/usmnt-yunus-musah-in-ac-milan-champions-league-fk-crvena-zvezda-red-star-belgrade/blt2d390b1dadbf9683",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxu1aZ4bddHKpxoW8mMCrnBpXgxyfXGOpdwxcU29Zgg7l5hMiKAK7r7MHsuDA",
-        "source": "Goal.com"
+        "url": "https://m.economictimes.com/magazines/panache/mrbeast-subscribes-to-t-series-youtube-channel-in-biggest-social-media-collaboration-ever/articleshow/116159160.cms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe70-9NkJaWm2HGgeEDTcjHMs956zqA10tYVYnv7gggO-14uKrLC3qX3-Flzo",
+        "source": "The Economic Times"
       },
       {
-        "title": "Fonseca slams Milan players and hints at consequences: “Like tossing a coin”",
+        "title": "T-Series, MrBeast finally end 'subscriber-race' with a surprise deal",
         "snippet": "",
-        "url": "https://sempremilan.com/fonseca-slams-milan-players-consequences-coin",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNpHKXOE7AmpxDdL-kEeRHtt7Ibo1rSgr7g3oKjG5q6p3DFYnjAnSbLpdyzdQ",
-        "source": "SempreMilan"
+        "url": "https://www.newsbytesapp.com/news/entertainment/mrbeast-t-series-end-subscriber-race-with-a-surprise-deal/story",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwsjnUqvoqg2JN6oO-_q-TLVlo9lYQ3xE4yxDVa-GR2Hwr2q3Xi_hrzXwB5y8",
+        "source": "NewsBytes"
       },
       {
-        "title": "AC Milan 2-1 Crvena Zvezda, UEFA Champions League 2024/25: the match report",
+        "title": "MrBeast Flies To India And Ends Rivalry With T-series, Lauds Indian Creators",
         "snippet": "",
-        "url": "https://www.acmilan.com/en/news/articles/champions-league/2024-12-11/late-ucl-win-at-san-siro-ac-milan-2-1-crvena-zvezda",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCxo2N5y2Uypgv2tk1wypvteqUNFudNCR7fXmm9A7x0JGUXUUTPU4M5mg786Y",
-        "source": "AC Milan"
+        "url": "https://www.timesnownews.com/entertainment-news/hollywood/mrbeast-flies-to-india-and-ends-rivalry-with-bhushan-kumars-t-series-lauds-indian-creators-article-116187324",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiWR5jkG0CqPb4pCjtMweVL7c97WOX5ifW6JDv11_Dq6sgtS6HcHbaEyfxANk",
+        "source": "Times Now"
       }
     ]
   },
   {
-    "title": "milan vs crvena zvezda",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 11:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNpHKXOE7AmpxDdL-kEeRHtt7Ibo1rSgr7g3oKjG5q6p3DFYnjAnSbLpdyzdQ",
-    "picture_source": "SempreMilan",
+    "pubdate": "Fri, 13 Dec 2024 11:30:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
+    "picture_source": "5 EYEWITNESS NEWS",
     "news_items": [
       {
-        "title": "Fonseca slams Milan players and hints at consequences: “Like tossing a coin”",
+        "title": "Ken says a warming begins today",
         "snippet": "",
-        "url": "https://sempremilan.com/fonseca-slams-milan-players-consequences-coin",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNpHKXOE7AmpxDdL-kEeRHtt7Ibo1rSgr7g3oKjG5q6p3DFYnjAnSbLpdyzdQ",
-        "source": "SempreMilan"
+        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
+        "source": "5 EYEWITNESS NEWS"
       },
       {
-        "title": "AC Milan 2-1 Crvena Zvezda, UEFA Champions League 2024/25: the match report",
+        "title": "Warmer temps this weekend and especially for next week",
         "snippet": "",
-        "url": "https://www.acmilan.com/en/news/articles/champions-league/2024-12-11/late-ucl-win-at-san-siro-ac-milan-2-1-crvena-zvezda",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCxo2N5y2Uypgv2tk1wypvteqUNFudNCR7fXmm9A7x0JGUXUUTPU4M5mg786Y",
-        "source": "AC Milan"
+        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
+        "source": "WIS News 10"
       },
       {
-        "title": "Champions League: Ruben Loftus-Cheek to replace injured Christian Pulisic \nfor Milan against Red Star",
+        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
         "snippet": "",
-        "url": "https://www.flashscore.com/news/soccer-champions-league-ruben-loftus-cheek-to-replace-injured-christian-pulisic-for-milan-against-red-star/zN6kRltS/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSE6vpsxeDb8UwUO5XHlNqnghufiAWTMDvn9EQ1KqLt9te1Sk5xeYS94ROub-k",
-        "source": "Flashscore.com"
-      }
-    ]
-  },
-  {
-    "title": "juventus vs man city",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Champions League: Man City and Guardiola under 'real pressure'",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/cly256g64dwo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaESdO-JNzoJ_F9A4Tj0nBw8h6VA0PrOhZf6u6byktQoTQyY2f1K_NZVB2MHs",
-        "source": "BBC"
-      },
-      {
-        "title": "PRESS ROOM | Comments after Juventus-Manchester City",
-        "snippet": "",
-        "url": "https://www.juventus.com/en/news/articles/press-room-comments-after-juventus-manchester-city",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfB0dBi1z6gVkVxIzt2NZc_2-c9xtr2Kyfx0RnvSo7nUB2c53xyN-B_mGvn_E",
-        "source": "Juventus.com"
-      },
-      {
-        "title": "Man City crisis deepens with Champions League defeat at Juventus",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/man-city-crisis-deepens-with-champions-league-defeat-at-juventus-2024-12-11",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdhRIh8koWO-72Z4VHOxbCAlF7WJ2rzH9rSdzhg87U45UFHtJSSIWvYjWW7jo",
-        "source": "beIN SPORTS"
-      }
-    ]
-  },
-  {
-    "title": "bv 09 borussia dortmund vs fc barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv8RYpSwKYMnCDXKAaecdiBn6s6um7-SKfNBO52oyIWLSuNiGnveYIxKKBi80",
-    "picture_source": "Barca News Network",
-    "news_items": [
-      {
-        "title": "Ronald Araujo’s return pushes 19-year-old defender back to Barcelona Atletic",
-        "snippet": "",
-        "url": "https://barcanewsnetwork.com/ronald-araujos-return-pushes-19-year-old-defender-back-to-barcelona-atletic/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv8RYpSwKYMnCDXKAaecdiBn6s6um7-SKfNBO52oyIWLSuNiGnveYIxKKBi80",
-        "source": "Barca News Network"
-      },
-      {
-        "title": "Second Sports Bulletin - Prensa Latina News",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2164330-second-sports-bulletin-prensa-latina-news",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6LgqIVbbL35QvhkxfQDso3iK5qKCTLhMzGDhu9_Zfb7d2EbpNjdrpn0q08C8",
-        "source": "FootBoom"
-      },
-      {
-        "title": "The amount FIFA paid Barcelona for Araujo's injury is revealed",
-        "snippet": "",
-        "url": "https://telegrafi.com/en/zbulohet-shuma-qe-fifa-ka-paguar-barcelones-per-lendimin-e-araujos/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHQrLmHlYqYvGvxnCea9Zs1WOk5BKNmtIvVkWIMy9EFo9NMkgK-RnqQjz-0xQ",
-        "source": "Telegrafi"
-      }
-    ]
-  },
-  {
-    "title": "dortmund vs barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Wed, 11 Dec 2024 11:10:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtamj2oWmZ3OiB_YDevuCF94w5g_h7gUJKB_EMS7JB4b7Fm9taC4idA7ETw7s",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Borussia Dortmund 2-3 Barcelona: Ferran Torres double seals Barca points",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c9vkk4j13r9t",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtamj2oWmZ3OiB_YDevuCF94w5g_h7gUJKB_EMS7JB4b7Fm9taC4idA7ETw7s",
-        "source": "BBC"
-      },
-      {
-        "title": "Champions League LIVE: Barcelona beat Dortmund in thriller, Arsenal win as \nCity lose again",
-        "snippet": "",
-        "url": "https://www.flashscore.com/news/soccer-champions-league-champions-league-live-barcelona-beat-dortmund-in-thriller-arsenal-win-as-city-lose-again/xIyMo15L/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4q8bGduC8FR1ZJw-kWPofgW4yG_PtGY0HGlvqPbyS7QphC6qgV4YwfrIDY1I",
-        "source": "Flashscore.com"
-      },
-      {
-        "title": "Barcelona’s Shark finally bites as Hansi Flick gets subs spot on in Dortmund",
-        "snippet": "",
-        "url": "https://www.barcablaugranes.com/2024/12/12/24319148/barcelonas-shark-finally-bites-as-hansi-flick-gets-subs-spot-on-in-dortmund",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn9AMnMRhDRxENH7gmWWye0mE5OPDahqpifpS4wh2eDEdw5F81yNHyOBrkAvI",
-        "source": "Barca Blaugranes"
+        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
+        "source": "WLWT"
       }
     ]
   }

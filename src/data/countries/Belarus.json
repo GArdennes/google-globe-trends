@@ -1,289 +1,258 @@
 [
   {
-    "title": "спортмастер",
+    "title": "натали",
     "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Thu, 12 Dec 2024 00:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx5Xs3aJTw2b773LPvPgSpwS7h0TrvAFgjOOwV-TVNy-Qu8XtRwVoKXr0U8IE",
-    "picture_source": "New Retail",
-    "news_items": [
-      {
-        "title": "«Спортмастер» запустил первую в России программу лояльности для учителей и тренеров",
-        "snippet": "",
-        "url": "https://new-retail.ru/novosti/retail/sportmaster_zapustil_pervuyu_v_rossii_programmu_loyalnosti_dlya_uchiteley_i_trenerov/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx5Xs3aJTw2b773LPvPgSpwS7h0TrvAFgjOOwV-TVNy-Qu8XtRwVoKXr0U8IE",
-        "source": "New Retail"
-      },
-      {
-        "title": "В приложении «Спортмастера» появились «ставки» на спорт",
-        "snippet": "",
-        "url": "https://rb.ru/news/v-prilozhenii-sportmastera/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxlDNTRoaMaxAXxCzTuU7VblV9jNr315IRMElfGW-dvHd3pYjmhroNnLPgp0o",
-        "source": "RB.RU"
-      },
-      {
-        "title": "В Балашихе стартует строительство распределительного центра сети «Спортмастер»",
-        "snippet": "",
-        "url": "https://radio1.ru/news/ekonomika/v-balashihe-startuet-stroitelstvo-raspredelitelnogo-tsentra-seti-sportmaster/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-em7JEvPPse0WZd777TGaZlBr4IUYue5CpfuzHrbi37PHPuxTXLJwHooPdDs",
-        "source": "radio1.ru"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Wed, 11 Dec 2024 16:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "betera",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Wed, 11 Dec 2024 15:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-mdb24HcCnutkOkSSozkYjuy0nuc3j65FiCfR01xg8x3AFybKFQ4xx2iMtnU",
-    "picture_source": "Ajuntament de Bétera",
-    "news_items": [
-      {
-        "title": "Bétera acoge este fin de semana un Ciclo de Proyecciones de las obras ganadoras de los Premios Berlanga de la Academia Valenciana del Audiovisual",
-        "snippet": "",
-        "url": "https://www.betera.es/es/noticia-pagina/betera-acoge-fin-semana-un-ciclo-proyecciones-obras-ganadoras-premios-berlanga-academia-valenciana-del-audiovisual",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-mdb24HcCnutkOkSSozkYjuy0nuc3j65FiCfR01xg8x3AFybKFQ4xx2iMtnU",
-        "source": "Ajuntament de Bétera"
-      },
-      {
-        "title": "El Ayuntamiento de Bétera limpia y acondiciona el canal de desvío al Barranco del Carraixet a fin de prevenir y reducir el riesgo de inundaciones",
-        "snippet": "",
-        "url": "https://www.betera.es/es/noticia-pagina/ayuntamiento-betera-limpia-acondiciona-canal-desvio-al-barranco-del-carraixet-fin-prevenir-reducir-riesgo-inundaciones",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJxXvzLDgCOAgDVpheo7MCVu1LpXNSmAoST8b7Wrjv4HnSq0bSqqlJAsC8R3E",
-        "source": "Ajuntament de Bétera"
-      },
-      {
-        "title": "Bétera limpia el canal de desvío al barranco del Carraixet para prevenir inundaciones",
-        "snippet": "",
-        "url": "https://www.levante-emv.com/comunitat-valenciana/camp-de-turia/2024/12/10/betera-limpia-acondiciona-canal-desvio-barranco-inundaciones-chj-seguridad-vecinos-ayuntamiento-alcaldesa-trabajos-residuos-emergencias-prevencion-112499750.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnefTLZzjDUpAaf6YyOfksdtc6ek32OXlNkvSAoSa6T9ZwU02iSeAvIZLh3JQ",
-        "source": "Levante-EMV"
-      }
-    ]
-  },
-  {
-    "title": "лига чемпионов",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6tlngjcw-PZMZ-npK8rZAR4xPtqkd4zrZT6JQs-I__8vDAGwg4deSrlQNDg0",
-    "picture_source": "Sport5.by",
-    "news_items": [
-      {
-        "title": "\"Сити\" катится по наклонной, \"Барса\" пресекла яркий камбэк \"Боруссии\"",
-        "snippet": "",
-        "url": "https://sport5.by/news/football/evrokubki/Borussiya-ne-smogla-trizhdy-otygratsya-v-matche-s-Barselonoy/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6tlngjcw-PZMZ-npK8rZAR4xPtqkd4zrZT6JQs-I__8vDAGwg4deSrlQNDg0",
-        "source": "Sport5.by"
-      },
-      {
-        "title": "Борьба за топ-8 и взлет «Бреста». Рассказываем о шестом туре основного раунда Лиги чемпионов",
-        "snippet": "",
-        "url": "https://news.zerkalo.io/cellar/85835.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhLUJCM-kHL7fsizcloLtHEX34GfhfZpvlFFc31uWF5y8iG5DmXX5zzQC46Nc",
-        "source": "Zerkalo"
-      },
-      {
-        "title": "Обзор и хайлайты матчей шестого тура",
-        "snippet": "",
-        "url": "https://ru.uefa.com/uefachampionsleague/news/0294-1c8a3f4ff386-c6ec5012cff2-1000--%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%B8-%D1%85%D0%B0%D0%B8/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflWgZ-C2gTA5VvvY4IiS8ThUgqG_MfLU4wKRbcg0I-HEAGt144mfzgtC6OQ",
-        "source": "UEFA.com"
-      }
-    ]
-  },
-  {
-    "title": "эдуард ханок",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
     "approx_traffic": 200,
     "picture": "",
     "picture_source": "",
     "news_items": []
   },
   {
-    "title": "милан – црвена звезда",
+    "title": "кальяри – аталанта",
     "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Wed, 11 Dec 2024 13:10:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0X_kL2ZmWOg2RHL1jVPrIhRlfkyDU-4deZkP2MIXIPBkxaLw3hYndEOsAWcs",
-    "picture_source": "by.tribuna.com",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
+    "picture_source": "Soccer365.ru",
     "news_items": [
       {
-        "title": "«Милан» потерял из-за травм Лофтуса-Чика и Морату в матче с «Црвеной Звездой»",
+        "title": "Кальяри – Аталанта: превью",
         "snippet": "",
-        "url": "https://by.tribuna.com/football/1113022108-milan-stracziu-zza-traum-loftusachyka-i-maratu-u-matchy-z-c/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0X_kL2ZmWOg2RHL1jVPrIhRlfkyDU-4deZkP2MIXIPBkxaLw3hYndEOsAWcs",
-        "source": "by.tribuna.com"
+        "url": "https://soccer365.ru/news/21571/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
+        "source": "Soccer365.ru"
       },
       {
-        "title": "«Милан» обыграл «Црвена Звезду» в матче футбольной Лиги чемпионов",
+        "title": "Кальяри - Аталанта: прогноз и ставка на Серию А — 14 декабря 2024",
         "snippet": "",
-        "url": "https://www.sb.by/articles/milan-obygral-tsrvena-zvezdu-v-matche-futbolnoy-ligi-chempionov.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEA1M7Mt69LqH6GPkyzrUl_iGsnZ8QHpsUWBsGDnmj4LphZ0JAIStfl8pzJ40",
+        "url": "https://www.liveresult.ru/tips/football/Italy/tip220313-Cagliari-Atalanta",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9rrEH-4BEO9x2I3hl9P5G6FsaqjjSd3PO3k5sUT2EGAKBUc1_58cHwWb7exo",
+        "source": "LiveResult"
+      },
+      {
+        "title": "«Кальяри» — «Аталанта». Прямая трансляция: смотреть онлайн матч Серии А",
+        "snippet": "",
+        "url": "https://sport24.ru/football/news-709539-kalyari-atalanta-pryamaya-translyatsiya-smotret-onlayn-match-serii-a",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_L7N9NuW2FFwP3nc7L6rzDC2wLAkNcQzse-hG6DgcgKYnECtEy0JK-QKyKjM",
+        "source": "Sport24.ru"
+      }
+    ]
+  },
+  {
+    "title": "оман",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PHJJ-AqD24PfjbWoPeioqgXPzf6Ie4Js2MOSM2niNFD_Q83QV0IEjdv5U6w",
+    "picture_source": "ABW.by",
+    "news_items": [
+      {
+        "title": "Белорусская сельхозтехника будет поставляться в Оман",
+        "snippet": "",
+        "url": "https://abw.by/news/rb/2024/12/14/belorusskaya-selhoztehnika-budet-postavlyatsya-v-oman",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PHJJ-AqD24PfjbWoPeioqgXPzf6Ie4Js2MOSM2niNFD_Q83QV0IEjdv5U6w",
+        "source": "ABW.by"
+      },
+      {
+        "title": "Лукашенко направился с рабочим визитом в Оман",
+        "snippet": "",
+        "url": "https://www.sb.by/articles/lukashenko-napravilsya-s-rabochim-vizitom-v-oman.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw4-yKgLuD7eFel5LGc5O3UhbGAKKRQGuQ9sx9wiRz_ArlzMpCI030VUtPsRA",
         "source": "Беларусь сегодня"
       },
       {
-        "title": "Лига чемпионов. Поздний гол Абрахама принес \"Милану\" победу.",
+        "title": "Беларусь укрепляет позиции на Ближнем Востоке. Зачем Лукашенко полетел в Оман спустя 17 лет",
         "snippet": "",
-        "url": "https://football.kulichki.net/worldnews/news.htm?821489-Liga-chempionov-Pozdnii-gol-Abrahama-prines-Milanu-pobedu",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIbQZ6rjremMg30-dE_AyPsi5Nn6jqQnubDWNDCu5SpzMti1rI4RZZoGpvE68",
-        "source": "Футбол на Куличках"
+        "url": "https://belta.by/president/view/belarus-ukrepljaet-pozitsii-na-blizhnem-vostoke-zachem-lukashenko-poletel-v-oman-spustja-17-let-682613-2024/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAchBaIfmwJxlVVG10WIPzg-rKjpg6dnu1EeKPoCQ2aW9lvg6b5FGwlPDq-gA",
+        "source": "БелТА"
       }
     ]
   },
   {
-    "title": "instagram",
+    "title": "михаил кавелашвили",
     "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Wed, 11 Dec 2024 11:30:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 03:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Президентские выборы в Грузии: коллегия проголосовала за бывшего футболиста Михаила Кавелашвили. Оппозиция выборы не признает",
+        "snippet": "",
+        "url": "https://www.bbc.com/russian/articles/cd0elgx741xo",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
+        "source": "BBC"
+      },
+      {
+        "title": "Протестующие в Грузии требуют отменить выборы президента",
+        "snippet": "",
+        "url": "https://ru.euronews.com/my-europe/2024/12/13/georgia-protests-friday",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTam_FMJs0-16ZdKBkhFeSTOiWRrBjwG7SViqqNPBuVre_F4KLyr2kf22J09us",
+        "source": "Euronews.com"
+      },
+      {
+        "title": "Президентом Грузии коллегией выборщиков избран Михаил Кавелашвили",
+        "snippet": "",
+        "url": "https://www.interfax.ru/world/997702",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSFYWh0IUJw_ZVryJH4EEKrVYfMW2JnYXXNQGmPPB3vCsdguKBxILT2c6uNR4",
+        "source": "Интерфакс"
+      }
+    ]
+  },
+  {
+    "title": "борис щербаков",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Fri, 13 Dec 2024 20:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWMmDrQbXvaHRzTv-HNtSYsbYxcdo4WH2nGWBmLM0KEY92h-GknGY384rAOJY",
+    "picture_source": "Кино Mail",
+    "news_items": [
+      {
+        "title": "Сын Бориса Щербакова рассказал о состоянии отца после новостей о пневмонии",
+        "snippet": "",
+        "url": "https://kino.mail.ru/news/76401-syin-borisa-scherbakova-rasskazal-o-sostoyanii-ottsa-posle-novostej-o-pnevmonii/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWMmDrQbXvaHRzTv-HNtSYsbYxcdo4WH2nGWBmLM0KEY92h-GknGY384rAOJY",
+        "source": "Кино Mail"
+      },
+      {
+        "title": "Состояние Бориса Щербакова после операции на лице резко ухудшилось",
+        "snippet": "",
+        "url": "https://7days.ru/news/sostoyanie-borisa-shcherbakova-posle-operatsii-na-litse-rezko-ukhudshilos.htm",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0_VUzmM1ygrjBmKxFpc8vAj10T2dknnU5z4suXgwGav_R6ANppK1lRtbzP0o",
+        "source": "7Дней.ру"
+      },
+      {
+        "title": "Невролог Хорошев объяснил, с чем связано критическое состояние Бориса Щербакова",
+        "snippet": "",
+        "url": "https://radio1.ru/news/shou-biznes/nekrolog-horoshev-obyasnil-s-chem-svyazano-kriticheskoe-sostoyanie-borisa-scherbakova/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS852Z4j_X9mNG90dMdsUN6c6QgRQLoqxwZgJuSwzrtVXRBQ3HRx7C11jih_vk",
+        "source": "radio1.ru"
+      }
+    ]
+  },
+  {
+    "title": "viber заблокировали",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Fri, 13 Dec 2024 19:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmkrfvqoJDsvNNG1j8mHSDESe6TvcpnwZxNFrBMy3_ZGuRzoNE3NJDDbhKiXo",
+    "picture_source": "Myfin.by",
+    "news_items": [
+      {
+        "title": "В России заблокировали Viber",
+        "snippet": "",
+        "url": "https://myfin.by/article/zhizn/v-rossii-zablokirovali-viber-34334",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmkrfvqoJDsvNNG1j8mHSDESe6TvcpnwZxNFrBMy3_ZGuRzoNE3NJDDbhKiXo",
+        "source": "Myfin.by"
+      },
+      {
+        "title": "Viber под запретом: Россия ограничила доступ к популярному мессенджеру",
+        "snippet": "",
+        "url": "https://newgrodno.by/v-mire/rossiya-ogranichila-dostup-k-populyarnomu-messendzheru/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-LjxLp0v7EYA6WRzW5z0dcRecWEGT83GnysZcEeBRALfGv4rX7MwCn9mAuDw",
+        "source": "NewGrodno.By"
+      },
+      {
+        "title": "В России заблокировали Viber",
+        "snippet": "",
+        "url": "https://officelife.media/news/58781-v-rossii-zablokirovali-viber/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSruCEnUmgbjH39v6dzM4a-2JSZQIskQHDwyQk0-lz2UNZdrKVyWC-HnFOa5m8",
+        "source": "officelife.media"
+      }
+    ]
+  },
+  {
+    "title": "ютуб",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Fri, 13 Dec 2024 17:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
-    "picture_source": "Forbes",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNkdHP_vSGl6XSJSk2tLC0JTlkz8D7iecyqfQ1si4ytC9VxJjd4g4eNUI9KHM",
+    "picture_source": "Tochka.by",
     "news_items": [
       {
-        "title": "Facebook And Instagram Outage: Meta Says It’s ‘99% Of The Way’ To Being Fixed",
+        "title": "YouTube блокирует в Беларуси важнейшую опцию",
         "snippet": "",
-        "url": "https://www.forbes.com/sites/mollybohannon/2024/12/11/facebook-and-instagram-outage-meta-says-its-99-of-the-way-to-being-fixed/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
-        "source": "Forbes"
+        "url": "https://tochka.by/articles/technology/youtube_blokiruet_v_belarusi_vazhneyshuyu_optsiyu/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNkdHP_vSGl6XSJSk2tLC0JTlkz8D7iecyqfQ1si4ytC9VxJjd4g4eNUI9KHM",
+        "source": "Tochka.by"
       },
       {
-        "title": "Facebook, Instagram, and Threads are down",
+        "title": "Сервис рекламы Google решил уйти из Беларуси. Что будет с монетизацией?",
         "snippet": "",
-        "url": "https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHSidYCb4OK0QFH4RkooPjqarIzYvzCAhxhBykeVnZRl0BYX6QcVsK3mFjpls",
-        "source": "The Verge"
+        "url": "https://myfin.by/article/biznes/servis-reklamy-google-resil-ujti-iz-belarusi-cto-budet-s-monetizaciej-34267",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FxXft_zbi94LxzUBlEFuqh1yN4Fe2u12GYzsXOC8CElPLzFGN2BY9jYOhzM",
+        "source": "Myfin.by"
       },
       {
-        "title": "Meta says it has almost resolved outage on Facebook and Instagram apps",
+        "title": "Белорусские аккаунты AdSense отключат, монетизации не будет",
         "snippet": "",
-        "url": "https://www.cnn.com/2024/12/11/business/facebook-and-instagram-outage/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKrHw93-K1EsJ2vGyxZoArniccPi8dnM_jFmnD5XEVAEAwHusKVqzwrkualg",
-        "source": "CNN"
+        "url": "https://tech.onliner.by/2024/12/11/adsense-belarus",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzWodbr5Fcar1MUZBumTk0Gci7NI9p8rj_ryIKpQ402U11Vb5wGc6K5D3HzDM",
+        "source": "Onlíner"
       }
     ]
   },
   {
-    "title": "ювентус – манчестер сити",
+    "title": "пожар в тц беларусь витебск",
     "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJLxi_DmadfvNQV38srLKaUHQdNtC1iDGrW0MGe0r0kjkaT5jTxBh8onOsAE",
-    "picture_source": "Прессбол",
+    "pubdate": "Fri, 13 Dec 2024 07:10:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8SAb9nmTOmm2tCNrKNOYY7XbVqb1dt4X15ILTEMgM-ggStsvqGCm-saWhfI8",
+    "picture_source": "Onlíner",
     "news_items": [
       {
-        "title": "Лига чемпионов. \"Манчестер Сити\" \"всухую\" проиграл \"Ювентусу\". Команда Гвардьолы одержала лишь одну победу в последних 10 матчах!",
+        "title": "«Пострадавших уже 16». Новые подробности пожара в витебском ТЦ",
         "snippet": "",
-        "url": "https://pressball.by/news/football/liga-chempionov-manchester-siti-vsuhuyu-proigral-yuventusu-komanda-gvardoly-oderzhala-lish-odnu-pobedu-v-poslednih-10-matchah/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJLxi_DmadfvNQV38srLKaUHQdNtC1iDGrW0MGe0r0kjkaT5jTxBh8onOsAE",
-        "source": "Прессбол"
+        "url": "https://realt.onliner.by/2024/12/14/dvoe-v-tyazhelom-sostoyanii-podrobnosti-o-postradavshix-pri-pozhare-v-vitebskom-tc",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8SAb9nmTOmm2tCNrKNOYY7XbVqb1dt4X15ILTEMgM-ggStsvqGCm-saWhfI8",
+        "source": "Onlíner"
       },
       {
-        "title": "Гвардиола рассказал об атмосфере в «Манчестер Сити»",
+        "title": "Спасатели ликвидировали пожар в торговом центре «Беларусь»",
         "snippet": "",
-        "url": "https://www.euro-football.ru/article/31/1005799292_gvardiola_rasskazal_ob_atmosfere_v_manchester_siti",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6cYy8hNasQ5Hgmj1px_urD-CNLi5fmFawCw58l1JetG2v8YWilkXJPbJWMfY",
-        "source": "Евро-Футбол.Ру"
+        "url": "https://mchs.gov.by/glavnoe/474112/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBBjc873GRr7KiaDOTVl1Iz2fhTNmCTab0GU3NYxJQzGgBSl1KZvzGF7OVcQ",
+        "source": "Министерство по чрезвычайным ситуациям Республики Беларусь"
       },
       {
-        "title": "Гвардиола: «Я никогда не был близок к «Ювентусу»",
+        "title": "Пожар в торговом центре «Беларусь» ликвидирован",
         "snippet": "",
-        "url": "https://forzajuve.ru/news/195655-gvardiola-ya-nikogda-ne-byl-blizok-k-yuventusu",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJOGI6aX2uKCUdRJTvYo6MzvyK_p-WxivfQyQNe-C81zqlXtDweOxrFMwi5vY",
-        "source": "ForzaJuve.ru"
+        "url": "https://vitbichi.by/news/obshchestvo/pozhar_v_torgovom_tsentre_belarus_likvidirovan/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6fJCL34hAuU0NsAFEruhvGueNe5WtNObp40OOVexZUToBnqrSjj-xzbPbC-E",
+        "source": "Vitbichi.by"
       }
     ]
   },
   {
-    "title": "арсенал – монако",
+    "title": "чрезвычайное положение",
     "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScSy4lpJeWhkksnIPITI46hW_vzdtq0rcYdMb7U-493UuBLXloiFWLwCml13s",
-    "picture_source": "sport-express.ru",
+    "pubdate": "Fri, 13 Dec 2024 06:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPOlcRo6NadbauahNAAgYjFEJYACMsr3lIvtGdmpvlAzbeJK-uRg473HiHn_A",
+    "picture_source": "Euronews.com",
     "news_items": [
       {
-        "title": "Головин не помог «Монако» с «Арсеналом». Его одноклубники сами подарили победу сопернику",
+        "title": "Молдавия объявила режим ЧП из-за риска отключения российского газа",
         "snippet": "",
-        "url": "https://www.sport-express.net/football/champions-league/reviews/arsenal-monako-video-golov-i-obzor-matcha-6-tura-obschego-etapa-ligi-chempionov-11-dekabrya-2024-2280873/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScSy4lpJeWhkksnIPITI46hW_vzdtq0rcYdMb7U-493UuBLXloiFWLwCml13s",
-        "source": "sport-express.ru"
+        "url": "https://ru.euronews.com/business/2024/12/13/business-moldova-energy-emergency",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPOlcRo6NadbauahNAAgYjFEJYACMsr3lIvtGdmpvlAzbeJK-uRg473HiHn_A",
+        "source": "Euronews.com"
       },
       {
-        "title": "Cака имеет 21 результативное действие в 21 матче текущего сезона",
+        "title": "Молдова вводит режим ЧП в сфере энергетики на фоне прекращения транзита российского газа через Украину",
         "snippet": "",
-        "url": "https://by.tribuna.com/football/1113022110-caka-mae-21-rezultatyunae-dzeyanne-u-21-matchy-byaguchaga-s/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeGXIlNVBPSTi7YcZ49kXZG8ol5idOcMhhGnfLJ4y5sQ5Tz0f2TDze9QJvms",
-        "source": "by.tribuna.com"
+        "url": "https://www.bbc.com/russian/articles/c786j8pxp9jo",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOXTnHibz1IcZu_KLNL7e8hqD16QmZCZgcOgnO8UzxCesNRK8Cr14bxmNHzis",
+        "source": "BBC"
       },
       {
-        "title": "Лига чемпионов. \"Барселона\" благодаря дублю Торреса одолела \"Боруссию\" и вышла на второе место в таблице",
+        "title": "В Молдове снова газовый кризис: в чем причина и кто виноват",
         "snippet": "",
-        "url": "https://pressball.by/news/football/liga-chempionov-barselona-blagodarya-dublyu-torresa-odolela-borussiyu-i-vyshla-na-vtoroe-mesto-v-tablitse/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9qqQ-Inpt7H0dy8jjjt9pqJsSx7CSSRQtBlfFzmCo_cwFt-zzDBmUQptxRhE",
-        "source": "Прессбол"
-      }
-    ]
-  },
-  {
-    "title": "боруссия – барселона",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Wed, 11 Dec 2024 11:10:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9qqQ-Inpt7H0dy8jjjt9pqJsSx7CSSRQtBlfFzmCo_cwFt-zzDBmUQptxRhE",
-    "picture_source": "Прессбол",
-    "news_items": [
-      {
-        "title": "Лига чемпионов. \"Барселона\" благодаря дублю Торреса одолела \"Боруссию\" и вышла на второе место в таблице",
-        "snippet": "",
-        "url": "https://pressball.by/news/football/liga-chempionov-barselona-blagodarya-dublyu-torresa-odolela-borussiyu-i-vyshla-na-vtoroe-mesto-v-tablitse/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9qqQ-Inpt7H0dy8jjjt9pqJsSx7CSSRQtBlfFzmCo_cwFt-zzDBmUQptxRhE",
-        "source": "Прессбол"
-      },
-      {
-        "title": "«Барселона» перестреляла «Боруссию» гениальными передачами Ямаля и неожиданным дублем Феррана",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/45/1005799214_barselona_perestrelyala_borussiyu_genialnyimi_peredachami_yamalya_i_neojidannyim_dublem_ferrana",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_raj4Q1OVXCgrmpTFGqt1MvKqbYdXgaOxn52QnTtBSYmloGtn5DE5Vg-D9J4",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "Нури Шахин: «Даже слышать не хочу, что мы играли хорошо с «Барселоной»",
-        "snippet": "",
-        "url": "https://by.tribuna.com/football/1113022141-nury-shaxin-navat-sluxacz-ne-xachu-shto-my-gulyali-dobra-z-/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpIE5beJDrGFHCm3CZB65c18s4sAjDmfqMbojnO8r7m9AN0tSa3p9ZQd5u-WY",
-        "source": "by.tribuna.com"
+        "url": "https://www.dw.com/ru/v-moldove-snova-gazovyj-krizis-v-cem-pricina-i-kto-vinovat/a-71050731",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvfTW9bhM6nQN7KCle6ttQD0GKbiVsH4TWPfq3f4W6ZXLndtMWI_K0Vv31oGM",
+        "source": "DW"
       }
     ]
   }

@@ -1,311 +1,227 @@
 [
   {
-    "title": "fas - isidro metapán",
+    "title": "mainz 05 - bayern",
     "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 17:50:00 -0800",
-    "approx_traffic": 20000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQTEGyt6hKd_pjmRogHOYaIikZUklXr0ZoQyRCfuIU8Rrp7c2x0BbaQDnRrcc",
-    "picture_source": "El Gráfico",
+    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
+    "picture_source": "FCBinside",
     "news_items": [
       {
-        "title": "FAS-Metapán: Arranca el primer combate de semis entre los equipos \nsantanecos - El Gráfico",
+        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
         "snippet": "",
-        "url": "https://www.elgrafico.com/primera/FAS-Metapan-Arranca-el-primer-combate-de-semis-entre-los-equipos-santanecos-20241211-0002.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQTEGyt6hKd_pjmRogHOYaIikZUklXr0ZoQyRCfuIU8Rrp7c2x0BbaQDnRrcc",
-        "source": "El Gráfico"
+        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
+        "source": "FCBinside"
       },
       {
-        "title": "FAS derrota a Isidro Metapán y pone un pie en la final del Apertura 2024",
+        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
         "snippet": "",
-        "url": "https://www.laprensagrafica.com/deportes/FAS-derrota-a-Isidro-Metapan-y-pone-un-pie-en-la-final-del-Apertura-2024-20241211-0089.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScw1H-2wIqThjq9WdBt794MSOo-n3RsPJceY1lO8WPIGJNk-l8F3NBtCrodj4",
+        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
+        "source": "BILD.de"
+      },
+      {
+        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
+        "snippet": "",
+        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
+        "source": "fan.at"
+      }
+    ]
+  },
+  {
+    "title": "augsburgo - leverkusen",
+    "link": "https://trends.google.com/trending/rss?geo=SV",
+    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
+    "picture_source": "BILD.de",
+    "news_items": [
+      {
+        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
+        "snippet": "",
+        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
+        "source": "BILD.de"
+      },
+      {
+        "title": "Adventsheimspiel",
+        "snippet": "",
+        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
+        "snippet": "",
+        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
+        "source": "Frankfurter Rundschau"
+      }
+    ]
+  },
+  {
+    "title": "premier",
+    "link": "https://trends.google.com/trending/rss?geo=SV",
+    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDRHKSMvV-LPZOR5hjjDe7-9zrRO821AMv4rntzS4pm4yG3jTfvjsngTZIHw",
+    "picture_source": "Rousing The Kop",
+    "news_items": [
+      {
+        "title": "The five Fulham players set to miss Liverpool clash as key defensive duo ruled out",
+        "snippet": "",
+        "url": "https://www.rousingthekop.com/2024/12/14/the-five-fulham-players-set-to-miss-liverpool-clash-as-key-defensive-duo-ruled-out/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDRHKSMvV-LPZOR5hjjDe7-9zrRO821AMv4rntzS4pm4yG3jTfvjsngTZIHw",
+        "source": "Rousing The Kop"
+      },
+      {
+        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
+        "snippet": "",
+        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
+        "source": "Liverpool FC"
+      },
+      {
+        "title": "\"They're in Great Form\" - Alan Shearer Previews Liverpool's Premier League Clash with Fulham",
+        "snippet": "",
+        "url": "https://anfieldindex.com/76425/theyre-in-great-form-alan-shearer-previews-liverpools-premier-league-clash-with-fulham.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8n8fAruf7VHqyvTYP3fLL7050EzMA6HFZ8u5NR-oBeZAZxJTS9UO94wVvfh8",
+        "source": "anfieldindex.com"
+      }
+    ]
+  },
+  {
+    "title": "cagliari - atalanta",
+    "link": "https://trends.google.com/trending/rss?geo=SV",
+    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
+    "picture_source": "Virgilio Sport",
+    "news_items": [
+      {
+        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
+        "snippet": "",
+        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
+        "source": "Virgilio Sport"
+      },
+      {
+        "title": "La vostra formazione: voglia di Retegui dal 1′",
+        "snippet": "",
+        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
+        "source": "CalcioAtalanta"
+      },
+      {
+        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
+        "snippet": "",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
+        "source": "ANSA"
+      }
+    ]
+  },
+  {
+    "title": "rcd espanyol - osasuna",
+    "link": "https://trends.google.com/trending/rss?geo=SV",
+    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
+    "picture_source": "Infobae",
+    "news_items": [
+      {
+        "title": "Tejero, Kumbulla, Romero y Roca, novedades en el Espanyol; Ibáñez y Raúl, en el Osasuna",
+        "snippet": "",
+        "url": "https://www.infobae.com/espana/agencias/2024/12/14/tejero-kumbulla-romero-y-roca-novedades-en-el-espanyol-ibanez-y-raul-en-el-osasuna/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
+        "source": "Infobae"
+      },
+      {
+        "title": "Portada ‘El 1900’ del sábado 14 de diciembre de 2024",
+        "snippet": "",
+        "url": "https://el1900.com/portada-el1900-14-diciembre-2024-espanyol-ca-osasuna/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfp8O-Fn4mBFoYvxlNZGcQz-wscct86d1cDCfXXCDbExYzmN3nes7oJUDV2l8",
+        "source": "El 1900"
+      },
+      {
+        "title": "Manolo González toma decisión: Plan B por las bajas de Jofre Carreras y Omar El Hilali",
+        "snippet": "",
+        "url": "https://xcatalunya.cat/es/deportes/manolo-gonzalez-toma-decision-plan-b-por-bajas-jofre-carreras-y-omar-hilali",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEvkeYi1_7lamYHtm5ZNkeiGtuHfSN1BFfUhZu_FIOHRAes_JF9sCpxbpoS3k",
+        "source": "xcatalunya.cat"
+      }
+    ]
+  },
+  {
+    "title": "accidente carretera los chorros",
+    "link": "https://trends.google.com/trending/rss?geo=SV",
+    "pubdate": "Sat, 14 Dec 2024 01:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6OdEIk21MboAm8dKnwJtwfRRrVzgohA8lQtLgQCDlnULU2tQf-lv1ntw0Ags",
+    "picture_source": "La Prensa Gráfica",
+    "news_items": [
+      {
+        "title": "Empresa Dongbu Corporation lamentó el accidente en Los Chorros: “Estamos acompañando a las familias afectadas” - La Prensa Gráfica",
+        "snippet": "",
+        "url": "https://www.laprensagrafica.com/elsalvador/Empresa-Dongbu-Corporation-lamento-el-accidente-en-Los-Chorros-Estamos-acompanando-a-las-familias-afectadas-20241213-0092.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6OdEIk21MboAm8dKnwJtwfRRrVzgohA8lQtLgQCDlnULU2tQf-lv1ntw0Ags",
         "source": "La Prensa Gráfica"
       },
       {
-        "title": "FAS vence 2-1 a Isidro Metapán y saca ventaja en las semifinales del \nApertura 2024 | Diario El Mundo",
+        "title": "Tres trabajadores murieron tras el colapso de una malla de hierro en Los Chorros",
         "snippet": "",
-        "url": "https://diario.elmundo.sv/deportes/fas-vence-2-1-a-isidro-metapan-y-saca-ventaja-en-las-semifinales-del-apertura-2024",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk_R2oMKvXKXCIbKONXw1OQ7AISTlIzOzKVLZ0djj82zF9u9tbiHOBaOqDZA0",
+        "url": "https://www.elsalvador.com/noticias/nacional/base-hierro-cae-trabajadores-los-chorros/1187538/2024/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQreL_piFxbyjd5GJGrAws615vsKz_rf93ovOtLwbCg0n7rbTXEwdXwjKXKY4k",
+        "source": "Noticias de El Salvador"
+      },
+      {
+        "title": "Tragedia de Los Chorros: eso pasó porque quitaron los andamios que sostenían la plataforma, según trabajador | Diario El Mundo",
+        "snippet": "",
+        "url": "https://diario.elmundo.sv/nacionales/tragedia-de-los-chorros-eso-paso-porque-quitaron-los-andamios-que-sostenian-la-plataforma-segun-trabajador",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg8oaGeJ9hfL1KO6st1XEvJ-ADSRBxk045hxWNI86Z8YPukwua8_8Phth0Cl0",
         "source": "Noticias de El Salvador y el Mundo"
       }
     ]
   },
   {
-    "title": "lily phillips",
+    "title": "ues",
     "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 17:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR05tnZjCtYghkkeciXYAinc970f9LbKoobaMUeAbmRLvzdHOpek1lI3xBxR0",
-    "picture_source": "The Mirror",
-    "news_items": [
-      {
-        "title": "People call for OnlyFans ban as Lily Phillips in tears after sleeping with \n101 men in a day",
-        "snippet": "",
-        "url": "https://www.mirror.co.uk/lifestyle/sex-relationships/people-call-onlyfans-ban-lily-34292312",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR05tnZjCtYghkkeciXYAinc970f9LbKoobaMUeAbmRLvzdHOpek1lI3xBxR0",
-        "source": "The Mirror"
-      },
-      {
-        "title": "Lily Phillips: Former Sheffield student aims to sleep with 1,000 men in 24 \nhours to break world record",
-        "snippet": "",
-        "url": "https://www.thestar.co.uk/news/people/lily-phillips-former-sheffield-student-aims-to-sleep-with-1000-men-in-24-hours-to-break-world-record-4906591",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHPbeIq6AaFvj-Q3oWrtaiRqJiJwQeZwbLI8yXt9_ADQxo-ss9HeTBU1bDQ3U",
-        "source": "The Star"
-      },
-      {
-        "title": "OnlyFans Model Lily Phillips Cries After Sex With 100 Men in One Day",
-        "snippet": "",
-        "url": "https://www.yahoo.com/entertainment/onlyfans-model-lily-phillips-cries-220049449.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cohlyY8MBhVJl7xYxtxC68PlT3FiWvhsxOnilgnBsq8epj9_8yImLNmpbvI",
-        "source": "Yahoo"
-      }
-    ]
+    "pubdate": "Fri, 13 Dec 2024 22:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
   },
   {
-    "title": "gemini",
+    "title": "valladolid - valencia c. f.",
     "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 16:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-    "picture_source": "Google Blog",
-    "news_items": [
-      {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
-        "snippet": "",
-        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-        "source": "Google Blog"
-      },
-      {
-        "title": "A former Google designer reveals what goes into building its AI models like Gemini",
-        "snippet": "",
-        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
-        "source": "Business Insider"
-      },
-      {
-        "title": "Alphabet Stock Hits a Record High on New AI Models",
-        "snippet": "",
-        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
-        "source": "Barron's"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "manchester city vs",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 14:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuO4xuTXn83Vya37n4BaF0N2QlQcLkY60jPXrR3hVLt5YAsmQmZp--u0OTpgo",
-    "picture_source": "London Evening Standard",
-    "news_items": [
-      {
-        "title": "Man City XI vs Man Utd: Predicted lineup, confirmed team news and injury \nlatest for Premier League game",
-        "snippet": "",
-        "url": "https://www.standard.co.uk/sport/football/man-city-xi-vs-man-utd-predicted-lineup-confirmed-team-news-injury-latest-premier-league-2024-b1199533.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuO4xuTXn83Vya37n4BaF0N2QlQcLkY60jPXrR3hVLt5YAsmQmZp--u0OTpgo",
-        "source": "London Evening Standard"
-      },
-      {
-        "title": "Premier League make surprise Man City vs Man United referee decision after \ndouble VAR controversy",
-        "snippet": "",
-        "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/premier-league-make-surprise-man-30555400",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC_qFXUVLDG_-9-JsEMTTvtw1AiLseraOWAhWKmqHYe7CC7gDv1lbGAhXl38g",
-        "source": "Manchester Evening News"
-      },
-      {
-        "title": "How to buy last-minute tickets for Man City vs Man United",
-        "snippet": "",
-        "url": "https://onefootball.com/de/news/how-to-buy-last-minute-tickets-for-man-city-vs-man-united-40424775",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2ErTLzMXxzySXtr2g_8gUUUqA2wta-qhk7h4BslsK0AKgXtDyUyJ54xeOh4",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "tabla de la champions",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRY40HM0NML611FOi8n8uQXhgULGx0fK2cLTdJUyqmbYrDEqxE1TXJClbfT7A",
+    "pubdate": "Fri, 13 Dec 2024 11:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB-EUGoeP7kFvFkmq-VwoDFztTU7Wfwqp0GzeAODpBMYJyLlu-jFZC7xAoJKo",
     "picture_source": "Diario AS",
     "news_items": [
       {
-        "title": "El penalti que pitan a Cubarsí e indigna a los culés: le pudo salir muy \ncaro al Barça",
+        "title": "Resumen y goles del Real Valladolid vs Valencia, jornada 17de LaLiga EA Sports",
         "snippet": "",
-        "url": "https://as.com/futbol/videos/el-penalti-que-pitan-a-cubarsi-e-indigna-a-los-cules-le-pudo-salir-muy-caro-al-barca-v/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRY40HM0NML611FOi8n8uQXhgULGx0fK2cLTdJUyqmbYrDEqxE1TXJClbfT7A",
+        "url": "https://as.com/futbol/videos/resumen-y-goles-del-real-valladolid-vs-valencia-jornada-17de-laliga-ea-sports-v/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB-EUGoeP7kFvFkmq-VwoDFztTU7Wfwqp0GzeAODpBMYJyLlu-jFZC7xAoJKo",
         "source": "Diario AS"
       },
       {
-        "title": "Real Madrid consigue oxígeno en la Champions tras derrotar al Atalanta en \nun partidazo",
+        "title": "El Valladolid condena a Baraja",
         "snippet": "",
-        "url": "https://www.laprensagrafica.com/deportes/Real-Madrid-consigue-oxigeno-en-la-Champions-tras-derrotar-al-Atalanta-en-un-partidazo-20241210-0065.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYC9zy7QgBrCXDyjV1miJJaSsnu0l8n0PEx6dK91FJHJ1GJ6aZolfFCRycki4",
-        "source": "La Prensa Gráfica"
-      },
-      {
-        "title": "Ancelotti: \"Llegamos vivos para navidad\" - El Gráfico",
-        "snippet": "",
-        "url": "https://www.elgrafico.com/futbol/Ancelotti-Llegamos-vivos-para-navidad-20241210-0023.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRR5isI7vHRA36X8jTwHVNc4Aiwxlqs6i7bK62RxdhxiTiB5esyrIs78oeRBxQ",
-        "source": "El Gráfico"
-      }
-    ]
-  },
-  {
-    "title": "city",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnG6m1XnrSS9sC0hp1bY76szyUTi3VTnYGuGtkz5cgQ5fmgVbnyg9ExXWiXno",
-    "picture_source": "The Economist",
-    "news_items": [
-      {
-        "title": "How to clean up India’s filthy cities",
-        "snippet": "",
-        "url": "https://www.economist.com/asia/2024/12/12/how-to-clean-up-indias-filthy-cities",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnG6m1XnrSS9sC0hp1bY76szyUTi3VTnYGuGtkz5cgQ5fmgVbnyg9ExXWiXno",
-        "source": "The Economist"
-      },
-      {
-        "title": "Man City XI vs Man Utd: Predicted lineup, confirmed team news and injury \nlatest for Premier League game",
-        "snippet": "",
-        "url": "https://www.standard.co.uk/sport/football/man-city-xi-vs-man-utd-predicted-lineup-confirmed-team-news-injury-latest-premier-league-2024-b1199533.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuO4xuTXn83Vya37n4BaF0N2QlQcLkY60jPXrR3hVLt5YAsmQmZp--u0OTpgo",
-        "source": "London Evening Standard"
-      },
-      {
-        "title": "Premier League make surprise Man City vs Man United referee decision after \ndouble VAR controversy",
-        "snippet": "",
-        "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/premier-league-make-surprise-man-30555400",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC_qFXUVLDG_-9-JsEMTTvtw1AiLseraOWAhWKmqHYe7CC7gDv1lbGAhXl38g",
-        "source": "Manchester Evening News"
-      }
-    ]
-  },
-  {
-    "title": "posiciones de champions league",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 13:10:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUG46XQKmqOlvUrMpF3cuACVsnBWXPEW_nXPAJqWno39IKLjT1CK2ewmdH81Y",
-    "picture_source": "Diario AS",
-    "news_items": [
-      {
-        "title": "Clasificación de la Champions League: quién pasa a octavos, quién va a la \nrepesca y eliminados | Jornada 6",
-        "snippet": "",
-        "url": "https://as.com/futbol/champions/clasificacion-de-la-champions-league-quien-pasa-a-octavos-quien-va-a-la-repesca-y-eliminados-jornada-6-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUG46XQKmqOlvUrMpF3cuACVsnBWXPEW_nXPAJqWno39IKLjT1CK2ewmdH81Y",
-        "source": "Diario AS"
-      },
-      {
-        "title": "Así está la clasificación de la Champions: Consulta la calculadora",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/champions-league/2024/12/11/asi-clasificacion-champions-consulta-calculadora.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTh0geEShGqXv_Q-lRYIrxoHGa2uJqhgZZv7EWgrJaDz0ep_LhnmzC_SNu6gC4",
+        "url": "https://www.marca.com/futbol/primera-division/cronica/2024/12/13/675c8e17ca47413b758b45bc.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
         "source": "Marca.com"
       },
       {
-        "title": "Real Madrid y PSG toman aire en la Champions, pleno del Liverpool | Diario \nEl Mundo",
+        "title": "Actualidad del día en el fútbol español a 13 de diciembre de 2024",
         "snippet": "",
-        "url": "https://diario.elmundo.sv/deportes/real-madrid-y-psg-toman-aire-en-la-champions-pleno-del-liverpool",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT44ZZ2EUYALAVxxiUVfPXA9u65j8opuq0hCF90UmMsf1aa40m4RQWklfEg8nY",
-        "source": "Noticias de El Salvador y el Mundo"
-      }
-    ]
-  },
-  {
-    "title": "feyenoord - sparta praha",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 13:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJpD2KTP7AGdNpwaUdIfbdgY75MYEAcu2XO7ctrnVjbNXSSkfPM4vPrimwpa4",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Feyenoord vs. Sparta Prague - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/feyenoord/champions-league/preview/preview-feyenoord-vs-sparta-prague-prediction-team-news-lineups_560228.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJpD2KTP7AGdNpwaUdIfbdgY75MYEAcu2XO7ctrnVjbNXSSkfPM4vPrimwpa4",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Santi Giménez Scores His Second Goal in the Current Champions League",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2169028-santi-gimenez-scores-his-second-goal-in-the-current-champions-league",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ1mB_RyOxJkKofH6Lcr62jA82Kz1_kKxIh6BFv3GuSFGGhtpqiAGhMtSRlkk",
-        "source": "FootBoom"
-      },
-      {
-        "title": "UCL Report and quotes: Priske delighted as Feyenoord beat Sparta Prague 4-2",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/ucl-report-and-quotes-priske-delighted-as-feyenoord-beat-sparta-prague-4-2-40429395",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtFcaeo1vzJwaPOiTLnpAxJwgwXRsjto325bn1tObR0P8_5GAo6kNdPMx5A8",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "uefa",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2aYBqAsoaOo7um1dgw8PqzcIsFplZev8wZ3E9AtOsER2UG5favFEHVrRCQZM",
-    "picture_source": "Haber Global",
-    "news_items": [
-      {
-        "title": "Bodo/Glimt Beşiktaş maçı bu akşam saat kaçta, hangi kanalda? Beşiktaş \nBodo/Glimt muhtemel 11'leri!",
-        "snippet": "",
-        "url": "https://haberglobal.com.tr/spor/bodoglimt-besiktas-maci-bu-aksam-saat-kacta-hangi-kanalda-besiktas-bodoglimt-muhtemel-11leri-403354",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2aYBqAsoaOo7um1dgw8PqzcIsFplZev8wZ3E9AtOsER2UG5favFEHVrRCQZM",
-        "source": "Haber Global"
-      },
-      {
-        "title": "Bakan: Türkiye’de 303 Milyon Sosyal Medya Hesabı",
-        "snippet": "",
-        "url": "https://www.haberaktuel.com/bakan-turkiye-de-303-milyon-sosyal-medya-hesabi/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrO7rtJwELBfN5eRtgivNne_7sNMdJDBRYY61aeWwW_4uCHsaNMQ5Hy9NZ_gE",
-        "source": "Haber Aktüel"
-      },
-      {
-        "title": "Beşiktaş, Avrupa'da da kara bulutları dağıtmak istiyor",
-        "snippet": "",
-        "url": "https://www.sozcu.com.tr/besiktas-avrupa-da-da-kara-bulutlari-dagitmak-istiyor-p115023",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvjldikZ7AChMDs13Myu6ZoXGqmDeudsl_lJ1c-CXLYoOsgqiT9Mjc6jOKyRY",
-        "source": "Sözcü Gazetesi"
+        "url": "https://es.besoccer.com/noticia/actualidad-del-dia-en-el-futbol-espanol-a-13-de-diciembre-de-2024-1341327",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXBD0XjLcnvYuUuNQY-VspCa_LmdtVAl_7glAoZS6qbAy4Vn813Cmrmz1i1iQ",
+        "source": "BeSoccer | Resultados de fútbol"
       }
     ]
   }

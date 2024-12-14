@@ -8,7 +8,7 @@ export default function Intro() {
 
   return (
     <Fade className="intro" show={!start}>
-      <h1>Google Globe Trends</h1>
+      <h1>Globe Trends</h1>
       <Fade show={hasLoaded}>
         <Button label="Explore" onClick={() => dispatch({ type: "START" })} />
       </Fade>

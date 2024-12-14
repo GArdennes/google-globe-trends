@@ -1,311 +1,63 @@
 [
   {
-    "title": "гейдар алиев",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 20:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJCivMmwrP-4INHuNhWxruIB8vaxG5ai_MGlvgYKKyPciOrA5DUfG_k-NREVo",
-    "picture_source": "Report.az",
-    "news_items": [
-      {
-        "title": "Минобороны Турции: С уважением чтим память Гейдара Алиева",
-        "snippet": "",
-        "url": "https://report.az/ru/vneshnyaya-politika/minoborony-turcii-s-uvazheniem-chtim-pamyat-gejdara-alieva/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJCivMmwrP-4INHuNhWxruIB8vaxG5ai_MGlvgYKKyPciOrA5DUfG_k-NREVo",
-        "source": "Report.az"
-      },
-      {
-        "title": "На каких улицах Баку 12 декабря наблюдаются транспортные заторы?",
-        "snippet": "",
-        "url": "https://oxu.az/ru/obshestvo/na-kakih-ulicah-baku-12-dekabrya-nablyudayutsya-transportnye-zatory",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrirjOEfKgtOBbl2M2EN55wpypiXitD8DNBPj79ivDr97Tjnk534qTCCfXIfs",
-        "source": "Oxu.Az"
-      },
-      {
-        "title": "Сегодня - день памяти Гейдара Алиева",
-        "snippet": "",
-        "url": "https://baku.ws/ru/politika/segodnya-den-pamyati-gejdara-alieva",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8Nv4vXPcdcTKvgYpHCs1IkU21cWBr1ThA2wZsEQ16DQ91siFCbbDmAafKyBg",
-        "source": "Baku.ws"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 16:10:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs2eKgf6BmuuRvMxFB31p_fYsOKLjA7pWJe52mOrWuW7nYmyQKoh5gdjeAY0E",
+    "picture_source": "WMTV 15 NEWS",
     "news_items": [
       {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
+        "title": "ALERT DAY: Messy rain/ice system moving in",
         "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
+        "url": "https://www.wmtv15news.com/video/2024/12/15/alert-day-messy-rainice-system-moving/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs2eKgf6BmuuRvMxFB31p_fYsOKLjA7pWJe52mOrWuW7nYmyQKoh5gdjeAY0E",
+        "source": "WMTV 15 NEWS"
       },
       {
-        "title": "ChatGPT is down: What happened and when will it be back?",
+        "title": "Southern Ontario's bright weekend will be ending on a gloomy note",
         "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
+        "url": "https://www.msn.com/en-ca/weather/topstories/southern-ontario-s-bright-weekend-will-be-ending-on-a-gloomy-note/ar-AA1vPz9N",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WSkqdlFHFxumrGgPS98__Ree-RJyrx-EZRdJYnsF41vfnYkD55R3H7udkKY",
+        "source": "MSN"
       },
       {
-        "title": "ChatGPT back online after global outage",
+        "title": "Freezing drizzle may mean icy roads for parts of the viewing area",
         "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
+        "url": "https://www.kmbc.com/article/kansas-city-weather-forecast-friday-impact-freezing-drizzle-radar/63182855",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXjhplxwuKKFw1yTwRw5se57pl-NMK6LuzPJE9YiEuT_0SJV9myS4_1iGBmrA",
+        "source": "KMBC"
       }
     ]
   },
   {
-    "title": "арсенал – монако",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 14:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScSy4lpJeWhkksnIPITI46hW_vzdtq0rcYdMb7U-493UuBLXloiFWLwCml13s",
-    "picture_source": "sport-express.ru",
-    "news_items": [
-      {
-        "title": "Головин не помог «Монако» с «Арсеналом». Его одноклубники сами подарили победу сопернику",
-        "snippet": "",
-        "url": "https://www.sport-express.net/football/champions-league/reviews/arsenal-monako-video-golov-i-obzor-matcha-6-tura-obschego-etapa-ligi-chempionov-11-dekabrya-2024-2280873/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScSy4lpJeWhkksnIPITI46hW_vzdtq0rcYdMb7U-493UuBLXloiFWLwCml13s",
-        "source": "sport-express.ru"
-      },
-      {
-        "title": "Уверенная победа: Арсенал не оставил шансов Монако. Видео голов и обзор матча",
-        "snippet": "",
-        "url": "https://sports24.kz/football/news/uverennaya-pobeda-arsenal-ne-ostavil-shansov-monako-video-golov-i-obzor-matcha/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDnzAn6skRKAeHCj57llkUepmamGSsA0V7QzDh1OIeGYYS9RRpMBKUh5XECZU",
-        "source": "sports24.kz"
-      },
-      {
-        "title": "Микель Артета: Монако - особый клуб, встретим его с распростёртыми объятиями. Но, надеюсь, мы победим",
-        "snippet": "",
-        "url": "https://www.football.kulichki.net/worldnews/news.htm?821473-Mikel-Arteta-Monako-osobyi-klub-vstretim-ego-s-rasprostertymi-objatijami-No-nadeus-my-pobedim",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSszalLSd4NZjBSgBjC65c-POey8nkL23g04OMfiY3N6NvV6QfdB1GlYFMTmfc",
-        "source": "Футбол на Куличках"
-      }
-    ]
-  },
-  {
-    "title": "champions league",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 08:40:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-SmHfnx5xUvRCSBKAbSamD_NJl78_M6uhYXlGp9LmLVTUk6JGzwhUujlTUO0",
-    "picture_source": "Eurosport",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeJtcdAX2sl96NWTiiLeJcRCjYjRx_58k696nxnMwshMadyqVo5yGOFk7pxn4",
+    "picture_source": "mint",
     "news_items": [
       {
-        "title": "Arsenal - AS Monaco Live - Champions League: Football Scores & Highlights - 11/12/2024",
+        "title": "Indore Weather Forecast and AQI Today on December 14, 2024: Check out the predicted minimum and maximum temperatures | Today News",
         "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-arsenal-as-monaco_mtc1525367/live-commentary.shtml",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-SmHfnx5xUvRCSBKAbSamD_NJl78_M6uhYXlGp9LmLVTUk6JGzwhUujlTUO0",
-        "source": "Eurosport"
+        "url": "https://www.livemint.com/news/india/indore-weather-forecast-today-on-december-14-2024-check-latest-imd-rain-predictions-temperature-air-quality-index-11734139825195.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeJtcdAX2sl96NWTiiLeJcRCjYjRx_58k696nxnMwshMadyqVo5yGOFk7pxn4",
+        "source": "mint"
       },
       {
-        "title": "Arsenal 3-0 Monaco - Bukayo Saka scores twice in victory",
+        "title": "Indore Weather and AQI Today: Warm start at 14.1 °C, check weather forecast for December 7, 2024",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c7866g31qjjt",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzE--lEZgXqXrElPxULAFqsblKdd4-l53RU3DJ_cQMWNqFOEpa6a3WUuAL2TE",
-        "source": "BBC"
+        "url": "https://www.msn.com/en-in/news/india/indore-weather-and-aqi-today-warm-start-at-14-1-c-check-weather-forecast-for-december-7-2024/ar-AA1vqbAe",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyfOmJAQU_m8mYyvTNSNJ9K_ytoIxz9WObhUAZa3GWrYMFRWQWwPmdeid3rvY",
+        "source": "MSN"
       },
       {
-        "title": "Saka brace sinks Monaco as Arsenal eye Champions League last 16",
+        "title": "Indore Weather and AQI Today: Check weather forecast for December 14, 2024",
         "snippet": "",
-        "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/saka-brace-sinks-monaco-as-arsenal-eye-champions-league-last-16-2024-12-11",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4jNeTcUSynNgsX2ua9wih92SqRdLlvULhWCA6XKm94WihPXyFrHeDHgAI5Eg",
-        "source": "beIN SPORTS"
-      }
-    ]
-  },
-  {
-    "title": "şampiyonlar ligi",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWb4ZS-knhoM5NgTwXTLuUym0b17bOj_3DadM79JBM_hiDrGwBQvuq3oIcec",
-    "picture_source": "Fanatik",
-    "news_items": [
-      {
-        "title": "Paul Scholes: 'Kim lan bu Kenan Yıldız!' Manchester United efsanesi, küçük dilini yuttu...",
-        "snippet": "",
-        "url": "https://www.fanatik.com.tr/futbol/galeri-paul-scholes-kim-lan-bu-kenan-yildiz-manchester-united-efsanesi-kucuk-dilini-yuttu-2566386",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWb4ZS-knhoM5NgTwXTLuUym0b17bOj_3DadM79JBM_hiDrGwBQvuq3oIcec",
-        "source": "Fanatik"
-      },
-      {
-        "title": "Şampiyonlar Ligi: Arsenal ve Milan'dan galibiyet, Juventus Manchester City'yi mağlup etti",
-        "snippet": "",
-        "url": "https://oxu.az/tr/spor/sampiyonlar-ligi-arsenal-ve-milan-dan-galibiyet-juventus-manchester-city-yi-maglup-etti",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGSFeJLMYDP-ao0y_K1NxHBFBJ1Yy6hobE9KWnM2LW0JWehOIXkEiN0JbpS_g",
-        "source": "Oxu.Az"
-      },
-      {
-        "title": "Şampiyonlar Ligi Juventus 2-0 Manchester City (Maç sonucu yazılı özet)",
-        "snippet": "",
-        "url": "https://ajansspor.com/haber/kenan-yildiz-ilkay-gundogani-uzdu-683509",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRUPsftvRXv84BZWJKpHvc7TvNld85fJbxLUle5i6w4X9gaUNm_0Ibq_KQJU8",
-        "source": "Ajansspor"
-      }
-    ]
-  },
-  {
-    "title": "uefa champions league",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowqAfGn99uYMkBQix0VET_EAc8tIYtQpxSm0FYJV5QwQAGNIzrpEwYpTXBvk",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Benfica vs. Bologna - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/benfica/champions-league/preview/preview-benfica-vs-bologna-prediction-team-news-lineups_560174.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowqAfGn99uYMkBQix0VET_EAc8tIYtQpxSm0FYJV5QwQAGNIzrpEwYpTXBvk",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "UEFA Champions League free live stream: Benfica vs. Bologna",
-        "snippet": "",
-        "url": "https://www.masslive.com/tv/2024/12/uefa-champions-league-free-live-stream-benfica-vs-bologna.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiiIZ_WaSxcbXFaUqIwgyMBJB8EAIrcyFvDNIEf1IczB74QBTsXUH5GJ2Ldd0",
-        "source": "MassLive.com"
-      },
-      {
-        "title": "Bologna Manager Hails Team Growth Despite Another Scoring Blank",
-        "snippet": "",
-        "url": "https://cultofcalcio.com/bologna-manager-hails-team-growth-despite-another-scoring-blank/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX9KffJjIz6OBWMjTWvUoE57W05OH_XLfPkOhZdC-WPjUZduAFYepMaa1V_Tw",
-        "source": "The Cult of Calcio"
-      }
-    ]
-  },
-  {
-    "title": "лига чемпионов",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 13:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRMLynj6i_v5_QBv0mwSVs6TivODXH888B22qFVTGzXUWOUO82LWSNdvlCUtk",
-    "picture_source": "Oxu.Az",
-    "news_items": [
-      {
-        "title": "Еще две команды досрочно вылетели из Лиги чемпионов УЕФА",
-        "snippet": "",
-        "url": "https://oxu.az/ru/sport/eshe-dve-komandy-dosrochno-vyleteli-iz-ligi-chempionov-uefa",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRMLynj6i_v5_QBv0mwSVs6TivODXH888B22qFVTGzXUWOUO82LWSNdvlCUtk",
-        "source": "Oxu.Az"
-      },
-      {
-        "title": "Кто вышел в плей-офф Лиги чемпионов?",
-        "snippet": "",
-        "url": "https://ru.uefa.com/uefachampionsleague/news/0294-1c87c3993039-4061d5c04562-1000--%D0%BA%D1%82%D0%BE-%D0%B2%D1%8B%D1%88%D0%B5%D0%BB-/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7z5FHErRwrKEbWshbATNmQS9L9IxlHBtM1vvUl8BV3Ri8UcFWa-zIC3CfNQ",
-        "source": "UEFA.com"
-      },
-      {
-        "title": "Осталось всего четыре клуба, которые ни разу не побеждали на основном этапе текущей Лиги чемпионов",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/45/1005799392_ostalos_vsego_chetyire_kluba_kotoryie_ni_razu_ne_pobejdali_na_osnovnom_etape_tekuschey_ligi_chempionov",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5TUouSSzWH7cTpxRng-utJzx3LGrvpuTEKF_QNC5Nla_gVGuFzuYu0hlQOQo",
-        "source": "Евро-Футбол.Ру"
-      }
-    ]
-  },
-  {
-    "title": "juventus",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 13:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYuMqQNjMQ4JelMl82Imr2YoP_qJC-PuqnrhHSYCdxiYKCiobBRH00LeIYyDo",
-    "picture_source": "La Gazzetta dello Sport",
-    "news_items": [
-      {
-        "title": "Vlahovic, è il gol della svolta? Ecco il vero Dusan: \"Dopo il Bologna ci siamo parlati e...\"",
-        "snippet": "",
-        "url": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/12-12-2024/vlahovic-il-gol-al-city-e-il-suo-discorso-alla-squadra-dopo-il-pari-col-bologna.shtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYuMqQNjMQ4JelMl82Imr2YoP_qJC-PuqnrhHSYCdxiYKCiobBRH00LeIYyDo",
-        "source": "La Gazzetta dello Sport"
-      },
-      {
-        "title": "Fuoco Juve, Motta infiamma: \"Weston da tutto, Koop non si toglie\". E su Dusan...",
-        "snippet": "",
-        "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2024/12/11-136398330/fuoco_juve_motta_infiamma_weston_da_tutto_koop_non_si_toglie_e_su_dusan_",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXvyxet2xoRhTnCdLEDHGOjyJ4MEMwCrR8QRhfU4OoCZ5ieNKluUespquWPJI",
-        "source": "Tuttosport"
-      },
-      {
-        "title": "La Barba al Palo - Stop al Guardiolismo",
-        "snippet": "",
-        "url": "https://stream24.ilsole24ore.com/video/sport24/la-barba-palo--stop-guardiolismo/AGGdoyiB",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3P12BHXRhgyZpBypiujBiukK6ZDEdJ-tD07Ktdn4tXV7ZSyFyqgCAPvHmHo",
-        "source": "Il Sole 24 ORE"
-      }
-    ]
-  },
-  {
-    "title": "heydar aliyev",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 12:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDRlmOTmU0l7WEvB06yJGoTAh54aNlti6CHQRx0KOSDDZU0hB63iKqq4rOed0",
-    "picture_source": "Aze.Media",
-    "news_items": [
-      {
-        "title": "Heydar Aliyev: The leader who shaped the fate of Azerbaijan",
-        "snippet": "",
-        "url": "https://aze.media/heydar-aliyev-the-leader-who-shaped-the-fate-of-azerbaijan/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDRlmOTmU0l7WEvB06yJGoTAh54aNlti6CHQRx0KOSDDZU0hB63iKqq4rOed0",
-        "source": "Aze.Media"
-      },
-      {
-        "title": "First Vice-President Mehriban Aliyeva made post on commemoration day of National Leader Heydar Aliyev",
-        "snippet": "",
-        "url": "https://president.az/en/articles/view/67506",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuQrwZ5qShAx2QV7Yp6LAvSY-ZWF12wsO_1TC-qtD_uGACDy2sHNCc4ludOPI",
-        "source": "President.az"
-      },
-      {
-        "title": "Azerbaijani PM pays tribute to memory of National Leader Heydar Aliyev in Moscow (PHOTO)",
-        "snippet": "",
-        "url": "https://en.trend.az/azerbaijan/society/3981311.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCd7SaXCrJqljgVAWtJf9svDNn_P30H-EjL9cns3qRTK5xoZ5JK6b9i0zm290",
-        "source": "Trend News Agency"
-      }
-    ]
-  },
-  {
-    "title": "ювентус – манчестер сити",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Wed, 11 Dec 2024 12:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2sfLTP2oXRN2q7owgDPEk4MgmhAVuC8rm51drqB2VeJeVBPlmoMcWs3OlX0",
-    "picture_source": "Евро-Футбол.Ру",
-    "news_items": [
-      {
-        "title": "Гвардиола прокомментировал очередную неудачу «Манчестер Сити»",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/45/1005799232_gvardiola_prokommentiroval_ocherednuyu_neudachu_manchester_siti",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2sfLTP2oXRN2q7owgDPEk4MgmhAVuC8rm51drqB2VeJeVBPlmoMcWs3OlX0",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "Гвардиола: «Я никогда не был близок к «Ювентусу»",
-        "snippet": "",
-        "url": "https://forzajuve.ru/news/195655-gvardiola-ya-nikogda-ne-byl-blizok-k-yuventusu",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJOGI6aX2uKCUdRJTvYo6MzvyK_p-WxivfQyQNe-C81zqlXtDweOxrFMwi5vY",
-        "source": "ForzaJuve.ru"
-      },
-      {
-        "title": "«Ювентус» обыграл «Манчестер Сити» в матче Лиги чемпионов по футболу",
-        "snippet": "",
-        "url": "https://sportmail.ru/news/football-eurocups/64035558/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcSkhVungHb1j9zzpPTHqwUPq27bLNyABWJ0G-mLe4dqTa3GTfl4v_W3pG2-o",
-        "source": "Спорт Mail"
+        "url": "https://www.hindustantimes.com/cities/indore-news/indore-weather-today-aqi-and-rain-forecast-updates-december-14-2024-101734139841974.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtFtCIxdfhS-7HdSOKKjCAGrizfwIQpZCsbTjU8JGsHScjoxGuNkSMuBmLyl8",
+        "source": "Hindustan Times"
       }
     ]
   }

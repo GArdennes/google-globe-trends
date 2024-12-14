@@ -1,311 +1,94 @@
 [
   {
-    "title": "اوستن تايس",
+    "title": "إسبانيول ضد أوساسونا",
     "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Thu, 12 Dec 2024 02:00:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVM0_9WIOBONudAAZ6Mu2Y2jXWAYb6b6C4YFcm1RviYLKHVyrMJxgbyThcV_8",
+    "picture_source": "نايس كورة",
+    "news_items": [
+      {
+        "title": "أبرز مباريات اليوم والقنوات الناقلة - بداية جولة جديدة في الدوريات الأوروبية - نايس كورة",
+        "snippet": "",
+        "url": "https://news.nicekoora.com/uncategorized-yallakora/80249",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVM0_9WIOBONudAAZ6Mu2Y2jXWAYb6b6C4YFcm1RviYLKHVyrMJxgbyThcV_8",
+        "source": "نايس كورة"
+      },
+      {
+        "title": "ابرز الاحداث الرياضية ليوم السبت في 14-12-2024",
+        "snippet": "",
+        "url": "https://ajel.sabaq24.com/uncategorized/81189/%D8%A7%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D9%81%D9%8A-14-12-2024.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwxn9OG1Jw-fUj8pvtPssHm1XyG0zk7H3hR_jyoLiozFcF-0ChuOrI7xbAhz8",
+        "source": "سبق 24"
+      },
+      {
+        "title": "مواعيد مباريات اليوم الجمعة 13122024 والقنوات",
+        "snippet": "",
+        "url": "https://pls48.net/uncategorized/27830/%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-13122024-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA----%D8%A8%D9%84%D8%B3-48",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsxDZ963bhZYz7b3EmSG4rsS5ZQJQKDReehWQzNcY4vziEaBef8D82JfyMEsM",
+        "source": "فلسطينيو48"
+      }
+    ]
+  },
+  {
+    "title": "ابحث عن معتقل او مفقود",
+    "link": "https://trends.google.com/trending/rss?geo=SY",
+    "pubdate": "Fri, 13 Dec 2024 09:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxGVg_uIh4a6RHgujNLZ10B05ESAeBjEf9UvKd4t0ofeAqPwsl28S4cSER7AI",
+    "picture_source": "الجزيرة مباشر: العالم حيا بين يديك",
+    "news_items": [
+      {
+        "title": "رئيسة رابطة عائلات قيصر: حجم الجريمة في سجون الأسد أكبر بكثير مما يعلن عنه (فيديو)",
+        "snippet": "",
+        "url": "https://www.aljazeeramubasher.net/news/politics/2024/12/13/%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D9%82%D9%8A%D8%B5%D8%B1-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxGVg_uIh4a6RHgujNLZ10B05ESAeBjEf9UvKd4t0ofeAqPwsl28S4cSER7AI",
+        "source": "الجزيرة مباشر: العالم حيا بين يديك"
+      },
+      {
+        "title": "الشبكة السورية لحقوق الإنسان: 100 ألف أخفوا قسرا على يد نظام الأسد",
+        "snippet": "",
+        "url": "https://www.aljazeera.net/news/2024/12/11/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-100-%D8%A3%D9%84%D9%81-%D8%A3%D8%AE%D9%81%D9%88%D8%A7-%D9%82%D8%B3%D8%B1%D8%A7",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2HLEtAxnRo060DxBrhmeOUsJp2yWCxujKj-_HChWKMIN9ldphoNQXpEZDqro",
+        "source": "الجزيرة نت"
+      },
+      {
+        "title": "ابحث عن معتقل أو مفقود في سوريا.. إليك ما يجب القيام به",
+        "snippet": "",
+        "url": "https://almashhad.com/article/773112298002792-News/718918649092795-%D8%A7%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D9%85%D8%B9%D8%AA%D9%82%D9%84-%D8%A7%D9%88-%D9%85%D9%81%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH6Ll9ApRXuQCVVUS-NUpTouO2YkIXvwiPs5BOkJpfazRbjhOMNrUSafpYv5w",
+        "source": "قناة ومنصة المشهد"
+      }
+    ]
+  },
+  {
+    "title": "صدام حسين",
+    "link": "https://trends.google.com/trending/rss?geo=SY",
+    "pubdate": "Fri, 13 Dec 2024 06:30:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNCq4sgeifPxwattKh7DndPyUbBSab1JjHj6AD08b0AcQwc4NhDMz7IbJok5M",
-    "picture_source": "العربية",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqHmthF-qUs-NnE19E0g9oNMqXiXJTAksyZfudLL7WKvDsKpbpVbXhs9twwk",
+    "picture_source": "zahraa.mr",
     "news_items": [
       {
-        "title": "فيديو.. \"العربية\" تلتقي الأميركي الذي عثر عليه في ريف دمشق",
+        "title": "العثور على صدام حسين في سجن صيدنايا السوري.. مفاجأة بعد انتشار صوره",
         "snippet": "",
-        "url": "https://www.alarabiya.net/arab-and-world/syria/2024/12/12/%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%AD%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A3%D9%88%D8%B3%D8%AA%D9%86-%D8%AA%D8%A7%D9%8A%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNCq4sgeifPxwattKh7DndPyUbBSab1JjHj6AD08b0AcQwc4NhDMz7IbJok5M",
-        "source": "العربية"
+        "url": "https://zahraa.mr/3715207/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D8%B3%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%AC%D9%86-%D8%B5%D9%8A%D8%AF%D9%86%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqHmthF-qUs-NnE19E0g9oNMqXiXJTAksyZfudLL7WKvDsKpbpVbXhs9twwk",
+        "source": "zahraa.mr"
       },
       {
-        "title": "عائلة الصحفي الأميركي المختطف لـ\"الحرة\": نريد أن نرى تايس حرا",
+        "title": "هل تحققت توقعات ليلي عبد اللطيف بشأن عودة شخصية سياسية كبرى من الموت بـ أنباء العثور علي صدام حسين في سجن صيدنايا السوري ايه القصة؟",
         "snippet": "",
-        "url": "https://www.alhurra.com/usa/2024/12/11/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81-%D9%84%D9%80%D8%A7%D9%84%D8%AD%D8%B1%D8%A9-%D9%86%D8%B1%D9%8A%D8%AF-%D9%86%D8%B1%D9%89-%D8%AA%D8%A7%D9%8A%D8%B3-%D8%AD%D8%B1%D8%A7",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9hIet-tg9pKY0vzqaCzRP_MMvfjTAXLxXk0NDtoFn5D-PtNZ_aP3RbtpB2E",
-        "source": "الحرة"
+        "url": "https://news.harammissr.com/uncategorized/102865/%D9%87%D9%84-%D8%AA%D8%AD%D9%82%D9%82%D8%AA-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D9%84%D9%8A%D9%84%D9%8A-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D8%B7%D9%8A%D9%81-%D8%A8%D8%B4%D8%A3%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D8%A8%D9%80-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%8A-%D8%B5%D8%AF%D8%A7%D9%85-%D8%AD%D8%B3%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%AC%D9%86-%D8%B5%D9%8A%D8%AF%D9%86%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%8A%D9%87-%D8%A7%D9%84%D9%82%D8%B5%D8%A9%D8%9F.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXdSwJoFiuVR9d_9heuwe1GW4_7Nqd0KPMV0Qi0wnFh5PJ34M-9tv8Bng3Uxs",
+        "source": "هرم مصر"
       },
       {
-        "title": "تم العثور على رجل عرف نفسه بأنه أمريكي ترافيس تيمرمان في سوريا بعد إطلاق سراحه من السجن",
+        "title": "هل تحققت توقعات ليلي عبد اللطيف بشأن عودة شخصية سياسية كبرى من الموت بـ أنباء العثور علي صدام حسين في سجن صيدنايا السوري ايه القصة؟",
         "snippet": "",
-        "url": "https://www.fx16tv.com/%D9%84%D8%B9%D8%A8%D8%A9/%D8%AA%D9%85-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%B1%D8%AC%D9%84-%D8%B9%D8%B1%D9%81-%D9%86%D9%81%D8%B3%D9%87-%D8%A8%D8%A3%D9%86%D9%87-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AA/140869/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQtX7K9awepltPgXdjaeiP2opPHNxhgmuZQGfO6FST6Dj81WNQp9zIqFlZiRI",
-        "source": "fx16tv.com"
-      }
-    ]
-  },
-  {
-    "title": "ارسنال",
-    "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Wed, 11 Dec 2024 14:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv2hz0LXXEQsbxfy8jbzLWSiQ3_SzA36Mfnm2-7f4wKbFOvn4i_h_p9xKsi7Y",
-    "picture_source": "beIN SPORTS",
-    "news_items": [
-      {
-        "title": "أرسنال يقسو على موناكو بثلاثية",
-        "snippet": "",
-        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%8A%D9%82%D8%B3%D9%88-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D9%86%D8%A7%D9%83%D9%88-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-2024-12-11",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv2hz0LXXEQsbxfy8jbzLWSiQ3_SzA36Mfnm2-7f4wKbFOvn4i_h_p9xKsi7Y",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "ساكا: هافيرتز منعني من تسجيل الهاتريك",
-        "snippet": "",
-        "url": "https://www.ysscores.com/ar/news/8670006/%D8%B3%D8%A7%D9%83%D8%A7-%D9%87%D8%A7%D9%81%D9%8A%D8%B1%D8%AA%D8%B2-%D9%85%D9%86%D8%B9%D9%86%D9%8A-%D9%85%D9%86-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D8%B1%D9%8A%D9%83",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbBWzxNongG9zM21QaFZh0stbczLJ-toyQM2J9kmgeet7Sahr35FuzJhSIv_s",
-        "source": "يلا سبورت"
-      },
-      {
-        "title": "التشكيل الرسمي لمباراة أرسنال وموناكو في دوري أبطال أوروبا",
-        "snippet": "",
-        "url": "https://news.kol7asry.com/uncategorized/97208/%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%88%D9%85%D9%88%D9%86%D8%A7%D9%83%D9%88-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROrN0hVCGpwsbVJHL4vpj3MVIMm7-ybqwG2wrUc9i4qPiB1MaW6LsMRquCo4c",
-        "source": "بوابة كل حصري"
-      }
-    ]
-  },
-  {
-    "title": "ترتيب دوري ابطال اوروبا",
-    "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaAkVlF8uZhywZQZXsVZhdFZbIAYM-xG-gvkEQ5YOgGwpCwztkXe8rShgMbHk",
-    "picture_source": "اليوم السابع",
-    "news_items": [
-      {
-        "title": "أهداف الأربعاء.. فوز برشلونة وسقوط مانشستر سيتي فى دوري أبطال أوروبا",
-        "snippet": "",
-        "url": "https://www.youm7.com/story/2024/12/12/%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D9%81%D9%88%D8%B2-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%88%D8%B3%D9%82%D9%88%D8%B7-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A-%D9%81%D9%89-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84/6808813",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaAkVlF8uZhywZQZXsVZhdFZbIAYM-xG-gvkEQ5YOgGwpCwztkXe8rShgMbHk",
-        "source": "اليوم السابع"
-      },
-      {
-        "title": "بعد نهاية الجولة السادسة.. أول فريق يضمن التأهل مباشرةً لدور الـ16 من دوري أبطال أوروبا",
-        "snippet": "",
-        "url": "https://www.btolat.com/news/359364",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN6bgZYEN0K13Cllnhr5_Am_CQFwBDOJpDbqBVjMJchhdh04EmbUkhTnsSOfs",
-        "source": "بطولات"
-      },
-      {
-        "title": "هدافو دوري الأبطال هذا الموسم",
-        "snippet": "",
-        "url": "https://hihi2.com/2024/12/12/p2977973.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczhF4ki80HIl4Ss6jg-aXbmBC_wFNXZJ71mIs43-rIeBH_LuhX1c1yfZo5Bo",
-        "source": "هاي كورة"
-      }
-    ]
-  },
-  {
-    "title": "uefa champions league",
-    "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJpD2KTP7AGdNpwaUdIfbdgY75MYEAcu2XO7ctrnVjbNXSSkfPM4vPrimwpa4",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Feyenoord vs. Sparta Prague - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/feyenoord/champions-league/preview/preview-feyenoord-vs-sparta-prague-prediction-team-news-lineups_560228.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJpD2KTP7AGdNpwaUdIfbdgY75MYEAcu2XO7ctrnVjbNXSSkfPM4vPrimwpa4",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Santi Giménez Scores His Second Goal in the Current Champions League",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2169028-santi-gimenez-scores-his-second-goal-in-the-current-champions-league",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ1mB_RyOxJkKofH6Lcr62jA82Kz1_kKxIh6BFv3GuSFGGhtpqiAGhMtSRlkk",
-        "source": "FootBoom"
-      },
-      {
-        "title": "UCL Report and quotes: Priske delighted as Feyenoord beat Sparta Prague 4-2",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/ucl-report-and-quotes-priske-delighted-as-feyenoord-beat-sparta-prague-4-2-40429395",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtFcaeo1vzJwaPOiTLnpAxJwgwXRsjto325bn1tObR0P8_5GAo6kNdPMx5A8",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "juventus vs man city",
-    "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Wed, 11 Dec 2024 13:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLpALNEdgT-aiyqMoR_JSOhw_qlApSbZqnan6XOsFDEp3kWnj7mA-oMD_rlKA",
-    "picture_source": "Football Italia",
-    "news_items": [
-      {
-        "title": "Today’s Papers: Juventus teach City and Guardiola a lesson, Fonseca fury",
-        "snippet": "",
-        "url": "https://football-italia.net/today-papers-juventus-city-lesson-fonseca-fury/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLpALNEdgT-aiyqMoR_JSOhw_qlApSbZqnan6XOsFDEp3kWnj7mA-oMD_rlKA",
-        "source": "Football Italia"
-      },
-      {
-        "title": "Juve hands City qualification blow",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-nz/football/uefa-champions-league/articles-video/juve-hands-city-qualification-blow-2024-12-11",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTB9x8HWDqdsSgJ20GXstEU16zkgMXw6E37QIcr8gGid88dh-7P_h4SLxRHys",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "USMNT making its Champions League mark",
-        "snippet": "",
-        "url": "https://www.nytimes.com/athletic/live-blogs/juventus-manchester-city-live-updates-champions-league-score-result/qVLcHFSDXv44/zI0ZcwoURvL6/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIOk3R6h6jx64IrZcigcTpUU3CcITY6KGnB9ccqsAJq2ZgIl5LsfEkNSt6ywY",
-        "source": "The New York Times"
-      }
-    ]
-  },
-  {
-    "title": "دوري الأبطال",
-    "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMBOApYbl0i5JY3r468zjkK8sFVQdmcNjrVY8e_tF92rm53gyevEih8ve_JU8",
-    "picture_source": "هاي كورة",
-    "news_items": [
-      {
-        "title": "ليفربول في الصدارة.. ترتيب أفضل 10 فرق في أوروبا",
-        "snippet": "",
-        "url": "https://hihi2.com/2024/12/10/p2974061.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMBOApYbl0i5JY3r468zjkK8sFVQdmcNjrVY8e_tF92rm53gyevEih8ve_JU8",
-        "source": "هاي كورة"
-      },
-      {
-        "title": "سبورت الصالح : حصاد دوري أبطال أوروبا قبل جولتي الختام.. ليفربول «الرابح الأكبر»",
-        "snippet": "",
-        "url": "https://pro.saleh13.com/allnews/%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%B5%D8%A7%D8%AF-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%82%D8%A8-32848/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLcXABy7SuhV6vsS8Cu4qVcOa8P4v6lQs9trf8quAv82vYYSUPL-YkMoEAF2M",
-        "source": "الصالح"
-      },
-      {
-        "title": "آرني سلوت غير راض على الرغم من أن ليفربول يحمل الرقم القياسي المثالي في دوري أبطال أوروبا",
-        "snippet": "",
-        "url": "https://voi.id/ar/sports/441881",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQd5VBhs_ZIc-jQ-fZmdiZYJzpwVoYGv3q5wM3Cp-kHOZXBhebw2ikYOmCPj0",
-        "source": "VOI.ID"
-      }
-    ]
-  },
-  {
-    "title": "barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Wed, 11 Dec 2024 12:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
-    "picture_source": "FootBoom",
-    "news_items": [
-      {
-        "title": "¿Cuál es la capacidad del Signal Iduna Park y la 'Pared Amarilla' en el estadio del Borussia Dortmund?",
-        "snippet": "",
-        "url": "https://www.footboom1.com/es/news/football/2168596-what-is-the-capacity-of-signal-iduna-park-and-the-yellow-wall-at-borussia-dortmund-stadium",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
-        "source": "FootBoom"
-      },
-      {
-        "title": "Flick: «El objetivo es ser primeros»",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/flick-el-objetivo-es-ser-primeros-40427746",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Torres alaba el espíritu de equipo tras la victoria del Barcelona en Dortmund",
-        "snippet": "",
-        "url": "https://es-us.noticias.yahoo.com/torres-alaba-esp%C3%ADritu-equipo-victoria-065103438.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtPopBu-O__xaszCDPKNllktaBonAJ0aZuCxqg3t2dU0dYwBI9GH6TL8-r_xM",
-        "source": "Yahoo Noticias"
-      }
-    ]
-  },
-  {
-    "title": "يلا كوره",
-    "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpX8-YymizA_4bqS_Ljn0mAJqnUZI2IgZlAI5xoGxae7vzfs4ICgcL2iC4aig",
-    "picture_source": "يلا سبورت",
-    "news_items": [
-      {
-        "title": "شوبير يكشف مفاجآت كولر في مباراة باتشوكا",
-        "snippet": "",
-        "url": "https://www.ysscores.com/ar/news/8688823/%D8%B4%D9%88%D8%A8%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D9%83%D9%88%D9%84%D8%B1-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A8%D8%A7%D8%AA%D8%B4%D9%88%D9%83%D8%A7",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpX8-YymizA_4bqS_Ljn0mAJqnUZI2IgZlAI5xoGxae7vzfs4ICgcL2iC4aig",
-        "source": "يلا سبورت"
-      },
-      {
-        "title": "رامي ربيعة: هدفنا لقب كأس التحدي ومواجهة الريال",
-        "snippet": "",
-        "url": "https://www.kooora.com/?n=1374409&pg=1&o=n",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_NRiuxKJ5fk32e855-MZhrxK96JGM-YCMba8fbcwJRPvw8dieHUmOV-DzssQ",
-        "source": "كووورة: الموقع العربي الرياضي الأول"
-      },
-      {
-        "title": "الأهلي المصري أمام فرصة تاريخية للوصول للنهائي في كأس القارات قطر 2024",
-        "snippet": "",
-        "url": "https://www.raya.com/2024/12/12/%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A3%D9%85%D8%A7%D9%85-%D9%81%D8%B1%D8%B5%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%84%D9%84%D9%88%D8%B5%D9%88/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZkqrPkVcdafsyvOfNS7U7SeZFEiM1weK0G-D3x3p0qKqJ61MiF3FVO1TJFt4",
-        "source": "جريدة الراية"
-      }
-    ]
-  },
-  {
-    "title": "الاسطورة",
-    "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Wed, 11 Dec 2024 12:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2KgZKsmgXa-NgpD0Eq_P5TdlOgMNRjdkEDGHm6_x9XlkFqszlFvwpKgJZ7_c",
-    "picture_source": "رصيف22",
-    "news_items": [
-      {
-        "title": "\"أبناء نوت\"... صراع البشر مع الفوضى والنظام في مرآة الأساطير الفرعونية",
-        "snippet": "",
-        "url": "https://raseef22.net/article/1099100-%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D9%86%D9%88%D8%AA-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1-%D9%85%D8%B9-%D8%A7%D9%84%D9%81%D9%88%D8%B6%D9%89-%D9%88%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D8%B1%D8%A2%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B7%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D8%B1%D8%B9%D9%88%D9%86%D9%8A%D8%A9",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2KgZKsmgXa-NgpD0Eq_P5TdlOgMNRjdkEDGHm6_x9XlkFqszlFvwpKgJZ7_c",
-        "source": "رصيف22"
-      },
-      {
-        "title": "دوس سانتوس خليفة ميسي الذي ترك كرة القدم ليصبح رجل أعمال",
-        "snippet": "",
-        "url": "https://www.alaraby.co.uk/sport/%D8%AF%D9%88%D8%B3-%D8%B3%D8%A7%D9%86%D8%AA%D9%88%D8%B3-%D8%AE%D9%84%D9%8A%D9%81%D8%A9-%D9%85%D9%8A%D8%B3%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A-%D8%AA%D8%B1%D9%83-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D9%84%D9%8A%D8%B5%D8%A8%D8%AD-%D8%B1%D8%AC%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D9%84",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh4In1f8Q-tUfOLIAWv-GIYTZzmQywt1h1g8pxhajE3i8yoJCdyLz-dS4H6Y0",
-        "source": "العربي الجديد"
-      },
-      {
-        "title": "\"من أولمبياد لندن لعالم الأعمال\".. حكاية خليفة الأسطورة البرازيلية رونالدينيو",
-        "snippet": "",
-        "url": "https://www.msn.com/ar-eg/sports/other/%D9%85%D9%86-%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D9%84%D9%86%D8%AF%D9%86-%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%AE%D9%84%D9%8A%D9%81%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84%D9%8A%D8%A9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D9%88/ar-AA1vHNol",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBJZo5Qn24X0epM_csxF3eLaCcQWEuFCrU1teJ6v9yYtwU-gb81pJQb0fhN8Q",
-        "source": "MSN"
-      }
-    ]
-  },
-  {
-    "title": "علي مملوك",
-    "link": "https://trends.google.com/trending/rss?geo=SY",
-    "pubdate": "Wed, 11 Dec 2024 12:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLJ6_j9J9a6j5yCPH6g_eHUFGonliloWc77sC7x2L1zfdBlu7Kyi_B3R8Rtsk",
-    "picture_source": "الشرق الأوسط",
-    "news_items": [
-      {
-        "title": "غالبية القيادات العسكرية والأمنية لنظام الأسد لا تزال داخل سوريا",
-        "snippet": "",
-        "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5090712-%D8%BA%D8%A7%D9%84%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%84%D8%A7-%D8%AA%D8%B2%D8%A7%D9%84-%D8%AF%D8%A7%D8%AE%D9%84",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLJ6_j9J9a6j5yCPH6g_eHUFGonliloWc77sC7x2L1zfdBlu7Kyi_B3R8Rtsk",
-        "source": "الشرق الأوسط"
-      },
-      {
-        "title": "أبرز 10 جنرالات أسسوا جحيم السوريين في عهد المخلوع بشار الأسد واختفوا بعد سقوطه!",
-        "snippet": "",
-        "url": "https://www.almashhadnews.com/297808",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe5Z45xRb8DLM2cbLf-xr9fI4x9sW6sSz7ppvutq4RLdF_pZW0wRJGlFK-r68",
-        "source": "المشهد اليمني"
-      },
-      {
-        "title": "صحيفة لبنانية تكشف أسماء رموز من نظام الأسد هربوا عبر لبنان (شاهد)",
-        "snippet": "",
-        "url": "https://sawaleif.com/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%B1%D9%85%D9%88%D8%B2-%D9%85%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7-942739/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmjiUtcOEEaDqGdwa0NifUZyAQfYLfVNcB0UnMAB_xbNB7epUrt3xsy93zupQ",
-        "source": "سواليف"
+        "url": "https://www.christian-dogma.com/2248869",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsiVXthuOfVl2tB7Ps8JqUtYesrkgAOyYhUFRGSwQI9wY1sQ-EqQ0uwNDsWE0",
+        "source": "الحق والضلال"
       }
     ]
   }

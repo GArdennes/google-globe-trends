@@ -1,311 +1,187 @@
 [
   {
-    "title": "rockets vs warriors",
+    "title": "zimbabwe vs afghanistan",
     "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 21:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCw1F9whMIYfOALyuth6m08Tsj1ZJsegnuKXxatujMeeoWpa4vylAhD91ssA",
-    "picture_source": "NBA.com",
-    "news_items": [
-      {
-        "title": "Updated game schedules for teams eliminated in NBA Cup Quarterfinals",
-        "snippet": "",
-        "url": "https://www.nba.com/news/updated-game-schedules-for-teams-eliminated-in-nba-cup-quarterfinals",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCw1F9whMIYfOALyuth6m08Tsj1ZJsegnuKXxatujMeeoWpa4vylAhD91ssA",
-        "source": "NBA.com"
-      },
-      {
-        "title": "NBA Cup winners and losers: Steve Kerr left fuming over call that capped \nWarriors collapse",
-        "snippet": "",
-        "url": "https://www.usatoday.com/story/sports/nba/2024/12/12/nba-cup-winners-losers-hawks-rockets-bucks-thunder/76936317007/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMYIL-hzEDStmULYzEi-qfMFC5pcoS_kr8-_R3WbtkZ0KiOW1QERMOO1z_fUg",
-        "source": "USA Today"
-      },
-      {
-        "title": "Warriors vs. Rockets player grades: Draymond Green stars on D, Jonathan \nKuminga leads the O",
-        "snippet": "",
-        "url": "https://www.goldenstateofmind.com/2024/12/11/24319334/warriors-rockets-player-grades-steph-curry-jonathan-kuminga-draymond-green",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJBxC421wtTqXhIbQ_xQ6kV4_Ir3gVzGpJJHXMqxxC1PEpTza99-wYfoOCP4",
-        "source": "Golden State Of Mind"
-      }
-    ]
-  },
-  {
-    "title": "gemini ai",
-    "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 16:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-    "picture_source": "Google Blog",
-    "news_items": [
-      {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
-        "snippet": "",
-        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-        "source": "Google Blog"
-      },
-      {
-        "title": "A former Google designer reveals what goes into building its AI models like \nGemini",
-        "snippet": "",
-        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
-        "source": "Business Insider"
-      },
-      {
-        "title": "Alphabet Stock Hits a Record High on New AI Models",
-        "snippet": "",
-        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
-        "source": "Barron's"
-      }
-    ]
-  },
-  {
-    "title": "ai",
-    "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 16:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbberYunGmS5_YLOjpe3GULG14IGHbO70zOhlMuXw5UYwozbnlZu2V9h0uB20",
-    "picture_source": "The Conversation",
-    "news_items": [
-      {
-        "title": "Local governments are using AI without clear rules or policies, and the \npublic has no idea",
-        "snippet": "",
-        "url": "https://theconversation.com/local-governments-are-using-ai-without-clear-rules-or-policies-and-the-public-has-no-idea-244647",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbberYunGmS5_YLOjpe3GULG14IGHbO70zOhlMuXw5UYwozbnlZu2V9h0uB20",
-        "source": "The Conversation"
-      },
-      {
-        "title": "Innovation Leadership Is Not Easy, but Tools, Help Are There",
-        "snippet": "",
-        "url": "https://www.govtech.com/artificial-intelligence/innovation-leadership-is-not-easy-but-tools-help-are-there",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXVe6Q_WrkeWco7VEmLGxeR5ozadQL_BvbHmptOZ6ckKoDu4AobOctvGq1YJY",
-        "source": "GovTech"
-      },
-      {
-        "title": "News",
-        "snippet": "",
-        "url": "https://www.sanjoseca.gov/Home/Components/News/News/6379/4699?backlist=%2F",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1Hk_YDbX98e3K3pK4VWdIjoS9FuKdfJG1EH2mDMqqAMT481gWUi_UCCezVbA",
-        "source": "City of San Jose (.gov)"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "milan vs crvena zvezda",
-    "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuRsRpa_QKNrHsYLNzZ6ruE4KnpvBjyKYP6oZOWvu2Oaqh6MLKbxp4kdOIh1w",
-    "picture_source": "BBC",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO6KmdtihCSVgGvYw_nkLEYxCHWbIz8e4BRNC2pM9ElgbQpsdPTJlmazuggYU",
+    "picture_source": "ESPNcricinfo",
     "news_items": [
       {
-        "title": "Champions League: Tammy Abraham scores late as AC Milan beat Red Star \nBelgrade",
+        "title": "Afghanistan bowl in decider with Farooqi in for Fareed",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/ce8nnl6gp00t",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuRsRpa_QKNrHsYLNzZ6ruE4KnpvBjyKYP6oZOWvu2Oaqh6MLKbxp4kdOIh1w",
-        "source": "BBC"
+        "url": "https://www.espncricinfo.com/series/afghanistan-in-zimbabwe-2024-25-1457916/zimbabwe-vs-afghanistan-3rd-t20i-1457922/match-report",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO6KmdtihCSVgGvYw_nkLEYxCHWbIz8e4BRNC2pM9ElgbQpsdPTJlmazuggYU",
+        "source": "ESPNcricinfo"
       },
       {
-        "title": "Loftus-Cheek backed to 'do the same' as injured Pulisic for Milan against \nRed Star",
+        "title": "6 Wides, 1 No-Ball, 2 Fours And A Wicket: Naveen-Ul-Haq Bowls Marathon 13-Ball Over vs Zimbabwe",
         "snippet": "",
-        "url": "https://www.sportsmax.tv/football/international/item/155792-loftus-cheek-backed-to-do-the-same-as-injured-pulisic-for-milan-against-red-star",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6lbSGuVBR7KkKzV3QK7UfxnlkLlvdw4oU-M0AvOMm9oYSm5q7vAFmnWymiw0",
-        "source": "SportsMax"
+        "url": "https://sports.ndtv.com/cricket/6-wides-1-no-ball-2-fours-and-a-wicket-naveen-ul-haq-bowls-marathon-13-ball-over-vs-zimbabwe-7231976",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFI-kwV2aEV0m6qTIpXcMJPjGhovdbx2izZmPCgZosTRbcNpzx-zKr_PgCh0",
+        "source": "NDTV Sports"
       },
       {
-        "title": "Fonseca after win vs Red Star Belgrade: “I am not satisfied with the team’s \nperformance”",
+        "title": "Afghanistan beat Chevrons to level T20 series",
         "snippet": "",
-        "url": "https://milanreports.com/2024/12/11/fonseca-not-satisfied-vs-red-star/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5QdLRCir6Db97ok1y0v_ogIiGC1VrPrZelHvIEFd3mbsQRhCAiLIiNVZsLr4",
-        "source": "Milanreports.com"
+        "url": "https://www.newzimbabwe.com/afghanistan-beat-chevrons-to-level-t20-series/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTelDU5m73USuosedZBEnfHo9JxCboawQGg31M0Va1iD2Nx8hFuZY_DvfjbvMM",
+        "source": "NewZimbabwe.com"
       }
     ]
   },
   {
-    "title": "uefa champions league standings",
+    "title": "leicester city vs chelsea",
     "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQzi92W20auXoSrnhjjraGhJFIDCNseMw4ITRaK8Cv2G_tny0cJYft7WC1a18",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Champions League: How well do you remember goalscorers so far?",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/czengd02y32o",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQzi92W20auXoSrnhjjraGhJFIDCNseMw4ITRaK8Cv2G_tny0cJYft7WC1a18",
-        "source": "BBC"
-      },
-      {
-        "title": "UCL: Leading top scorers after this week’s matches",
-        "snippet": "",
-        "url": "https://dailypost.ng/?p=1149480",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ0W2gIBR2eryejTuuwIPM7ZEFdbB_gG0nC5I1A8nRqzkrLQc-cVurvrJVv0Y",
-        "source": "Daily Post Nigeria"
-      },
-      {
-        "title": "Quiz! Can you name the players who have scored in the most consecutive \nChampions League seasons?",
-        "snippet": "",
-        "url": "https://www.fourfourtwo.com/news/football-quiz-can-you-name-the-players-who-have-scored-in-the-most-consecutive-champions-league-seasons",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA5-ye6fP5yf5oV36kNCFAmlZKWbRtyyaHIblr2CLh8RIUP48seOmd9UdC4Xs",
-        "source": "FourFourTwo"
-      }
-    ]
-  },
-  {
-    "title": "chelsea vs twente",
-    "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 13:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXkWhYl8V6FS0bQ5aw6CfderFecevsf1kZbMpubr48j07MRMyMzKqEyg8XJV8",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Chelsea 6-1 Twente: Blues maintain unbeaten start in Women's Champions \nLeague",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c0477kvgxk2t",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXkWhYl8V6FS0bQ5aw6CfderFecevsf1kZbMpubr48j07MRMyMzKqEyg8XJV8",
-        "source": "BBC"
-      },
-      {
-        "title": "🎥 Cat Macario assists herself for Chelsea's wild UWCL opener",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/cat-macario-assists-herself-chelseas-203700974.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt2BcbTPsyHqfrRwp6ftthcEWaseupomEwCEN4m_HNzBU6LsADyHh3KE3Alj0",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Sonia Bompastor hails goal-scoring prowess and mentality after Twente win | \nNews | Official Site",
-        "snippet": "",
-        "url": "https://www.chelseafc.com/en/news/article/sonia-bompastor-hails-goal-scoring-prowess-and-mentality-after-twente-win",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTey7EMg8-Jqv80ZVYuPBTjqSr1-Vmk2v2fDrn4_bYxFX_4ye4kdzagpoqbdl4",
-        "source": "Chelsea Football Club"
-      }
-    ]
-  },
-  {
-    "title": "barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 13:20:00 -0800",
+    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIA8df7WRfhsvBU_iGow6Ic2FfCe6XlltomvREUA8q_JmUbiCnVD5h2UmSQPc",
-    "picture_source": "FootBoom",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDisVJOzFSnsIEC03yRz_DUCo7VWsFYogD4lDRzu9ZuBFjeyi2PDaFUHaBJ0",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "En Vivo: Borussia Dortmund GmbH & Co. KGaA vs FC Barcelona - Partido de la \nChampions League 2024-2025",
+        "title": "Women's Super League Leicester City 1 Chelsea 0 75 minutes played. In progress",
         "snippet": "",
-        "url": "https://www.footboom1.com/es/news/football/2168880-live-borussia-dortmund-gmbh-co-kgaa-vs-fc-barcelona-champions-league-match-2024-2025-footboom",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIA8df7WRfhsvBU_iGow6Ic2FfCe6XlltomvREUA8q_JmUbiCnVD5h2UmSQPc",
-        "source": "FootBoom"
+        "url": "https://www.bbc.com/sport/football/live/c8rjk3n23ejt",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDisVJOzFSnsIEC03yRz_DUCo7VWsFYogD4lDRzu9ZuBFjeyi2PDaFUHaBJ0",
+        "source": "BBC"
       },
       {
-        "title": "Hansi Flick habló sobre la prematura salida de Raphinha en la victoria del \nBarcelona sobre el Borussia Dortmund",
+        "title": "WSL predictions: Gameweek 10",
         "snippet": "",
-        "url": "https://www.90min.com/es/hansi-flick-hablo-sobre-la-prematura-salida-de-raphinha-en-la-victoria-del-barcelona-sobre-el-borussia-dortmund",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLmzU2R3LZN-Trubq2wfa8NUOCnBKnRhRBPV5Vu8xalUPUwc6qGsCh-UR2Jm0",
+        "url": "https://www.90min.com/wsl-predictions-gameweek-10-2024-25",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtkYYKOdRCGqP9N8O2xdLdRmcZhTioXKajT7e10fyurxw2iQxiUkzvoYDkZLk",
         "source": "90Min.com"
       },
       {
-        "title": "Portada de FCBN 12/12/2024: EL REGRESO DEL ¡TIBURÓN!",
+        "title": "Preview: Leicester City Women vs. Chelsea Women - prediction, team news, lineups",
         "snippet": "",
-        "url": "https://www.fcbarcelonanoticias.com/portadas-futbol/portada-fcbn-12-12-2024-dortmund-2-3-fc-barcelona-champions-24-25_309246_102.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOga5OfcUAFzNNJlp904nQwOck2o7zPCm5vhZT1e8ySaJlpBu7S7RRE_OPbFM",
-        "source": "FCBN"
+        "url": "https://www.sportsmole.co.uk/football/leicester-w/preview/preview-leicester-vs-chelsea-prediction-team-news-lineups_560361.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCAL-SS0BGcmemXXZsivJ4imlWVeguNX9zR4kSQOVeHz6FN89m_3JI3A8xwMQ",
+        "source": "Sports Mole"
       }
     ]
   },
   {
-    "title": "uefa champions league",
+    "title": "timberwolves vs lakers",
     "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 12:10:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJBr7CJcUaZb_IRQs2T64UTb5lWdB4K95j69SjLtqZrZ6q9UrFN9_tT9GhmTM",
-    "picture_source": "BBC",
+    "pubdate": "Fri, 13 Dec 2024 19:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77jxeK81UkAHVwnEIqtqXl3nQNXg46GPo_ooqt5A8EEOpV_BpX97G1nMJ6Yw",
+    "picture_source": "ESPN",
     "news_items": [
       {
-        "title": "Atletico Madrid 3-1 Slovan Bratislava: Julian Alvarez scores stunner",
+        "title": "Timberwolves 97-87 Lakers (Dec 13, 2024) Final Score",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cj0rr31ed2pt",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJBr7CJcUaZb_IRQs2T64UTb5lWdB4K95j69SjLtqZrZ6q9UrFN9_tT9GhmTM",
-        "source": "BBC"
-      },
-      {
-        "title": "Atlético 3-1 S Bratislava (Dec 11, 2024) Game Analysis",
-        "snippet": "",
-        "url": "https://www.espn.com/soccer/report/_/gameId/720321",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpoQFJanXlnwrMDH9KPLVTT__X6MpQowR24wqfnb2CTyHfXHdgAEJhc_A4RYs",
+        "url": "https://www.espn.com/nba/game/_/gameId/401736804/lakers-timberwolves",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77jxeK81UkAHVwnEIqtqXl3nQNXg46GPo_ooqt5A8EEOpV_BpX97G1nMJ6Yw",
         "source": "ESPN"
       },
       {
-        "title": "Simeone: \"We Compete in Our League Against the Two Best in Europe\"",
+        "title": "Jaden McDaniels’ return to his dominant defensive self gives Wolves a new edge - The Athletic",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2168787-simeone-we-compete-in-our-league-against-the-two-best-in-europe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS__fEdUDI0krRaFEO07lfpCvigQkLBVKIx1WMUFuwi0i9Rgyd_xa8Cpy_Od5Q",
-        "source": "FootBoom"
+        "url": "https://www.nytimes.com/athletic/5993473/2024/12/14/jaden-mcdaniels-timberwolves-defense-lakers/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2EZirdPe7yeKXAxqsY-BY_t_g1kZG-emSKBZdxZkRP0YoafRkHZfZ35Wxxdg",
+        "source": "The New York Times"
+      },
+      {
+        "title": "NBA: Los Angeles Lakers at Minnesota Timberwolves",
+        "snippet": "",
+        "url": "https://www.henryherald.com/fieldlevel/nba-los-angeles-lakers-at-minnesota-timberwolves/image_5a033f8f-110e-5b0a-91db-063d92158bc1.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWo61ssTShKlAiMWxQKkEUWvXi1mY6_P8ieDIrrG6ZIFxKKOomq99M6rcus24",
+        "source": "Henry Herald"
       }
     ]
   },
   {
-    "title": "champions league",
+    "title": "australia vs india",
     "link": "https://trends.google.com/trending/rss?geo=JM",
-    "pubdate": "Wed, 11 Dec 2024 11:40:00 -0800",
+    "pubdate": "Fri, 13 Dec 2024 16:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "",
+    "picture_source": "ESPNcricinfo",
+    "news_items": [
+      {
+        "title": "Ball by Ball Commentary & Live Score - AUS vs IND, 3rd Test",
+        "snippet": "",
+        "url": "https://www.espncricinfo.com/series/australia-vs-india-2024-25-1426547/australia-vs-india-3rd-test-1426557/ball-by-ball-commentary",
+        "picture": "",
+        "source": "ESPNcricinfo"
+      },
+      {
+        "title": "Play of only 10 more balls could've saved Cricket Australia over $1m",
+        "snippet": "",
+        "url": "https://www.geo.tv/latest/579611-play-of-only-10-more-balls-couldve-saved-cricket-australia-over-1m",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw6blkpDA8_lkJ6ePA6fB718SCq80UVe8Y4VaiofcKMgBMMwe0z6O8ag9WysU",
+        "source": "Geo.tv"
+      },
+      {
+        "title": "Why India's toss decision at the Gabba defies history but not logic",
+        "snippet": "",
+        "url": "https://www.wisden.com/series/australia-vs-india-m-202425/cricket-news/why-indias-history-defying-decision-to-field-at-brisbane-isnt-as-bad-as-it-seems",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdT-hdMmQWSs9buew1Fa2G43GOMHqWcXusLuqVoBRt3yQt8AsuoRVfH_yTaak",
+        "source": "Wisden"
+      }
+    ]
+  },
+  {
+    "title": "new zealand vs england",
+    "link": "https://trends.google.com/trending/rss?geo=JM",
+    "pubdate": "Fri, 13 Dec 2024 13:50:00 -0800",
     "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR43UjGdJzx5NAz397GCVdq_C--KShfY5tuFqcK16vNI5mU-oqDc7d7zYE2zVc",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Champions League league phase table: How it stands - with Man City in danger",
+        "title": "New Zealand vs England: Matthew Potts and Gus Atkinson lead tourists in Hamilton",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/c390vgmzn8lo",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR43UjGdJzx5NAz397GCVdq_C--KShfY5tuFqcK16vNI5mU-oqDc7d7zYE2zVc",
+        "url": "https://www.bbc.com/sport/cricket/articles/cx27x3w8ypno",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
         "source": "BBC"
       },
       {
-        "title": "UCL talking points: Who will be eliminated - Man City or PSG?",
+        "title": "Woakes replaced by Potts for final New Zealand Test match",
         "snippet": "",
-        "url": "https://www.espn.com/soccer/story/_/id/42874056/champions-league-talking-points-eliminated-man-city-psg",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdqzUol4ZUMfyri5L1fLT_fUtDeDg44JrHd5mPoW-7Q3KERWO7s-VKqVRLyfE",
-        "source": "ESPN"
+        "url": "https://www.sportsmax.tv/cricket/cricket-international/item/155897-woakes-replaced-by-potts-for-final-new-zealand-test-match",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOHggd7E0Ajt2wUkvpH_k6VtKAnWRxhaQR6VLsWKk39I12bPqLH8wCQNTMCaA",
+        "source": "SportsMax"
       },
       {
-        "title": "This Is What Real Madrid Needs To Qualify For The Next Round Of The \nChampions League",
+        "title": "Stokes motivates his team to put in extra effort, says England pacer Potts",
         "snippet": "",
-        "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles-video/this-is-what-real-madrid-needs-to-qualify-for-the-next-round-of-the-champions-league-2024-12-11",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgzHvjq3hTvEn7MCnAHCEIFv3Gm_BmZL7D4-fwa-2depG4P9P2cGbLBihEJ6U",
-        "source": "beIN SPORTS"
+        "url": "https://www.socialnews.xyz/2024/12/14/stokes-motivates-his-team-to-put-in-extra-effort-says-england-pacer-potts/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8yf16L3Z8OIdisEwTKYKo0Vk7tuAifDhD0UMf9sWS_QwHon8eOB5Z4KhX4Bw",
+        "source": "Social News XYZ"
+      }
+    ]
+  },
+  {
+    "title": "pakistan vs south africa",
+    "link": "https://trends.google.com/trending/rss?geo=JM",
+    "pubdate": "Fri, 13 Dec 2024 08:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6S3FnOJ_ZsT0Z9c190cl8T43u1_Dp2J8L3qnAr4xp8UcDtpds_7RDlrRXlwc",
+    "picture_source": "SportsTak",
+    "news_items": [
+      {
+        "title": "Reeza Hendricks' whirlwind 117 helps South Africa become first team to chase down over 200 vs Pakistan as Saim Ayub's career best 98 goes in vain",
+        "snippet": "",
+        "url": "https://thesportstak.com/cricket/india-tour-of-australia-22-nov-2024/story/reeza-hendricks-117-helps-south-africa-become-1st-team-to-chase-over-200-vs-pakistan-saim-ayubs-career-best-98-in-vain-3150593-2024-12-14",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6S3FnOJ_ZsT0Z9c190cl8T43u1_Dp2J8L3qnAr4xp8UcDtpds_7RDlrRXlwc",
+        "source": "SportsTak"
+      },
+      {
+        "title": "Missed the Bus, But Not the Moment! What a Comeback!",
+        "snippet": "",
+        "url": "https://www.qhubo.com.ni/news2/missed-the-bus-but-not-the-moment-what-a-comeback/9504/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFY19KY3tmVOHSP4uhglANAWJ9vvzFULGWBMh-cljqo97Sp3-Evdj2VIAaNI",
+        "source": "qhubo.com.ni"
+      },
+      {
+        "title": "\"Again beaten by South African School Kids\"- Top 10 funny memes after Pakistan's dismal loss vs South Africa in 2nd T20I 2024",
+        "snippet": "",
+        "url": "https://www.sportskeeda.com/cricket/news-again-beaten-south-african-school-kids-top-10-funny-memes-pakistan-s-dismal-loss-vs-south-africa-2nd-t20i-2024",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWWpt8hvfxHSWBU8HruME6nihYUFHSc40a2bRCujJtFV_xlVjlj1KN0Rzjw6A",
+        "source": "Sportskeeda"
       }
     ]
   }
