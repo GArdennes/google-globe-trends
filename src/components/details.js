@@ -78,7 +78,7 @@ export default function Details() {
             }}>
             Trending topic:{" "}
             <a
-              className=""
+              className="clickable-link"
               onClick={() => window.open(focusedMarker.link, "_blank")}>
               {topics}
             </a>

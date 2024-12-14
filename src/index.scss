@@ -202,3 +202,14 @@ body {
     }
   }
 }
+
+.clickable-link {
+  text-decoration: underline; /* Add underline */
+  color: blue;                /* Link color */
+  cursor: pointer;            /* Pointer cursor on hover */
+}
+
+.clickable-link:hover {
+  color: darkblue;            /* Slightly darker color on hover */
+}
+
