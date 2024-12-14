@@ -134,11 +134,17 @@ body {
 }
 
 .content {
-  max-width: 30vw;
+  display: flex;
+  flex-direction: column; // Arrange items vertically
+  align-items: center; // Center items horizontally
+  justify-content: center; // Center items vertically
+  text-align: center;
+  font-family: Arial, sans-serif;
+  max-width: 25vw;
   position: absolute;
-  right: 10%;
   top: 50%;
-  transform: translate(0%, -50%);
+  right: 10%;
+  transform: translate(0, -50%);
   @media only screen and (max-width: $media-phone-max-width) {
     max-width: 60vw;
     right: $spacing * 2;

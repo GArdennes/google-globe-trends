@@ -1,17 +1,17 @@
-import React from "react";
+import React, { Suspense, lazy } from "react";
 
-import Details from "./details";
-import World from "./globe";
-import Intro from "./intro";
-import Overlay from "./overlay";
+const Details = lazy(() => import("./details"));
+const World = lazy(() => import("./globe"));
+const Intro = lazy(() => import("./intro"));
+const Overlay = lazy(() => import("./overlay"));
 
 export default function App() {
   return (
-    <>
+    <Suspense fallback={<div>Loading...</div>}>
       <World />
       <Intro />
       <Overlay />
       <Details />
-    </>
+    </Suspense>
   );
 }
