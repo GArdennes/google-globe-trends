@@ -2,17 +2,46 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Visualizing Google Trends data on a 3D globe." />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <title>google-globe-trends</title>
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css?family=Ovo|Karla&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="path/to/your/main.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="path/to/your/main.css"></noscript>
+    <title>Google Globe Trends</title>
+    <style>
+      body {
+        color: #fcdcbf;
+        font-family: Karla, sans-serif;
+        font-size: 16px;
+        text-rendering: geometricPrecision;
+        -webkit-font-smoothing: antialiased;
+        background: rgba(0, 0, 0, 0.95);
+        height: 100vh;
+        margin: 0;
+        overflow: hidden;
+        padding: 0;
+        width: 100vw;
+      }
+
+      .clickable-link {
+        text-decoration: underline;
+        color: blue;
+        cursor: pointer;
+      }
+
+      .clickable-link:hover {
+        color: darkblue;
+      }
+    </style>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+    <main id="root"></main>
+    <script src="path/to/your/main.js" defer></script>
   </body>
 </html>
