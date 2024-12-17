@@ -17,10 +17,10 @@ Google Globe Trends is a tool that allows you to visualize trending search keywo
 
 ### Completed Tasks
 
-- **Crawl Keywords**: Implemented a crawler to collect keywords. (10/12/2024)
-- **Globe Visualization**: Added options for globe visualization using `react-globe.gl` and `react-native-mapview`. (11/12/2024)
-- **Data Population**: Populated `data.json` with popular keywords per country. (11/12/2024)
-- **Deployment**: Deployed the site successfully. (11/12/2024)
+- **Crawl Keywords**: Implemented a crawler to collect keywords.
+- **Globe Visualization**: Added options for globe visualization using `react-globe.gl` and `react-native-mapview`.
+- **Data Population**: Populated `data.json` with popular keywords per country.
+- **Deployment**: Deployed the site successfully.
 
 ## Getting Started
 
