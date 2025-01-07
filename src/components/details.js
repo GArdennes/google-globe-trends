@@ -30,30 +30,25 @@ export default function Details() {
           />
         </div>
         <div className="content">
-          <h1 style={{ fontSize: "2rem", marginBottom: "0rem" }}>
+          <h1
+            style={{ fontSize: "2rem", marginBottom: "0rem", color: "white" }}>
             {countryName}
           </h1>
-          <p style={{ marginBlockEnd: "0rem" }}>
+          <p style={{ marginBlockEnd: "0rem", color: "white" }}>
             Trending topic:{" "}
             <a
               className="clickable-link"
-              onClick={() => window.open(focusedMarker.link, "_blank")}>
+              onClick={() => window.open(focusedMarker.link, "_blank")}
+              style={{ color: "lightblue" }}>
               {topics}
             </a>
           </p>
-          <p>{`(Approximate traffic of ${value})`}</p>
+          <p
+            style={{ color: "white" }}>{`(Approximate traffic of ${value})`}</p>
           <Button
+            className="search-button"
             label="View search results"
             onClick={() => window.open(url, "_blank")}
-            style={{
-              backgroundColor: "#333",
-              color: "#fff",
-              padding: "0.5rem 1rem",
-              borderRadius: "5px",
-              border: "none",
-              fontSize: "1rem",
-              cursor: "pointer",
-            }}
           />
         </div>
       </>

@@ -15,6 +15,11 @@ Google Globe Trends is a tool that allows you to visualize trending search keywo
 
 ## Project Status
 
+### Uncompleted Tasks
+
+- **Visualise vanilla tree chart**: Confirm if tree chart visualisation is commendable with globe visualisation. (17/01/2025)
+- **Amend data query**: Fetch data on country statistics and SDG performance.
+
 ### Completed Tasks
 
 - **Crawl Keywords**: Implemented a crawler to collect keywords. (10/12/2024)
