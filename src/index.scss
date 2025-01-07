@@ -232,3 +232,26 @@ body {
   cursor: "pointer";
 }
 
+.MuiStack-root {
+  bottom: $spacing;
+  left: auto;
+  right: $spacing;
+  top: auto;
+}
+
+.hover-scale {
+
+  transition: transform 0.3s;
+
+}
+
+.hover-scale:hover {
+
+  transform: scale(1.2);
+
+}
+
+.taskbar-icon {
+  width: 80px;  /* Adjust the width to the desired size */
+  height: 80px; /* Adjust the height to the desired size */
+}
