@@ -135,6 +135,9 @@ body {
 
 .content {
   display: flex;
+  background-color:black;
+  padding: "1rem";
+  border-radius: "0.5rem";
   flex-direction: column; // Arrange items vertically
   align-items: center; // Center items horizontally
   justify-content: center; // Center items vertically
@@ -219,3 +222,36 @@ body {
   color: darkblue;            /* Slightly darker color on hover */
 }
 
+.search-button {
+  background-color: "#333";
+  color: "#fff";
+  padding: "0.5rem 1rem";
+  border-radius: "5px";
+  border: "none";
+  font-size: "1rem";
+  cursor: "pointer";
+}
+
+.MuiStack-root {
+  bottom: $spacing;
+  left: auto;
+  right: $spacing;
+  top: auto;
+}
+
+.hover-scale {
+
+  transition: transform 0.3s;
+
+}
+
+.hover-scale:hover {
+
+  transform: scale(1.2);
+
+}
+
+.taskbar-icon {
+  width: 80px;  /* Adjust the width to the desired size */
+  height: 80px; /* Adjust the height to the desired size */
+}

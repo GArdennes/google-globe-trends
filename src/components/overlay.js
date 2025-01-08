@@ -6,6 +6,7 @@ import About from "./about";
 import Description from "./description";
 import Fade from "./fade";
 import Link from "./link";
+import Icons from "./icons";
 
 export default function Overlay() {
   const [{ focusedMarker, lastUpdated, markers, start }] = useStateValue();
@@ -36,7 +37,11 @@ export default function Overlay() {
           </div>
         </div>
         <div className="footer">
-          Updated on {moment(lastUpdated).format("MMM D, YYYY")}
+          Sustainable Development Goals created on{" "}
+          {moment(lastUpdated).format("MMM D, YYYY")}
+          <div style={{ display: "flex", marginRight: "5rem" }}>
+            <Icons />
+          </div>
         </div>
       </Fade>
     </>

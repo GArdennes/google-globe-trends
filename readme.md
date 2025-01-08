@@ -15,12 +15,19 @@ Google Globe Trends is a tool that allows you to visualize trending search keywo
 
 ## Project Status
 
+### Uncompleted Tasks
+
+- **Amend data query**: Fetch data on country statistics and SDG performance. (08/01/2025)
+- **Visualise for each country the tree map**: The profile of each country should be illustrated with SDG chart.
+
 ### Completed Tasks
 
-- **Crawl Keywords**: Implemented a crawler to collect keywords.
-- **Globe Visualization**: Added options for globe visualization using `react-globe.gl` and `react-native-mapview`.
-- **Data Population**: Populated `data.json` with popular keywords per country.
-- **Deployment**: Deployed the site successfully.
+- **Crawl Keywords**: Implemented a crawler to collect keywords. (10/12/2024)
+- **Globe Visualization**: Added options for globe visualization using `react-globe.gl` and `react-native-mapview`. (11/12/2024)
+- **Data Population**: Populated `data.json` with popular keywords per country. (11/12/2024)
+- **Deployment**: Deployed the site successfully. (11/12/2024)
+- **Visualise vanilla tree chart**: Confirm if tree chart visualisation is commendable with globe visualisation. (17/01/2025)
+- **Legends appended to globe visualisation**: Provide an icon tray for easy reading and intepretation of SDG tree map. (17/01/2025)
 
 ## Getting Started
 
