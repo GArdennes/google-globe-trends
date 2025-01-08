@@ -1,312 +1,36 @@
-[
-  {
-    "title": "майнц 05 – бавария",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxLqxJ3H7c2kDIzPAl71eLDBuLzHJNZ9nuDN4LGQ869unBsUEwCmSdA-bjas",
-    "picture_source": "ВсеПроСпорт.ру",
-    "news_items": [
-      {
-        "title": "«Майнц» – «Бавария»: прогноз на матч Бундеслиги",
-        "snippet": "",
-        "url": "https://www.vse-pro-sport.com.ua/news/2024/12/13/majnc-bavarija-prognoz-kf-2-20-i-stavki-na-match-bundesligi-14-dekabrja-2024-goda",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxLqxJ3H7c2kDIzPAl71eLDBuLzHJNZ9nuDN4LGQ869unBsUEwCmSdA-bjas",
-        "source": "ВсеПроСпорт.ру"
-      },
-      {
-        "title": "Чемпионат Германии: «Бавария» против «Майнца», «Байер» в гостях у «Аугсбурга»",
-        "snippet": "",
-        "url": "https://ua.tribuna.com/football/1000000206243-chempionat-nimechchyny-bavariya-proty-mayntsa-bayer-v-ho/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkCkhgWCI6xTRIqoiBgZHkl31fa2I6kL4fZFZlYK3xGyqdVL2Q3WD3NKbSGQ",
-        "source": "ua.tribuna.com"
-      },
-      {
-        "title": "Буркардт проверит защиту рекордмайстра. Майнц – Бавария. Анонс и прогноз матча Бундеслиги на 14.12.2024",
-        "snippet": "",
-        "url": "https://www.ua-football.com/predictions/bundesliga/1734128644-burkardt-proverit-zaschitu-rekordmaystra-maync-bavariya-anons-i-prognoz-matcha-ligi-chempionov-na-14-12-2024.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBotR_UkCUSGbZzngY3Spnau6GzH4fbUXmbls2YEvpg_-db3ducFfX0RF24R8",
-        "source": "UA-Football"
-      }
-    ]
-  },
-  {
-    "title": "арсенал – евертон",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcR8uMQs_SpBPqXDaVTam_QmOJW4uy8jRTgP_nV3ljc1hjvjAbbtFmU8oVAI",
-    "picture_source": "спорт.ua",
-    "news_items": [
-      {
-        "title": "Як там Зінченко і Миколенко? Відомі склади на матч Арсенал – Евертон",
-        "snippet": "",
-        "url": "https://sport.ua/uk/news/723553-yak-tam-zinchenko-i-mikolenko-vidomi-skladi-na-match-arsenal-everton",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcR8uMQs_SpBPqXDaVTam_QmOJW4uy8jRTgP_nV3ljc1hjvjAbbtFmU8oVAI",
-        "source": "спорт.ua"
-      },
-      {
-        "title": "АПЛ: розклад і результати матчів 16-го туру чемпіонату Англії з футболу, турнірна таблиця",
-        "snippet": "",
-        "url": "https://tsn.ua/prosport/apl-rozklad-i-rezultati-matchiv-16-go-turu-chempionatu-angliyi-z-futbolu-turnirna-tablicya-2722188.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNQ-btxGZ9qMLQ9ATiSITq3r-GWUbjG3CoEfi4vTiTO4H3wx37Mp81Kcrqax4",
-        "source": "ТСН - Телевізійна служба новин"
-      },
-      {
-        "title": "Арсенал проти Евертона, єврокубкова битва Ноттінгема та Астон Вілли, Ліверпуль прийматиме Фулгем у 16 турі АПЛ",
-        "snippet": "",
-        "url": "https://champion.com.ua/ukr/football/anons-16-turu-apl-arsenal-everton-liverpul-fulgem-nottingem-forest-aston-villa-1020165/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8i2TWbJ58otuejxH6u78la-2DVZWW_tjXoAM4xJ0AEqnM_oGnPyqk7tN2uDQ",
-        "source": "Champion.com.ua"
-      }
-    ]
-  },
-  {
-    "title": "арсенал – эвертон",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jOKYSXNvTH6sngSigi6mMkuOAXmZJPUBMdZSUvhj2fUq56N7FA6E5lKZYTI",
-    "picture_source": "www.vse-pro-sport.com.ua",
-    "news_items": [
-      {
-        "title": "«Арсенал» – «Эвертон»: прогноз и ставки с коэффициентом 2.35",
-        "snippet": "",
-        "url": "https://www.vse-pro-sport.com.ua/news/2024/12/13/arsenal-everton-prognoz-kf-2-35-i-stavki-na-match-anglijskoj-premer-ligi-14-dekabrja-2024-goda",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jOKYSXNvTH6sngSigi6mMkuOAXmZJPUBMdZSUvhj2fUq56N7FA6E5lKZYTI",
-        "source": "www.vse-pro-sport.com.ua"
-      },
-      {
-        "title": "Анонс 16 тура АПЛ: Арсенал – Эвертон, Ливерпуль – Фулхэм, Ноттингем Форрест – Астон Вилла| Футбол",
-        "snippet": "",
-        "url": "https://champion.com.ua/rus/football/anons-16-tura-apl-arsenal-everton-liverpul-fulhem-nottingem-forrest-aston-villa-1020165/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8i2TWbJ58otuejxH6u78la-2DVZWW_tjXoAM4xJ0AEqnM_oGnPyqk7tN2uDQ",
-        "source": "Champion.com.ua"
-      },
-      {
-        "title": "Миколенко – в старте на «Арсенал», Зинченко – вне заявки",
-        "snippet": "",
-        "url": "https://ua.tribuna.com/football/1000000206282-mykolenko-v-starti-na-arsenal-zinchenko-poza-zayavkoyu/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO9er3GsDpIFLiwGD-o_5EnwBylDLjWGHLkakpLx-FyEP1hfd_7oQxDbq785o",
-        "source": "ua.tribuna.com"
-      }
-    ]
-  },
-  {
-    "title": "аугсбург – байер",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTofzU7FiSGixs7SNOSk8T1oqdu_4_bFZgAEUP14v1YzXKiWopSKdMOuCDUjA",
-    "picture_source": "ВсеПроСпорт.ру",
-    "news_items": [
-      {
-        "title": "«Аугсбург» – «Байер»: прогноз на матч Бундеслиги",
-        "snippet": "",
-        "url": "https://www.vse-pro-sport.com.ua/news/2024/12/13/augsburg-bajer-prognoz-kf-2-50-i-stavki-na-match-bundesligi-14-dekabrja-2024-goda",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTofzU7FiSGixs7SNOSk8T1oqdu_4_bFZgAEUP14v1YzXKiWopSKdMOuCDUjA",
-        "source": "ВсеПроСпорт.ру"
-      },
-      {
-        "title": "Аугсбург – Байер. Где посмотреть матч немецкой Бундеслиги",
-        "snippet": "",
-        "url": "https://ua.tribuna.com/betting/1000000205735-auhsburh-bayer-de-podyvytysya-match-nimetskoyi-bundeslih/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH7_CqLDpxPh4Ds9tx2VNHa3IbW3uoEOICK6dB8t8N3f-QzkLnTnZNT9x9ho4",
-        "source": "ua.tribuna.com"
-      },
-      {
-        "title": "Артем Степанов оказался в запасе \"Байера\" на матч Бундеслиги",
-        "snippet": "",
-        "url": "https://www.dynamomania.com/ru/news/753307-artem-stepanov-okazalsya-v-zapase-bajera-na-match-bundesligi",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJV-QgYZ7zXljZfmD8gkyj-uFgPeslBz9A0t4fWrA6QEMvlGDvmstZZq_Tzho",
-        "source": "Dynamomania"
-      }
-    ]
-  },
-  {
-    "title": "кальяри – аталанта",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsjMRXvfLgl59AuG2m3dZfUuFdB6urH3tc5Af1Il-YqwVf7wYbmFyonbo4mcQ",
-    "picture_source": "ВсеПроСпорт.ру",
-    "news_items": [
-      {
-        "title": "«Кальяри» — «Аталанта»: прогноз на матч Серии А",
-        "snippet": "",
-        "url": "https://www.vse-pro-sport.com.ua/news/2024/12/13/kaljari-atalanta-prognoz-i-stavki-na-match-serii-a-14-dekabrja-2024-goda",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsjMRXvfLgl59AuG2m3dZfUuFdB6urH3tc5Af1Il-YqwVf7wYbmFyonbo4mcQ",
-        "source": "ВсеПроСпорт.ру"
-      },
-      {
-        "title": "Чемпионат Италии: «Аталанта» в гостях у «Кальяри», «Наполи» против «Удинезе», «Ювентус» – «Венеция»",
-        "snippet": "",
-        "url": "https://ua.tribuna.com/football/1000000206209-chempionat-italiyi-atalanta-v-hostyakh-u-kalyari-napoli-/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkCkhgWCI6xTRIqoiBgZHkl31fa2I6kL4fZFZlYK3xGyqdVL2Q3WD3NKbSGQ",
-        "source": "ua.tribuna.com"
-      },
-      {
-        "title": "Кальяри – Аталанта: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21571/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
-        "source": "Soccer365.ru"
-      }
-    ]
-  },
-  {
-    "title": "су-30",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQY5-PwqQl524-uIGxwbizSntr1nmHx5CVwib7lLY8NG0JejrWddUHU7JsQcw",
-    "picture_source": "Інтерфакс-Україна",
-    "news_items": [
-      {
-        "title": "На аеродромі Кримськ у РФ знищено Су-30 - ГУР",
-        "snippet": "",
-        "url": "https://interfax.com.ua/news/general/1034090.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQY5-PwqQl524-uIGxwbizSntr1nmHx5CVwib7lLY8NG0JejrWddUHU7JsQcw",
-        "source": "Інтерфакс-Україна"
-      },
-      {
-        "title": "Су-30 згорів на аеродромі в Краснодарському краї – розвідка",
-        "snippet": "",
-        "url": "https://www.pravda.com.ua/news/2024/12/14/7489091/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu8BbSBU3ADrKiBo7pg3ZKaOHVOutUI3EzAiK-z_7s_hCNNddrrDrytHUUUWw",
-        "source": "Українська правда"
-      },
-      {
-        "title": "ГУР атакувало аеродром РФ у Краснодарському краї, знищено літак РФ",
-        "snippet": "",
-        "url": "https://ua.korrespondent.net/world/russia/4740173-hur-atakuvalo-aerodrom-rf-u-krasnodarskomu-krai-znyscheno-litak-rf",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq4SAzHVJjdCNW0CzjfsvLuO_W-IcNJd44MxFPk1-e5t4d6K6J_2ixBFgjwy4",
-        "source": "Korrespondent.net"
-      }
-    ]
-  },
-  {
-    "title": "кривбас – карпати",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrSV3bWfq3lWKAP_Lxn6_3ljdWZeG1eDdoGZ05Y_udmCWqKo7t0QrKXD3dQo",
-    "picture_source": "ФК \"Карпати\" Львів",
-    "news_items": [
-      {
-        "title": "Прем'єр-Ліга. \"Кривбас\" – \"Карпати\". Прев’ю",
-        "snippet": "",
-        "url": "https://fckarpaty.org.ua/news/premier-liga-krivbas-karpati-previu/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrSV3bWfq3lWKAP_Lxn6_3ljdWZeG1eDdoGZ05Y_udmCWqKo7t0QrKXD3dQo",
-        "source": "ФК \"Карпати\" Львів"
-      },
-      {
-        "title": "Дуель з присмаком скандалу: анонс матчу УПЛ між «Кривбасом» і «Карпатами» — ZAXID.NET",
-        "snippet": "",
-        "url": "https://zaxid.net/duel_z_prismakom_skandalu_anons_matchu_upl_mizh_krivbasom_i_karpatami_n1599859",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLIEQ6yIXYIwSOxd_Rvc7P1pGEzFLQMXTKt6-GvarhazAru0RvhhDw9U0mIvw",
-        "source": "Zaxid.net"
-      },
-      {
-        "title": "Відомі стартові склади на матч Кривбас – Карпати",
-        "snippet": "",
-        "url": "https://sport.ua/uk/news/723535-vidomi-startovi-skladi-na-match-krivbas-karpati",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRarnKpx_ruwTQ5_Nw2d_dep3_3RtNtmpPoJS3v_vMNB5Kd9Qa23bTIsuIB5v0",
-        "source": "спорт.ua"
-      }
-    ]
-  },
-  {
-    "title": "еспаньйол – осасуна",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMZt-lm835YZO_xZ4bvVMrwYaIQH_nccd4KyxPTvoQyG32NxIo-y-IGBt7mS4",
-    "picture_source": "ВсеПроСпорт.ру",
-    "news_items": [
-      {
-        "title": "«Эспаньол» — «Осасуна»: прогноз на матч чемпионата Испании",
-        "snippet": "",
-        "url": "https://www.vse-pro-sport.com.ua/news/2024/12/13/espanol-osasuna-prognoz-kf-3-30-i-stavki-na-match-chempionata-ispanii-14-dekabrja-2024-goda",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMZt-lm835YZO_xZ4bvVMrwYaIQH_nccd4KyxPTvoQyG32NxIo-y-IGBt7mS4",
-        "source": "ВсеПроСпорт.ру"
-      },
-      {
-        "title": "Эспаньол — Осасуна: прогноз и ставки на матч Ла Лиги 14 декабря 2024 года, коэффициенты на игру",
-        "snippet": "",
-        "url": "https://metaratings.ru/prognozy/futbol/espanol-osasuna-prognoz-na-match-la-ligi-14-dekabrya-2024-goda/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRckYQPyNjiMXI2PD_22YePbR9i_g7Da4QV4kJNe0dHLuLTh40OWeWaZNKVeHE",
-        "source": "Metaratings"
-      },
-      {
-        "title": "Проверенный прогноз и ставка на матч Эспаньол – Осасуна чемпионата Испании – 14 декабря 2024",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/prognozy/1005799532_proverennyiy_prognoz_i_stavka_na_match_espanol__osasuna_chempionata_ispanii__14_dekabrya_2024",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0P16mJJOSebCKSaGNM2azEwSwrqYxCGHzNqTVwHMkGWTGM3vFQjBHsnUki3Q",
-        "source": "Евро-Футбол.Ру"
-      }
-    ]
-  },
-  {
-    "title": "кривбасс – карпаты львов",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXxIPqRtxFH0ZAAR2u1zoyzOgI4lAOPxIH9Iffu3RoJo22gWP085yZWR_dRWo",
-    "picture_source": "UA-Football",
-    "news_items": [
-      {
-        "title": "Четвёртое место сыграет против шестого. Стартовые составы на матч Кривбасс – Карпаты",
-        "snippet": "",
-        "url": "https://www.ua-football.com/ukrainian/high/1734178708-chetvyortoe-mesto-sygraet-protiv-shestogo-startovye-sostavy-na-match-krivbass-karpaty.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXxIPqRtxFH0ZAAR2u1zoyzOgI4lAOPxIH9Iffu3RoJo22gWP085yZWR_dRWo",
-        "source": "UA-Football"
-      },
-      {
-        "title": "Где смотреть трансляцию матча УПЛ Кривбасс – Карпаты| Футбол",
-        "snippet": "",
-        "url": "https://champion.com.ua/rus/football/gde-smotret-translyaciyu-matcha-upl-krivbass-karpaty-1020067/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-gM-2d3xhUqpu6v0snPosTPZgVdg8YSYPbxzvSYGa-jq_XJ1SK_P1aqrIi5g",
-        "source": "Champion.com.ua"
-      },
-      {
-        "title": "Матч «Кривбасс» – «Карпаты» из-за воздушной тревоги начнется в 16.00",
-        "snippet": "",
-        "url": "https://ua.tribuna.com/football/1000000206270-start-matchu-kryvbas-karpaty-zatrymayetsya-cherez-povitr/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVtPqOYhROa5uoUr4Mnv2nkD8neYNxIBklIF6UoXJ6r728oo__V6yoqFBFXnc",
-        "source": "ua.tribuna.com"
-      }
-    ]
-  },
-  {
-    "title": "биатлон",
-    "link": "https://trends.google.com/trending/rss?geo=UA",
-    "pubdate": "Sat, 14 Dec 2024 03:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKh6jmLEfFHbpnpl-BEiO4tktZX5_Zxr0mEo6oAs0yuRV6llRp28JaZ3VH0O0",
-    "picture_source": "Champion.com.ua",
-    "news_items": [
-      {
-        "title": "Жанмонно выиграла персьют в Хохфильцене, украинки не попали в топ-20",
-        "snippet": "",
-        "url": "https://champion.com.ua/rus/biathlon/zhanmonno-vyigrala-persyut-v-hohfilcene-ukrainki-ne-popali-v-top-20-1020194/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKh6jmLEfFHbpnpl-BEiO4tktZX5_Zxr0mEo6oAs0yuRV6llRp28JaZ3VH0O0",
-        "source": "Champion.com.ua"
-      },
-      {
-        "title": "Результат неудовлетворительный. Дмитренко и Джима вошли в топ-30 персьюта",
-        "snippet": "",
-        "url": "https://sport.ua/news/723534-rezultat-neudovletvoritelniy-dmitrenko-i-dzhima-voshli-v-top-30-persyuta",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA782tZVSqtP7Vew9-dEl-JS-E84Je2UxVobDQdnj7UnO4FAXrps1HjhoKEi4",
-        "source": "спорт.ua"
-      },
-      {
-        "title": "КМ по биатлону, зачет гонок преследования, женщины: Жанмонно лидирует, Дмитренко идет 22-й",
-        "snippet": "",
-        "url": "https://ua.tribuna.com/biathlon/1000000206257-ks-z-biatlonu-zalik-honok-peresliduvannya-zhinky-zhanmon/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDo88STDuMW5KAmlQtgo6_l2P8kuVLCpzY3Ru4Zk3xAxg5YdxPCzgdSK7vsN0",
-        "source": "ua.tribuna.com"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "gray",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "green",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "orange",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": null,
+  "Goal 2 Score": 61.156625,
+  "Goal 3 Score": 73.1076923076923,
+  "Goal 4 Score": 77.53125,
+  "Goal 5 Score": 66.1175,
+  "Goal 6 Score": 75.7226,
+  "Goal 7 Score": 71.1855,
+  "Goal 8 Score": 67.4068571428571,
+  "Goal 9 Score": 56.8414285714286,
+  "Goal 10 Score": 100,
+  "Goal 11 Score": 86.59725,
+  "Goal 12 Score": 81.4184285714286,
+  "Goal 13 Score": 87.803,
+  "Goal 14 Score": 61.2795,
+  "Goal 15 Score": 79.6012,
+  "Goal 16 Score": 64.7503636363636,
+  "Goal 17 Score": 69.742
+}

@@ -1,64 +1,36 @@
-[
-  {
-    "title": "„belgrado crvena zvezda“ prieš „pirėjo olympiakos“",
-    "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Fri, 13 Dec 2024 12:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqCVrQTPUDTXI6yCG2FHM7Fj4jp0Tf_m1Z9pmBgVgTMh_8s6q3tHy9wbaGKjU",
-    "picture_source": "BasketNews.lt",
-    "news_items": [
-      {
-        "title": "Magišką atmosferą Belgrade kūrę fanai išvydo „Crvena Zvezda“ triumfą prieš „Olympiakos“ / Naujienos",
-        "snippet": "",
-        "url": "https://www.basketnews.lt/news-216306-magiska-atmosfera-belgrade-kure-fanai-isvydo-crvena-zvezda-triumfa-pries-olympiakos.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqCVrQTPUDTXI6yCG2FHM7Fj4jp0Tf_m1Z9pmBgVgTMh_8s6q3tHy9wbaGKjU",
-        "source": "BasketNews.lt"
-      },
-      {
-        "title": "Belgrade – „Žalgiriui“ palanki šeimininkų pergalė prieš „Olympiakos“",
-        "snippet": "",
-        "url": "https://www.15min.lt/24sek/naujiena/eurolyga/belgrade-zalgiriui-palanki-seimininku-pergale-pries-olympiakos-1362-2360786",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqI4tmAVEgZqA9RBVPGhWIDi2QiIWN50ID_-smN-xs6VeSdmu86iJEFRHwJug",
-        "source": "15min.lt"
-      },
-      {
-        "title": "Eurolygoje – „Crvena Zvezda“ ir „Emporio Armani“ pergalės",
-        "snippet": "",
-        "url": "https://www.lrt.lt/naujienos/sportas/10/2438814/eurolygoje-crvena-zvezda-ir-emporio-armani-pergales",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIcRvr2RR94mSE_s6owfparYlP1AO6YLYGN5iuDtpqSqn3b3oI0RjubFawaho",
-        "source": "LRT"
-      }
-    ]
-  },
-  {
-    "title": "„stambulo anadolu efes“ prieš „atėnų panathinaikos“",
-    "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Fri, 13 Dec 2024 09:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxHx9przQeuYi9IPqFlww7hlF6oN-PXgAIv9-LDA8AnU0CjlYkrdKGG8jXT3A",
-    "picture_source": "BasketNews.lt",
-    "news_items": [
-      {
-        "title": "„Anadolu Efes“ surakino Eurolygos čempionus ir išrašė jiems skaudžią pamoką / Naujienos",
-        "snippet": "",
-        "url": "https://www.basketnews.lt/news-216297-anadolu-efes-surakino-eurolygos-cempionus-ir-israse-jiems-skaudzia-pamoka.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxHx9przQeuYi9IPqFlww7hlF6oN-PXgAIv9-LDA8AnU0CjlYkrdKGG8jXT3A",
-        "source": "BasketNews.lt"
-      },
-      {
-        "title": "Graikų grandų bėdos: Atamanas komandą uždarys viešbutyje, Bartzokas auklėtinius lygino su sviestu",
-        "snippet": "",
-        "url": "https://www.delfi.lt/krepsinis/naujienos/graiku-grandu-bedos-atamanas-komanda-uzdarys-viesbutyje-bartzokas-aukletinius-lygino-su-sviestu-120072211",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIwsDLBzTlIMHgrj126uxT8j_kCQROFhj2qA9CgU1w7YXK2DEtN6oNsqSWRsA",
-        "source": "Delfi"
-      },
-      {
-        "title": "Nemalonus E.Atamano sugrįžimas namo – Eurolygos čempionai sutriuškinti Stambule",
-        "snippet": "",
-        "url": "https://www.15min.lt/24sek/naujiena/eurolyga/nemalonus-e-atamano-sugrizimas-namo-eurolygos-cempionai-sutriuskinti-stambule-1362-2360768",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUhP8xN-GMclMw5w_harTURefVDiJzOmSn7a3OTqHcynpR1MzTy8IYqohqrtE",
-        "source": "15min.lt"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "orange",
+  "Goal 15 Rating": "yellow",
+  "Goal 16 Rating": "yellow",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 98.784,
+  "Goal 2 Score": 60.293375,
+  "Goal 3 Score": 85.8106428571429,
+  "Goal 4 Score": 98.429,
+  "Goal 5 Score": 74.788,
+  "Goal 6 Score": 78.7748,
+  "Goal 7 Score": 73.52675,
+  "Goal 8 Score": 76.412,
+  "Goal 9 Score": 81.0341428571429,
+  "Goal 10 Score": 67.7155,
+  "Goal 11 Score": 95.301,
+  "Goal 12 Score": 48.3435714285714,
+  "Goal 13 Score": 76.1493333333333,
+  "Goal 14 Score": 82.3218,
+  "Goal 15 Score": 85.1632,
+  "Goal 16 Score": 88.2941818181818,
+  "Goal 17 Score": 56.8494
+}

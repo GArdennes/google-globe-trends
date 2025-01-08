@@ -1,64 +1,36 @@
-[
-  {
-    "title": "άρησ λεμεσού εναντίον καρμιώτισσα",
-    "link": "https://trends.google.com/trending/rss?geo=CY",
-    "pubdate": "Fri, 13 Dec 2024 09:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKVCaVTU6Cth9Lk1gDdDEcho7JmxXbXOek1SUklRRKIDVceQ1n2w26hDqInkI",
-    "picture_source": "Philenews",
-    "news_items": [
-      {
-        "title": "Άρης – Καρμιώτισσα 1-1: Επαναπαύτηκε και την πάτησε στο… παρά πέντε",
-        "snippet": "",
-        "url": "https://www.philenews.com/athlitika/article/1538386/aris-karmiotissa-1-1-epanapaftike-ke-tin-patise-sto-para-pente/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKVCaVTU6Cth9Lk1gDdDEcho7JmxXbXOek1SUklRRKIDVceQ1n2w26hDqInkI",
-        "source": "Philenews"
-      },
-      {
-        "title": "Ο Σπιλέφσκι μετά το \"Χ\"",
-        "snippet": "",
-        "url": "https://www.kerkida.net/eidiseis/a-katigoria/aris/o-spilefski-meta-h",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9R9mkmLFcyZ4xE4YRziv7ykEl9WYyoiMeIziWyAvli7ebO2kGUEjH-JuAN4",
-        "source": "Kerkida"
-      },
-      {
-        "title": "Το χρειαζόταν…",
-        "snippet": "",
-        "url": "https://protathlima.cyprustimes.com/gossip-time/to-chreiazotan-12/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR97YBzkz3mEAS1s2bTug9IaV-66OHvlShKUIMzEHlNmw8uTlJQgSM2KzDM18w",
-        "source": "Protathlima.com"
-      }
-    ]
-  },
-  {
-    "title": "pakistan vs south africa",
-    "link": "https://trends.google.com/trending/rss?geo=CY",
-    "pubdate": "Fri, 13 Dec 2024 08:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6S3FnOJ_ZsT0Z9c190cl8T43u1_Dp2J8L3qnAr4xp8UcDtpds_7RDlrRXlwc",
-    "picture_source": "SportsTak",
-    "news_items": [
-      {
-        "title": "Reeza Hendricks' whirlwind 117 helps South Africa become first team to chase down over 200 vs Pakistan as Saim Ayub's career best 98 goes in vain",
-        "snippet": "",
-        "url": "https://thesportstak.com/cricket/india-tour-of-australia-22-nov-2024/story/reeza-hendricks-117-helps-south-africa-become-1st-team-to-chase-over-200-vs-pakistan-saim-ayubs-career-best-98-in-vain-3150593-2024-12-14",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6S3FnOJ_ZsT0Z9c190cl8T43u1_Dp2J8L3qnAr4xp8UcDtpds_7RDlrRXlwc",
-        "source": "SportsTak"
-      },
-      {
-        "title": "Missed the Bus, But Not the Moment! What a Comeback!",
-        "snippet": "",
-        "url": "https://www.qhubo.com.ni/news2/missed-the-bus-but-not-the-moment-what-a-comeback/9504/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFY19KY3tmVOHSP4uhglANAWJ9vvzFULGWBMh-cljqo97Sp3-Evdj2VIAaNI",
-        "source": "qhubo.com.ni"
-      },
-      {
-        "title": "Abbas Afridi, Irfan Khan slammed for ‘denying’ Saim Ayub century",
-        "snippet": "",
-        "url": "https://arynews.tv/saim-ayub-98-abbas-afridi-irfan-khan-slammed-for-denying-100/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhSGpRB1rD5qMpcETjA0PtWTVzmztNkKSPnHLI4l1LK5IITXw7E8i8jMKKhQc",
-        "source": "ARY News"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "yellow",
+  "Goal 4 Rating": "green",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": 99.933,
+  "Goal 2 Score": 58.923125,
+  "Goal 3 Score": 91.5120714285714,
+  "Goal 4 Score": 99.80325,
+  "Goal 5 Score": 69.1946666666667,
+  "Goal 6 Score": 65.8832,
+  "Goal 7 Score": 75.10825,
+  "Goal 8 Score": 69.0858571428572,
+  "Goal 9 Score": 76.668,
+  "Goal 10 Score": 84.4905,
+  "Goal 11 Score": 93.7066666666667,
+  "Goal 12 Score": 46.1795714285714,
+  "Goal 13 Score": 69.0623333333333,
+  "Goal 14 Score": 50.1483333333333,
+  "Goal 15 Score": 71.614,
+  "Goal 16 Score": 66.7339,
+  "Goal 17 Score": 51.6746
+}

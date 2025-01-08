@@ -1,312 +1,36 @@
-[
-  {
-    "title": "anz",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR90ceVnM__7r_Osm-JhYPRxxDR8PTJnC4E92lcfzz5FX-asRzMnhJ0AATFVY",
-    "picture_source": "Microsoft",
-    "news_items": [
-      {
-        "title": "Microsoft launches new AI skills program to expand opportunities for Australians and New Zealanders",
-        "snippet": "",
-        "url": "https://news.microsoft.com/source/asia/features/microsoft-launches-new-ai-skills-program-to-expand-opportunities-for-australians-and-new-zealanders/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR90ceVnM__7r_Osm-JhYPRxxDR8PTJnC4E92lcfzz5FX-asRzMnhJ0AATFVY",
-        "source": "Microsoft"
-      },
-      {
-        "title": "Microsoft launches AI skills initiative, expands Azure Cloud infrastructure to WA",
-        "snippet": "",
-        "url": "https://www.mi-3.com.au/13-12-2024/microsoft-launches-ai-skills-initiative-expands-azure-cloud-infrastructure-wa",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOworzhXXSijMMqdUtQlge5D67BL5lkXcozUqHsDHMA1nPlUZGajdZQG5Vw0",
-        "source": "Mi3"
-      },
-      {
-        "title": "Microsoft AI Program to Upskill ANZ Bridging Skill Gap, Boost Economy",
-        "snippet": "",
-        "url": "https://www.techrepublic.com/article/microsoft-ai-program-upskill-anz-boost-economy/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcYYCxy266LkcjzNddzRStakk1Gu92dJCYtlbYzB_j1i2jDlI8fllWGatqoVQ",
-        "source": "TechRepublic"
-      }
-    ]
-  },
-  {
-    "title": "earthquake",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Sat, 14 Dec 2024 02:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrI3fXfjWBdfDcX1qs955beDrMIgv3UQzAjK-tfQ-ssJwunu3oeZBKWBR8530",
-    "picture_source": "iHeart",
-    "news_items": [
-      {
-        "title": "6.4 Magnitude Earthquake Reported",
-        "snippet": "",
-        "url": "https://www.iheart.com/content/2024-12-13-64-magnitude-earthquake-reported/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrI3fXfjWBdfDcX1qs955beDrMIgv3UQzAjK-tfQ-ssJwunu3oeZBKWBR8530",
-        "source": "iHeart"
-      },
-      {
-        "title": "Chile: Magnitude 6.4 Earthquake Strikes Molina, Maule",
-        "snippet": "",
-        "url": "https://www.msn.com/en-us/weather/topstories/chile-magnitude-6-4-earthquake-strikes-molina-maule/vi-AA1vPM4j",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY8WipAMV0cFXJ3iCcxiMDf47qEVg3k_-Oyjmp11COA4SeUdOPmpV_bB7lGX0",
-        "source": "MSN"
-      },
-      {
-        "title": "A magnitude 6.4 earthquake shakes Chile but there are no reports of damage",
-        "snippet": "",
-        "url": "https://www.washingtonpost.com/world/2024/12/13/chile-earthquake-magnitude-64/2dd66dfa-b9b6-11ef-8afa-452ab71fe261_story.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStBoCwVuHEtbj84T48i_wRzLy0dewMq6dd53b7oEt88E6lvRdxwK5u_NAFi3w",
-        "source": "Washington Post"
-      }
-    ]
-  },
-  {
-    "title": "avalon park",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Sat, 14 Dec 2024 01:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDgENZIv3XQTJI-DmaK2Q0B7C456VA_KplkTVawbqqvwgiNpXYoQkyJQss3m4",
-    "picture_source": "RNZ",
-    "news_items": [
-      {
-        "title": "Child dies at Lower Hutt play park after water incident",
-        "snippet": "",
-        "url": "https://www.rnz.co.nz/news/national/536695/child-dies-at-lower-hutt-play-park-after-water-incident",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDgENZIv3XQTJI-DmaK2Q0B7C456VA_KplkTVawbqqvwgiNpXYoQkyJQss3m4",
-        "source": "RNZ"
-      },
-      {
-        "title": "Child dies after water-related incident in Lower Hutt",
-        "snippet": "",
-        "url": "https://www.nzherald.co.nz/nz/child-dies-after-being-pulled-unresponsive-from-body-of-water-in-lower-hutt/A77RWYJHYVFILEN6OIOTVXTOKI/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOOminTIAUuErKMKkDfWb_0dgUX_9y_rpgK2pnyIqhetBDsJJeWjci0fwdyU4",
-        "source": "NZ Herald"
-      },
-      {
-        "title": "Child dies in 'water-related incident' in Lower Hutt",
-        "snippet": "",
-        "url": "https://www.1news.co.nz/2024/12/14/child-dies-in-water-related-incident-at-lower-hutt-playground/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr_8ZXI-DCbkAOE76s8yqn4yDrejh__UmviitdH5r1BCoFD1GqZzGy-YrahSw",
-        "source": "1News"
-      }
-    ]
-  },
-  {
-    "title": "la palma",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Sat, 14 Dec 2024 00:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSa54L0Cyz456Vlw6fVgz3BzicHmuiB6FXVNBpml8vQXU-uSkBUMeB-usgcYk",
-    "picture_source": "20Minutos",
-    "news_items": [
-      {
-        "title": "Así es 'La Palma', la polémica serie sobre la erupción volcánica de Canarias planeada antes de la catástrofe",
-        "snippet": "",
-        "url": "https://www.20minutos.es/cinemania/series/la-palma-serie-netflix-volcan-canarias-serie-polemica-5660723/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSa54L0Cyz456Vlw6fVgz3BzicHmuiB6FXVNBpml8vQXU-uSkBUMeB-usgcYk",
-        "source": "20Minutos"
-      },
-      {
-        "title": "Esta miniserie predijo una de las catástrofes españolas más trágicas de los últimos tiempos, y se estrena ahora en Netflix",
-        "snippet": "",
-        "url": "https://www.elconfidencial.com/television/series-tv/2024-12-12/netflix-miniserie-predijo-catastrofe-espana-1qrt_4022240/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIILhZghz0lV10PHcx0fcQBw6UVwUX_qLcCG865YDHED5zB6i4Is5rfjkHjxQ",
-        "source": "El Confidencial"
-      },
-      {
-        "title": "Formulario de comentarios - Sin sesion",
-        "snippet": "",
-        "url": "https://elapuron.com/noticias/opinion/194113/tsunami-la-palma-segun-netflix/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLATsThQ9Ihiy26SNIB-JVM6eQimyJZHRmF1dYCzDKgk7L8NAyYO7YS_vbayo",
-        "source": "El Apurón"
-      }
-    ]
-  },
-  {
-    "title": "taron egerton",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Sat, 14 Dec 2024 00:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7MSODiQbacfK4G7cBfLA9DB8IX-qLQgFwSUKByLbkZ7SXs4Huh5smHK0PEw",
-    "picture_source": "The Guardian",
-    "news_items": [
-      {
-        "title": "Carry-On review – Taron Egerton channels Kenneth Connor in misleadingly titled Netflix thriller",
-        "snippet": "",
-        "url": "https://www.theguardian.com/film/2024/dec/14/carry-on-review-taron-egerton-channels-kenneth-connor-in-misleadingly-titled-netflix-thriller",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7MSODiQbacfK4G7cBfLA9DB8IX-qLQgFwSUKByLbkZ7SXs4Huh5smHK0PEw",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Netflix's new action-thriller movie is a surefire No. 1 hit — and it's perfect for fans of 'Die Hard'",
-        "snippet": "",
-        "url": "https://www.tomsguide.com/entertainment/netflix/netflixs-new-action-thriller-is-one-of-the-most-entertaining-movies-of-the-year-and-you-can-stream-it-now",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPpIwnOXfMnnXk7yzQfWYzxs7MEFC1NdAk9uG4SazlNgjxs-s3eb1kUh3jatY",
-        "source": "Tom's Guide"
-      },
-      {
-        "title": "Where Was Netflix’s Airport Thriller ‘Carry-On’ Filmed? (No, It Wasn’t LAX)",
-        "snippet": "",
-        "url": "https://www.thewrap.com/where-was-carry-on-filmed-airport-locations-lax-netflix/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBxnWBqakKB-thjpW2KCeub-Gdd_AlUhcKekIFCqEGuuw4B6GQjRh8aa2J95w",
-        "source": "TheWrap"
-      }
-    ]
-  },
-  {
-    "title": "meteor shower nz",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Fri, 13 Dec 2024 23:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEfsy0kpT1MCVGvkYHE2E0pThX_kKwge-VyjAJICCJTcTocMmzjyrfJ49cX_4",
-    "picture_source": "1News",
-    "news_items": [
-      {
-        "title": "Best parts of NZ to catch a glimpse of Geminids meteor shower",
-        "snippet": "",
-        "url": "https://www.1news.co.nz/2024/12/14/best-parts-of-nz-to-catch-a-glimpse-of-geminids-meteor-shower/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEfsy0kpT1MCVGvkYHE2E0pThX_kKwge-VyjAJICCJTcTocMmzjyrfJ49cX_4",
-        "source": "1News"
-      },
-      {
-        "title": "Stuff",
-        "snippet": "",
-        "url": "https://www.stuff.co.nz/nz-news/360520501/spectacular-geminids-meteor-shower-light-new-zealands-skies",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBziTeOMkO2BHNv6nfkysVoL8fuK_SBkFiRa7tIfBJEORYceKUY43spIadH-o",
-        "source": "Stuff"
-      },
-      {
-        "title": "Geminid meteor shower 2024: Year's brightest sky display peaks tonight with full moon; here's when to...",
-        "snippet": "",
-        "url": "https://www.moneycontrol.com/science/geminid-meteor-shower-2024-year-s-brightest-sky-display-peaks-tonight-with-full-moon-here-s-when-to-watch-article-12888995.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgGKAdA8StrauzkADckS5b5_oGXiN2rL1cCNbxI8sUJMw9kB7cpP78pm4ArdQ",
-        "source": "Moneycontrol"
-      }
-    ]
-  },
-  {
-    "title": "full moon december 2024",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Fri, 13 Dec 2024 23:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUqKDzjWAKrK5U4gq6WyZFM96Q7teUuiDnXhWtttm6o-Jc9W9oK4AG8bHFAU4",
-    "picture_source": "Space.com",
-    "news_items": [
-      {
-        "title": "Geminid meteor shower peaks tonight! Here's how to see one of the best meteor showers of the year",
-        "snippet": "",
-        "url": "https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-2024-peaks-tonight-how-to-see-one-of-the-best-meteor-showers-of-the-year",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUqKDzjWAKrK5U4gq6WyZFM96Q7teUuiDnXhWtttm6o-Jc9W9oK4AG8bHFAU4",
-        "source": "Space.com"
-      },
-      {
-        "title": "The Next Full Moon is the Cold Moon",
-        "snippet": "",
-        "url": "https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-moon-frost-moon-or-winter-moon/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFfEdVRqNObGtHXWGWXuSN3mT1RLIAmaWNHKj3HqFcmHdYGEKMOLJhXGUq5k",
-        "source": "NASA Science (.gov)"
-      },
-      {
-        "title": "The Full Cold Moon Peaks This Weekend—and Features a Lunar Phenomenon That Happens Once Every 18.6 Years",
-        "snippet": "",
-        "url": "https://www.marthastewart.com/the-full-cold-moon-2024-8760345",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFF7f4ww-hoJHMiJDvvTrTjQBySY0lMVVnpO53oVrcHg_qMOdvNvO2APeN_1Y",
-        "source": "Martha Stewart"
-      }
-    ]
-  },
-  {
-    "title": "lotto",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Fri, 13 Dec 2024 21:30:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy90iExrgzeqozrrlAImDREGIfhQ1Wto77-ovdETyhvzItxDvTKLFcsgd9aQ0",
-    "picture_source": "NZ Herald",
-    "news_items": [
-      {
-        "title": "Lotto Powerball: One lucky winner scoops $23m prize",
-        "snippet": "",
-        "url": "https://www.nzherald.co.nz/nz/lotto-powerball-winning-numbers-one-lucky-winner-from-new-plymouth-scoops-23-million-prize/6XXRIEN3PJCIVHLKRKDLQTRFMA/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy90iExrgzeqozrrlAImDREGIfhQ1Wto77-ovdETyhvzItxDvTKLFcsgd9aQ0",
-        "source": "NZ Herald"
-      },
-      {
-        "title": "Check your tickets: Numbers for Lotto’s $23m draw revealed",
-        "snippet": "",
-        "url": "https://www.stuff.co.nz/nz-news/360522988/got-your-ticket-ready-23m-grabs-saturdays-lotto-draw",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuX5OsQpogx_-ts16mSEhHCBiWwrgS1HYjG8VbzIgqvCYoBLwVomwKgx64RIA",
-        "source": "Stuff"
-      },
-      {
-        "title": "1 ticket wins $23 million Lotto Powerball jackpot",
-        "snippet": "",
-        "url": "https://www.1news.co.nz/2024/12/14/1-ticket-wins-23-million-lotto-powerball-jackpot/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-q6Hfdmupt9M0c9ETaGP_P7hX2cTE8_PnJ-I85dklZmorTvg8jt575H0K2H0",
-        "source": "1News"
-      }
-    ]
-  },
-  {
-    "title": "wellington phoenix vs macarthur",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Fri, 13 Dec 2024 19:20:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZ2NiAuqHw6ILpnyCSMI6k0A3CBetUYfgKvAIZ_A4dplHzGfVutwoIaFfxDog",
-    "picture_source": "Stuff",
-    "news_items": [
-      {
-        "title": "Phoenix target bounce-back win against vulnerable Macarthur",
-        "snippet": "",
-        "url": "https://www.stuff.co.nz/sport/360515995/all-you-need-know-wellington-phoenix-v-macarthur-fc-league-men",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZ2NiAuqHw6ILpnyCSMI6k0A3CBetUYfgKvAIZ_A4dplHzGfVutwoIaFfxDog",
-        "source": "Stuff"
-      },
-      {
-        "title": "Isuzu UTE A-League Round 8 Match Preview",
-        "snippet": "",
-        "url": "https://wellingtonphoenix.com/news/isuzu-ute-a-league-round-8-match-preview-2/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAj2Lka_DI17yZEKgfewB43UmY3NfTOQirv25sj7wpnAIbQZ4-xkpuZDbaXdk",
-        "source": "Wellington Phoenix"
-      },
-      {
-        "title": "A-League football: Isaac Hughes looks to rebound after Phoenix's 2-1 loss",
-        "snippet": "",
-        "url": "https://www.newstalkzb.co.nz/on-air/the-all-sport-breakfast/audio/isaac-hughes-wellington-phoenix-defender-ahead-of-the-clash-against-macarthur-fc/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGgjwid6nTxSA4QuTvP8IjhM1pF9iIyqSqvADKywKfgHeGJh68zoOEFMKGjXo",
-        "source": "Newstalk ZB"
-      }
-    ]
-  },
-  {
-    "title": "timberwolves vs lakers",
-    "link": "https://trends.google.com/trending/rss?geo=NZ",
-    "pubdate": "Fri, 13 Dec 2024 19:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77jxeK81UkAHVwnEIqtqXl3nQNXg46GPo_ooqt5A8EEOpV_BpX97G1nMJ6Yw",
-    "picture_source": "ESPN",
-    "news_items": [
-      {
-        "title": "Timberwolves 97-87 Lakers (Dec 13, 2024) Final Score",
-        "snippet": "",
-        "url": "https://www.espn.com/nba/game/_/gameId/401736804/lakers-timberwolves",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77jxeK81UkAHVwnEIqtqXl3nQNXg46GPo_ooqt5A8EEOpV_BpX97G1nMJ6Yw",
-        "source": "ESPN"
-      },
-      {
-        "title": "Los Angeles Lakers vs Minnesota Timberwolves Dec 13, 2024 Game Summary",
-        "snippet": "",
-        "url": "https://www.nba.com/game/lal-vs-min-0022401210",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbgFiO4H0LD8ZjtT6zf8ZNURCaeD2K2qZ45DiHhNyjv0E6tdaTRjuW62OAnlE",
-        "source": "NBA.com"
-      },
-      {
-        "title": "Player Grades: Lakers vs. Wolves",
-        "snippet": "",
-        "url": "https://www.silverscreenandroll.com/2024/12/13/24320974/player-grades-lakers-vs-wolves-box-score-stats-anthony-davis-austin-reaves",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0_rm6VvJYedSiY-4M2r4NjNbsGZlTlLghNRx-4u_mrTN8V1veUKu8vFsqLP4",
-        "source": "Silver Screen and Roll"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "gray",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "yellow",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "yellow",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "green",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "yellow",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": null,
+  "Goal 2 Score": 56.836625,
+  "Goal 3 Score": 93.2102142857143,
+  "Goal 4 Score": 91.7393333333333,
+  "Goal 5 Score": 89.49825,
+  "Goal 6 Score": 85.3636,
+  "Goal 7 Score": 84.21875,
+  "Goal 8 Score": 82.9347142857143,
+  "Goal 9 Score": 90.1542857142857,
+  "Goal 10 Score": 81.25,
+  "Goal 11 Score": 98.08225,
+  "Goal 12 Score": 49.1562857142857,
+  "Goal 13 Score": 73.4853333333333,
+  "Goal 14 Score": 51.8996666666667,
+  "Goal 15 Score": 51.3228,
+  "Goal 16 Score": 88.7733636363636,
+  "Goal 17 Score": 73.9188
+}

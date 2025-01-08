@@ -1,305 +1,36 @@
-[
-  {
-    "title": "מכבי נתניה",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvmKI-niknKN3nbq5M05jv7R_GJWCLAqmCRPxQunM3xvXgWDoIKbNBvbJ6Mwg",
-    "picture_source": "וואלה ספורט",
-    "news_items": [
-      {
-        "title": "זלאטנוביץ' ובילו בהרכב נתניה, אבו פרחי והנטי פותחים בריינה",
-        "snippet": "",
-        "url": "https://sports.walla.co.il/item/3711608",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvmKI-niknKN3nbq5M05jv7R_GJWCLAqmCRPxQunM3xvXgWDoIKbNBvbJ6Mwg",
-        "source": "וואלה ספורט"
-      },
-      {
-        "title": "מאור לוי, שבירו וזלאטנוביץ' בהרכב מכבי נתניה",
-        "snippet": "",
-        "url": "https://www.one.co.il/Article/479704.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRx0rSPiPRdAzQpgA9jIAg3OfO0McLen5FxDiMSsKfOw1-86ySDSiQ5YgAwWVI",
-        "source": "ONE"
-      },
-      {
-        "title": "ההרכבים המשוערים לקראת המחזור ה-14",
-        "snippet": "",
-        "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=491337",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShrethFa4skTZaRBBkRbjsiO2USqmbl9ysC-awDQqldRegFcjvGKpTIo0rJ6I",
-        "source": "ספורט 5"
-      }
-    ]
-  },
-  {
-    "title": "אלי כהן",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Sat, 14 Dec 2024 01:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzVNLVjeLILaRmVWV47wq6SmOi_9zW69q4J0YZ0ZOXqGbwxqrpUPSOh1I7LTs",
-    "picture_source": "ynet",
-    "news_items": [
-      {
-        "title": "תקווה מחודשת, בחסות הטלטלה בסוריה: \"מגעים לאיתור עצמותיו של אלי כהן\"",
-        "snippet": "",
-        "url": "https://www.ynet.co.il/news/article/sjhmqkjvje",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzVNLVjeLILaRmVWV47wq6SmOi_9zW69q4J0YZ0ZOXqGbwxqrpUPSOh1I7LTs",
-        "source": "ynet"
-      },
-      {
-        "title": "העיתון המקורב לחיזבאללה: ישראל מנסה לאתר את הקבר של אלי כהן באמצעים דיפלומטיים",
-        "snippet": "",
-        "url": "https://www.israelhayom.co.il/news/defense/article/16962228",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfwzcu2AbwofUUKlZkYTWLYx5BxN37kevaBJq1UeYzQ9hFjAk5Opii3LZ_YJk",
-        "source": "ישראל היום"
-      },
-      {
-        "title": "ישראל מנהלת מגעים חשאיים: היעד - איתור קברו של אלי כהן | דיווח",
-        "snippet": "",
-        "url": "https://www.maariv.co.il/news/military/article-1156061",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJFA0DV3lYRdJKQnvlQMhKVK1MK7gBPmCmZibsqsTweRaRN-VqZSkUNKZp_aA",
-        "source": "מעריב"
-      }
-    ]
-  },
-  {
-    "title": "גלעד ויטל",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Fri, 13 Dec 2024 23:40:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDl504h9fBBuWuSJ8bmzSYILZUwHjIPpUgCMa7f22MPsmV8LsTLbptquwTqM",
-    "picture_source": "ynet",
-    "news_items": [
-      {
-        "title": "גלעד ויטל שמעון, ממקימי שוטי הנבואה, נהרג בתאונת אופנוע בגיל 54",
-        "snippet": "",
-        "url": "https://www.ynet.co.il/entertainment/article/b1wnthq4kg",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDl504h9fBBuWuSJ8bmzSYILZUwHjIPpUgCMa7f22MPsmV8LsTLbptquwTqM",
-        "source": "ynet"
-      },
-      {
-        "title": "רוכב אופנוע בן 54 נהרג בתאונת דרכים סמוך לגבעת עדה",
-        "snippet": "",
-        "url": "https://www.maariv.co.il/breaking-news/article-1156011",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSo19nxIFTMSkziK2oT3j4GElQ3n0zaW9igu-G1ZthPZ6cC-4prwrbbQ1wok",
-        "source": "מעריב"
-      },
-      {
-        "title": "גלעד ויטל מלהקת \"שוטי הנבואה\" נהרג בתאונה: \"תודה על הזמן יחד\"",
-        "snippet": "",
-        "url": "https://13tv.co.il/item/news/domestic/internal/eh497-904377250/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-J-X8yw0kP9BnaIclSYdV3DnWbyuYaMfNgm0yw5uJlI_LDF2n4tz0JSfjKI8",
-        "source": "רשת 13"
-      }
-    ]
-  },
-  {
-    "title": "trail blazers vs spurs",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Fri, 13 Dec 2024 22:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAJeuH-KGaY77RUp1rz1RNr1nqg-21Whe0tpk3meKP80lWElghB1VbeSdOp4",
-    "picture_source": "NBA.com",
-    "news_items": [
-      {
-        "title": "San Antonio Spurs vs Portland Trail Blazers Dec 13, 2024 Box Scores",
-        "snippet": "",
-        "url": "https://www.nba.com/game/sas-vs-por-0022401215/box-score",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAJeuH-KGaY77RUp1rz1RNr1nqg-21Whe0tpk3meKP80lWElghB1VbeSdOp4",
-        "source": "NBA.com"
-      },
-      {
-        "title": "Spurs 118-116 Trail Blazers (Dec 13, 2024) Game Recap",
-        "snippet": "",
-        "url": "https://www.espn.com/nba/recap?gameId=401736809",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO8t7JOwEl9YhoiXreuNT-1OUMwdFU2xrGsbFlwD6ElxvK706rOBthYwltAf4",
-        "source": "ESPN"
-      },
-      {
-        "title": "Grant, Simons Keep Blazers Close in Narrow Loss to Spurs",
-        "snippet": "",
-        "url": "https://www.blazersedge.com/2024/12/13/24320933/portland-trail-blazers-san-antonio-spurs-final-score-boxscore-victor-wembanyama-stats-jerami-grant",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREofJTfeyHVh2wG4OCZXCjJu7yvK1nJBWXKsnj26oFbTuKNcyu_T1DIya7s3o",
-        "source": "Blazer's Edge"
-      }
-    ]
-  },
-  {
-    "title": "nba",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Fri, 13 Dec 2024 21:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpY1EAjOSocETRjjD4ZVNLL97MT4S9j17e44bwnDklSwbQqflL-IOCO9O-IX4",
-    "picture_source": "NBA.com",
-    "news_items": [
-      {
-        "title": "Emirates NBA Cup Semifinal preview: Rockets vs. Thunder",
-        "snippet": "",
-        "url": "https://www.nba.com/news/emirates-nba-cup-semifinal-preview-rockets-thunder",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpY1EAjOSocETRjjD4ZVNLL97MT4S9j17e44bwnDklSwbQqflL-IOCO9O-IX4",
-        "source": "NBA.com"
-      },
-      {
-        "title": "NBA Predictions & Preview For Saturday, December 14th",
-        "snippet": "",
-        "url": "https://www.sportsgamblingpodcast.com/2024/12/13/nba-predictions-preview-for-saturday-december-14th/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTC7jVqLTVzMDj3Aa_8_xJZvm8y-BeKJdCRSPkp3xvsas5Lgxbha8SsISq63UQ",
-        "source": "Sports Gambling Podcast"
-      },
-      {
-        "title": "OKC Thunder coach shares high praise for Ime Udoka, and picks out 'very scrappy player' among Houston Rockets stars",
-        "snippet": "",
-        "url": "https://nbaanalysis.net/okc-thunder-head-coach-shares-high-praise-for-ime-udoka-and-picks-out-very-scrappy-player-among-houston-rockets-stars/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD3X2qDdTjwHVNupW5BASIy69PHl24qtCtYuRSsHiofGxhTrw30y4Dpjmpems",
-        "source": "NBA Analysis Network"
-      }
-    ]
-  },
-  {
-    "title": "צבי משי זהב",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Fri, 13 Dec 2024 17:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRg9KoOt7NrZ7gnEQ-TGvTYItN1bT1iqaIoFchI4kxS8kMi7xy_xb8PMnKPY",
-    "picture_source": "JDN",
-    "news_items": [
-      {
-        "title": "הגבאי המסור של ביהכ”נ חב”ד: ר’ צבי משי זהב ז”ל הלך לעולמו",
-        "snippet": "",
-        "url": "https://www.jdn.co.il/j_world/2318239/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRg9KoOt7NrZ7gnEQ-TGvTYItN1bT1iqaIoFchI4kxS8kMi7xy_xb8PMnKPY",
-        "source": "JDN"
-      },
-      {
-        "title": "ר' צבי משי זהב ז\"ל הגבאי המסור של חב\"ד בירושלים הלך לעולמו",
-        "snippet": "",
-        "url": "https://www.bhol.co.il/news/1680973",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0cttDN1qeKZydd5eRpQu8JckYxIrA8_DzNYhUD5EJIt728SsIKF8x7TeXRiE",
-        "source": "בחדרי חרדים"
-      }
-    ]
-  },
-  {
-    "title": "fortnite shop",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Fri, 13 Dec 2024 16:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvmIjA-DyO8aBxYStzxZ2Q8zwMYSI--k60yTrahXTUrsE0gEhD8AE7noGlDNM",
-    "picture_source": "Forbes",
-    "news_items": [
-      {
-        "title": "Here Are Lionel Messi’s Leaked ‘Fortnite’ Skins",
-        "snippet": "",
-        "url": "https://www.forbes.com/sites/paultassi/2024/12/13/here-are-lionel-messis-leaked-fortnite-skins/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvmIjA-DyO8aBxYStzxZ2Q8zwMYSI--k60yTrahXTUrsE0gEhD8AE7noGlDNM",
-        "source": "Forbes"
-      },
-      {
-        "title": "\"I'm gonna have to put some money on this game\": Fans react excitedly to Messi x Fortnite upcoming collab",
-        "snippet": "",
-        "url": "https://www.soapcentral.com/lifestyle/news-i-m-gonna-put-money-game-fans-react-excitedly-messi-x-fortnite-upcoming-collab",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZ-vCA46RXjT5k00NWDo2GXAhjCo80wOCHg-v6OOwWhni4zH8-ajY_IiUtYxM",
-        "source": "Soap Central"
-      },
-      {
-        "title": "How to Get the Fortnite Messi Skin",
-        "snippet": "",
-        "url": "https://www.si.com/esports/fortnite/how-to-get-the-messi-skin",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO-BNLC1I4aWo6OcywCqoTtYxOiClZ9Xb7ylgsXfac4v1k53XaPBJh7N7gw3k",
-        "source": "Sports Illustrated"
-      }
-    ]
-  },
-  {
-    "title": "lily phillips",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Fri, 13 Dec 2024 15:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRze6HzHlPVnwb3H6VHuaPH553-X6LMp8qFHU-xV0VhJyAfdi9IxofC4qrwwJI",
-    "picture_source": "The Spectator",
-    "news_items": [
-      {
-        "title": "Shame on the men exploiting Lily Phillips",
-        "snippet": "",
-        "url": "https://www.spectator.co.uk/article/shame-on-the-men-exploiting-lily-phillips/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRze6HzHlPVnwb3H6VHuaPH553-X6LMp8qFHU-xV0VhJyAfdi9IxofC4qrwwJI",
-        "source": "The Spectator"
-      },
-      {
-        "title": "OnlyFans Star Lily Phillips Breaks Down in Tears After Revealing She Slept with 100 Men in One Day",
-        "snippet": "",
-        "url": "https://www.yahoo.com/entertainment/onlyfans-star-lily-phillips-breaks-153001479.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8AQGLp0WOpJ0yuTIRwhlpAaW69v_duVLi2fwKIPNkqCGCw7C5Hp4JHkyC_iM",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Middle-class student who wants to have sex with 1,000 men in a day",
-        "snippet": "",
-        "url": "https://www.dailymail.co.uk/femail/article-14166101/middle-class-graduate-sex-Lily-Phillips-OnlyFans.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9cmsSv-ODMHrs4WAPcSFdo305JULlmB-W6BJTAjL_XrMyQB8Ikq6L8syHNP0",
-        "source": "Daily Mail"
-      }
-    ]
-  },
-  {
-    "title": "קרייבן הצייד",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Fri, 13 Dec 2024 13:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOI9x_12Wu_kP3O5MSaN49BVGtjkpzBR3fVPzzUJNxINQ2d93KGA-bWStzFIA",
-    "picture_source": "הארץ",
-    "news_items": [
-      {
-        "title": "\"קרייבן הצייד\": סוף עגום ליקום נטול ספיידרמן של אולפני סוני",
-        "snippet": "",
-        "url": "https://www.haaretz.co.il/gallery/cinema/movie-reviews/2024-12-13/ty-article-review/.premium/00000193-bf3b-d130-a1b7-bf7bfc670000",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOI9x_12Wu_kP3O5MSaN49BVGtjkpzBR3fVPzzUJNxINQ2d93KGA-bWStzFIA",
-        "source": "הארץ"
-      },
-      {
-        "title": "זה נגמר: סוני מחסלת את היקום הקולנועי בשיתוף מארוול",
-        "snippet": "",
-        "url": "https://www.israelhayom.co.il/culture/films/article/16944565",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKPBs9eueVH3PVons9lnyD0VyFlxi4eRDUO6k7VjLXOGHUu2H1h2IronFPb2Q",
-        "source": "ישראל היום"
-      },
-      {
-        "title": "סוד משפחתי נחשף ערב החתונה: קומדיה שתגרום לכם להתגלגל | ביקורת קולנוע",
-        "snippet": "",
-        "url": "https://www.maariv.co.il/culture/movies/article-1155662",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKKI_pcs4i_Oey-0pHRiVDXy8N6A6rnaZa0QHXajWE6RJeXRARYK9uiMo2jg",
-        "source": "מעריב"
-      }
-    ]
-  },
-  {
-    "title": "twitch",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Fri, 13 Dec 2024 10:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_k8_lZApQEb7mcUl-122iNDInamWCo1s5NR4VYcDV5cCwqNYNHRHRJ35-xuw",
-    "picture_source": "People.com",
-    "news_items": [
-      {
-        "title": "Sonya Tayeh Says Former 'SYTYCD' Costar tWitch 'Took My Breath Away' When Dancing (Exclusive)",
-        "snippet": "",
-        "url": "https://people.com/sonya-tayeh-says-former-sytycd-costar-twitch-took-my-breath-away-when-dancing-exclusive-8761514",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_k8_lZApQEb7mcUl-122iNDInamWCo1s5NR4VYcDV5cCwqNYNHRHRJ35-xuw",
-        "source": "People.com"
-      },
-      {
-        "title": "Allison Holker, daughter Weslie remember Stephen ‘tWitch’ Boss. ‘The dad he was’",
-        "snippet": "",
-        "url": "https://www.miamiherald.com/news/nation-world/national/article297056984.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0IbC2PjZxGWS2cYVcKXHTsRjvExoZOF7hAiGiHuvRQBs-vRDsEvB1nb4wAXo",
-        "source": "Miami Herald"
-      },
-      {
-        "title": "Ellen DeGeneres Pays Tribute to Late Friend Stephen ‘Twitch’ Boss on His Death Anniversary; 'I Feel You with Me'",
-        "snippet": "",
-        "url": "https://www.pinkvilla.com/entertainment/hollywood/ellen-degeneres-pays-tribute-to-late-friend-stephen-twitch-boss-on-his-death-anniversary-i-feel-you-with-me-1362773",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBq9PD94GyN7NwD85CHiZ68KSTV9YDks9f9bnOmD3fd5DEQpmHYkEtVKPIXdY",
-        "source": "Pinkvilla"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "orange",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "green",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "yellow",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": 98.5885,
+  "Goal 2 Score": 62.033125,
+  "Goal 3 Score": 94.9365,
+  "Goal 4 Score": 93.019,
+  "Goal 5 Score": 72.47,
+  "Goal 6 Score": 68.9118,
+  "Goal 7 Score": 73.11875,
+  "Goal 8 Score": 81.906,
+  "Goal 9 Score": 98.1951428571429,
+  "Goal 10 Score": 72.8035,
+  "Goal 11 Score": 94.812,
+  "Goal 12 Score": 65.3058571428571,
+  "Goal 13 Score": 75.7816666666667,
+  "Goal 14 Score": 38.0742,
+  "Goal 15 Score": 41.624,
+  "Goal 16 Score": 65.899,
+  "Goal 17 Score": 52.6096
+}

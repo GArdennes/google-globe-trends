@@ -1,259 +1,36 @@
-[
-  {
-    "title": "protv",
-    "link": "https://trends.google.com/trending/rss?geo=MD",
-    "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQe90ggYQOKbyRKafrIJY-DTQLejz-yrZBhE194kZjz08csK_g8siRcb_feLSI",
-    "picture_source": "Agora.md",
-    "news_items": [
-      {
-        "title": "Un post TV, sancționat pentru nerespectarea regulilor cu privire la \nplasarea de produse",
-        "snippet": "",
-        "url": "https://agora.md/2024/12/12/un-post-tv-sanctionat-pentru-nerespectarea-regulilor-cu-privire-la-plasarea-de-produse",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQe90ggYQOKbyRKafrIJY-DTQLejz-yrZBhE194kZjz08csK_g8siRcb_feLSI",
-        "source": "Agora.md"
-      },
-      {
-        "title": "PRO TV Chișinău, sancționat de către CA cu 10 000 de lei, pentru nereguli \ncu privire la plasarea de produse",
-        "snippet": "",
-        "url": "https://www.zdg.md/stiri/stiri-sociale/pro-tv-chisinau-sanctionat-de-catre-ca-cu-10-000-de-lei-pentru-nereguli-cu-privire-la-plasarea-de-produse/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9UtyBpejVrc53zFmFA_A8U7JdCxzqaLvw24uxkm9-U2ShlykR4Qi6GntT24c",
-        "source": "Ziarul de Gardă"
-      },
-      {
-        "title": "PRO TV Chișinău sancționat cu 10 000 de lei",
-        "snippet": "",
-        "url": "https://telegraph.md/pro-tv-chisinau-sanctionat-cu-10-000-de-lei/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbVEbV6y4iyTlsljRgJ-qRJu2S2YE4DsVYSovahuh3x1Ot_Mvvf51dNMzI8ZM",
-        "source": "telegraph.md"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=MD",
-    "pubdate": "Wed, 11 Dec 2024 15:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "liga campionilor",
-    "link": "https://trends.google.com/trending/rss?geo=MD",
-    "pubdate": "Wed, 11 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "лига чемпионов",
-    "link": "https://trends.google.com/trending/rss?geo=MD",
-    "pubdate": "Wed, 11 Dec 2024 13:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgV64XqSJQrcwOlDA5Tg7EP2ALJfvj6dxkcxFtWV5YV9Vh29AXheSJbiHD92E",
-    "picture_source": "Champion.com.ua",
-    "news_items": [
-      {
-        "title": "Шахтер за пределами зоны плейоф Ливерпуль уверенно лидирует в таблице Лиги \nчемпионов после 6 тура",
-        "snippet": "",
-        "url": "https://champion.com.ua/rus/football/liga-chempioniv/ukrainskiy-futbolnyy-klub-shahter-za-predelami-zony-pley-off-ligi-chempionov-1019928/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgV64XqSJQrcwOlDA5Tg7EP2ALJfvj6dxkcxFtWV5YV9Vh29AXheSJbiHD92E",
-        "source": "Champion.com.ua"
-      },
-      {
-        "title": "Обзор и хайлайты матчей шестого тура",
-        "snippet": "",
-        "url": "https://ru.uefa.com/uefachampionsleague/news/0294-1c8a3f4ff386-c6ec5012cff2-1000--%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%B8-%D1%85%D0%B0%D0%B8/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflWgZ-C2gTA5VvvY4IiS8ThUgqG_MfLU4wKRbcg0I-HEAGt144mfzgtC6OQ",
-        "source": "UEFA.com"
-      },
-      {
-        "title": "«Барселона» обыграла «Боруссию», «Ювентус» победил «Манчестер Сити» в Лиге \nчемпионов",
-        "snippet": "",
-        "url": "https://matchtv.ru/football/matchtvnews_NI2145834_Barselona_obygrala_Borussiju_Juventus_pobedil_Manchester_Siti_v_Lige_chempionov",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsyNJm0_ErGK0nGJQshL1XEwQOsgxAkK623MtIQmk_KoQDUSOrbJB5zuig9uM",
-        "source": "Матч ТВ"
-      }
-    ]
-  },
-  {
-    "title": "ювентус – манчестер сити",
-    "link": "https://trends.google.com/trending/rss?geo=MD",
-    "pubdate": "Wed, 11 Dec 2024 13:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6cYy8hNasQ5Hgmj1px_urD-CNLi5fmFawCw58l1JetG2v8YWilkXJPbJWMfY",
-    "picture_source": "Евро-Футбол.Ру",
-    "news_items": [
-      {
-        "title": "Гвардиола рассказал об атмосфере в «Манчестер Сити»",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/31/1005799292_gvardiola_rasskazal_ob_atmosfere_v_manchester_siti",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6cYy8hNasQ5Hgmj1px_urD-CNLi5fmFawCw58l1JetG2v8YWilkXJPbJWMfY",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "Гвардиола: «Я никогда не был близок к «Ювентусу»",
-        "snippet": "",
-        "url": "https://forzajuve.ru/news/195655-gvardiola-ya-nikogda-ne-byl-blizok-k-yuventusu",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJOGI6aX2uKCUdRJTvYo6MzvyK_p-WxivfQyQNe-C81zqlXtDweOxrFMwi5vY",
-        "source": "ForzaJuve.ru"
-      },
-      {
-        "title": "«Ювентус» обыграл «Манчестер Сити» в матче Лиги чемпионов по футболу",
-        "snippet": "",
-        "url": "https://sportmail.ru/news/football-eurocups/64035558/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcSkhVungHb1j9zzpPTHqwUPq27bLNyABWJ0G-mLe4dqTa3GTfl4v_W3pG2-o",
-        "source": "Спорт Mail"
-      }
-    ]
-  },
-  {
-    "title": "juventus - man city",
-    "link": "https://trends.google.com/trending/rss?geo=MD",
-    "pubdate": "Wed, 11 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJBcsBx_UpG0teIpmCwyRk5AWEGaOB2zLjAdDTCEzDZDJ5tp9B_NOfaFQ-OaY",
-    "picture_source": "Eurosport",
-    "news_items": [
-      {
-        "title": "Juventus - Manchester City Live - Champions League: Football Scores & \nHighlights - 11/12/2024",
-        "snippet": "",
-        "url": "https://www.eurosport.com/football/champions-league/2024-2025/live-juventus-manchester-city_mtc1525379/live-commentary.shtml",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJBcsBx_UpG0teIpmCwyRk5AWEGaOB2zLjAdDTCEzDZDJ5tp9B_NOfaFQ-OaY",
-        "source": "Eurosport"
-      },
-      {
-        "title": "'That's not what we're built for': Gundogan reflects on Man City defeat",
-        "snippet": "",
-        "url": "https://www.besoccer.com/new/that-s-not-what-we-re-built-for-gundogan-reflects-on-man-city-defeat-1341151",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ1ZuKmHmXbDM0CLrFqX8WiFAVQvkLhbGPRX1mJimrsIKGnISY913SsLZRRLQ",
-        "source": "BeSoccer"
-      },
-      {
-        "title": "‘He’s already tired’ – Cole, Laurens question if Guardiola is ‘right guy' \nfor Man City 'rebuild'",
-        "snippet": "",
-        "url": "https://www.tntsports.co.uk/football/champions-league/2024-2025/joe-cole-julien-laurens-question-if-pep-guardiola-is-right-guy-for-manchester-city-rebuild-hes-already-tired_sto20062213/story.shtml",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1rm7-PixVq_GPZUYFsTCGi53MEf-CXyFX9H8uRrb0_qv1nGsmOVl5xu8v6sU",
-        "source": "BT Sport"
-      }
-    ]
-  },
-  {
-    "title": "dortmund - barcelona",
-    "link": "https://trends.google.com/trending/rss?geo=MD",
-    "pubdate": "Wed, 11 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
-    "picture_source": "FootBoom",
-    "news_items": [
-      {
-        "title": "¿Cuál es la capacidad del Signal Iduna Park y la 'Pared Amarilla' en el \nestadio del Borussia Dortmund?",
-        "snippet": "",
-        "url": "https://www.footboom1.com/es/news/football/2168596-what-is-the-capacity-of-signal-iduna-park-and-the-yellow-wall-at-borussia-dortmund-stadium",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRTz1IfXk9jHbc0HvaqmJdWXMR7mFQEXMrjy0hpZY2LGMwbMz1-BXzrgg38M4",
-        "source": "FootBoom"
-      },
-      {
-        "title": "Flick: «El objetivo es ser primeros»",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/flick-el-objetivo-es-ser-primeros-40427746",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3E4v6QDgnCyBo-gWbUpZqhEspEd31DRtIT_MOXWtwaw4PrLM4MddGHHosck",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Torres alaba el espíritu de equipo tras la victoria del Barcelona en \nDortmund",
-        "snippet": "",
-        "url": "https://es-us.noticias.yahoo.com/torres-alaba-esp%C3%ADritu-equipo-victoria-065103438.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtPopBu-O__xaszCDPKNllktaBonAJ0aZuCxqg3t2dU0dYwBI9GH6TL8-r_xM",
-        "source": "Yahoo Noticias"
-      }
-    ]
-  },
-  {
-    "title": "боруссия – барселона",
-    "link": "https://trends.google.com/trending/rss?geo=MD",
-    "pubdate": "Wed, 11 Dec 2024 11:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoGgmds_N2cje5QhYJFiMBEelfpqLimMFr1QX1OLhf8D8YPCnT4o6RWuJEDQ4",
-    "picture_source": "sport-express.ru",
-    "news_items": [
-      {
-        "title": "Дубль Торреса в концовке матча позволил «Барселоне» вырвать победу у \n«Боруссии»",
-        "snippet": "",
-        "url": "https://www.sport-express.net/football/champions-league/news/borussiya-d-barselona-rezultat-matcha-obschego-etapa-ligi-chempionov-11-dekabrya-2024-goda-2280875/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoGgmds_N2cje5QhYJFiMBEelfpqLimMFr1QX1OLhf8D8YPCnT4o6RWuJEDQ4",
-        "source": "sport-express.ru"
-      },
-      {
-        "title": "Джан высказался после поражения «Боруссии» от «Барселоны»",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/45/1005799315_djan_vyiskazalsya_posle_porajeniya_borussii_ot_barselonyi",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjbkU8WjbBni6L2KjV-JlGm19kuhltc3erYthi82b2j8Kvzy3xZNVUsf_TNX8",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "Дортмундские качели: смотреть обзор матча Боруссия - Барселона",
-        "snippet": "",
-        "url": "https://terrikon.com/posts/503561",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJUht3IC4D79eccKbQPohrQe28_pbiR16sLNNt67WMag0G8IMlJhAQZRYpvpU",
-        "source": "Террикон"
-      }
-    ]
-  },
-  {
-    "title": "instagram",
-    "link": "https://trends.google.com/trending/rss?geo=MD",
-    "pubdate": "Wed, 11 Dec 2024 10:10:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
-    "picture_source": "Forbes",
-    "news_items": [
-      {
-        "title": "Facebook And Instagram Outage: Meta Says It’s ‘99% Of The Way’ To Being \nFixed",
-        "snippet": "",
-        "url": "https://www.forbes.com/sites/mollybohannon/2024/12/11/facebook-and-instagram-outage-meta-says-its-99-of-the-way-to-being-fixed/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxGTxH57bbJUQo90jplnlzq-zGU-y09rIkM6UAi-CZ5td2_aYRa0NGlxb24bI",
-        "source": "Forbes"
-      },
-      {
-        "title": "Facebook, Instagram, and Threads are down",
-        "snippet": "",
-        "url": "https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHSidYCb4OK0QFH4RkooPjqarIzYvzCAhxhBykeVnZRl0BYX6QcVsK3mFjpls",
-        "source": "The Verge"
-      },
-      {
-        "title": "Meta's Instagram says services back up after outages",
-        "snippet": "",
-        "url": "https://www.reuters.com/technology/facebook-instagram-down-thousands-users-2024-12-11/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSpb8A2W2_vkzDTO-VVuyWNXV21wz7p6_OUsxe07xvFfwSXzOGn0svvCXiKE",
-        "source": "Reuters"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "green",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "green",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "yellow",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "yellow",
+  "Goal 1 Score": 98.6,
+  "Goal 2 Score": 59.1374285714286,
+  "Goal 3 Score": 75.4922142857143,
+  "Goal 4 Score": 99.14875,
+  "Goal 5 Score": 82.229,
+  "Goal 6 Score": 72.331,
+  "Goal 7 Score": 80.01775,
+  "Goal 8 Score": 69.6728571428572,
+  "Goal 9 Score": 40.491,
+  "Goal 10 Score": 99.7185,
+  "Goal 11 Score": 92.142,
+  "Goal 12 Score": 77.7995714285714,
+  "Goal 13 Score": 91.356,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 88.2546,
+  "Goal 16 Score": 69.5407,
+  "Goal 17 Score": 78.1664
+}

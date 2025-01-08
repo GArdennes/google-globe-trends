@@ -1,312 +1,36 @@
-[
-  {
-    "title": "liverpool - fulham",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtSRnU2q_S9H9zP0KgQwhzkwngJey1FEuZd-IQEcBCLUIBDaviS0Mtkeumbo",
-    "picture_source": "Fulham FC",
-    "news_items": [
-      {
-        "title": "Team News: Fulham without 5 at Anfield",
-        "snippet": "",
-        "url": "https://www.fulhamfc.com/news/2024/december/12/team-news-fulham-without-5-at-anfield/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtSRnU2q_S9H9zP0KgQwhzkwngJey1FEuZd-IQEcBCLUIBDaviS0Mtkeumbo",
-        "source": "Fulham FC"
-      },
-      {
-        "title": "Liverpool's expected lineup vs. Fulham with big Darwin Nunez decision - Liverpool FC",
-        "snippet": "",
-        "url": "https://www.thisisanfield.com/2024/12/liverpools-expected-lineup-vs-fulham-with-big-darwin-nunez-decision/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1-jE4iB_88sIkXH1I2jKxvPriQ21SEwShEwKDLhV5mFQXkY8G9-B9d1cdWGA",
-        "source": "This Is Anfield"
-      },
-      {
-        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
-        "snippet": "",
-        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
-        "source": "Liverpool FC"
-      }
-    ]
-  },
-  {
-    "title": "arsenal - everton",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Premier League Arsenal versus Everton kick off 15:00 Sat 14 Dec 2024",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c047zvkyd10t",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-        "source": "BBC"
-      },
-      {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
-        "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-        "source": "Arsenal.com"
-      },
-      {
-        "title": "Liverpool vs Fulham LIVE: Premier League team news, line-ups and more",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/liverpool-vs-fulham-live-premier-130024902.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzU2E14EGckBt0ic527jchCx0JekCwkEvir9rpx53DSS4htwFJrh0HfhQtldk",
-        "source": "Yahoo Sports"
-      }
-    ]
-  },
-  {
-    "title": "mainz 05 - bayern",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-    "picture_source": "FCBinside",
-    "news_items": [
-      {
-        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
-        "snippet": "",
-        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-        "source": "FCBinside"
-      },
-      {
-        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
-      }
-    ]
-  },
-  {
-    "title": "augsburg - leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-    "picture_source": "BILD.de",
-    "news_items": [
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
-        "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
-      }
-    ]
-  },
-  {
-    "title": "cagliari - atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8DJEHgCx85PpVAgPp-GSHYynXF9r3_sCsE3jD4q3hrrtmW53fyGmy6n0Uk8w",
-    "picture_source": "Fantacalcio",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: le formazioni ufficiali",
-        "snippet": "",
-        "url": "https://www.fantacalcio.it/news/calcio-italia/14_12_2024/cagliari-atalanta-le-formazioni-ufficiali-470451",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8DJEHgCx85PpVAgPp-GSHYynXF9r3_sCsE3jD4q3hrrtmW53fyGmy6n0Uk8w",
-        "source": "Fantacalcio"
-      },
-      {
-        "title": "Le \"ufficiali\": Lookman e De Roon partono dalla panchina",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/le-formazioni-atalanta-con-il-tridente/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRBNwTgWbpvdBN6RX_ig6qboF9pv2gQHkJqX8qoMzwahDyWbKSAsvUURYuSOM",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "micheil kavelasjvili",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ALAxkrJCvm8uyizP68CL7FKfgz8MYfvhTSewNA-wMcxjI0PXtB7LiX25CD8",
-    "picture_source": "NOS",
-    "news_items": [
-      {
-        "title": "Anti-westerse oud-voetballer Kavelasjvili gekozen tot president Georgië",
-        "snippet": "",
-        "url": "https://nos.nl/l/2548271",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ALAxkrJCvm8uyizP68CL7FKfgz8MYfvhTSewNA-wMcxjI0PXtB7LiX25CD8",
-        "source": "NOS"
-      },
-      {
-        "title": "Video | Anti-Rusland-protest neergeslagen door knokploegen in Georgië",
-        "snippet": "",
-        "url": "https://www.nu.nl/313376/video/anti-rusland-protest-neergeslagen-door-knokploegen-in-georgie.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDQQ9sJH1w1pK4zTn7WKoZgsKzTQuBgVGm1XCOh5KqDeDmy1vVrGAwliV65rg",
-        "source": "NU"
-      },
-      {
-        "title": "Na twee weken van protesten kiest Georgië opvolger van pro-Europese president die niet weg wil",
-        "snippet": "",
-        "url": "https://www.ad.nl/buitenland/na-twee-weken-van-protesten-kiest-georgie-opvolger-van-pro-europese-president-die-niet-weg-wil~a0f75cd0/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3xzobgmpgpWN8lqs87GRpY6VjJC_Qg8a3tN1jCB-rORT1yi9lCO5M1NReGuc",
-        "source": "AD.nl"
-      }
-    ]
-  },
-  {
-    "title": "espanyol - osasuna",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 05:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyJcqCT7pbsK_MoBW4P7qRLL-pG7zZaC4cVfEz8u1tfAhAHpj3WSPmPFGT1I",
-    "picture_source": "Marca.com",
-    "news_items": [
-      {
-        "title": "Espanyol - Osasuna en directo | LaLiga en vivo",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/laliga-ea-sports/espanyol-osasuna/2024/12/14/01_0101_20241214_177_450-directo.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyJcqCT7pbsK_MoBW4P7qRLL-pG7zZaC4cVfEz8u1tfAhAHpj3WSPmPFGT1I",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Portada ‘El 1900’ del sábado 14 de diciembre de 2024",
-        "snippet": "",
-        "url": "https://el1900.com/portada-el1900-14-diciembre-2024-espanyol-ca-osasuna/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfp8O-Fn4mBFoYvxlNZGcQz-wscct86d1cDCfXXCDbExYzmN3nes7oJUDV2l8",
-        "source": "El 1900"
-      },
-      {
-        "title": "Fútbol en Directo | En juego el Espanyol-Osasuna; Navas se despide en el Pizjuán",
-        "snippet": "",
-        "url": "https://www.flashscore.es/noticias/futbol-laliga-ea-sports-futbol-en-directo-en-juego-el-espanyol-osasuna-navas-se-despide-en-el-pizjuan/Iop1urgm/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4h8kwYiSlFI3LYvRQQj0WBh6j0CDKP32-UdVNDzoIPc8awxA5qO0DXqhiUlk",
-        "source": "Flashscore.es"
-      }
-    ]
-  },
-  {
-    "title": "senna netflix",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-6toko1z2ssHmXYcSjZwK_aFIxunj3n39JB4EY9pqjviFJM1r59JSOtpRHk",
-    "picture_source": "Yahoo",
-    "news_items": [
-      {
-        "title": "Unpacking ‘Senna’: Netflix’s Latest True Story Limited Series",
-        "snippet": "",
-        "url": "https://www.yahoo.com/entertainment/unpacking-senna-netflix-latest-true-214023361.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-6toko1z2ssHmXYcSjZwK_aFIxunj3n39JB4EY9pqjviFJM1r59JSOtpRHk",
-        "source": "Yahoo"
-      },
-      {
-        "title": "People are only just realising how this BAFTA-winning Netflix film was made as incredible footage goes viral:",
-        "snippet": "",
-        "url": "https://www.dailymail.co.uk/tv/article-14185737/senna-bafta-netflix-film-footage.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4Tg-gVuLSlhaXI-gSqkpo5-tD-bt1W5VWdQhIUnY2VACux8zno5OsPCNXqzU",
-        "source": "Daily Mail"
-      },
-      {
-        "title": "People are only just realising how this BAFTA-winning Netflix film was made as incredible footage goes viral: 'It was all a lie'",
-        "snippet": "",
-        "url": "https://www.msn.com/en-ie/entertainment/tv/people-are-only-just-realising-how-this-bafta-winning-netflix-film-was-made-as-incredible-footage-goes-viral-it-was-all-a-lie/ar-AA1vK774",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHbR2GatXFzXFCJLbYsp-ZfbaVVqBOz-pPr7d2Vyu5OF1M65TIWR9U9ddgW0c",
-        "source": "MSN"
-      }
-    ]
-  },
-  {
-    "title": "kavelashvili",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbj0oEXjiLwKA7ucB44LN1QEsi9r6AaA9mmCsBqY4k5IPRxB8ISH3ZvPhhOhY",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Georgia's crisis deepens as ex-footballer Mikheil Kavelashvili named president",
-        "snippet": "",
-        "url": "https://www.bbc.com/news/articles/c5ygejxej28o",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbj0oEXjiLwKA7ucB44LN1QEsi9r6AaA9mmCsBqY4k5IPRxB8ISH3ZvPhhOhY",
-        "source": "BBC"
-      },
-      {
-        "title": "Georgian lawmakers elect far-right, anti-west hardliner as new president",
-        "snippet": "",
-        "url": "https://www.theguardian.com/world/2024/dec/14/georgias-ruling-party-to-appoint-far-right-loyalist-as-president",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKA72V-OBfTygWBxDcbuXqatL_H8QjuGRM0kg7q9mnNKvB78rS6-ujPILI2k",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Georgian government votes in far-right former soccer player as president",
-        "snippet": "",
-        "url": "https://www.cnn.com/2024/12/14/europe/georgia-president-vote-mikheil-kavelashvili-intl/index.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYMplOowgq1frlYUxOwmTmPASnNeN0nLv0TgJkOvFKVATtaErjMpxjlzkKHCg",
-        "source": "CNN"
-      }
-    ]
-  },
-  {
-    "title": "extinction rebellion schiphol",
-    "link": "https://trends.google.com/trending/rss?geo=NL",
-    "pubdate": "Sat, 14 Dec 2024 04:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR0U_0n6xzG4JYcD9Z3M_KQJq-or4LPvz8mepiJ06P0MXD5_K6Byk_D3UaPBc",
-    "picture_source": "NOS",
-    "news_items": [
-      {
-        "title": "Marechaussee houdt betogers met bruine vloeistof aan op Schiphol",
-        "snippet": "",
-        "url": "https://nos.nl/l/2548274",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR0U_0n6xzG4JYcD9Z3M_KQJq-or4LPvz8mepiJ06P0MXD5_K6Byk_D3UaPBc",
-        "source": "NOS"
-      },
-      {
-        "title": "99 actievoerders Extinction Rebellion aangehouden na protest achter de paspoortcontrole op Schiphol",
-        "snippet": "",
-        "url": "https://www.parool.nl/amsterdam/99-actievoerders-extinction-rebellion-aangehouden-na-protest-achter-de-paspoortcontrole-op-schiphol~bd841aac/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLM28o6X61P8pvRtzMKxMAP5HJshGfOYvtTG_lR5ESJb23CCAqoCfF9AF2LYA",
-        "source": "Het Parool"
-      },
-      {
-        "title": "Marechaussee stopt klimaatdemonstratie achter paspoortcontrole bij Schiphol",
-        "snippet": "",
-        "url": "https://www.nu.nl/binnenland/6339091/marechaussee-stopt-klimaatdemonstratie-achter-paspoortcontrole-bij-schiphol.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDUkWeIWjIMCPAw3SIb7DJ1XIdEMxAZlApeOj0LJsuHTWL67l-Z8g7ho46moc",
-        "source": "NU"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "yellow",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "yellow",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "yellow",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "yellow",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": 99.4265,
+  "Goal 2 Score": 70.23925,
+  "Goal 3 Score": 94.5919230769231,
+  "Goal 4 Score": 99.1496666666667,
+  "Goal 5 Score": 84.62025,
+  "Goal 6 Score": 88.3688,
+  "Goal 7 Score": 74.356,
+  "Goal 8 Score": 82.4584285714286,
+  "Goal 9 Score": 93.5367142857143,
+  "Goal 10 Score": 93.75,
+  "Goal 11 Score": 96.70975,
+  "Goal 12 Score": 39.336,
+  "Goal 13 Score": 46.4615,
+  "Goal 14 Score": 54.7346666666667,
+  "Goal 15 Score": 68.6048,
+  "Goal 16 Score": 90.1807272727273,
+  "Goal 17 Score": 69.9702
+}

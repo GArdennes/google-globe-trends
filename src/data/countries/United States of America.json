@@ -1,312 +1,36 @@
-[
-  {
-    "title": "liverpool vs fulham",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHbwR154DfxCs1JzoT0i9hO6Z4e_cyVoQvjCfe1DJMNyY5sF3qkGXFoM51-4",
-    "picture_source": "This Is Anfield",
-    "news_items": [
-      {
-        "title": "Confirmed Liverpool lineup vs. Fulham with Jota IN squad",
-        "snippet": "",
-        "url": "https://www.thisisanfield.com/2024/12/confirmed-liverpool-lineup-vs-fulham-1-change-jota-in-squad/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHbwR154DfxCs1JzoT0i9hO6Z4e_cyVoQvjCfe1DJMNyY5sF3qkGXFoM51-4",
-        "source": "This Is Anfield"
-      },
-      {
-        "title": "Team News: Fulham without 5 at Anfield",
-        "snippet": "",
-        "url": "https://www.fulhamfc.com/news/2024/december/12/team-news-fulham-without-5-at-anfield/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtSRnU2q_S9H9zP0KgQwhzkwngJey1FEuZd-IQEcBCLUIBDaviS0Mtkeumbo",
-        "source": "Fulham FC"
-      },
-      {
-        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
-        "snippet": "",
-        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
-        "source": "Liverpool FC"
-      }
-    ]
-  },
-  {
-    "title": "mainz vs bayern",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ6TsMyhblFbkWvwO37kRDVhvGYr8MWxQz5BRJlHiQjXUbsrqBWf_Rs1nNjI0",
-    "picture_source": "Kicker",
-    "news_items": [
-      {
-        "title": "Liveticker | 1. FSV Mainz 05 - Bayern München : | 14. Spieltag | Bundesliga 2024/25",
-        "snippet": "",
-        "url": "https://www.kicker.de/mainz-gegen-bayern-2024-bundesliga-4936907/ticker",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ6TsMyhblFbkWvwO37kRDVhvGYr8MWxQz5BRJlHiQjXUbsrqBWf_Rs1nNjI0",
-        "source": "Kicker"
-      },
-      {
-        "title": "Trotz 1:12 Toren: Henriksen sieht Chance gegen die Bayern",
-        "snippet": "",
-        "url": "https://de.nachrichten.yahoo.com/sport/trotz-1-12-toren-henriksen-123339537.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M8lTP_mcK8gH5JE1ts8gudSF90eWzxjIQWhvhBgQSt6zzcnqyn1QKi__Qi8",
-        "source": "Yahoo Nachrichten"
-      },
-      {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
-      }
-    ]
-  },
-  {
-    "title": "newcastle vs leicester city",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5deD-fxUpVUHwYp8NLFXyPRCiIdk8s1WEgTCVcyZNPnJRfUfIBRKdipukHo",
-    "picture_source": "Newcastle United",
-    "news_items": [
-      {
-        "title": "Latest. Howe waiting on Pope's fitness ahead of Foxes visit",
-        "snippet": "",
-        "url": "https://www.newcastleunited.com/en/news/howe-waiting-on-popes-fitness-ahead-of-foxes-visit",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5deD-fxUpVUHwYp8NLFXyPRCiIdk8s1WEgTCVcyZNPnJRfUfIBRKdipukHo",
-        "source": "Newcastle United"
-      },
-      {
-        "title": "Newcastle vs Leicester predictions: Chris Sutton on Premier League game",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/c9q7w87997zo",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4VjUgCueLE1hkApF9_moOAZq-uy0eVdkwPzqrucT6bleQ5UdOnU5yJlG7NcY",
-        "source": "BBC"
-      },
-      {
-        "title": "Newcastle United goalkeeper Nick Pope expected to miss a month with knee ligament issue - The Athletic",
-        "snippet": "",
-        "url": "https://www.nytimes.com/athletic/5991774/2024/12/13/newcastle-pope-injury-team-news/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6zcKSzV4ungEHoFzi5WeH5JV8kPLaIr8w4wmcviaEUrPJoqReYeitkzYV4ZM",
-        "source": "The New York Times"
-      }
-    ]
-  },
-  {
-    "title": "is college gameday on today",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNWbkBAQ5BxWQ5riUZNwx7UCTuk6uBbmN5YKvsMYn9u2y3amqCMG950IVHg6k",
-    "picture_source": "Athlon Sports",
-    "news_items": [
-      {
-        "title": "Kirk Herbstreit Announces 2024's Best 'College GameDay' Location Without Hesitation",
-        "snippet": "",
-        "url": "https://athlonsports.com/college/california-golden-bears/kirk-herbstreit-announces-2024s-best-college-gameday-location-without-hesitation",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNWbkBAQ5BxWQ5riUZNwx7UCTuk6uBbmN5YKvsMYn9u2y3amqCMG950IVHg6k",
-        "source": "Athlon Sports"
-      },
-      {
-        "title": "Why College GameDay is skipping Army-Navy in 2024",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/why-college-gameday-skipping-army-123257498.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPCpxQncSbNkCCIZU-9LDlOfrYgDnP8PyZQhv6kJ352-3HzudbTDkszm6W0tA",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "‘College GameDay’ is taking Army-Navy game off this year",
-        "snippet": "",
-        "url": "https://awfulannouncing.com/espn/college-gameday-army-navy-2024.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvc42RZ-I8qw-YDgBqHtmpW9XXvsmBu0QAHLCf6weF5W_I5PQiU1h6BASuDjI",
-        "source": "Awful Announcing"
-      }
-    ]
-  },
-  {
-    "title": "allrecipes",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT7yaNafVvwKlZZ4inVP1mZaNGbdpmT1Z5hW5WS_CsXHzV1kojJLexf7gQyRU",
-    "picture_source": "U.S. Consumer Product Safety Commission (.gov)",
-    "news_items": [
-      {
-        "title": "Stanley Recalls 2.6 Million Switchback and Trigger Action Travel Mugs Due to Burn Hazard | CPSC.gov",
-        "snippet": "",
-        "url": "https://www.cpsc.gov/Recalls/2025/Stanley-Recalls-2-6-Million-Switchback-and-Trigger-Action-Travel-Mugs-Due-to-Burn-Hazard",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT7yaNafVvwKlZZ4inVP1mZaNGbdpmT1Z5hW5WS_CsXHzV1kojJLexf7gQyRU",
-        "source": "U.S. Consumer Product Safety Commission (.gov)"
-      },
-      {
-        "title": "Millions Of Stanley Cups Have Been Recalled—Here’s Why",
-        "snippet": "",
-        "url": "https://www.forbes.com/sites/maryroeloffs/2024/12/12/millions-of-stanley-cups-have-been-recalled-heres-why/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc9HcqluKBi4CFTmEweZH55QhNhDUgjQVxU1Jli0gSWdsjDlUPkoYvYNz-hvo",
-        "source": "Forbes"
-      },
-      {
-        "title": "2.6 million Stanley mugs recalled after 38 people suffer burns due to faulty lids",
-        "snippet": "",
-        "url": "https://www.nbcnews.com/news/us-news/26-million-stanley-mugs-recalled-38-people-suffer-burn-injuries-due-fa-rcna183966",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVpAx1TYSdGo0sPmFNx95WFWnaK80fh5TnXKyY8PLAqGpb99_vGdPyBdOrNjY",
-        "source": "NBC News"
-      }
-    ]
-  },
-  {
-    "title": "tornado san francisco",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4hpy5ih1wAy-DVbEb24azyfQ6JizFJhuuuZDuYybNkicHvo4nw1EFSdFXvrs",
-    "picture_source": "San Francisco Chronicle",
-    "news_items": [
-      {
-        "title": "Strong storm is set to pound the Bay Area. Here’s when rain and winds will hit",
-        "snippet": "",
-        "url": "https://www.sfchronicle.com/weather/article/bay-area-storm-forecast-19978860.php",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4hpy5ih1wAy-DVbEb24azyfQ6JizFJhuuuZDuYybNkicHvo4nw1EFSdFXvrs",
-        "source": "San Francisco Chronicle"
-      },
-      {
-        "title": "Bay Area storm to bring heavy rain, possible flooding: Latest updates",
-        "snippet": "",
-        "url": "https://www.kron4.com/weather/bay-area-storm-to-bring-heavy-rain-possible-flooding-latest-updates/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6Xjn7QNR5A7s_vWfyglj-2ppVVM96aU3ETBmuyq88XsqhVYbtMjyHDdfUrpA",
-        "source": "KRON4"
-      },
-      {
-        "title": "Bay Area forecast: Atmospheric river brings heavy rain, strong winds",
-        "snippet": "",
-        "url": "https://www.nbcbayarea.com/weather/bay-area-forecast-wind-rain/3735620/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuHTton_CH5o9Y8gfDbLUN5lTbM0KO85E9UhaowXlvW4tHhE_qLAYveKp6n_4",
-        "source": "NBC Bay Area"
-      }
-    ]
-  },
-  {
-    "title": "tornado",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOJXJcVsubyXfXtUDrR57PsykyVi3iZdybKY90BfFd76li6hkVChpyoWF_uv0",
-    "picture_source": "WBRC",
-    "news_items": [
-      {
-        "title": "Community marks 24 years since deadly tornado",
-        "snippet": "",
-        "url": "https://www.wbrc.com/video/2024/12/14/community-marks-24-years-since-deadly-tornado/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOJXJcVsubyXfXtUDrR57PsykyVi3iZdybKY90BfFd76li6hkVChpyoWF_uv0",
-        "source": "WBRC"
-      },
-      {
-        "title": "Tuscaloosa struck hard by deadly tornado 24 years ago this month",
-        "snippet": "",
-        "url": "https://www.wbrc.com/2024/12/14/tuscaloosa-struck-hard-by-deadly-tornado-24-years-ago-this-month/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT45Yd3C6t4J5tB5rbw-cN8MGqUnCtX5L5YSZcjY3PFaoxjQleoI7JKFQyXPRs",
-        "source": "WBRC"
-      },
-      {
-        "title": "Trail volunteers clear tornado debris in two sessions",
-        "snippet": "",
-        "url": "http://mhobserver.com/trail-volunteers-clear-tornado-debris-in-two-sessions/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgWDgZlMFwA8OXclYF1clQCmq3PGm-gBq4O4qIbtHzmMLTB4YKB8bhEg-CyNE",
-        "source": "Mountain Home Observer"
-      }
-    ]
-  },
-  {
-    "title": "arsenal vs everton",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_JZNZ9KUwsEXM316MYsFuBy9holyrhqlLGqxk5DAhJ0MMLAmACaVZj9iBvJ8",
-    "picture_source": "Arsenal.com",
-    "news_items": [
-      {
-        "title": "Team news: Big Gabi back to face Everton",
-        "snippet": "",
-        "url": "https://www.arsenal.com/news/team-news-big-gabi-back-face-everton",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_JZNZ9KUwsEXM316MYsFuBy9holyrhqlLGqxk5DAhJ0MMLAmACaVZj9iBvJ8",
-        "source": "Arsenal.com"
-      },
-      {
-        "title": "Arsenal vs Everton LIVE: Premier League team news, line-ups and more",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/arsenal-vs-everton-live-premier-133342659.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOLO9ysrcJ6C727jhU7zg2eaVKbPLjiYTGk4rR8pFsZJmeaSN1LEVmyxKLJAg",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Gabriel could return for Arsenal’s game against Everton – Mikel Arteta - The Athletic",
-        "snippet": "",
-        "url": "https://www.nytimes.com/athletic/5992185/2024/12/13/arsenal-team-news-gabriel-everton/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ6j26EH-a-TBIkXm1bdtdtuDb8oL97GxSka29_0z4eW68-DoGVr4VXhwDr6Q",
-        "source": "The New York Times"
-      }
-    ]
-  },
-  {
-    "title": "national weather service",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQGMgfMECJ8DjSQz9dakrHeZpwp2p02CysCDikkBxkUQi6JM1yBKLvT_00Ik8",
-    "picture_source": "Big Island Video News",
-    "news_items": [
-      {
-        "title": "Coastal Flood Statement Issued For Hawaiʻi Shores",
-        "snippet": "",
-        "url": "https://www.bigislandvideonews.com/2024/12/13/coastal-flood-statement-issued-for-hawai%CA%BBi-shores/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQGMgfMECJ8DjSQz9dakrHeZpwp2p02CysCDikkBxkUQi6JM1yBKLvT_00Ik8",
-        "source": "Big Island Video News"
-      },
-      {
-        "title": "National Weather Service issues coastal flood statement for weekend",
-        "snippet": "",
-        "url": "https://bigislandnow.com/2024/12/13/national-weather-service-issues-coastal-flood-statement-for-weekend/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqC4J2TmISV2ZX7An6tVV9ERqxp1vQKA-3VCO6zU2sZjQNv2vmP8zkzAXImLM",
-        "source": "Big Island Now"
-      },
-      {
-        "title": "UPDATE: Attica tops GLOW region snow totals so far",
-        "snippet": "",
-        "url": "https://www.thedailynewsonline.com/news/update-attica-tops-glow-region-snow-totals-so-far/article_24d7fc54-b8d1-11ef-a014-67d8d5d39325.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAhtDsrW2eTTA4Ln2gPZHnF0Qkj3NH0eT_P2yz8MEaBMrJ_vrB6ibfVLN9Uzg",
-        "source": "TheDailyNewsOnline.com"
-      }
-    ]
-  },
-  {
-    "title": "augsburgo - leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=US",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWlvRoofW0FzFGepf7kcHOT811wIBGJlWHXYOY3niqfnoM81K0ZFoAC0fJgVU",
-    "picture_source": "Yahoo Nachrichten",
-    "news_items": [
-      {
-        "title": "Alonso warnt vor Augsburg: \"Immer hart\"",
-        "snippet": "",
-        "url": "https://de.nachrichten.yahoo.com/sport/alonso-warnt-augsburg-immer-hart-112734909.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWlvRoofW0FzFGepf7kcHOT811wIBGJlWHXYOY3niqfnoM81K0ZFoAC0fJgVU",
-        "source": "Yahoo Nachrichten"
-      },
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "orange",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "yellow",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "yellow",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "orange",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": 99.4165,
+  "Goal 2 Score": 68.5585,
+  "Goal 3 Score": 87.5756923076923,
+  "Goal 4 Score": 88.9986666666667,
+  "Goal 5 Score": 77.25975,
+  "Goal 6 Score": 81.342,
+  "Goal 7 Score": 73.95075,
+  "Goal 8 Score": 78.1058571428571,
+  "Goal 9 Score": 98.6424285714286,
+  "Goal 10 Score": 53.926,
+  "Goal 11 Score": 89.11975,
+  "Goal 12 Score": 59.0522857142857,
+  "Goal 13 Score": 61.2803333333333,
+  "Goal 14 Score": 64.7961666666667,
+  "Goal 15 Score": 57.313,
+  "Goal 16 Score": 67.1506363636364,
+  "Goal 17 Score": 58.8552
+}

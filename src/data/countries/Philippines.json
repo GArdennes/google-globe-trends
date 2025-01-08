@@ -1,290 +1,36 @@
-[
-  {
-    "title": "heidi klum",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 03:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "fuel prices next week philippines",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 03:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhu6O0e6TAvb9bs9_QWG9gWlqUHNNvmUekaOKCrYqaEYRxs3rkruy0cZrEGig",
-    "picture_source": "ABS-CBN Official Website",
-    "news_items": [
-      {
-        "title": "Presyo ng gasolina at diesel, tataas sa susunod na linggo",
-        "snippet": "",
-        "url": "https://www.abs-cbn.com/news/business/2024/12/13/presyo-ng-gasolina-at-diesel-tataas-sa-susunod-na-linggo-2203",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhu6O0e6TAvb9bs9_QWG9gWlqUHNNvmUekaOKCrYqaEYRxs3rkruy0cZrEGig",
-        "source": "ABS-CBN Official Website"
-      },
-      {
-        "title": "Gasoline, diesel price hike seen next week",
-        "snippet": "",
-        "url": "https://www.gmanetwork.com/news/money/companies/929868/gasoline-diesel-price-hike-seen-next-week/story/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxhxw6p5tuCXq390UKAgcH_xrk60cpqQ9WE2_oeDGa3C1sNkpvKnt5wi2tFEw",
-        "source": "GMA Network"
-      },
-      {
-        "title": "DOE sees new round of oil price movement",
-        "snippet": "",
-        "url": "https://manilastandard.net/news/314535897/doe-sees-new-round-of-oil-price-movement.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTakBAxlkwA40G32AuWkyhI2TXV2p5rKREbaI7nWVb-KKCbW4tmNXP4YUG515s",
-        "source": "Manila Standard"
-      }
-    ]
-  },
-  {
-    "title": "south korean president impeachment vote",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 03:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb_Z3YCChib3WjDtgm2Yj_AM4WE0SrBDyOYmo49y7tXVB2rOaVbQ-uM3NIU8I",
-    "picture_source": "The Guardian",
-    "news_items": [
-      {
-        "title": "South Korea impeachment live: jubilation in Seoul as president Yoon Suk Yeol impeached",
-        "snippet": "",
-        "url": "https://www.theguardian.com/world/live/2024/dec/14/south-korea-impeachment-vote-yoon-suk-yeol",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb_Z3YCChib3WjDtgm2Yj_AM4WE0SrBDyOYmo49y7tXVB2rOaVbQ-uM3NIU8I",
-        "source": "The Guardian"
-      },
-      {
-        "title": "South Korea National Assembly votes to impeach President Yoon Suk-yeol",
-        "snippet": "",
-        "url": "https://www.aljazeera.com/news/2024/12/14/south-korea-national-assembly-votes-to-impeach-president-yoon-suk-yeol",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbrNft7e7FGhnbKUAuwr-8cMHnxqxT2aInYDM9tK0_Gl-4QhWgDzjHh8ErRuM",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "A look at the whirlwind events that led to the impeachment of South Korea’s president",
-        "snippet": "",
-        "url": "https://apnews.com/article/south-korea-yoon-martial-law-impeachment-turmoil-timeline-336b2e3defa5c4e36221ca08ae75cbc7",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVkuReUWeoTqInXE7Xeb53PcprdLgp69Vct6CnEP5a7_uqzs4AlWs3M-Q6Z_8",
-        "source": "AP News"
-      }
-    ]
-  },
-  {
-    "title": "moon",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 02:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUqKDzjWAKrK5U4gq6WyZFM96Q7teUuiDnXhWtttm6o-Jc9W9oK4AG8bHFAU4",
-    "picture_source": "Space.com",
-    "news_items": [
-      {
-        "title": "Geminid meteor shower peaks tonight! Here's how to see one of the best meteor showers of the year",
-        "snippet": "",
-        "url": "https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-2024-peaks-tonight-how-to-see-one-of-the-best-meteor-showers-of-the-year",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUqKDzjWAKrK5U4gq6WyZFM96Q7teUuiDnXhWtttm6o-Jc9W9oK4AG8bHFAU4",
-        "source": "Space.com"
-      },
-      {
-        "title": "Final full moon of 2024 will be a lunar rarity",
-        "snippet": "",
-        "url": "https://www.usatoday.com/story/graphics/2024/12/14/december-full-moon-lunar-rarity-2024/76966651007/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkbR7vVCg2QQ16SD0w3PTu640_7tFLk3YhxXlpV8Lkvm3A_dKjihp3Eu7_HUM",
-        "source": "USA Today"
-      },
-      {
-        "title": "December's Cold Moon is the last full moon of 2024. Here's when it peaks and how it got its name.",
-        "snippet": "",
-        "url": "https://www.cbsnews.com/news/december-full-cold-moon-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyZvKyyumRcgqwcJak1PxywkdRhgJ_oxmPyJE0B4s3Dzk76TtzrkOzbOfTwEk",
-        "source": "CBS News"
-      }
-    ]
-  },
-  {
-    "title": "2028",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 02:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcstW8AJp5oZk68uG7ALdzcUhfu1LaxykHuUhZPjVIkpud5TyOcYXjt_lI_1o",
-    "picture_source": "South China Morning Post",
-    "news_items": [
-      {
-        "title": "Lacrosse newbies Philippines confident they have chance of making 2028 Olympics",
-        "snippet": "",
-        "url": "https://www.scmp.com/sport/hong-kong/article/3290816/world-lacrosse-super-sixes-newbies-philippines-confident-they-have-shot-2028-olympics",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcstW8AJp5oZk68uG7ALdzcUhfu1LaxykHuUhZPjVIkpud5TyOcYXjt_lI_1o",
-        "source": "South China Morning Post"
-      },
-      {
-        "title": "Hong Kong eye World Lacrosse Super Sixes as testing ground for 2028 LA Olympics",
-        "snippet": "",
-        "url": "https://www.scmp.com/sport/hong-kong/article/3290688/hong-kong-eye-world-lacrosse-super-sixes-testing-ground-los-angeles-olympics-2028",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_RiIf5sTQPSp0tBAD2so6zBIG7E-Kj1tbqw0OQg2S1s-r3T1CtPcMpQjz31k",
-        "source": "South China Morning Post"
-      },
-      {
-        "title": "Sports Coaching Market to Grow by USD 4.18 Billion (2024-2028), Report on AI-Driven Market Trends and Government Support - Technavio",
-        "snippet": "",
-        "url": "https://finance.yahoo.com/news/sports-coaching-market-grow-usd-012200576.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzn9Rj0l7ggWJ49PHIoEv8Z89hcJuF2_X0Nb3_9kZ_ksNc7nnlAAxpxTMMSeA",
-        "source": "Yahoo Finance"
-      }
-    ]
-  },
-  {
-    "title": "feliz navidad",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 02:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNzMI96xT4w726Om9hY6cIZrcwQSz6Sr298UEMYPFxxeEwr3YiFOs9asfckbU",
-    "picture_source": "The New York Times",
-    "news_items": [
-      {
-        "title": "Singer Turns ‘Feliz Navidad’ Into Protest Anthem Against Yoon Suk Yeol",
-        "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/13/world/asia/south-korea-protest-feliz-navidad.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNzMI96xT4w726Om9hY6cIZrcwQSz6Sr298UEMYPFxxeEwr3YiFOs9asfckbU",
-        "source": "The New York Times"
-      },
-      {
-        "title": "With K-pop and light sticks, South Koreans demanded Yoon’s impeachment",
-        "snippet": "",
-        "url": "https://www.washingtonpost.com/world/2024/12/14/kpop-yoon-impeachment-protest-martial-law/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOD0edCL-1Jz_RIcG2GidGBNBxsQd2KOxqmjzLoSCoHwd0hDoS3Na7CpzqBic",
-        "source": "Washington Post"
-      },
-      {
-        "title": "AP Photos: K-pop light sticks take over protests that fueled impeachment of South Korea's president",
-        "snippet": "",
-        "url": "https://apnews.com/article/south-korea-protesters-photo-gallery-yoon-b17f96063a2635ebc87f35ed9ab5ac5b",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR24rNdxlaEUrnGSK7YbSDkzV9TjMTolJ4sxcQ3_7aHO8f7CPkUjfey3M7cS4A",
-        "source": "AP News"
-      }
-    ]
-  },
-  {
-    "title": "up vs la salle game 3",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 02:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXax3W0U4dcYswSZ4lzT0B2vY8TwbKKSaYXbDEORy3wKtmBx9_Fb5DxqaRm80",
-    "picture_source": "Rappler",
-    "news_items": [
-      {
-        "title": "LIVE UPDATES: La Salle vs UP – UAAP Season 87 men’s basketball finals, Game 3",
-        "snippet": "",
-        "url": "https://www.rappler.com/sports/uaap/finals-game-updates-la-salle-green-archers-up-fighting-maroons-december-15-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXax3W0U4dcYswSZ4lzT0B2vY8TwbKKSaYXbDEORy3wKtmBx9_Fb5DxqaRm80",
-        "source": "Rappler"
-      },
-      {
-        "title": "UAAP Finals: After silencing his doubters anew, Kevin Quiambao vows to leave it all on the floor in Game 3",
-        "snippet": "",
-        "url": "https://www.abs-cbn.com/sports/basketball/2024/12/11/uaap-finals-kevin-quiambao-vows-to-leave-it-all-on-the-floor-in-game-3-0104",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEd-BJaaDal7Ue-ls1SIGNG17IxlM1mxr8mP9hkj72QBoVtqeoN73O7fIgt0w",
-        "source": "ABS-CBN Official Website"
-      },
-      {
-        "title": "UP moves on from Game 2 heartbreak",
-        "snippet": "",
-        "url": "https://tribune.net.ph/2024/12/13/up-moves-on-from-game-2-heartbreak",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4pGuhMWP3RHrKlazxBd877x1mNC4G3rJiZ_EtR7GMs_ZmK83L8PGycKkmpUc",
-        "source": "Daily Tribune"
-      }
-    ]
-  },
-  {
-    "title": "2030",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 01:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "",
-    "picture_source": "FIFA",
-    "news_items": [
-      {
-        "title": "Hosts appointed for FIFA World Cups 2030 and 2034",
-        "snippet": "",
-        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/2030-2034-host-nations-confirmed",
-        "picture": "",
-        "source": "FIFA"
-      },
-      {
-        "title": "Saudi 2034 World Cup: FA chair Debbie Hewitt says it 'wasn't a difficult decision' to back bid",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/articles/c5y85d4x5e6o",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71rCiZFlegAnFulGDevL9ubnD9-R3E7nTI6kw7ygRBirfjhPva5Md60QnnSQ",
-        "source": "BBC"
-      },
-      {
-        "title": "2034 World Cup in Saudi Arabia puts lives at risk: rights groups",
-        "snippet": "",
-        "url": "https://abs-cbn.com/sports/othersports/2024/12/12/2034-world-cup-in-saudi-arabia-puts-lives-at-risk-rights-groups-1732",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UASP8xW04apBNtfhKZuJO0557a77j8vbEIVHatV3ZN813LBqSHnIpN8smJU",
-        "source": "ABS-CBN Official Website"
-      }
-    ]
-  },
-  {
-    "title": "ais spoofing",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 01:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSczMgAYMZk2DjwcfyqJZFWFh9vBP-4V6OM9R7cRwQDMPQrUxbuWAdGzmgKmj4",
-    "picture_source": "Inquirer.net",
-    "news_items": [
-      {
-        "title": "Suspected China Coast Guard ship leaves Zambales uninspected",
-        "snippet": "",
-        "url": "https://newsinfo.inquirer.net/2014737/suspected-china-coast-guard-ship-leaves-zambales-uninspected",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSczMgAYMZk2DjwcfyqJZFWFh9vBP-4V6OM9R7cRwQDMPQrUxbuWAdGzmgKmj4",
-        "source": "Inquirer.net"
-      },
-      {
-        "title": "PCG alleges ‘spoofing’ after China Coast Guard vessel tracked in Zambales, but actually in HK",
-        "snippet": "",
-        "url": "https://www.gmanetwork.com/news/topstories/nation/929942/pcg-alleges-spoofing-after-china-coast-guard-vessel-tracked-in-zambales-but-actually-in-hk/story/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhf6rV9I5nxMLyoshi79Ykf_Qd255ULpk5RpSE9hgPnqBXlzBDDCYpQRtpDKo",
-        "source": "GMA Network"
-      },
-      {
-        "title": "Hontiveros: 13 undocumented Chinese entered PH through dredging ship",
-        "snippet": "",
-        "url": "https://www.abs-cbn.com/news/nation/2024/12/9/hontiveros-13-undocumented-chinese-entered-ph-through-dredging-ship-2331",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqYt4un5qFlQPCebdALORuLwkGTB2QEKKCsBBhy2cZKlkvJRGRH-8QTZPWm6A",
-        "source": "ABS-CBN Official Website"
-      }
-    ]
-  },
-  {
-    "title": "scandal",
-    "link": "https://trends.google.com/trending/rss?geo=PH",
-    "pubdate": "Sat, 14 Dec 2024 00:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaVqdEZznCmqOlKIh9DNLH7aQMUnv_vvol3IdSDX5UFBUFhba0RNHGDsUImd8",
-    "picture_source": "The Times",
-    "news_items": [
-      {
-        "title": "Prince Andrew invited ‘Chinese spy’ into Buckingham Palace",
-        "snippet": "",
-        "url": "https://www.thetimes.com/uk/royal-family/article/prince-andrew-invited-chinese-spy-buckingham-palace-qqpgsvvg6",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaVqdEZznCmqOlKIh9DNLH7aQMUnv_vvol3IdSDX5UFBUFhba0RNHGDsUImd8",
-        "source": "The Times"
-      },
-      {
-        "title": "MI5 investigates Prince Andrew’s cash from China",
-        "snippet": "",
-        "url": "https://www.telegraph.co.uk/royal-family/2024/12/13/prince-andrew-pictured-meeting-chinese-spy-banned-uk/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfaEPkYpuxaaX6JdpZWJNMJOSm2D0T_RoKJ47gujLhZ52be-hVk1M7UO78P_E",
-        "source": "The Telegraph"
-      },
-      {
-        "title": "From prince to pariah: Andrew’s never-ending fall from grace",
-        "snippet": "",
-        "url": "https://www.theguardian.com/uk-news/2024/dec/13/from-prince-to-pariah-andrews-never-ending-fall-from-grace",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDIimwaVA4uDXPf9m7REBzATNdyLMiDjBlgVlZl7uOcdBfjV8GCwT2jhve08w",
-        "source": "The Guardian"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "orange",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "green",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 81.01,
+  "Goal 2 Score": 64.925,
+  "Goal 3 Score": 60.0058571428572,
+  "Goal 4 Score": 82.7435,
+  "Goal 5 Score": 61.38075,
+  "Goal 6 Score": 70.522,
+  "Goal 7 Score": 58.91425,
+  "Goal 8 Score": 69.4067142857143,
+  "Goal 9 Score": 53.3935714285714,
+  "Goal 10 Score": 49.44,
+  "Goal 11 Score": 61.0145,
+  "Goal 12 Score": 91.0604285714286,
+  "Goal 13 Score": 95.4786666666667,
+  "Goal 14 Score": 75.1426666666667,
+  "Goal 15 Score": 57.8638,
+  "Goal 16 Score": 49.5128,
+  "Goal 17 Score": 65.2138
+}

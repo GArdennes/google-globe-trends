@@ -1,283 +1,36 @@
-[
-  {
-    "title": "mainz 05 - bayern",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-    "picture_source": "FCBinside",
-    "news_items": [
-      {
-        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
-        "snippet": "",
-        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-        "source": "FCBinside"
-      },
-      {
-        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
-      }
-    ]
-  },
-  {
-    "title": "augsburgo - leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-    "picture_source": "BILD.de",
-    "news_items": [
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
-        "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
-      }
-    ]
-  },
-  {
-    "title": "cagliari - atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-    "picture_source": "Virgilio Sport",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
-        "snippet": "",
-        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-        "source": "Virgilio Sport"
-      },
-      {
-        "title": "La vostra formazione: voglia di Retegui dal 1′",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "parley",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5u9oVgN1wuXLIpqth6dbN7LJwe3a9cUDKIMh-mz6XHB1u8rmJcdtz6NIlpAQ",
-    "picture_source": "Zambia: News Diggers!",
-    "news_items": [
-      {
-        "title": "Cost of winning parley seat in 2021 was K3.8m – TIZ report – Zambia",
-        "snippet": "",
-        "url": "https://diggers.news/local/2024/12/12/cost-of-winning-parley-seat-in-2021-was-k3-8m-tiz-report/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5u9oVgN1wuXLIpqth6dbN7LJwe3a9cUDKIMh-mz6XHB1u8rmJcdtz6NIlpAQ",
-        "source": "Zambia: News Diggers!"
-      },
-      {
-        "title": "Political party funders don’t want to be known – Kateka – Zambia",
-        "snippet": "",
-        "url": "https://diggers.news/local/2024/12/13/political-party-funders-dont-want-to-be-known-kateka/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3H63cVRJzB76bjZ8McPpVh16_HfUsoJshBiz-pfVsdULNtkEXZhVtq0N3q0k",
-        "source": "Zambia: News Diggers!"
-      },
-      {
-        "title": "Speaker calls for special Parley sitting on Dec 17th – Zambia",
-        "snippet": "",
-        "url": "https://diggers.news/local/2024/12/14/speaker-calls-for-special-parley-sitting-on-dec-17th/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUjZEcJoJeD-mTqzf6BOADcIKCCnNP8SsmdZ-ntc6QMZU1HVcbJLoPNhdPuFE",
-        "source": "Zambia: News Diggers!"
-      }
-    ]
-  },
-  {
-    "title": "rcd espanyol - osasuna",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyJcqCT7pbsK_MoBW4P7qRLL-pG7zZaC4cVfEz8u1tfAhAHpj3WSPmPFGT1I",
-    "picture_source": "Marca.com",
-    "news_items": [
-      {
-        "title": "Espanyol - Osasuna en directo | LaLiga en vivo",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/laliga-ea-sports/espanyol-osasuna/2024/12/14/01_0101_20241214_177_450-directo.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyJcqCT7pbsK_MoBW4P7qRLL-pG7zZaC4cVfEz8u1tfAhAHpj3WSPmPFGT1I",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Espanyol vs Osasuna: Apuestas, Pronóstico y Cuotas",
-        "snippet": "",
-        "url": "https://www.oddschecker.com/es/pronosticos/futbol/primera-division/2024/diciembre/pronostico-espanyol-vs-osasuna-14-12-24",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6SSActYbtFn5xEEfhwsLt4o1jJmFKbHvkBf6svZnVPEAq9GFVEobyvPKbU4",
-        "source": "Oddschecker"
-      },
-      {
-        "title": "Portada ‘El 1900’ del sábado 14 de diciembre de 2024",
-        "snippet": "",
-        "url": "https://el1900.com/portada-el1900-14-diciembre-2024-espanyol-ca-osasuna/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfp8O-Fn4mBFoYvxlNZGcQz-wscct86d1cDCfXXCDbExYzmN3nes7oJUDV2l8",
-        "source": "El 1900"
-      }
-    ]
-  },
-  {
-    "title": "julio fuenmayor alcalde de valencia",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Sat, 14 Dec 2024 00:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkdjL0Np457cmpfUx7CtOCck0DSGDw5jFqaY3xc7_XE0M62hL5gMBCRHSxN5c",
-    "picture_source": "NTN24",
-    "news_items": [
-      {
-        "title": "Alcalde de Valencia habría renunciado a su cargo por escándalo de corrupción",
-        "snippet": "",
-        "url": "https://www.ntn24.com/noticias-actualidad/alcalde-de-valencia-habria-renunciado-a-su-cargo-por-escandalo-de-corrupcion-528788",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkdjL0Np457cmpfUx7CtOCck0DSGDw5jFqaY3xc7_XE0M62hL5gMBCRHSxN5c",
-        "source": "NTN24"
-      },
-      {
-        "title": "Juramentan a Dina Castillo como alcaldesa de Valencia",
-        "snippet": "",
-        "url": "https://ultimasnoticias.com.ve/noticias/carabobo/juramentan-a-dina-castillo-como-alcaldesa-de-valencia/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvx82cCZvAed2AiCqI9V-DTagwv-DRsvv1kALfTKEVW8hYe_IwDTmR28ZRPvQ",
-        "source": "Últimas Noticias"
-      },
-      {
-        "title": "Concejo Municipal de Valencia designa alcaldesa encargada tras renuncia del psuvista Julio Fuenmayor",
-        "snippet": "",
-        "url": "https://efectococuyo.com/politica/concejo-municipal-valencia-alcaldesa-encargada-renuncia-julio-fuenmayor/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXvSLGrAbS8wyy-zVfAFg2XrEBgjnWonhtc14-LTQr-i1XfDcePmKN-Eg0Qdw",
-        "source": "Efecto Cocuyo"
-      }
-    ]
-  },
-  {
-    "title": "eeuu trinidad y tobago venezuela",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Fri, 13 Dec 2024 21:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtKQquBekthGc6HcNXIaZdkIsPzPAz9Jt2jfgCJ0B0p1MUVLAN-P3FJ7WiMb8",
-    "picture_source": "teleSUR",
-    "news_items": [
-      {
-        "title": "Trinidad y Tobago desmiente que acuerdo con Comando Sur sea para promover injerencias en la región",
-        "snippet": "",
-        "url": "https://www.telesurtv.net/trinidad-y-tobago-acuerda-con-comando-sur-desplegar-militares-en-caso-de-conflicto-en-venezuela/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtKQquBekthGc6HcNXIaZdkIsPzPAz9Jt2jfgCJ0B0p1MUVLAN-P3FJ7WiMb8",
-        "source": "teleSUR"
-      },
-      {
-        "title": "Trinidad y Tobago abre las puertas a EEUU para enviar tropas en caso de un \"conflicto\" en Venezuela",
-        "snippet": "",
-        "url": "https://www.diariolasamericas.com/america-latina/trinidad-y-tobago-abre-las-puertas-eeuu-enviar-tropas-caso-un-conflicto-venezuela-n5368179",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRDZV43uyExuPhdQJje2YQutVg3X63YjbaasNaMYzNcYdSLuFecCo_cGWBiaA",
-        "source": "diariolasamericas.com"
-      },
-      {
-        "title": "John Kirby descarta que EE.UU. vaya a intervenir militarmente en Venezuela",
-        "snippet": "",
-        "url": "https://www.globovision.com/internacional/31850/john-kirby-descarta-que-eeuu-vaya-a-intervenir-militarmente-en-venezuela",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOdYoZDqsPWqDZK0w7-nPeg8aiMFzYKcoBt3PeaT48hvmdGvP_crQU7KzvWgo",
-        "source": "Globovisión"
-      }
-    ]
-  },
-  {
-    "title": "timberwolves - lakers",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Fri, 13 Dec 2024 17:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77jxeK81UkAHVwnEIqtqXl3nQNXg46GPo_ooqt5A8EEOpV_BpX97G1nMJ6Yw",
-    "picture_source": "ESPN",
-    "news_items": [
-      {
-        "title": "Timberwolves 97-87 Lakers (Dec 13, 2024) Final Score",
-        "snippet": "",
-        "url": "https://www.espn.com/nba/game/_/gameId/401736804/lakers-timberwolves",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77jxeK81UkAHVwnEIqtqXl3nQNXg46GPo_ooqt5A8EEOpV_BpX97G1nMJ6Yw",
-        "source": "ESPN"
-      },
-      {
-        "title": "Los Angeles Lakers vs Minnesota Timberwolves Dec 13, 2024 Game Summary",
-        "snippet": "",
-        "url": "https://www.nba.com/game/lal-vs-min-0022401210",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbgFiO4H0LD8ZjtT6zf8ZNURCaeD2K2qZ45DiHhNyjv0E6tdaTRjuW62OAnlE",
-        "source": "NBA.com"
-      },
-      {
-        "title": "Jaden McDaniels’ return to his dominant defensive self gives Wolves a new edge - The Athletic",
-        "snippet": "",
-        "url": "https://www.nytimes.com/athletic/5993473/2024/12/14/jaden-mcdaniels-timberwolves-defense-lakers/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2EZirdPe7yeKXAxqsY-BY_t_g1kZG-emSKBZdxZkRP0YoafRkHZfZ35Wxxdg",
-        "source": "The New York Times"
-      }
-    ]
-  },
-  {
-    "title": "gendarme argentino",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Fri, 13 Dec 2024 16:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "hidrocentro carabobo sin agua",
-    "link": "https://trends.google.com/trending/rss?geo=VE",
-    "pubdate": "Fri, 13 Dec 2024 12:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYmu2UukVgCs2acQmnfllijRZtLUlDAhsYhA4Lx1ic7G6yV72U4B-AQ3DrOAo",
-    "picture_source": "El Carabobeño",
-    "news_items": [
-      {
-        "title": "Sin agua cinco municipios de Carabobo y uno de Aragua por reparación de tubería",
-        "snippet": "",
-        "url": "https://www.el-carabobeno.com/sin-agua-cinco-municipios-de-carabobo-y-uno-de-aragua-por-reparacion-de-tuberia/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYmu2UukVgCs2acQmnfllijRZtLUlDAhsYhA4Lx1ic7G6yV72U4B-AQ3DrOAo",
-        "source": "El Carabobeño"
-      },
-      {
-        "title": "Hidrocentro suspende el suministro de agua en cinco municipios por reparación de tubería",
-        "snippet": "",
-        "url": "https://www.notitarde.com.ve/pais/64326/hidrocentro-suspendera-suministro-de-agua-a-cinco-municipios-por-reparacion-de-tuberia",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpiZZzxOumGSDOf7tGJ1P0P0WnZ-4saTUw6BeJWqQt9C7VswOm9pVql4gDauk",
-        "source": "Notitarde"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "red",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "orange",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 20.4085,
+  "Goal 2 Score": 52.3515,
+  "Goal 3 Score": 69.4758461538461,
+  "Goal 4 Score": 78.12225,
+  "Goal 5 Score": 65.335,
+  "Goal 6 Score": 76.1306,
+  "Goal 7 Score": 79.4725,
+  "Goal 8 Score": 74.086,
+  "Goal 9 Score": 38.6412857142857,
+  "Goal 10 Score": 28.5715,
+  "Goal 11 Score": 62.127,
+  "Goal 12 Score": 82.0526666666667,
+  "Goal 13 Score": 86.5445,
+  "Goal 14 Score": 82.5815,
+  "Goal 15 Score": 78.3348,
+  "Goal 16 Score": 29.7042,
+  "Goal 17 Score": 57.949
+}

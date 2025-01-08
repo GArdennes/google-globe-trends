@@ -1,312 +1,36 @@
-[
-  {
-    "title": "mainz 05 - bayern",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-    "picture_source": "FCBinside",
-    "news_items": [
-      {
-        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
-        "snippet": "",
-        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-        "source": "FCBinside"
-      },
-      {
-        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
-      }
-    ]
-  },
-  {
-    "title": "arsenal - everton",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Premier League Arsenal versus Everton kick off 15:00 Sat 14 Dec 2024",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c047zvkyd10t",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-        "source": "BBC"
-      },
-      {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
-        "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-        "source": "Arsenal.com"
-      },
-      {
-        "title": "ARSENAL V EVERTON: POSSIBLE LINEUPS!!",
-        "snippet": "",
-        "url": "https://www.besoccer.com/new/live-arsenal-v-everton-1341339",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIFquKfgVaKKu9lzaForaKo_zNTDimY8CM9JCIuf2hoigCNZjVKPfHw69iauw",
-        "source": "Besoccer"
-      }
-    ]
-  },
-  {
-    "title": "nijar",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCUxQ-TLGED-AR1susiyAbjx4wcGfdi1elEtxcJkLD4tSj0EHqAtgnenxVZg",
-    "picture_source": "EL PAÍS",
-    "news_items": [
-      {
-        "title": "Dos detenidos por matar a un hombre a patadas para robarle el móvil y la cartera",
-        "snippet": "",
-        "url": "https://elpais.com/espana/2024-12-14/dos-detenidos-por-matar-a-un-hombre-a-patadas-para-robarle-el-movil-y-la-cartera.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCUxQ-TLGED-AR1susiyAbjx4wcGfdi1elEtxcJkLD4tSj0EHqAtgnenxVZg",
-        "source": "EL PAÍS"
-      },
-      {
-        "title": "Un menor asesina de una patada a un hombre que el día anterior le había intentado robar un patinete",
-        "snippet": "",
-        "url": "https://www.eldebate.com/espana/20241214/menor-asesina-patada-hombre-dia-anterior-le-habia-intentado-robar-patinete_253314.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu455rs5EYw0eARLB9T40v2xeAf7orkfEuG7yi0Pf15rR_S4yLj_mMJTMIFdU",
-        "source": "El Debate"
-      },
-      {
-        "title": "La Guardia Civil detiene a dos jóvenes por la muerte de un hombre en Níjar (Almería) tras robarle",
-        "snippet": "",
-        "url": "https://www.elconfidencial.com/espana/2024-12-14/guardia-civil-detiene-jovenes-muerte-hombre-robarle-nijar-almeria-1tna_4023755/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmC-NX7ywRQVPhEve57XDBuMpTMXgbF7w03jnI4ZMGKDeNRBEe6M94TInp7g",
-        "source": "El Confidencial"
-      }
-    ]
-  },
-  {
-    "title": "edurne",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0XtKkybsQK_gFPxWMYmkOz8bG6AYmSXpo7Zvic7K3nIhfz7JFdYYhp8HeJBE",
-    "picture_source": "HOLA",
-    "news_items": [
-      {
-        "title": "Edurne cuenta cómo serán sus primeras Navidades en Italia con David de Gea y su hija Yanay",
-        "snippet": "",
-        "url": "https://www.hola.com/actualidad/20241213735234/edurne-primeras-navidades-italia-familia/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0XtKkybsQK_gFPxWMYmkOz8bG6AYmSXpo7Zvic7K3nIhfz7JFdYYhp8HeJBE",
-        "source": "HOLA"
-      },
-      {
-        "title": "Edurne confiesa que pasará la Navidad con su hija y David de Gea: \"Nos vamos a Florencia\"",
-        "snippet": "",
-        "url": "https://www.lasexta.com/programas/arusitys/edurne-confiesa-que-pasara-navidad-hija-david-gea-nos-vamos-florencia_202412116759423785d24c0001d7eae3.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-zMj7CYPS9aGvt6NSyNX2K9RLFXAmg6RAn_RZ4zuKprNmRHAgHVBXDdFm6aE",
-        "source": "LaSexta"
-      },
-      {
-        "title": "Edurne habla por primera vez sobre su separación: \"Lo estoy llevando muy bien porque tengo bastante ayuda\"",
-        "snippet": "",
-        "url": "https://www.elperiodicoextremadura.com/vida-y-estilo/gente/2024/12/13/edurne-habla-primera-vez-separacion-112593268.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHt2N4sUCNAoWV2FtB1F0KD16M7nGoR4GAMBvhSOsX_SMvLST3Oc-2kmf7DsY",
-        "source": "El Periódico Extremadura"
-      }
-    ]
-  },
-  {
-    "title": "champions burger barakaldo",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRW1OZfh-9RrDnvSbobTLjl7B9Ph_2JifjSKkJ8hshPo-DtVmZsBX-be6rTGQ",
-    "picture_source": "Deia",
-    "news_items": [
-      {
-        "title": "La mejor hamburguesa europea se decide en Barakaldo",
-        "snippet": "",
-        "url": "https://www.deia.eus/bizkaia/2024/12/13/mejor-hamburguesa-europea-decide-barakaldo-9049060.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRW1OZfh-9RrDnvSbobTLjl7B9Ph_2JifjSKkJ8hshPo-DtVmZsBX-be6rTGQ",
-        "source": "Deia"
-      },
-      {
-        "title": "Aplazan al viernes el regreso de 'The Champions Burger' a Barakaldo: «No ha sido una decisión fácil»",
-        "snippet": "",
-        "url": "https://www.elcorreo.com/jantour/aplazan-viernes-regreso-the-champions-burger-barakaldo-20241212192706-nt.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMlk1dxebTh-M-2ojYX1lEWqqzGoTtL4NmtRt-qvp3CMh1rwnlG6KcaHR0ka0",
-        "source": "El Correo"
-      },
-      {
-        "title": "El mayor evento de hamburguesas de España llega a Euskadi: se busca la mejor de Europa",
-        "snippet": "",
-        "url": "https://cronicavasca.elespanol.com/gastronomia/20241211/el-evento-de-hamburguesas-espana-euskadi-europa/907659334_0.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ztvbiqmnw6-RmFs4szbeP07v3dQsIiKhRGBuAqkd--sAgNOLuyhzms0N3Xc",
-        "source": "Crónica Vasca"
-      }
-    ]
-  },
-  {
-    "title": "kevin costner",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6O5kffPsVitksTe_9qVmutbpXAZP4RxsxJwTZBzQO5hPIc_c3R8d8tKZqgYc",
-    "picture_source": "Esquire",
-    "news_items": [
-      {
-        "title": "Luke Grimes Is Ready to Say Goodbye to ‘Yellowstone’",
-        "snippet": "",
-        "url": "https://www.esquire.com/entertainment/tv/a63137758/luke-grimes-yellowstone-season-5-ending-interview/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6O5kffPsVitksTe_9qVmutbpXAZP4RxsxJwTZBzQO5hPIc_c3R8d8tKZqgYc",
-        "source": "Esquire"
-      },
-      {
-        "title": "'Yellowstone' Actor Says Kevin Costner’s Departure Made for ‘Easiest Season We’ve Ever Filmed’",
-        "snippet": "",
-        "url": "https://people.com/yellowstone-actor-says-kevin-costner-exit-made-season-easy-8761611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2PuO2O9CASZkD3gwQmVpjsktZ5RbCkuODXlQIzTlnKxH9iUC7H_QXcyyiz5c",
-        "source": "People.com"
-      },
-      {
-        "title": "No Offense To Kevin Costner (But Kind Of Offense To Kevin Costner) As Luke Grimes Shares Honest Take On Losing Yellowstone's Star For Final Episodes",
-        "snippet": "",
-        "url": "https://www.yahoo.com/entertainment/no-offense-kevin-costner-kind-163825574.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3bpuNCsNmlvnPamEf2fP4_F9LRuxfXQ5Y9ocOWHTaYKSqZ94MrVsIMOddmo",
-        "source": "Yahoo"
-      }
-    ]
-  },
-  {
-    "title": "marcos llorente",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvgaBwLQadYVh7MGnPBg6rwcpr12CEOPwHy63s_05ptL1sQ-l6N1LmMbiDgPs",
-    "picture_source": "El Mundo",
-    "news_items": [
-      {
-        "title": "El 'biohacking' de Marcos Llorente, paseando sin camiseta a cero grados: esto es lo que dicen los expertos en inmunología sobre los posibles beneficios de exponerse al frío",
-        "snippet": "",
-        "url": "https://www.elmundo.es/vida-sana/bienestar/2024/12/12/675aa9dbfc6c83c6258b4580.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvgaBwLQadYVh7MGnPBg6rwcpr12CEOPwHy63s_05ptL1sQ-l6N1LmMbiDgPs",
-        "source": "El Mundo"
-      },
-      {
-        "title": "Exposición al frío semidesnudo: la nueva idea saludable de Marcos Llorente",
-        "snippet": "",
-        "url": "https://www.libertaddigital.com/chic/vida-estilo/2024-12-11/exposicion-al-frio-semidesnudo-la-nueva-idea-saludable-de-marcos-llorente-7196723/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7k6QYk1UWV_rpSFtQBPYOQvN3Vp4ynOf333b4_uv-hzvGIXl75jYwGY6XBc",
-        "source": "Libertad Digital"
-      },
-      {
-        "title": "Linchamiento en redes a Marcos Llorente por sacar a sus perros a 0ºC sin camiseta: “Este hombre anda fatal”",
-        "snippet": "",
-        "url": "https://www.lavanguardia.com/mascotas/20241212/10194235/linchamiento-redes-marcos-llorente-sacar-perros-0-c-camiseta-hombre-anda-fatal-pmv.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkrnH740bVlt7xe4GY2_W3vdH7WwlhaC6QYJ4MvARTF7NbzkY4FSmlWz5SsKw",
-        "source": "La Vanguardia"
-      }
-    ]
-  },
-  {
-    "title": "jennifer lopez",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUIV9HhsvjPhWR-FepzetpONsj_dZaFk5w5ifUu21mJYiQrCX5AJDUGbe_kLE",
-    "picture_source": "HOLA",
-    "news_items": [
-      {
-        "title": "Jennifer Lopez celebra a su mamá y le agradece por ‘estar ahí para mí siempre’",
-        "snippet": "",
-        "url": "https://www.hola.com/us-es/celebrities/20241213735907/jennifer-lopez-celebra-mama-guadalupe-rodriguez-cumpleanos-fotos/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUIV9HhsvjPhWR-FepzetpONsj_dZaFk5w5ifUu21mJYiQrCX5AJDUGbe_kLE",
-        "source": "HOLA"
-      },
-      {
-        "title": "El impactante aspecto de la madre de Jennifer Lopez por su 79 cumpleaños",
-        "snippet": "",
-        "url": "https://woman.elperiodico.com/celebrities/impactante-madre-jennifer-lopez-guadalupe-112574462",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1vIJKIu-bLB3e7K1BJlJhb4wMIgR3-RQlWavlhfkNIowOoBfotOayBNY4CiA",
-        "source": "Woman Madame Figaro"
-      },
-      {
-        "title": "Jennifer Lopez sale de compras por Beverly Hills con una impresionante chaqueta Dior que corta la respiración",
-        "snippet": "",
-        "url": "https://us.marca.com/tiramillas/celebrities/2024/12/13/675cb2be46163f43b48b4594.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9-OAtbKnRPjIJMrchp55QC8hHf_0tjrk5UDSlhDuj2mXdOo6RKWQyR6uOHFk",
-        "source": "MARCA Usa"
-      }
-    ]
-  },
-  {
-    "title": "augsburgo - leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ9JF1al7IgtsMLFydz_g8p5VhxLkTxdby59z_lCbk12-Q3aAyt6cBfJMMWJs",
-    "picture_source": "Relevo",
-    "news_items": [
-      {
-        "title": "Osasuna 2 - Deportivo Alavés 2: resumen, goles y resultado de LaLiga EA Sports",
-        "snippet": "",
-        "url": "https://www.relevo.com/futbol/liga-primera/osasuna-deportivo-alaves-directo-sigue-20241208105215-di.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ9JF1al7IgtsMLFydz_g8p5VhxLkTxdby59z_lCbk12-Q3aAyt6cBfJMMWJs",
-        "source": "Relevo"
-      },
-      {
-        "title": "Venezia 2-2 Como 1907: resultado, resumen y goles",
-        "snippet": "",
-        "url": "https://us.as.com/resultados/futbol/italia/2024_2025/directo/regular_a_15_484393/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDV6casvP7aPw92a8AyauNzgiUOijNb8VPMKjCDFuZkg6PDzSSh7M2FjJxiK4",
-        "source": "AS USA Latino"
-      },
-      {
-        "title": "Sin Bryan, continúa el sueño europeo",
-        "snippet": "",
-        "url": "https://www.sport.es/es/noticias/laliga/bryan-continua-sueno-europeo-112408271",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5-mxaoxDYsb3sxtLgOjnQIu9NHCyr9dMaeouRja9sq8MirOKQPc3QM5A69Ts",
-        "source": "SPORT"
-      }
-    ]
-  },
-  {
-    "title": "sheila casas",
-    "link": "https://trends.google.com/trending/rss?geo=ES",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQH_TlCCzun7LqrV6w8zCxQnMj308SCHwE23b8ERAtIEtaXouhk-RyRdP8AGFA",
-    "picture_source": "La Vanguardia",
-    "news_items": [
-      {
-        "title": "Mario Casas se pronuncia por primera vez sobre el idilio entre su hermana Sheila y Escassi: “Se le ve majísimo y maravilloso”",
-        "snippet": "",
-        "url": "https://www.lavanguardia.com/gente/20241212/10193890/mario-casas-pronuncia-primera-vez-idilio-hermana-sheila-escassi-le-ve-majisimo-maravilloso-gvm2.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQH_TlCCzun7LqrV6w8zCxQnMj308SCHwE23b8ERAtIEtaXouhk-RyRdP8AGFA",
-        "source": "La Vanguardia"
-      },
-      {
-        "title": "Mario Casas se plantea unas navidades junto a Álvaro Muñoz Escassi",
-        "snippet": "",
-        "url": "https://www.elperiodico.com/cuore/famosos/2024/12/12/mario-casas-plantea-navidades-alvaro-munoz-escassi-112550882",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2-XI5v9qTSSh67Shw9_nNeV8HMqa-8U8yJZlkQ5x3qR7Kv1QOfsnznWp3b4c",
-        "source": "El Periódico"
-      },
-      {
-        "title": "Mario Casas habla por primera vez del amor entre su hermana Sheila y Escassi",
-        "snippet": "",
-        "url": "https://www.levante-emv.com/videos/gente/2024/12/12/mario-casas-habla-primera-vez-112562680.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR73LjG30LlMZDKuhOdtmEgfS5ZpKXF3W6YYAIFBu9OHRR5StudEHSWuxCdgjw",
-        "source": "Levante-EMV"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "yellow",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "green",
+  "Goal 6 Rating": "yellow",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "orange",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": 98.763,
+  "Goal 2 Score": 66.5845,
+  "Goal 3 Score": 94.7997692307692,
+  "Goal 4 Score": 96.17525,
+  "Goal 5 Score": 86.545,
+  "Goal 6 Score": 85.9386,
+  "Goal 7 Score": 79.1035,
+  "Goal 8 Score": 78.3384285714286,
+  "Goal 9 Score": 90.4262857142857,
+  "Goal 10 Score": 80.515,
+  "Goal 11 Score": 97.49925,
+  "Goal 12 Score": 65.8497142857143,
+  "Goal 13 Score": 82.9,
+  "Goal 14 Score": 60.1126666666667,
+  "Goal 15 Score": 67.9376,
+  "Goal 16 Score": 78.5302727272727,
+  "Goal 17 Score": 61.9342
+}

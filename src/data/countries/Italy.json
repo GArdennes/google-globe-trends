@@ -1,290 +1,36 @@
-[
-  {
-    "title": "arsenal - everton",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Premier League Arsenal versus Everton kick off 15:00 Sat 14 Dec 2024",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c047zvkyd10t",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-        "source": "BBC"
-      },
-      {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
-        "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-        "source": "Arsenal.com"
-      },
-      {
-        "title": "Should Arsenal rest either Thomas Partey or Jurrien Timber against Everton?",
-        "snippet": "",
-        "url": "https://onefootball.com/fr/news/should-arsenal-rest-either-thomas-partey-or-jurrien-timber-against-everton-40437732",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvWSPc_-bl0AblbfZftFMbNUvJ4y2BSCQgyOczhzX-qZvwHOph8It7iKd1evY",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "liverpool - fulham",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS_BTkMQCjguhSGqGDthQ5UuFNCnqs4wfPOSAViwYPr1zKVFER9c281-RDaOE",
-    "picture_source": "OneFootball",
-    "news_items": [
-      {
-        "title": "“They’re in Great Form” – Alan Shearer Previews Liverpool’s Premier League Clash with Fulham",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/theyre-in-great-form-alan-shearer-previews-liverpools-premier-league-clash-with-fulham-40437623",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS_BTkMQCjguhSGqGDthQ5UuFNCnqs4wfPOSAViwYPr1zKVFER9c281-RDaOE",
-        "source": "OneFootball"
-      },
-      {
-        "title": "The five Fulham players set to miss Liverpool clash as key defensive duo ruled out",
-        "snippet": "",
-        "url": "https://www.rousingthekop.com/2024/12/14/the-five-fulham-players-set-to-miss-liverpool-clash-as-key-defensive-duo-ruled-out/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDRHKSMvV-LPZOR5hjjDe7-9zrRO821AMv4rntzS4pm4yG3jTfvjsngTZIHw",
-        "source": "Rousing The Kop"
-      },
-      {
-        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
-        "snippet": "",
-        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
-        "source": "Liverpool FC"
-      }
-    ]
-  },
-  {
-    "title": "mainz - bayern monaco",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "novara - triestina",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp9u7Ud0hwpKiRfc_mAEvtPsoIAIZgIcUXWTUB1uA2EwPipKwuThWSpwI5iDk",
-    "picture_source": "La Stampa",
-    "news_items": [
-      {
-        "title": "Calcio, serie C: per il Novara al Piola c’è la Triestina dell’ex Tesser",
-        "snippet": "",
-        "url": "https://www.lastampa.it/novara/2024/12/14/news/calcio_serie_c_per_il_novara_al_piola_c_e_la_triestina_dell_ex_tesser-14885029/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp9u7Ud0hwpKiRfc_mAEvtPsoIAIZgIcUXWTUB1uA2EwPipKwuThWSpwI5iDk",
-        "source": "La Stampa"
-      },
-      {
-        "title": "La Triestina a Novara cerca altri punti",
-        "snippet": "",
-        "url": "https://www.rainews.it/tgr/fvg/articoli/2024/12/la-triestina-a-novara-cerca-altri-punti-65fead83-e20f-49c4-b59c-9e84241b97a6.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThce4iUQa3MPvGUR4B1BCdn_omWbvgKekD2lNPBMqW4Ds_Sq6u0p3_P0Qj3pU",
-        "source": "RaiNews"
-      },
-      {
-        "title": "Tesser verso il Novara: \"Serve lo spirito visto con il Vicenza\"",
-        "snippet": "",
-        "url": "https://www.citysport.news/it/notizie/triestina/tesser-verso-il-novara-quot-serve-lo-spirito-visto-con-il-vicenza-quot.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEyoJuUEnPHJr8tmyA_NH-ggLWO23UFyr-h34HZ2CRZQ8jn_RAs91xfnXNjbY",
-        "source": "Citysport.news"
-      }
-    ]
-  },
-  {
-    "title": "turris - crotone",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlxWv1xAgpjJzpxXdVc_5jxEppCL-B4G49FE6J5dE7Vv8RB-aDLj1X6F0G3OI",
-    "picture_source": "Gazzetta del Sud",
-    "news_items": [
-      {
-        "title": "Il Crotone nella tana della Turris. Da valutare Tumminello e Gomez",
-        "snippet": "",
-        "url": "https://catanzaro.gazzettadelsud.it/articoli/calcio/2024/12/13/il-crotone-nella-tana-della-turris-da-valutare-tumminello-e-gomez-07558837-4571-44d9-bb61-2da7c9206dac/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlxWv1xAgpjJzpxXdVc_5jxEppCL-B4G49FE6J5dE7Vv8RB-aDLj1X6F0G3OI",
-        "source": "Gazzetta del Sud"
-      },
-      {
-        "title": "VIDEO | SERIE C, Turris- Crotone, Longo: \"Dobbiamo rialzarci e dimostrare la nostra forza\"",
-        "snippet": "",
-        "url": "https://wesud.it/video-serie-c-turris-crotone-longo-dobbiamo-rialzarci-e-dimostrare-la-nostra-forza/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkb1kIuCp11vvyK3I7DRVKJBN_qB-BDLdQa3sLHlcwEld7eaeK_kdK54UAUu0",
-        "source": "WeSud"
-      },
-      {
-        "title": "Crotone, Longo: «Con la Turris partita surreale, isoliamoci per non cadere della loro trappola»",
-        "snippet": "",
-        "url": "https://www.corrieredellacalabria.it/2024/12/13/crotone-longo-con-la-turris-partita-surreale-isoliamoci-per-non-cadere-della-loro-trappola/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPd_4sCxzIb1FOQrem8N3iQzK9oiYkG5W4spOZ_R1EHoeiVqAm3JXFnwZgl0",
-        "source": "Corriere della Calabria"
-      }
-    ]
-  },
-  {
-    "title": "salvatore bagni",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF5tFK5l7dOCCv8oV4ivC3utsWSxuf86TshcWt_HfuHd6B-roRQwuglx7MDso",
-    "picture_source": "HuffPost Italia",
-    "news_items": [
-      {
-        "title": "Salvatore Bagni: \"Dopo la morte di mio figlio mi feci sterilizzare. Andai da chi trafugò la salma col giubbotto antiproiettile\"",
-        "snippet": "",
-        "url": "https://www.huffingtonpost.it/life/2024/12/14/news/salvatore_bagni_dopo_la_morte_di_mio_figlio_mi_feci_sterilizzare_andai_da_chi_trafugo_la_salma_col_giubbotto_antiproietti-17997332/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF5tFK5l7dOCCv8oV4ivC3utsWSxuf86TshcWt_HfuHd6B-roRQwuglx7MDso",
-        "source": "HuffPost Italia"
-      },
-      {
-        "title": "Salvatore Bagni: «Dopo la morte di mio figlio mi feci sterilizzare. Rubarono la bara, andai dai sequestratori col giubbotto antiproiettile»",
-        "snippet": "",
-        "url": "https://www.corriere.it/sport/calcio/24_dicembre_14/salvatore-bagni-intervista-e072199a-95d8-4dbd-99bc-7d555eefexlk.shtml",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEewkedtgW7fug7F0fc7YrxaiDFcJxMqSD0euVLObj_7Tak5NtZfLYTiMl0UA",
-        "source": "Corriere della Sera"
-      },
-      {
-        "title": "Bagni: “Dopo la morte di mio figlio mi feci sterilizzare. Rubarono la bara e io…”",
-        "snippet": "",
-        "url": "https://www.golssip.it/news/bagni-morte-figlio-raffaele-bara-riscatto/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8OnT-D7MpiHhkpUc04xsIJjbHX7ddvCkiTwA6cPE8oea3ZxvAGXAztDwy1_Q",
-        "source": "Golssip"
-      }
-    ]
-  },
-  {
-    "title": "presidente georgia",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReWEoGaF9GeHNsJ6ehOwqWjAWrSBU7y_dA6kS3sdydtme--PxUkGQLFkvXQqw",
-    "picture_source": "Il Post",
-    "news_items": [
-      {
-        "title": "In Georgia c’è un nuovo presidente della Repubblica, tra molte proteste",
-        "snippet": "",
-        "url": "https://www.ilpost.it/2024/12/14/elezione-presidente-georgia-proteste/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReWEoGaF9GeHNsJ6ehOwqWjAWrSBU7y_dA6kS3sdydtme--PxUkGQLFkvXQqw",
-        "source": "Il Post"
-      },
-      {
-        "title": "Georgia, l'ex calciatore Mikhail Kavelashvili eletto presidente",
-        "snippet": "",
-        "url": "https://tg24.sky.it/mondo/2024/12/14/georgia-calciatore-kavelashvili-presidente",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxUUFmteO32W9OaBrdcJewtesjW308ZX-KXdVGdrRSYh2WAbOLUotnefPfZjg",
-        "source": "Sky TG24"
-      },
-      {
-        "title": "Eletto nuovo presidente dell'estrema destra. La presidente in carica denuncia: 'Voto illegittimo'",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2024/12/14/eletto-nuovo-presidente-dellestrema-destra.-la-presidente-in-carica-denuncia-voto-illegittimo_6823bf32-cc1c-4111-aaf3-18e80a7c4978.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQy10XoaExKasb7t7Q6yVTJvovM6iTd9sKPxNc_e5aJ8hy0wfV48LhtVTgDuE",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "augsburg - leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-    "picture_source": "OneFootball",
-    "news_items": [
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
-        "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
-      }
-    ]
-  },
-  {
-    "title": "chiara mastroianni",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScOH7clJUStweSYBYObrYHzMxBUFRJmbg-CTFRT8maH_yPuXXH19FVrxMK47c",
-    "picture_source": "Il Sole 24 ORE",
-    "news_items": [
-      {
-        "title": "Mastroianni, l'omaggio al Moma di New York a 100 anni dalla nascita",
-        "snippet": "",
-        "url": "https://stream24.ilsole24ore.com/video/italia/mastroianni-omaggio-moma-new-york-100-anni-nascita/AGxZKjkB",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScOH7clJUStweSYBYObrYHzMxBUFRJmbg-CTFRT8maH_yPuXXH19FVrxMK47c",
-        "source": "Il Sole 24 ORE"
-      },
-      {
-        "title": "\"Il nostro Mastroianni tra cinema e tortellini\"",
-        "snippet": "",
-        "url": "https://www.ilrestodelcarlino.it/bologna/cronaca/il-nostro-mastroianni-tra-cinema-61c1b5f5",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBq0Uk3CWUnBlTxUndUBBM1evk2wap7h_UFBecKNJURpN4dEU8lDb5n1ePo90",
-        "source": "Il Resto del Carlino"
-      },
-      {
-        "title": "La dolce vita di Marcello… all’Oasi di Greccio",
-        "snippet": "",
-        "url": "https://www.ilfaroonline.it/2024/12/13/la-dolce-vita-di-marcello-alloasi-di-greccio/597754/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjwvZFm0nbQyb4r0Q23smG0HX_eJp0BG9zkkKYURlyvMMtK-trEhZgfI6-GVE",
-        "source": "IlFaroOnline"
-      }
-    ]
-  },
-  {
-    "title": "sampdoria spezia",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Ve4S3TzH0DrlRxtMhYyXoWZZvo9UtUWy23I-YM9j_MJQzuQ5PRQMmBnj-Os",
-    "picture_source": "la Repubblica",
-    "news_items": [
-      {
-        "title": "La Sampdoria ricomincia da tre. Che battaglia contro lo Spezia. Le mosse di Semplici",
-        "snippet": "",
-        "url": "https://genova.repubblica.it/sport/2024/12/14/news/la_sampdoria_ricomincia_da_tre_che_battaglia_contro_lo_spezia_le_mosse_di_semplici-423886028/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Ve4S3TzH0DrlRxtMhYyXoWZZvo9UtUWy23I-YM9j_MJQzuQ5PRQMmBnj-Os",
-        "source": "la Repubblica"
-      },
-      {
-        "title": "Derby Sampdoria-Spezia: senza tifosi, il calcio perde la sua anima",
-        "snippet": "",
-        "url": "https://sport.quotidiano.net/calcio/spezia/derby-sampdoria-spezia-senza-tifosi-il-0d5b3d42",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmOpLapAiODQUZ0h5lDXFrydJoQ-6YVrl38uUrv1xWSXmM4kej3GJecBlyY7E",
-        "source": "Quotidiano Sportivo"
-      },
-      {
-        "title": "Samp-Spezia, diretta testuale live",
-        "snippet": "",
-        "url": "https://www.rainews.it/tgr/liguria/articoli/2024/12/sampdoria-spezia-derby-diretta-testuale-live-genova-marassi-14-dicembre-2024-orario-formazioni-ufficiali-tabellino-serie-b-semplici-dangelo-79215f9d-1e4b-4867-9bcc-20adb6e98b96.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRrcmMli9JN0IZjrnualjCbNX8kDDEeym2iJUi8luEp6P6E5odEJMOWoqbOGc",
-        "source": "RaiNews"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "yellow",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "yellow",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 98.4985,
+  "Goal 2 Score": 68.83525,
+  "Goal 3 Score": 94.1391428571428,
+  "Goal 4 Score": 97.324,
+  "Goal 5 Score": 71.40775,
+  "Goal 6 Score": 79.7746,
+  "Goal 7 Score": 77.3235,
+  "Goal 8 Score": 77.8442857142857,
+  "Goal 9 Score": 88.5538571428572,
+  "Goal 10 Score": 77.28,
+  "Goal 11 Score": 93.1383333333333,
+  "Goal 12 Score": 63.9097142857143,
+  "Goal 13 Score": 80.806,
+  "Goal 14 Score": 63.1951666666667,
+  "Goal 15 Score": 80.9172,
+  "Goal 16 Score": 71.6059090909091,
+  "Goal 17 Score": 63.3638
+}

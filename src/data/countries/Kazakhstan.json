@@ -1,312 +1,36 @@
-[
-  {
-    "title": "майнц 05 – бавария",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjIoMb02rzHqSaNhblJTKqdk_dsA8TIXVDmIlBbb-Vw0h7nnJsaxFcUZffY8",
-    "picture_source": "Спорт Mail",
-    "news_items": [
-      {
-        "title": "«Майнц» — «Бавария». Онлайн-трансляция начнется в 17:30",
-        "snippet": "",
-        "url": "https://sportmail.ru/news/football/64069141/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjIoMb02rzHqSaNhblJTKqdk_dsA8TIXVDmIlBbb-Vw0h7nnJsaxFcUZffY8",
-        "source": "Спорт Mail"
-      },
-      {
-        "title": "Майнц ― Бавария: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21576/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYnt_uzGpr-RrRZYdDSQQpHQXnAizYMgd2E12UaCmrTISjN7_O-u4U896y7FY",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Мюллер и Киммих – в основе «Баварии» на матч Бундеслиги",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/32/1005800248_myuller_i_kimmih__v_osnove_bavarii_na_match_bundesligi",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8bsxO4CrnOb-IjbeituRcet_dclxQh39KlWMDYoYsJjDfd6RqX1pK0d91P3c",
-        "source": "Евро-Футбол.Ру"
-      }
-    ]
-  },
-  {
-    "title": "ливерпуль – фулхэм",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVytdMiIDqFdh9tcpb6ZFZl6JVhVJ1hvWrQCe7S8d8GfUn-6f25SLJipT1nKc",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Ливерпуль – Фулхэм: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21568/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVytdMiIDqFdh9tcpb6ZFZl6JVhVJ1hvWrQCe7S8d8GfUn-6f25SLJipT1nKc",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Салах и Трент – в основе «Ливерпуля» на матч против «Фулхэма»",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/31/1005800250_salah_i_trent__v_osnove_liverpulya_na_match_protiv_fulhema",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUC25MK0-s8Q11a6exBejJNHHZEQme6_xRakqODfF6FsKmtcKAXdRnbvYVwXM",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "«Ливерпуль» – «Фулхэм»: прогноз и ставки с коэффициентом 4.20",
-        "snippet": "",
-        "url": "https://www.vse-pro-sport.com.ua/news/2024/12/13/liverpul-fulhem-prognoz-kf-4-20-i-stavki-na-match-anglijskoj-premer-ligi-14-dekabrja-2024-goda",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTecyFRQs8OVggLIFbUJroZdJ4ljEqDHWj2FcBy39a2iyfZg-nIXS2796nPIik",
-        "source": "www.vse-pro-sport.com.ua"
-      }
-    ]
-  },
-  {
-    "title": "арсенал – эвертон",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqdQgXYXyF9gRCE6FXlpFho0nIThvxOUG_m0TVrCeQ8xz3kBp2SbcZWw52iLI",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Арсенал – Эвертон: превью и прогноз на матч шестнадцатого тура АПЛ сезона-2024/25 (13.12.2024)",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21577/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqdQgXYXyF9gRCE6FXlpFho0nIThvxOUG_m0TVrCeQ8xz3kBp2SbcZWw52iLI",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Артета выбрал состав «Арсенала» на игру с «Эвертоном»",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/31/1005800251_arteta_vyibral_sostav_arsenala_na_igru_s_evertonom",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbca7k8lGHyTtRzmwakTuwrX8MsiwfH_YyrP3UJLGvVoxJ5LTtVrVMymDNLgU",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "16-й тур Премьер-Лиги. Анонс матчей субботы",
-        "snippet": "",
-        "url": "http://fapl.ru/posts/111794/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzI7bshcP2fE2ZMpb5kw80RlO6OH6MpgtdRuOXvXpgx_TkERpVEmWhObVAGSM",
-        "source": "FAPL.ru"
-      }
-    ]
-  },
-  {
-    "title": "аугсбург – байер",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX-AAfqUY1l9hqj875tO5jzU1bZ6ltJsy7NoLSC7V7n3f3g0ovN8MhwJLvKuk",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Аугсбург ― Байер: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21569/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX-AAfqUY1l9hqj875tO5jzU1bZ6ltJsy7NoLSC7V7n3f3g0ovN8MhwJLvKuk",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Бесплатный экспресс-прогноз дня на сегодня: матчи Бундеслиги, Серии А и Ла Лиги 14 декабря 2024 года",
-        "snippet": "",
-        "url": "https://metaratings.ru/prognozy/express/ekspress-prognoz-na-matchi-bundesligi-serii-a-i-la-ligi-ot-14-dekabrya-2024-goda/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSANghnHhctsL-jbUuzpUKg_gnNGjnnNzxqpHxycrrnYZ2DRCHcJUwymtFLNw",
-        "source": "Metaratings"
-      },
-      {
-        "title": "Аугсбург — Байер. Прогноз и ставка за 2.05 / 14.12.2024 / Прогнозы на футбол",
-        "snippet": "",
-        "url": "https://www.livesport.ru/tips/football/2024/12/14/augsburg_bayleverkusen/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TAGaRmudiU0gk4HsbhQdiuM1YbKgKlcqzA6sBFaOEkSpH5hlv_GchUH2vOQ",
-        "source": "LiveSport.Ru"
-      }
-    ]
-  },
-  {
-    "title": "кальяри – аталанта",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Кальяри – Аталанта: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21571/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Кальяри - Аталанта: где смотреть прямую трансляцию онлайн",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/34/1005800086_kalyari_-_atalanta_gde_smotret_pryamuyu_translyaciyu_onlayn",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm0VzYLS47jf0l5auSkGiGyva28KFhz54WfDY3_cD2XouSXKyhQ1RxqWaeU8w",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "Кальяри — Аталанта: прогноз на точный счёт матча чемпионата Италии — 14 декабря 2024",
-        "snippet": "",
-        "url": "https://www.liveresult.ru/tips/football/Italy/tip220590-Cagliari-Atalanta",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQdEALLIGVGrTuXDuUp-XF94DPyKSkCELQKrPu8pQMYqaGFtTbtdm-se17g5M",
-        "source": "LiveResult"
-      }
-    ]
-  },
-  {
-    "title": "эспаньол – осасуна",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Sat, 14 Dec 2024 04:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMZt-lm835YZO_xZ4bvVMrwYaIQH_nccd4KyxPTvoQyG32NxIo-y-IGBt7mS4",
-    "picture_source": "ВсеПроСпорт.ру",
-    "news_items": [
-      {
-        "title": "«Эспаньол» — «Осасуна»: прогноз на матч чемпионата Испании",
-        "snippet": "",
-        "url": "https://www.vse-pro-sport.com.ua/news/2024/12/13/espanol-osasuna-prognoz-kf-3-30-i-stavki-na-match-chempionata-ispanii-14-dekabrja-2024-goda",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMZt-lm835YZO_xZ4bvVMrwYaIQH_nccd4KyxPTvoQyG32NxIo-y-IGBt7mS4",
-        "source": "ВсеПроСпорт.ру"
-      },
-      {
-        "title": "Эспаньол — Осасуна: прогноз и ставки на матч Ла Лиги 14 декабря 2024 года, коэффициенты на игру",
-        "snippet": "",
-        "url": "https://metaratings.ru/prognozy/futbol/espanol-osasuna-prognoz-na-match-la-ligi-14-dekabrya-2024-goda/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRckYQPyNjiMXI2PD_22YePbR9i_g7Da4QV4kJNe0dHLuLTh40OWeWaZNKVeHE",
-        "source": "Metaratings"
-      },
-      {
-        "title": "Футбол Испания Примера дивизион Эспаньол — Осасуна прогноз с описанием от Везуха23 14 дек 2024",
-        "snippet": "",
-        "url": "https://prognozist.ru/espanol-osasuna-pnoygqo.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK0TJ3Lgqb9KHLTgkA0jlmryp9CAgfZNDRd0gCK878Hgklni5TL7TrD84cjV8",
-        "source": "Prognozist.ru"
-      }
-    ]
-  },
-  {
-    "title": "михаил кавелашвили",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Sat, 14 Dec 2024 04:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Президентские выборы в Грузии: коллегия проголосовала за бывшего футболиста Михаила Кавелашвили. Оппозиция выборы не признает",
-        "snippet": "",
-        "url": "https://www.bbc.com/russian/articles/cd0elgx741xo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
-        "source": "BBC"
-      },
-      {
-        "title": "Зурабишвили не будет уходить до новых парламентских выборов",
-        "snippet": "",
-        "url": "https://www.dw.com/ru/salome-zurabisvili-otkazalas-uhodit-v-otstavku-do-novyh-parlamentskih-vyborov-v-gruzii/a-71054908",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlr_ho0VaFq-KMJqHJSiWLU_6-R4icn1RQemeFz4Z0L489VQELcRCX3NepN7E",
-        "source": "DW"
-      },
-      {
-        "title": "Срочная новость. Президентом Грузии становится бывший футболист и экс-депутат Михаил Кавелашвили",
-        "snippet": "",
-        "url": "https://ru.euronews.com/my-europe/2024/12/14/georgia-president-election-opposition",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZdwhN6O0QoJjLWLRWFjbbPk2_jiIQ9h9EDmpFLgxeHFszzZ_vVrmS7wCSXCs",
-        "source": "Euronews.com"
-      }
-    ]
-  },
-  {
-    "title": "кндр",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Sat, 14 Dec 2024 04:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFtzvS7xIaP65UUh1fhl-0Zf88AF2ZvxROxBgomlGrOGfNUC1BF36D12bK00",
-    "picture_source": "DW",
-    "news_items": [
-      {
-        "title": "\"Военкоры\" РФ: Солдаты КНДР уже воюют в Курской области",
-        "snippet": "",
-        "url": "https://www.dw.com/ru/voenkory-rf-soldaty-iz-kndr-vstupili-v-boj-v-kurskoj-oblasti/a-71049195",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFtzvS7xIaP65UUh1fhl-0Zf88AF2ZvxROxBgomlGrOGfNUC1BF36D12bK00",
-        "source": "DW"
-      },
-      {
-        "title": "В Госдуме объяснили участие спецназа КНДР в бою под Курском",
-        "snippet": "",
-        "url": "https://rtvi.com/news/v-gosdume-obyasnili-uchastie-specznaza-kndr-v-boyu-pod-kurskom/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVsqS8HjsErsl-zPTwWCJX22t2ZCnc7HgC1-fCqvDzQli5WP4IQNrQDA3gQ_g",
-        "source": "RTVI"
-      },
-      {
-        "title": "Украина выпускает листовки и видеоролики, призывающие северокорейских солдат сдаваться",
-        "snippet": "",
-        "url": "https://ru.euronews.com/2024/12/10/ukraine-calls-north-corean-soldiers-to-surrender",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiRc97IlCqoUL5UPvk-AYixMz3_bKo8XcTRSlf03osWsZ9bgiRVQHLiJheH8E",
-        "source": "Euronews.com"
-      }
-    ]
-  },
-  {
-    "title": "2025",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Fri, 13 Dec 2024 22:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4mBESC8WBoxtP8WJEHQmMMCq-rNcuEUbR2IsIki0mgYgefTOb3AKfRtsygiY",
-    "picture_source": "Forbes",
-    "news_items": [
-      {
-        "title": "Why Title Contenders May Sit Out The 2025 NBA Trade Deadline",
-        "snippet": "",
-        "url": "https://www.forbes.com/sites/bryantoporek/2024/12/14/why-title-contenders-may-sit-out-the-2025-nba-trade-deadline/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4mBESC8WBoxtP8WJEHQmMMCq-rNcuEUbR2IsIki0mgYgefTOb3AKfRtsygiY",
-        "source": "Forbes"
-      },
-      {
-        "title": "2024 NBA Trade Moratorium: Why Dec. 15 is important, and what it means for the Knicks",
-        "snippet": "",
-        "url": "https://www.nydailynews.com/2024/12/13/knicks-trade-nba-leon-rose-deadline/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjB5zkjss5GqZbKFa0XQcDel-VSRPGDhC38E-KWwYTT4qkq4uOFMj-uGd75uQ",
-        "source": "New York Daily News"
-      },
-      {
-        "title": "What is the NFL playoff schedule 2025? Start date, times, how to watch",
-        "snippet": "",
-        "url": "https://www.usatoday.com/story/sports/nfl/2024/12/12/nfl-playoff-schedule-2025-date-times-how-to-watch/76739476007/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtX3k-5SJOhkeErxYHrMBBqmx9-fpPNzBUml851237sTSysNOlkTsC71ZyDg4",
-        "source": "USA Today"
-      }
-    ]
-  },
-  {
-    "title": "2029",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Fri, 13 Dec 2024 22:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQhBbiv28Rc1BY16Mty89v94wcW2SOA0mPciul0ZqETo4Nyde0VN-_Gg_vTM",
-    "picture_source": "Electronic Frontier Foundation",
-    "news_items": [
-      {
-        "title": "A Fundamental-Rights Centered EU Digital Policy: EFF’s Recommendations 2024-2029",
-        "snippet": "",
-        "url": "https://www.eff.org/deeplinks/2024/12/fundamental-rights-centered-eu-digital-policy-effs-recommendations-2024-2029",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQhBbiv28Rc1BY16Mty89v94wcW2SOA0mPciul0ZqETo4Nyde0VN-_Gg_vTM",
-        "source": "Electronic Frontier Foundation"
-      },
-      {
-        "title": "The evolution of the EU consumer protection law: Adapting to new challenges in the digital era",
-        "snippet": "",
-        "url": "https://dig.watch/updates/the-evolution-of-the-eu-consumer-protection-law-adapting-to-new-challenges-in-the-digital-era",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZeb6MLmBQqZ8t-AqK3JNKGrIqXMRzduAaY8IpJY5WFk1vnF7wPZTu9to6bSM",
-        "source": "Digital Watch Observatory"
-      },
-      {
-        "title": "Preparing For The Next 5 Years Of EU Digital Policy",
-        "snippet": "",
-        "url": "https://www.law360.com/articles/2268183/preparing-for-the-next-5-years-of-eu-digital-policy",
-        "picture": "",
-        "source": "Law360"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "yellow",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 98.724,
+  "Goal 2 Score": 54.1061428571428,
+  "Goal 3 Score": 79.497,
+  "Goal 4 Score": 87.69475,
+  "Goal 5 Score": 69.89775,
+  "Goal 6 Score": 70.445,
+  "Goal 7 Score": 63.783,
+  "Goal 8 Score": 70.4265714285714,
+  "Goal 9 Score": 53.3348571428571,
+  "Goal 10 Score": 93.859,
+  "Goal 11 Score": 79.8175,
+  "Goal 12 Score": 75.5385714285714,
+  "Goal 13 Score": 59.991,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 62.7282,
+  "Goal 16 Score": 63.0582,
+  "Goal 17 Score": 60.2928
+}

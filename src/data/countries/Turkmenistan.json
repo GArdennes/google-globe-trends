@@ -1,64 +1,36 @@
-[
-  {
-    "title": "кальяри – аталанта",
-    "link": "https://trends.google.com/trending/rss?geo=TM",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyHcVve2N8vMse7fS_V03S1ZTHGidSs0UYj8cTJYgLP2PK3plm5vytKISWzs",
-    "picture_source": "Metaratings",
-    "news_items": [
-      {
-        "title": "Кальяри – Аталанта: прогноз и ставки на матч Серии А 14 декабря 2024 года, коэффициенты на игру",
-        "snippet": "",
-        "url": "https://metaratings.ru/prognozy/futbol/kalyari-atalanta-prognoz-na-match-serii-a-14-dekabrya-2024-goda/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyHcVve2N8vMse7fS_V03S1ZTHGidSs0UYj8cTJYgLP2PK3plm5vytKISWzs",
-        "source": "Metaratings"
-      },
-      {
-        "title": "«Кальяри» — «Аталанта». Прямая трансляция: смотреть онлайн матч Серии А",
-        "snippet": "",
-        "url": "https://sport24.ru/football/news-709539-kalyari-atalanta-pryamaya-translyatsiya-smotret-onlayn-match-serii-a",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_L7N9NuW2FFwP3nc7L6rzDC2wLAkNcQzse-hG6DgcgKYnECtEy0JK-QKyKjM",
-        "source": "Sport24.ru"
-      },
-      {
-        "title": "Кальяри — Аталанта | Удинезе — Наполи | Ювентус — Венеция точный прогноз от kipelov1234 14 декабря 2024",
-        "snippet": "",
-        "url": "https://prognozist.ru/kalyari-atalanta-udineze-napoli-nqmwreq.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAAV1mYsgNuqTI4yLWNsrXgEDimkhpvpF4oKB3nQbPOka03oCezB4rrMarxwM",
-        "source": "Prognozist.ru"
-      }
-    ]
-  },
-  {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=TM",
-    "pubdate": "Fri, 13 Dec 2024 18:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs2eKgf6BmuuRvMxFB31p_fYsOKLjA7pWJe52mOrWuW7nYmyQKoh5gdjeAY0E",
-    "picture_source": "WMTV 15 NEWS",
-    "news_items": [
-      {
-        "title": "ALERT DAY: Messy rain/ice system moving in",
-        "snippet": "",
-        "url": "https://www.wmtv15news.com/video/2024/12/15/alert-day-messy-rainice-system-moving/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs2eKgf6BmuuRvMxFB31p_fYsOKLjA7pWJe52mOrWuW7nYmyQKoh5gdjeAY0E",
-        "source": "WMTV 15 NEWS"
-      },
-      {
-        "title": "Southern Ontario's bright weekend will be ending on a gloomy note",
-        "snippet": "",
-        "url": "https://www.msn.com/en-ca/weather/topstories/southern-ontario-s-bright-weekend-will-be-ending-on-a-gloomy-note/ar-AA1vPz9N",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WSkqdlFHFxumrGgPS98__Ree-RJyrx-EZRdJYnsF41vfnYkD55R3H7udkKY",
-        "source": "MSN"
-      },
-      {
-        "title": "Freezing drizzle may mean icy roads for parts of the viewing area",
-        "snippet": "",
-        "url": "https://www.kmbc.com/article/kansas-city-weather-forecast-friday-impact-freezing-drizzle-radar/63182855",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXjhplxwuKKFw1yTwRw5se57pl-NMK6LuzPJE9YiEuT_0SJV9myS4_1iGBmrA",
-        "source": "KMBC"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "yellow",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "red",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "gray",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": 98.912,
+  "Goal 2 Score": 55.7248571428571,
+  "Goal 3 Score": 71.1481538461538,
+  "Goal 4 Score": 86.4675,
+  "Goal 5 Score": 77.81225,
+  "Goal 6 Score": 47.1682,
+  "Goal 7 Score": 61.9405,
+  "Goal 8 Score": 69.4971666666667,
+  "Goal 9 Score": 23.666,
+  "Goal 10 Score": null,
+  "Goal 11 Score": 72.32,
+  "Goal 12 Score": 79.5498333333333,
+  "Goal 13 Score": 63.8055,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 63.173,
+  "Goal 16 Score": 71.141,
+  "Goal 17 Score": 47.541
+}

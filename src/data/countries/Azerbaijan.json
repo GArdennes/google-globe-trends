@@ -1,64 +1,36 @@
-[
-  {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Fri, 13 Dec 2024 16:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs2eKgf6BmuuRvMxFB31p_fYsOKLjA7pWJe52mOrWuW7nYmyQKoh5gdjeAY0E",
-    "picture_source": "WMTV 15 NEWS",
-    "news_items": [
-      {
-        "title": "ALERT DAY: Messy rain/ice system moving in",
-        "snippet": "",
-        "url": "https://www.wmtv15news.com/video/2024/12/15/alert-day-messy-rainice-system-moving/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs2eKgf6BmuuRvMxFB31p_fYsOKLjA7pWJe52mOrWuW7nYmyQKoh5gdjeAY0E",
-        "source": "WMTV 15 NEWS"
-      },
-      {
-        "title": "Southern Ontario's bright weekend will be ending on a gloomy note",
-        "snippet": "",
-        "url": "https://www.msn.com/en-ca/weather/topstories/southern-ontario-s-bright-weekend-will-be-ending-on-a-gloomy-note/ar-AA1vPz9N",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WSkqdlFHFxumrGgPS98__Ree-RJyrx-EZRdJYnsF41vfnYkD55R3H7udkKY",
-        "source": "MSN"
-      },
-      {
-        "title": "Freezing drizzle may mean icy roads for parts of the viewing area",
-        "snippet": "",
-        "url": "https://www.kmbc.com/article/kansas-city-weather-forecast-friday-impact-freezing-drizzle-radar/63182855",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXjhplxwuKKFw1yTwRw5se57pl-NMK6LuzPJE9YiEuT_0SJV9myS4_1iGBmrA",
-        "source": "KMBC"
-      }
-    ]
-  },
-  {
-    "title": "weather tomorrow",
-    "link": "https://trends.google.com/trending/rss?geo=AZ",
-    "pubdate": "Fri, 13 Dec 2024 08:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeJtcdAX2sl96NWTiiLeJcRCjYjRx_58k696nxnMwshMadyqVo5yGOFk7pxn4",
-    "picture_source": "mint",
-    "news_items": [
-      {
-        "title": "Indore Weather Forecast and AQI Today on December 14, 2024: Check out the predicted minimum and maximum temperatures | Today News",
-        "snippet": "",
-        "url": "https://www.livemint.com/news/india/indore-weather-forecast-today-on-december-14-2024-check-latest-imd-rain-predictions-temperature-air-quality-index-11734139825195.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeJtcdAX2sl96NWTiiLeJcRCjYjRx_58k696nxnMwshMadyqVo5yGOFk7pxn4",
-        "source": "mint"
-      },
-      {
-        "title": "Indore Weather and AQI Today: Warm start at 14.1 °C, check weather forecast for December 7, 2024",
-        "snippet": "",
-        "url": "https://www.msn.com/en-in/news/india/indore-weather-and-aqi-today-warm-start-at-14-1-c-check-weather-forecast-for-december-7-2024/ar-AA1vqbAe",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyfOmJAQU_m8mYyvTNSNJ9K_ytoIxz9WObhUAZa3GWrYMFRWQWwPmdeid3rvY",
-        "source": "MSN"
-      },
-      {
-        "title": "Indore Weather and AQI Today: Check weather forecast for December 14, 2024",
-        "snippet": "",
-        "url": "https://www.hindustantimes.com/cities/indore-news/indore-weather-today-aqi-and-rain-forecast-updates-december-14-2024-101734139841974.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtFtCIxdfhS-7HdSOKKjCAGrizfwIQpZCsbTjU8JGsHScjoxGuNkSMuBmLyl8",
-        "source": "Hindustan Times"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "yellow",
+  "Goal 5 Rating": "red",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "green",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 99.3255,
+  "Goal 2 Score": 57.318,
+  "Goal 3 Score": 70.5200714285714,
+  "Goal 4 Score": 90.86225,
+  "Goal 5 Score": 53.363,
+  "Goal 6 Score": 66.1472,
+  "Goal 7 Score": 68.99425,
+  "Goal 8 Score": 68.8663333333333,
+  "Goal 9 Score": 42.5214285714286,
+  "Goal 10 Score": 97.5,
+  "Goal 11 Score": 82.39425,
+  "Goal 12 Score": 83.6291428571429,
+  "Goal 13 Score": 81.0286666666667,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 65.5642,
+  "Goal 16 Score": 64.0085,
+  "Goal 17 Score": 69.686
+}

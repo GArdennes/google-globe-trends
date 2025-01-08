@@ -1,126 +1,36 @@
-[
-  {
-    "title": "delfi",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Fri, 13 Dec 2024 21:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIPBj8imMfy-5DK3cu8OC06j-nD2_i3-mzdyL5HYDON1xnzt5OEEh7hT5O0Cg",
-    "picture_source": "DELFI",
-    "news_items": [
-      {
-        "title": "Krievijā sadedzināts Su-30 un trīs lokomotīves",
-        "snippet": "",
-        "url": "https://www.delfi.lv/46713439/arzemes/120054214/krievija-sadedzinats-su-30-un-tris-lokomotives",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIPBj8imMfy-5DK3cu8OC06j-nD2_i3-mzdyL5HYDON1xnzt5OEEh7hT5O0Cg",
-        "source": "DELFI"
-      },
-      {
-        "title": "\"Padariet Krieviju atkal mazu\" – Lietuvas sportisti izslēdz no čempionāta par uzrakstu uz krekla",
-        "snippet": "",
-        "url": "https://www.delfi.lv/sports/19493909/other/120054183/padariet-krieviju-atkal-mazu-lietuvas-sportisti-izsledz-no-cempionata-par-uzrakstu-uz-krekla",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzSGHwALjImIQW6M-SXfSFTc0MmWDmnQS0t7XqzADTK65OjJsrKmPbaQu0U2c",
-        "source": "DELFI"
-      },
-      {
-        "title": "\"Pabaroja – un uzbrukumā\": GUR ziņo par ziemeļkorejiešu gatavību kaujai; Kijiva mudina padoties",
-        "snippet": "",
-        "url": "https://www.delfi.lv/46713439/arzemes/120054180/pabaroja-un-uzbrukuma-gur-zino-par-ziemelkorejiesu-gatavibu-kaujai-kijiva-mudina-padoties",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1lwMDRYp1rV-I9iKscO3AcgmhsDo5FnSDoHNzPW1jzwvlVtgInpGi3uAdA5Y",
-        "source": "DELFI"
-      }
-    ]
-  },
-  {
-    "title": "rigas satiksme",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Fri, 13 Dec 2024 19:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRYBa3zuoQcY2wnVC6NuqOL6T_0QzCEdnfIXdawOfWzKpArLoqcEQsxq2Nn8M",
-    "picture_source": "Apollo.lv",
-    "news_items": [
-      {
-        "title": "Kā nepalaist garām braucienu Rīgas Ziemassvētku tramvajā?",
-        "snippet": "",
-        "url": "https://www.apollo.lv/8152908/ka-nepalaist-garam-braucienu-rigas-ziemassvetku-tramvaja",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRYBa3zuoQcY2wnVC6NuqOL6T_0QzCEdnfIXdawOfWzKpArLoqcEQsxq2Nn8M",
-        "source": "Apollo.lv"
-      },
-      {
-        "title": "Elektroapgādes izbūves darbu laikā līdz 21. decembrim ierobežota satiksme Rīgas ielas posmā",
-        "snippet": "",
-        "url": "https://www.jelgava.lv/jaunumi/elektroapgades-izbuves-darbu-laika-lidz-21-decembrim-ierobezota-satiksme-rigas-ielas-posma/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXEXaDpV2Jiq0oovU3NMf81o6sh1_bEoJVe2DH6h4Jaxy-wLcfaAlYXGUxaQ",
-        "source": "Jelgava"
-      },
-      {
-        "title": "Līdz 21. decembrim ierobežota gājēju kustība Rīgas ielas posmā",
-        "snippet": "",
-        "url": "https://zz.lv/lidz-21-decembrim-ierobezota-gajeju-kustiba-rigas-ielas-posma/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nnVFSpFDev4oHiWsvIgpcG45RahWEqqgehkrToioS3w7g1HZ9b5thBKG65Q",
-        "source": "ZZ.lv"
-      }
-    ]
-  },
-  {
-    "title": "dod pieci",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Fri, 13 Dec 2024 10:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXKQd5u6sbAICFypKzWTc5eH030ZghD0L1k2EycSgS7DcHK8SxjfVhS7EVHk",
-    "picture_source": "LSM",
-    "news_items": [
-      {
-        "title": "Labdarības maratons «Dod pieci!» ir sācies! Stikla studijā uz 144 stundām ieslēdz trīs dīdžejus",
-        "snippet": "",
-        "url": "https://www.lsm.lv/raksts/zinas/latvija/13.12.2024-labdaribas-maratons-dod-pieci-ir-sacies-stikla-studija-uz-144-stundam-iesledz-tris-didzejus.a579222/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXKQd5u6sbAICFypKzWTc5eH030ZghD0L1k2EycSgS7DcHK8SxjfVhS7EVHk",
-        "source": "LSM"
-      },
-      {
-        "title": "“Es nevarēju runāt, elpot” - jaunā aktrise Elvita Ragovska ārstējas un aizkustināta saka paldies ziedotājiem",
-        "snippet": "",
-        "url": "https://jauns.lv/raksts/par-veselibu/633300-es-nevareju-runat-elpot-jauna-aktrise-elvita-ragovska-arstejas-un-aizkustinata-saka-paldies-ziedotajiem",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyB4Oh6kmxmm0LL_Y8LVExMoD79GYmcbknCx0sqs8q8mp8wZr2Ts7-3VNf0IM",
-        "source": "Jauns.lv"
-      },
-      {
-        "title": "Nākamnedēļ ar koncertu atklās labdarības maratonu \"Dod pieci!\"",
-        "snippet": "",
-        "url": "https://nra.lv/latvija/riga/476578-nakamnedel-ar-koncertu-atklas-labdaribas-maratonu-dod-pieci.htm",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_TYdO5SphzXKVOHg9A8-IGEutFyQ8QCaYgv834bbXho8ixAMLTTH3cwCv6ko",
-        "source": "NRA"
-      }
-    ]
-  },
-  {
-    "title": "tv6",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Fri, 13 Dec 2024 09:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenoCxjeYFq3Dld6D-xoghpNH2_UuvPKXU6UA4gcEOT73aYj2gsyEAmXOoKM",
-    "picture_source": "Upper Michigan's Source",
-    "news_items": [
-      {
-        "title": "Man accused of taking payments for saunas and not delivering waives preliminary exam with ‘unusual’ stipulation",
-        "snippet": "",
-        "url": "https://www.uppermichiganssource.com/2024/12/13/michael-sivula-waives-preliminary-exam-with-unusual-stipulation/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenoCxjeYFq3Dld6D-xoghpNH2_UuvPKXU6UA4gcEOT73aYj2gsyEAmXOoKM",
-        "source": "Upper Michigan's Source"
-      },
-      {
-        "title": "Ishpeming City Council offers city manager job to Randy Scholz",
-        "snippet": "",
-        "url": "https://www.uppermichiganssource.com/2024/12/13/ishpeming-city-council-offers-city-manager-job-randy-scholz/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZptrGnzN5mw8sXWC5e0gf2OLTANnTKKODCSMp5JwV5xS_4FQVGXShRrqdjBU",
-        "source": "Upper Michigan's Source"
-      },
-      {
-        "title": "Number of candidates for Ishpeming City Manager position narrowed down to two",
-        "snippet": "",
-        "url": "https://www.wnmufm.org/government/2024-12-09/number-of-candidates-for-ishpeming-city-manager-position-narrowed-down-to-two",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiuXI2ogzeUVXz_4uc4gtPBYmKRnINYKachnMNp14QvUNljfo-Dx0zRY6Pmgc",
-        "source": "WNMU-FM"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "yellow",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "yellow",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "yellow",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "orange",
+  "Goal 15 Rating": "yellow",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": 98.81,
+  "Goal 2 Score": 64.00875,
+  "Goal 3 Score": 84.5013571428571,
+  "Goal 4 Score": 97.32025,
+  "Goal 5 Score": 78.20475,
+  "Goal 6 Score": 92.3132,
+  "Goal 7 Score": 87.713,
+  "Goal 8 Score": 82.697,
+  "Goal 9 Score": 77.2445714285714,
+  "Goal 10 Score": 74.0755,
+  "Goal 11 Score": 94.9995,
+  "Goal 12 Score": 56.6361428571428,
+  "Goal 13 Score": 76.3876666666667,
+  "Goal 14 Score": 84.2106666666667,
+  "Goal 15 Score": 90.9742,
+  "Goal 16 Score": 81.5453636363636,
+  "Goal 17 Score": 55.1532
+}

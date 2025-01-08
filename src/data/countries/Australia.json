@@ -1,312 +1,36 @@
-[
-  {
-    "title": "mace",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgnZ0GYbGsPC8-y9JN3r4LtzJdkDV0HbmZrth2InTSweOXKVtPS0o51lcTmH4",
-    "picture_source": "CBS News",
-    "news_items": [
-      {
-        "title": "Illinois man pleads not guilty to assaulting Rep. Nancy Mace on Capitol grounds",
-        "snippet": "",
-        "url": "https://www.cbsnews.com/chicago/news/nancy-mace-james-mcintyre-assault-capitol-hill-plea/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgnZ0GYbGsPC8-y9JN3r4LtzJdkDV0HbmZrth2InTSweOXKVtPS0o51lcTmH4",
-        "source": "CBS News"
-      },
-      {
-        "title": "Foster advocacy group denies that arrested member assaulted Rep. Nancy Mace",
-        "snippet": "",
-        "url": "https://www.washingtonpost.com/politics/2024/12/11/assault-nancy-mace-congress-arrest/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeynrQiq93FuBzG7zDqQHPQuVoVeFgsU5PoTQMtqz2EIgMevdMony-sa25kHw",
-        "source": "Washington Post"
-      },
-      {
-        "title": "Police arrest suspect accused of assaulting Nancy Mace on Capitol grounds",
-        "snippet": "",
-        "url": "https://www.nbcnews.com/politics/congress/police-arrest-suspect-accused-assaulting-nancy-mace-capitol-grounds-rcna183716",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRwisrfZa_KOHl7sH-MWblGowG5tMCT9_B03O-t8uzYlK2W1d64TzBhy4ZbjI",
-        "source": "NBC News"
-      }
-    ]
-  },
-  {
-    "title": "south korean president impeachment",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQretkfZ0MKjKfEZDD0k6KtanU-S-taYITm6yUQ2PbprZ8JkGJoc_8ETT6rPek",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "South Korea latest: South Korea's President Yoon suspended after MPs vote to impeach him",
-        "snippet": "",
-        "url": "https://www.bbc.com/news/live/c1wq025v421t",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQretkfZ0MKjKfEZDD0k6KtanU-S-taYITm6yUQ2PbprZ8JkGJoc_8ETT6rPek",
-        "source": "BBC"
-      },
-      {
-        "title": "South Korea impeachment live: jubilation in Seoul as president Yoon Suk Yeol impeached",
-        "snippet": "",
-        "url": "https://www.theguardian.com/world/live/2024/dec/14/south-korea-impeachment-vote-yoon-suk-yeol",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb_Z3YCChib3WjDtgm2Yj_AM4WE0SrBDyOYmo49y7tXVB2rOaVbQ-uM3NIU8I",
-        "source": "The Guardian"
-      },
-      {
-        "title": "South Korean parliament votes to impeach President Yoon Suk Yeol",
-        "snippet": "",
-        "url": "https://www.abc.net.au/news/2024-12-14/south-korean-parliament-votes-to-impeach-president/104726176",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDA0exzPfNUqXGDZr1upJsZfPF8C2OlWQ7wd2qUHx-xWODcx2ns6rQ7jBE7Vw",
-        "source": "Australian Broadcasting Corporation"
-      }
-    ]
-  },
-  {
-    "title": "jude law",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 05:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjYTwsW4otOsHXsw1wagGGPOQSJMeYcQU2m7mAs7EZpfIDZn9oYLISAxmhE8U",
-    "picture_source": "HELLO!",
-    "news_items": [
-      {
-        "title": "Jude Law 'casually breaks the internet' with major announcement",
-        "snippet": "",
-        "url": "https://www.hellomagazine.com/film/735790/jude-law-appears-to-announce-the-holiday-sequel/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjYTwsW4otOsHXsw1wagGGPOQSJMeYcQU2m7mAs7EZpfIDZn9oYLISAxmhE8U",
-        "source": "HELLO!"
-      },
-      {
-        "title": "'I'm crying': Jude Law shocks fans by teasing sequel to The Holiday",
-        "snippet": "",
-        "url": "https://au.lifestyle.yahoo.com/jude-law-shocks-fans-by-teasing-sequel-to-the-holiday-im-crying-232236130.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYKTvle37hgdaFNxVzpJoCgJzLjs22DzjWf9wTSWP0r9Mc535UyqurbZFdkBM",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Nancy Meyers Reunites with Jude Law 18 Years After 'The Holiday'",
-        "snippet": "",
-        "url": "https://people.com/nancy-meyers-reunites-with-jude-law-18-years-after-the-holiday-and-he-has-the-perfect-response-when-she-asks-about-a-sequel-8760948",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7TLR0QsYvDCOfQW_Qk1vkpQa4miOVGbRsIukQC3SuPEcNOwaGXcWMeXqkjSg",
-        "source": "People.com"
-      }
-    ]
-  },
-  {
-    "title": "preston vs leeds united",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvDzovsit-AvzuGpqHNBYFiWt8fQs5NxS019Vk3fd3eHYpgCwwNAQJTLVQTNQ",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Preston North End v Leeds United: Championship stats & head-to-head - BBC Sport",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cm2vy8g09myt",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvDzovsit-AvzuGpqHNBYFiWt8fQs5NxS019Vk3fd3eHYpgCwwNAQJTLVQTNQ",
-        "source": "BBC"
-      },
-      {
-        "title": "Team news: Daniel Farke names XI to face Preston North End",
-        "snippet": "",
-        "url": "https://www.leedsunited.com/en/news/team-news-daniel-farke-names-xi-to-face-preston-north-end",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRaO9lP9GvjmkHlUoIJneRWBVircj9ayGYpgcIPeq7TqcXInxlCGSNHJSVkKo",
-        "source": "Leeds United"
-      },
-      {
-        "title": "Preston North End v Leeds United live: Updates and analysis from Deepdale, top spot chance, TV details",
-        "snippet": "",
-        "url": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/preston-north-end-v-leeds-united-live-updates-and-analysis-from-deepdale-top-spot-chance-tv-details-4909302",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROLq9T8RCDjSJiWKSiYiYcpLYkvkrwgOCk8sbp0erjEMZextCgkHBM1ZEsgqg",
-        "source": "Yorkshire Evening Post"
-      }
-    ]
-  },
-  {
-    "title": "senna netflix",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShVyqmhKfFR2QE2Hmfuq5kw-MeDjdPlJEZw-OD9U7pG4kE5CHeM1mT676IacU",
-    "picture_source": "AnimationXpress",
-    "news_items": [
-      {
-        "title": "Brazil’s Miagui studio designs VFX for Netflix series ‘Senna’",
-        "snippet": "",
-        "url": "https://animationxpress.com/latest-news/brazils-miagui-studio-designs-vfx-for-netflix-series-senna/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShVyqmhKfFR2QE2Hmfuq5kw-MeDjdPlJEZw-OD9U7pG4kE5CHeM1mT676IacU",
-        "source": "AnimationXpress"
-      },
-      {
-        "title": "People are only just realising how this BAFTA-winning Netflix film was made as incredible footage goes viral: 'It was all a lie'",
-        "snippet": "",
-        "url": "https://www.msn.com/en-ie/entertainment/tv/people-are-only-just-realising-how-this-bafta-winning-netflix-film-was-made-as-incredible-footage-goes-viral-it-was-all-a-lie/ar-AA1vK774",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHbR2GatXFzXFCJLbYsp-ZfbaVVqBOz-pPr7d2Vyu5OF1M65TIWR9U9ddgW0c",
-        "source": "MSN"
-      },
-      {
-        "title": "Netflix fans moved to tears by 'best series they've ever seen' about true racing story",
-        "snippet": "",
-        "url": "https://www.themirror.com/entertainment/tv/netflix-fans-moved-tears-best-849964",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0aj4HHvHqHN1uA-0_k0obmAK_yLWYIJz6l2MaZLY8e9QKYBLXbxeiOqgEAeE",
-        "source": "The Mirror US"
-      }
-    ]
-  },
-  {
-    "title": "chris evans",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 03:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZjUt5aVmKBeiDfUp0P8G5YgEbWvGu97bS_sjPM_okz-6OeQSqxiRwLEyJ8rg",
-    "picture_source": "GamesRadar+",
-    "news_items": [
-      {
-        "title": "Chris Evans returning for Avengers: Doomsday has me convinced they should recast all the OG Avengers as villains",
-        "snippet": "",
-        "url": "https://www.gamesradar.com/entertainment/marvel-movies/mcu-recast-the-original-avengers-as-villains/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZjUt5aVmKBeiDfUp0P8G5YgEbWvGu97bS_sjPM_okz-6OeQSqxiRwLEyJ8rg",
-        "source": "GamesRadar+"
-      },
-      {
-        "title": "Chris Evans Returning to Marvel for ‘Avengers: Doomsday’",
-        "snippet": "",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-returning-to-marvel-1236082100/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQTjjfA6wT6bcnXF8Bmbz0Pp861pKDMCB4z_-6BOCiThmImf4yoY924imsiTE",
-        "source": "The Hollywood Reporter"
-      },
-      {
-        "title": "How Avengers: Doomsday Could Be Introducing a Dark Version of the Avengers",
-        "snippet": "",
-        "url": "https://www.cbr.com/mcu-avengers-doomsday-introducing-dark-avengers-explained/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl6QrogvYOX3ampQYBvxTZgbzjmMnmyKmdCecxgyvgiEgan8Y4UfH7eEFXdVs",
-        "source": "Comic Book Resources"
-      }
-    ]
-  },
-  {
-    "title": "zimbabwe vs afghanistan",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1_9n3mbJR7WoRvrUwma40i8u5vFQVkgNRd9BiKo9X-5M-vx3X0wxglmYNm4",
-    "picture_source": "Hindustan Times",
-    "news_items": [
-      {
-        "title": "Convincing Afghanistan win levels Zimbabwe T20 series",
-        "snippet": "",
-        "url": "https://www.hindustantimes.com/cricket/convincing-afghanistan-win-levels-zimbabwe-t20-series-101734107373499.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1_9n3mbJR7WoRvrUwma40i8u5vFQVkgNRd9BiKo9X-5M-vx3X0wxglmYNm4",
-        "source": "Hindustan Times"
-      },
-      {
-        "title": "Darwish Rasooli, bowlers help Afghanistan level series",
-        "snippet": "",
-        "url": "https://www.cricbuzz.com/cricket-news/132747/darwish-rasooli-bowlers-help-afghanistan-level-series",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9M-RKCl89bIz1pQUxrc-UXNiZ4BeLHafwX9rvkAw_67GWlWOqMvRbpergeo",
-        "source": "Cricbuzz.com"
-      },
-      {
-        "title": "Zimbabwe secure last-ball T20 win over Afghanistan",
-        "snippet": "",
-        "url": "https://www.canberratimes.com.au/story/8844638/zimbabwe-secure-last-ball-t20-win-over-afghanistan/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlXNyNJrVFqs3uERdc_9IX851qs0aT1JeWdGbnVk6P8q6DPJMbQSGpVv3Kjo4",
-        "source": "The Canberra Times"
-      }
-    ]
-  },
-  {
-    "title": "julia fox",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuvWS4D74iUG5JduzEedAeTdg7AwRQyUUqihKATJRL3z81xXhs10XO5YTp6cg",
-    "picture_source": "Vogue Australia",
-    "news_items": [
-      {
-        "title": "Everything they’re wearing on the 2024 NGV Gala red carpet",
-        "snippet": "",
-        "url": "https://www.vogue.com.au/fashion/news/ngv-gala-red-carpet-2024/image-gallery/0fae7f17786c9bcd35b28bae6e779f45",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuvWS4D74iUG5JduzEedAeTdg7AwRQyUUqihKATJRL3z81xXhs10XO5YTp6cg",
-        "source": "Vogue Australia"
-      },
-      {
-        "title": "All the style and glamour from the 2024 NGV Gala pink carpet",
-        "snippet": "",
-        "url": "https://www.heraldsun.com.au/entertainment/fiona-byrne/2024-ngv-gala-pink-carpet-spectacular-see-all-the-glamour/news-story/6451c8f7b475d38d4293f7490a2c5609",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlSL7nj0bWxT4WigFGCmHLD-TVbkRNQ5bcfUbM0XawGS5tIp--ub_WjISt5Io",
-        "source": "Herald Sun"
-      },
-      {
-        "title": "Julia Fox flaunts her quirky style as she shows off her bizarre cherry red heels and carries mirror and chande",
-        "snippet": "",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-14192441/Julia-Fox-chainmail-gown-NGV-Gala-Melbourne.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStyQSnehlO4PWGrHmYVUCVExvU7RXLHdeJ3BfFaTMsbaQzC0f-ZqcberjIcg8",
-        "source": "Daily Mail"
-      }
-    ]
-  },
-  {
-    "title": "cameron diaz",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZtegHQWYm3rCWMzTNdMCigMf3iBAtuF1cJoU2wTG7CMh8Lny3LsTK_Cba1TU",
-    "picture_source": "9Honey Celebrity",
-    "news_items": [
-      {
-        "title": "Cameron Diaz reveals the secret to her happy marriage with Good Charlotte rocker Benji Madden",
-        "snippet": "",
-        "url": "https://celebrity.nine.com.au/latest/cameron-diaz-benji-madden-marriage-secret-new-podcast-interview-comments-therapy/a19f7398-3131-41ad-87ba-9b4b01bed01b",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZtegHQWYm3rCWMzTNdMCigMf3iBAtuF1cJoU2wTG7CMh8Lny3LsTK_Cba1TU",
-        "source": "9Honey Celebrity"
-      },
-      {
-        "title": "Cameron Diaz reveals she’s in therapy with husband Benji Madden: ‘Thank God’",
-        "snippet": "",
-        "url": "https://www.yahoo.com/entertainment/cameron-diaz-reveals-she-therapy-195512280.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPVa6fmdz34llmGrt8pbr2yDWEpus-lUaU1kSj1I-CXv3Uf65FbiTlGaF6_oY",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Cameron Diaz Shares Honest Role Therapy Plays in Her and Husband Benji Madden's Relationship - E! Online",
-        "snippet": "",
-        "url": "https://www.eonline.com/news/1411078/cameron-diaz-shares-honest-role-therapy-plays-in-her-and-husband-benji-maddens-relationship",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_Hq1SP-2fkueZU0vELk94ddhk2aM1wr0HkgGpfOuqnBtYQdMFR-QatWuWho",
-        "source": "E! Online"
-      }
-    ]
-  },
-  {
-    "title": "guy pearce",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Sat, 14 Dec 2024 02:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ130kf1xrniU14tSLM7XpUmmevprni3Oifm6WVybDwpEBHUswxJN56GTCMrqQ",
-    "picture_source": "Vanity Fair",
-    "news_items": [
-      {
-        "title": "Guy Pearce Knows Exactly Why He Wasn’t Cast in ‘Batman Begins’",
-        "snippet": "",
-        "url": "https://www.vanityfair.com/hollywood/story/guy-pearce-the-brutalist",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ130kf1xrniU14tSLM7XpUmmevprni3Oifm6WVybDwpEBHUswxJN56GTCMrqQ",
-        "source": "Vanity Fair"
-      },
-      {
-        "title": "Guy Pearce Says He Never Acted in Chris Nolan Films After ‘Memento’ Because a Warner Bros. Exec Disliked His Acting and Said: ‘I’m Never Going to Employ’ You",
-        "snippet": "",
-        "url": "https://variety.com/2024/film/news/guy-pearce-stopped-acting-christopher-nolan-movies-warner-bros-exec-1236248643/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4tiCKWFTv8nBEj7RXH1q-a_pdNNMEu7puAmhz_ErthTA5hwYJ4xgILiIIFM",
-        "source": "Variety"
-      },
-      {
-        "title": "Guy Pearce claims film exec barred him from working with Christopher Nolan again",
-        "snippet": "",
-        "url": "https://www.independent.co.uk/arts-entertainment/films/news/guy-pearce-christopher-nolan-memento-warner-bros-b2664206.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSduqNakYJliwGg5yTdJ3eRTfZSJd2mV8zT6pGPMj_Bvvwfm9csUwI2dcKAtw",
-        "source": "The Independent"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "yellow",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "yellow",
+  "Goal 9 Rating": "yellow",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "orange",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "yellow",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": 99.3495,
+  "Goal 2 Score": 58.326375,
+  "Goal 3 Score": 95.8358571428571,
+  "Goal 4 Score": 92.8973333333333,
+  "Goal 5 Score": 84.2445,
+  "Goal 6 Score": 90.7344,
+  "Goal 7 Score": 72.442,
+  "Goal 8 Score": 82.9075714285714,
+  "Goal 9 Score": 92.0275714285714,
+  "Goal 10 Score": 79.1725,
+  "Goal 11 Score": 93.42575,
+  "Goal 12 Score": 53.2862857142857,
+  "Goal 13 Score": 28.1256666666667,
+  "Goal 14 Score": 67.664,
+  "Goal 15 Score": 64.4796,
+  "Goal 16 Score": 84.8335454545454,
+  "Goal 17 Score": 67.2788
+}

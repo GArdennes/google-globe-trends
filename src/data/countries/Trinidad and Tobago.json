@@ -1,157 +1,36 @@
-[
-  {
-    "title": "trinidad express",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Sat, 14 Dec 2024 02:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTltO9-WReYqF8CLCPTzyOhefk2AZZxOjGy63d4gxDxI6QKBXT-la4gLVebl-Q",
-    "picture_source": "Trinidad Express Newspapers",
-    "news_items": [
-      {
-        "title": "Speaker to Young: Explain 3-month delay",
-        "snippet": "",
-        "url": "https://trinidadexpress.com/news/local/speaker-to-young-explain-3-month-delay/article_08c9766e-b9cb-11ef-b8ef-a7a29cd215f5.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTltO9-WReYqF8CLCPTzyOhefk2AZZxOjGy63d4gxDxI6QKBXT-la4gLVebl-Q",
-        "source": "Trinidad Express Newspapers"
-      },
-      {
-        "title": "Wharf swimmer found dead in the gulf",
-        "snippet": "",
-        "url": "https://trinidadexpress.com/newsextra/wharf-swimmer-found-dead-in-the-gulf/article_2099ef54-ba01-11ef-93e3-a7d03c343cd0.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYsJ07fglAO8QqG3nAFICY6UNvqNqMBxe_7AtzJx1ANDAufn_IxbJnd68H64",
-        "source": "Trinidad Express Newspapers"
-      },
-      {
-        "title": "Body found off King's Wharf, San Fernando",
-        "snippet": "",
-        "url": "https://newsday.co.tt/2024/12/13/body-found-off-kings-wharf-san-fernando/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2F6oeOy7TlGapHP47pMuowsh11UagwEbJeSOlhyuNcJVPw-NbF14jJC0rMyo",
-        "source": "Trinidad and Tobago Newsday"
-      }
-    ]
-  },
-  {
-    "title": "weather tomorrow",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Fri, 13 Dec 2024 17:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-    "picture_source": "5 EYEWITNESS NEWS",
-    "news_items": [
-      {
-        "title": "Ken says a warming begins today",
-        "snippet": "",
-        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-        "source": "5 EYEWITNESS NEWS"
-      },
-      {
-        "title": "Warmer temps this weekend and especially for next week",
-        "snippet": "",
-        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
-        "source": "WIS News 10"
-      },
-      {
-        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
-        "snippet": "",
-        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
-        "source": "WLWT"
-      }
-    ]
-  },
-  {
-    "title": "australia vs india",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Fri, 13 Dec 2024 16:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Ie-bkpSEFVb6wVIdUbV7KDipVqWjPMW4LYhQ2eZihq7PdEuAhEwHXk4x6P0",
-    "picture_source": "ESPNcricinfo",
-    "news_items": [
-      {
-        "title": "Khawaja, McSweeney steady for 13.2 overs before rain ruins day one of Gabba Test",
-        "snippet": "",
-        "url": "https://www.espncricinfo.com/series/australia-vs-india-2024-25-1426547/australia-vs-india-3rd-test-1426557/match-report",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Ie-bkpSEFVb6wVIdUbV7KDipVqWjPMW4LYhQ2eZihq7PdEuAhEwHXk4x6P0",
-        "source": "ESPNcricinfo"
-      },
-      {
-        "title": "Australia vs India: Rain ruins day one of third Test in Brisbane",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/cricket/articles/c1d3exv3v9lo",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTngsumfQhgMBeFwE5JN5QPaT8CIhR5yrDngqGcKIR5vYAqtLPcvc61NCJTuug",
-        "source": "BBC"
-      },
-      {
-        "title": "Why India's toss decision at the Gabba defies history but not logic",
-        "snippet": "",
-        "url": "https://www.wisden.com/series/australia-vs-india-m-202425/cricket-news/why-indias-history-defying-decision-to-field-at-brisbane-isnt-as-bad-as-it-seems",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdT-hdMmQWSs9buew1Fa2G43GOMHqWcXusLuqVoBRt3yQt8AsuoRVfH_yTaak",
-        "source": "Wisden"
-      }
-    ]
-  },
-  {
-    "title": "new zealand vs england",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Fri, 13 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "New Zealand vs England: Matthew Potts and Gus Atkinson lead tourists in Hamilton",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/cricket/articles/cx27x3w8ypno",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
-        "source": "BBC"
-      },
-      {
-        "title": "Stokes motivates his team to put in extra effort, says England pacer Potts",
-        "snippet": "",
-        "url": "https://www.socialnews.xyz/2024/12/14/stokes-motivates-his-team-to-put-in-extra-effort-says-england-pacer-potts/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8yf16L3Z8OIdisEwTKYKo0Vk7tuAifDhD0UMf9sWS_QwHon8eOB5Z4KhX4Bw",
-        "source": "Social News XYZ"
-      },
-      {
-        "title": "Woakes replaced by Potts for final New Zealand Test match",
-        "snippet": "",
-        "url": "https://www.sportsmax.tv/cricket/cricket-international/item/155897-woakes-replaced-by-potts-for-final-new-zealand-test-match",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOHggd7E0Ajt2wUkvpH_k6VtKAnWRxhaQR6VLsWKk39I12bPqLH8wCQNTMCaA",
-        "source": "SportsMax"
-      }
-    ]
-  },
-  {
-    "title": "pakistan vs south africa",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Fri, 13 Dec 2024 08:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFY19KY3tmVOHSP4uhglANAWJ9vvzFULGWBMh-cljqo97Sp3-Evdj2VIAaNI",
-    "picture_source": "qhubo.com.ni",
-    "news_items": [
-      {
-        "title": "Missed the Bus, But Not the Moment! What a Comeback!",
-        "snippet": "",
-        "url": "https://www.qhubo.com.ni/news2/missed-the-bus-but-not-the-moment-what-a-comeback/9504/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFY19KY3tmVOHSP4uhglANAWJ9vvzFULGWBMh-cljqo97Sp3-Evdj2VIAaNI",
-        "source": "qhubo.com.ni"
-      },
-      {
-        "title": "RSA Vs PAK, 2nd T20I: Ton-Up Hendricks Takes South Africa To Series Win Over Pakistan",
-        "snippet": "",
-        "url": "https://www.outlookindia.com/sports/cricket/pakistan-vs-south-africa-2nd-t20i-reeza-hendricks-first-hundred-takes-sa-to-series-win-over-pak-in-pics",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Dhu9f5ZeI7jM8j8VbwaNzcECGqOuCIudmW3w7fc9eooXzOfLAUp1ihBCbS4",
-        "source": "Outlook India"
-      },
-      {
-        "title": "SA vs PAK Dream11 Team Prediction Fantasy Tips Predicted Playing XI Match 3 South Africa vs Pakistan T20I seri",
-        "snippet": "",
-        "url": "https://www.timesnownews.com/sports/cricket/sa-vs-pak-dream11-team-prediction-fantasy-tips-predicted-playing-xi-match-3-south-africa-vs-pakistan-t20i-series-2024-article-116314647",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5F-OcRZbpKpncSZsOd4Z9ySynRcbk8JiuPLZqOTNmKVevV-n3MhaE9F3ExHY",
-        "source": "Times Now"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "gray",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "gray",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 98.2665,
+  "Goal 2 Score": 46.36675,
+  "Goal 3 Score": 82.1725384615385,
+  "Goal 4 Score": 50.916,
+  "Goal 5 Score": 65.1655,
+  "Goal 6 Score": 70.60925,
+  "Goal 7 Score": 59.53825,
+  "Goal 8 Score": 73.126,
+  "Goal 9 Score": 42.3201428571429,
+  "Goal 10 Score": null,
+  "Goal 11 Score": 95.1055,
+  "Goal 12 Score": 63.941,
+  "Goal 13 Score": 42.008,
+  "Goal 14 Score": 51.4975,
+  "Goal 15 Score": 48.634,
+  "Goal 16 Score": 56.0148181818182,
+  "Goal 17 Score": 68.19575
+}

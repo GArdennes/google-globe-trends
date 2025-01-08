@@ -1,312 +1,36 @@
-[
-  {
-    "title": "mainz 05 – bayern",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ6TsMyhblFbkWvwO37kRDVhvGYr8MWxQz5BRJlHiQjXUbsrqBWf_Rs1nNjI0",
-    "picture_source": "Kicker",
-    "news_items": [
-      {
-        "title": "Liveticker | 1. FSV Mainz 05 - Bayern München : | 14. Spieltag | Bundesliga 2024/25",
-        "snippet": "",
-        "url": "https://www.kicker.de/mainz-gegen-bayern-2024-bundesliga-4936907/ticker",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ6TsMyhblFbkWvwO37kRDVhvGYr8MWxQz5BRJlHiQjXUbsrqBWf_Rs1nNjI0",
-        "source": "Kicker"
-      },
-      {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
-      },
-      {
-        "title": "Mainz fordert die Bayern heraus - FCK in Darmstadt zu Gast",
-        "snippet": "",
-        "url": "https://www.borkenerzeitung.de/welt/sport/Mainz-fordert-die-Bayern-heraus-FCK-in-Darmstadt-zu-Gast-579615.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYOyFEfb0AYPZzzQzx0zeJ6ruVrrrT88aY3sBBMuj8_fjExvTUf3Dm_42C_68",
-        "source": "Borkener Zeitung"
-      }
-    ]
-  },
-  {
-    "title": "arsenal – everton",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Premier League Arsenal versus Everton kick off 15:00 Sat 14 Dec 2024",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c047zvkyd10t",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-        "source": "BBC"
-      },
-      {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
-        "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-        "source": "Arsenal.com"
-      },
-      {
-        "title": "Arteta reveals key new Arsenal injury boost with another 'very close'",
-        "snippet": "",
-        "url": "https://www.standard.co.uk/sport/football/arsenal-fc-gabriel-calafiori-injury-latest-arteta-everton-b1199883.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRThWIrEQzcvn4LC63IHfy_XEFtiyADIV-g6pUVeJ3SLP9UoAiwZzJ81_egWsY",
-        "source": "London Evening Standard"
-      }
-    ]
-  },
-  {
-    "title": "liverpool – fulham",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1-jE4iB_88sIkXH1I2jKxvPriQ21SEwShEwKDLhV5mFQXkY8G9-B9d1cdWGA",
-    "picture_source": "This Is Anfield",
-    "news_items": [
-      {
-        "title": "Liverpool's expected lineup vs. Fulham with big Darwin Nunez decision - Liverpool FC",
-        "snippet": "",
-        "url": "https://www.thisisanfield.com/2024/12/liverpools-expected-lineup-vs-fulham-with-big-darwin-nunez-decision/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1-jE4iB_88sIkXH1I2jKxvPriQ21SEwShEwKDLhV5mFQXkY8G9-B9d1cdWGA",
-        "source": "This Is Anfield"
-      },
-      {
-        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
-        "snippet": "",
-        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
-        "source": "Liverpool FC"
-      },
-      {
-        "title": "\"They're in Great Form\" - Alan Shearer Previews Liverpool's Premier League Clash with Fulham",
-        "snippet": "",
-        "url": "https://anfieldindex.com/76425/theyre-in-great-form-alan-shearer-previews-liverpools-premier-league-clash-with-fulham.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8n8fAruf7VHqyvTYP3fLL7050EzMA6HFZ8u5NR-oBeZAZxJTS9UO94wVvfh8",
-        "source": "anfieldindex.com"
-      }
-    ]
-  },
-  {
-    "title": "parastoo ahmadi",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWq10Un3v-Vlukbs6lF4mzMXwRdUbj41AWUimiLk72_qllVUP9b6tpWNapE-8",
-    "picture_source": "Le Figaro",
-    "news_items": [
-      {
-        "title": "«Chanter pour le pays que j’aime si passionnément» : l’artiste iranienne Parastoo Ahmadi défie le régime et chante dévoilée",
-        "snippet": "",
-        "url": "https://www.lefigaro.fr/international/chanter-pour-le-pays-que-j-aime-si-passionnement-l-artiste-iranienne-parastoo-ahmadi-defie-le-regime-et-chante-devoilee-20241214",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWq10Un3v-Vlukbs6lF4mzMXwRdUbj41AWUimiLk72_qllVUP9b6tpWNapE-8",
-        "source": "Le Figaro"
-      },
-      {
-        "title": "Comment la République islamique d’Iran instrumentalise la santé mentale à des fins politiques",
-        "snippet": "",
-        "url": "https://www.rfi.fr/fr/moyen-orient/20241214-comment-la-r%C3%A9publique-islamique-d-iran-instrumentalise-la-sant%C3%A9-mentale-%C3%A0-des-fins-politiques",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGAnY1AViSCMv-0lv2ZAeikgdqubYDltNGVS9d0cbOAyUNePO7NI3JC8f-xoU",
-        "source": "RFI"
-      },
-      {
-        "title": "En Iran, le concert sans voile et sans public de la chanteuse underground Parastoo Ahmadi",
-        "snippet": "",
-        "url": "https://www.lemonde.fr/international/article/2024/12/14/en-iran-le-concert-sans-voile-et-sans-public-de-la-chanteuse-underground-parastoo-ahmadi_6448018_3210.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSc0tTwSNqxC2x-XOW_3okRNLDZh6OKFwx6xCKU-Vx2JAmlFxbFKmC6xeA1Co",
-        "source": "Le Monde.fr"
-      }
-    ]
-  },
-  {
-    "title": "augsbourg – leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjuJlhvG7UBqVhcthvpYatYF2eH1n74Juu3uwCoV9XyFtK224nqMSLN7-9IE",
-    "picture_source": "L'Équipe",
-    "news_items": [
-      {
-        "title": "DIRECT. Augsbourg-Bayer Leverkusen (Bundesliga 2024-2025) à suivre en direct",
-        "snippet": "",
-        "url": "https://www.lequipe.fr/Football/match-direct/championnat-d-allemagne/2024-2025/augsbourg-bayer-leverkusen-live/659410",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjuJlhvG7UBqVhcthvpYatYF2eH1n74Juu3uwCoV9XyFtK224nqMSLN7-9IE",
-        "source": "L'Équipe"
-      },
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "la roche sur yon",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXxmokUbkf9CuhgZLDEceg8ltBt5iL7hPDpmBFkXDANxgEGL_uT8vZJ24C8ow",
-    "picture_source": "Actu.fr",
-    "news_items": [
-      {
-        "title": "La Tribu yonnaise, une brasserie moderne XXL, ouvre dans l'ancien musée de La Roche-sur-Yon",
-        "snippet": "",
-        "url": "https://actu.fr/pays-de-la-loire/la-roche-sur-yon_85191/la-tribu-yonnaise-une-brasserie-moderne-xxl-ouvre-dans-lancien-musee-de-la-roche-sur-yon_61991526.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXxmokUbkf9CuhgZLDEceg8ltBt5iL7hPDpmBFkXDANxgEGL_uT8vZJ24C8ow",
-        "source": "Actu.fr"
-      },
-      {
-        "title": "Girondins de Bordeaux. Pression maximum, Diallo et l’efficacité à trouver, l’adversaire, les mots d’Irles… ce qu’il faut savoir avant le déplacement à La Roche-sur-Yon",
-        "snippet": "",
-        "url": "https://www.sudouest.fr/sport/football/girondins-de-bordeaux/girondins-de-bordeaux-pression-maximum-diallo-et-l-efficacite-a-trouver-l-adversaire-les-mots-d-irles-ce-qu-il-faut-savoir-avant-le-deplacement-a-la-roche-sur-yon-22519615.php",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSocyhnu4-GMUjSDfg0U21V9z5_yvqW4kiQyQsZ75WD33ydWT1yDBq01S-TyDs",
-        "source": "Sud Ouest"
-      },
-      {
-        "title": "La Roche VF-Bordeaux : le groupe des Girondins avec Andy Carroll",
-        "snippet": "",
-        "url": "https://www.webgirondins.com/actualite-girondins-la-roche-vf-bordeaux-le-groupe-des-girondins-avec-andy-carroll-127440",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf5B1COlotNsgwZPGXgLr3mkqt-64ruLd15jfVhIyITW0zG526TttWUaPkl-4",
-        "source": "WebGirondins"
-      }
-    ]
-  },
-  {
-    "title": "anna wintour",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ10GA_bW6rF1z6PvS6FoZGN6ToOPqjimyufQRIps7o7M0VRzq5ulbJm85Fl1M",
-    "picture_source": "Le Monde.fr",
-    "news_items": [
-      {
-        "title": "En 2024, la reine de la mode Anna Wintour fait toujours l’événement",
-        "snippet": "",
-        "url": "https://www.lemonde.fr/m-styles/article/2024/12/14/en-2024-la-reine-de-la-mode-anna-wintour-fait-toujours-l-evenement_6447738_4497319.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ10GA_bW6rF1z6PvS6FoZGN6ToOPqjimyufQRIps7o7M0VRzq5ulbJm85Fl1M",
-        "source": "Le Monde.fr"
-      },
-      {
-        "title": "‘Quite extraordinary’: Anna Wintour launches immersive theatre fashion show",
-        "snippet": "",
-        "url": "https://www.theguardian.com/fashion/2024/dec/04/quite-extraordinary-anna-wintour-launches-immersive-theatre-fashion-show",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbnQ8-90iMAPRomuR5iKNiSC0dWNgU7o2uNfo7M65aYV7xUY_2PqJ6tOiWhBk",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Join the Vogue team at Lightroom London this Thursday!",
-        "snippet": "",
-        "url": "https://www.vogue.com/article/vogue-club/event/lightroom-london",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJTtHXM331vubjIABF0EUrXCrCLE_d43-SWLhnHuAoRWdwymts41zYQpHxAkk",
-        "source": "Vogue"
-      }
-    ]
-  },
-  {
-    "title": "grand palais",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_n8qJXrhbKnCDLlAOUc_IKBtOEkbcYdMomoLEwwtWclqn87LR2h932ZncO8",
-    "picture_source": "Grand Palais",
-    "news_items": [
-      {
-        "title": "5 choses à savoir sur Chiharu Shiota, l’artiste qui connecte les âmes et tisse les émotions",
-        "snippet": "",
-        "url": "https://www.grandpalais.fr/fr/article/5-choses-savoir-sur-chiharu-shiota-lartiste-qui-connecte-les-ames-et-tisse-les-emotions",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_n8qJXrhbKnCDLlAOUc_IKBtOEkbcYdMomoLEwwtWclqn87LR2h932ZncO8",
-        "source": "Grand Palais"
-      },
-      {
-        "title": "Le Grand Palais présente la plus grande exposition jamais consacrée à Chiharu Shiota",
-        "snippet": "",
-        "url": "https://www.beauxarts.com/expos/au-grand-palais-la-magie-de-chiharu-shiota-dans-un-parcours-qui-deroule-le-fil-de-20-ans-de-carriere/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmILyDH2ZiyP--x57oVIJ8gs9E5dxDhN63yPtnYWVmryS_ke4_OBu42yeGEqc",
-        "source": "Beaux Arts Magazine"
-      },
-      {
-        "title": "Exposition Chiharu Shiota au Grand Palais à Paris : « Mon fil est le crayon avec lequel je dessine en trois dimensions. »",
-        "snippet": "",
-        "url": "https://www.connaissancedesarts.com/arts-expositions/art-contemporain/exposition-chiharu-shiota-au-grand-palais-a-paris-mon-fil-est-le-crayon-avec-lequel-je-dessine-en-trois-dimensions-11197336/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPR3MG5TFz3yin12QiMBJcnn7zk89Ct8mdjVgSJ_7W6s3XIHr-mzmUFklTmGg",
-        "source": "Connaissance des Arts"
-      }
-    ]
-  },
-  {
-    "title": "cagliari – atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8DJEHgCx85PpVAgPp-GSHYynXF9r3_sCsE3jD4q3hrrtmW53fyGmy6n0Uk8w",
-    "picture_source": "Fantacalcio",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: le formazioni ufficiali",
-        "snippet": "",
-        "url": "https://www.fantacalcio.it/news/calcio-italia/14_12_2024/cagliari-atalanta-le-formazioni-ufficiali-470451",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8DJEHgCx85PpVAgPp-GSHYynXF9r3_sCsE3jD4q3hrrtmW53fyGmy6n0Uk8w",
-        "source": "Fantacalcio"
-      },
-      {
-        "title": "Le \"ufficiali\": Lookman e De Roon partono dalla panchina",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/le-formazioni-atalanta-con-il-tridente/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRBNwTgWbpvdBN6RX_ig6qboF9pv2gQHkJqX8qoMzwahDyWbKSAsvUURYuSOM",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "bergerac",
-    "link": "https://trends.google.com/trending/rss?geo=FR",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSeXRa0eGTK5x-3aI7pYvYfSCEMJ4FR-0qWb8Y4U3403OXFEvcvBUFPkrz9hg",
-    "picture_source": "Sud Ouest",
-    "news_items": [
-      {
-        "title": "Des idées cadeaux pour chaque membre de la famille sur le marché de Noël de Bergerac",
-        "snippet": "",
-        "url": "https://www.sudouest.fr/dordogne/bergerac/des-idees-cadeaux-pour-chaque-membre-de-la-famille-sur-le-marche-de-noel-de-bergerac-22449966.php",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSeXRa0eGTK5x-3aI7pYvYfSCEMJ4FR-0qWb8Y4U3403OXFEvcvBUFPkrz9hg",
-        "source": "Sud Ouest"
-      },
-      {
-        "title": "La soupe du cœur des chefs : une tradition solidaire à Bergerac",
-        "snippet": "",
-        "url": "https://www.radiofrance.fr/francebleu/podcasts/l-art-de-vivre-en-perigord/la-soupe-du-coeur-des-chefs-une-tradition-solidaire-a-bergerac-5584400",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnGtl5LZisNPlICCWxIQBFJpfDutYfLvMeHAn_xAADlNn79xjJh8pAslHLg8",
-        "source": "Radio France"
-      },
-      {
-        "title": "Dordogne. Les Soupes du coeur des chefs, c’est samedi",
-        "snippet": "",
-        "url": "https://www.ledemocratedebergerac.fr/dordogne-soupes/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAj7lhXK12nk3ZYnJWkOat7StWw7jNQq60FYFf10MZK4wtTQ9LOMDZ70540w8",
-        "source": "Le Démocrate Indépendant"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "yellow",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "yellow",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "orange",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 99.4905,
+  "Goal 2 Score": 76.226875,
+  "Goal 3 Score": 93.6959285714286,
+  "Goal 4 Score": 99.8396666666667,
+  "Goal 5 Score": 86.79575,
+  "Goal 6 Score": 87.9028,
+  "Goal 7 Score": 78.8565,
+  "Goal 8 Score": 81.4638571428572,
+  "Goal 9 Score": 92.1394285714286,
+  "Goal 10 Score": 88.9305,
+  "Goal 11 Score": 97.6865,
+  "Goal 12 Score": 58.8967142857143,
+  "Goal 13 Score": 81.5946666666667,
+  "Goal 14 Score": 65.3421666666667,
+  "Goal 15 Score": 77.649,
+  "Goal 16 Score": 75.0946363636364,
+  "Goal 17 Score": 65.3334
+}

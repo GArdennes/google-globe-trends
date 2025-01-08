@@ -1,95 +1,36 @@
-[
-  {
-    "title": "rcd espanyol - osasuna",
-    "link": "https://trends.google.com/trending/rss?geo=NI",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
-    "picture_source": "Infobae",
-    "news_items": [
-      {
-        "title": "Tejero, Kumbulla, Romero y Roca, novedades en el Espanyol; Ibáñez y Raúl, en el Osasuna",
-        "snippet": "",
-        "url": "https://www.infobae.com/espana/agencias/2024/12/14/tejero-kumbulla-romero-y-roca-novedades-en-el-espanyol-ibanez-y-raul-en-el-osasuna/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
-        "source": "Infobae"
-      },
-      {
-        "title": "Portada ‘El 1900’ del sábado 14 de diciembre de 2024",
-        "snippet": "",
-        "url": "https://el1900.com/portada-el1900-14-diciembre-2024-espanyol-ca-osasuna/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfp8O-Fn4mBFoYvxlNZGcQz-wscct86d1cDCfXXCDbExYzmN3nes7oJUDV2l8",
-        "source": "El 1900"
-      },
-      {
-        "title": "Manolo González toma decisión: Plan B por las bajas de Jofre Carreras y Omar El Hilali",
-        "snippet": "",
-        "url": "https://xcatalunya.cat/es/deportes/manolo-gonzalez-toma-decision-plan-b-por-bajas-jofre-carreras-y-omar-hilali",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEvkeYi1_7lamYHtm5ZNkeiGtuHfSN1BFfUhZu_FIOHRAes_JF9sCpxbpoS3k",
-        "source": "xcatalunya.cat"
-      }
-    ]
-  },
-  {
-    "title": "cagliari - atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=NI",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-    "picture_source": "Virgilio Sport",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
-        "snippet": "",
-        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-        "source": "Virgilio Sport"
-      },
-      {
-        "title": "La vostra formazione: voglia di Retegui dal 1′",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "valladolid - valencia c. f.",
-    "link": "https://trends.google.com/trending/rss?geo=NI",
-    "pubdate": "Fri, 13 Dec 2024 12:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
-    "picture_source": "Marca.com",
-    "news_items": [
-      {
-        "title": "El Valladolid condena a Baraja",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/primera-division/cronica/2024/12/13/675c8e17ca47413b758b45bc.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Noticias Deportes 10:00 (14/12/24)",
-        "snippet": "",
-        "url": "https://www.ondacero.es/deportes/ultimas-noticias/noticias-deportes-1000-141224_20241214675d4ad76495a1000158963d.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnyGJMAVMNqUT-lCjdmbsTMPM0lpNorxlS81iqBWAL1C2ikJ6hd6yym_iMmCs",
-        "source": "Onda Cero"
-      },
-      {
-        "title": "Sigue toda la actualidad del fúbol en directo en Flashscore | Flashscore.es",
-        "snippet": "",
-        "url": "https://www.flashscore.es/noticias/futbol-laliga-ea-sports-futbol-en-directo-navas-se-despide-en-el-pizjuan-y-el-real-madrid-visita-vallecas/Iop1urgm/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4h8kwYiSlFI3LYvRQQj0WBh6j0CDKP32-UdVNDzoIPc8awxA5qO0DXqhiUlk",
-        "source": "Flashscore.es"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "orange",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "red",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "green",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 73.6675,
+  "Goal 2 Score": 47.339125,
+  "Goal 3 Score": 77.1767142857143,
+  "Goal 4 Score": 73.40675,
+  "Goal 5 Score": 83.5755,
+  "Goal 6 Score": 66.1002,
+  "Goal 7 Score": 60.1115,
+  "Goal 8 Score": 66.53,
+  "Goal 9 Score": 32.0764285714286,
+  "Goal 10 Score": 23.662,
+  "Goal 11 Score": 65.88575,
+  "Goal 12 Score": 88.8855714285714,
+  "Goal 13 Score": 97.0103333333333,
+  "Goal 14 Score": 62.1998333333333,
+  "Goal 15 Score": 68.006,
+  "Goal 16 Score": 48.6693,
+  "Goal 17 Score": 64.9884
+}

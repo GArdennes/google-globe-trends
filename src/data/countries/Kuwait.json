@@ -1,188 +1,36 @@
-[
-  {
-    "title": "isl",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HJr0Su6v5-KNy2Db529KbTo2xk6fYUMAJqy5FdEe-8DvjMIcTVdYvh4LCHI",
-    "picture_source": "Sportstar",
-    "news_items": [
-      {
-        "title": "Mohun Bagan vs Kerala Blasters LIVE SCORE: MBSG v KBFC, ISL 2024-25 live streaming info",
-        "snippet": "",
-        "url": "https://sportstar.thehindu.com/football/indian-football/mohun-bagan-sg-vs-kerala-blasters-live-score-mbsg-v-kbfc-updates-lineups-isl-2024-25-goals-highlights/article68985242.ece",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HJr0Su6v5-KNy2Db529KbTo2xk6fYUMAJqy5FdEe-8DvjMIcTVdYvh4LCHI",
-        "source": "Sportstar"
-      },
-      {
-        "title": "Jose Molina highlights on potential striker rotation and Vishal Kaith's importance ahead of Kerala Blasters clash",
-        "snippet": "",
-        "url": "https://khelnow.com/football/indian-football-isl-jose-molina-pre-pc-202412-2",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUlKD4Z4Vhfdgzev5KySN9ARPvBC4cDIf26ol4jfnX9OFcF4Ppq6RkTZKeLDQ",
-        "source": "Khel Now"
-      },
-      {
-        "title": "ISL: Mohun Bagan look to continue home run in clash against Kerala Blasters",
-        "snippet": "",
-        "url": "https://www.telegraphindia.com/sports/football/isl-mohun-bagan-super-giant-look-to-continue-home-run-in-clash-against-kerala-blasters/cid/2070617",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9yvs9phOC9WDb0r7XtydB0sUOa0oobC___Rm6CTL6we1BdNzkbjpt7eGO_1I",
-        "source": "Telegraph India"
-      }
-    ]
-  },
-  {
-    "title": "zimbabwe vs afghanistan",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Sat, 14 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhUWVMhOQ8D___AeWNNiVl5GSty-wrXSgV7-NrdfDNyUPXg4Gbaka30UyJs7E",
-    "picture_source": "Cricbuzz.com",
-    "news_items": [
-      {
-        "title": "Zimbabwe vs Afghanistan, 2nd T20I",
-        "snippet": "",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/109327/afg-vs-zim-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhUWVMhOQ8D___AeWNNiVl5GSty-wrXSgV7-NrdfDNyUPXg4Gbaka30UyJs7E",
-        "source": "Cricbuzz.com"
-      },
-      {
-        "title": "Zimbabwe vs Afghanistan 3rd T20I Live Streaming And Live Telecast: When And Where To Watch",
-        "snippet": "",
-        "url": "https://sports.ndtv.com/cricket/zimbabwe-vs-afghanistan-3rd-t20i-live-streaming-and-live-telecast-when-and-where-to-watch-7246398",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCSTWCYHKb44-OGTo1KadcjA-2ybGK06kmLgfEwGuU99l5AotkATJxalRqQ4",
-        "source": "NDTV Sports"
-      },
-      {
-        "title": "2nd T20I: Rasooli leads Afghanistan to 50-run victory over Zimbabwe",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/2nd-t20i-rasooli-leads-afghanistan-to-50-run-victory-over-zimbabwe/articleshow/116296305.cms",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1ER2uQG8FfOAzjOS1JO02AzjsoZqN28t0r3JfwCbLZkD1rd0BSCCmRZmI7SU",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "bahrain vs kuwait",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Sat, 14 Dec 2024 00:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoHCWTKQbJfngheNobziD_wGwvrcSJ17giXw-Ns17i60N4LStvldkFznMhUvI",
-    "picture_source": "Times of India",
-    "news_items": [
-      {
-        "title": "ILT20 Gulf Cricket Championship 2024: UAE, Kuwait start with wins",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-gulf-cricket-championship-2024-uae-kuwait-start-with-wins/articleshow/116307873.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoHCWTKQbJfngheNobziD_wGwvrcSJ17giXw-Ns17i60N4LStvldkFznMhUvI",
-        "source": "Times of India"
-      },
-      {
-        "title": "Kuwait vs Bahrain, 3rd Match",
-        "snippet": "",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/112241/bhr-vs-kuw-3rd-match-gulf-cricket-t20i-championship",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT59Lu8rmA8kSoIgZFWvXRIz0QTFHl6MDEWRWAvVaYByNWx0qsk0ldyjEMUQwA",
-        "source": "Cricbuzz.com"
-      },
-      {
-        "title": "QAT vs OMN Dream11 Prediction Today Match 4 Gulf Cup T20I 2024",
-        "snippet": "",
-        "url": "https://cricketaddictor.com/fantasy-cricket/qat-vs-omn-dream11-prediction-today-match-4-gulf-cup-t20i-2024/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoOcKBTc9Y4SnYNTyFWOEkz_kvXUVMLtPfRFaVcn9iqM_No65csWoz3t5yrO0",
-        "source": "Cricket Addictor"
-      }
-    ]
-  },
-  {
-    "title": "new zealand vs england",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Fri, 13 Dec 2024 18:20:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ_tsyJ4ZJaBKHQUCfneWZLxcTTTjqNTi197hFugK6MsXgm09N2P3ULhdhJcU",
-    "picture_source": "The National",
-    "news_items": [
-      {
-        "title": "NZ v England 3rd Test - Day 1",
-        "snippet": "",
-        "url": "https://www.thenationalnews.com/sport/cricket/2024/12/14/nz-v-england-3rd-test-day-1/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ_tsyJ4ZJaBKHQUCfneWZLxcTTTjqNTi197hFugK6MsXgm09N2P3ULhdhJcU",
-        "source": "The National"
-      },
-      {
-        "title": "Stokes motivates his team to put in extra effort, says England pacer Potts",
-        "snippet": "",
-        "url": "https://www.socialnews.xyz/2024/12/14/stokes-motivates-his-team-to-put-in-extra-effort-says-england-pacer-potts/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8yf16L3Z8OIdisEwTKYKo0Vk7tuAifDhD0UMf9sWS_QwHon8eOB5Z4KhX4Bw",
-        "source": "Social News XYZ"
-      },
-      {
-        "title": "Matt Potts impresses and Gus Atkinson's Anderson-style spell: Five takeaways from England's disciplined first day in Hamilton",
-        "snippet": "",
-        "url": "https://www.wisden.com/series/new-zealand-vs-england-m-202425/cricket-news/matt-potts-impresses-and-gus-atkinsons-anderson-style-spell-x-takeaways-from-englands-disciplined-first-day-in-hamilton",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2O9ZL_bAciQfC1_RwjSF0ZSBrojVEaUBVyWQS8ZXqMu0sClGC8csTKoB0xhs",
-        "source": "Wisden"
-      }
-    ]
-  },
-  {
-    "title": "australia vs india",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Fri, 13 Dec 2024 16:00:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-VBWpTev9fPIcidvYdOmuaqB7E13gOJHxpnsUjmXUTIERfB3VR6MqRKvBYJg",
-    "picture_source": "ESPNcricinfo",
-    "news_items": [
-      {
-        "title": "Ball by Ball Commentary & Live Score - AUS vs IND, 3rd Test",
-        "snippet": "",
-        "url": "https://www.espncricinfo.com/series/australia-vs-india-2024-25-1426547/australia-vs-india-3rd-test-1426557/ball-by-ball-commentary",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-VBWpTev9fPIcidvYdOmuaqB7E13gOJHxpnsUjmXUTIERfB3VR6MqRKvBYJg",
-        "source": "ESPNcricinfo"
-      },
-      {
-        "title": "Has Brisbane weather misled Rohit Sharma into bowling first in Gabba Test",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/has-brisbane-weather-misled-rohit-sharma-into-bowling-first-in-the-gabba-test/articleshow/116306683.cms",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPdqoLNOU80dBrRZGkb_q-OYUuYvbrRzloZcvjhxF6N-U3e_CXMKfieV9dez0",
-        "source": "Times of India"
-      },
-      {
-        "title": "India Take Big Step, Make 2 Significant Changes In Playing XI For 3rd Test Against Australia",
-        "snippet": "",
-        "url": "https://sports.ndtv.com/australia-vs-india-2024-25/india-take-big-step-make-2-significant-changes-in-playing-xi-in-3rd-test-against-australia-7244193",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wNUZVPgmnQ20KBNBqgAurC8lLiSErJBQQNCp1yy9RgGIY1ejF5F-a6_zg2s",
-        "source": "NDTV Sports"
-      }
-    ]
-  },
-  {
-    "title": "pakistan vs south africa",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Fri, 13 Dec 2024 07:40:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCil_ImF3DbYxVoJ1OIN7LpcnKPEhN7nVIuYeVNnqYGYwXrvYslyLZpo3m7Q",
-    "picture_source": "ESPNcricinfo",
-    "news_items": [
-      {
-        "title": "Hendricks' maiden T20I ton hands SA first series win since August 2022",
-        "snippet": "",
-        "url": "https://www.espncricinfo.com/series/south-africa-vs-pakistan-2024-25-1432205/south-africa-vs-pakistan-2nd-t20i-1432212/match-report",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCil_ImF3DbYxVoJ1OIN7LpcnKPEhN7nVIuYeVNnqYGYwXrvYslyLZpo3m7Q",
-        "source": "ESPNcricinfo"
-      },
-      {
-        "title": "SA vs PAK 3rd T20I Dream11 Fantasy Top Picks For Today's Match",
-        "snippet": "",
-        "url": "https://cricket.one/fantasy-analysis/sa-vs-pak-3rd-t20i-dream11-fantasy-tips-5-top-picks-for-grand-league-contests/675d66c4c521c65b36a98802",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmUeWyfldQIoZdK2Lc05QLaIWEDrN5yOO7p_NFf0HkPoxJYXnPuPKkbUvuP5U",
-        "source": "cricket.one"
-      },
-      {
-        "title": "SA vs PAK 2nd T20I: Saim Ayub stars as Pakistan scores first 200+ total in T20Is in 54 matches",
-        "snippet": "",
-        "url": "https://www.sportingnews.com/in/cricket/news/sa-pak-2nd-t20i-saim-ayub-pakistan-score-first-200-54-matches/4b1e58c531afbe344fea6481",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr1FH7l3qvvPlvOIT_LiBuadzmSNMeTc0xvYhWNzMGbR0j_J35QBrDvrWABDM",
-        "source": "Sporting News"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "gray",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "yellow",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "red",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "gray",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": null,
+  "Goal 2 Score": 69.027625,
+  "Goal 3 Score": 90.4007692307692,
+  "Goal 4 Score": 73.379,
+  "Goal 5 Score": 50.2665,
+  "Goal 6 Score": 46.6368,
+  "Goal 7 Score": 69.64825,
+  "Goal 8 Score": 68.288,
+  "Goal 9 Score": 70.5521428571429,
+  "Goal 10 Score": null,
+  "Goal 11 Score": 51.2203333333333,
+  "Goal 12 Score": 51.968,
+  "Goal 13 Score": 32.9943333333333,
+  "Goal 14 Score": 48.591,
+  "Goal 15 Score": 62.514,
+  "Goal 16 Score": 70.3426666666667,
+  "Goal 17 Score": 61.4112
+}

@@ -1,95 +1,36 @@
-[
-  {
-    "title": "meteo",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Fri, 13 Dec 2024 22:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57h2MzczXjyChPm0lYo5J0xpRIyYObewctk30q42k_xQuYTK9OiKLeAA12G8",
-    "picture_source": "Meteo Giornale",
-    "news_items": [
-      {
-        "title": "Holiday Weather, Everything Will Happen: From Heat to Polar Cold",
-        "snippet": "",
-        "url": "https://www.meteogiornale.it/eng/2024/12/weather-news/holiday-weather-everything-will-happen-from-heat-to-polar-cold/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57h2MzczXjyChPm0lYo5J0xpRIyYObewctk30q42k_xQuYTK9OiKLeAA12G8",
-        "source": "Meteo Giornale"
-      },
-      {
-        "title": "Mid-December Could Be Much Different Than Early December",
-        "snippet": "",
-        "url": "https://www.yahoo.com/news/mid-december-could-much-different-214415057.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUka18rG3TBvwf6IXIu8csXjSUojs9Iuvb66juJEF9ShVOfQfYQ4NI5YbfqFs",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Weather outlook for the holidays in December and January",
-        "snippet": "",
-        "url": "https://lismoreapp.com.au/NewsStory/weather-outlook-for-the-holidays-in-december-and-january/675c131f433c61002d52fc04",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNd20z-8IBxKT6AxLgn4jPdGHDTBaD94_x8e1m3j9u45rrGXENsGhv8kgjmL0",
-        "source": "The Lismore App"
-      }
-    ]
-  },
-  {
-    "title": "mrbeast",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Fri, 13 Dec 2024 18:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe70-9NkJaWm2HGgeEDTcjHMs956zqA10tYVYnv7gggO-14uKrLC3qX3-Flzo",
-    "picture_source": "The Economic Times",
-    "news_items": [
-      {
-        "title": "MrBeast subscribes to T-Series YouTube channel in 'biggest' social media collaboration ever",
-        "snippet": "",
-        "url": "https://m.economictimes.com/magazines/panache/mrbeast-subscribes-to-t-series-youtube-channel-in-biggest-social-media-collaboration-ever/articleshow/116159160.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe70-9NkJaWm2HGgeEDTcjHMs956zqA10tYVYnv7gggO-14uKrLC3qX3-Flzo",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "T-Series, MrBeast finally end 'subscriber-race' with a surprise deal",
-        "snippet": "",
-        "url": "https://www.newsbytesapp.com/news/entertainment/mrbeast-t-series-end-subscriber-race-with-a-surprise-deal/story",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwsjnUqvoqg2JN6oO-_q-TLVlo9lYQ3xE4yxDVa-GR2Hwr2q3Xi_hrzXwB5y8",
-        "source": "NewsBytes"
-      },
-      {
-        "title": "MrBeast Flies To India And Ends Rivalry With T-series, Lauds Indian Creators",
-        "snippet": "",
-        "url": "https://www.timesnownews.com/entertainment-news/hollywood/mrbeast-flies-to-india-and-ends-rivalry-with-bhushan-kumars-t-series-lauds-indian-creators-article-116187324",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiWR5jkG0CqPb4pCjtMweVL7c97WOX5ifW6JDv11_Dq6sgtS6HcHbaEyfxANk",
-        "source": "Times Now"
-      }
-    ]
-  },
-  {
-    "title": "weather tomorrow",
-    "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Fri, 13 Dec 2024 11:30:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-    "picture_source": "5 EYEWITNESS NEWS",
-    "news_items": [
-      {
-        "title": "Ken says a warming begins today",
-        "snippet": "",
-        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-        "source": "5 EYEWITNESS NEWS"
-      },
-      {
-        "title": "Warmer temps this weekend and especially for next week",
-        "snippet": "",
-        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
-        "source": "WIS News 10"
-      },
-      {
-        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
-        "snippet": "",
-        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
-        "source": "WLWT"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "yellow",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 98.632,
+  "Goal 2 Score": 57.9004285714286,
+  "Goal 3 Score": 82.4892857142857,
+  "Goal 4 Score": 90.5895,
+  "Goal 5 Score": 58.132,
+  "Goal 6 Score": 75.3298,
+  "Goal 7 Score": 87.84175,
+  "Goal 8 Score": 63.9442857142857,
+  "Goal 9 Score": 48.4044285714286,
+  "Goal 10 Score": 92.449,
+  "Goal 11 Score": 88.8916666666667,
+  "Goal 12 Score": 79.1077142857143,
+  "Goal 13 Score": 89.5655,
+  "Goal 14 Score": 49.186,
+  "Goal 15 Score": 82.2742,
+  "Goal 16 Score": 62.3673636363636,
+  "Goal 17 Score": 68.3796
+}

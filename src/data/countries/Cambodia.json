@@ -1,188 +1,36 @@
-[
-  {
-    "title": "cuaca besok",
-    "link": "https://trends.google.com/trending/rss?geo=KH",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdVICJvIJJMwWa82xtArG4coE7tcLPuUJfylpvcWo-AuTynQo-6gVEmj3JVpI",
-    "picture_source": "republika.co.id",
-    "news_items": [
-      {
-        "title": "Prakiraan Cuaca Besok 15 Desember 2024 untuk Bandung dan Sekitarnya: Hujan Ringan",
-        "snippet": "",
-        "url": "https://news.republika.co.id/berita/soh4me844094096/prakiraan-cuaca-besok-15-desember-2024-untuk-bandung-dan-sekitarnya-hujan-ringan",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdVICJvIJJMwWa82xtArG4coE7tcLPuUJfylpvcWo-AuTynQo-6gVEmj3JVpI",
-        "source": "republika.co.id"
-      },
-      {
-        "title": "Prediksi Cuaca Dasarian Kedua Desember 2024, BMKG: Separuh Jawa Barat Dapat Hujan Menengah",
-        "snippet": "",
-        "url": "https://www.tempo.co/lingkungan/prediksi-cuaca-dasarian-kedua-desember-2024-bmkg-separuh-jawa-barat-dapat-hujan-menengah--1180277",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZHXh9gxysMyQ2J4mqBk5Fxjyyn5iIN5l8coJ9SZR1Gl0AaWivFbh3-o6GnXM",
-        "source": "Tempo.co"
-      },
-      {
-        "title": "Bandung Hari Ini: Berawan Tebal hingga Hujan Ringan",
-        "snippet": "",
-        "url": "https://rri.co.id/lain-lain/1187869/bandung-hari-ini-berawan-tebal-hingga-hujan-ringan",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR4dSVKdmLiCW2PdvpwVFhD7Gvc21qjf_oSGeMM-K-kSyR5g0oy2QJaNVD_4w",
-        "source": "RRI.co.id"
-      }
-    ]
-  },
-  {
-    "title": "thailand vs malaysia",
-    "link": "https://trends.google.com/trending/rss?geo=KH",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRG3JUFcaut3gv-7lI0BXN7Nkczj-2xuq2hlSV6WEQKNzt7de7Nz6i3vA6RI",
-    "picture_source": "thesun.my",
-    "news_items": [
-      {
-        "title": "Harimau Malaya calls for continued fan support ahead of Thailand match",
-        "snippet": "",
-        "url": "https://thesun.my/sport/harimau-malaya-calls-for-continued-fan-support-ahead-of-thailand-match-HH13419439",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRG3JUFcaut3gv-7lI0BXN7Nkczj-2xuq2hlSV6WEQKNzt7de7Nz6i3vA6RI",
-        "source": "thesun.my"
-      },
-      {
-        "title": "Thailand vs Malaysia LIVE Score Updates, Stream Info and How to Watch ASEAN Championship Match",
-        "snippet": "",
-        "url": "https://www.vavel.com/en-us/soccer/2024/12/14/1207558-thailand-vs-malaysia-live-score-updates-stream-info-and-how-to-watch-asean-championship-match.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQs6fIH3iLNfyPFFnEIqL3A2CNT3Cwq0oGu78Jw50eFjfInUtkzZlzqDQ-33sM",
-        "source": "VAVEL.com"
-      },
-      {
-        "title": "Is FAM serious about Asean Championship Cup?",
-        "snippet": "",
-        "url": "https://malaysia.news.yahoo.com/fam-serious-asean-championship-cup-232219547.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKfudJR1NsURjwL3dW02Sjx4Ux_Iz7xzFs-T3cr3NSvbiC539QdQDqKzpFlcQ",
-        "source": "Yahoo"
-      }
-    ]
-  },
-  {
-    "title": "norovirus",
-    "link": "https://trends.google.com/trending/rss?geo=KH",
-    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAX7Q5ktXJCpYq1oRQIFcXk44jjoUMP8MyXWa08ExCQMNHJz9ZgMG-XxM49xM",
-    "picture_source": "Lohud",
-    "news_items": [
-      {
-        "title": "Norovirus outbreak: Rockland health officials send alert; cases seen across NY",
-        "snippet": "",
-        "url": "https://www.lohud.com/story/news/health/2024/12/13/norovirus-outbreak-reported-in-rockland-stomach-bug-cases-seen-across-new-york/76962368007/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAX7Q5ktXJCpYq1oRQIFcXk44jjoUMP8MyXWa08ExCQMNHJz9ZgMG-XxM49xM",
-        "source": "Lohud"
-      },
-      {
-        "title": "Stomach bug on the rise, health officials say",
-        "snippet": "",
-        "url": "https://midhudsonnews.com/2024/12/14/stomach-bug-on-the-rise-health-officials-say/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5KGgtJwJ3NmO9Y9POMOPSyKTYB_FVWspKRykDHK3mL5rla3X7q3mVg9f0MM",
-        "source": "Mid Hudson News"
-      },
-      {
-        "title": "Stomach bug ripping through Long Island",
-        "snippet": "",
-        "url": "https://www.newsday.com/news/health/stomach-bug-gastro-yucydaxf",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0R0iP_FYPkBfEv_6Hms0STKCrK3M4WB3FeY9BzK4X4mm5yWcSCGnTh_hvHII",
-        "source": "Newsday"
-      }
-    ]
-  },
-  {
-    "title": "so xo",
-    "link": "https://trends.google.com/trending/rss?geo=KH",
-    "pubdate": "Sat, 14 Dec 2024 01:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOAbH0h1s0KhvxpJWRck95zXGh5ytrTaOfds50oEc-FqRn6vxqNLrV6utGRks",
-    "picture_source": "Báo Người Lao Động",
-    "news_items": [
-      {
-        "title": "Kết quả xổ số hôm nay, 13-12: Vĩnh Long, Bình Dương, Trà Vinh, Ninh Thuận, Hải Phòng...",
-        "snippet": "",
-        "url": "https://nld.com.vn/ket-qua-xo-so-hom-nay-13-12-vinh-long-binh-duong-tra-vinh-ninh-thuan-hai-phong-196241213063804649.htm",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOAbH0h1s0KhvxpJWRck95zXGh5ytrTaOfds50oEc-FqRn6vxqNLrV6utGRks",
-        "source": "Báo Người Lao Động"
-      },
-      {
-        "title": "XSTG 15/12 - Kết quả xổ số Tiền Giang hôm nay 15/12/2024 - Trực tiếp xổ số hôm nay ngày 15 tháng 12",
-        "snippet": "",
-        "url": "https://thethaovanhoa.vn/xstg-15-12-ket-qua-xo-so-tien-giang-hom-nay-15-12-2024-truc-tiep-xo-so-hom-nay-ngay-15-thang-12-20241214123900646.htm",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2BPw5lGF-Dp6HpuY4ItG32N6zbUL_DiN4Za4HL3busD_pEfa2EeT8jGArGIM",
-        "source": "thethaovanhoa.vn"
-      },
-      {
-        "title": "Xổ số Đà Nẵng ngày 14 tháng 12 năm 2024, XSDNA ngày 14 tháng 12",
-        "snippet": "",
-        "url": "https://doanhnghiephoinhap.vn/xo-so-da-nang-ngay-14-thang-12-nam-2024-xsdna-ngay-14-thang-12-90312.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCyEkTRMfTqbvSdW73ynhCD0wH-8A3AC5M78egvjXl-vusIhLdh8PO7eKgAAI",
-        "source": "Tạp chí Doanh nghiệp và Hội nhập"
-      }
-    ]
-  },
-  {
-    "title": "samsung galaxy galaxy s25 ultra",
-    "link": "https://trends.google.com/trending/rss?geo=KH",
-    "pubdate": "Fri, 13 Dec 2024 22:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLd6_ALPiLMCApWZZw5iUdT9xI0V1psddMKUcfQKBGmwcKhXrtSgotsWWoUo",
-    "picture_source": "TechRadar",
-    "news_items": [
-      {
-        "title": "Samsung Galaxy S25 rumored features: the key tipped upgrades on the S25 line",
-        "snippet": "",
-        "url": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s25-features",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLd6_ALPiLMCApWZZw5iUdT9xI0V1psddMKUcfQKBGmwcKhXrtSgotsWWoUo",
-        "source": "TechRadar"
-      },
-      {
-        "title": "Samsung Galaxy S25 to feature Magnetic Cases with Qi2 charging",
-        "snippet": "",
-        "url": "https://www.sammyfans.com/2024/12/12/samsung-galaxy-s25-to-feature-magnetic-cases-with-qi2-charging/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs5MHJEKoRXsGefmlwRI7d9RuvjK2Pgl98idZFCVcxf0tcz8OKyWSWYxgWwBc",
-        "source": "Sammy Fans"
-      },
-      {
-        "title": "The Samsung Galaxy S25 could have the upgrade I've been waiting years for",
-        "snippet": "",
-        "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25-could-have-the-upgrade-ive-been-waiting-years-for",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFk3HjvemkFWvA8K6IVbhAWr0-ueFxiTFT6Qw-BTqy20whOIN3CGX5mcsac9o",
-        "source": "Tom's Guide"
-      }
-    ]
-  },
-  {
-    "title": "elden ring",
-    "link": "https://trends.google.com/trending/rss?geo=KH",
-    "pubdate": "Fri, 13 Dec 2024 11:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2nsTS1atoGARz3P3qPuvyiJg65U89M5TRn647tVuN6LLQXPCx1Pya67ghVzM",
-    "picture_source": "PC Gamer",
-    "news_items": [
-      {
-        "title": "Elden Ring: Nightreign hands-on: 6 hours with FromSoftware's wild new co-op roguelike action RPG remix",
-        "snippet": "",
-        "url": "https://www.pcgamer.com/games/roguelike/elden-ring-nightreign-preview-hands-on/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2nsTS1atoGARz3P3qPuvyiJg65U89M5TRn647tVuN6LLQXPCx1Pya67ghVzM",
-        "source": "PC Gamer"
-      },
-      {
-        "title": "Elden Ring Nightreign: FromSoftware Game Director Explains Why the Spin-Off Exists, Reveals Whether George R. R. Martin Was Involved, and Why Fans Shouldn’t Call It a Live Service",
-        "snippet": "",
-        "url": "https://www.ign.com/articles/elden-ring-nightreign-fromsoftware-game-director-explains-why-the-spin-off-exists-reveals-whether-george-r-r-martin-was-involved-and-why-fans-shouldnt-call-it-a-live-service",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBHPpnEWfvAKYGifU5ZK54xnMXH1f_Mylk8AFE56JEoiKwmlTD8gMfarnOUsA",
-        "source": "IGN"
-      },
-      {
-        "title": "FROMSOFTWARE AND BANDAI NAMCO REVEAL ELDEN RING NIGHTREIGN—A STANDALONE co-op ACTION SURVIVAL GAME",
-        "snippet": "",
-        "url": "https://www.capsulecomputers.com.au/2024/12/fromsoftware-and-bandai-namco-reveal-elden-ring-nightreign-a-standalone-co-op-action-survival-game/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBq3sCSCdHpiZK8J1Wb9yXoLvTE-dQ0QNm1zqIV7LnAoc3aCHCeoLC9mmrhsQ",
-        "source": "Capsule Computers"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "gray",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "red",
+  "Goal 5 Rating": "red",
+  "Goal 6 Rating": "red",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "gray",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": null,
+  "Goal 2 Score": 68.510125,
+  "Goal 3 Score": 61.2186428571429,
+  "Goal 4 Score": 60.3455,
+  "Goal 5 Score": 48.14425,
+  "Goal 6 Score": 66.5766,
+  "Goal 7 Score": 55.95525,
+  "Goal 8 Score": 68.5878571428571,
+  "Goal 9 Score": 39.784,
+  "Goal 10 Score": null,
+  "Goal 11 Score": 71.6143333333333,
+  "Goal 12 Score": 92.0982857142857,
+  "Goal 13 Score": 95.8693333333333,
+  "Goal 14 Score": 60.304,
+  "Goal 15 Score": 48.6516,
+  "Goal 16 Score": 50.8732727272727,
+  "Goal 17 Score": 56.6016
+}

@@ -1,64 +1,36 @@
-[
-  {
-    "title": "кальяри – аталанта",
-    "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzjUGHi77bn_mieYl0VGHo3V2DfAg2nD6mKuVdosjgtIKBIpLIwvtEtAD6_Y",
-    "picture_source": "Евро-Футбол.Ру",
-    "news_items": [
-      {
-        "title": "«Кальяри» - «Аталанта»: прямая трансляция, составы, онлайн - 0:0",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/34/1005800231_kalyari_-_atalanta_pryamaya_translyaciya_sostavyi_onlayn",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzjUGHi77bn_mieYl0VGHo3V2DfAg2nD6mKuVdosjgtIKBIpLIwvtEtAD6_Y",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "Кальяри - Аталанта - 14 декабря 2024 - прямая онлайн трансляция футбольного матча.",
-        "snippet": "",
-        "url": "https://www.liveresult.ru/football/matches/match1565269_Cagliari-Atalanta-live-online",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ifw2UBP0SAfwYd9FhXS5_jsOvptNiWh8nVdgIp-rO8Uo3n1kIo_1mNEHmtQ",
-        "source": "LiveResult"
-      },
-      {
-        "title": "Кальяри — Аталанта: прогноз и ставки на матч чемпионата Италии (14 декабря 2024)",
-        "snippet": "",
-        "url": "https://sportandbets.com/kalyari-atalanta-17341848001.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxceF-TwFIPJu8tnPNNKAyxXZU1fyixqSoyf2LzJkQHGAcDnZ0bwcX3oqKxmc",
-        "source": "sportandbets.com"
-      }
-    ]
-  },
-  {
-    "title": "the witcher",
-    "link": "https://trends.google.com/trending/rss?geo=AM",
-    "pubdate": "Fri, 13 Dec 2024 10:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-GNXH8A6o8mMvWdKa6Rw9CTm7VnLmO8LudGnlFU5XBFB4h7pq9qJklQmVGw",
-    "picture_source": "IGN",
-    "news_items": [
-      {
-        "title": "The Witcher 4 Developer CD Projekt Explains Why It Went With Ciri Over Continuing With Geralt as Protagonist",
-        "snippet": "",
-        "url": "https://www.ign.com/articles/the-witcher-4-developer-cd-projekt-explains-why-it-went-with-ciri-over-continuing-with-geralt-as-protagonist",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-GNXH8A6o8mMvWdKa6Rw9CTm7VnLmO8LudGnlFU5XBFB4h7pq9qJklQmVGw",
-        "source": "IGN"
-      },
-      {
-        "title": "New 'Witcher' Game Ditches Famous Protagonist For Different Witcher",
-        "snippet": "",
-        "url": "https://www.mensjournal.com/entertainment/witcher-4-no-geralt",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJFw_olnevGqQ5aj8MyR-ec0rqzXItTN9SfjsIhyH9XRjTsK0ADmEyL5mA2tM",
-        "source": "Men's Journal"
-      },
-      {
-        "title": "The Witcher 4 may not have Geralt after all: his actor was \"slapped by CD Projekt\" for accidentally sharing a rumor that he'd be in it, just not as the protagonist",
-        "snippet": "",
-        "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-may-not-have-geralt-after-all-his-actor-was-slapped-by-cd-projekt-for-accidentally-sharing-a-rumor-that-hed-be-in-it-just-not-as-the-protagonist/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6J1y2TJ5dH3FCEI4sBwuE2jYe3E4WQzABNOfPbEJNH0AJJRYNdHsza2lwJhA",
-        "source": "GamesRadar+"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 95.7115,
+  "Goal 2 Score": 55.95425,
+  "Goal 3 Score": 79.8725,
+  "Goal 4 Score": 69.9045,
+  "Goal 5 Score": 65.91775,
+  "Goal 6 Score": 64.0974,
+  "Goal 7 Score": 74.09475,
+  "Goal 8 Score": 73.8981666666667,
+  "Goal 9 Score": 54.001,
+  "Goal 10 Score": 96.03,
+  "Goal 11 Score": 87.3726666666667,
+  "Goal 12 Score": 88.0794285714286,
+  "Goal 13 Score": 91.1446666666667,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 61.3026,
+  "Goal 16 Score": 73.7455714285714,
+  "Goal 17 Score": 62.8052
+}

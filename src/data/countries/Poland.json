@@ -1,312 +1,36 @@
-[
-  {
-    "title": "mainz – bayern",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-    "picture_source": "FCBinside",
-    "news_items": [
-      {
-        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
-        "snippet": "",
-        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-        "source": "FCBinside"
-      },
-      {
-        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
-      }
-    ]
-  },
-  {
-    "title": "arsenal – everton",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-    "picture_source": "Arsenal.com",
-    "news_items": [
-      {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
-        "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-        "source": "Arsenal.com"
-      },
-      {
-        "title": "Liverpool vs Fulham LIVE: Premier League team news, line-ups and more",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/liverpool-vs-fulham-live-premier-130024902.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzU2E14EGckBt0ic527jchCx0JekCwkEvir9rpx53DSS4htwFJrh0HfhQtldk",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Arteta provides positive Gabriel update ahead of Everton clash",
-        "snippet": "",
-        "url": "https://arseblog.news/2024/12/arteta-provides-positive-gabriel-update-ahead-of-everton-clash/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXnbJEH9eYqa1kc9M0HSBJjzpuoOlWSkc1tdbVS_3FUJxCQX8KMs_kn8kdg5c",
-        "source": "Arseblog News"
-      }
-    ]
-  },
-  {
-    "title": "augsburg – bayer leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-    "picture_source": "BILD.de",
-    "news_items": [
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
-        "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
-      }
-    ]
-  },
-  {
-    "title": "główna wygrana eurojackpot",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9pCzt6fhaJ56eTvRoEzIKSEB6HgSyMt6Ki3Q-eNAiEL4mgKNFUsYX4WvJeK0",
-    "picture_source": "TVN24",
-    "news_items": [
-      {
-        "title": "Ogromna wygrana w Eurojackpot w Polsce. Podano, gdzie padła",
-        "snippet": "",
-        "url": "https://tvn24.pl/biznes/pieniadze/ogromna-wygrana-w-eurojackpot-w-polsce-podano-gdzie-padla-st8221841",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9pCzt6fhaJ56eTvRoEzIKSEB6HgSyMt6Ki3Q-eNAiEL4mgKNFUsYX4WvJeK0",
-        "source": "TVN24"
-      },
-      {
-        "title": "Wielka wygrana w Eurojackpot. Polak zdobył fortunę",
-        "snippet": "",
-        "url": "https://businessinsider.com.pl/wiadomosci/wielka-wygrana-w-eurojackpot-polak-zdobyl-fortune/zx0jw4p",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYtdTpUspuX6LeakktH6NlgK7S8zaJZGf8_xs9Gx6vQBmpTjllVRWZ78x2J4",
-        "source": "Business Insider Polska"
-      },
-      {
-        "title": "Wiadomo, skąd jest świeżo upieczony multimilioner. Polak wygrał 91 mln zł",
-        "snippet": "",
-        "url": "https://www.money.pl/podatki/wiadomo-skad-jest-swiezo-upieczony-multimilioner-polak-wygral-91-mln-zl-7103195104582400a.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVDwxVvEcmAGWoKztRTAOYhM9y8NLmlBdAejDBcnxPGPD1cKeEdJIgJrxzMrk",
-        "source": "Money.pl"
-      }
-    ]
-  },
-  {
-    "title": "cagliari – atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8DJEHgCx85PpVAgPp-GSHYynXF9r3_sCsE3jD4q3hrrtmW53fyGmy6n0Uk8w",
-    "picture_source": "Fantacalcio",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: le formazioni ufficiali",
-        "snippet": "",
-        "url": "https://www.fantacalcio.it/news/calcio-italia/14_12_2024/cagliari-atalanta-le-formazioni-ufficiali-470451",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8DJEHgCx85PpVAgPp-GSHYynXF9r3_sCsE3jD4q3hrrtmW53fyGmy6n0Uk8w",
-        "source": "Fantacalcio"
-      },
-      {
-        "title": "Le \"ufficiali\": Lookman e De Roon partono dalla panchina",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/le-formazioni-atalanta-con-il-tridente/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRBNwTgWbpvdBN6RX_ig6qboF9pv2gQHkJqX8qoMzwahDyWbKSAsvUURYuSOM",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "marek woch",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU771hGLK4JtJgX2D14fHA0oofzjcz0NpXyzKonDHlTA2rV1zUHN2GiBT2hhk",
-    "picture_source": "wiadomosci.wp.pl",
-    "news_items": [
-      {
-        "title": "Poznaliśmy kolejnego kandydata na prezydenta. Kim jest Marek Woch?",
-        "snippet": "",
-        "url": "https://wiadomosci.wp.pl/poznalismy-kolejnego-kandydata-na-prezydenta-kim-jest-marek-woch-7103188727995104a",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU771hGLK4JtJgX2D14fHA0oofzjcz0NpXyzKonDHlTA2rV1zUHN2GiBT2hhk",
-        "source": "wiadomosci.wp.pl"
-      },
-      {
-        "title": "Rywalizacja o Pałac Prezydencki. Do gry oficjalnie wchodzi nowy kandydat",
-        "snippet": "",
-        "url": "https://wiadomosci.onet.pl/kraj/rywalizacja-o-palac-prezydencki-do-gry-oficjalnie-wchodzi-nowy-kandydat/s4sgkb4",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKRwmp3xx83l92_VutDXxEAggX5BxFNjOUe0j0et2KyC4wHiwxpVIYDpLln8",
-        "source": "Onet Wiadomości"
-      },
-      {
-        "title": "Wybory prezydenckie 2025: Pojawił się nowy kandydat. Kim jest Marek Woch?",
-        "snippet": "",
-        "url": "https://www.rp.pl/polityka/art41581861-wybory-prezydenckie-2025-pojawil-sie-nowy-kandydat-kim-jest",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfgA7zCFJ49Te6xoTtoodEN5PxYX-3zWJ6nW1BmUFoPfLYLQDUIXpJWkijqR0",
-        "source": "Rzeczpospolita"
-      }
-    ]
-  },
-  {
-    "title": "bogdan święczkowski prezes tk",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHnu7K803tkiOIE1slykdyVH06td-A4JxUW7he236iUFv4kAh9ewYGZGaEjdE",
-    "picture_source": "TVN24",
-    "news_items": [
-      {
-        "title": "Trybunał \"popełnił samobójstwo\" i co dalej? Profesor Safjan o \"kolejnym etapie destrukcji\"",
-        "snippet": "",
-        "url": "https://tvn24.pl/polska/bogdan-swieczkowski-wybrany-na-prezesa-trybunalu-konstytucyjnego-profesor-mare-safjan-komentuje-st8221886",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHnu7K803tkiOIE1slykdyVH06td-A4JxUW7he236iUFv4kAh9ewYGZGaEjdE",
-        "source": "TVN24"
-      },
-      {
-        "title": "Jak naprawić Trybunał Konstytucyjny? \"Ta instytucja jest zainfekowana, ale amputacja nie pomoże\"",
-        "snippet": "",
-        "url": "https://www.newsweek.pl/polska/polityka/jak-naprawic-trybunal-konstytucyjny-ta-instytucja-jest-zainfekowana-ale-amputacja-nie/yx2gs08",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMi1dC99oDA1Svpki1Ite1vjqhuHst1upS2izobs0s_JwlhGbQ0YqBgqAjM68",
-        "source": "Newsweek"
-      },
-      {
-        "title": "Nowy prezes TK zwróci się z żądaniem do premiera Tuska",
-        "snippet": "",
-        "url": "https://www.rmf24.pl/polityka/news-nowy-prezes-tk-zwroci-sie-z-zadaniem-do-premiera-tuska,nId,7872874",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZZ8fxtu1lAGNEc2xvjfhWP84K6949ZgjiL1dh9iXi0PdOnlbUwvT01JMyQM",
-        "source": "RMF24"
-      }
-    ]
-  },
-  {
-    "title": "amerykański właściciel tvn",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXS4gAsDRtBw-WEr9NkUKj9tE5g7ePiBK_pldWdXVIhHaEW7Lt3e_8rasZavI",
-    "picture_source": "Money.pl",
-    "news_items": [
-      {
-        "title": "Właściciel TVN triumfuje na amerykańskiej giełdzie. Ogłosił decyzję",
-        "snippet": "",
-        "url": "https://www.money.pl/gielda/skok-akcji-warner-bros-discovery-po-przelomowej-decyzji-polski-biznes-w-tle-7102781202664064a.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXS4gAsDRtBw-WEr9NkUKj9tE5g7ePiBK_pldWdXVIhHaEW7Lt3e_8rasZavI",
-        "source": "Money.pl"
-      },
-      {
-        "title": "Ekspert o nowej strategii Warner Bros. Discovery: TVN może mieć kłopoty",
-        "snippet": "",
-        "url": "https://businessinsider.com.pl/wiadomosci/ekspert-o-nowej-strategii-warner-bros-discovery-tvn-moze-miec-klopoty/phrhhlp",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFnooY7-vyK6yy5_l54veA3WZ8-Ob29RhU2wtxrfQyvOAJNwkZQXboWrkMCtw",
-        "source": "Business Insider Polska"
-      },
-      {
-        "title": "Właściciel wcale nie musi sprzedać TVN? \"Wtedy cała transakcja kompletnie nie miałaby sensu\"",
-        "snippet": "",
-        "url": "https://next.gazeta.pl/next/7,151003,31541615,wlasciciel-wcale-nie-musi-sprzedac-tvn-wtedy-cala-transakcja.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rEggrMfPGSa5fxZYoyLTa-WriUM76vNjn5KDB4GW5zqLMv5DDr_e-yJrS68",
-        "source": "Next Gazeta.pl"
-      }
-    ]
-  },
-  {
-    "title": "zakłady mięsne lisewo",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF6KJFEx5Qd6lsQtJaOgirl5rtwlpbGhiz8Gm-FJZExU6aThHS4OA_o8ebQh0",
-    "picture_source": "Money.pl",
-    "news_items": [
-      {
-        "title": "Ludzie bez wypłat, hale zajął komornik. Tak kończą znane zakłady mięsne",
-        "snippet": "",
-        "url": "https://www.money.pl/gospodarka/ludzie-bez-wyplat-hale-zajal-komornik-tak-koncza-znane-zaklady-miesne-7103168347671264a.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF6KJFEx5Qd6lsQtJaOgirl5rtwlpbGhiz8Gm-FJZExU6aThHS4OA_o8ebQh0",
-        "source": "Money.pl"
-      },
-      {
-        "title": "Zamykali zakłady mięsne jeden po drugim. Teraz do gry wkracza komornik",
-        "snippet": "",
-        "url": "https://biznes.interia.pl/gospodarka/news-zamykali-zaklady-miesne-jeden-po-drugim-teraz-do-gry-wkracza,nId,7875619",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCgZsohY99SZzjEBA0tmjdAnquLw-bkTbAfDsdA1hufhlun29naKJbzPdbgYQ",
-        "source": "Interia"
-      },
-      {
-        "title": "Pracownicy bez wypłat, sklepy firmowe zamknięte. Upada znana marka, której historię budowali od lat",
-        "snippet": "",
-        "url": "https://niezalezna.pl/gospodarka/do-zakladow-miesnych-lisewo-wchodzi-komornik/533282",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaJcUnTpsYUkU85t69ev2WSAVHfhFp8X3S6X99Yq78ghiVKjCRo2uSd3hQwTs",
-        "source": "Niezalezna.pl"
-      }
-    ]
-  },
-  {
-    "title": "gietrzwałd",
-    "link": "https://trends.google.com/trending/rss?geo=PL",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMJoL5roZycGfnJtGbRdxl8osTMuIJVeapai4x_7JxI44qQLfXphHoIMa1-18",
-    "picture_source": "Rzeczpospolita",
-    "news_items": [
-      {
-        "title": "Ruszyły protesty przed sklepami Lidla w całej Polsce. Spór o inwestycję na Warmii",
-        "snippet": "",
-        "url": "https://www.rp.pl/handel/art41581001-ruszyly-protesty-przed-sklepami-lidla-w-calej-polsce-spor-o-inwestycje-na-warmii",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMJoL5roZycGfnJtGbRdxl8osTMuIJVeapai4x_7JxI44qQLfXphHoIMa1-18",
-        "source": "Rzeczpospolita"
-      },
-      {
-        "title": "Dla nich Matka Boska jest ważniejsza od Lidla. Protesty w całej Polsce",
-        "snippet": "",
-        "url": "https://www.money.pl/gospodarka/dla-nich-matka-boska-jest-wazniejsza-od-lidla-protesty-w-calej-polsce-7103220514343648a.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0rPjmysorOJUeqm6rZB20NxmjlJYY_p9MdlZgW20QtMz54BZS45csXi-p_TE",
-        "source": "Money.pl"
-      },
-      {
-        "title": "Protesty pod Lidlami w obronie Matki Boskiej Gietrzwałdzkiej. \"Gietrzwałd dla pielgrzymów, nie dla magazynów\"",
-        "snippet": "",
-        "url": "https://olsztyn.wyborcza.pl/olsztyn/7,48726,31543398,protesty-pod-lidlami-obronie-matki-boskiej-gietrzwaldzkiej.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxvlZpwjDUaFzEFLt8Q9EM0ku3XL8SzhpZvyig3Boo-zShHqPA4acBa-Hhqgw",
-        "source": "Olsztyn.Wyborcza.pl"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "yellow",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "yellow",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "green",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 99.061,
+  "Goal 2 Score": 65.51975,
+  "Goal 3 Score": 86.3767857142857,
+  "Goal 4 Score": 99.88975,
+  "Goal 5 Score": 72.6805,
+  "Goal 6 Score": 78.8764,
+  "Goal 7 Score": 73.1115,
+  "Goal 8 Score": 83.9282857142857,
+  "Goal 9 Score": 84.3745714285714,
+  "Goal 10 Score": 98.169,
+  "Goal 11 Score": 94.03375,
+  "Goal 12 Score": 67.2922857142857,
+  "Goal 13 Score": 78.426,
+  "Goal 14 Score": 71.7933333333333,
+  "Goal 15 Score": 91.0878,
+  "Goal 16 Score": 79.0797272727273,
+  "Goal 17 Score": 65.0734
+}

@@ -1,64 +1,36 @@
-[
-  {
-    "title": "إسبانيول ضد أوساسونا",
-    "link": "https://trends.google.com/trending/rss?geo=YE",
-    "pubdate": "Sat, 14 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVM0_9WIOBONudAAZ6Mu2Y2jXWAYb6b6C4YFcm1RviYLKHVyrMJxgbyThcV_8",
-    "picture_source": "نايس كورة",
-    "news_items": [
-      {
-        "title": "أبرز مباريات اليوم والقنوات الناقلة - بداية جولة جديدة في الدوريات الأوروبية - نايس كورة",
-        "snippet": "",
-        "url": "https://news.nicekoora.com/uncategorized-yallakora/80249",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVM0_9WIOBONudAAZ6Mu2Y2jXWAYb6b6C4YFcm1RviYLKHVyrMJxgbyThcV_8",
-        "source": "نايس كورة"
-      },
-      {
-        "title": "ابرز الاحداث الرياضية ليوم السبت في 14-12-2024",
-        "snippet": "",
-        "url": "https://ajel.sabaq24.com/uncategorized/81189/%D8%A7%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D9%81%D9%8A-14-12-2024.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwxn9OG1Jw-fUj8pvtPssHm1XyG0zk7H3hR_jyoLiozFcF-0ChuOrI7xbAhz8",
-        "source": "سبق 24"
-      },
-      {
-        "title": "مواعيد مباريات اليوم الجمعة 13122024 والقنوات",
-        "snippet": "",
-        "url": "https://pls48.net/uncategorized/27830/%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-13122024-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA----%D8%A8%D9%84%D8%B3-48",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsxDZ963bhZYz7b3EmSG4rsS5ZQJQKDReehWQzNcY4vziEaBef8D82JfyMEsM",
-        "source": "فلسطينيو48"
-      }
-    ]
-  },
-  {
-    "title": "الوصل ضد شباب الأهلي",
-    "link": "https://trends.google.com/trending/rss?geo=YE",
-    "pubdate": "Fri, 13 Dec 2024 09:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRidBMvJmQB9GHwhr507jiBiqZf3uPegmh3XwSfOUbjTFurpFFhdW9wdenDM4A",
-    "picture_source": "الاتحاد للأخبار",
-    "news_items": [
-      {
-        "title": "«السباعية» تعزز قياسية شباب الأهلي في «السوبر»",
-        "snippet": "",
-        "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/4536880/-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9--%D8%AA%D8%B9%D8%B2%D8%B2-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%81%D9%8A--%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRidBMvJmQB9GHwhr507jiBiqZf3uPegmh3XwSfOUbjTFurpFFhdW9wdenDM4A",
-        "source": "الاتحاد للأخبار"
-      },
-      {
-        "title": "صباح 'النهار الرياضي': شباب الأهلي بطلاً للسوبر الإماراتي... فضيحة في ألمانيا ورونالدو إلى الهلال؟",
-        "snippet": "",
-        "url": "https://www.annahar.com/Sports/180020/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A8%D8%B7%D9%84%D8%A7-%D9%84%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%81%D8%B6%D9%8A%D8%AD%D8%A9-%D9%81%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxOtbWtOj2CD9cwugBmf570RWwxUvJAelsfqezttVIFFIR86UDHs4aMrldPlY",
-        "source": "annahar.com"
-      },
-      {
-        "title": "بالا نجم شباب الأهلي أفضل لاعب في المباراة",
-        "snippet": "",
-        "url": "https://www.albayan.ae/sports/football/big-teams/14174",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsEERRW02TY0InQlZgHsBsNe1_DArHDw9R5OrZ2WExYh_40jmMmYmZIRkPtrk",
-        "source": "البيان"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "red",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "red",
+  "Goal 5 Rating": "red",
+  "Goal 6 Rating": "red",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "green",
+  "Goal 13 Rating": "green",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 2.64,
+  "Goal 2 Score": 37.220625,
+  "Goal 3 Score": 46.904,
+  "Goal 4 Score": 28.339,
+  "Goal 5 Score": 10.47875,
+  "Goal 6 Score": 36.4902,
+  "Goal 7 Score": 42.18725,
+  "Goal 8 Score": 53.723,
+  "Goal 9 Score": 16.1588571428571,
+  "Goal 10 Score": 66.2925,
+  "Goal 11 Score": 48.44475,
+  "Goal 12 Score": 96.2024285714286,
+  "Goal 13 Score": 98.46,
+  "Goal 14 Score": 74.9833333333333,
+  "Goal 15 Score": 50.293,
+  "Goal 16 Score": 38.936,
+  "Goal 17 Score": 48.9545
+}

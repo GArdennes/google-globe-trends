@@ -1,305 +1,36 @@
-[
-  {
-    "title": "neda ukraden",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Sat, 14 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNbQjTJr1GsszmZi3KGPN_Q6PD-2qsWvxMfCFzF2kthb3cnxIR4f-NzCyp5OY",
-    "picture_source": "Grand Online",
-    "news_items": [
-      {
-        "title": "Neda Ukraden otkrila koja mlada pevačica je njena naslednica: „Ona je već zvezda“ VIDEO",
-        "snippet": "",
-        "url": "https://grand.nova.rs/showbiz/neda-ukraden-otkrila-koja-pevacica-je-njena-nalsednica/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNbQjTJr1GsszmZi3KGPN_Q6PD-2qsWvxMfCFzF2kthb3cnxIR4f-NzCyp5OY",
-        "source": "Grand Online"
-      },
-      {
-        "title": "U korak sa svetskim trendovima: Neda Ukraden donela Menhetn u Beograd VIDEO",
-        "snippet": "",
-        "url": "https://grand.nova.rs/showbiz/u-korak-sa-svetskim-trendovima-neda-ukraden-donela-menhetn-u-beograd-video/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwFkfHBNG6kWpY7AMsqJaj5cvRfoyFSZHKS7zYmBPj3pRxS39Rt7x4UvurgWI",
-        "source": "Grand Online"
-      }
-    ]
-  },
-  {
-    "title": "vreme",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Fri, 13 Dec 2024 21:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMH7umT0a8OKbwHrSKqH8o7NpuigHOik4KhRW5n7nhpnVDWDClbjJMIXUZ_4A",
-    "picture_source": "Blic",
-    "news_items": [
-      {
-        "title": "HITNO UPOZORENJE! RHMZ se oglasio rano jutros, popaljeni meteoalarmi: U Srbiju danas stiže ova opasna pojava, ovi delovi su PRVI NA UDARU",
-        "snippet": "",
-        "url": "https://www.blic.rs/vremenska-prognoza/republicki-hidrometeoroloski-zavod-srbije-upozorava-kisa-koja-se-ledi-na-tlu-danas-u/vlj3f1x",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMH7umT0a8OKbwHrSKqH8o7NpuigHOik4KhRW5n7nhpnVDWDClbjJMIXUZ_4A",
-        "source": "Blic"
-      },
-      {
-        "title": "VETROVITO I HLADNO SA SNEGOM, EVO KAKVO ĆE VREME BITI ZA SVETOG NIKOLU: Vremenska prognoza za subotu 14. decembar",
-        "snippet": "",
-        "url": "https://www.novosti.rs/drustvo/vesti/1440020/vetrovito-hladno-snegom-evo-kakvo-vreme-biti-svetog-nikolu-vremenska-prognoza-subotu-14-decembar",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlpKmci97X-Rn0o0KqEz0FXV4PpWoQzUWNOd50wO5obVfK8r7lm7Do5Pwq_1g",
-        "source": "Novosti"
-      },
-      {
-        "title": "RHMZ upozorio: Opasna pojava stigla u Srbiju",
-        "snippet": "",
-        "url": "https://www.b92.net/info/drustvo/85845/vremenska-prognoza-za-srbiju/vest",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToqXYRQZPGRXoQcGAywCxyxGrQwomU_BTEUnh52AxR41GxCP8yeVzwqlcz8c",
-        "source": "B92"
-      }
-    ]
-  },
-  {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Fri, 13 Dec 2024 21:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs2eKgf6BmuuRvMxFB31p_fYsOKLjA7pWJe52mOrWuW7nYmyQKoh5gdjeAY0E",
-    "picture_source": "WMTV 15 NEWS",
-    "news_items": [
-      {
-        "title": "ALERT DAY: Messy rain/ice system moving in",
-        "snippet": "",
-        "url": "https://www.wmtv15news.com/video/2024/12/15/alert-day-messy-rainice-system-moving/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs2eKgf6BmuuRvMxFB31p_fYsOKLjA7pWJe52mOrWuW7nYmyQKoh5gdjeAY0E",
-        "source": "WMTV 15 NEWS"
-      },
-      {
-        "title": "Southern Ontario's bright weekend will be ending on a gloomy note",
-        "snippet": "",
-        "url": "https://www.msn.com/en-ca/weather/topstories/southern-ontario-s-bright-weekend-will-be-ending-on-a-gloomy-note/ar-AA1vPz9N",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WSkqdlFHFxumrGgPS98__Ree-RJyrx-EZRdJYnsF41vfnYkD55R3H7udkKY",
-        "source": "MSN"
-      },
-      {
-        "title": "Freezing drizzle may mean icy roads for parts of the viewing area",
-        "snippet": "",
-        "url": "https://www.kmbc.com/article/kansas-city-weather-forecast-friday-impact-freezing-drizzle-radar/63182855",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXjhplxwuKKFw1yTwRw5se57pl-NMK6LuzPJE9YiEuT_0SJV9myS4_1iGBmrA",
-        "source": "KMBC"
-      }
-    ]
-  },
-  {
-    "title": "vremenska prognoza novi sad",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Fri, 13 Dec 2024 21:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfRKycKb_vhgutNMHn1nBRaN_9hBn8JaAB4VuSlOjybzYg5aVd8KNweuXkX8o",
-    "picture_source": "tanjug.rs",
-    "news_items": [
-      {
-        "title": "RHMZ: Ujutru u pojedinim delovima Srbije mraz, tokom dana oblačno, temperatura do 9°C",
-        "snippet": "",
-        "url": "https://www.tanjug.rs/srbija/drustvo/127855/rhmz-ujutru-u-pojedinim-delovima-srbije-mraz-tokom-dana-oblacno-temperatura-do-9c/vest",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfRKycKb_vhgutNMHn1nBRaN_9hBn8JaAB4VuSlOjybzYg5aVd8KNweuXkX8o",
-        "source": "tanjug.rs"
-      },
-      {
-        "title": "Vremenska prognoza za 13. decembar: Tmurno i hladno, uz maglu i mraz",
-        "snippet": "",
-        "url": "https://nsuzivo.rs/srbija/vremenska-prognoza-za-13-decembar-tmurno-i-hladno-uz-maglu-i-mraz",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY49Iwu97nVtc8Gmqkn4qipTZ0UpDTKoEEWDGYdn8TKLTRIZC8xqZBQPuNa4s",
-        "source": "NS Uživo"
-      },
-      {
-        "title": "DAN JE TMURAN, JA UMORAN Ujutru magla, ceo dan gledaćemo kroz oblake, TRAŽEĆI SUNCE",
-        "snippet": "",
-        "url": "https://www.dnevnik.rs/lat/vesti/drustvo/dan-je-tmuran-ja-umoran-ujutru-magla-ceo-dan-gledacemo-kroz-oblake-trazeci-sunce-2024-12-13",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS30ewDHahFKk_CNXjb4YdsxS1-L27QaYscf7XHc0rF0KC1kGspiZQRpVmoJBQ",
-        "source": "Dnevnik.rs"
-      }
-    ]
-  },
-  {
-    "title": "nuggets vs clippers",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Fri, 13 Dec 2024 19:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTr__9fg4cKIIvVzWzRZz1XZDZEv8Rasbn8JvOAUrv4XBJ1AgLDJmq759Qfc",
-    "picture_source": "NBA.com",
-    "news_items": [
-      {
-        "title": "LA Clippers vs Denver Nuggets Dec 13, 2024 Game Summary",
-        "snippet": "",
-        "url": "https://www.nba.com/game/lac-vs-den-0022401213",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTr__9fg4cKIIvVzWzRZz1XZDZEv8Rasbn8JvOAUrv4XBJ1AgLDJmq759Qfc",
-        "source": "NBA.com"
-      },
-      {
-        "title": "Nuggets rout Clippers 120-98 despite quiet night from Jokic",
-        "snippet": "",
-        "url": "https://apnews.com/article/clippers-nuggets-score-c7f4a7dde6bd442bbd08ce118d059211",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSenUadAv2t0bG6ckYt9wY9vq-ydSVXYQ9aqvHyLQbslv2HGopazDDwW-CmHWE",
-        "source": "AP News"
-      },
-      {
-        "title": "Highlights From Jamal Murray's 20 Point Game",
-        "snippet": "",
-        "url": "https://bleacherreport.com/videos/624293-highlights-from-jamal-murrays-20-point-game",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdtEIQCAtBw-qjbUYNRmT3B9HQrXSRGDtaPDtRreSTRjM9nRiboxeTap_-OXY",
-        "source": "Bleacher Report"
-      }
-    ]
-  },
-  {
-    "title": "nba",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Fri, 13 Dec 2024 19:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpY1EAjOSocETRjjD4ZVNLL97MT4S9j17e44bwnDklSwbQqflL-IOCO9O-IX4",
-    "picture_source": "NBA.com",
-    "news_items": [
-      {
-        "title": "Emirates NBA Cup Semifinal preview: Rockets vs. Thunder",
-        "snippet": "",
-        "url": "https://www.nba.com/news/emirates-nba-cup-semifinal-preview-rockets-thunder",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpY1EAjOSocETRjjD4ZVNLL97MT4S9j17e44bwnDklSwbQqflL-IOCO9O-IX4",
-        "source": "NBA.com"
-      },
-      {
-        "title": "NBA Predictions & Preview For Saturday, December 14th",
-        "snippet": "",
-        "url": "https://www.sportsgamblingpodcast.com/2024/12/13/nba-predictions-preview-for-saturday-december-14th/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTC7jVqLTVzMDj3Aa_8_xJZvm8y-BeKJdCRSPkp3xvsas5Lgxbha8SsISq63UQ",
-        "source": "Sports Gambling Podcast"
-      },
-      {
-        "title": "OKC Thunder coach shares high praise for Ime Udoka, and picks out 'very scrappy player' among Houston Rockets stars",
-        "snippet": "",
-        "url": "https://nbaanalysis.net/okc-thunder-head-coach-shares-high-praise-for-ime-udoka-and-picks-out-very-scrappy-player-among-houston-rockets-stars/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD3X2qDdTjwHVNupW5BASIy69PHl24qtCtYuRSsHiofGxhTrw30y4Dpjmpems",
-        "source": "NBA Analysis Network"
-      }
-    ]
-  },
-  {
-    "title": "masterchef",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Fri, 13 Dec 2024 14:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCug1JnoG0kq2pta2xsQFO-ho-Mpf67EAP5pJk_ARPGwYQNDqI4-64K2j0Txo",
-    "picture_source": "Blic",
-    "news_items": [
-      {
-        "title": "Ovo je pobednički recept deserta u Masterchef Srbija kojim je Anja Đukić raspametila žiri: \"Ovo je remek-delo\"",
-        "snippet": "",
-        "url": "https://www.blic.rs/zabava/ovo-je-pobednicki-recept-deserta-u-masterchef-srbija-kojim-je-anja-djukic-raspametila/sq7xn6h",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCug1JnoG0kq2pta2xsQFO-ho-Mpf67EAP5pJk_ARPGwYQNDqI4-64K2j0Txo",
-        "source": "Blic"
-      },
-      {
-        "title": "Takmičar \"MasterChefa Srbija\" pred sam kraj DOŽIVEO NEVIĐENI PEH, nije uspeo da sakrije RAZOČARENJE!",
-        "snippet": "",
-        "url": "https://www.pulsonline.rs/aktuelno/takmicar-masterchefa-srbija-doziveo-peh-pred-sam-kraj/4my9ey5",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmvENtCzdGlUZ4jcta2pdVFFm0Z4Np73EwaWVwTsOzGgDLn2LrsapMMUnCJuc",
-        "source": "Puls Online"
-      },
-      {
-        "title": "Ovaj finalista je od sudija dobio čak DVE DESETKE, a onda je usledio KOMENTAR Branka Kisića koji je sve IZNENADIO! (VIDEO)",
-        "snippet": "",
-        "url": "https://www.prva.rs/showbiz/vesti/5869/ovaj-finalista-je-od-sudija-dobio-cak-dve-desetke-a-onda-je-usledio-komentar-branka-kisica-koji-je-sve-iznenadio-video/vest",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFOZTAqh1uY59VSGxU5QCA8J-l4rYDgSHLFwHiXGWt3Ay6szbEWg6loUrlJWU",
-        "source": "Prva Televizija"
-      }
-    ]
-  },
-  {
-    "title": "turkish airlines euroleague",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Fri, 13 Dec 2024 14:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1NpPIbDTWMf0q8MgpzdnajKuZbUGXauR3XVIwJX0FRmclolmPg0tyflwmP8",
-    "picture_source": "Eurohoops",
-    "news_items": [
-      {
-        "title": "Panathinaikos, Real Madrid and Fenerbahce reportedly courted by the NBA",
-        "snippet": "",
-        "url": "https://www.eurohoops.net/en/nba-news/1756097/panathinaikos-real-madrid-and-fenerbahce-reportedly-courted-by-the-nba/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1NpPIbDTWMf0q8MgpzdnajKuZbUGXauR3XVIwJX0FRmclolmPg0tyflwmP8",
-        "source": "Eurohoops"
-      },
-      {
-        "title": "NBA, FIBA in ‘serious conversation’ about new European league, FIBA secretary general says",
-        "snippet": "",
-        "url": "https://www.nytimes.com/athletic/5981348/2024/12/09/fiba-nba-european-league-andreas-zagklis/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSteNYgLCJm-dyCuI8deGR6Ui3OtMnvzkfz2ZvHAuHZIaafToGUb0he1JbADjQ",
-        "source": "The New York Times"
-      },
-      {
-        "title": "NBA proposes European basketball league featuring Turkish team Fenerbahce Beko",
-        "snippet": "",
-        "url": "https://www.turkiyetoday.com/sports/nba-proposes-european-basketball-league-featuring-turkish-team-fenerbahce-beko-92721/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-i-Y_a2ZkBcZKTS3tpGtCGldda4h2seiDxHokXN1Y1KTxwmuoQ3G2JZg9V5k",
-        "source": "Turkiye"
-      }
-    ]
-  },
-  {
-    "title": "euroleague",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Fri, 13 Dec 2024 13:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOz4rsu3Gflgbvl-0Tizk-3vTnSX6qUTFEf1gC4-NpbBUDiw8uJWW1B9ysi80",
-    "picture_source": "Srbija danas",
-    "news_items": [
-      {
-        "title": "ŽOC JE OVO ODAVNO ZNAO: Mirotić i Ledej su strašan tandem, mogli su biti u Partizanu",
-        "snippet": "",
-        "url": "https://www.sd.rs/sport/kosarka/zoc-je-ovo-odavno-znao-mirotic-i-ledej-su-strasan-tandem-mogli-su-biti-u-partizanu-2024-12-14",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOz4rsu3Gflgbvl-0Tizk-3vTnSX6qUTFEf1gC4-NpbBUDiw8uJWW1B9ysi80",
-        "source": "Srbija danas"
-      },
-      {
-        "title": "Šta se ovo događa u Evroligi, još jedna ubedljiva pobeda gostiju: Barsa razbijena usred Katalonije!",
-        "snippet": "",
-        "url": "https://sportal.blic.rs/kosarka/evroliga/milano-pobedio-barselonu-u-evroligi/2024121321273342737",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_eB4S_SHOWneKBnFUNNOIG6vEviMGwK9IJFbxKC_7zwV-sDd_ireyVd348II",
-        "source": "Sportal.rs"
-      },
-      {
-        "title": "Emotivni Ledej se umalo rasplakao u Barseloni (VIDEO)",
-        "snippet": "",
-        "url": "https://sportklub.n1info.rs/kosarka/euroleague/emotivni-ledej-se-umalo-rasplakao-u-barseloni-video/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuwItamwbdCPCyB0EnEs4ml0pU6OC4xJ6GzuLEMm0YsbbUSYaFHO8_qLxjuQY",
-        "source": "Sportklub"
-      }
-    ]
-  },
-  {
-    "title": "nis",
-    "link": "https://trends.google.com/trending/rss?geo=RS",
-    "pubdate": "Fri, 13 Dec 2024 12:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQboM-gITLsANJzjEaaBBeSNr7_hvxzcX0YUiQZVLCZuSMPZjgfLhaTI3y8BWM",
-    "picture_source": "Blic",
-    "news_items": [
-      {
-        "title": "\"Cene goriva bi mogle da odu u nebesa!\" Stručnjak za energetiku o sankcijama NIS-u: Ovo je najgore što bi moglo da se desi Srbiji",
-        "snippet": "",
-        "url": "https://www.blic.rs/biznis/privreda/strucnjak-za-energetiku-o-sankcijama-nis-u-ovo-je-najgore-sto-bi-moglo-da-se-desi/pjgts51",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQboM-gITLsANJzjEaaBBeSNr7_hvxzcX0YUiQZVLCZuSMPZjgfLhaTI3y8BWM",
-        "source": "Blic"
-      },
-      {
-        "title": "POKS: Najavljene sankcije za NIS su pritisak SAD da se Milan Radojičić izruči Kosovu",
-        "snippet": "",
-        "url": "https://n1info.rs/vesti/poks-najavljene-sankcije-za-nis-su-pritisak-sad-da-se-milan-radojicic-izruci-kosovu/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMcGwxk113PcBoGkfqX_1-bNumYGHn7LonXncUE53ykJx5Cnc1_KY2SfH-N4",
-        "source": "N1"
-      },
-      {
-        "title": "Александар Вучић: Нисам спреман да разговарамо о увођењу санкција Русији (видео)",
-        "snippet": "",
-        "url": "https://www.politika.rs/scc/clanak/650106/aleksandar-vucic-nisam-spreman-da-razgovaramo-o-uvodenju-sankcija-rusiji",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRor1MoYINcScqRWEsWYcBc6Eq1Yqhp9U0HZjeDdMD1EKJbB83plqOf4FDkAkM",
-        "source": "Politika"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "yellow",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "yellow",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "yellow",
+  "Goal 1 Score": 98.6665,
+  "Goal 2 Score": 73.203,
+  "Goal 3 Score": 82.4633571428571,
+  "Goal 4 Score": 86.4605,
+  "Goal 5 Score": 61.5005,
+  "Goal 6 Score": 76.5768,
+  "Goal 7 Score": 75.4435,
+  "Goal 8 Score": 78.6527142857143,
+  "Goal 9 Score": 70.829,
+  "Goal 10 Score": 77.093,
+  "Goal 11 Score": 86.3806666666667,
+  "Goal 12 Score": 84.5546666666667,
+  "Goal 13 Score": 83.8826666666667,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 66.0316,
+  "Goal 16 Score": 65.744,
+  "Goal 17 Score": 76.36
+}

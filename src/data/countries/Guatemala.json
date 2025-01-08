@@ -1,259 +1,36 @@
-[
-  {
-    "title": "augsburgo - leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=GT",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-    "picture_source": "BILD.de",
-    "news_items": [
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
-        "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
-      }
-    ]
-  },
-  {
-    "title": "cagliari - atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=GT",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-    "picture_source": "Virgilio Sport",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
-        "snippet": "",
-        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-        "source": "Virgilio Sport"
-      },
-      {
-        "title": "La vostra formazione: voglia di Retegui dal 1′",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "cien años de soledad",
-    "link": "https://trends.google.com/trending/rss?geo=GT",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdNN1_k3Kab6zuzgNyIJHBxwU4UYpxFUTwY_R-Bnwq4zY_pD2GhQT7peDAfi8",
-    "picture_source": "Forbes",
-    "news_items": [
-      {
-        "title": "'One Hundred Years Of Solitude' Lands On Netflix With A Perfect Rotten Tomatoes Score",
-        "snippet": "",
-        "url": "https://www.forbes.com/sites/erikkain/2024/12/11/one-of-the-best-shows-of-2024-lands-on-netflix-today-with-a-perfect-rotten-tomatoes-score/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdNN1_k3Kab6zuzgNyIJHBxwU4UYpxFUTwY_R-Bnwq4zY_pD2GhQT7peDAfi8",
-        "source": "Forbes"
-      },
-      {
-        "title": "Netflix’s new adaptation of this beloved book is pretty much perfect",
-        "snippet": "",
-        "url": "https://www.the-independent.com/arts-entertainment/tv/features/netflix-one-hundred-years-of-solitude-review-series-cast-b2663039.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwc3pfTgekbwSUkod7UMca-HREN5dUvhNDXx2Mgh71w0FxC6ytLObp2XFtHUk",
-        "source": "The Independent"
-      },
-      {
-        "title": "Adapting One Hundred Years of Solitude Sounded Impossible. It Wasn’t.",
-        "snippet": "",
-        "url": "https://www.theatlantic.com/culture/archive/2024/12/one-hundred-years-of-solitude-netflix-review/680972/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTamQ0ztq4ZWj5LiLb8ILRr80zkYNUsgpf7pRGmVHpl9IEoum1PCCeFqrTV3DY",
-        "source": "The Atlantic"
-      }
-    ]
-  },
-  {
-    "title": "rcd espanyol - osasuna",
-    "link": "https://trends.google.com/trending/rss?geo=GT",
-    "pubdate": "Sat, 14 Dec 2024 04:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
-    "picture_source": "Infobae",
-    "news_items": [
-      {
-        "title": "Tejero, Kumbulla, Romero y Roca, novedades en el Espanyol; Ibáñez y Raúl, en el Osasuna",
-        "snippet": "",
-        "url": "https://www.infobae.com/espana/agencias/2024/12/14/tejero-kumbulla-romero-y-roca-novedades-en-el-espanyol-ibanez-y-raul-en-el-osasuna/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
-        "source": "Infobae"
-      },
-      {
-        "title": "Portada ‘El 1900’ del sábado 14 de diciembre de 2024",
-        "snippet": "",
-        "url": "https://el1900.com/portada-el1900-14-diciembre-2024-espanyol-ca-osasuna/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfp8O-Fn4mBFoYvxlNZGcQz-wscct86d1cDCfXXCDbExYzmN3nes7oJUDV2l8",
-        "source": "El 1900"
-      },
-      {
-        "title": "Manolo González toma decisión: Plan B por las bajas de Jofre Carreras y Omar El Hilali",
-        "snippet": "",
-        "url": "https://xcatalunya.cat/es/deportes/manolo-gonzalez-toma-decision-plan-b-por-bajas-jofre-carreras-y-omar-hilali",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEvkeYi1_7lamYHtm5ZNkeiGtuHfSN1BFfUhZu_FIOHRAes_JF9sCpxbpoS3k",
-        "source": "xcatalunya.cat"
-      }
-    ]
-  },
-  {
-    "title": "coban vs xelaju",
-    "link": "https://trends.google.com/trending/rss?geo=GT",
-    "pubdate": "Fri, 13 Dec 2024 18:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "luna llena diciembre 2024",
-    "link": "https://trends.google.com/trending/rss?geo=GT",
-    "pubdate": "Fri, 13 Dec 2024 16:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhrbYWKaowc3NCM3INaq5hl4H3v1Cld7xpcciD3LZ9NzVQquP-q9AQSnuRCIU",
-    "picture_source": "NTN24",
-    "news_items": [
-      {
-        "title": "Recomiendan mirar al cielo este fin de semana en la noche: tres planetas brillarán intensamente y acompañarán la última Luna llena del año",
-        "snippet": "",
-        "url": "https://www.ntn24.com/noticias-ciencia-y-tecnologia/recomiendan-mirar-al-cielo-este-fin-de-semana-en-la-noche-tres-planetas-brillaran-intensamente-y-acompanaran-la-ultima-luna-llena-del-ano-528807",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhrbYWKaowc3NCM3INaq5hl4H3v1Cld7xpcciD3LZ9NzVQquP-q9AQSnuRCIU",
-        "source": "NTN24"
-      },
-      {
-        "title": "Luna llena del 15 de diciembre de 2024 en Géminis: significados astrológicos y espirituales",
-        "snippet": "",
-        "url": "https://www.clarin.com/astrologia/luna-llena-15-diciembre-2024-geminis-significados-astrologicos-espirituales_0_R8IqGyJfXb.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhbNMOBaWoPXc3jZV2ZCySnuXpJ0toFWB1rK3JXma0gMki0ZFqmSuYDJZyjNA",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "No te pierdas ‘Cold Moon’ este fin de semana. No volverá hasta 2043.",
-        "snippet": "",
-        "url": "https://www.ucodigital.com.ar/tecnica/no-te-pierdas-cold-moon-este-fin-de-semana-no-volvera-hasta-2043/122130/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFspj1JgoQEPp5LKdmJXcsRj8m1xnLKPUanxDhyzdlOY5vPgBwy84Xnepync",
-        "source": "Uco Digital"
-      }
-    ]
-  },
-  {
-    "title": "malcolm in the middle",
-    "link": "https://trends.google.com/trending/rss?geo=GT",
-    "pubdate": "Fri, 13 Dec 2024 13:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRixEDzTPhyb9CHqOsw0V0ZEEkeFslwNeE2p7p8Nujw5Ur8ggvqc3GPXfAhiwA",
-    "picture_source": "Variety",
-    "news_items": [
-      {
-        "title": "‘Malcolm in the Middle’ Revival Set at Disney+ With Frankie Muniz, Bryan Cranston, Jane Kaczmarek Returning",
-        "snippet": "",
-        "url": "https://variety.com/2024/tv/news/malcolm-in-the-middle-revival-disney-plus-frankie-muniz-bryan-cranston-1236185043/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRixEDzTPhyb9CHqOsw0V0ZEEkeFslwNeE2p7p8Nujw5Ur8ggvqc3GPXfAhiwA",
-        "source": "Variety"
-      },
-      {
-        "title": "‘Malcolm In The Middle’ Revived For New Episodes On Disney+ With Frankie Muniz, Bryan Cranston & Jane Kaczmarek",
-        "snippet": "",
-        "url": "https://deadline.com/2024/12/malcolm-in-the-middle-revival-frankie-muniz-bryan-cranston-1236202546/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFVlp2WWHZjts3tGjg0YOMDy67eGKjebIrSHrbe_gWiNhRK78w_XI3RO5phMo",
-        "source": "Deadline"
-      },
-      {
-        "title": "Ford Driver Frankie Muniz Set For ‘Malcom In The Middle’ Return",
-        "snippet": "",
-        "url": "https://fordauthority.com/2024/12/ford-driver-frankie-muniz-set-for-malcom-in-the-middle-return/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpZjo80U5zSmRr7MW73-_961wyYhFo80FSyjWLdA-W8opjFV_XKubqqSnPvkY",
-        "source": "Ford Authority"
-      }
-    ]
-  },
-  {
-    "title": "derby county - portsmouth",
-    "link": "https://trends.google.com/trending/rss?geo=GT",
-    "pubdate": "Fri, 13 Dec 2024 12:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRRDOC6azX0vaRZ1owyzFc3dVnObqkpiZZCJ4qRRq74IBKsJaGAQNDhputCX0",
-    "picture_source": "Sky Sports",
-    "news_items": [
-      {
-        "title": "Derby 4-0 Portsmouth: Kane Wilson, Eiran Cashin, Ebou Adams and Marlon Pack's own goal end six-game winless run for Rams",
-        "snippet": "",
-        "url": "https://www.skysports.com/football/news/12040/13272041/derby-4-0-portsmouth-kane-wilson-eiran-cashin-ebou-adams-and-marlon-packs-own-goal-end-six-game-winless-run-for-rams",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRRDOC6azX0vaRZ1owyzFc3dVnObqkpiZZCJ4qRRq74IBKsJaGAQNDhputCX0",
-        "source": "Sky Sports"
-      },
-      {
-        "title": "STAR FOOTBALL PREVIEW Fri: Derby v Portsmouth",
-        "snippet": "",
-        "url": "https://www.starsportsbet.co.uk/star-football-preview-fri-derby-v-portsmouth/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjBGF4WPJenMwrc60yyiAmWP9GgOoEni2M9EXuEyE8wv6pOQ6flO_KslCNr8c",
-        "source": "Star Sports"
-      },
-      {
-        "title": "“After the Leeds game” - Gary Rowett makes Paul Warne, Derby County claim live on Sky Sports",
-        "snippet": "",
-        "url": "https://footballleagueworld.co.uk/gary-rowett-makes-paul-warne-derby-county-claim-sky-sports/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlZkL9Pn29_m6WsXG8LYQc3gJdKw-CMkgjFrZT9VPxL19xtdqNFAn9hJJR1w",
-        "source": "Football League World"
-      }
-    ]
-  },
-  {
-    "title": "valladolid - valencia c. f.",
-    "link": "https://trends.google.com/trending/rss?geo=GT",
-    "pubdate": "Fri, 13 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
-    "picture_source": "Marca.com",
-    "news_items": [
-      {
-        "title": "El Valladolid condena a Baraja",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/primera-division/cronica/2024/12/13/675c8e17ca47413b758b45bc.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Real Valladolid 1-0 Valencia: resumen, gol y resultado",
-        "snippet": "",
-        "url": "https://as.com/futbol/primera/real-valladolid-valencia-en-directo-laliga-ea-sports-en-vivo-hoy-n/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvSN9-a8uWAQ4n2evqXKU5GUeCCYmtu8Ez6rDqqDLNlZsk88Dny0R6I8mEe3g",
-        "source": "Diario AS"
-      },
-      {
-        "title": "Actualidad del día en el fútbol español a 13 de diciembre de 2024",
-        "snippet": "",
-        "url": "https://es.besoccer.com/noticia/actualidad-del-dia-en-el-futbol-espanol-a-13-de-diciembre-de-2024-1341327",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXBD0XjLcnvYuUuNQY-VspCa_LmdtVAl_7glAoZS6qbAy4Vn813Cmrmz1i1iQ",
-        "source": "BeSoccer | Resultados de fútbol"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "orange",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "red",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 77.855,
+  "Goal 2 Score": 41.0285,
+  "Goal 3 Score": 71.4170714285714,
+  "Goal 4 Score": 73.34225,
+  "Goal 5 Score": 49.20425,
+  "Goal 6 Score": 68.9572,
+  "Goal 7 Score": 56.86175,
+  "Goal 8 Score": 66.8474285714286,
+  "Goal 9 Score": 27.1167142857143,
+  "Goal 10 Score": 20.704,
+  "Goal 11 Score": 61.453,
+  "Goal 12 Score": 90.2421428571429,
+  "Goal 13 Score": 95.5396666666667,
+  "Goal 14 Score": 55.9805,
+  "Goal 15 Score": 54.093,
+  "Goal 16 Score": 39.3528,
+  "Goal 17 Score": 59.89
+}

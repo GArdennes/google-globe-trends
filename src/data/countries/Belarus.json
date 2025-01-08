@@ -1,259 +1,36 @@
-[
-  {
-    "title": "натали",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "кальяри – аталанта",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Кальяри – Аталанта: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21571/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Кальяри - Аталанта: прогноз и ставка на Серию А — 14 декабря 2024",
-        "snippet": "",
-        "url": "https://www.liveresult.ru/tips/football/Italy/tip220313-Cagliari-Atalanta",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9rrEH-4BEO9x2I3hl9P5G6FsaqjjSd3PO3k5sUT2EGAKBUc1_58cHwWb7exo",
-        "source": "LiveResult"
-      },
-      {
-        "title": "«Кальяри» — «Аталанта». Прямая трансляция: смотреть онлайн матч Серии А",
-        "snippet": "",
-        "url": "https://sport24.ru/football/news-709539-kalyari-atalanta-pryamaya-translyatsiya-smotret-onlayn-match-serii-a",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_L7N9NuW2FFwP3nc7L6rzDC2wLAkNcQzse-hG6DgcgKYnECtEy0JK-QKyKjM",
-        "source": "Sport24.ru"
-      }
-    ]
-  },
-  {
-    "title": "оман",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PHJJ-AqD24PfjbWoPeioqgXPzf6Ie4Js2MOSM2niNFD_Q83QV0IEjdv5U6w",
-    "picture_source": "ABW.by",
-    "news_items": [
-      {
-        "title": "Белорусская сельхозтехника будет поставляться в Оман",
-        "snippet": "",
-        "url": "https://abw.by/news/rb/2024/12/14/belorusskaya-selhoztehnika-budet-postavlyatsya-v-oman",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PHJJ-AqD24PfjbWoPeioqgXPzf6Ie4Js2MOSM2niNFD_Q83QV0IEjdv5U6w",
-        "source": "ABW.by"
-      },
-      {
-        "title": "Лукашенко направился с рабочим визитом в Оман",
-        "snippet": "",
-        "url": "https://www.sb.by/articles/lukashenko-napravilsya-s-rabochim-vizitom-v-oman.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw4-yKgLuD7eFel5LGc5O3UhbGAKKRQGuQ9sx9wiRz_ArlzMpCI030VUtPsRA",
-        "source": "Беларусь сегодня"
-      },
-      {
-        "title": "Беларусь укрепляет позиции на Ближнем Востоке. Зачем Лукашенко полетел в Оман спустя 17 лет",
-        "snippet": "",
-        "url": "https://belta.by/president/view/belarus-ukrepljaet-pozitsii-na-blizhnem-vostoke-zachem-lukashenko-poletel-v-oman-spustja-17-let-682613-2024/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAchBaIfmwJxlVVG10WIPzg-rKjpg6dnu1EeKPoCQ2aW9lvg6b5FGwlPDq-gA",
-        "source": "БелТА"
-      }
-    ]
-  },
-  {
-    "title": "михаил кавелашвили",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Sat, 14 Dec 2024 03:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Президентские выборы в Грузии: коллегия проголосовала за бывшего футболиста Михаила Кавелашвили. Оппозиция выборы не признает",
-        "snippet": "",
-        "url": "https://www.bbc.com/russian/articles/cd0elgx741xo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
-        "source": "BBC"
-      },
-      {
-        "title": "Протестующие в Грузии требуют отменить выборы президента",
-        "snippet": "",
-        "url": "https://ru.euronews.com/my-europe/2024/12/13/georgia-protests-friday",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTam_FMJs0-16ZdKBkhFeSTOiWRrBjwG7SViqqNPBuVre_F4KLyr2kf22J09us",
-        "source": "Euronews.com"
-      },
-      {
-        "title": "Президентом Грузии коллегией выборщиков избран Михаил Кавелашвили",
-        "snippet": "",
-        "url": "https://www.interfax.ru/world/997702",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSFYWh0IUJw_ZVryJH4EEKrVYfMW2JnYXXNQGmPPB3vCsdguKBxILT2c6uNR4",
-        "source": "Интерфакс"
-      }
-    ]
-  },
-  {
-    "title": "борис щербаков",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 20:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWMmDrQbXvaHRzTv-HNtSYsbYxcdo4WH2nGWBmLM0KEY92h-GknGY384rAOJY",
-    "picture_source": "Кино Mail",
-    "news_items": [
-      {
-        "title": "Сын Бориса Щербакова рассказал о состоянии отца после новостей о пневмонии",
-        "snippet": "",
-        "url": "https://kino.mail.ru/news/76401-syin-borisa-scherbakova-rasskazal-o-sostoyanii-ottsa-posle-novostej-o-pnevmonii/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWMmDrQbXvaHRzTv-HNtSYsbYxcdo4WH2nGWBmLM0KEY92h-GknGY384rAOJY",
-        "source": "Кино Mail"
-      },
-      {
-        "title": "Состояние Бориса Щербакова после операции на лице резко ухудшилось",
-        "snippet": "",
-        "url": "https://7days.ru/news/sostoyanie-borisa-shcherbakova-posle-operatsii-na-litse-rezko-ukhudshilos.htm",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0_VUzmM1ygrjBmKxFpc8vAj10T2dknnU5z4suXgwGav_R6ANppK1lRtbzP0o",
-        "source": "7Дней.ру"
-      },
-      {
-        "title": "Невролог Хорошев объяснил, с чем связано критическое состояние Бориса Щербакова",
-        "snippet": "",
-        "url": "https://radio1.ru/news/shou-biznes/nekrolog-horoshev-obyasnil-s-chem-svyazano-kriticheskoe-sostoyanie-borisa-scherbakova/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS852Z4j_X9mNG90dMdsUN6c6QgRQLoqxwZgJuSwzrtVXRBQ3HRx7C11jih_vk",
-        "source": "radio1.ru"
-      }
-    ]
-  },
-  {
-    "title": "viber заблокировали",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 19:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmkrfvqoJDsvNNG1j8mHSDESe6TvcpnwZxNFrBMy3_ZGuRzoNE3NJDDbhKiXo",
-    "picture_source": "Myfin.by",
-    "news_items": [
-      {
-        "title": "В России заблокировали Viber",
-        "snippet": "",
-        "url": "https://myfin.by/article/zhizn/v-rossii-zablokirovali-viber-34334",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmkrfvqoJDsvNNG1j8mHSDESe6TvcpnwZxNFrBMy3_ZGuRzoNE3NJDDbhKiXo",
-        "source": "Myfin.by"
-      },
-      {
-        "title": "Viber под запретом: Россия ограничила доступ к популярному мессенджеру",
-        "snippet": "",
-        "url": "https://newgrodno.by/v-mire/rossiya-ogranichila-dostup-k-populyarnomu-messendzheru/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-LjxLp0v7EYA6WRzW5z0dcRecWEGT83GnysZcEeBRALfGv4rX7MwCn9mAuDw",
-        "source": "NewGrodno.By"
-      },
-      {
-        "title": "В России заблокировали Viber",
-        "snippet": "",
-        "url": "https://officelife.media/news/58781-v-rossii-zablokirovali-viber/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSruCEnUmgbjH39v6dzM4a-2JSZQIskQHDwyQk0-lz2UNZdrKVyWC-HnFOa5m8",
-        "source": "officelife.media"
-      }
-    ]
-  },
-  {
-    "title": "ютуб",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 17:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNkdHP_vSGl6XSJSk2tLC0JTlkz8D7iecyqfQ1si4ytC9VxJjd4g4eNUI9KHM",
-    "picture_source": "Tochka.by",
-    "news_items": [
-      {
-        "title": "YouTube блокирует в Беларуси важнейшую опцию",
-        "snippet": "",
-        "url": "https://tochka.by/articles/technology/youtube_blokiruet_v_belarusi_vazhneyshuyu_optsiyu/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNkdHP_vSGl6XSJSk2tLC0JTlkz8D7iecyqfQ1si4ytC9VxJjd4g4eNUI9KHM",
-        "source": "Tochka.by"
-      },
-      {
-        "title": "Сервис рекламы Google решил уйти из Беларуси. Что будет с монетизацией?",
-        "snippet": "",
-        "url": "https://myfin.by/article/biznes/servis-reklamy-google-resil-ujti-iz-belarusi-cto-budet-s-monetizaciej-34267",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FxXft_zbi94LxzUBlEFuqh1yN4Fe2u12GYzsXOC8CElPLzFGN2BY9jYOhzM",
-        "source": "Myfin.by"
-      },
-      {
-        "title": "Белорусские аккаунты AdSense отключат, монетизации не будет",
-        "snippet": "",
-        "url": "https://tech.onliner.by/2024/12/11/adsense-belarus",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzWodbr5Fcar1MUZBumTk0Gci7NI9p8rj_ryIKpQ402U11Vb5wGc6K5D3HzDM",
-        "source": "Onlíner"
-      }
-    ]
-  },
-  {
-    "title": "пожар в тц беларусь витебск",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 07:10:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8SAb9nmTOmm2tCNrKNOYY7XbVqb1dt4X15ILTEMgM-ggStsvqGCm-saWhfI8",
-    "picture_source": "Onlíner",
-    "news_items": [
-      {
-        "title": "«Пострадавших уже 16». Новые подробности пожара в витебском ТЦ",
-        "snippet": "",
-        "url": "https://realt.onliner.by/2024/12/14/dvoe-v-tyazhelom-sostoyanii-podrobnosti-o-postradavshix-pri-pozhare-v-vitebskom-tc",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8SAb9nmTOmm2tCNrKNOYY7XbVqb1dt4X15ILTEMgM-ggStsvqGCm-saWhfI8",
-        "source": "Onlíner"
-      },
-      {
-        "title": "Спасатели ликвидировали пожар в торговом центре «Беларусь»",
-        "snippet": "",
-        "url": "https://mchs.gov.by/glavnoe/474112/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBBjc873GRr7KiaDOTVl1Iz2fhTNmCTab0GU3NYxJQzGgBSl1KZvzGF7OVcQ",
-        "source": "Министерство по чрезвычайным ситуациям Республики Беларусь"
-      },
-      {
-        "title": "Пожар в торговом центре «Беларусь» ликвидирован",
-        "snippet": "",
-        "url": "https://vitbichi.by/news/obshchestvo/pozhar_v_torgovom_tsentre_belarus_likvidirovan/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6fJCL34hAuU0NsAFEruhvGueNe5WtNObp40OOVexZUToBnqrSjj-xzbPbC-E",
-        "source": "Vitbichi.by"
-      }
-    ]
-  },
-  {
-    "title": "чрезвычайное положение",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 06:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPOlcRo6NadbauahNAAgYjFEJYACMsr3lIvtGdmpvlAzbeJK-uRg473HiHn_A",
-    "picture_source": "Euronews.com",
-    "news_items": [
-      {
-        "title": "Молдавия объявила режим ЧП из-за риска отключения российского газа",
-        "snippet": "",
-        "url": "https://ru.euronews.com/business/2024/12/13/business-moldova-energy-emergency",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPOlcRo6NadbauahNAAgYjFEJYACMsr3lIvtGdmpvlAzbeJK-uRg473HiHn_A",
-        "source": "Euronews.com"
-      },
-      {
-        "title": "Молдова вводит режим ЧП в сфере энергетики на фоне прекращения транзита российского газа через Украину",
-        "snippet": "",
-        "url": "https://www.bbc.com/russian/articles/c786j8pxp9jo",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOXTnHibz1IcZu_KLNL7e8hqD16QmZCZgcOgnO8UzxCesNRK8Cr14bxmNHzis",
-        "source": "BBC"
-      },
-      {
-        "title": "В Молдове снова газовый кризис: в чем причина и кто виноват",
-        "snippet": "",
-        "url": "https://www.dw.com/ru/v-moldove-snova-gazovyj-krizis-v-cem-pricina-i-kto-vinovat/a-71050731",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvfTW9bhM6nQN7KCle6ttQD0GKbiVsH4TWPfq3f4W6ZXLndtMWI_K0Vv31oGM",
-        "source": "DW"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "yellow",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "green",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "green",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "green",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "yellow",
+  "Goal 1 Score": 99.184,
+  "Goal 2 Score": 62.07375,
+  "Goal 3 Score": 83.6929285714286,
+  "Goal 4 Score": 93.645,
+  "Goal 5 Score": 77.26325,
+  "Goal 6 Score": 88.1304,
+  "Goal 7 Score": 71.045,
+  "Goal 8 Score": 61.079,
+  "Goal 9 Score": 60.6551428571429,
+  "Goal 10 Score": 100,
+  "Goal 11 Score": 94.46925,
+  "Goal 12 Score": 69.0985714285714,
+  "Goal 13 Score": 82.5756666666667,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 92.461,
+  "Goal 16 Score": 64.5937272727273,
+  "Goal 17 Score": 70.5056
+}

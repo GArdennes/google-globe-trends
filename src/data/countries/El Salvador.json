@@ -1,228 +1,36 @@
-[
-  {
-    "title": "mainz 05 - bayern",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-    "picture_source": "FCBinside",
-    "news_items": [
-      {
-        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
-        "snippet": "",
-        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-        "source": "FCBinside"
-      },
-      {
-        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
-      }
-    ]
-  },
-  {
-    "title": "augsburgo - leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-    "picture_source": "BILD.de",
-    "news_items": [
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
-        "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
-      }
-    ]
-  },
-  {
-    "title": "premier",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDRHKSMvV-LPZOR5hjjDe7-9zrRO821AMv4rntzS4pm4yG3jTfvjsngTZIHw",
-    "picture_source": "Rousing The Kop",
-    "news_items": [
-      {
-        "title": "The five Fulham players set to miss Liverpool clash as key defensive duo ruled out",
-        "snippet": "",
-        "url": "https://www.rousingthekop.com/2024/12/14/the-five-fulham-players-set-to-miss-liverpool-clash-as-key-defensive-duo-ruled-out/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDRHKSMvV-LPZOR5hjjDe7-9zrRO821AMv4rntzS4pm4yG3jTfvjsngTZIHw",
-        "source": "Rousing The Kop"
-      },
-      {
-        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
-        "snippet": "",
-        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
-        "source": "Liverpool FC"
-      },
-      {
-        "title": "\"They're in Great Form\" - Alan Shearer Previews Liverpool's Premier League Clash with Fulham",
-        "snippet": "",
-        "url": "https://anfieldindex.com/76425/theyre-in-great-form-alan-shearer-previews-liverpools-premier-league-clash-with-fulham.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8n8fAruf7VHqyvTYP3fLL7050EzMA6HFZ8u5NR-oBeZAZxJTS9UO94wVvfh8",
-        "source": "anfieldindex.com"
-      }
-    ]
-  },
-  {
-    "title": "cagliari - atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-    "picture_source": "Virgilio Sport",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
-        "snippet": "",
-        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-        "source": "Virgilio Sport"
-      },
-      {
-        "title": "La vostra formazione: voglia di Retegui dal 1′",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "rcd espanyol - osasuna",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
-    "picture_source": "Infobae",
-    "news_items": [
-      {
-        "title": "Tejero, Kumbulla, Romero y Roca, novedades en el Espanyol; Ibáñez y Raúl, en el Osasuna",
-        "snippet": "",
-        "url": "https://www.infobae.com/espana/agencias/2024/12/14/tejero-kumbulla-romero-y-roca-novedades-en-el-espanyol-ibanez-y-raul-en-el-osasuna/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
-        "source": "Infobae"
-      },
-      {
-        "title": "Portada ‘El 1900’ del sábado 14 de diciembre de 2024",
-        "snippet": "",
-        "url": "https://el1900.com/portada-el1900-14-diciembre-2024-espanyol-ca-osasuna/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfp8O-Fn4mBFoYvxlNZGcQz-wscct86d1cDCfXXCDbExYzmN3nes7oJUDV2l8",
-        "source": "El 1900"
-      },
-      {
-        "title": "Manolo González toma decisión: Plan B por las bajas de Jofre Carreras y Omar El Hilali",
-        "snippet": "",
-        "url": "https://xcatalunya.cat/es/deportes/manolo-gonzalez-toma-decision-plan-b-por-bajas-jofre-carreras-y-omar-hilali",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEvkeYi1_7lamYHtm5ZNkeiGtuHfSN1BFfUhZu_FIOHRAes_JF9sCpxbpoS3k",
-        "source": "xcatalunya.cat"
-      }
-    ]
-  },
-  {
-    "title": "accidente carretera los chorros",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Sat, 14 Dec 2024 01:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6OdEIk21MboAm8dKnwJtwfRRrVzgohA8lQtLgQCDlnULU2tQf-lv1ntw0Ags",
-    "picture_source": "La Prensa Gráfica",
-    "news_items": [
-      {
-        "title": "Empresa Dongbu Corporation lamentó el accidente en Los Chorros: “Estamos acompañando a las familias afectadas” - La Prensa Gráfica",
-        "snippet": "",
-        "url": "https://www.laprensagrafica.com/elsalvador/Empresa-Dongbu-Corporation-lamento-el-accidente-en-Los-Chorros-Estamos-acompanando-a-las-familias-afectadas-20241213-0092.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6OdEIk21MboAm8dKnwJtwfRRrVzgohA8lQtLgQCDlnULU2tQf-lv1ntw0Ags",
-        "source": "La Prensa Gráfica"
-      },
-      {
-        "title": "Tres trabajadores murieron tras el colapso de una malla de hierro en Los Chorros",
-        "snippet": "",
-        "url": "https://www.elsalvador.com/noticias/nacional/base-hierro-cae-trabajadores-los-chorros/1187538/2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQreL_piFxbyjd5GJGrAws615vsKz_rf93ovOtLwbCg0n7rbTXEwdXwjKXKY4k",
-        "source": "Noticias de El Salvador"
-      },
-      {
-        "title": "Tragedia de Los Chorros: eso pasó porque quitaron los andamios que sostenían la plataforma, según trabajador | Diario El Mundo",
-        "snippet": "",
-        "url": "https://diario.elmundo.sv/nacionales/tragedia-de-los-chorros-eso-paso-porque-quitaron-los-andamios-que-sostenian-la-plataforma-segun-trabajador",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg8oaGeJ9hfL1KO6st1XEvJ-ADSRBxk045hxWNI86Z8YPukwua8_8Phth0Cl0",
-        "source": "Noticias de El Salvador y el Mundo"
-      }
-    ]
-  },
-  {
-    "title": "ues",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Fri, 13 Dec 2024 22:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "valladolid - valencia c. f.",
-    "link": "https://trends.google.com/trending/rss?geo=SV",
-    "pubdate": "Fri, 13 Dec 2024 11:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB-EUGoeP7kFvFkmq-VwoDFztTU7Wfwqp0GzeAODpBMYJyLlu-jFZC7xAoJKo",
-    "picture_source": "Diario AS",
-    "news_items": [
-      {
-        "title": "Resumen y goles del Real Valladolid vs Valencia, jornada 17de LaLiga EA Sports",
-        "snippet": "",
-        "url": "https://as.com/futbol/videos/resumen-y-goles-del-real-valladolid-vs-valencia-jornada-17de-laliga-ea-sports-v/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB-EUGoeP7kFvFkmq-VwoDFztTU7Wfwqp0GzeAODpBMYJyLlu-jFZC7xAoJKo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "El Valladolid condena a Baraja",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/primera-division/cronica/2024/12/13/675c8e17ca47413b758b45bc.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Actualidad del día en el fútbol español a 13 de diciembre de 2024",
-        "snippet": "",
-        "url": "https://es.besoccer.com/noticia/actualidad-del-dia-en-el-futbol-espanol-a-13-de-diciembre-de-2024-1341327",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXBD0XjLcnvYuUuNQY-VspCa_LmdtVAl_7glAoZS6qbAy4Vn813Cmrmz1i1iQ",
-        "source": "BeSoccer | Resultados de fútbol"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "yellow",
+  "Goal 1 Score": 90.4415,
+  "Goal 2 Score": 47.35,
+  "Goal 3 Score": 77.6414285714286,
+  "Goal 4 Score": 79.47525,
+  "Goal 5 Score": 63.80325,
+  "Goal 6 Score": 73.5416,
+  "Goal 7 Score": 74.625,
+  "Goal 8 Score": 67.9408571428571,
+  "Goal 9 Score": 38.6981428571429,
+  "Goal 10 Score": 58.178,
+  "Goal 11 Score": 71.182,
+  "Goal 12 Score": 86.7132857142857,
+  "Goal 13 Score": 93.6146666666667,
+  "Goal 14 Score": 44.1621666666667,
+  "Goal 15 Score": 62.8944,
+  "Goal 16 Score": 58.9431818181818,
+  "Goal 17 Score": 77.138
+}

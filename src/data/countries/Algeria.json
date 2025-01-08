@@ -1,312 +1,36 @@
-[
-  {
-    "title": "mainz 05 – bayern",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-    "picture_source": "FCBinside",
-    "news_items": [
-      {
-        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
-        "snippet": "",
-        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-        "source": "FCBinside"
-      },
-      {
-        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
-      }
-    ]
-  },
-  {
-    "title": "liverpool – fulham",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtSRnU2q_S9H9zP0KgQwhzkwngJey1FEuZd-IQEcBCLUIBDaviS0Mtkeumbo",
-    "picture_source": "Fulham FC",
-    "news_items": [
-      {
-        "title": "Team News: Fulham without 5 at Anfield",
-        "snippet": "",
-        "url": "https://www.fulhamfc.com/news/2024/december/12/team-news-fulham-without-5-at-anfield/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtSRnU2q_S9H9zP0KgQwhzkwngJey1FEuZd-IQEcBCLUIBDaviS0Mtkeumbo",
-        "source": "Fulham FC"
-      },
-      {
-        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
-        "snippet": "",
-        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
-        "source": "Liverpool FC"
-      },
-      {
-        "title": "\"They're in Great Form\" - Alan Shearer Previews Liverpool's Premier League Clash with Fulham",
-        "snippet": "",
-        "url": "https://anfieldindex.com/76425/theyre-in-great-form-alan-shearer-previews-liverpools-premier-league-clash-with-fulham.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8n8fAruf7VHqyvTYP3fLL7050EzMA6HFZ8u5NR-oBeZAZxJTS9UO94wVvfh8",
-        "source": "anfieldindex.com"
-      }
-    ]
-  },
-  {
-    "title": "arsenal – everton",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-    "picture_source": "Arsenal.com",
-    "news_items": [
-      {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
-        "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-        "source": "Arsenal.com"
-      },
-      {
-        "title": "Liverpool vs Fulham LIVE: Premier League team news, line-ups and more",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/liverpool-vs-fulham-live-premier-130024902.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzU2E14EGckBt0ic527jchCx0JekCwkEvir9rpx53DSS4htwFJrh0HfhQtldk",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "LATEST UPDATE: Will Gabriel Magalhaes return to action for Arsenal to face Everton?",
-        "snippet": "",
-        "url": "https://arsenalcore.com/latest-update-gabriel-magalhaes-injury-return-arsenal-vs-everton/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG8YOvVyTzMiftIuwbKJmWivccPA2OrdJQnZF9Byba-KnOu3A3R0VREHA7h3g",
-        "source": "ArsenalCore"
-      }
-    ]
-  },
-  {
-    "title": "augsbourg – leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-    "picture_source": "BILD.de",
-    "news_items": [
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
-        "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
-      }
-    ]
-  },
-  {
-    "title": "yoon suk yeol",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgIPWu3iTCm46ARhl29poR2sU8OXHCPTpnFQjLQuCYx94drwOzb-r0KNzfGbA",
-    "picture_source": "thesun.my",
-    "news_items": [
-      {
-        "title": "Yoon vows to do his best ‘until the end’ after impeachment vote",
-        "snippet": "",
-        "url": "https://thesun.my/world-news/yoon-vows-to-do-his-best-until-the-end-after-impeachment-vote-FE13421271",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgIPWu3iTCm46ARhl29poR2sU8OXHCPTpnFQjLQuCYx94drwOzb-r0KNzfGbA",
-        "source": "thesun.my"
-      },
-      {
-        "title": "Video: Ivan Watson describes scene in South Korea after parliament votes to impeach president",
-        "snippet": "",
-        "url": "https://www.cnn.com/2024/12/14/world/video/south-korea-yoon-second-impeachment-watson-cnntm-digvid",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQulpt2-qvyg1OYStWrWm6U3BACOup8-cH2nwJ7yiAotpD08s5nIac9X5nHKPI",
-        "source": "CNN"
-      },
-      {
-        "title": "South Korean president impeached, constitutional court to sit December 16",
-        "snippet": "",
-        "url": "https://www.intellinews.com/south-korean-president-impeached-constitutional-court-to-sit-december-16-358377/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN6TkVsIUOkx-BhN-voa23JOqGQEQW3kpPWSkSyy5aXhcMUfY7hZD0VeVnRiw",
-        "source": "bne IntelliNews"
-      }
-    ]
-  },
-  {
-    "title": "les 12 coups de midi",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwQdWV3CMupLi6upb9FGuuCjmWEy-4Rn7hrD9MaGKh45aLKw1p9GRiKk5DUAI",
-    "picture_source": "AlloCiné",
-    "news_items": [
-      {
-        "title": "Les 12 Coups de midi : retrouvailles émouvantes en plateau…",
-        "snippet": "",
-        "url": "https://www.allocine.fr/tvactu/articles/article-1000118862.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwQdWV3CMupLi6upb9FGuuCjmWEy-4Rn7hrD9MaGKh45aLKw1p9GRiKk5DUAI",
-        "source": "AlloCiné"
-      },
-      {
-        "title": "Les 12 coups de midi : Jean-Luc Reichmann bouleversé par une candidate, l’étoile mystérieuse dévoilée par Émilien ce vendredi 13 décembre 2024 sur TF1",
-        "snippet": "",
-        "url": "https://www.toutelatele.com/les-12-coups-de-midi-jean-luc-reichmann-bouleverse-par-une-candidate-l-etoile-mysterieuse-devoilee-par-emilien-ce-vendredi-13-decembre-2024-sur-tf1-171566",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXBNBwO4tHzVgdLdyp0ZzhARGeB9ZdNTiRlqyijSwAw1bNOFqEh_TcZ_ctyxo",
-        "source": "Toutelatele"
-      },
-      {
-        "title": "Les 12 coups de midi : \"Vous êtes mon cadeau\", la déclaration touchante d'une candidate à Jean-Luc Reichmann",
-        "snippet": "",
-        "url": "https://www.lamontagne.fr/france-monde/loisirs/les-12-coups-de-midi-vous-etes-mon-cadeau-la-declaration-touchante-d-une-candidate-a-jean-luc-reichmann_14612014/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRksQe67bA-Zw45dnHk5LeveKZS77DENwCeWexrtZmn75LxtfVPUohfa2LMFxU",
-        "source": "www.lamontagne.fr"
-      }
-    ]
-  },
-  {
-    "title": "fifa +",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7MuupJNl1gbUMCY1XCoFhfRCbuh5Qm5xE9a8OCmDCTvSmjJ1EQ1AS3QDTBa4",
-    "picture_source": "ESPN",
-    "news_items": [
-      {
-        "title": "USWNT stays at No. 1 in year-end FIFA rankings",
-        "snippet": "",
-        "url": "https://www.espn.com/soccer/story/_/id/42947056/fifa-rankings-usa-women-stay-no-1-end-2024",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7MuupJNl1gbUMCY1XCoFhfRCbuh5Qm5xE9a8OCmDCTvSmjJ1EQ1AS3QDTBa4",
-        "source": "ESPN"
-      },
-      {
-        "title": "USWNT finish 2024 as FIFA No. 1 after Paris Gold in 2024 Summer Olympics and undefeated run under Emma Hayes",
-        "snippet": "",
-        "url": "https://www.goal.com/en-us/lists/uswnt-2024-fifa-no-1-paris-gold-in-2024-summer-olympics-emma-hayes-mallory-swanson-sophia-smith-trinity-rodman/blt9801c6baddd0d69f",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsT_fZ4g6xdrnMoG5HyzZYQqVc9CDmNCkHen02Drox6n2KnjUlX25-TKK3j8Y",
-        "source": "Goal.com"
-      },
-      {
-        "title": "US women’s national team will end year atop FIFA rankings",
-        "snippet": "",
-        "url": "https://www.timesfreepress.com/news/2024/dec/13/us-womens-national-team-will-end-year-atop-fifa/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSZCI2Vrz_OQ2izk6T7SqUl7WNMmPIhQDLJyJVN_nmJJkYxKOpstjsNkcVeDA",
-        "source": "Chattanooga Times Free Press"
-      }
-    ]
-  },
-  {
-    "title": "cagliari – atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-    "picture_source": "Virgilio Sport",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
-        "snippet": "",
-        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-        "source": "Virgilio Sport"
-      },
-      {
-        "title": "La vostra formazione: voglia di Retegui dal 1′",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "fifa",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfqPCyGWC4AFmXduQkTyHUm6_QK2gPBCh53BSFtbUSeOzNrxTsktxEpFvTCAo",
-    "picture_source": "DW",
-    "news_items": [
-      {
-        "title": "Germany's 2026 World Cup qualifiers depend on Italy game",
-        "snippet": "",
-        "url": "https://www.dw.com/en/germanys-2026-world-cup-qualifiers-depend-on-italy-game/a-71043177",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfqPCyGWC4AFmXduQkTyHUm6_QK2gPBCh53BSFtbUSeOzNrxTsktxEpFvTCAo",
-        "source": "DW"
-      },
-      {
-        "title": "Your views on World Cup qualifying draw: 'Teams will fear Scotland'",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/articles/c0q0geny3wvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3ui1sjlCH31JIepWOPSRtgg4aFyXF3XxBSfw_2GHfc5FZNh-qhKiPznoe0oY",
-        "source": "BBC"
-      },
-      {
-        "title": "England's European World Cup qualifying fixture dates confirmed",
-        "snippet": "",
-        "url": "https://www.englandfootball.com/articles/2024/Dec/13/england-2026-world-cup-european-qualifying-fixture-dates-20241312",
-        "picture": "",
-        "source": "England Football"
-      }
-    ]
-  },
-  {
-    "title": "bachar al assad",
-    "link": "https://trends.google.com/trending/rss?geo=DZ",
-    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJgpoUfK2mG_7LrfrW_MWnTpj7PgdjlKAlgdbemASext3zN94-Oo_MKeXSKEw",
-    "picture_source": "Le Monde.fr",
-    "news_items": [
-      {
-        "title": "En Syrie, la fuite chaotique des partisans d’Al-Assad",
-        "snippet": "",
-        "url": "https://www.lemonde.fr/international/article/2024/12/13/en-syrie-la-fuite-chaotique-des-partisans-d-al-assad_6446250_3210.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJgpoUfK2mG_7LrfrW_MWnTpj7PgdjlKAlgdbemASext3zN94-Oo_MKeXSKEw",
-        "source": "Le Monde.fr"
-      },
-      {
-        "title": "Premier vendredi de prière à Damas depuis la chute du gouvernement de Bachar al-Assad",
-        "snippet": "",
-        "url": "https://www.bfmtv.com/international/moyen-orient/syrie/premier-vendredi-de-priere-a-damas-depuis-la-chute-du-gouvernement-de-bachar-al-assad_VN-202412130540.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqE-bGOL420Y_sLef9fmyNxpDqso5arYWE-R7fs0J-WWvcSAVXoFZEc1J3AFA",
-        "source": "BFMTV"
-      },
-      {
-        "title": "Pick-up Lamborghini, Ferrari en édition limitée... L’impressionnante collection de voitures de Bachar el-Assad",
-        "snippet": "",
-        "url": "https://www.lefigaro.fr/international/pick-up-lamborghini-ferrari-en-edition-limitee-l-impressionnante-collection-de-voitures-de-bachar-el-assad-20241210",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ34TOaOvHEaCumx7vYpKXz7QOsggo6bORPcptNcyzseb4QEY3XS6h554xTxTQ",
-        "source": "Le Figaro"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "red",
+  "Goal 5 Rating": "red",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "green",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "orange",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "yellow",
+  "Goal 1 Score": 97.7635,
+  "Goal 2 Score": 64.327,
+  "Goal 3 Score": 77.7927857142857,
+  "Goal 4 Score": 68.032,
+  "Goal 5 Score": 36.85275,
+  "Goal 6 Score": 57.302,
+  "Goal 7 Score": 66.39075,
+  "Goal 8 Score": 66.6178571428571,
+  "Goal 9 Score": 52.3161428571429,
+  "Goal 10 Score": 97.015,
+  "Goal 11 Score": 68.48275,
+  "Goal 12 Score": 88.7131428571429,
+  "Goal 13 Score": 87.2245,
+  "Goal 14 Score": 64.7721666666667,
+  "Goal 15 Score": 65.9196,
+  "Goal 16 Score": 65.1562727272727,
+  "Goal 17 Score": 73.364
+}

@@ -1,64 +1,36 @@
-[
-  {
-    "title": "google",
-    "link": "https://trends.google.com/trending/rss?geo=MK",
-    "pubdate": "Fri, 13 Dec 2024 17:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTypVmFlIU8OlQw2jHQptw6BsueGsj0uMtHOSsBto97lC56vn8NjAxV-YEONUg",
-    "picture_source": "Google Blog",
-    "news_items": [
-      {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
-        "snippet": "",
-        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTypVmFlIU8OlQw2jHQptw6BsueGsj0uMtHOSsBto97lC56vn8NjAxV-YEONUg",
-        "source": "Google Blog"
-      },
-      {
-        "title": "Google Unveils A.I. Agent That Can Use Websites on Its Own",
-        "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/11/technology/google-ai-agent-gemini.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsqjZAKfhLL_pgHuDCcgANAJUd7DXf328XWRts3j0t0Hewi3NV5rxkGgnOcng",
-        "source": "The New York Times"
-      },
-      {
-        "title": "Alphabet stock hits record high on Google's new AI model, Gemini 2.0",
-        "snippet": "",
-        "url": "https://finance.yahoo.com/video/alphabet-stock-hits-record-high-214706792.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk43UDRmVjh9BjGBcY6Y-NOJMIOUMQ4pxj3tgUsYJp5fZRqfFvKGyvyZYawc8",
-        "source": "Yahoo Finance"
-      }
-    ]
-  },
-  {
-    "title": "weather tomorrow",
-    "link": "https://trends.google.com/trending/rss?geo=MK",
-    "pubdate": "Fri, 13 Dec 2024 12:00:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-    "picture_source": "5 EYEWITNESS NEWS",
-    "news_items": [
-      {
-        "title": "Ken says a warming begins today",
-        "snippet": "",
-        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-        "source": "5 EYEWITNESS NEWS"
-      },
-      {
-        "title": "Warmer temps this weekend and especially for next week",
-        "snippet": "",
-        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
-        "source": "WIS News 10"
-      },
-      {
-        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
-        "snippet": "",
-        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
-        "source": "WLWT"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "yellow",
+  "Goal 1 Score": 96.633,
+  "Goal 2 Score": 59.4487142857143,
+  "Goal 3 Score": 79.6131428571429,
+  "Goal 4 Score": 67.479,
+  "Goal 5 Score": 56.361,
+  "Goal 6 Score": 71.419,
+  "Goal 7 Score": 72.1045,
+  "Goal 8 Score": 68.168,
+  "Goal 9 Score": 58.1324285714286,
+  "Goal 10 Score": 80.143,
+  "Goal 11 Score": 89.5685,
+  "Goal 12 Score": 79.2367142857143,
+  "Goal 13 Score": 88.6673333333333,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 79.3566,
+  "Goal 16 Score": 69.6492727272727,
+  "Goal 17 Score": 72.991
+}

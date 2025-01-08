@@ -1,97 +1,36 @@
-[
-  {
-    "title": "hernán medford",
-    "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8h_Z0xv45F4ALjSVk3r1X-sikt1ZvKyCtyDb1SoD3dGjmihylJIQXoPdYMkI",
-    "picture_source": "Everardo Herrera",
-    "news_items": [
-      {
-        "title": "Hernán Medford duró poco tiempo sin equipo",
-        "snippet": "",
-        "url": "https://everardoherrera.com/index.php?view=article&id=120802:hernan-medford-duro-poco-tiempo-sin-equipo&catid=75",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8h_Z0xv45F4ALjSVk3r1X-sikt1ZvKyCtyDb1SoD3dGjmihylJIQXoPdYMkI",
-        "source": "Everardo Herrera"
-      },
-      {
-        "title": "Hernán Medford sorprende al dejar el futbol de Costa Rica para volver a Guatemala",
-        "snippet": "",
-        "url": "https://futbolcentroamerica.com/costarica/hernan-medford-sorprende-al-dejar-el-futbol-de-costa-rica-para-volver-a-guatemala",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkv-d7jIUpePV2qtduhOKbaiCUtJoYvvjgvF19igsbWldych-Nv95F-Zxbq0",
-        "source": "Fútbol Centroamérica"
-      }
-    ]
-  },
-  {
-    "title": "lluvia de estrellas",
-    "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Fri, 13 Dec 2024 20:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "luna llena diciembre 2024",
-    "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Fri, 13 Dec 2024 15:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0Odeau_CP8YWB57XYGiscPLD_XZ1f-Yj5UjPw0hhckncXbqc6GOcabWpzDQc",
-    "picture_source": "Clarin.com",
-    "news_items": [
-      {
-        "title": "Luna llena del 15 de diciembre de 2024 en Géminis: cómo afecta a cada signo del zodiaco",
-        "snippet": "",
-        "url": "https://www.clarin.com/astrologia/luna-llena-15-diciembre-2024-geminis-afecta-signo-zodiaco_0_C62FOK4RPz.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0Odeau_CP8YWB57XYGiscPLD_XZ1f-Yj5UjPw0hhckncXbqc6GOcabWpzDQc",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "No te pierdas ‘Cold Moon’ este fin de semana. No volverá hasta 2043.",
-        "snippet": "",
-        "url": "https://www.ucodigital.com.ar/tecnica/no-te-pierdas-cold-moon-este-fin-de-semana-no-volvera-hasta-2043/122130/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFspj1JgoQEPp5LKdmJXcsRj8m1xnLKPUanxDhyzdlOY5vPgBwy84Xnepync",
-        "source": "Uco Digital"
-      },
-      {
-        "title": "Gran parada lunar: así el luna llena que se despedirá este domingo hasta 2043",
-        "snippet": "",
-        "url": "https://www.elperiodico.com/es/ciencia/20241214/luna-llena-gran-parada-lunar-2024-dv-112581594",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyxB08tVGI-zEs5dlueypymDLmgXn-qYoVuevT94hKjOLELLkG-BYCVGdGngk",
-        "source": "El Periódico"
-      }
-    ]
-  },
-  {
-    "title": "valladolid - valencia c. f.",
-    "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Fri, 13 Dec 2024 11:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
-    "picture_source": "Marca.com",
-    "news_items": [
-      {
-        "title": "El Valladolid condena a Baraja",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/primera-division/cronica/2024/12/13/675c8e17ca47413b758b45bc.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Anuar, tras la victoria en Zorrilla: \"Puede ser el paso que necesitábamos para creer\"",
-        "snippet": "",
-        "url": "https://www.eldesmarque.com/futbol/real-valladolid/20241214/anuar-tuhami-victoria-pucela-valencia-cf_300530064.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCfrq4LJ4oOwr-OUbb9TkF1axyMbttft9_sS2efeWsnSUBtpi-mwMn0ZARBaM",
-        "source": "ElDesmarque"
-      },
-      {
-        "title": "Aprobados y suspensos del Valencia: Mosquera, un error de colista",
-        "snippet": "",
-        "url": "https://as.com/futbol/primera/aprobados-y-suspensos-del-valencia-mosquera-un-error-de-colista-n/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbpuuLBx-2bKh1lJj78w-74GR9TDzY1NI8tUjZ7Qsqus7bwXV9S-84DlKATU",
-        "source": "Diario AS"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "orange",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "red",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "red",
+  "Goal 7 Rating": "green",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 95.621,
+  "Goal 2 Score": 50.412125,
+  "Goal 3 Score": 88.2747857142857,
+  "Goal 4 Score": 85.90925,
+  "Goal 5 Score": 80.15725,
+  "Goal 6 Score": 75.0928,
+  "Goal 7 Score": 86.37225,
+  "Goal 8 Score": 73.2154285714286,
+  "Goal 9 Score": 57.2905714285714,
+  "Goal 10 Score": 22.2535,
+  "Goal 11 Score": 82.53075,
+  "Goal 12 Score": 79.9007142857143,
+  "Goal 13 Score": 92.805,
+  "Goal 14 Score": 56.361,
+  "Goal 15 Score": 63.9432,
+  "Goal 16 Score": 75.5504545454545,
+  "Goal 17 Score": 73.2042
+}

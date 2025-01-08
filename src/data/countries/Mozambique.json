@@ -1,64 +1,36 @@
-[
-  {
-    "title": "valencia fc",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Fri, 13 Dec 2024 13:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7KZN9TcTjP8VRLixiHggtk2AhWCWFOJtDk8JdX23yStTCQRUtNSWwAqNyq3w",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Real Valladolid vs. Valencia - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/valencia/preview/preview-valladolid-vs-valencia-prediction-team-news-lineups_560329.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7KZN9TcTjP8VRLixiHggtk2AhWCWFOJtDk8JdX23yStTCQRUtNSWwAqNyq3w",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Pepelu: \"We're hurt because we wanted to turn the situation around but nothing goes our way, We must keep fighting\"",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/pepelu-were-hurt-because-we-wanted-to-turn-the-situation-around-but-nothing-goes-our-way-we-must-keep-fighting-40436851",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRaezfixXPSO_lxlTR4vbGt66B9T_-it_AHeB6nW95XuGaz-f1azBbLr_MiKs",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Anuar, Key to Valladolid's Victory Over Valencia",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2179196-anuar-key-to-valladolid-s-victory-over-valencia",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0iIUP0Nqakf4QqDffR89OtwwQs2PfP45HcCs6NDcDevLVatgkrulWdTbRU8",
-        "source": "FootBoom"
-      }
-    ]
-  },
-  {
-    "title": "ciclone chido em moçambique",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Fri, 13 Dec 2024 09:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD9zLly8WkrLVwC_o7gvjsSiLC2CZTHtiRfqsI7gEaoPtm-lYjmT6-ra9BPak",
-    "picture_source": "Rádio Moçambique",
-    "news_items": [
-      {
-        "title": "Ciclone tropical CHIDO poderá afectar Cabo Delgado e Nampula",
-        "snippet": "",
-        "url": "https://www.rm.co.mz/ciclone-tropical-chido-podera-afectar-cabo-delgado-e-nampula/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD9zLly8WkrLVwC_o7gvjsSiLC2CZTHtiRfqsI7gEaoPtm-lYjmT6-ra9BPak",
-        "source": "Rádio Moçambique"
-      },
-      {
-        "title": "Ciclone tropical intenso \"Chido\" avança para Moçambique com impacto previsto nas próximas 72 horas",
-        "snippet": "",
-        "url": "https://integritymagazine.co.mz/arquivos/35765",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YTyZCVRt-ad1FrNNfdpAx1MdkIUzfJHUIAwF_F5Ehbnscxhf3NI6hVHckHU",
-        "source": "Integrity Magazine"
-      },
-      {
-        "title": "Ciclone Chido já é “intenso” e vai afectar norte do país no domingo - O País - A verdade como notícia",
-        "snippet": "",
-        "url": "https://opais.co.mz/ciclone-chido-ja-e-intenso-e-vai-afectar-norte-do-pais-no-domingo/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyUTHkfZAIHpiL63CUohONA2e4dnJuE7fDftflPZ6LkWcJDoau5k5e9w0Bej8",
-        "source": "O País"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "red",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "red",
+  "Goal 5 Rating": "red",
+  "Goal 6 Rating": "red",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "red",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "green",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 3.463,
+  "Goal 2 Score": 51.800625,
+  "Goal 3 Score": 37.0602142857143,
+  "Goal 4 Score": 57.5766666666667,
+  "Goal 5 Score": 68.72525,
+  "Goal 6 Score": 54.8008,
+  "Goal 7 Score": 36.20375,
+  "Goal 8 Score": 69.0032857142857,
+  "Goal 9 Score": 23.6948571428571,
+  "Goal 10 Score": 17.6055,
+  "Goal 11 Score": 59.11175,
+  "Goal 12 Score": 97.7502857142857,
+  "Goal 13 Score": 97.895,
+  "Goal 14 Score": 72.0368333333333,
+  "Goal 15 Score": 63.0474,
+  "Goal 16 Score": 46.6671,
+  "Goal 17 Score": 67.4958
+}

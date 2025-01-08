@@ -1,312 +1,36 @@
-[
-  {
-    "title": "augsburgo - leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-    "picture_source": "BILD.de",
-    "news_items": [
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
-        "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
-      }
-    ]
-  },
-  {
-    "title": "cagliari - atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-    "picture_source": "Virgilio Sport",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
-        "snippet": "",
-        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-        "source": "Virgilio Sport"
-      },
-      {
-        "title": "La vostra formazione: voglia di Retegui dal 1′",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "blackrock",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPp8H5-h5N1m5N3ZVXi6eSGVKulfCXrcU8ihgtHRy7KmLI1cQkfOQGXfg7fbw",
-    "picture_source": "The Crypto Basic",
-    "news_items": [
-      {
-        "title": "Here is the Latest Update on Blackrock XRP ETF",
-        "snippet": "",
-        "url": "https://thecryptobasic.com/2024/12/14/here-is-the-latest-update-on-blackrock-xrp-etf/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPp8H5-h5N1m5N3ZVXi6eSGVKulfCXrcU8ihgtHRy7KmLI1cQkfOQGXfg7fbw",
-        "source": "The Crypto Basic"
-      },
-      {
-        "title": "What's the right crypto allocation in your portfolio?",
-        "snippet": "",
-        "url": "https://finance.yahoo.com/video/whats-crypto-allocation-portfolio-181210517.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWKusmhaGLGMfDyb-TaD45ScQALEs184ggLFeD11YeO29HCL0ehGazYUPHW4",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "BlackRock Prioritizes Bitcoin, Ethereum, Delays Altcoin ETF Plans",
-        "snippet": "",
-        "url": "https://beincrypto.com/blackrock-declines-altcoin-etfs/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuV_KSPrhAz6glgFYfxjSDWyObJudHkrOpv1BCUhXgu0UggL-SPfuB8TN0Nvw",
-        "source": "BeInCrypto"
-      }
-    ]
-  },
-  {
-    "title": "championship",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Sat, 14 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpMUMqVWjpLU2FWxpqaLTjuSrY9rwHVO1ow7UGhwG6wyyqf1arldHzQOIabMw",
-    "picture_source": "BVM Sports",
-    "news_items": [
-      {
-        "title": "Dereon Coleman Shines But Jones Falls Short in 4A Championship",
-        "snippet": "",
-        "url": "https://bvmsports.com/2024/12/13/dereon-coleman-shines-but-jones-falls-short-in-4a-championship/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpMUMqVWjpLU2FWxpqaLTjuSrY9rwHVO1ow7UGhwG6wyyqf1arldHzQOIabMw",
-        "source": "BVM Sports"
-      },
-      {
-        "title": "VIDEO: Observations from watching Miami recruits WR Malachi Toney and 2026 QB Dereon Coleman in title game",
-        "snippet": "",
-        "url": "https://247sports.com/college/miami/article/video-observations-from-watching-miami-hurricanes-football-recruits-wr-malachi-toney-and-2026-qb-dereon-coleman-in-title-game-242077808/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlsmQTWGON4zPFGXF-XFbNELTxt9KRhecSudAsSGx7sSRbp44R0cObYsUV_YM",
-        "source": "247Sports"
-      },
-      {
-        "title": "WATCH-LIVE]* American Heritage Patriots vs Jones Fightin’ Tigers Football 13 Dec 2024",
-        "snippet": "",
-        "url": "https://www.westernwheel.ca/classifieds/announcements-and-events/volunteers-needed/1929532",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYXgZrXVCUfaVkU6GQenf5hkUGnvTH7JRNlyvlODrFaseFx9Ug8LftIaWZGxU",
-        "source": "Western Wheel"
-      }
-    ]
-  },
-  {
-    "title": "rcd espanyol - osasuna",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyJcqCT7pbsK_MoBW4P7qRLL-pG7zZaC4cVfEz8u1tfAhAHpj3WSPmPFGT1I",
-    "picture_source": "Marca.com",
-    "news_items": [
-      {
-        "title": "Espanyol - Osasuna en directo | LaLiga en vivo",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/laliga-ea-sports/espanyol-osasuna/2024/12/14/01_0101_20241214_177_450-directo.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyJcqCT7pbsK_MoBW4P7qRLL-pG7zZaC4cVfEz8u1tfAhAHpj3WSPmPFGT1I",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Tejero, Kumbulla, Romero y Roca, novedades en el Espanyol; Ibáñez y Raúl, en el Osasuna",
-        "snippet": "",
-        "url": "https://www.infobae.com/espana/agencias/2024/12/14/tejero-kumbulla-romero-y-roca-novedades-en-el-espanyol-ibanez-y-raul-en-el-osasuna/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
-        "source": "Infobae"
-      },
-      {
-        "title": "Espanyol - Osasuna: horario y previa del partido de la Liga de España",
-        "snippet": "",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/espanyol-osasuna-horario-y-previa-del-partido-de-la-liga-de-espana-nid13122024/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVVxyVVH7EKhQBCAhFxpPxawIyTc5Byhf1Ln51rH5sQ9n2KBjdsmpH-FbDgfg",
-        "source": "La Nación"
-      }
-    ]
-  },
-  {
-    "title": "gendarme argentino en venezuela",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJ3lN-uGkAvDx5Tvp1ZNXpuj_mY1PbpvPJeDI_P7UmbJlBrYiTYS61ugy-lzw",
-    "picture_source": "Infobae",
-    "news_items": [
-      {
-        "title": "Quién es Agustín Nahuel Gallo, el gendarme detenido en Venezuela",
-        "snippet": "",
-        "url": "https://www.infobae.com/politica/2024/12/14/quien-es-agustin-nahuel-gallo-el-gendarme-detenido-en-venezuela/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJ3lN-uGkAvDx5Tvp1ZNXpuj_mY1PbpvPJeDI_P7UmbJlBrYiTYS61ugy-lzw",
-        "source": "Infobae"
-      },
-      {
-        "title": "El Gobierno busca negociar a través de Brasil y Colombia la liberación del gendarme detenido por la dictadura de Maduro",
-        "snippet": "",
-        "url": "https://www.clarin.com/politica/gobierno-busca-negociar-traves-brasil-colombia-liberacion-gendarme-detenido-dictadura-maduro_0_3YMb4qxGWx.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwykyi7aGIS95XnHoPaCbgJ7VzFWn0DTkaNDBaQVE6p92cdiubSbfd8XpPVhw",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "El Gobierno de Milei denuncia la detención “arbitraria” de un suboficial argentino en Venezuela",
-        "snippet": "",
-        "url": "https://elpais.com/argentina/2024-12-14/el-gobierno-de-milei-denuncia-la-detencion-arbitraria-de-un-suboficial-argentino-en-venezuela.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOt9nW0232v5vv3B3UcM3OyDUvXm87iGwJ1R445V9J4C3V2hkdATySjkpFLW0",
-        "source": "EL PAÍS"
-      }
-    ]
-  },
-  {
-    "title": "tormentas buenos aires",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Sat, 14 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRMSt4gxMTUcSLhcbqWv9qOHpE-aCcHkdp48bO91yobPuo5vy13Z61AjbTtsk",
-    "picture_source": "Infobae",
-    "news_items": [
-      {
-        "title": "Rige un nuevo alerta meteorológico por tormenta para la Ciudad de Buenos Aires y otras 11 provincias",
-        "snippet": "",
-        "url": "https://www.infobae.com/sociedad/2024/12/13/rige-un-nuevo-alerta-meteorologico-por-tormenta-para-el-amba-y-otras-12-provincias/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRMSt4gxMTUcSLhcbqWv9qOHpE-aCcHkdp48bO91yobPuo5vy13Z61AjbTtsk",
-        "source": "Infobae"
-      },
-      {
-        "title": "Alerta activa del SMN por tormentas fuertes a severas: ¿cómo seguirá el tiempo en Argentina este fin de semana?",
-        "snippet": "",
-        "url": "https://www.meteored.com.ar/noticias/prediccion/alerta-del-smn-por-tormentas-severas-como-sigue-el-tiempo-en-argentina-este-fin-de-semana.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVuCkcN_QyXUGXl7qZeWq4gjLHgECGq6k1FZjUTJEuZu1PE9CVq16gHvNOCM",
-        "source": "Meteored"
-      },
-      {
-        "title": "Clima hoy: alerta amarilla por tormentas en Buenos Aires y otras seis provincias",
-        "snippet": "",
-        "url": "https://www.clarin.com/ciudades/clima-hoy-alerta-amarilla-tormentas-buenos-aires-provincias_0_jpWCUckFhA.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHoFBYyXLs4Adqs0jp5QMF9gANpZaUj5gVMycaGQ_ere3eWZQZGD0oeBPMnmI",
-        "source": "Clarin.com"
-      }
-    ]
-  },
-  {
-    "title": "dólar blue hoy",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Sat, 14 Dec 2024 02:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpQ1EncN8vuZ5TxP2eZU9sgE3--QyLkKateHQVSzv1jnVMbLbx5MH-STNYb6I",
-    "picture_source": "Clarin.com",
-    "news_items": [
-      {
-        "title": "Dólar blue hoy: a cuánto cotiza este sábado 14 de diciembre",
-        "snippet": "",
-        "url": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-14-diciembre_0_F3pHeNn7G7.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpQ1EncN8vuZ5TxP2eZU9sgE3--QyLkKateHQVSzv1jnVMbLbx5MH-STNYb6I",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Dólar hoy: a cuánto cerró este viernes 13 de diciembre",
-        "snippet": "",
-        "url": "https://www.ambito.com/el-bcra-compro-casi-us700-millones-la-semana-su-mejor-marca-siete-meses-n6092947",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiNgoZR_oxe__r_XudsPjVM0JgPb9DWui-fYZfysMYWjWCFg56x_qva74oPHo",
-        "source": "Ámbito Financiero"
-      },
-      {
-        "title": "El dólar blue finalizó arriba de los $1.100 y aumentó $55 durante la semana",
-        "snippet": "",
-        "url": "https://www.lagaceta.com.ar/nota/1063695/economia/dolar-blue-finalizo-arriba-1100-aumento-55-durante-semana.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bSL446OsSjYw8qDmaG5Wt0Rxr69Vs74x94XbXd9eYviZTm9G4Boph13Ps9k",
-        "source": "La Gaceta"
-      }
-    ]
-  },
-  {
-    "title": "lluvia de meteoros gemínidas",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Sat, 14 Dec 2024 01:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-22Y-Fw9WVOzJjfTwq_toTGc6bCDj1Dlop_fzDzlbesGR1fF2fjRtp7tc9MA",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "El violento nacimiento de las Gemínidas, la famosa lluvia multicolor de meteoritos que aparece en el cielo cada diciembre",
-        "snippet": "",
-        "url": "https://www.bbc.com/mundo/articles/cn0x5xdy4k8o",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-22Y-Fw9WVOzJjfTwq_toTGc6bCDj1Dlop_fzDzlbesGR1fF2fjRtp7tc9MA",
-        "source": "BBC"
-      },
-      {
-        "title": "Gemínidas: cómo ver la lluvia de estrellas más brillante del año",
-        "snippet": "",
-        "url": "https://www.lagaceta.com.ar/nota/1063675/sociedad/geminidas-como-ver-lluvia-estrellas-mas-brillante-ano.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh4BXjgdjKANWTWTBlbAiWe491mFM1f65NkTnEwmLSq7-ufeJC-wH_sdVlNts",
-        "source": "La Gaceta"
-      },
-      {
-        "title": "La lluvia de meteoros Gemínidas alcanzará su punto máximo este fin de semana: cómo y cuándo verla en Estados Unidos",
-        "snippet": "",
-        "url": "https://www.infobae.com/estados-unidos/2024/12/13/la-lluvia-de-meteoros-geminidas-alcanzara-su-punto-maximo-este-fin-de-semana-como-y-cuando-verla-en-estados-unidos/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqBJnEAzXmLTzOG_sdFhYqym8hFygBBO9-rYMoESZkjDeuJdhYYE687KCaoHc",
-        "source": "Infobae"
-      }
-    ]
-  },
-  {
-    "title": "stake",
-    "link": "https://trends.google.com/trending/rss?geo=AR",
-    "pubdate": "Fri, 13 Dec 2024 23:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylgjSfzohxxCqsKD4bHyOS0PVX0sQgCmommWaxZLQQkqfgf-3JfD25GV6CjM",
-    "picture_source": "SportsGrid",
-    "news_items": [
-      {
-        "title": "10 Free Slots That Are Totally Worth Your Time (Here’s Why)",
-        "snippet": "",
-        "url": "https://www.sportsgrid.com/social-casinos/news/10-free-slots-worth-your-time",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylgjSfzohxxCqsKD4bHyOS0PVX0sQgCmommWaxZLQQkqfgf-3JfD25GV6CjM",
-        "source": "SportsGrid"
-      },
-      {
-        "title": "The Loosest Sweepstakes Casino Slots We’ve Found in December",
-        "snippet": "",
-        "url": "https://www.bettorsinsider.com/casino/2024/12/12/the-loosest-sweepstakes-casino-slots-weve-found-in-december",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqYs1MQ1-lAEYD9FL-sWOEponfNePNCIiocViWjeN8Osa3zbm4ajEfnGUAxyk",
-        "source": "Bettors Insider"
-      },
-      {
-        "title": "10 New & Trending Sweepstake Casino Games You Need to Play in December 2024",
-        "snippet": "",
-        "url": "https://www.sportsgrid.com/social-casinos/news/top-new-trending-sweepstake-casino-games",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRVYi2VtZrRkKskzd7ky-xG96i5JsDMa1OK9jnHW5kpyqnzEaV611F9y4oP0",
-        "source": "SportsGrid"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "green",
+  "Goal 5 Rating": "green",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "yellow",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 96.882,
+  "Goal 2 Score": 65.615375,
+  "Goal 3 Score": 84.1088571428571,
+  "Goal 4 Score": 97.2493333333333,
+  "Goal 5 Score": 79.99125,
+  "Goal 6 Score": 77.8204,
+  "Goal 7 Score": 72.36775,
+  "Goal 8 Score": 78.0328571428571,
+  "Goal 9 Score": 54.1291428571429,
+  "Goal 10 Score": 47.609,
+  "Goal 11 Score": 88.25125,
+  "Goal 12 Score": 79.1271428571429,
+  "Goal 13 Score": 90.434,
+  "Goal 14 Score": 61.4753333333333,
+  "Goal 15 Score": 61.323,
+  "Goal 16 Score": 58.7364,
+  "Goal 17 Score": 71.7258
+}

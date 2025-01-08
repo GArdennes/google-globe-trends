@@ -1,312 +1,36 @@
-[
-  {
-    "title": "mainz vs bayern",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-    "picture_source": "FCBinside",
-    "news_items": [
-      {
-        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
-        "snippet": "",
-        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-        "source": "FCBinside"
-      },
-      {
-        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
-      }
-    ]
-  },
-  {
-    "title": "newcastle vs leicester city",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRylPBSjEpgjGDUP2463teR-vjuvFI2RA48sbvwPJLT9vNnacKakHFulVWJUxU",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Premier League Newcastle United versus Leicester City kick off 15:00 Sat 14 Dec 2024",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cj0rq13gym4t",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRylPBSjEpgjGDUP2463teR-vjuvFI2RA48sbvwPJLT9vNnacKakHFulVWJUxU",
-        "source": "BBC"
-      },
-      {
-        "title": "Latest. Howe waiting on Pope's fitness ahead of Foxes visit",
-        "snippet": "",
-        "url": "https://www.newcastleunited.com/en/news/howe-waiting-on-popes-fitness-ahead-of-foxes-visit",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5deD-fxUpVUHwYp8NLFXyPRCiIdk8s1WEgTCVcyZNPnJRfUfIBRKdipukHo",
-        "source": "Newcastle United"
-      },
-      {
-        "title": "Newcastle United vs Leicester City Prediction, Odds and Picks for Today, 12/14/24",
-        "snippet": "",
-        "url": "https://www.pickswise.com/soccer/predictions/leicester-city-vs-newcastle-united-predictions-441733/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqAoduLBREEyPIjieR0L3T5bGzHWOGgWp33rXwNhsIAyFFGHekYXl__5IH4so",
-        "source": "Pickswise"
-      }
-    ]
-  },
-  {
-    "title": "union berlin vs vfl bochum",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQBNIOVh2uMDLTNr1KTw3ihi7a8rV5qDSRtwvMonagqlWoNJAnskTqFOumHSY",
-    "picture_source": "rbb24",
-    "news_items": [
-      {
-        "title": "Union peilt gegen Schlusslicht Bochum die Kehrtwende an",
-        "snippet": "",
-        "url": "https://www.rbb24.de/sport/beitrag/2024/12/fussball-bundesliga-union-berlin-vfl-bochum-live-ticker-audio.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQBNIOVh2uMDLTNr1KTw3ihi7a8rV5qDSRtwvMonagqlWoNJAnskTqFOumHSY",
-        "source": "rbb24"
-      },
-      {
-        "title": "Spiel an der Alten Försterei: Bochums Trainer Hecking - \"Man kann auch da gewinnen\"",
-        "snippet": "",
-        "url": "https://www.sportschau.de/fussball/bundesliga/bochums-trainer-hecking-man-kann-auch-da-gewinnen,video-bundesliga-148.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmOT5mJiav1fbGa5M2pq5Wc4aGAwHlptGhRhvGy5W8dl5pfdBE1RBqSBimO8Q",
-        "source": "sportschau.de"
-      },
-      {
-        "title": "Union Berlin in der Ergebniskrise – ist ER am Wochenende der große Verlierer?",
-        "snippet": "",
-        "url": "https://www.berlin-live.de/sport/union-berlin/union-berlin-bochum-verlierer-id331039.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi0Hrz-NolIiFQP7gX3yJAk6wyq6jogbFGOhhNmlxfUJvcqq-iEWYxUv0cbak",
-        "source": "Berlin-live.de"
-      }
-    ]
-  },
-  {
-    "title": "golden arrows",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvoQUR5FU9bd_AFtV5Ew0A3YRGzREAInxWKo1vfcFFKbmDJ6TUvmEYCJWZV4s",
-    "picture_source": "Goal.com",
-    "news_items": [
-      {
-        "title": "The reason why 'outdated' Mngqithi was fired by Mamelodi Sundowns revealed - 'Manqoba ruined everything, it divided the players'",
-        "snippet": "",
-        "url": "https://www.goal.com/en-za/lists/the-reason-why-outdated-mngqithi-was-fired-by-mamelodi-sundowns-revealed-manqoba-ruined-everything-it-divided-the-players/blt961183fd98cc0d7d",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvoQUR5FU9bd_AFtV5Ew0A3YRGzREAInxWKo1vfcFFKbmDJ6TUvmEYCJWZV4s",
-        "source": "Goal.com"
-      },
-      {
-        "title": "Cardoso issues plea to Downs supporters",
-        "snippet": "",
-        "url": "https://www.snl24.com/kickoff/sanews/premiership/mamelodi-sundowns/cardoso-issues-plea-to-downs-supporters-20241214",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQSdCSm594hjvvRX_yMs8FyIwLSCn4kgUeL4tDPQYweW8iAyno0dTuCFftjKs",
-        "source": "SNL24"
-      },
-      {
-        "title": "MAMELODI SUNDOWNS ANNOUNCES NEW COACHING TEAM",
-        "snippet": "",
-        "url": "https://sundownsfc.co.za/mamelodi-sundowns-announces-new-coaching-team/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkzHdIcmS7_pZlLVxgUe3nsTiZtXTCaBZGgu2-ZBgOqRjm_qKzeGus9y5sAw0",
-        "source": "Mamelodi Sundowns | Official Website"
-      }
-    ]
-  },
-  {
-    "title": "lunchtime results for today",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUJ2OC3mETxazO-L_kR6WDjAeaN7nzNVu28Ni4D67dSEqHTZdI0PrdsQ3domk",
-    "picture_source": "Gauteng Tourism Authority",
-    "news_items": [
-      {
-        "title": "UK49s Lunchtime Draw Results for 13 December 2024",
-        "snippet": "",
-        "url": "https://gauteng.net/news/uk49s-lunchtime-draw-results-for-13-december-2024/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUJ2OC3mETxazO-L_kR6WDjAeaN7nzNVu28Ni4D67dSEqHTZdI0PrdsQ3domk",
-        "source": "Gauteng Tourism Authority"
-      },
-      {
-        "title": "UK49s Lunchtime Predictions for Today: 11 December 2024 Booster Number",
-        "snippet": "",
-        "url": "https://www.sarkariexam.com/uk49s-lunchtime-predictions-for-today-11-december-2024-booster-number/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfU3AWZtEFqI4vkRbBLd0yjS_nLy8uiDjWjpM5fb8BomBOwvUH9bYcHpDSN84",
-        "source": "Sarkari Exam.com"
-      },
-      {
-        "title": "UK49s Lunchtime Draw Results for 12 December 2024",
-        "snippet": "",
-        "url": "https://gauteng.net/news/uk49s-lunchtime-draw-results-for-12-december-2024/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUJ2OC3mETxazO-L_kR6WDjAeaN7nzNVu28Ni4D67dSEqHTZdI0PrdsQ3domk",
-        "source": "Gauteng Tourism Authority"
-      }
-    ]
-  },
-  {
-    "title": "tom voyce",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 05:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEW7a4bWCQFpsVRruQJhSDo_p0T95PNsyLoO-6PUwMRqu50N_lG_CwYmOO8r4",
-    "picture_source": "SA Rugby magazine",
-    "news_items": [
-      {
-        "title": "Body found in search for England star",
-        "snippet": "",
-        "url": "https://www.sarugbymag.co.za/body-found-search-england-star/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEW7a4bWCQFpsVRruQJhSDo_p0T95PNsyLoO-6PUwMRqu50N_lG_CwYmOO8r4",
-        "source": "SA Rugby magazine"
-      },
-      {
-        "title": "Wife of ex-England rugby player Tom Voyce says she is 'devastated and heartbroken' by his death",
-        "snippet": "",
-        "url": "https://news.sky.com/story/wife-of-ex-england-rugby-player-tom-voyce-says-she-is-devastated-and-heartbroken-by-his-death-13272836",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyv8kzkUpUW1LgV2gHDOPS0yZw3PXwgj6JacTdzbiAjxjilzwq9Za1P6ThNpw",
-        "source": "Sky News"
-      },
-      {
-        "title": "Tom Voyce: A wing who took flight at Wasps",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/rugby-union/articles/cd75eyne9wqo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiTZfPDJw8x4Q3W9CDv5wPCp_aiQy5AQ6BNaouJnkhlpg8_5ynVBtWzg9yzE",
-        "source": "BBC"
-      }
-    ]
-  },
-  {
-    "title": "coventry vs hull city",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQB4lk3V3BzM198MbWfRClyUXecf-w_GXCG98g-m7L7L4urHs-xlfCsPGxj28",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Coventry City vs. Hull City - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/coventry-city/preview/preview-coventry-vs-hull-city-prediction-team-news-lineups_560399.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQB4lk3V3BzM198MbWfRClyUXecf-w_GXCG98g-m7L7L4urHs-xlfCsPGxj28",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "FOOTBALL - Frank Lampard staying positive ahead of Coventry City's clash with Hull City this weekend",
-        "snippet": "",
-        "url": "https://coventryobserver.co.uk/sport/football-frank-lampard-staying-positive-ahead-of-coventry-citys-clash-with-hull-city-this-weekend/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaNSkSNzFVC6B-6wqdLoDZNdZgwkewQ7xebAlrHiUTSnBfUp4h3hXUmzWlsc4",
-        "source": "The Coventry Observer"
-      },
-      {
-        "title": "What channel is Coventry v Hull Championship match on? TV coverage, live stream and kick-off time",
-        "snippet": "",
-        "url": "https://www.radiotimes.com/tv/sport/football/coventry-hull-championship-2024-25-preview/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6UIpwXYCWjCAG6yctM1McOHlPf4ONEe6DK_Mh0nWEwXwO8N9xsqWODWbAzDU",
-        "source": "Radio Times"
-      }
-    ]
-  },
-  {
-    "title": "bristol city vs qpr",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIMg4zv38CfeM6QsMfwJRd-PUlpKF_vS-GMOXsEmTUSC3CwxjWdVxZjjtlRM",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Bristol City vs. Queens Park Rangers - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/bristol-city/preview/preview-bristol-city-vs-qpr-prediction-team-news-lineups_560386.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIMg4zv38CfeM6QsMfwJRd-PUlpKF_vS-GMOXsEmTUSC3CwxjWdVxZjjtlRM",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Let’s make this a great week",
-        "snippet": "",
-        "url": "https://www.qpr.co.uk/news/2024/december/13/let-s-make-this-a-great-week/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo-pWSJr3S49HQ6IIdDiDxy-8GtGLtiBWV-9sVGVDTh9U3EH8IDrQESb7JUxc",
-        "source": "QPR FC"
-      },
-      {
-        "title": "QPR's late, late show on Ashton Gate opening day - History",
-        "snippet": "",
-        "url": "http://www.fansnetwork.co.uk/football/queensparkrangers/news/63451/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwi-by4C8nhaCvv-0rY0TZJlw73sPmAvebKcD__QVRNX6792wZ9lpDlko80D8",
-        "source": "FansNetwork.co.uk"
-      }
-    ]
-  },
-  {
-    "title": "bulls vs northampton",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkAlqbF0FilfCniCDtOcf9-XahDj43wH7FLhLgqFAJ7x5VhwD6Ddf4r3IR5cU",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Champions Cup: Northampton take on Bulls in Pretoria - radio & live text",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/rugby-union/live/ce8ejj6zyvjt",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkAlqbF0FilfCniCDtOcf9-XahDj43wH7FLhLgqFAJ7x5VhwD6Ddf4r3IR5cU",
-        "source": "BBC"
-      },
-      {
-        "title": "LIVE NOW: Bulls v Northampton Saints",
-        "snippet": "",
-        "url": "https://rugby365.com/tournaments/european-cup/live-now-bulls-v-northampton-saints/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcr57z3w01nQ1rEJeCbmCC4SWmwSSYOmHGCGSOhZJoGTqO08s1jw0sx3XEvQI",
-        "source": "Rugby365"
-      },
-      {
-        "title": "Elrigh returns to lead the side against Saints in second round",
-        "snippet": "",
-        "url": "https://bullsrugby.co.za/elrigh-returns-to-lead-the-side-against-saints-in-second-round/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuWn_WbsIYLgt7SBS0EPsk50cs9rnSclkDj2cKvStHgnmecgR1dkvGna9p6I8",
-        "source": "Vodacom Bulls"
-      }
-    ]
-  },
-  {
-    "title": "orlando pirates fixtures",
-    "link": "https://trends.google.com/trending/rss?geo=ZA",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsfWtybJ1MtgFtWkMR7PQtlWKhrGWKVqwoUhPVM_K0KE3VeOr3qfpvrHRtw4E",
-    "picture_source": "Orlando Pirates FC",
-    "news_items": [
-      {
-        "title": "Thank You Sandile",
-        "snippet": "",
-        "url": "https://www.orlandopiratesfc.com/news/thank-you-sandile/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsfWtybJ1MtgFtWkMR7PQtlWKhrGWKVqwoUhPVM_K0KE3VeOr3qfpvrHRtw4E",
-        "source": "Orlando Pirates FC"
-      },
-      {
-        "title": "Orlando Pirates part ways with Mthethwa, grant Otladisa loan move",
-        "snippet": "",
-        "url": "https://farpost.co.za/2024/12/13/orlando-pirates-part-ways-with-mthethwa-grant-otladisa-loan-move/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSvp5fkLc9JP2pJJeXUoW14CTjiWPf24bFMbaT9eC_-gtg1quF1D918RqITAU",
-        "source": "FARPost"
-      },
-      {
-        "title": "Preparing for new signings? Orlando Pirates terminate long-serving defender's contract and Sekhukhune United sign Bucs winger ahead of January transfer window",
-        "snippet": "",
-        "url": "https://www.goal.com/en-za/lists/preparing-for-new-signings-orlando-pirates-terminate-long-serving-defender-s-contract-and-sekhukhune-united-sign-bucs-winger-ahead-of-january-transfer-window/blt9c13ef70cc47f29f",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6ejEICTEatfdrFi1-CjyLKm8PGLwV60W4vJ21qp8S5K7X65d5br852e_vRL4",
-        "source": "Goal.com"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "red",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "red",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "yellow",
+  "Goal 1 Score": 51.6655,
+  "Goal 2 Score": 54.02125,
+  "Goal 3 Score": 55.7077142857143,
+  "Goal 4 Score": 72.059,
+  "Goal 5 Score": 83.98525,
+  "Goal 6 Score": 61.3536,
+  "Goal 7 Score": 62.069,
+  "Goal 8 Score": 69.4588571428571,
+  "Goal 9 Score": 74.9385714285714,
+  "Goal 10 Score": 0,
+  "Goal 11 Score": 64.20275,
+  "Goal 12 Score": 83.2831428571428,
+  "Goal 13 Score": 84.4913333333333,
+  "Goal 14 Score": 70.8325,
+  "Goal 15 Score": 59.2122,
+  "Goal 16 Score": 55.4002727272727,
+  "Goal 17 Score": 75.7182
+}

@@ -1,312 +1,36 @@
-[
-  {
-    "title": "ливерпуль – фулхэм",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVytdMiIDqFdh9tcpb6ZFZl6JVhVJ1hvWrQCe7S8d8GfUn-6f25SLJipT1nKc",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Ливерпуль – Фулхэм: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21568/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVytdMiIDqFdh9tcpb6ZFZl6JVhVJ1hvWrQCe7S8d8GfUn-6f25SLJipT1nKc",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Ливерпуль — Фулхэм. Ставка за 2.00 и прогноз. 14.12.2024",
-        "snippet": "",
-        "url": "https://www.livesport.ru/tips/football/2024/12/14/liverpool_fulham/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLngjpyNQ93Au2sDADgbVVSNB7WWE7mHIePtpA1lERbKyVYHjuk8k1TLpzuk",
-        "source": "LiveSport.Ru"
-      },
-      {
-        "title": "Салах и Трент – в основе «Ливерпуля» на матч против «Фулхэма»",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/31/1005800250_salah_i_trent__v_osnove_liverpulya_na_match_protiv_fulhema",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUC25MK0-s8Q11a6exBejJNHHZEQme6_xRakqODfF6FsKmtcKAXdRnbvYVwXM",
-        "source": "Евро-Футбол.Ру"
-      }
-    ]
-  },
-  {
-    "title": "майнц 05 – бавария",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYnt_uzGpr-RrRZYdDSQQpHQXnAizYMgd2E12UaCmrTISjN7_O-u4U896y7FY",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Майнц ― Бавария: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21576/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYnt_uzGpr-RrRZYdDSQQpHQXnAizYMgd2E12UaCmrTISjN7_O-u4U896y7FY",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Мюллер и Киммих – в основе «Баварии» на матч Бундеслиги",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/32/1005800248_myuller_i_kimmih__v_osnove_bavarii_na_match_bundesligi",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8bsxO4CrnOb-IjbeituRcet_dclxQh39KlWMDYoYsJjDfd6RqX1pK0d91P3c",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "Буркардт проверит защиту рекордмайстра. Майнц – Бавария. Анонс и прогноз матча Бундеслиги на 14.12.2024",
-        "snippet": "",
-        "url": "https://www.ua-football.com/predictions/bundesliga/1734128644-burkardt-proverit-zaschitu-rekordmaystra-maync-bavariya-anons-i-prognoz-matcha-ligi-chempionov-na-14-12-2024.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBotR_UkCUSGbZzngY3Spnau6GzH4fbUXmbls2YEvpg_-db3ducFfX0RF24R8",
-        "source": "UA-Football"
-      }
-    ]
-  },
-  {
-    "title": "арсенал – эвертон",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbca7k8lGHyTtRzmwakTuwrX8MsiwfH_YyrP3UJLGvVoxJ5LTtVrVMymDNLgU",
-    "picture_source": "Евро-Футбол.Ру",
-    "news_items": [
-      {
-        "title": "Ставка и прогноз на точный счёт матча Арсенал – Эвертон АПЛ — 14 декабря 2024",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/prognozy/1005799323_stavka_i_prognoz_na_tochnyiy_schet_matcha_arsenal__everton_apl__14_dekabrya_2024",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbca7k8lGHyTtRzmwakTuwrX8MsiwfH_YyrP3UJLGvVoxJ5LTtVrVMymDNLgU",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "«Арсенал» – «Эвертон»: Габриэл и Льюис-Скелли выходят в старте",
-        "snippet": "",
-        "url": "https://fc-arsenal.com/pered-matchem/arsenal-everton-gabriel-i-lyuis-skelli-vykhodyat-v-starte",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDza2Luwa9sjminpZucdIyNHiqPGcS_RgQ5nURG_1znTw5GuezIH8P42Rw2dU",
-        "source": "FC-Arsenal.com."
-      },
-      {
-        "title": "16-й тур Премьер-Лиги. Анонс матчей субботы",
-        "snippet": "",
-        "url": "http://fapl.ru/posts/111794/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzI7bshcP2fE2ZMpb5kw80RlO6OH6MpgtdRuOXvXpgx_TkERpVEmWhObVAGSM",
-        "source": "FAPL.ru"
-      }
-    ]
-  },
-  {
-    "title": "аугсбург – байер",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX-AAfqUY1l9hqj875tO5jzU1bZ6ltJsy7NoLSC7V7n3f3g0ovN8MhwJLvKuk",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Аугсбург ― Байер: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21569/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX-AAfqUY1l9hqj875tO5jzU1bZ6ltJsy7NoLSC7V7n3f3g0ovN8MhwJLvKuk",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Ставки на Футбол: прогноз «Аугсбург» - «Байер Л» (14 декабря 2024), автор Иван Беленцов",
-        "snippet": "",
-        "url": "https://online-bookmakers.com/ru/prognozy/augsburg-bayer-l-2024-12-14/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvtIa8pkHFTF2uJv-F3fxTUOcH6Lklht07fBRNQvo7qvjevYQTTj40MEw38nI",
-        "source": "Online Bookmakers"
-      },
-      {
-        "title": "Аугсбург — Байер 04 | Кальяри — Аталанта | Ювентус — Венеция. Экспресс от YURGEN 14.12.2024",
-        "snippet": "",
-        "url": "https://prognozist.ru/augsburg-bayer-04-kalyari-atalanta-dnzmvvv.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAAV1mYsgNuqTI4yLWNsrXgEDimkhpvpF4oKB3nQbPOka03oCezB4rrMarxwM",
-        "source": "Prognozist.ru"
-      }
-    ]
-  },
-  {
-    "title": "кальяри – аталанта",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Кальяри – Аталанта: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21571/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Кальяри - Аталанта: где смотреть прямую трансляцию онлайн",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/34/1005800086_kalyari_-_atalanta_gde_smotret_pryamuyu_translyaciyu_onlayn",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm0VzYLS47jf0l5auSkGiGyva28KFhz54WfDY3_cD2XouSXKyhQ1RxqWaeU8w",
-        "source": "Евро-Футбол.Ру"
-      },
-      {
-        "title": "«Кальяри» — «Аталанта». Прямая трансляция: смотреть онлайн матч Серии А",
-        "snippet": "",
-        "url": "https://sport24.ru/football/news-709539-kalyari-atalanta-pryamaya-translyatsiya-smotret-onlayn-match-serii-a",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_L7N9NuW2FFwP3nc7L6rzDC2wLAkNcQzse-hG6DgcgKYnECtEy0JK-QKyKjM",
-        "source": "Sport24.ru"
-      }
-    ]
-  },
-  {
-    "title": "эспаньол – осасуна",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Sat, 14 Dec 2024 04:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7WijXFDl2ktMD_ot2nClWvN_iNo4Yq9gJbRPgxiHup6rGKHFsc3wmMK1Xp30",
-    "picture_source": "FootBoom",
-    "news_items": [
-      {
-        "title": "Эспаньол — Осасуна: прогноз и ставка на матч 14.12.2024",
-        "snippet": "",
-        "url": "https://www.footboom1.com/spain/la-liga/1733939513--yespanjol-osasuna-anons-ta-prognoz-matchu.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7WijXFDl2ktMD_ot2nClWvN_iNo4Yq9gJbRPgxiHup6rGKHFsc3wmMK1Xp30",
-        "source": "FootBoom"
-      },
-      {
-        "title": "Эспаньол — Осасуна: прогноз и ставки на матч чемпионата Испании (14 декабря 2024)",
-        "snippet": "",
-        "url": "https://sportandbets.com/espanol-osasuna-17341812001.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFhyovpGmg1ph2z6I_v9kONTaaqxVKocLYZC4t8LoJ99KCsoKjjotb2gJa-XE",
-        "source": "sportandbets.com"
-      },
-      {
-        "title": "Футбол Испания Примера дивизион Эспаньол — Осасуна прогноз с описанием от Везуха23 14 дек 2024",
-        "snippet": "",
-        "url": "https://prognozist.ru/espanol-osasuna-pnoygqo.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK0TJ3Lgqb9KHLTgkA0jlmryp9CAgfZNDRd0gCK878Hgklni5TL7TrD84cjV8",
-        "source": "Prognozist.ru"
-      }
-    ]
-  },
-  {
-    "title": "цири ведьмак",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Sat, 14 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Vjbzlp4fWnoyKdPzKvzb4i6KI0FU11qjy9LNiH1jeBMWtVZ0W-FJq3vkfPk",
-    "picture_source": "DTF",
-    "news_items": [
-      {
-        "title": "CDPR о выборе Цири в качестве протагониста «Ведьмака 4»: «Для нас это всегда была она»",
-        "snippet": "",
-        "url": "https://dtf.ru/games/3279131-cdpr-o-vybore-ciri-v-kachestve-protagonista-vedmaka-4-dlya-nas-eto-vsegda-byla-ona",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Vjbzlp4fWnoyKdPzKvzb4i6KI0FU11qjy9LNiH1jeBMWtVZ0W-FJq3vkfPk",
-        "source": "DTF"
-      },
-      {
-        "title": "Цири в The Witcher 4 озвучит актриса из «Нормальных людей»",
-        "snippet": "",
-        "url": "https://www.igromania.ru/news/145545/tsiri-v-the-witcher-4-ozvuchit-aktrisa-iz-normalnyih-lyudej/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUc1j5GxKk5E_lVVdIGhMhq5YBl2lpa1HGLOcKRMK8yq5LbD2SJ5JDGSuW3wg",
-        "source": "Игромания"
-      },
-      {
-        "title": "Геральт всё таки появится в \"Ведьмак 4\": подтверждение от CD Projekt RED",
-        "snippet": "",
-        "url": "https://www.unian.net/games/cd-projekt-red-podtverdila-chto-geralt-poyavitsya-v-vedmake-4-12852075.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT017Rf6oroV7E_fD8iVOEF4ySjDcxR-k5HUHd-cXr17Rq4oADkRiEw9SJ2A0E",
-        "source": "УНИАН"
-      }
-    ]
-  },
-  {
-    "title": "мамаризо нурмуратов",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Fri, 13 Dec 2024 18:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROM1KZowOmFKQ3bBf_L0Gy9gGti_pmMZtIgadnGfyIQoYWM45hRpKriR5-3L8",
-    "picture_source": "Gazeta.uz",
-    "news_items": [
-      {
-        "title": "Тимур Ишметов назначен председателем Центробанка Узбекистана",
-        "snippet": "",
-        "url": "https://www.gazeta.uz/ru/2024/12/11/timur-ishmetov/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROM1KZowOmFKQ3bBf_L0Gy9gGti_pmMZtIgadnGfyIQoYWM45hRpKriR5-3L8",
-        "source": "Gazeta.uz"
-      },
-      {
-        "title": "Мамаризо Нурмуратов покинул должность председателя Центрального банка",
-        "snippet": "",
-        "url": "https://uznews.uz/posts/78399",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXAF1WIkcl-BNOdt1BAgkEuz9JSunRT-AInfUtMBxKPwvxNYkYDaPoFvV1_CQ",
-        "source": "UzNews.uz"
-      },
-      {
-        "title": "Президент Узбекистана предложил освободить главу ЦБ от должности",
-        "snippet": "",
-        "url": "https://kun.uz/ru/news/2024/12/11/prezident-uzbekistana-predlojil-osvbodit-glavu-tsb-ot-doljnosti",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbwdnQ_1TlVfhmt31AyAnYAdKU4gw5lLb6rVuAkok5_VZe_IuitOfbB73dQeI",
-        "source": "Kun.uz"
-      }
-    ]
-  },
-  {
-    "title": "эмполи – торино",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Fri, 13 Dec 2024 16:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37VCW6urZeqi-wNKNjL6bUuBQo_qkti6DnzOSqKjJDAXj09ucvtvUg0sPHNM",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Эмполи ― Торино: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21563/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37VCW6urZeqi-wNKNjL6bUuBQo_qkti6DnzOSqKjJDAXj09ucvtvUg0sPHNM",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Серия А. Торино вспомнил, что когда-то был среди лидеров",
-        "snippet": "",
-        "url": "https://www.ua-football.com/foreign/italy/1734126559-seriya-a-torino-vspomnil-chto-kogda-to-byl-sredi-liderov.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlAUuvhSgMQvfQzMP7roDD3iWUBH9qp3Kb-raIKqNKgiVAA1BCuDy6EPqXXa0",
-        "source": "UA-Football"
-      },
-      {
-        "title": "«Эмполи» проиграл «Торино» в матче чемпионата Италии, Адамс забил с центра поля",
-        "snippet": "",
-        "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Italiya/spbnews_NI2146460_Empoli_proigral_Torino_v_matche_chempionata_Italii_Adams_zabil_s_centra_pola",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQozRRB8vuzHB_GBMqlHneRN6huGvxDdo4WbAOq434NTH92L1OkxaHpa9fmvUk",
-        "source": "Sportbox"
-      }
-    ]
-  },
-  {
-    "title": "вальядолид – валенсия",
-    "link": "https://trends.google.com/trending/rss?geo=UZ",
-    "pubdate": "Fri, 13 Dec 2024 16:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr4XEj8ka0dWCmkm09wQs8Htj0bX5DMTkQ2QFfc--EezfF6T1dAnTgUR9XSyM",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Реал Вальядолид ― Валенсия: превью",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/21567/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr4XEj8ka0dWCmkm09wQs8Htj0bX5DMTkQ2QFfc--EezfF6T1dAnTgUR9XSyM",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "Примера. Вальядолид – Валенсия 1:0. Битва аутсайдеров в пользу хозяев",
-        "snippet": "",
-        "url": "https://www.ua-football.com/foreign/spain/1734126137-primera-valyadolid-valensiya-1-0-bitva-autsayderov-v-polzu-hozyaev.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJXnPU5xnuzwPPzBia4yXekKwGXeI2FbZ7BZ9hm-ghypisRSezS0G-0X7oWXY",
-        "source": "UA-Football"
-      },
-      {
-        "title": "«Вальядолид» обыграл «Валенсию», нанеся один удар в сторону ворот",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/35/1005800081_valyadolid_obyigral_valensiyu_nanesya_odin_udar_v_storonu_vorot",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGzJ6Z2_JZpDCbXtYV_pEPg_AnkCPJmylmdccayZQ1WsxgUFUnFwd3Du54j3M",
-        "source": "Евро-Футбол.Ру"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "orange",
+  "Goal 6 Rating": "red",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 70.5295,
+  "Goal 2 Score": 65.81275,
+  "Goal 3 Score": 75.667,
+  "Goal 4 Score": 85.7245,
+  "Goal 5 Score": 70.8605,
+  "Goal 6 Score": 57.2154,
+  "Goal 7 Score": 63.75,
+  "Goal 8 Score": 71.8015714285714,
+  "Goal 9 Score": 45.097,
+  "Goal 10 Score": 81.608,
+  "Goal 11 Score": 55.6053333333333,
+  "Goal 12 Score": 91.2445,
+  "Goal 13 Score": 91.8796666666667,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 65.6716,
+  "Goal 16 Score": 58.4916,
+  "Goal 17 Score": 60.4656
+}

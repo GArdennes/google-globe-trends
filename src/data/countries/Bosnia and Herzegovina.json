@@ -1,51 +1,36 @@
-[
-  {
-    "title": "lokomotiva – dinamo",
-    "link": "https://trends.google.com/trending/rss?geo=BA",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "weather tomorrow",
-    "link": "https://trends.google.com/trending/rss?geo=BA",
-    "pubdate": "Fri, 13 Dec 2024 11:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-    "picture_source": "5 EYEWITNESS NEWS",
-    "news_items": [
-      {
-        "title": "Ken says a warming begins today",
-        "snippet": "",
-        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-        "source": "5 EYEWITNESS NEWS"
-      },
-      {
-        "title": "Warmer temps this weekend and especially for next week",
-        "snippet": "",
-        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
-        "source": "WIS News 10"
-      },
-      {
-        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
-        "snippet": "",
-        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
-        "source": "WLWT"
-      }
-    ]
-  },
-  {
-    "title": "slaven – gorica",
-    "link": "https://trends.google.com/trending/rss?geo=BA",
-    "pubdate": "Fri, 13 Dec 2024 08:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "orange",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "red",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "orange",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "orange",
+  "Goal 14 Rating": "yellow",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "orange",
+  "Goal 17 Rating": "yellow",
+  "Goal 1 Score": 99.8965,
+  "Goal 2 Score": 71.30175,
+  "Goal 3 Score": 75.4144615384615,
+  "Goal 4 Score": 62.86525,
+  "Goal 5 Score": 42.9175,
+  "Goal 6 Score": 75.7576,
+  "Goal 7 Score": 71.8865,
+  "Goal 8 Score": 72.2507142857143,
+  "Goal 9 Score": 54.0322857142857,
+  "Goal 10 Score": 80.7535,
+  "Goal 11 Score": 82.45825,
+  "Goal 12 Score": 72.2711428571429,
+  "Goal 13 Score": 85.8286666666667,
+  "Goal 14 Score": 83.8946666666667,
+  "Goal 15 Score": 80.4168,
+  "Goal 16 Score": 67.0804,
+  "Goal 17 Score": 78.81525
+}

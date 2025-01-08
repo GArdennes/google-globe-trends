@@ -1,305 +1,36 @@
-[
-  {
-    "title": "mainz – bayern",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWB5Zmt3tYTJnfqsJcF5QLcQnmCm0VGmcasza1af7nzCY7X1UY1Dv2Sx9OWdk",
-    "picture_source": "BILD.de",
-    "news_items": [
-      {
-        "title": "FC Bayern: Kompany sorgt für Abwehr-Überraschung gegen Mainz!",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/fc-bayern-kompany-sorgt-fuer-abwehr-ueberraschung-gegen-mainz-675d82c48011081334d94bb4",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWB5Zmt3tYTJnfqsJcF5QLcQnmCm0VGmcasza1af7nzCY7X1UY1Dv2Sx9OWdk",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Ab 15.30 Uhr im Ticker - Deutsche Konferenz mit Bayern und Leverkusen LIVE",
-        "snippet": "",
-        "url": "https://www.krone.at/3624584",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxN0z-5KeJDTLgTfZ96w07ShSjo8PC4EljSnks2MYtvuVmr0exNuv-Q-uCKA",
-        "source": "Kronen Zeitung"
-      },
-      {
-        "title": "Liveticker: Pressetalk vor 1. FSV Mainz 05 - FC Bayern",
-        "snippet": "",
-        "url": "https://fcbayern.com/de/news/2024/12/ticker-pressetalk-des-fc-bayern-vor-dem-auswaertsspiel-beim-1.-fsv-mainz-05",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF4v_RAvT8MImhbeK8QiMJkb-CaT2u__Eh5K1Gcu42UIMFfEffcJCG3IZvH_A",
-        "source": "FC Bayern"
-      }
-    ]
-  },
-  {
-    "title": "augsburg – leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCP1RXBspl-GrpNNrQCrjqUMbg4A4n0TIzd1i7wyc87C1OCmpOLVbK7irgVIU",
-    "picture_source": "Ligaportal",
-    "news_items": [
-      {
-        "title": "Alonso warnt vor Augsburg: \"Immer hart\"",
-        "snippet": "",
-        "url": "https://www.ligaportal.at/international/deutsche-bundesliga/77236-alonso-warnt-vor-augsburg-immer-hart",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCP1RXBspl-GrpNNrQCrjqUMbg4A4n0TIzd1i7wyc87C1OCmpOLVbK7irgVIU",
-        "source": "Ligaportal"
-      },
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "schalke – düsseldorf",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6DZw7r9IORbgOrZUeVTG8PblBSjXTREra-wEveAE4wrMkGuosu_QiUXdCR8",
-    "picture_source": "kicker",
-    "news_items": [
-      {
-        "title": "Liveticker | FC Schalke 04 - Fortuna Düsseldorf : | 16. Spieltag | 2. Bundesliga 2024/25",
-        "snippet": "",
-        "url": "https://www.kicker.at/schalke-gegen-duesseldorf-2024-bundesliga-4937222/ticker",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6DZw7r9IORbgOrZUeVTG8PblBSjXTREra-wEveAE4wrMkGuosu_QiUXdCR8",
-        "source": "kicker"
-      },
-      {
-        "title": "FC Schalke 04 vs. Fortuna Düsseldorf heute live im Free-TV: Wer zeigt / überträgt 2. Bundesliga im TV und Livestream?",
-        "snippet": "",
-        "url": "https://www.spox.com/fussball/listen/fc-schalke-04-vs-fortuna-duesseldorf-heute-live-im-free-tv-wer-zeigt-uebertraegt-2-bl-im-tv-und-livestream/6862872",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx14BTbYrYjhUh8uP4FVsfW_VggKKzQMIsSjyZQdYD3qH8pHh_eUempIWLQT4",
-        "source": "SPOX"
-      },
-      {
-        "title": "Remis im NRW-Derby: Furiose Schalker scheitern an Düsseldorfs Keeper",
-        "snippet": "",
-        "url": "https://www.sportschau.de/fussball/bundesliga/furiose-schalker-scheitern-an-duesseldorfs-keeper,zweite-bundesliga-s04-f95-100.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBmiSkG2vyV5sOVOpvio2xds7E_9kdsWCiK51TJbP07UeRCUQ-lf861gUO2PA",
-        "source": "sportschau.de"
-      }
-    ]
-  },
-  {
-    "title": "clement noel",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUvucEbtgOH5hB2QH8XoIvu3LFILruk7oHD12EZQV3vToccuNt0LT24ahlp6E",
-    "picture_source": "LAOLA1",
-    "news_items": [
-      {
-        "title": "Slalom-Dominator Clement Noel verliert Zähne und verletzt sich",
-        "snippet": "",
-        "url": "https://www.laola1.at/de/red/wintersport/ski-alpin/weltcup-herren/grosse-sorgen-um-slalom-dominator-clement-noel/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUvucEbtgOH5hB2QH8XoIvu3LFILruk7oHD12EZQV3vToccuNt0LT24ahlp6E",
-        "source": "LAOLA1"
-      },
-      {
-        "title": "Frenchman injured - Bad crash in home race! Worries about Clement Noel",
-        "snippet": "",
-        "url": "https://www.krone.at/3625424",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv9XkKGEHBKThUrrxlWvRo-xMzoCUl5dRdHJIvAZn8RB7pWa0XRG4t1GUxtCA",
-        "source": "Kronen Zeitung"
-      },
-      {
-        "title": "Sturz in Val d'Isere – Ski-Dominator abgeflogen – erste Diagnose-Meldung",
-        "snippet": "",
-        "url": "https://www.heute.at/s/ski-dominator-fliegt-bei-heimrennen-spektakulaer-ab-120078416",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3wCJUV7xHfbGu46-kOIbXEg7YcOx0_prp6E1WG8lD2EXuHn-r27CYFxUFo40",
-        "source": "Heute"
-      }
-    ]
-  },
-  {
-    "title": "andreas wieland",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 03:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSImEFws4xstwxGYr8BMrYjv6ATTzZdjOExsUMMwH7GZvEZjJMPwO_Joe6x9co",
-    "picture_source": "LAOLA1",
-    "news_items": [
-      {
-        "title": "LASK: Wieland vor Rückkehr auf die Trainerbank",
-        "snippet": "",
-        "url": "https://www.laola1.at/de/red/fussball/regionalligen/lask--wieland-vor-rueckkehr-auf-die-trainerbank/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSImEFws4xstwxGYr8BMrYjv6ATTzZdjOExsUMMwH7GZvEZjJMPwO_Joe6x9co",
-        "source": "LAOLA1"
-      },
-      {
-        "title": "LASK: Wieland zurück auf der Trainerbank",
-        "snippet": "",
-        "url": "https://www.nachrichten.at/sport/fussball/lask/wieland-zurueck-auf-der-trainerbank;art100,4008567",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW3mnb9YGl3hrCZ4hMJVAwo9VqxNVzmrcoDx0A9g4g-dQbMaDZUqXGOsgPmfo",
-        "source": "nachrichten.at"
-      }
-    ]
-  },
-  {
-    "title": "hochfilzen",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 03:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOthTmEjmOk6pMLxoONgQxB78_Sn3Fu8DPn2ZWQJl5QprwmmfMh7fnelEaHo",
-    "picture_source": "sportschau.de",
-    "news_items": [
-      {
-        "title": "Biathlon in Hochfilzen: Voigt und Preuß mit Top-Ergebnissen in der Verfolgung",
-        "snippet": "",
-        "url": "https://www.sportschau.de/wintersport/biathlon/voigt-und-preuss-in-der-verfolgung-aufs-podest,biathlon-268.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOthTmEjmOk6pMLxoONgQxB78_Sn3Fu8DPn2ZWQJl5QprwmmfMh7fnelEaHo",
-        "source": "sportschau.de"
-      },
-      {
-        "title": "Andexer? \"Hab gesagt: Wirst sehen, die schießt zweimal Null\"",
-        "snippet": "",
-        "url": "https://www.laola1.at/de/red/wintersport/biathlon/news/andexer---hab-gesagt--wirst-sehen--die-scheisst-zweimal-null-/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzS0L3vxVnRK67TtFyWhpuXPM3ZKneZb45gSD_vo0J91KwoGKY7BRgiGvk6yQ",
-        "source": "LAOLA1"
-      },
-      {
-        "title": "\"Ich war so nervös\": Anna Andexer überzeugt bei Weltcup-Debüt in Hochfilzen",
-        "snippet": "",
-        "url": "https://www.salzburg24.at/sport/wintersport/ich-war-so-nervoes-anna-andexer-ueberzeugt-bei-weltcup-debuet-in-hochfilzen-170090167",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGsazM5XPE9eRvwYDlCjomewIAXeDp3Pi3apSAkh8CF1eWZMzzfb061MPW8_Y",
-        "source": "salzburg24"
-      }
-    ]
-  },
-  {
-    "title": "moosburg aktuell",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 02:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2i7sDKgLryPOIeKkIV33PzzN359iivaibhzGzHIY_vrv3yG9BRWj4FTx1iFw",
-    "picture_source": "kaernten.ORF.at",
-    "news_items": [
-      {
-        "title": "Empörung über Artikel in ÖVP-Zeitung",
-        "snippet": "",
-        "url": "https://kaernten.orf.at/stories/3285306/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2i7sDKgLryPOIeKkIV33PzzN359iivaibhzGzHIY_vrv3yG9BRWj4FTx1iFw",
-        "source": "kaernten.ORF.at"
-      },
-      {
-        "title": "\"Luschn\" und \"Speibe\": Skandal um Kärntner Bürgermeister",
-        "snippet": "",
-        "url": "https://www.oe24.at/oesterreich/chronik/kaernten/luschn-und-speibe-skandal-um-kaerntner-buergermeister/616472536",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUGlOUIADSxwTyFEi4u61BzzQJ3m0GLefjqg7XgnBDqU8SOC6a_bbCO8Rfhc",
-        "source": "OE24"
-      },
-      {
-        "title": "ÖVP-Bürgermeister reagiert nach Kritik an Artikel in Parteizeitung",
-        "snippet": "",
-        "url": "https://www.kleinezeitung.at/kaernten/klagenfurt/19175496/oevp-buergermeister-reagiert-nach-kritik-an-artikel-in-parteizeitung",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMbK3sPUR4ARbDRqb6zhoDJdeGgHc3lqVoS1bdF06dbuPdMWz__xOr1cZqyXM",
-        "source": "Kleine Zeitung"
-      }
-    ]
-  },
-  {
-    "title": "josef taus",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 02:00:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNoB1qtDssrLOSbIq6pp_yvj0wNBmMMFFCTpyNAjAfcyg0Dz_btSvejMH4g4I",
-    "picture_source": "ORF",
-    "news_items": [
-      {
-        "title": "1933–2024: Josef Taus ist tot",
-        "snippet": "",
-        "url": "https://orf.at/stories/3378944/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNoB1qtDssrLOSbIq6pp_yvj0wNBmMMFFCTpyNAjAfcyg0Dz_btSvejMH4g4I",
-        "source": "ORF"
-      },
-      {
-        "title": "Industrieller und Ex-ÖVP-Chef Josef Taus verstorben",
-        "snippet": "",
-        "url": "https://www.diepresse.com/19176921/industrieller-und-ex-oevp-chef-josef-taus-verstorben",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdxskUzhHxKWJAnfdCbPDNFH_kJNlLsfPoPsCxXXQ4Lb3bCgihU1Io_BruB5Q",
-        "source": "DiePresse.com"
-      },
-      {
-        "title": "In Memoriam Josef Taus: Der ORF ändert sein Programm",
-        "snippet": "",
-        "url": "https://www.kleinezeitung.at/kultur/medien/19177167/der-orf-aendert-sein-programm",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCZo0YKkRJ4vvCAvcwigEkrKOJobH0uvSIe5oLRTrvRoX-xj5bRg8RDV4XLng",
-        "source": "Kleine Zeitung"
-      }
-    ]
-  },
-  {
-    "title": "justin bieber",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 02:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSket80VDtB3IymbFtmyxP3-cVsWOoFbL1MI7VCYSubNls0_oKuWZbDbFkStuA",
-    "picture_source": "Daily Mail",
-    "news_items": [
-      {
-        "title": "How Justin Bieber delayed Selena Gomez and Benny Blanco's engagement news for months",
-        "snippet": "",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-14186991/Selena-Gomez-Benny-Blanco-secretly-engaged-months-Justin-Bieber.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSket80VDtB3IymbFtmyxP3-cVsWOoFbL1MI7VCYSubNls0_oKuWZbDbFkStuA",
-        "source": "Daily Mail"
-      },
-      {
-        "title": "So Just How Rich Is Selena Gomez's Fiancé, Benny Blanco? Let's Discuss",
-        "snippet": "",
-        "url": "https://www.cosmopolitan.com/entertainment/celebs/a63172052/benny-blanco-net-worth/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTun_KjHigzXMd1EHbQY4Dc1aiPuXepRSd0IbxY1kdLhvF3kHeU5Hoe7lFjx1c",
-        "source": "Cosmopolitan"
-      },
-      {
-        "title": "Selena Gomez Said ‘Forever Begins Now’ to Marquise Diamond Engagement Ring",
-        "snippet": "",
-        "url": "https://nationaljeweler.com/articles/13490-selena-gomez-said-forever-begins-now-to-marquise-diamond-engagement-ring",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Bb-Qgze1Xm38QadhlCzVIr4fsdQL5sRpZXVKoPepXYrzkuEE5O-6CnF9mdI",
-        "source": "nationaljeweler.com"
-      }
-    ]
-  },
-  {
-    "title": "marco schwarz",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 01:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmk4orTVjkMydGZBgXTTveXD_M6p7ez9FQlnsDlWaV_QrKr1IrdShhM5R9Vxo",
-    "picture_source": "Der Standard",
-    "news_items": [
-      {
-        "title": "Comeback-Zeit in Val d'Isère: Odermatt gegen die Unserie",
-        "snippet": "",
-        "url": "https://www.derstandard.at/story/3000000249290/comeback-zeit-in-val-disere-odermatt-gegen-die-unserie",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmk4orTVjkMydGZBgXTTveXD_M6p7ez9FQlnsDlWaV_QrKr1IrdShhM5R9Vxo",
-        "source": "Der Standard"
-      },
-      {
-        "title": "Ski alpin: Spannende Ausgangslage in Val d’Isere",
-        "snippet": "",
-        "url": "https://sport.orf.at/stories/3135743/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHyYAwt6R6hc6thP0WqRvK1GymNfxhi8LDF80vWUB1tWgwXyJt0Pemk4BWBOQ",
-        "source": "sport.ORF.at"
-      },
-      {
-        "title": "Schwarz vor Comeback: \"Man muss realistisch bleiben\"",
-        "snippet": "",
-        "url": "https://www.laola1.at/de/red/wintersport/ski-alpin/weltcup-herren/schwarz-vor-comeback---man-muss-realistisch-bleiben-/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHgquZWK8gxWsHPYyr9GyhZ00po1yg0nKIe27IIEqbIELr8b3rDgqBo1r4XUE",
-        "source": "LAOLA1"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "yellow",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "yellow",
+  "Goal 6 Rating": "yellow",
+  "Goal 7 Rating": "yellow",
+  "Goal 8 Rating": "orange",
+  "Goal 9 Rating": "yellow",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "yellow",
+  "Goal 12 Rating": "red",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "gray",
+  "Goal 15 Rating": "orange",
+  "Goal 16 Rating": "yellow",
+  "Goal 17 Rating": "orange",
+  "Goal 1 Score": 99.187,
+  "Goal 2 Score": 74.844,
+  "Goal 3 Score": 93.1878461538462,
+  "Goal 4 Score": 97.1446666666667,
+  "Goal 5 Score": 84.8255,
+  "Goal 6 Score": 90.8966,
+  "Goal 7 Score": 86.40475,
+  "Goal 8 Score": 77.7994285714286,
+  "Goal 9 Score": 97.3528571428571,
+  "Goal 10 Score": 94.2605,
+  "Goal 11 Score": 97.0316666666667,
+  "Goal 12 Score": 42.8997142857143,
+  "Goal 13 Score": 70.5543333333333,
+  "Goal 14 Score": null,
+  "Goal 15 Score": 70.5904,
+  "Goal 16 Score": 87.164,
+  "Goal 17 Score": 73.0614
+}

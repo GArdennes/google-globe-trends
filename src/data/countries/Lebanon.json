@@ -1,33 +1,36 @@
-[
-  {
-    "title": "the witcher 4",
-    "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Fri, 13 Dec 2024 08:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfUtoJOOMME9z8w23tPsOnrPPZUCPfy3yS8Fox_evO592tGDKrc0LXn18HFbQ",
-    "picture_source": "Forbes",
-    "news_items": [
-      {
-        "title": "New Details On What ‘Elden Ring Nightreign’ Actually Is",
-        "snippet": "",
-        "url": "https://www.forbes.com/sites/paultassi/2024/12/13/new-details-on-what-elden-ring-nightreign-actually-is/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfUtoJOOMME9z8w23tPsOnrPPZUCPfy3yS8Fox_evO592tGDKrc0LXn18HFbQ",
-        "source": "Forbes"
-      },
-      {
-        "title": "Elden Ring: Nightreign unveiled by FromSoftware at The Game Awards",
-        "snippet": "",
-        "url": "https://www.gamingbible.com/news/elden-ring-nightrein-announcement-717405-20241213",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFUt5AO23KM7-UA5CUufzkW0NzgPMMPiG3NUWfv7yMRFmK-Zb3rV3rFuXBQg4",
-        "source": "GAMINGbible"
-      },
-      {
-        "title": "Elden Ring Nightreign Includes A Few Dark Souls Bosses",
-        "snippet": "",
-        "url": "https://www.thegamer.com/elden-ring-nightreign-dark-souls-references-the-nameless-king-centipede-demon/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGpQYsDdj5WPWX7NpXBy_V3c-CzuSx3IlC4xQt--l2uooek4p7lfxVSOqRxwE",
-        "source": "TheGamer"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "green",
+  "Goal 2 Rating": "red",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "yellow",
+  "Goal 5 Rating": "red",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "yellow",
+  "Goal 10 Rating": "yellow",
+  "Goal 11 Rating": "red",
+  "Goal 12 Rating": "orange",
+  "Goal 13 Rating": "red",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "red",
+  "Goal 1 Score": 98.7295,
+  "Goal 2 Score": 59.5987142857143,
+  "Goal 3 Score": 72.4024615384615,
+  "Goal 4 Score": 77.427,
+  "Goal 5 Score": 40.70825,
+  "Goal 6 Score": 61.3764,
+  "Goal 7 Score": 53.8613333333333,
+  "Goal 8 Score": 49.5371428571428,
+  "Goal 9 Score": 77.6836666666667,
+  "Goal 10 Score": 84.4435,
+  "Goal 11 Score": 59.5616666666667,
+  "Goal 12 Score": 72.2434285714286,
+  "Goal 13 Score": 83.1703333333333,
+  "Goal 14 Score": 64.7902,
+  "Goal 15 Score": 49.9894,
+  "Goal 16 Score": 46.927,
+  "Goal 17 Score": 33.6576
+}

@@ -1,290 +1,36 @@
-[
-  {
-    "title": "the voice",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Thu, 12 Dec 2024 02:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC6DFLBLv_rUzaY-6-KF9qA-DbvTlqhKnae1pBIJSWpzmBv-nThIN49784g20",
-    "picture_source": "People.com",
-    "news_items": [
-      {
-        "title": "'The Voice' Season 26 Crowns a New Winner as Sofronio Vasquez Takes Home the Championship Trophy",
-        "snippet": "",
-        "url": "https://people.com/the-voice-new-champion-sofronio-vasquez-wins-season-26-8759236",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC6DFLBLv_rUzaY-6-KF9qA-DbvTlqhKnae1pBIJSWpzmBv-nThIN49784g20",
-        "source": "People.com"
-      },
-      {
-        "title": "When is 'The Voice' finale on? Date, time, finalists, where to watch and stream",
-        "snippet": "",
-        "url": "https://au.lifestyle.yahoo.com/voice-finale-date-time-finalists-120407260.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrVLX1kIxM7_SB7NKoRe-l761OyUkmp_OVVKT7qRcV8J5W8Ca3zGkjztzqJ0k",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Michael Bublé Issues Apology to ‘The Voice’ Coaches After Season 26 Win",
-        "snippet": "",
-        "url": "https://americansongwriter.com/michael-buble-issues-apology-to-the-voice-coaches-after-season-26-win/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmbR3bZA4yLUfkjWXTv_uXBEU4bsKiG_91k0_5nfnaKXB1HVWUsrpphnGMt3I",
-        "source": "American Songwriter"
-      }
-    ]
-  },
-  {
-    "title": "akhbarona",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Wed, 11 Dec 2024 22:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "météo",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800",
-    "approx_traffic": 20000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbWOY9HsxyXt_ZFywrxMwwtOW7jaGXj1imKtUozUAQuvUonHFZ8i0YyvU6KM",
-    "picture_source": "Ouest-France",
-    "news_items": [
-      {
-        "title": "La météo du jeudi 12 décembre 2024 à Angers et ses environs",
-        "snippet": "",
-        "url": "https://www.ouest-france.fr/meteo/pays-de-la-loire/angers-49000/la-meteo-du-jour-a-angers-2b4b1a20-533c-55fc-aa5c-20be3487ebcf",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbWOY9HsxyXt_ZFywrxMwwtOW7jaGXj1imKtUozUAQuvUonHFZ8i0YyvU6KM",
-        "source": "Ouest-France"
-      },
-      {
-        "title": "La météo du jeudi 12 décembre 2024 à Angers et ses environs",
-        "snippet": "",
-        "url": "http://www.francelive.fr/teaser/ouest-france/la-meteo-du-jeudi-12-decembre-2024-a-angers-et-ses-environs-8763337/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_7SExI7BVyx_9e91T72YYM9Q4k8dw9NX9J24Y0s7kAltRD4tOwQm88oTI1IM",
-        "source": "France Live"
-      },
-      {
-        "title": "Le temps qu'il fera ce mercredi 11 décembre 2024",
-        "snippet": "",
-        "url": "https://fr.hespress.com/400503-le-temps-quil-fera-ce-mercredi-11-decembre-2024.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzKzbR4wH42nWOuFdy9vOYyBQqpBSJ99T-KkARdojNq_hrDtimWukywhpgtkM",
-        "source": "Hespress Français - Actualités du Maroc"
-      }
-    ]
-  },
-  {
-    "title": "الطقس",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8arnrRwZz3886droc0vV6lC8kiEmNManFhngtkhNmzFPRm80V99uEyQprj9k",
-    "picture_source": "Le 360 Arabe",
-    "news_items": [
-      {
-        "title": "مديرية الأرصاد تكشف أسباب انخفاض درجات الحرارة وتبشر بتساقطات مطرية في عدد من المناطق",
-        "snippet": "",
-        "url": "https://ar.le360.ma/societe/Y5IOLTCSK5AJPMGD6VVTNAKS7U/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8arnrRwZz3886droc0vV6lC8kiEmNManFhngtkhNmzFPRm80V99uEyQprj9k",
-        "source": "Le 360 Arabe"
-      },
-      {
-        "title": "توقعات أحوال الطقس اليوم الثلاثاء",
-        "snippet": "",
-        "url": "https://aljarida24.ma/p/actualites/298186/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbduwk4c-TbTYJoD2FWO0C4euIx5a95W2jeEvpftAplsn-1wAdAeHpMQdyr0w",
-        "source": "الجريدة 24"
-      },
-      {
-        "title": "الأرصاد: الحالة الجوية غادي تتبدل من غدا بسبب اقتراب منخفض جوي من شمال المغرب ودبا الظروف ملائمة للشتا",
-        "snippet": "",
-        "url": "https://www.goud.ma/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%BA%D8%A7%D8%AF%D9%8A-%D8%AA%D8%AA%D8%A8%D8%AF%D9%84-%D9%85%D9%86-%D8%BA%D8%AF-920487/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKMSkIhrwfALgbXP0E2cOeC91un1XBSwdqrf_u2CjcLakLWS4YgyxCXlxNZpY",
-        "source": "كود"
-      }
-    ]
-  },
-  {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLf5mpAWnTs2CBUZweLNpJlU3RIdimkvMc5bWCu9VXw69eqM6rfQmBz7IjpbQ",
-    "picture_source": "USA Today",
-    "news_items": [
-      {
-        "title": "'Dangerously cold' winter weather is back in forecast; snow for the Great Lakes",
-        "snippet": "",
-        "url": "https://www.usatoday.com/story/news/weather/2024/12/12/winter-weather-in-forecast-thursday/76927335007/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLf5mpAWnTs2CBUZweLNpJlU3RIdimkvMc5bWCu9VXw69eqM6rfQmBz7IjpbQ",
-        "source": "USA Today"
-      },
-      {
-        "title": "LAKE EFFECT SNOW WARNING: Here's how much snow you can expect in your area",
-        "snippet": "",
-        "url": "https://www.yahoo.com/news/lake-effect-snow-warning-heres-105822688.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSUKD8j1rrEE9mxjQSlCMRAK6RVCSSx5tragGrG0ncApYnaT1Wl4NliPHO0s8",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Weather Words: Full Fetch",
-        "snippet": "",
-        "url": "https://weather.com/science/weather-explainers/news/2024-12-11-weather-words-full-fetch",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRocKVn8bhLr6xAOZuOSdlCfZwikPEJ2u1DfVsPkGmaXZ9WU0LOi8f-2oS1rPU",
-        "source": "The Weather Channel"
-      }
-    ]
-  },
-  {
-    "title": "chatgpt",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "OpenAI says ChatGPT service has recovered after hours-long outage",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/11/openais-chatgpt-suffers-outage-and-says-its-working-on-a-fix.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqPnAbgYvqDujXpaUPm8n3JWXu9NKHT7JWnOtPzxYnyyRwr8B4q9JaaBdenE",
-        "source": "CNBC"
-      },
-      {
-        "title": "ChatGPT is down: What happened and when will it be back?",
-        "snippet": "",
-        "url": "https://en.as.com/latest_news/chatgpt-is-down-what-happened-and-when-will-it-be-back-n/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz3YdKrtVZZx3cvRLKLuv1BtVrdhBkJO-n3AqneE0R5_auX3khUoZemqNB1jo",
-        "source": "Diario AS"
-      },
-      {
-        "title": "ChatGPT back online after global outage",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/world/us/chatgpt-down-global-service-interruption-reported-millions-users-left-waiting/articleshow/116232632.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa_x_qh4Y0SroarGbnBts8HQuB9ZWSd5KZJ3J9y4IlBHPuh_wy5vDilvYOPn0",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "gemini",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Wed, 11 Dec 2024 15:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-    "picture_source": "Google Blog",
-    "news_items": [
-      {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
-        "snippet": "",
-        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg78NZtrbFOz7Uhaw3ztxnrSW3jratRHG0JcVrn46wP1-wZmt9ZxiBa5aixic",
-        "source": "Google Blog"
-      },
-      {
-        "title": "A former Google designer reveals what goes into building its AI models like Gemini",
-        "snippet": "",
-        "url": "https://www.businessinsider.com/former-google-designer-ai-models-gemini-2024-12",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgy0KslTQTjFVFKXy1H7A79HDnaS983SUTznWNih572xZTslKw5YC42GYHL30",
-        "source": "Business Insider"
-      },
-      {
-        "title": "Alphabet Stock Hits a Record High on New AI Models",
-        "snippet": "",
-        "url": "https://www.barrons.com/articles/google-alphabet-stock-price-record-high-gemini-2-76e97f1e",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1t0iyu5GdMQ_wUdDelAIfzBrNVQjAg9GU7T4fIiCHZWMd-TaDHkzy0MqueQ",
-        "source": "Barron's"
-      }
-    ]
-  },
-  {
-    "title": "koora",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsqCaxg8q_gy5MHJQAO6O1s1FQTucjUKTfvtYOUVvUzD5B0nMwnsLOUi3Byew",
-    "picture_source": "كووورة: الموقع العربي الرياضي الأول",
-    "news_items": [
-      {
-        "title": "نبأ سار لأنشيلوتي قبل نهائي إنتركونتيننتال",
-        "snippet": "",
-        "url": "https://www.kooora.com/?n=1374404",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsqCaxg8q_gy5MHJQAO6O1s1FQTucjUKTfvtYOUVvUzD5B0nMwnsLOUi3Byew",
-        "source": "كووورة: الموقع العربي الرياضي الأول"
-      },
-      {
-        "title": "برعاية كامافينجا.. خبر سار لجماهير ريال مدريد..!!",
-        "snippet": "",
-        "url": "https://hihi2.com/2024/12/12/p2977726.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkefVF6ygqGSm9wht5UWooD7HA6COlx9bFOy3AWLaHPHK22RaBjc9YiWjrZE",
-        "source": "هاي كورة"
-      },
-      {
-        "title": "ماركا: ريال مدريد يستعيد لاعبه المصاب في نهائي إنتركونتيننتال",
-        "snippet": "",
-        "url": "https://www.btolat.com/news/359327",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7xzLuN5g4MINTh87f1de5srAM2sdZaAXl0wFyB013QlagVwRwnt39ojkeGZc",
-        "source": "بطولات"
-      }
-    ]
-  },
-  {
-    "title": "ترتيبات دوري أبطال أوروبا",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeI8rWfsg2UIG8OTU8Eg_KePddBrBjx9b4Ny5ze3NGwQr4JI74St8W3-YaBZo",
-    "picture_source": "كووورة: الموقع العربي الرياضي الأول",
-    "news_items": [
-      {
-        "title": "ليفركوزن يحلم بمواصلة الانتصارات بعد الفوز على إنتر",
-        "snippet": "",
-        "url": "https://www.kooora.com/?n=1374163&o=n26971",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeI8rWfsg2UIG8OTU8Eg_KePddBrBjx9b4Ny5ze3NGwQr4JI74St8W3-YaBZo",
-        "source": "كووورة: الموقع العربي الرياضي الأول"
-      },
-      {
-        "title": "نهاية الشوط الاول.. تعادل سلبي بين باير ليفركوزن وانتر ميلان",
-        "snippet": "",
-        "url": "https://hihi2.com/2024/12/10/p2975535.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOp3X_j2mzacgWteycKd7YrgwxqmhJcTL9D_OETzpQR6PyBheuhqTdtn9zoLA",
-        "source": "هاي كورة"
-      },
-      {
-        "title": "ليفركوزن يُسقط إنتر في اللحظات الأخيرة",
-        "snippet": "",
-        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D9%84%D9%8A%D9%81%D8%B1%D9%83%D9%88%D8%B2%D9%86-%D9%8A-%D8%B3%D9%82%D8%B7-%D8%A5%D9%86%D8%AA%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-2024-12-10",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJrjSsUrSbtXqp015m9aSz6Tkh4pBJTu9RD1LV2ouMSRuO59j_V_WqAZRsSQ",
-        "source": "beIN SPORTS"
-      }
-    ]
-  },
-  {
-    "title": "كورة",
-    "link": "https://trends.google.com/trending/rss?geo=MA",
-    "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPzaK5CNHqmgI4T9r65j3T5W8OWc0fmNUXeFox5InoxKVhKGAW5cNgmqs6FF4",
-    "picture_source": "هاي كورة",
-    "news_items": [
-      {
-        "title": "رسالة ساخرة من فريشيا إثر فوز برشلونة على دورتموند",
-        "snippet": "",
-        "url": "https://hihi2.com/2024/12/12/p2977876.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPzaK5CNHqmgI4T9r65j3T5W8OWc0fmNUXeFox5InoxKVhKGAW5cNgmqs6FF4",
-        "source": "هاي كورة"
-      },
-      {
-        "title": "بعد فوز برشلونة … الإعلام الكتالوني يسخر من ريال مدريد!",
-        "snippet": "",
-        "url": "https://www.akhbarak.net/news/details/46777975/3/%D8%A8%D8%B9%D8%AF-%D9%81%D9%88%D8%B2-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-8230-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D9%84%D9%88%D9%86%D9%8A-%D9%8A%D8%B3%D8%AE%D8%B1-%D9%85%D9%86-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLcBU3QTx7-SM0L5bAw0q5Tw9aR7pbYqjInaxeBzucGv9MmboICQdZOuCFbgU",
-        "source": "اخبارك نت"
-      },
-      {
-        "title": "رسالة ساخرة من فريشيا إثر فوز برشلونة على دورتموند",
-        "snippet": "",
-        "url": "https://news.kol7asry.com/uncategorized/98075/%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%B3%D8%A7%D8%AE%D8%B1%D8%A9-%D9%85%D9%86-%D9%81%D8%B1%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A5%D8%AB%D8%B1-%D9%81%D9%88%D8%B2-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1Fck7DUWrRJLu46rY35XdOKNAKMCDJVw-CxycJGv-JczSmPItQv5VB0VadUE",
-        "source": "بوابة كل حصري"
-      }
-    ]
-  }
-]
+{
+  "Goal 1 Rating": "yellow",
+  "Goal 2 Rating": "orange",
+  "Goal 3 Rating": "red",
+  "Goal 4 Rating": "orange",
+  "Goal 5 Rating": "red",
+  "Goal 6 Rating": "orange",
+  "Goal 7 Rating": "red",
+  "Goal 8 Rating": "red",
+  "Goal 9 Rating": "orange",
+  "Goal 10 Rating": "orange",
+  "Goal 11 Rating": "orange",
+  "Goal 12 Rating": "yellow",
+  "Goal 13 Rating": "yellow",
+  "Goal 14 Rating": "red",
+  "Goal 15 Rating": "red",
+  "Goal 16 Rating": "red",
+  "Goal 17 Rating": "yellow",
+  "Goal 1 Score": 91.642,
+  "Goal 2 Score": 62.176,
+  "Goal 3 Score": 72.5047857142857,
+  "Goal 4 Score": 82.45625,
+  "Goal 5 Score": 42.90625,
+  "Goal 6 Score": 62.4074,
+  "Goal 7 Score": 69.86675,
+  "Goal 8 Score": 69.7172857142857,
+  "Goal 9 Score": 59.3034285714286,
+  "Goal 10 Score": 53.9425,
+  "Goal 11 Score": 81.41175,
+  "Goal 12 Score": 90.1771428571429,
+  "Goal 13 Score": 94.74,
+  "Goal 14 Score": 71.526,
+  "Goal 15 Score": 69.529,
+  "Goal 16 Score": 59.7629,
+  "Goal 17 Score": 70.391
+}
