@@ -1,125 +1,94 @@
 [
   {
-    "title": "delfi",
+    "title": "grenlande",
     "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Fri, 13 Dec 2024 21:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIPBj8imMfy-5DK3cu8OC06j-nD2_i3-mzdyL5HYDON1xnzt5OEEh7hT5O0Cg",
-    "picture_source": "DELFI",
+    "pubdate": "Tue, 7 Jan 2025 22:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlbYvcJTwBv8OJ5To5scDNALDh4ZhzoDLBkM7qNiNGdGBS9wI1qGPcr_jVJUA",
+    "picture_source": "Jauns.lv",
     "news_items": [
       {
-        "title": "Krievijā sadedzināts Su-30 un trīs lokomotīves",
+        "title": "Rinkēvičs: ceru, ka Tramps nedomā nopietni uzbrukt Kanādai un atņemt Dānijai Grenlandi",
         "snippet": "",
-        "url": "https://www.delfi.lv/46713439/arzemes/120054214/krievija-sadedzinats-su-30-un-tris-lokomotives",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIPBj8imMfy-5DK3cu8OC06j-nD2_i3-mzdyL5HYDON1xnzt5OEEh7hT5O0Cg",
-        "source": "DELFI"
-      },
-      {
-        "title": "\"Padariet Krieviju atkal mazu\" – Lietuvas sportisti izslēdz no čempionāta par uzrakstu uz krekla",
-        "snippet": "",
-        "url": "https://www.delfi.lv/sports/19493909/other/120054183/padariet-krieviju-atkal-mazu-lietuvas-sportisti-izsledz-no-cempionata-par-uzrakstu-uz-krekla",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzSGHwALjImIQW6M-SXfSFTc0MmWDmnQS0t7XqzADTK65OjJsrKmPbaQu0U2c",
-        "source": "DELFI"
-      },
-      {
-        "title": "\"Pabaroja – un uzbrukumā\": GUR ziņo par ziemeļkorejiešu gatavību kaujai; Kijiva mudina padoties",
-        "snippet": "",
-        "url": "https://www.delfi.lv/46713439/arzemes/120054180/pabaroja-un-uzbrukuma-gur-zino-par-ziemelkorejiesu-gatavibu-kaujai-kijiva-mudina-padoties",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1lwMDRYp1rV-I9iKscO3AcgmhsDo5FnSDoHNzPW1jzwvlVtgInpGi3uAdA5Y",
-        "source": "DELFI"
-      }
-    ]
-  },
-  {
-    "title": "rigas satiksme",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Fri, 13 Dec 2024 19:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRYBa3zuoQcY2wnVC6NuqOL6T_0QzCEdnfIXdawOfWzKpArLoqcEQsxq2Nn8M",
-    "picture_source": "Apollo.lv",
-    "news_items": [
-      {
-        "title": "Kā nepalaist garām braucienu Rīgas Ziemassvētku tramvajā?",
-        "snippet": "",
-        "url": "https://www.apollo.lv/8152908/ka-nepalaist-garam-braucienu-rigas-ziemassvetku-tramvaja",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRYBa3zuoQcY2wnVC6NuqOL6T_0QzCEdnfIXdawOfWzKpArLoqcEQsxq2Nn8M",
-        "source": "Apollo.lv"
-      },
-      {
-        "title": "Elektroapgādes izbūves darbu laikā līdz 21. decembrim ierobežota satiksme Rīgas ielas posmā",
-        "snippet": "",
-        "url": "https://www.jelgava.lv/jaunumi/elektroapgades-izbuves-darbu-laika-lidz-21-decembrim-ierobezota-satiksme-rigas-ielas-posma/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXEXaDpV2Jiq0oovU3NMf81o6sh1_bEoJVe2DH6h4Jaxy-wLcfaAlYXGUxaQ",
-        "source": "Jelgava"
-      },
-      {
-        "title": "Līdz 21. decembrim ierobežota gājēju kustība Rīgas ielas posmā",
-        "snippet": "",
-        "url": "https://zz.lv/lidz-21-decembrim-ierobezota-gajeju-kustiba-rigas-ielas-posma/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nnVFSpFDev4oHiWsvIgpcG45RahWEqqgehkrToioS3w7g1HZ9b5thBKG65Q",
-        "source": "ZZ.lv"
-      }
-    ]
-  },
-  {
-    "title": "dod pieci",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Fri, 13 Dec 2024 10:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXKQd5u6sbAICFypKzWTc5eH030ZghD0L1k2EycSgS7DcHK8SxjfVhS7EVHk",
-    "picture_source": "LSM",
-    "news_items": [
-      {
-        "title": "Labdarības maratons «Dod pieci!» ir sācies! Stikla studijā uz 144 stundām ieslēdz trīs dīdžejus",
-        "snippet": "",
-        "url": "https://www.lsm.lv/raksts/zinas/latvija/13.12.2024-labdaribas-maratons-dod-pieci-ir-sacies-stikla-studija-uz-144-stundam-iesledz-tris-didzejus.a579222/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXKQd5u6sbAICFypKzWTc5eH030ZghD0L1k2EycSgS7DcHK8SxjfVhS7EVHk",
-        "source": "LSM"
-      },
-      {
-        "title": "“Es nevarēju runāt, elpot” - jaunā aktrise Elvita Ragovska ārstējas un aizkustināta saka paldies ziedotājiem",
-        "snippet": "",
-        "url": "https://jauns.lv/raksts/par-veselibu/633300-es-nevareju-runat-elpot-jauna-aktrise-elvita-ragovska-arstejas-un-aizkustinata-saka-paldies-ziedotajiem",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyB4Oh6kmxmm0LL_Y8LVExMoD79GYmcbknCx0sqs8q8mp8wZr2Ts7-3VNf0IM",
+        "url": "https://jauns.lv/raksts/zinas/636335-rinkevics-ceru-ka-tramps-nedoma-nopietni-uzbrukt-kanadai-un-atnemt-danijai-grenlandi",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlbYvcJTwBv8OJ5To5scDNALDh4ZhzoDLBkM7qNiNGdGBS9wI1qGPcr_jVJUA",
         "source": "Jauns.lv"
       },
       {
-        "title": "Nākamnedēļ ar koncertu atklās labdarības maratonu \"Dod pieci!\"",
+        "title": "Tramps atdzīvina ASV sapni par Grenlandi",
         "snippet": "",
-        "url": "https://nra.lv/latvija/riga/476578-nakamnedel-ar-koncertu-atklas-labdaribas-maratonu-dod-pieci.htm",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_TYdO5SphzXKVOHg9A8-IGEutFyQ8QCaYgv834bbXho8ixAMLTTH3cwCv6ko",
-        "source": "NRA"
+        "url": "https://www.tvnet.lv/8168060/tramps-atdzivina-asv-sapni-par-grenlandi",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4QHQGf8V20khyWi3y-gEn_7VbQjE2penHnjP8wP1sqCl-ntIlleuZWnfz5fY",
+        "source": "TVNET"
+      },
+      {
+        "title": "Trampa neprognozējamība sāk izpausties: NATO dalībvalstīm aizsardzības izdevumi jāpalielina līdz 5% no IKP",
+        "snippet": "",
+        "url": "https://www.la.lv/trampa-neprognozejamiba-sak-izpausties-nato-dalibvalstim-aizsardzibas-izdevumi-japalielina-lidz-5-no-ikp",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQBf2WuGEqV2pgIH2z1LQzpMMSLEaJuct5cZU7_GrNIHICkkqYu943-BgFn0",
+        "source": "LA.LV"
       }
     ]
   },
   {
-    "title": "tv6",
+    "title": "nba",
     "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Fri, 13 Dec 2024 09:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenoCxjeYFq3Dld6D-xoghpNH2_UuvPKXU6UA4gcEOT73aYj2gsyEAmXOoKM",
-    "picture_source": "Upper Michigan's Source",
+    "pubdate": "Tue, 7 Jan 2025 19:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiLjSrK7v21M6-KCTcyO7LiyqXk7SPzAlsq_Qc0RxxeZllAIJO3COlo7Btnl8",
+    "picture_source": "The New York Times",
     "news_items": [
       {
-        "title": "Man accused of taking payments for saunas and not delivering waives preliminary exam with ‘unusual’ stipulation",
+        "title": "Tonight’s best game of the NBA season, plus more NFL coaching carousel news - The Athletic",
         "snippet": "",
-        "url": "https://www.uppermichiganssource.com/2024/12/13/michael-sivula-waives-preliminary-exam-with-unusual-stipulation/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenoCxjeYFq3Dld6D-xoghpNH2_UuvPKXU6UA4gcEOT73aYj2gsyEAmXOoKM",
-        "source": "Upper Michigan's Source"
+        "url": "https://www.nytimes.com/athletic/6044783/2025/01/08/cavaliers-thunder-finals-matchup-the-pulse/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiLjSrK7v21M6-KCTcyO7LiyqXk7SPzAlsq_Qc0RxxeZllAIJO3COlo7Btnl8",
+        "source": "The New York Times"
       },
       {
-        "title": "Ishpeming City Council offers city manager job to Randy Scholz",
+        "title": "Starting 5, Jan. 8: Tonight: Cavs-Thunder, a one-of-a-kind matchup",
         "snippet": "",
-        "url": "https://www.uppermichiganssource.com/2024/12/13/ishpeming-city-council-offers-city-manager-job-randy-scholz/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZptrGnzN5mw8sXWC5e0gf2OLTANnTKKODCSMp5JwV5xS_4FQVGXShRrqdjBU",
-        "source": "Upper Michigan's Source"
+        "url": "https://www.nba.com/news/starting-5-jan-8-tonight-cavs-thunder-a-one-of-a-kind-matchup",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSvVyq-NTMvrGS4ZJdCZRaeKrD3y1WKVbsLxaBdVI-KYtiscE9CczqFP-VH2U",
+        "source": "NBA.Com"
       },
       {
-        "title": "Number of candidates for Ishpeming City Manager position narrowed down to two",
+        "title": "An Ode to the Revolution",
         "snippet": "",
-        "url": "https://www.wnmufm.org/government/2024-12-09/number-of-candidates-for-ishpeming-city-manager-position-narrowed-down-to-two",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiuXI2ogzeUVXz_4uc4gtPBYmKRnINYKachnMNp14QvUNljfo-Dx0zRY6Pmgc",
-        "source": "WNMU-FM"
+        "url": "https://www.footboom1.com/en/news/basketball/2273774-an-ode-to-the-revolution",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6Ew9DHSqnhWROgHZhvyeJXtl2dzll-vQRFwHud_wb6UyhbDQaGAqScaGV1gc",
+        "source": "FootBoom"
+      }
+    ]
+  },
+  {
+    "title": "weather",
+    "link": "https://trends.google.com/trending/rss?geo=LV",
+    "pubdate": "Tue, 7 Jan 2025 20:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YUPCbmY5LmgErnplonQpMM_r8Q5XX69_GvtsBkMELoH8RAw-G1jPncEHYCo",
+    "picture_source": "The Washington Post",
+    "news_items": [
+      {
+        "title": "It may snow some Saturday in D.C. area, but chances for a big storm are small",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2025/01/07/dc-snow-forecast-gulf-storm/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YUPCbmY5LmgErnplonQpMM_r8Q5XX69_GvtsBkMELoH8RAw-G1jPncEHYCo",
+        "source": "The Washington Post"
+      },
+      {
+        "title": "Trump inauguration: Can Washington handle two weeks of high-security pomp along with heavy burst of snow?",
+        "snippet": "",
+        "url": "https://www.hindustantimes.com/world-news/us-news/trump-inauguration-can-washington-handle-two-weeks-of-high-security-pomp-along-with-heavy-burst-of-snow-101736243108655.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKnP3daN3y62tT5NWZAo0cXY-LQF5qiT7J1tqGnkxmTeUfi98YsB8dGnPGXJk",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "NOAA Satellites Provided Crucial Data During Recent Mid-Atlantic Winter Storm",
+        "snippet": "",
+        "url": "https://www.nesdis.noaa.gov/news/noaa-satellites-provided-crucial-data-during-recent-mid-atlantic-winter-storm",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTJLhTZCgkwzp19pfDmcJTtVs-195LcCp6J0AYSxk5Bg3kQh5o0BNzKaxAtzE",
+        "source": "National Environmental Satellite, Data, and Information Service (.gov)"
       }
     ]
   }

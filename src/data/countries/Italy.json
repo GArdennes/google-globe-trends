@@ -1,289 +1,311 @@
 [
   {
-    "title": "arsenal - everton",
+    "title": "daniele raineri",
     "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
+    "pubdate": "Wed, 8 Jan 2025 07:30:00 -0800",
+    "approx_traffic": 200000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS56CNNwX2iRMt-e3fIHdtvQaeBbzn8LLVxg5Ny904k4AB1oCpshXul41zOaxk",
+    "picture_source": "RaiNews",
+    "news_items": [
+      {
+        "title": "Cecilia Sala è libera, atterrata alle 16.15 a Ciampino. Aggiornamenti in diretta - Il compagno di Cecilia: \"In questa storia due protagoniste: Sala e Meloni'",
+        "snippet": "",
+        "url": "https://www.rainews.it/maratona/2025/01/cecilia-sala-e-libera-il-ritorno-in-italia-aggiornamenti-in-tempo-reale-bdfa5f8e-4ad9-4dba-8c03-3a7e28d3c24a.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS56CNNwX2iRMt-e3fIHdtvQaeBbzn8LLVxg5Ny904k4AB1oCpshXul41zOaxk",
+        "source": "RaiNews"
+      },
+      {
+        "title": "Meloni a Sala, 'ora devi stare serena, sei stata forte'",
+        "snippet": "",
+        "url": "https://www.ansa.it/sito/notizie/politica/2025/01/08/meloni-a-sala-ora-devi-stare-serena-sei-stata-forte_69853c12-62aa-4d8b-b44b-6da89e5cbac5.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNPbJp8v1nPOvCxSiqq2MdTo1jNKWN-yI31LVbyZM197qrwseRdtizgC3F2g",
+        "source": "ANSA"
+      },
+      {
+        "title": "Cecilia Sala, come è stata liberata? ​Il ruolo dell'Aise, la contropartita, l'apertura di Trump, la rete con T",
+        "snippet": "",
+        "url": "https://www.ilmessaggero.it/schede/cecilia_sala_come_e_stata_liberata_cosa_ha_dato_italia_aise_meloni_trump_iran-8581088.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPWi0pUrGrNb62iJCmBSCjAVyecau2ttz-OEFE-PahIm6aF1UfiIzoHZl1Dog",
+        "source": "Il Messaggero"
+      }
+    ]
+  },
+  {
+    "title": "il paradiso delle signore",
+    "link": "https://trends.google.com/trending/rss?geo=IT",
+    "pubdate": "Wed, 8 Jan 2025 07:00:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGBqD34Y-A_6dDLGuIpx-IxnhLW1QKiHoxbeTl_2RMT9Y9eUAVm0XXIjQYfg",
+    "picture_source": "La Gazzetta dello Sport",
+    "news_items": [
+      {
+        "title": "Il Paradiso delle Signore, le anticipazioni delle puntate dal 7 al 10 gennaio",
+        "snippet": "",
+        "url": "https://www.gazzetta.it/tv/storie/06-01-2025/il-paradiso-delle-signore-anticipazioni-puntate-dal-7-al-10-gennaio-2025/non-in-onda.shtml",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGBqD34Y-A_6dDLGuIpx-IxnhLW1QKiHoxbeTl_2RMT9Y9eUAVm0XXIjQYfg",
+        "source": "La Gazzetta dello Sport"
+      },
+      {
+        "title": "Il Paradiso delle Signore, anticipazioni: chi è la nuova protagonista Lea Graziani",
+        "snippet": "",
+        "url": "https://www.felicitapubblica.it/il-paradiso-delle-signore-anticipazioni-chi-e-la-nuova-protagonista-lea-graziani/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkC4B-A8jpxC7cSbTPhLIIFi-L_RKrxPjwylBcY7Y004NUqmtIGTXmtATNbY0",
+        "source": "Felicità Pubblica"
+      },
+      {
+        "title": "Il Paradiso delle Signore, arriva una cartomante e scoppia il caos: Rosa choccata dalla previsione su Tancredi",
+        "snippet": "",
+        "url": "https://www.libero.it/magazine/news/anticipazioni-il-paradiso-delle-signore-settimana-6-10-gennaio-2025-146900",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkwngUrEifb5PFeaad1JBrG-_WO56_YmXyFlVLMlpCenQQxuBladohdWOmrsE",
+        "source": "Libero"
+      }
+    ]
+  },
+  {
+    "title": "unicredit banco bpm",
+    "link": "https://trends.google.com/trending/rss?geo=IT",
+    "pubdate": "Wed, 8 Jan 2025 08:30:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdvlYm1onVQxh2nypBzsNBWscYkxPT5wIvJAAZmXajMFu67CsQuYJiQfGhas8",
+    "picture_source": "Borsa Italiana",
+    "news_items": [
+      {
+        "title": "Banco BPM presenta esposto ad Antitrust contro offerta Unicredit",
+        "snippet": "",
+        "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/banco-bpm-presenta-esposto-ad-antitrust-contro-offerta-unicredit-83_2025-01-08_TLB.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdvlYm1onVQxh2nypBzsNBWscYkxPT5wIvJAAZmXajMFu67CsQuYJiQfGhas8",
+        "source": "Borsa Italiana"
+      },
+      {
+        "title": "Il risiko punta davvero a creare banche più efficienti?",
+        "snippet": "",
+        "url": "https://www.milanofinanza.it/news/il-risiko-punta-davvero-a-creare-banche-piu-efficienti-202501081814548536",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkCx7iuyTvmxVHAfy5nU0cTF6-FGYTEnWC78kFMCjfuLfrK7QH7UmoWQvbsH4",
+        "source": "Milano Finanza"
+      },
+      {
+        "title": "Banco Bpm, Unicredit si prepara all'Ops anche senza il risparmio di Anima",
+        "snippet": "",
+        "url": "https://www.corriere.it/economia/finanza/25_gennaio_08/banco-bpm-unicredit-si-prepara-all-ops-anche-senza-il-risparmio-di-anima-a681ea39-1772-4d5d-998f-305cfa1c5xlk.shtml",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjefCJprNKZquT0GEv3OillhH-mmmKxgDsIgg7Fxj-TCIX284S_lMMOcFqkOU",
+        "source": "Corriere della Sera"
+      }
+    ]
+  },
+  {
+    "title": "post",
+    "link": "https://trends.google.com/trending/rss?geo=IT",
+    "pubdate": "Wed, 8 Jan 2025 07:20:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSp448LzLHYzw_ocNI0NF4lQvByWUAB38imEOoE9Rjabvfm0XXihPXVcgoUJU",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Premier League Arsenal versus Everton kick off 15:00 Sat 14 Dec 2024",
+        "title": "Bezos-owned Washington Post cuts more jobs",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c047zvkyd10t",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
+        "url": "https://www.bbc.com/news/articles/c623ppl5d8ro",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSp448LzLHYzw_ocNI0NF4lQvByWUAB38imEOoE9Rjabvfm0XXihPXVcgoUJU",
         "source": "BBC"
       },
       {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
+        "title": "Washington Post restructures PR division amid layoffs",
         "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-        "source": "Arsenal.com"
+        "url": "https://www.prweek.com/article/1901617/washington-post-restructures-pr-division-amid-layoffs",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-JG-BOHBbimETGIFAHoY9p9q-c_N5UcuECl-RwTghYzbWcUmSDpJ6GVAjRA",
+        "source": "PR Week"
       },
       {
-        "title": "Should Arsenal rest either Thomas Partey or Jurrien Timber against Everton?",
+        "title": "Washington Post Lays Off 4% of Workforce Following Reader Exodus over Harris Non-Endorsement",
         "snippet": "",
-        "url": "https://onefootball.com/fr/news/should-arsenal-rest-either-thomas-partey-or-jurrien-timber-against-everton-40437732",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvWSPc_-bl0AblbfZftFMbNUvJ4y2BSCQgyOczhzX-qZvwHOph8It7iKd1evY",
-        "source": "OneFootball"
+        "url": "https://www.democracynow.org/2025/1/8/headlines/washington_post_lays_off_4_of_workforce_following_reader_exodus_over_harris_non_endorsement",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRobS5uqO9d_g61cIl4jNoRtb1LrWcglEzggvIKmU1J3ry3hsEmsp0z44n5iQ0",
+        "source": "Democracy Now!"
       }
     ]
   },
   {
-    "title": "liverpool - fulham",
+    "title": "galatasaray - istanbul başakşehir",
     "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS_BTkMQCjguhSGqGDthQ5UuFNCnqs4wfPOSAViwYPr1zKVFER9c281-RDaOE",
-    "picture_source": "OneFootball",
+    "pubdate": "Wed, 8 Jan 2025 08:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1OmBfSVp08C7foQ4TtMRgMzpTQuO2GAJydvPzbWjCUG2-FzEDNLTx8JmOGVk",
+    "picture_source": "Settecalcio.it il portale del calcio dilettantistico umbro",
     "news_items": [
       {
-        "title": "“They’re in Great Form” – Alan Shearer Previews Liverpool’s Premier League Clash with Fulham",
+        "title": "COPPA DI TURCHIA Galatasaray-Istanbul: Ultime e pronostico",
         "snippet": "",
-        "url": "https://onefootball.com/es/noticias/theyre-in-great-form-alan-shearer-previews-liverpools-premier-league-clash-with-fulham-40437623",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS_BTkMQCjguhSGqGDthQ5UuFNCnqs4wfPOSAViwYPr1zKVFER9c281-RDaOE",
-        "source": "OneFootball"
+        "url": "https://www.settecalcio.it/2025/01/07/coppa-di-turchia-galatasaray-istanbul-ultime-e-pronostico-029074/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1OmBfSVp08C7foQ4TtMRgMzpTQuO2GAJydvPzbWjCUG2-FzEDNLTx8JmOGVk",
+        "source": "Settecalcio.it il portale del calcio dilettantistico umbro"
       },
       {
-        "title": "The five Fulham players set to miss Liverpool clash as key defensive duo ruled out",
+        "title": "Galatasaray-Basaksehir, da Arda Turan a Buruk: i doppi ex del derby di Coppa",
         "snippet": "",
-        "url": "https://www.rousingthekop.com/2024/12/14/the-five-fulham-players-set-to-miss-liverpool-clash-as-key-defensive-duo-ruled-out/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDRHKSMvV-LPZOR5hjjDe7-9zrRO821AMv4rntzS4pm4yG3jTfvjsngTZIHw",
-        "source": "Rousing The Kop"
+        "url": "https://www.derbyderbyderby.it/ddd/il-derby-racconta/galatasaray-basaksehir-da-arda-turan-a-buruk-i-doppi-ex-del-derby-di-coppa/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJsuy1s6hcMdnEyk8v86Cr4ZBVfPafTLAAVbkmGcV2IIQJtzyM2dIQO436SXA",
+        "source": "DerbyDerbyDerby"
       },
       {
-        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
+        "title": "Coppa di Turchia 2024-2025: Galatasaray-Basaksehir, le probabili formazioni",
         "snippet": "",
-        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
-        "source": "Liverpool FC"
+        "url": "https://www.sportal.it/calcio/coppa-di-turchia-2024-2025-galatasaray-basaksehir-le-probabili-formazioni.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0IOqzhylCQg-g7t0oDstS1ARW2qMYb4BQCwRSjEK1Ej7ClsIovmgfE2wqAU",
+        "source": "Sportal.it"
       }
     ]
   },
   {
-    "title": "mainz - bayern monaco",
+    "title": "damiano david",
     "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "novara - triestina",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp9u7Ud0hwpKiRfc_mAEvtPsoIAIZgIcUXWTUB1uA2EwPipKwuThWSpwI5iDk",
-    "picture_source": "La Stampa",
+    "pubdate": "Wed, 8 Jan 2025 08:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTIYjaTBbvtFC6BHZPk8SUtmgjmOfJ3ppifypeFBCYPyOTdsDSP-2wn8qCdWI",
+    "picture_source": "Corriere della Sera",
     "news_items": [
       {
-        "title": "Calcio, serie C: per il Novara al Piola c’è la Triestina dell’ex Tesser",
+        "title": "Damiano David compie 26 anni: ha un fratello più grande, il passato da cestista, i tatuaggi, 7 segreti",
         "snippet": "",
-        "url": "https://www.lastampa.it/novara/2024/12/14/news/calcio_serie_c_per_il_novara_al_piola_c_e_la_triestina_dell_ex_tesser-14885029/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp9u7Ud0hwpKiRfc_mAEvtPsoIAIZgIcUXWTUB1uA2EwPipKwuThWSpwI5iDk",
-        "source": "La Stampa"
-      },
-      {
-        "title": "La Triestina a Novara cerca altri punti",
-        "snippet": "",
-        "url": "https://www.rainews.it/tgr/fvg/articoli/2024/12/la-triestina-a-novara-cerca-altri-punti-65fead83-e20f-49c4-b59c-9e84241b97a6.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThce4iUQa3MPvGUR4B1BCdn_omWbvgKekD2lNPBMqW4Ds_Sq6u0p3_P0Qj3pU",
-        "source": "RaiNews"
-      },
-      {
-        "title": "Tesser verso il Novara: \"Serve lo spirito visto con il Vicenza\"",
-        "snippet": "",
-        "url": "https://www.citysport.news/it/notizie/triestina/tesser-verso-il-novara-quot-serve-lo-spirito-visto-con-il-vicenza-quot.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEyoJuUEnPHJr8tmyA_NH-ggLWO23UFyr-h34HZ2CRZQ8jn_RAs91xfnXNjbY",
-        "source": "Citysport.news"
-      }
-    ]
-  },
-  {
-    "title": "turris - crotone",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlxWv1xAgpjJzpxXdVc_5jxEppCL-B4G49FE6J5dE7Vv8RB-aDLj1X6F0G3OI",
-    "picture_source": "Gazzetta del Sud",
-    "news_items": [
-      {
-        "title": "Il Crotone nella tana della Turris. Da valutare Tumminello e Gomez",
-        "snippet": "",
-        "url": "https://catanzaro.gazzettadelsud.it/articoli/calcio/2024/12/13/il-crotone-nella-tana-della-turris-da-valutare-tumminello-e-gomez-07558837-4571-44d9-bb61-2da7c9206dac/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlxWv1xAgpjJzpxXdVc_5jxEppCL-B4G49FE6J5dE7Vv8RB-aDLj1X6F0G3OI",
-        "source": "Gazzetta del Sud"
-      },
-      {
-        "title": "VIDEO | SERIE C, Turris- Crotone, Longo: \"Dobbiamo rialzarci e dimostrare la nostra forza\"",
-        "snippet": "",
-        "url": "https://wesud.it/video-serie-c-turris-crotone-longo-dobbiamo-rialzarci-e-dimostrare-la-nostra-forza/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkb1kIuCp11vvyK3I7DRVKJBN_qB-BDLdQa3sLHlcwEld7eaeK_kdK54UAUu0",
-        "source": "WeSud"
-      },
-      {
-        "title": "Crotone, Longo: «Con la Turris partita surreale, isoliamoci per non cadere della loro trappola»",
-        "snippet": "",
-        "url": "https://www.corrieredellacalabria.it/2024/12/13/crotone-longo-con-la-turris-partita-surreale-isoliamoci-per-non-cadere-della-loro-trappola/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPd_4sCxzIb1FOQrem8N3iQzK9oiYkG5W4spOZ_R1EHoeiVqAm3JXFnwZgl0",
-        "source": "Corriere della Calabria"
-      }
-    ]
-  },
-  {
-    "title": "salvatore bagni",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF5tFK5l7dOCCv8oV4ivC3utsWSxuf86TshcWt_HfuHd6B-roRQwuglx7MDso",
-    "picture_source": "HuffPost Italia",
-    "news_items": [
-      {
-        "title": "Salvatore Bagni: \"Dopo la morte di mio figlio mi feci sterilizzare. Andai da chi trafugò la salma col giubbotto antiproiettile\"",
-        "snippet": "",
-        "url": "https://www.huffingtonpost.it/life/2024/12/14/news/salvatore_bagni_dopo_la_morte_di_mio_figlio_mi_feci_sterilizzare_andai_da_chi_trafugo_la_salma_col_giubbotto_antiproietti-17997332/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF5tFK5l7dOCCv8oV4ivC3utsWSxuf86TshcWt_HfuHd6B-roRQwuglx7MDso",
-        "source": "HuffPost Italia"
-      },
-      {
-        "title": "Salvatore Bagni: «Dopo la morte di mio figlio mi feci sterilizzare. Rubarono la bara, andai dai sequestratori col giubbotto antiproiettile»",
-        "snippet": "",
-        "url": "https://www.corriere.it/sport/calcio/24_dicembre_14/salvatore-bagni-intervista-e072199a-95d8-4dbd-99bc-7d555eefexlk.shtml",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEewkedtgW7fug7F0fc7YrxaiDFcJxMqSD0euVLObj_7Tak5NtZfLYTiMl0UA",
+        "url": "https://www.corriere.it/spettacoli/cards/damiano-david-compie-26-anni-ha-un-fratello-piu-grande-il-passato-da-cestista-i-tatuaggi-7-segreti/famiglia_principale.shtml",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTIYjaTBbvtFC6BHZPk8SUtmgjmOfJ3ppifypeFBCYPyOTdsDSP-2wn8qCdWI",
         "source": "Corriere della Sera"
       },
       {
-        "title": "Bagni: “Dopo la morte di mio figlio mi feci sterilizzare. Rubarono la bara e io…”",
+        "title": "Buon compleanno Damiano David, 26 anni con stile, dai grandi classici al look “definitivo”",
         "snippet": "",
-        "url": "https://www.golssip.it/news/bagni-morte-figlio-raffaele-bara-riscatto/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8OnT-D7MpiHhkpUc04xsIJjbHX7ddvCkiTwA6cPE8oea3ZxvAGXAztDwy1_Q",
-        "source": "Golssip"
-      }
-    ]
-  },
-  {
-    "title": "presidente georgia",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReWEoGaF9GeHNsJ6ehOwqWjAWrSBU7y_dA6kS3sdydtme--PxUkGQLFkvXQqw",
-    "picture_source": "Il Post",
-    "news_items": [
-      {
-        "title": "In Georgia c’è un nuovo presidente della Repubblica, tra molte proteste",
-        "snippet": "",
-        "url": "https://www.ilpost.it/2024/12/14/elezione-presidente-georgia-proteste/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReWEoGaF9GeHNsJ6ehOwqWjAWrSBU7y_dA6kS3sdydtme--PxUkGQLFkvXQqw",
-        "source": "Il Post"
-      },
-      {
-        "title": "Georgia, l'ex calciatore Mikhail Kavelashvili eletto presidente",
-        "snippet": "",
-        "url": "https://tg24.sky.it/mondo/2024/12/14/georgia-calciatore-kavelashvili-presidente",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxUUFmteO32W9OaBrdcJewtesjW308ZX-KXdVGdrRSYh2WAbOLUotnefPfZjg",
-        "source": "Sky TG24"
-      },
-      {
-        "title": "Eletto nuovo presidente dell'estrema destra. La presidente in carica denuncia: 'Voto illegittimo'",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2024/12/14/eletto-nuovo-presidente-dellestrema-destra.-la-presidente-in-carica-denuncia-voto-illegittimo_6823bf32-cc1c-4111-aaf3-18e80a7c4978.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQy10XoaExKasb7t7Q6yVTJvovM6iTd9sKPxNc_e5aJ8hy0wfV48LhtVTgDuE",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "augsburg - leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-    "picture_source": "OneFootball",
-    "news_items": [
-      {
-        "title": "Adventsheimspiel",
-        "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
-        "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
-      },
-      {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
-        "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
-      }
-    ]
-  },
-  {
-    "title": "chiara mastroianni",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScOH7clJUStweSYBYObrYHzMxBUFRJmbg-CTFRT8maH_yPuXXH19FVrxMK47c",
-    "picture_source": "Il Sole 24 ORE",
-    "news_items": [
-      {
-        "title": "Mastroianni, l'omaggio al Moma di New York a 100 anni dalla nascita",
-        "snippet": "",
-        "url": "https://stream24.ilsole24ore.com/video/italia/mastroianni-omaggio-moma-new-york-100-anni-nascita/AGxZKjkB",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScOH7clJUStweSYBYObrYHzMxBUFRJmbg-CTFRT8maH_yPuXXH19FVrxMK47c",
-        "source": "Il Sole 24 ORE"
-      },
-      {
-        "title": "\"Il nostro Mastroianni tra cinema e tortellini\"",
-        "snippet": "",
-        "url": "https://www.ilrestodelcarlino.it/bologna/cronaca/il-nostro-mastroianni-tra-cinema-61c1b5f5",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBq0Uk3CWUnBlTxUndUBBM1evk2wap7h_UFBecKNJURpN4dEU8lDb5n1ePo90",
-        "source": "Il Resto del Carlino"
-      },
-      {
-        "title": "La dolce vita di Marcello… all’Oasi di Greccio",
-        "snippet": "",
-        "url": "https://www.ilfaroonline.it/2024/12/13/la-dolce-vita-di-marcello-alloasi-di-greccio/597754/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjwvZFm0nbQyb4r0Q23smG0HX_eJp0BG9zkkKYURlyvMMtK-trEhZgfI6-GVE",
-        "source": "IlFaroOnline"
-      }
-    ]
-  },
-  {
-    "title": "sampdoria spezia",
-    "link": "https://trends.google.com/trending/rss?geo=IT",
-    "pubdate": "Sat, 14 Dec 2024 05:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Ve4S3TzH0DrlRxtMhYyXoWZZvo9UtUWy23I-YM9j_MJQzuQ5PRQMmBnj-Os",
-    "picture_source": "la Repubblica",
-    "news_items": [
-      {
-        "title": "La Sampdoria ricomincia da tre. Che battaglia contro lo Spezia. Le mosse di Semplici",
-        "snippet": "",
-        "url": "https://genova.repubblica.it/sport/2024/12/14/news/la_sampdoria_ricomincia_da_tre_che_battaglia_contro_lo_spezia_le_mosse_di_semplici-423886028/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Ve4S3TzH0DrlRxtMhYyXoWZZvo9UtUWy23I-YM9j_MJQzuQ5PRQMmBnj-Os",
+        "url": "https://www.repubblica.it/moda-e-beauty/2025/01/08/news/buon_compleanno_damiano_david_26_anni_con_stile_dai_grandi_classici_al_look_definitivo-423920397/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu5gIZLKRs1H8W7nUngnOuio1tu7cd7OkqgCJRsXk34HdfYXDDUGtLade7nlQ",
         "source": "la Repubblica"
       },
       {
-        "title": "Derby Sampdoria-Spezia: senza tifosi, il calcio perde la sua anima",
+        "title": "Auguri a Damiano David e Manuela Arcuri (ma non solo)",
         "snippet": "",
-        "url": "https://sport.quotidiano.net/calcio/spezia/derby-sampdoria-spezia-senza-tifosi-il-0d5b3d42",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmOpLapAiODQUZ0h5lDXFrydJoQ-6YVrl38uUrv1xWSXmM4kej3GJecBlyY7E",
-        "source": "Quotidiano Sportivo"
+        "url": "https://www.oggi.it/attualita/notizie/2025/01/08/auguri-a-damiano-david-e-manuela-arcuri-ma-non-solo/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTc5pXB5XuDEU0eNKJWeu_4QRs0S25A9Q4pAaz46YF5SJ8ApQXOMRvsVFm0pq4",
+        "source": "Oggi"
+      }
+    ]
+  },
+  {
+    "title": "theo hernandez",
+    "link": "https://trends.google.com/trending/rss?geo=IT",
+    "pubdate": "Wed, 8 Jan 2025 08:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBRX2QPzielNyZlnfWSm5NkRF4X1cOHoNKP47n14VzUS2heoaLSzYcA35WeCk",
+    "picture_source": "SportMediaset",
+    "news_items": [
+      {
+        "title": "Milan-Theo Hernandez, rinnovo a un passo: sarà tra i più pagati della rosa",
+        "snippet": "",
+        "url": "https://www.sportmediaset.mediaset.it/mercato/milan/milan-theo-hernandez-rinnovo-a-un-passo-sara-tra-i-piu-pagati-della-rosa_92323983-202502k.shtml",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBRX2QPzielNyZlnfWSm5NkRF4X1cOHoNKP47n14VzUS2heoaLSzYcA35WeCk",
+        "source": "SportMediaset"
       },
       {
-        "title": "Samp-Spezia, diretta testuale live",
+        "title": "Milan, top 10 stipendi 2024/25: Theo Hernandez al top con Leao, Origi come Chukwueze e Pulisic",
         "snippet": "",
-        "url": "https://www.rainews.it/tgr/liguria/articoli/2024/12/sampdoria-spezia-derby-diretta-testuale-live-genova-marassi-14-dicembre-2024-orario-formazioni-ufficiali-tabellino-serie-b-semplici-dangelo-79215f9d-1e4b-4867-9bcc-20adb6e98b96.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRrcmMli9JN0IZjrnualjCbNX8kDDEeym2iJUi8luEp6P6E5odEJMOWoqbOGc",
-        "source": "RaiNews"
+        "url": "https://www.calciomercato.com/news/milan-top-10-stipendi-202425-theo-hernandez-al-top-con-leao-origi-come-chukwueze-e-pulisic",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaDeuPYlXiSQHOqEtYh7QpajRF-SQ2I78HJRII20BJODiN5v_zFKJyXyYgDoU",
+        "source": "CalcioMercato.com"
+      },
+      {
+        "title": "Gazzetta - Theo rinato a Riyad: ora il rinnovo. Sergio pronto a \"curare\" gli altri bisognosi",
+        "snippet": "",
+        "url": "https://www.milannews.it/primo-piano/gazzetta-theo-rinato-a-riyad-ora-il-rinnovo-sergio-pronto-a-curare-gli-altri-bisognosi-562461",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2fKvnB6kimumhR1zMo0Xc2gQyvQvy5AQG07YTs846xgDx-ERGGSB_fqiarto",
+        "source": "Milan News"
+      }
+    ]
+  },
+  {
+    "title": "garattini",
+    "link": "https://trends.google.com/trending/rss?geo=IT",
+    "pubdate": "Wed, 8 Jan 2025 08:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROjk9tGxentrk33tq22rHfXvi2cBW1KhPpiDPPWXI2Np0uASmk4L73oxttDrc",
+    "picture_source": "Corriere della Sera",
+    "news_items": [
+      {
+        "title": "Silvio Garattini: «L'ultimo antibiotico 40 anni fa. E a pranzo solo una spremuta. Ho perso le mie due mogli, ma a casa parlo ancora con loro»",
+        "snippet": "",
+        "url": "https://www.corriere.it/cronache/25_gennaio_06/silvio-garattini-intervista-cd29e34e-38fd-48eb-84b9-a5604bc98xlk.shtml",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROjk9tGxentrk33tq22rHfXvi2cBW1KhPpiDPPWXI2Np0uASmk4L73oxttDrc",
+        "source": "Corriere della Sera"
+      },
+      {
+        "title": "Silvio Garattini: \"Non dono mai bottiglie di vino, è come regalare una stecca di sigarette. Bevo birra senza alcol, è il futuro\"",
+        "snippet": "",
+        "url": "https://www.huffingtonpost.it/life/2025/01/06/news/silvio_garattini_alcol-18121225/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKs1Aq9VKe8XbMq-yifwRCSlU53WmWCdOkJirsPSiO7383t-7pw_Vg6kVtOEs",
+        "source": "HuffPost Italia"
+      },
+      {
+        "title": "“Ogni giorno 5 km di camminata veloce, a colazione solo caffè",
+        "snippet": "",
+        "url": "https://www.ilfattoquotidiano.it/2025/01/06/ogni-giorno-5-km-di-camminata-veloce-a-colazione-solo-caffe-non-prendo-un-antibiotico-da-40-anni-se-ho-la-febbre-sto-a-casa-lo-rivela-silvio-garattini/7826837/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF2AT7Kh0x17612Kn_iu6X0HvIJGVGgORX3C4lyXPN-rP2R8Zi-cEyF_9_uk8",
+        "source": "Il Fatto Quotidiano"
+      }
+    ]
+  },
+  {
+    "title": "vittorio emanuele parsi",
+    "link": "https://trends.google.com/trending/rss?geo=IT",
+    "pubdate": "Wed, 8 Jan 2025 07:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVQRgEKEjCAM7Q_jXrQDUSPJ3SL1emtYr7AedQMTRL3Ex3VSiJP0IDROcaHE",
+    "picture_source": "Corriere della Sera",
+    "news_items": [
+      {
+        "title": "Parsi-Panella, il matrimonio (e il libro): «Una seconda vita»",
+        "snippet": "",
+        "url": "https://www.corriere.it/cronache/25_gennaio_08/parsi-panella-matrimonio-1d3a3664-3a2b-435f-9585-842ccfb90xlk.shtml",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVQRgEKEjCAM7Q_jXrQDUSPJ3SL1emtYr7AedQMTRL3Ex3VSiJP0IDROcaHE",
+        "source": "Corriere della Sera"
+      },
+      {
+        "title": "Tiziana Panella e Vittorio Emanuele Parsi si sposano. Un anno fa il risveglio di lui dal coma: «La vita due volte",
+        "snippet": "",
+        "url": "https://www.vanityfair.it/article/tiziana-panella-vittorio-emanuele-parsi-si-sposano-un-anno-fa-risveglio-di-lui-dal-coma-la-vita-due-volte",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnztUDmh66zroj3Ywe98Wkyn2AMW8QR_fpIV_HgQLnS_-CfysMRTb69nCRzNU",
+        "source": "Vanity Fair Italia"
+      },
+      {
+        "title": "Vittorio Emanuele Parsi si sposa con Tiziana Panella: al matrimonio anche i medici che salvarono il…",
+        "snippet": "",
+        "url": "https://www.ilfattoquotidiano.it/2025/01/08/vittorio-emanuele-parsi-si-sposa-con-tiziana-panella-al-matrimonio-anche-i-medici-che-salvarono-il-professore-dalla-dissezione-aortica/7829169/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG-nKpNXHAOJ6uYn3wNaH79tNHUoTtu3PePtNY1gafIWP1ciCejW-jfDGLnPM",
+        "source": "Il Fatto Quotidiano"
+      }
+    ]
+  },
+  {
+    "title": "poggioreale",
+    "link": "https://trends.google.com/trending/rss?geo=IT",
+    "pubdate": "Wed, 8 Jan 2025 08:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuOg5P8sVyIZaYQlu4-XZ4UK63vRVVp_w1hdwCUd1R3Zbz0jyVtqFYsdsnPc",
+    "picture_source": "la Repubblica",
+    "news_items": [
+      {
+        "title": "Drone consegna cellulari ai detenuti del padiglione “alta sicurezza” del carcere di Poggioreale",
+        "snippet": "",
+        "url": "https://napoli.repubblica.it/cronaca/2025/01/08/news/drone_consegna_cellulari_ai_detenuti_del_padiglione_alta_sicurezza_del_carcere_di_poggioreale-423926493/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuOg5P8sVyIZaYQlu4-XZ4UK63vRVVp_w1hdwCUd1R3Zbz0jyVtqFYsdsnPc",
+        "source": "la Repubblica"
+      },
+      {
+        "title": "Napoli, carcere di Poggioreale: tentano di introdurre telefonini",
+        "snippet": "",
+        "url": "https://www.ilmattino.it/napoli/cronaca/napoli_carcere_poggioreale_telefonini_detenuti-8577231.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzk2Y8iqLy1i6hc-kI7nts4AuCtgnZGWayjjzRdwHsT3rfRTBK8mJHNAxr3nE",
+        "source": "Il Mattino"
+      },
+      {
+        "title": "Telefoni cellulari in carcere nascosti in una scarpa: la scoperta",
+        "snippet": "",
+        "url": "https://www.napolitoday.it/cronaca/cellulari-carcere-poggioreale-scoperti.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU_XJ1GEoZNPZaVGw7BsyIbafPPn4YccuSxVSb5rxxw_qAENvDWbySdm17rV4",
+        "source": "NapoliToday"
       }
     ]
   }

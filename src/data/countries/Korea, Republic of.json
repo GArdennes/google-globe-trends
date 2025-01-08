@@ -1,289 +1,304 @@
 [
   {
-    "title": "박서진",
+    "title": "ionq",
     "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 04:50:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVju3mkcNdF3XMz2E1K65hj9YCLRtUyrX1oiZjzg1iwlhc6Txht8PvskZtQzg",
+    "picture_source": "Yahoo Finance",
+    "news_items": [
+      {
+        "title": "Quantum Stocks Drop as Nvidia CEO Sees Use Years Away",
+        "snippet": "",
+        "url": "https://finance.yahoo.com/news/quantum-computing-stocks-drop-nvidia-005300972.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVju3mkcNdF3XMz2E1K65hj9YCLRtUyrX1oiZjzg1iwlhc6Txht8PvskZtQzg",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Quantum stocks like Rigetti plunge after Nvidia's Huang says the computers are 15 to 30 years away",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2025/01/08/quantum-stocks-like-rigetti-plunge-after-nvidias-huang-says-the-computers-are-15-to-30-years-away.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuR_5ApegAuUZFQxF07WGEut1uI3i1z9mQZ-0-17WYmpDf73ws9OeqnNJZfQ",
+        "source": "CNBC"
+      },
+      {
+        "title": "NVIDIA CEO’s Predictions Rain on Quantum Stock Parade",
+        "snippet": "",
+        "url": "https://thequantuminsider.com/2025/01/08/nvidia-ceos-predictions-rain-on-quantum-stock-parade/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtckivLL6ieaJqDsNWfbUwseoYi4hNXtrYEQ6qPAXCEvYvfsZoBcXTT9za7Vc",
+        "source": "The Quantum Insider"
+      }
+    ]
+  },
+  {
+    "title": "아이온큐 주가",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTvgvAlA9ZDcRjFxxrfBUnUhSeWVhQ27k4841kxseclxyd6TyEiw-4mrdM7Vc",
+    "picture_source": "글로벌이코노믹",
+    "news_items": [
+      {
+        "title": "아이온큐, 큐비텍 인수로 양자 네트워킹에 '날개'...주가 6.91% 급등",
+        "snippet": "",
+        "url": "https://www.g-enews.com/article/Securities/2025/01/202501070727306776e250e8e188_1",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTvgvAlA9ZDcRjFxxrfBUnUhSeWVhQ27k4841kxseclxyd6TyEiw-4mrdM7Vc",
+        "source": "글로벌이코노믹"
+      },
+      {
+        "title": "IONQ 주가, 사상 최고치인 $48.61 달성 By Investing.com",
+        "snippet": "",
+        "url": "https://kr.investing.com/news/company-news/article-93CH-1322047",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXDBOC9Pxmw3sElxyyS-q7hHW_2D-S6wJbgZuyd-alUUrpI1BNzWTjnRc3JwA",
+        "source": "Investing.com 한국어"
+      },
+      {
+        "title": "스마트폰을 위한 양자 도약! IonQ의 획기적인 기술이 모든 것을 바꿀 수 있는 방법",
+        "snippet": "",
+        "url": "https://smartphonemagazine.nl/ko/2025/01/07/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%96%91%EC%9E%90-%EB%8F%84%EC%95%BD-ionq%EC%9D%98-%ED%9A%8D%EA%B8%B0%EC%A0%81%EC%9D%B8-%EA%B8%B0%EC%88%A0%EC%9D%B4-%EB%AA%A8/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEOr_p5PgCois260WT2dJHChGvyZ8fUxLzs7ufbE8eBcWyfNfPaDWQm391_w",
+        "source": "smartphonemagazine.nl"
+      }
+    ]
+  },
+  {
+    "title": "fomc",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Wed, 8 Jan 2025 07:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX81ay0zdtYdxGRxV7yiVAxm9JSFffxO-HOcBbOsWFD0uyan1UJyQabGUCG5o",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqaurBr8H-mCVi2TJbDBikQ7qkwJLSU4mtxIyosIVUcy2tZXo_1VSa_QgZgE",
+    "picture_source": "Reuters",
+    "news_items": [
+      {
+        "title": "Fed minutes may begin to show the hurdle to further rate cuts",
+        "snippet": "",
+        "url": "https://www.reuters.com/markets/us/fed-minutes-may-begin-show-hurdle-further-rate-cuts-2025-01-08/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqaurBr8H-mCVi2TJbDBikQ7qkwJLSU4mtxIyosIVUcy2tZXo_1VSa_QgZgE",
+        "source": "Reuters"
+      },
+      {
+        "title": "Market Braces For High Interest Rates: Investors Price In Just One Cut This Year As Fed Minutes Loom",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/dereksaul/2025/01/08/market-braces-for-high-interest-rates-investors-price-in-just-one-cut-this-year-as-fed-minutes-loom/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDNlE_6d82kwf9Iqp0FbhW0SsBYf7pVGwa2MtFmU767_ycgs32tpqjenQGSms",
+        "source": "Forbes"
+      },
+      {
+        "title": "Fed Meeting Minutes Today: What to Expect",
+        "snippet": "",
+        "url": "https://www.barrons.com/articles/fed-meeting-minutes-today-interest-rates-f69658e8",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz2hgXjPCjcVjMOJSAVnKKypVq7j1wnQsefCKLr9ypXKl4V-y_e64ZoS3b7zo",
+        "source": "Barron's"
+      }
+    ]
+  },
+  {
+    "title": "qqq",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Wed, 8 Jan 2025 07:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs9B41lQ919NNdTQV9eGjU7FpYYQBHeDgu-ssAPiXCPZlzisYfmhjrga0yqDg",
+    "picture_source": "MarketBeat",
+    "news_items": [
+      {
+        "title": "International Assets Investment Management LLC Sells 32,520,286 Shares of Invesco QQQ (NASDAQ:QQQ)",
+        "snippet": "",
+        "url": "https://www.marketbeat.com/instant-alerts/international-assets-investment-management-llc-sells-32520286-shares-of-invesco-qqq-nasdaqqqq-2025-01-08/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs9B41lQ919NNdTQV9eGjU7FpYYQBHeDgu-ssAPiXCPZlzisYfmhjrga0yqDg",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Invesco QQQ (NASDAQ:QQQ) Shares Sold by Kozak & Associates Inc.",
+        "snippet": "",
+        "url": "https://www.marketbeat.com/instant-alerts/kozak-associates-inc-cuts-position-in-invesco-qqq-nasdaqqqq-2025-01-06/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs9B41lQ919NNdTQV9eGjU7FpYYQBHeDgu-ssAPiXCPZlzisYfmhjrga0yqDg",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Pair of Familiar Names Could Power QQQ in 2025",
+        "snippet": "",
+        "url": "https://www.etftrends.com/etf-education-channel/pair-familiar-names-could-power-qqq-2025/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYeKMVPBbejlhVjGYJgR8RI5QIB8vOSEM_DE59zXxAO_dT5GvkKBF8brLp5iw",
+        "source": "ETF Trends"
+      }
+    ]
+  },
+  {
+    "title": "나는솔로",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Wed, 8 Jan 2025 06:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzdwzMwRdDagllkdvfBgeGWyB5RTyyEopDb9UfGyW462EFywzkErYnMHR1ZV8",
     "picture_source": "NATE",
     "news_items": [
       {
-        "title": "[POP이슈]'살림남2' 하차 청원 답변은 아직…'군 면제 논란' 박서진 출연ing",
+        "title": "'나는 솔로' 24기 옥순, 나이-직업 공개…\"성형하고 더 예뻐져\"",
         "snippet": "",
-        "url": "https://news.nate.com/view/20241213n21837",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX81ay0zdtYdxGRxV7yiVAxm9JSFffxO-HOcBbOsWFD0uyan1UJyQabGUCG5o",
+        "url": "https://news.nate.com/view/20250108n38465",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzdwzMwRdDagllkdvfBgeGWyB5RTyyEopDb9UfGyW462EFywzkErYnMHR1ZV8",
         "source": "NATE"
       },
       {
-        "title": "박서진 父, 아들 콘서트 중 뛰쳐나갔다…결국 오열 (살림남)",
+        "title": "'역대급 플러팅女' 24기 옥순, \"영수, 쉽게 넘어오니까 재미없어\" ('나는솔로') [종합]",
         "snippet": "",
-        "url": "https://sports.khan.co.kr/article/202412131021003",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQJ9UaaDbNQl78TEVt6MnBFxXOnZ3CZU7MWYv_Sxjb5jpQQIsrQI-ze2EGUY",
-        "source": "스포츠경향"
+        "url": "https://www.chosun.com/entertainments/broadcast/2025/01/09/7JDAYB4A4LVOCOSXRDJYBVIWMA/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBBvLOhe0BNkM99O2QcZk4TttsPqdqkpYq7U8PpDaQa3rSK5KVXcfqjIx8JTQ",
+        "source": "조선일보"
       },
       {
-        "title": "박서진, 콘서트 위한 특별한 준비…\"빨간 팬티 착용\"",
+        "title": "'나는 솔로' 영철-순자, 첫 선택부터 통했다…\"많이 떨려\" 설렘",
         "snippet": "",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/5632117",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVXsLKlodXkDh09oLRxhRv6bVIT-vMkGBCfv5vqBuBV-_U5Mqyx-sTxcMyjPI",
+        "url": "https://www.news1.kr/entertain/broadcast-tv/5655409",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlyW1f6zKKNXT0e4llWg7maXNAPjn5sywAu8WCj3SJl2tl6T3kdi0esZn5GPg",
         "source": "뉴스1"
       }
     ]
   },
   {
-    "title": "lotto",
+    "title": "오키나와",
     "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 04:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNpc8MotDQUgmHVCaoHFZcJmu_1lOeqmxbuRdWP0WU8MWHEDOmeeYcibwV8lM",
-    "picture_source": "KTLA",
-    "news_items": [
-      {
-        "title": "Winning Super Lotto Plus lottery tickets sold in Southern California",
-        "snippet": "",
-        "url": "https://ktla.com/news/local-news/winning-super-lotto-plus-lottery-tickets-sold-in-southern-california/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNpc8MotDQUgmHVCaoHFZcJmu_1lOeqmxbuRdWP0WU8MWHEDOmeeYcibwV8lM",
-        "source": "KTLA"
-      },
-      {
-        "title": "$47 million SuperLotto Plus ticket sold at Fresh Catch seafood market in Artesia",
-        "snippet": "",
-        "url": "https://abc7.com/post/47-million-superlotto-ticket-sold-fresh-catch-seafood-market-artesia/15650827/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfQXCpRz1FKz21e4UTGLhquEkTS-iHeCZ8njscinV5-1egM8I7XR4bsQVEZKM",
-        "source": "ABC7 Los Angeles"
-      },
-      {
-        "title": "Winning SuperLotto Plus lottery tickets sold in Artesia and Ontario",
-        "snippet": "",
-        "url": "https://2urbangirls.com/2024/12/winning-superlotto-plus-lottery-tickets-sold-in-artesia-and-ontario/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8m3M04grBlPYZQqSYYX-aojHpmuuhZzmy81N07Xn6LcY9t8RsRa27o1VHOWs",
-        "source": "2UrbanGirls"
-      }
-    ]
-  },
-  {
-    "title": "ไทย พบ มาเลเซีย",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrKDrPXOZARGsfnDN_314jGvVToHTDT3u_8HPC4KAFYiD58JEuUhTTgRQ57m8",
-    "picture_source": "Thairath.co.th",
-    "news_items": [
-      {
-        "title": "ดูบอลไทยสดที่นี่ บอลวันนี้ ทีมชาติไทย VS มาเลเซีย Asean Mitsubishi Electric Cup 2024",
-        "snippet": "",
-        "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2829767",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrKDrPXOZARGsfnDN_314jGvVToHTDT3u_8HPC4KAFYiD58JEuUhTTgRQ57m8",
-        "source": "Thairath.co.th"
-      },
-      {
-        "title": "มาแล้ว! โผ11แข้งช้างศึกดวลมาเลเซียค่ำนี้",
-        "snippet": "",
-        "url": "https://www.dailynews.co.th/news/4187804/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLrlRaOwocxqrCc9I0SRZOAKoKJNG0YqqwR6E2g9RXnu8SePtLleMRvIvtg3M",
-        "source": "เดลินิวส์"
-      },
-      {
-        "title": "เจาะกีฬากับบิ๊กจ๊ะ 14 ธ.ค. 67 - ไทย พร้อมดวล มาเลเซีย ฟุตบอลอาเซียน คัพ 2 ทุ่มวันนี้",
-        "snippet": "",
-        "url": "https://ch3plus.com/news/sport/kaoden/428108",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZMKeRiL0Ez8MrkTFg4woWX6mPlH2dvK4RJLfPfSA8rfPlEzANhljhI-CwqZo",
-        "source": "CH3Plus.com"
-      }
-    ]
-  },
-  {
-    "title": "오혁",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "zimbabwe vs afghanistan",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhUWVMhOQ8D___AeWNNiVl5GSty-wrXSgV7-NrdfDNyUPXg4Gbaka30UyJs7E",
-    "picture_source": "Cricbuzz.com",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuW7RvDg3JOa3xSqQazbf9c3j4GEC67Y6ekcvyH73fmiGUYD4VgCdsPaYijjw",
+    "picture_source": "NHK",
     "news_items": [
       {
-        "title": "Zimbabwe vs Afghanistan, 2nd T20I",
+        "title": "Papers sent to prosecutors over US Marine's alleged sexual assault in Okinawa",
         "snippet": "",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/109327/afg-vs-zim-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhUWVMhOQ8D___AeWNNiVl5GSty-wrXSgV7-NrdfDNyUPXg4Gbaka30UyJs7E",
-        "source": "Cricbuzz.com"
+        "url": "https://www3.nhk.or.jp/nhkworld/en/news/20250108_16/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuW7RvDg3JOa3xSqQazbf9c3j4GEC67Y6ekcvyH73fmiGUYD4VgCdsPaYijjw",
+        "source": "NHK"
       },
       {
-        "title": "Afghanistan beat Chevrons to level T20 series",
+        "title": "US Marine suspected of sexual assault in Okinawa in November",
         "snippet": "",
-        "url": "https://www.newzimbabwe.com/afghanistan-beat-chevrons-to-level-t20-series/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTelDU5m73USuosedZBEnfHo9JxCboawQGg31M0Va1iD2Nx8hFuZY_DvfjbvMM",
-        "source": "NewZimbabwe.com"
+        "url": "https://mainichi.jp/english/articles/20250108/p2g/00m/0na/047000c",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCufWUVEbT2vAZ3dI0A2e66fksdGKZjtBa0-icVJpJK8bAe5JsufyZATws3kI",
+        "source": "毎日新聞"
       },
       {
-        "title": "Zimbabwe vs Afghanistan ODIs, where to watch live: TV channels, live streaming for ZIM vs AFG 2024",
+        "title": "Police accuse another US service member of sexual assault on Okinawa",
         "snippet": "",
-        "url": "https://www.wisden.com/series/zimbabwe-vs-afghanistan-m-2024-25/cricket-news/zimbabwe-vs-afghanistan-odis-where-to-watch-live-tv-channels-live-streaming-for-zim-vs-afg-2024",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Uc1fWmlAU8_-_V9lxUm4ESKaiFXAlJMzPyLMw7u5tyliLAvy64BhHiy9NVk",
-        "source": "Wisden"
+        "url": "https://www.stripes.com/branches/marine_corps/2025-01-08/marine-military-sexual-assault-okinawa-16415356.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRzHqEgJlRJx880GAKgyxmPk5BoDta5UGYRKjfpr58QJAT5-rFH-lEMX-rduc",
+        "source": "Stars and Stripes"
       }
     ]
   },
   {
-    "title": "채정안",
+    "title": "황현희",
     "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTboMgbEhy6xa-NA9TnDzjqJA1inrAS1DzfMQmqBERIgGTJukBZlp4kT75Zv0w",
-    "picture_source": "조선일보",
+    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4uUfG2_5_q1VejtmBUbnWhsazpq8byV_pvwcFe_FYDUPjHjLgpeOhQDR1NA",
+    "picture_source": "머니투데이",
     "news_items": [
       {
-        "title": "‘위궤양·장 천공’ 투병 고백… 장나라 “드라마 중도하차, 남편이 잡아줬다”",
+        "title": "황현희, 숨만 쉬어도 월급이…'100억 자산가' 된 비법 공개",
         "snippet": "",
-        "url": "https://www.chosun.com/entertainments/broadcast/2024/12/13/KRXNFJ35R7XWFBS25IE7IRG24A/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTboMgbEhy6xa-NA9TnDzjqJA1inrAS1DzfMQmqBERIgGTJukBZlp4kT75Zv0w",
+        "url": "https://news.mt.co.kr/mtview.php?no=2025010814254419370",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4uUfG2_5_q1VejtmBUbnWhsazpq8byV_pvwcFe_FYDUPjHjLgpeOhQDR1NA",
+        "source": "머니투데이"
+      },
+      {
+        "title": "'라스' 황현희, 갭 투자 언급···공중파에서 이래도 맞아?[순간포착]",
+        "snippet": "",
+        "url": "https://www.chosun.com/entertainments/broadcast/2025/01/09/CVXFO2SL67DLU7ZVHZMBTTYTGU/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCiu5pWtlC62E3B91WRG9yLNAG4pgHpe2uS0wxA57yjlBT4HBRG8qk1uCRv_c",
         "source": "조선일보"
       },
       {
-        "title": "장나라, 6살 연하 남편 놀랄라 “간수치 비정상, 장 천공까지…그냥 살았었다”",
+        "title": "\"유재석 제쳤다고?\"…예능출연료 1위 찍은 '100억 자산' 개그맨",
         "snippet": "",
-        "url": "https://sports.donga.com/ent/article/all/20241213/130636476/1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJq9QzlbietZ5Qycd4nXu8l5FPTsNGfiao61sbdICPq7zn3Ayup9IWhrnjA0o",
-        "source": "스포츠동아"
-      },
-      {
-        "title": "장나라 \"위궤양에 장천공…간수치도 비정상이었다\"",
-        "snippet": "",
-        "url": "https://www.newsis.com/view/NISX20241213_0002996519",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuxccCzKNMOBYqSLlwWHo3_zZXtYqw2BxkGhA0QMHN5tvCewocsuTO1y4MCTs",
-        "source": "뉴시스"
+        "url": "https://www.hankyung.com/article/2025010824197",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6lj150ZW1paRmSMNJ_3VLr6rHZyf-ep3qF-DwlYn1-Cl0VN0ZP2nNPAbnn04",
+        "source": "한국경제"
       }
     ]
   },
   {
-    "title": "nsc",
+    "title": "지젤",
     "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyUj8lrkiuQ_TO9-gYaQExOOw7P-msRBDMMsSetzsRFbGdEvxj2u80ou2f3iE",
-    "picture_source": "NSC Total",
-    "news_items": [
-      {
-        "title": "A imagem de alguém que lê",
-        "snippet": "",
-        "url": "https://www.nsctotal.com.br/colunistas/cesar-seabra/a-imagem-de-alguem-que-le",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyUj8lrkiuQ_TO9-gYaQExOOw7P-msRBDMMsSetzsRFbGdEvxj2u80ou2f3iE",
-        "source": "NSC Total"
-      },
-      {
-        "title": "Em Barbosa, Cresol comercializa ingressos para a final da LNF pela metade do preço",
-        "snippet": "",
-        "url": "https://estacaofm.com.br/em-barbosa-cresol-comercializa-ingressos-para-a-final-da-lnf-pela-metade-do-preco/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAsxokhYShIrRVdG_lWtZMClExDKcj42QEI93gR2EeAGdTMs31DjJnfFZjhQE",
-        "source": "Estação FM"
-      },
-      {
-        "title": "Telão será montado na Arena para a decisão da Liga Futsal neste domingo (15)",
-        "snippet": "",
-        "url": "https://poracaso.com/cotidiano/telao-sera-montado-na-arena-para-a-decisao-da-liga-futsal-neste-domingo-15/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGuWy4Rr36T04MppojGVbLbndqLpslUJH-oxC0vagxlRU1xM0nA3-Y6be-sn0",
-        "source": "PorAcaso.com"
-      }
-    ]
-  },
-  {
-    "title": "윤창민",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 04:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7Sse5j2T9GOjgxyqX5OMB9JoWVhN881uYg3upmkWkuRk2AkTn3IzDfrVlL8",
-    "picture_source": "네이트 스포츠",
-    "news_items": [
-      {
-        "title": "UFC 회장 보는 앞 '무승부'…\"죄송하다\" 고개 숙인 박찬수·윤창민 [IS 일산]",
-        "snippet": "",
-        "url": "https://sports.news.nate.com/view/20241214n20671",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7Sse5j2T9GOjgxyqX5OMB9JoWVhN881uYg3upmkWkuRk2AkTn3IzDfrVlL8",
-        "source": "네이트 스포츠"
-      },
-      {
-        "title": "UFC 회장 주목 정찬성 ZFN 1600원에 본다",
-        "snippet": "",
-        "url": "https://www.mk.co.kr/news/sports/11194449",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm11bH_Qvoof68k5x491dDaaR9hCX0x5wryCZb-2Dj7BD9NvZNA7r2BYAB1hE",
-        "source": "매일경제"
-      },
-      {
-        "title": "[ZFN 02]'무패 파이터' 유주상, 日대표 출신 레슬러에 호쾌한 1R TKO승",
-        "snippet": "",
-        "url": "https://m.edaily.co.kr/News/Read?newsId=01295606639118520&mediaCodeNo=258",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjOUrqpcgMmb6m7I7cREg6FURnhSrHn9WstkpmDQL60iDkldz0rH1WNp9Lyc",
-        "source": "이데일리"
-      }
-    ]
-  },
-  {
-    "title": "금새록",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 03:30:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 08:00:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHTxnELnqey4v46rTDigQ8EwnNnFOv3RkVNfteJZgv8OJTnP418Sf0cdxHPEQ",
-    "picture_source": "텐아시아",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrTYGMjf98J139nHieUQrFuCdk0lDM96r_4c5dW0SbRM3I27l3reFNwj5Zu-8",
+    "picture_source": "Chosun Biz",
     "news_items": [
       {
-        "title": "\"함께 해서 좋아\" 금새록, 돈 다시 채워준 ♥김정현에 뽀뽀 '애틋'('다리미 패밀리')",
+        "title": "에스파 지젤, 옷이 어디까지 파졌길래…머리에 가려진 끈에 상의 안 입은 줄 - 조선비즈",
         "snippet": "",
-        "url": "https://tenasia.hankyung.com/article/2024121471044",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHTxnELnqey4v46rTDigQ8EwnNnFOv3RkVNfteJZgv8OJTnP418Sf0cdxHPEQ",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2025/01/07/RF2RKLYSFAN46YMO5QPNNPXN2Y/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrTYGMjf98J139nHieUQrFuCdk0lDM96r_4c5dW0SbRM3I27l3reFNwj5Zu-8",
+        "source": "Chosun Biz"
+      },
+      {
+        "title": "지젤, 미모 물 올랐는데 상처 어쩌나…파격 문신까지 눈길",
+        "snippet": "",
+        "url": "https://tenasia.hankyung.com/article/2025010828234",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwJx0zkEGO_0qj0VyZDxbNNFJFCRLUvv27giTo-ME-qceko8yBLrZLghSAmP8",
         "source": "텐아시아"
-      },
-      {
-        "title": "\"침대 아래 돈 하나도 없어\" 박인환, 의식 찾자마자 오열 ('다리미패밀리')",
-        "snippet": "",
-        "url": "https://www.chosun.com/entertainments/broadcast/2024/12/14/NUKXOSNNOX5374GNGSLX3JMY6A/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4LmKssRtafapxiUbzp9QRphao-0K0A3jw2BdjX6ozUyaJuFCTTFylofz233Q",
-        "source": "조선일보"
-      },
-      {
-        "title": "'다리미 패밀리' 김혜은, 무릎 꿇은 금새록에게 \"임신한 거야?\"",
-        "snippet": "",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/5632115",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnoQ8vmLwtI6RKMxxYYBbRD4tT9x0g4oesKBDGfEu9erY0fUbJUQOpRyhrEf0",
-        "source": "뉴스1"
       }
     ]
   },
   {
-    "title": "소방관",
+    "title": "la 산불",
     "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Sat, 14 Dec 2024 03:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQLsAgKbnNgMFuhn4k2oDemzhw9vGcdxauia99eJikifrQRH4clCsa_frm0xo",
+    "pubdate": "Wed, 8 Jan 2025 07:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfN2iksWLRQYOwgko6BtfhnNhbmYBETR4drud8vzBNHmXzgGecf8shobIE8k4",
     "picture_source": "조선일보",
     "news_items": [
       {
-        "title": "[사진]'소방관' 주원, '관객들 향한 따스한 손인사'",
+        "title": "LA 산불로 도로에 버려진 차량 100대, 불도저로 밀었다",
         "snippet": "",
-        "url": "https://www.chosun.com/entertainments/entertain_photo/2024/12/14/67D7EPTGDX4JD4E5PWAUIKK3ZQ/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQLsAgKbnNgMFuhn4k2oDemzhw9vGcdxauia99eJikifrQRH4clCsa_frm0xo",
+        "url": "https://www.chosun.com/international/international_general/2025/01/08/CXQQZEYXTVDDTM436BEDLDXDH4/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfN2iksWLRQYOwgko6BtfhnNhbmYBETR4drud8vzBNHmXzgGecf8shobIE8k4",
         "source": "조선일보"
       },
       {
-        "title": "[영상] '계엄 불똥' 튄 영화 '소방관'…곽경택 \"동생 투표 불참에 분노\"",
+        "title": "'악마의 바람' 덮친 미국 LA...대형 산불에 3만 명 대피",
         "snippet": "",
-        "url": "https://www.yna.co.kr/view/MYH20241212017200704",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_ehhBXZHqnojMzEyriFJSmZskaGyETHiEkrnWq5n4wHgs0XO1I0SvccQBx4c",
-        "source": "연합뉴스"
+        "url": "https://www.ytn.co.kr/_ln/0104_202501081923468834",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBlbdK3dqlR-dFyE5PglnTENAu-6fBml0drdQ2FCLBq-oCu03ZsU1PwR_kXgI",
+        "source": "YTN"
       },
       {
-        "title": "국민의힘 의원 형 곽경택 감독 \"탄핵 투표 불참 의원에 크게 실망\"",
+        "title": "미국 LA서 동시다발 대형 산불… \"8만 명 대피 명령, 건물 1만 채 이상 위험\"",
         "snippet": "",
-        "url": "https://www.pressian.com/pages/articles/2024121217460188610",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWUAQOi_KvFUsXLOIfk9GRCVt_GdtG68lAIj90wqdnBQmvVyE3DOAr5bEmWV0",
-        "source": "프레시안"
+        "url": "https://www.hankookilbo.com/News/Read/A2025010810130001731",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOQpq6GbJPOWw8XNG_ac69CW6gx54SBaFgHnLF_obEj2LHsV9nZ19j72vuA3g",
+        "source": "한국일보"
+      }
+    ]
+  },
+  {
+    "title": "명태균",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo24D6tTSUJj3wcNazdarbTMsP6HJr1aZOtNVaeeojq5TN8XexP8GkzEmKBno",
+    "picture_source": "경향신문",
+    "news_items": [
+      {
+        "title": "검찰, 윤 부부가 명태균에게서 비공표 여론조사 받은 내용 확인하고도 미조사",
+        "snippet": "",
+        "url": "https://www.khan.co.kr/article/202501082217001",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo24D6tTSUJj3wcNazdarbTMsP6HJr1aZOtNVaeeojq5TN8XexP8GkzEmKBno",
+        "source": "경향신문"
+      },
+      {
+        "title": "[특집방송] '명태균-김건희·윤석열' 카톡 입수... 윤석열 기소할 물증 나왔다",
+        "snippet": "",
+        "url": "https://newstapa.org/article/uVvAl",
+        "picture": "",
+        "source": "뉴스타파"
+      },
+      {
+        "title": "[단독] 명태균 여론조작, 박형준∙홍준표까지 뻗쳤나…검찰 수사 착수",
+        "snippet": "",
+        "url": "https://www.hani.co.kr/arti/area/yeongnam/1176760.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlONxJPyG_BC0MhP9OsK9k9LvnwvCCNNrlkZ3WcjevBTwyFhnU17xBINSJSVk",
+        "source": "한겨레"
       }
     ]
   }

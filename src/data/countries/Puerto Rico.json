@@ -1,134 +1,249 @@
 [
   {
-    "title": "primera hora",
+    "title": "departamento de educacion",
     "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Fri, 13 Dec 2024 16:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "noticias ponce",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Fri, 13 Dec 2024 15:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeqw49gFV--BUPKxSrRupbdx-gL1Rhx2siSM_WIjLb4H9Naq6QUezBrihzzwE",
-    "picture_source": "El Nuevo Día",
+    "pubdate": "Wed, 8 Jan 2025 03:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1-NzKHwyw9rFJvMCbrTC3hfRve-BHczAFLiJOHKo5H0lxsAtXIqWi1b4BPsE",
+    "picture_source": "wapa.tv",
     "news_items": [
       {
-        "title": "Investigan la muerte de mujer reportada como desaparecida y la de su presunta pareja como un asesinato-suicidio",
+        "title": "Designado secretario de Educación visita escuelas en inicio de semestre",
         "snippet": "",
-        "url": "https://www.elnuevodia.com/noticias/seguridad/notas/encuentran-los-cuerpos-de-estudiante-de-leyes-para-quien-se-activo-una-alerta-rosa-y-el-de-su-presunta-pareja/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeqw49gFV--BUPKxSrRupbdx-gL1Rhx2siSM_WIjLb4H9Naq6QUezBrihzzwE",
+        "url": "https://wapa.tv/noticias/locales/designado-secretario-de-educaci-n-visita-escuelas-en-inicio-de-semestre/article_fcd941f4-cdca-11ef-9250-eb771a4f600a.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1-NzKHwyw9rFJvMCbrTC3hfRve-BHczAFLiJOHKo5H0lxsAtXIqWi1b4BPsE",
+        "source": "wapa.tv"
+      },
+      {
+        "title": "Eliezer Ramos Parés: “No les puedo decir que es un inicio escolar perfecto”",
+        "snippet": "",
+        "url": "https://www.elnuevodia.com/noticias/gobierno/notas/eliezer-ramos-pares-no-les-puedo-decir-que-es-un-inicio-escolar-perfecto/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0orjFdlu8prnoEZhewrK3glN0QPG38TdGaNMeSrA-I6obnClv0X9rsftQlrE",
         "source": "El Nuevo Día"
       },
       {
-        "title": "“Hoy es un día triste para la familia Pionera”: Universidad Católica lamenta muerte de estudiante de derecho",
+        "title": "Decenas de vacantes en reinicio de clases",
         "snippet": "",
-        "url": "https://www.elvocero.com/ley-y-orden/hoy-es-un-d-a-triste-para-la-familia-pionera-universidad-cat-lica-lamenta-muerte/article_bb086abe-ba1c-11ef-965c-4f42d2373e3b.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJRxcZaRNz2hE_8CxR2VlHvy2AtC9SKiVlrHBaOfrdxCYRNh4nx_nwsrEcDU",
+        "url": "https://www.elvocero.com/educacion/departamento-de-educacion/decenas-de-vacantes-en-reinicio-de-clases/article_4cfebcac-cd41-11ef-9db0-dbf3b21184b2.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfJrvjaoZEdQyuicj43ZXXFmo-zYgAfd3LQ780Sls2xhj7Is66RLkz1nSZ8U",
         "source": "El Vocero de Puerto Rico"
-      },
-      {
-        "title": "Hallan sin vida a joven reportada desaparecida en Ponce y su pareja",
-        "snippet": "",
-        "url": "https://www.primerahora.com/noticias/policia-tribunales/notas/hallan-sin-vida-a-joven-reportada-desaparecida-en-ponce-y-su-pareja/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZabUWRMz1KtqKoQIgmYxZ-XWyKq0PzhMypCJocEBO6OuHjqqoDixKqVJwht8",
-        "source": "Primera Hora"
       }
     ]
   },
   {
-    "title": "benny blanco",
+    "title": "hector vazquez muñiz",
     "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Fri, 13 Dec 2024 13:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvc5RyjYLVE-SJMgBG4VFcZwASgrYdPBAid32jmBYH_kvU6LJoTNoR7WVwfNs",
-    "picture_source": "The New York Times",
-    "news_items": [
-      {
-        "title": "Selena Gomez’s Marquise Engagement Ring Has People Talking",
-        "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/12/style/selena-gomez-marquise-engagement-ring.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvc5RyjYLVE-SJMgBG4VFcZwASgrYdPBAid32jmBYH_kvU6LJoTNoR7WVwfNs",
-        "source": "The New York Times"
-      },
-      {
-        "title": "Selena Gomez Allegedly Delayed Engagement News In Order Not To 'One-Up' Ex Justin Bieber's Baby News",
-        "snippet": "",
-        "url": "https://www.yahoo.com/entertainment/selena-gomez-allegedly-delayed-engagement-183000040.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRQDsDpD4PhMCWKzzAASgic0lxlZQrDfgvcK0pLqK0tLWmHq-1REsmCK8Ip-A",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Selena Gomez's Engagement to Benny Blanco Was a \"Total Surprise\"",
-        "snippet": "",
-        "url": "https://www.instyle.com/selena-gomez-benny-blanco-engagement-surprise-8760998",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL2jw4CWh0fN1vbTrtPo4ge-Au0C-dCc9VBKKg8cdBKdrfNtt7V1tjnB8GuZ4",
-        "source": "InStyle"
-      }
-    ]
-  },
-  {
-    "title": "cien años de soledad netflix",
-    "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Fri, 13 Dec 2024 12:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwncWDUNop6Io7CAuYKP7f3AM6izIt4RdmXpiWmi8xniWtZSogpsMws41Pdug",
+    "pubdate": "Tue, 7 Jan 2025 10:50:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb3JIAHJubEemv6C8Ee7_1oPuUqCBmHmMaYuwIES-CRryiNlph6gGbChv_k7U",
     "picture_source": "El Nuevo Día",
     "news_items": [
       {
-        "title": "“Cien años de soledad”: los detalles curiosos escondidos en la serie de Netflix",
+        "title": "La reacción del reportero Héctor Vázquez Muñiz al ser nombrado secretario de Recreación y Deportes",
         "snippet": "",
-        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/cien-anos-de-soledad-los-detalles-curiosos-escondidos-en-la-serie-de-netflix/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwncWDUNop6Io7CAuYKP7f3AM6izIt4RdmXpiWmi8xniWtZSogpsMws41Pdug",
+        "url": "https://www.elnuevodia.com/noticias/gobierno/videos/la-reaccion-del-reportero-hector-vazquez-muniz-al-ser-nombrado-secretario-de-recreacion-y-deportes-291338/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb3JIAHJubEemv6C8Ee7_1oPuUqCBmHmMaYuwIES-CRryiNlph6gGbChv_k7U",
         "source": "El Nuevo Día"
       },
       {
-        "title": "‘Cien años de soledad’ en Netflix: una serie horrorosa, un interminable anuncio de café",
+        "title": "¿Por qué la gobernadora eligió al periodista Héctor Vázquez Muñiz para dirigir Recreación y Deportes?",
         "snippet": "",
-        "url": "https://elpais.com/television/2024-12-13/cien-anos-de-soledad-en-netflix-una-serie-horrorosa-un-interminable-anuncio-de-cafe.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZWP-8_QiTpNBdzUCycHJAiWxoqy-zAqaMbHYmza4SMG0q5qKM-QqA-SaghM",
-        "source": "EL PAÍS"
+        "url": "https://www.primerahora.com/noticias/gobierno-politica/videos/por-que-la-gobernadora-eligio-al-periodista-hector-vazquez-muniz-para-dirigir-recreacion-y-deportes-291339/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj9-VHXUDQzmoqrI3nQxecyCweveEokgbl20QB8rvesW5Ohd9dFwsgOAVQV9c",
+        "source": "Primera Hora"
       },
       {
-        "title": "La serie que a 24 horas de su estreno ya ocupa el primer puesto del Top Ten de Netflix",
+        "title": "Héctor Vázquez Múñiz es nominado para ser el nuevo secretario del DRD",
         "snippet": "",
-        "url": "https://www.infobae.com/que-puedo-ver/2024/12/12/la-serie-que-a-24-horas-de-su-estreno-ya-ocupa-el-primer-puesto-del-top-ten-de-netflix/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7nUgw01koY7HJBC-EfADVkneGLlQNGggvG4ufEr5P14YIxn-AE4Lx_aXMAh8",
-        "source": "Infobae"
+        "url": "https://www.elvocero.com/deportes/h-ctor-v-zquez-m-iz-es-nominado-para-ser-el-nuevo-secretario-del-drd/article_1c0ed4c0-cd2c-11ef-81e1-73d2714db958.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh6TGwd8K3NpPDxEKW5l8jXl0xSkTECLMNBf8H__jDbn_NsA_kiOE2g5ZpsQg",
+        "source": "El Vocero de Puerto Rico"
       }
     ]
   },
   {
-    "title": "devin williams",
+    "title": "jetblue",
     "link": "https://trends.google.com/trending/rss?geo=PR",
-    "pubdate": "Fri, 13 Dec 2024 10:00:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 07:40:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3Cn0JpCVJQHLH60VZ1I9DPyqNbL0W96t_VHweWvTcABkNHSCT_EcLYT3IlZY",
-    "picture_source": "MLB.com",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmaXSG5OS8Ou451r169PZxdJheB7GdOdzJN5d9NAezA6OZlNgUu3fzoOePrvs",
+    "picture_source": "NBC Boston",
     "news_items": [
       {
-        "title": "Yanks trade for closer Williams from Brewers",
+        "title": "Person opens door of taxiing plane at Boston's Logan airport; 1 detained",
         "snippet": "",
-        "url": "https://www.mlb.com/news/devin-williams-trade-to-yankees",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3Cn0JpCVJQHLH60VZ1I9DPyqNbL0W96t_VHweWvTcABkNHSCT_EcLYT3IlZY",
-        "source": "MLB.com"
+        "url": "https://www.nbcboston.com/news/local/boston-logan-airport-plane-door-opens/3595595/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmaXSG5OS8Ou451r169PZxdJheB7GdOdzJN5d9NAezA6OZlNgUu3fzoOePrvs",
+        "source": "NBC Boston"
       },
       {
-        "title": "Yankees acquire closer Williams from Brewers",
+        "title": "Police arrest JetBlue passenger who opened emergency exit, prompting security concerns",
         "snippet": "",
-        "url": "https://www.espn.com/mlb/story/_/id/42951126/yankees-acquiring-devin-williams-brewers",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCK83ORllyv9vYcAo-Nllo8oAUAvRUPK1d8V2OD9R8g6Wx86wbVTXUG4fYNo",
+        "url": "https://www.cnn.com/2025/01/08/travel/boston-jetblue-passenger-emergency-exit-hnk/index.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hhhpY95UGmxyriU32J2qmTvEEcRx78kpnAhIxDGpAk4i6ZKvZtcQzIJaqU4",
+        "source": "CNN"
+      },
+      {
+        "title": "JetBlue passenger accused of opening emergency door as flight starts at Boston's Logan Airport",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/boston/news/jetblue-passenger-emergency-door-slide-logan-airport/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKal2DEzVgA1cUS91E1RWdS_OJHkgOYth8HkbaMRrFMf1F4B5qL081SxaBCQA",
+        "source": "CBS News"
+      }
+    ]
+  },
+  {
+    "title": "southwest",
+    "link": "https://trends.google.com/trending/rss?geo=PR",
+    "pubdate": "Wed, 8 Jan 2025 07:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1YW4_df_BToCgpFiusWXN7ZewrJ8xm4CpaVk13lijvk7Hk1_l2i3pIAQhlQ",
+    "picture_source": "Nasdaq",
+    "news_items": [
+      {
+        "title": "Southwest Airlines’ Quarterly Earnings Preview: What You Need to Know",
+        "snippet": "",
+        "url": "https://www.nasdaq.com/articles/southwest-airlines-quarterly-earnings-preview-what-you-need-know",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1YW4_df_BToCgpFiusWXN7ZewrJ8xm4CpaVk13lijvk7Hk1_l2i3pIAQhlQ",
+        "source": "Nasdaq"
+      },
+      {
+        "title": "Analyst Expectations For Southwest Airlines's Future",
+        "snippet": "",
+        "url": "https://www.benzinga.com/insights/analyst-ratings/24/12/42721824/analyst-expectations-for-southwest-airliness-future",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR26o_v3-6Nc-tPCZr1BA9WOOtZpDoSLlWJkGXUy6qBFld9xtTTG3u390qeHno",
+        "source": "Benzinga"
+      },
+      {
+        "title": "Raymond James maintains Outperform on Southwest stock",
+        "snippet": "",
+        "url": "https://in.investing.com/news/analyst-ratings/raymond-james-maintains-outperform-on-southwest-stock-93CH-4603186",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVAHQ_FrqJuSWyas0JtgaXTaPfVQA4ymwmu8U5SeaNVYiTUcKA2kw0L2ovVQ",
+        "source": "Investing.com India"
+      }
+    ]
+  },
+  {
+    "title": "telemundo pr en vivo",
+    "link": "https://trends.google.com/trending/rss?geo=PR",
+    "pubdate": "Wed, 8 Jan 2025 08:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--Gjr3cWuEfL6iJnap2f2pAyV5fuuiQxJQbujTo8ylPYltZSrC3GNo9zDlwE",
+    "picture_source": "Metro Puerto Rico",
+    "news_items": [
+      {
+        "title": "Bad Bunny invade el programa de Alexandra Fuentes y le cambia la escenografía",
+        "snippet": "",
+        "url": "https://www.metro.pr/entretenimiento/2025/01/08/bad-bunny-invade-el-programa-de-alexandra-fuentes-y-le-cambia-la-escenografia/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--Gjr3cWuEfL6iJnap2f2pAyV5fuuiQxJQbujTo8ylPYltZSrC3GNo9zDlwE",
+        "source": "Metro Puerto Rico"
+      },
+      {
+        "title": "Bad Bunny aparece en Alexandra a las 12 y le confiesa que sueña con tener una familia",
+        "snippet": "",
+        "url": "https://www.elnuevodia.com/entretenimiento/television/notas/bad-bunny-aparece-en-alexandra-a-las-12-y-le-confiesa-que-suena-con-tener-una-familia/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTcrpnF0YfZz4v6Xg2pABNYG7fOY4O5PUtDfvpwpvg2hUOkF1chZ83j6hyASI",
+        "source": "El Nuevo Día"
+      },
+      {
+        "title": "VIDEO: Bad Bunny se \"desmaya\" en vivo",
+        "snippet": "",
+        "url": "https://www.elvocero.com/escenario/video-bad-bunny-se-desmaya-en-vivo/article_b279ff18-cdd9-11ef-b7b6-238be62159dd.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYtBLUDH3boBzu_WMuWx3Ov3bIeucDCCNvBdWZkcptIU9zoRA6fR5MqUBXVjY",
+        "source": "El Vocero de Puerto Rico"
+      }
+    ]
+  },
+  {
+    "title": "southwest airlines",
+    "link": "https://trends.google.com/trending/rss?geo=PR",
+    "pubdate": "Wed, 8 Jan 2025 07:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlPy52cssrdnSODbRAVbqj6a2MLHgmFc77ycAk7yADA7-8Noc66hQ_iUi35nk",
+    "picture_source": "USA Today",
+    "news_items": [
+      {
+        "title": "Southwest Airlines offers $49 fares to help you plan your first trip of 2025",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/travel/airline-news/2025/01/07/southwest-airlines-new-year-fare-sale/77509399007/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlPy52cssrdnSODbRAVbqj6a2MLHgmFc77ycAk7yADA7-8Noc66hQ_iUi35nk",
+        "source": "USA Today"
+      },
+      {
+        "title": "JetBlue's Winter Sale Has Flights to Florida, the Caribbean, and More Starting at $49",
+        "snippet": "",
+        "url": "https://www.travelandleisure.com/jetblue-winter-sale-usd49-florida-caribbean-8770374",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt7YJMG_G57Qhi0Ns06WU7hyiecS03DfiUv8Y7yhzjVXZAhrVhRi17lrIm31k",
+        "source": "Travel + Leisure"
+      },
+      {
+        "title": "Book a flight from Boston for as low as $49 during 8-day JetBlue sale",
+        "snippet": "",
+        "url": "https://www.masslive.com/boston/2025/01/book-a-flight-from-boston-for-as-low-as-49-during-8-day-jetblue-sale.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jYyG0pQnz1BVST78NlJmRted-6cMe9Z3xzWC2zxCnSQSMY2x-6cNp8kl2zg",
+        "source": "MassLive"
+      }
+    ]
+  },
+  {
+    "title": "lakers - mavericks",
+    "link": "https://trends.google.com/trending/rss?geo=PR",
+    "pubdate": "Tue, 7 Jan 2025 18:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE3WcgXZlRySBVn0SokdmS8ZwU4zMZk7dxrnYoW3MiqihMLp080XrxpJBEWiI",
+    "picture_source": "ESPN",
+    "news_items": [
+      {
+        "title": "Lakers' surge stalls with 21-point loss to Mavs",
+        "snippet": "",
+        "url": "https://www.espn.com/nba/story/_/id/43329778/lakers-momentum-stalls-118-97-loss-mavericks",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE3WcgXZlRySBVn0SokdmS8ZwU4zMZk7dxrnYoW3MiqihMLp080XrxpJBEWiI",
         "source": "ESPN"
       },
       {
-        "title": "Yankees Acquire Devin Williams For Nestor Cortes, Caleb Durbin",
+        "title": "Austin Reaves had a very blunt assessment of his play against Mavs",
         "snippet": "",
-        "url": "https://www.mlbtraderumors.com/2024/12/brewers-trade-devin-williams-yankees.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOroSoyPdqPe4XRic_8E20TUVcG8Zmjdq3_O26Z_LLsvX1nvSn7sx7iO8HLzw",
-        "source": "MLB Trade Rumors"
+        "url": "https://www.silverscreenandroll.com/2025/1/8/24339102/lakers-austin-reaves-stats-road-trip-dallas-mavs",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAjGb_jzn0pU9e-3vWGgZnxixSGlnYSHNB_YZky1Sas0qbLfsVFSZCVnU6YLE",
+        "source": "Silver Screen and Roll"
+      },
+      {
+        "title": "'The Lakers stink, plain and simple': NBA Legend Charles Barkley Blasts LeBron James' Lakers Following Poor Show Against Doncic Less Dallas Mavericks",
+        "snippet": "",
+        "url": "https://thesportstak.com/basketball/story/the-lakers-stink-plain-and-simple-nba-legend-charles-barkley-blasts-lebron-james-lakers-following-poor-show-against-doncic-less-dallas-mavericks-3154831-2025-01-08",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEp2hAatxp7unmfZcFCvuLky0-OrFxRFU103aeLYfPjNqWoIahjMoW77j5MuI",
+        "source": "SportsTak"
+      }
+    ]
+  },
+  {
+    "title": "nombramientos jenniffer gonzalez",
+    "link": "https://trends.google.com/trending/rss?geo=PR",
+    "pubdate": "Tue, 7 Jan 2025 12:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqt0ZITo7FjPRa4ztJeC3QRskQFslYMjPvMqB4OP2xIqd9ngFZlOwM10w4zsQ",
+    "picture_source": "El Vocero de Puerto Rico",
+    "news_items": [
+      {
+        "title": "EN VIVO: Jenniffer González nombra a Josué Colón como el zar de Energía",
+        "snippet": "",
+        "url": "https://www.elvocero.com/gobierno/en-vivo-jenniffer-gonz-lez-nombra-a-josu-col-n-como-el-zar-de-energ/article_cf137f6c-cdbd-11ef-b4ac-bf79dda0cfcc.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqt0ZITo7FjPRa4ztJeC3QRskQFslYMjPvMqB4OP2xIqd9ngFZlOwM10w4zsQ",
+        "source": "El Vocero de Puerto Rico"
+      },
+      {
+        "title": "Jenniffer González designa al ingeniero Josué Colón como el zar de energía",
+        "snippet": "",
+        "url": "https://www.primerahora.com/noticias/gobierno-politica/notas/jenniffer-gonzalez-designa-al-ingeniero-josue-colon-como-el-zar-de-energia/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFRTuRRdPFRRgbcHbqjp8ywwH1NyfFCDoxh_9q6zg3zUGGTGZtj6NLkJPbtRY",
+        "source": "Primera Hora"
+      },
+      {
+        "title": "Gobernadora anunciará más nombramientos para su gabinete",
+        "snippet": "",
+        "url": "https://www.metro.pr/noticias/2025/01/08/gobernadora-anunciara-mas-nombramientos-para-su-gabinete/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2sNkbOU5JskHo9VRFLHQeDyOEcbd7hcEpkBRsvP9oiMXFVzpC7JB4UylUb7A",
+        "source": "Metro Puerto Rico"
       }
     ]
   }

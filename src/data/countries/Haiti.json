@@ -1,103 +1,187 @@
 [
   {
-    "title": "cagliari – atalanta",
+    "title": "arsenal – newcastle",
     "link": "https://trends.google.com/trending/rss?geo=HT",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 11:00:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScL7FWA1Zlw35CH1ZeDVdttgqOKcbctge2UYGKpf-rH-3YubNHaVIKLH1_v7k",
+    "picture_source": "ESPN",
+    "news_items": [
+      {
+        "title": "Arteta laments 'different' Cup ball in Arsenal loss",
+        "snippet": "",
+        "url": "https://www.espn.com/soccer/story/_/id/43325707/ball-flight-added-arsenal-misses-mikel-arteta",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScL7FWA1Zlw35CH1ZeDVdttgqOKcbctge2UYGKpf-rH-3YubNHaVIKLH1_v7k",
+        "source": "ESPN"
+      },
+      {
+        "title": "Football latest: West Ham boss Julen Lopetegui, Newcastle beat Arsenal, Didier Deschamps to leave France",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/cgkxl267relt",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BvfjXhKSi4mS5PYVWnsQ9IlWROLVcGUuGiJxrSZNSLPhVOZ5p4ckfAGTpm8",
+        "source": "BBC"
+      },
+      {
+        "title": "‘We’ve only done half the work’: Howe cautious after Newcastle victory",
+        "snippet": "",
+        "url": "https://www.theguardian.com/football/2025/jan/07/eddie-howe-arsenal-newcastle-football-carabao-cup",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnPzWgRTZINTZSjae_0zQMlDynnitleGR1mHYuTdqFlbPvDaBM8EFN8p7b_yE",
+        "source": "The Guardian"
+      }
+    ]
+  },
+  {
+    "title": "eldense – valence",
+    "link": "https://trends.google.com/trending/rss?geo=HT",
+    "pubdate": "Tue, 7 Jan 2025 11:20:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMi2JWfJfaEXjuUktncwUQuGSpeMGhOHFdTdZJvwDJSDr0HwScWyd2H2Sv_74",
+    "picture_source": "L'Équipe",
+    "news_items": [
+      {
+        "title": "Eldense 0-2 Valence CF, Coupe du Roi : résumé du match (07/01/2025)",
+        "snippet": "",
+        "url": "https://www.lequipe.fr/Football/match-direct/coupe-du-roi/2024-2025/eldense-valence-cf-live/669109",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMi2JWfJfaEXjuUktncwUQuGSpeMGhOHFdTdZJvwDJSDr0HwScWyd2H2Sv_74",
+        "source": "L'Équipe"
+      },
+      {
+        "title": "La Coupe comme tremplin vers le Pizjuán",
+        "snippet": "",
+        "url": "https://www.footboom1.com/fr/news/football/2273284-the-cup-as-a-springboard-towards-the-pizjuan",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLKmd-JBXegV8DYsCqGK48Mt1ydK1wxA5EvpSE1bruYN1eyRgv8gdmKVz_ZUY",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Coupe du Roi : Valence se qualifie pour les huitièmes",
+        "snippet": "",
+        "url": "https://www.footmercato.net/a8154151294672055312-coupe-du-roi-valence-se-qualifie-pour-les-huitiemes",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlQPWJz-EW2tQE2b8IjgZvlwTICrh6YO2fyKlZ5By84PzY4lyXztb5ozMrn7o",
+        "source": "Foot Mercato"
+      }
+    ]
+  },
+  {
+    "title": "sporting – porto",
+    "link": "https://trends.google.com/trending/rss?geo=HT",
+    "pubdate": "Tue, 7 Jan 2025 12:10:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-    "picture_source": "Virgilio Sport",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuP1jQ8x1Vf7ZHlHfbGEtY14vJNuS2hEHpGCGI_gaLqWX5vjoMxHFsVFZf_TM",
+    "picture_source": "Substack",
     "news_items": [
       {
-        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
+        "title": "As dores de crescimento",
         "snippet": "",
-        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-        "source": "Virgilio Sport"
+        "url": "https://substack.com/home/post/p-154392027?utm_campaign=post&utm_medium=web",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuP1jQ8x1Vf7ZHlHfbGEtY14vJNuS2hEHpGCGI_gaLqWX5vjoMxHFsVFZf_TM",
+        "source": "Substack"
       },
       {
-        "title": "La vostra formazione: voglia di Retegui dal 1′",
+        "title": "Nuno Lobo reage à eliminação do FC Porto: \"Acreditem, vamos ser campeões\"",
         "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
-        "source": "CalcioAtalanta"
+        "url": "https://www.noticiasaominuto.com/desporto/2703420/nuno-lobo-reage-a-eliminacao-do-fc-porto-acreditem-vamos-ser-campeoes",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhKS-E0Rw_MI7-VkwMxvindVrLcx-HcQYEulUb-RdrdA8qNwAxgt4WVrxFl54",
+        "source": "Notícias ao Minuto"
       },
       {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
+        "title": "Sporting CP – FC Porto seguido na SIC por média de 1,8 milhões de telespectadores",
         "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
+        "url": "https://www.ligaportugal.pt/pt/epocas/20242025/noticias/geral/allianz-cup/sporting-cp-fc-porto-seguido-na-sic-por-media-de-18-milhoes-de-telespectadores?bck=L3B0L2hvbWVwYWdlLw",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHb6-01lqp6iV4AIKxQ0YfE7__9MZz-jxckjpuAOCwsKBxCburFHm1BN32x7k",
+        "source": "Liga Portugal"
       }
     ]
   },
   {
-    "title": "espanyol – osasuna",
+    "title": "arsenal vs",
     "link": "https://trends.google.com/trending/rss?geo=HT",
-    "pubdate": "Sat, 14 Dec 2024 04:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTaVMIXaNEO83i1_amrfos1Gj1s5XGg9vWotHs0V7eovOIdrp0aw8CNuYe7YA",
-    "picture_source": "El 1900",
+    "pubdate": "Tue, 7 Jan 2025 12:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiYlShMusO3ukkQPsnPbFbxcyXspVa8sfZpyVpNh4WrqrH6E90CMLDGGMo45g",
+    "picture_source": "London Evening Standard",
     "news_items": [
       {
-        "title": "Fernando Calero llega a la ‘final’ ante CA Osasuna",
+        "title": "Arsenal vs Man Utd to have empty seats after FA Cup ticket row",
         "snippet": "",
-        "url": "https://el1900.com/fernando-calero-llega-a-la-fina-ca-osasuna-espanyol/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTaVMIXaNEO83i1_amrfos1Gj1s5XGg9vWotHs0V7eovOIdrp0aw8CNuYe7YA",
-        "source": "El 1900"
+        "url": "https://www.standard.co.uk/sport/football/arsenal-vs-man-utd-fa-cup-ticket-row-b1203664.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiYlShMusO3ukkQPsnPbFbxcyXspVa8sfZpyVpNh4WrqrH6E90CMLDGGMo45g",
+        "source": "London Evening Standard"
       },
       {
-        "title": "Tejero, Kumbulla, Romero y Roca, novedades en el Espanyol; Ibáñez y Raúl, en el Osasuna",
+        "title": "Ruben Amorim could do something he has never done as Manchester United head coach vs Arsenal",
         "snippet": "",
-        "url": "https://www.infobae.com/espana/agencias/2024/12/14/tejero-kumbulla-romero-y-roca-novedades-en-el-espanyol-ibanez-y-raul-en-el-osasuna/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
-        "source": "Infobae"
+        "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ruben-amorim-could-something-never-30727635",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0VJfeOeJ6Euhr-HpC-9U4coSJeRDIazPRT8V6GP9i0lB7dI92gvVnYL7iVU",
+        "source": "Manchester Evening News"
       },
       {
-        "title": "Moncayola y Moi Gómez se caen de la convocatoria",
+        "title": "Arsenal fans left furious as Man Utd handed huge advantage for FA Cup showdown",
         "snippet": "",
-        "url": "https://riojaactual.com/rioja-actual-educacion/320262/moncayola-y-moi-gomez-se-caen-de-la-convocatoria/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkszAcjeUpRyiSvSQxQcQJ84j3qQr0UKsXcLz4n8G6Wtx7vEmp-5ojw_Omh3s",
-        "source": "Rioja Actual"
+        "url": "https://www.mirror.co.uk/sport/football/news/arsenal-manchester-united-fa-cup-34436821",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcbOTT8Foy2KMhBEesGxJnYU7-yrAPGmzx8P-yk-lvfqcdbdemN9R8DokR9dA",
+        "source": "The Mirror"
       }
     ]
   },
   {
-    "title": "valladolid – valence",
+    "title": "eldense vs valencia",
     "link": "https://trends.google.com/trending/rss?geo=HT",
-    "pubdate": "Fri, 13 Dec 2024 11:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
+    "pubdate": "Tue, 7 Jan 2025 12:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS613eA6Xu9GYMada34uV337FldtxGPuhXkOG980M6yBaHFuOa50RhWYfbSZZU",
+    "picture_source": "Valencia CF",
+    "news_items": [
+      {
+        "title": "Corberán: \"The team had the necessary attitude and commitment\"",
+        "snippet": "",
+        "url": "https://www.valenciacf.com/corberan-the-team-had-the-necessary-attitude-and-commitment",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS613eA6Xu9GYMada34uV337FldtxGPuhXkOG980M6yBaHFuOa50RhWYfbSZZU",
+        "source": "Valencia CF"
+      },
+      {
+        "title": "Match Report: Valencia Advances to Copa Del Rey Round of 16 in Elda",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2273550-match-report-valencia-advances-to-copa-del-rey-round-of-16-in-elda",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSy66Kl9-64D-dtMO1inRyUE88s38pN7_AsddZo7n2762We0TgQHpVayqwsWlE",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Eldense vs Valencia Prediction, lineups, betting tips & odds",
+        "snippet": "",
+        "url": "https://khelnow.com/football/world-football-eldense-vs-valencia-prediction-202501",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGRpIaUOwcVubAg_ta6Y9S9PR6sSkCg2oBxR6ZnYcJhej_nfS1y2-3TBB20eg",
+        "source": "Khel Now"
+      }
+    ]
   },
   {
-    "title": "found",
+    "title": "mavericks – lakers",
     "link": "https://trends.google.com/trending/rss?geo=HT",
-    "pubdate": "Fri, 13 Dec 2024 11:00:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 18:20:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7BLpFI8BDN2fpWkGFmFBveDjbU53OMpTYjHbG5XHdyNdH_dN5USrMKFUPO1k",
-    "picture_source": "KUTV",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAjGb_jzn0pU9e-3vWGgZnxixSGlnYSHNB_YZky1Sas0qbLfsVFSZCVnU6YLE",
+    "picture_source": "Silver Screen and Roll",
     "news_items": [
       {
-        "title": "Camera found in VASA Fitness Center tanning room",
+        "title": "Austin Reaves had a very blunt assessment of his play against Mavs",
         "snippet": "",
-        "url": "https://kutv.com/news/local/camera-found-in-vasa-fitness-center-tanning-room",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7BLpFI8BDN2fpWkGFmFBveDjbU53OMpTYjHbG5XHdyNdH_dN5USrMKFUPO1k",
-        "source": "KUTV"
+        "url": "https://www.silverscreenandroll.com/2025/1/8/24339102/lakers-austin-reaves-stats-road-trip-dallas-mavs",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAjGb_jzn0pU9e-3vWGgZnxixSGlnYSHNB_YZky1Sas0qbLfsVFSZCVnU6YLE",
+        "source": "Silver Screen and Roll"
       },
       {
-        "title": "Camera found in tanning room of VASA gym, police investigating",
+        "title": "Luka Doncic’s latest appearance in Mavericks vs Lakers sends fans into a frenzy",
         "snippet": "",
-        "url": "https://ksltv.com/716355/camera-found-in-tanning-room-of-vasa-gym-police-investigating/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9l7eMRX6e-FJIdikn02SRz4XWtxQA1KDaw4GehBb0WKBACPwP0-54zc-bw9g",
-        "source": "KSLTV.com"
+        "url": "https://theplayoffs.news/en/luka-doncics-latest-appearance-in-mavericks-vs-lakers-sends-fans-into-a-frenzy/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKPDfwbAiSEjzGjpnpuRKnb5y5hvj0DfHaWT1Z9mQUR49ZYhpz6xlCSNBfsuI",
+        "source": "The Playoffs"
       },
       {
-        "title": "Camera found in tanning room at Kaysville VASA gym",
+        "title": "Charles Barkley On Why He Hates The Lakers; Calls Out LeBron And Davis For Lack Of Accountability",
         "snippet": "",
-        "url": "https://www.abc4.com/news/camera-found-in-tanning-room-at-kaysville-vasa-gym/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2oJgMgqQYYvw6j_fGRLs2o30bkQr2A_oqG90hrcfZoiHGI8DK590tmL80suQ",
-        "source": "ABC4 Utah"
+        "url": "https://www.yardbarker.com/nba/articles/charles_barkley_on_why_he_hates_the_lakers_calls_out_lebron_and_davis_for_lack_of_accountability/s1_16751_41539207",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgRAX1Vx1siwuG46ynAbZHD-mobkJUKU1F6maI5FC0fg_GSp0YxNW9SdbfW1Y",
+        "source": "Yardbarker"
       }
     ]
   }

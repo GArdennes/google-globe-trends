@@ -1,187 +1,156 @@
 [
   {
-    "title": "arsenal vs everton",
+    "title": "arsenal vs newcastle",
     "link": "https://trends.google.com/trending/rss?geo=MM",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 11:20:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BvfjXhKSi4mS5PYVWnsQ9IlWROLVcGUuGiJxrSZNSLPhVOZ5p4ckfAGTpm8",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Football latest: West Ham boss Julen Lopetegui, Newcastle beat Arsenal, Didier Deschamps to leave France",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/cgkxl267relt",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BvfjXhKSi4mS5PYVWnsQ9IlWROLVcGUuGiJxrSZNSLPhVOZ5p4ckfAGTpm8",
+        "source": "BBC"
+      },
+      {
+        "title": "Arsenal’s Slim League Cup Hopes: What History Says About Overturning a Two-Goal Deficit",
+        "snippet": "",
+        "url": "https://theanalyst.com/2025/01/arsenal-league-cup-chances-defeat-newcastle",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_L6Ryc4EaZLYphXS71cvd8ImGqLawV4bGCHLdsVo3vDkTnFD372-Uh2E1mTs",
+        "source": "Opta Analyst"
+      },
+      {
+        "title": "Official Carabao Cup account uses perfect 50 Cent meme to troll Mikel Arteta in hilarious response to Arsenal manager's bizarre criticism of match ball",
+        "snippet": "",
+        "url": "https://www.goal.com/en-om/lists/official-carabao-cup-account-uses-50-cent-meme-troll-mikel-arteta-hilarious-response-arsenal-manager-criticism-match-ball/blt836e587fbbbba106",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJRMkjbjflntJJnTf8203surl4s9RcOr7RfFKCSHGtAGHQiVgEf-HGj6RBA2k",
+        "source": "Goal.com"
+      }
+    ]
+  },
+  {
+    "title": "fb",
+    "link": "https://trends.google.com/trending/rss?geo=MM",
+    "pubdate": "Tue, 7 Jan 2025 16:10:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-    "picture_source": "Arsenal.com",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwQXwH4ry_OHPdcUS1Va-9_GQPPLvjA87BhBvJQsYIoJaYTtVdxn63PHh-HY",
+    "picture_source": "The New York Times",
     "news_items": [
       {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
+        "title": "What’s Behind Meta’s Makeover Ahead of Trump’s Second Term?",
         "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-        "source": "Arsenal.com"
+        "url": "https://www.nytimes.com/2025/01/08/technology/meta-facebook-trump-mark-zuckerberg.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwQXwH4ry_OHPdcUS1Va-9_GQPPLvjA87BhBvJQsYIoJaYTtVdxn63PHh-HY",
+        "source": "The New York Times"
       },
       {
-        "title": "Liverpool vs Fulham LIVE: Premier League team news, line-ups and more",
+        "title": "‘Dispiriting’: factchecker reacts to Meta’s move to scrap role",
         "snippet": "",
-        "url": "https://sports.yahoo.com/liverpool-vs-fulham-live-premier-130024902.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzU2E14EGckBt0ic527jchCx0JekCwkEvir9rpx53DSS4htwFJrh0HfhQtldk",
-        "source": "Yahoo Sports"
+        "url": "https://www.theguardian.com/technology/2025/jan/08/dispiriting-a-factchecker-reacts-to-meta-facebook-move-to-scrap-role",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBu_INeoQOHZLGQjVIDeOf-kYKCZzxdFznNw2I8MIpxRMdlBwOGUMV6_GR2Lc",
+        "source": "The Guardian"
       },
       {
-        "title": "LATEST UPDATE: Will Gabriel Magalhaes return to action for Arsenal to face Everton?",
+        "title": "Opinion | Mark Zuckerberg’s Speech Mea Culpa",
         "snippet": "",
-        "url": "https://arsenalcore.com/latest-update-gabriel-magalhaes-injury-return-arsenal-vs-everton/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG8YOvVyTzMiftIuwbKJmWivccPA2OrdJQnZF9Byba-KnOu3A3R0VREHA7h3g",
-        "source": "ArsenalCore"
+        "url": "https://www.wsj.com/opinion/mark-zuckerberg-meta-ends-fact-checking-facebook-free-speech-elon-musk-donald-trump-fa821668",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRporZ4LwBCbuTeQgML6-30liwEyUhbxVh6yAux6wOvtJZFBFlQJl7dD1YnM18",
+        "source": "WSJ"
       }
     ]
   },
   {
-    "title": "liverpool vs fulham",
+    "title": "squid game real story",
     "link": "https://trends.google.com/trending/rss?geo=MM",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 05:10:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnTc34W60ndNHTa7faEOmg2r2dWGGkQHFKKkIbgs9t0gvpC4L4MZtx2felSs",
-    "picture_source": "Rousing The Kop",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1m3Xxm_nwZ8ZXMMf7YURxdInTeXYf-IwNfN1231v1VL5aUbxE8CxpPBZnvw",
+    "picture_source": "Pedestrian TV",
     "news_items": [
       {
-        "title": "Paul Merson predicts the scoreline for Liverpool's Premier League clash against Fulham",
+        "title": "Did The Bone-Chilling True Story Of South Korea’s Brother’s Home Inspire Squid Game?",
         "snippet": "",
-        "url": "https://www.rousingthekop.com/2024/12/13/paul-merson-predicts-the-scoreline-for-liverpools-premier-league-clash-against-fulham/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnTc34W60ndNHTa7faEOmg2r2dWGGkQHFKKkIbgs9t0gvpC4L4MZtx2felSs",
-        "source": "Rousing The Kop"
+        "url": "https://www.pedestrian.tv/entertainment/squid-game-brothers-home/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1m3Xxm_nwZ8ZXMMf7YURxdInTeXYf-IwNfN1231v1VL5aUbxE8CxpPBZnvw",
+        "source": "Pedestrian TV"
       },
       {
-        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
+        "title": "Kidnap, Rape, Deaths — Chilling Tale Of Korea's Brothers' Home That's Claimed To Be 'Inspiration' For Squid Game",
         "snippet": "",
-        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
-        "source": "Liverpool FC"
+        "url": "https://news.abplive.com/offbeat/squid-game-not-real-story-south-korea-brothers-home-of-kidnap-torture-deaths-dark-history-1742639",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-EfzxZp90xzyogQrjuex7KvEoomSfG6J0A26zocmwng3guVKrgg6mYEM_Ms4",
+        "source": "ABP Live"
       },
       {
-        "title": "\"They're in Great Form\" - Alan Shearer Previews Liverpool's Premier League Clash with Fulham",
+        "title": "Squid Game was rejected by studios for 10 years, creator Hwang Dong-hyuk had to sell laptop to pay rent",
         "snippet": "",
-        "url": "https://anfieldindex.com/76425/theyre-in-great-form-alan-shearer-previews-liverpools-premier-league-clash-with-fulham.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8n8fAruf7VHqyvTYP3fLL7050EzMA6HFZ8u5NR-oBeZAZxJTS9UO94wVvfh8",
+        "url": "https://m.economictimes.com/magazines/panache/squid-game-was-rejected-by-studios-for-10-years-creator-hwang-dong-hyuk-had-to-sell-laptop-to-pay-rent/articleshow/117020294.cms",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStSR94SOJ9hq4bAsd9fs_tFeGJIMdGlIsGIHitOcimzqFus9cwQ31GbJUeQAE",
+        "source": "The Economic Times"
+      }
+    ]
+  },
+  {
+    "title": "efl cup",
+    "link": "https://trends.google.com/trending/rss?geo=MM",
+    "pubdate": "Tue, 7 Jan 2025 14:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhLGKi8GFO5CXTrwUr-3elnWMtfNiAfu0-6IGasdIhyzVg936ogrIsaP82Roo",
+    "picture_source": "This Is Anfield",
+    "news_items": [
+      {
+        "title": "Tottenham without 9 players vs. Liverpool with key midfielder suspended",
+        "snippet": "",
+        "url": "https://www.thisisanfield.com/2025/01/tottenham-without-9-players-vs-liverpool-with-key-midfielder-suspended/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhLGKi8GFO5CXTrwUr-3elnWMtfNiAfu0-6IGasdIhyzVg936ogrIsaP82Roo",
+        "source": "This Is Anfield"
+      },
+      {
+        "title": "Davis: Why Arne Slot May Pick a Strong Lineup for Spurs",
+        "snippet": "",
+        "url": "https://anfieldindex.com/77328/davis-why-arne-slot-may-pick-a-strong-lineup-for-spurs.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8yo0cAjri1b0vtTvClbQ3OH9qVkWzZ-1Zx6sUgTFDc_-WABkU8eq-Ftklnc",
         "source": "anfieldindex.com"
+      },
+      {
+        "title": "EFL Cup a distraction from Spurs' unacceptable league form",
+        "snippet": "",
+        "url": "https://www.fotmob.com/pl/news/lv08fcw6qlek1jct1w3nnp2bw-efl-cup-distraction-from-spurs-unacceptable-league-form",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKJJ7EEAAx4tdeVL84p9yJ0B_che9aEdoIvMtZAZSA_eHKGq5FTCSOH-1GiTg",
+        "source": "FotMob"
       }
     ]
   },
   {
-    "title": "leicester city vs chelsea",
+    "title": "天气",
     "link": "https://trends.google.com/trending/rss?geo=MM",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 15:50:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckAAma2YRuoQlo1KRKUojc_a7u1qcsPahYk49Rvw9a8Vi9vJOR_GaslXEMCg",
-    "picture_source": "Sky Sports",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTlPlyWYZqmmkRDTC_Mh9ZJcONw_t9cicpZfRjvSIlG4kK3FVOe1lcIF1kXOk",
+    "picture_source": "The Washington Post",
     "news_items": [
       {
-        "title": "Leicester vs Chelsea LIVE! Women's Super League team news, updates, match commentary, score, report",
+        "title": "Southern states bracing for their biggest snowstorm in years",
         "snippet": "",
-        "url": "https://www.skysports.com/football/live-blog/36996/13272727/leicester-vs-chelsea-live-womens-super-league-team-news-updates-match-commentary-score-report",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckAAma2YRuoQlo1KRKUojc_a7u1qcsPahYk49Rvw9a8Vi9vJOR_GaslXEMCg",
-        "source": "Sky Sports"
+        "url": "https://www.washingtonpost.com/weather/2025/01/08/winter-storm-central-southern-eastern-states-forecast/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTlPlyWYZqmmkRDTC_Mh9ZJcONw_t9cicpZfRjvSIlG4kK3FVOe1lcIF1kXOk",
+        "source": "The Washington Post"
       },
       {
-        "title": "WSL predictions: Gameweek 10",
+        "title": "Winter Storm Forecast to Bring Snow and Ice to Texas",
         "snippet": "",
-        "url": "https://www.90min.com/wsl-predictions-gameweek-10-2024-25",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtkYYKOdRCGqP9N8O2xdLdRmcZhTioXKajT7e10fyurxw2iQxiUkzvoYDkZLk",
-        "source": "90Min.com"
+        "url": "https://www.nytimes.com/2025/01/07/weather/texas-snow-ice-forecast.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLRela2TnldqzuS7dhDbvd87xVIseIIjKZBb4Le104lVgJ13EXmQFg82_7p8",
+        "source": "The New York Times"
       },
       {
-        "title": "Preview: Leicester City Women vs. Chelsea Women - prediction, team news, lineups",
+        "title": "Another winter storm is brewing: Warnings issued as another blast of snow expected",
         "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/leicester-w/preview/preview-leicester-vs-chelsea-prediction-team-news-lineups_560361.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCAL-SS0BGcmemXXZsivJ4imlWVeguNX9zR4kSQOVeHz6FN89m_3JI3A8xwMQ",
-        "source": "Sports Mole"
-      }
-    ]
-  },
-  {
-    "title": "2029",
-    "link": "https://trends.google.com/trending/rss?geo=MM",
-    "pubdate": "Fri, 13 Dec 2024 22:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2LPlbApLypIkWr5FCjP8t0gZiQYh71Ovj-v3wSjkoz08WMqMLaTkxRyf8t3s",
-    "picture_source": "Financial Times",
-    "news_items": [
-      {
-        "title": "Hertz and the Big Rig",
-        "snippet": "",
-        "url": "https://www.ft.com/content/12c984b4-d67a-4a12-90d0-91ae325d5a59",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2LPlbApLypIkWr5FCjP8t0gZiQYh71Ovj-v3wSjkoz08WMqMLaTkxRyf8t3s",
-        "source": "Financial Times"
-      },
-      {
-        "title": "Hertz Announces Receipt of Requisite Consents from Holders to Amend its 12.625% First Lien Senior Secured Notes Due 2029 and 8.000% Exchangeable Senior Second-Lien PIK Notes due 2029 and Expiration of Consent Solicitations",
-        "snippet": "",
-        "url": "https://www.abc4.com/business/press-releases/cision/20241213NY79326/hertz-announces-receipt-of-requisite-consents-from-holders-to-amend-its-12-625-first-lien-senior-secured-notes-due-2029-and-8-000-exchangeable-senior-second-lien-pik-notes-due-2029-and-expiration-of-c",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRL1oNn-dIUEJ7Wa7c5bVlw2pxRuiZksCyU6cGH2oIfQDo2kSmZjI6abIrl0vw",
-        "source": "ABC4 Utah"
-      },
-      {
-        "title": "Hertz to offer $500 million in senior notes",
-        "snippet": "",
-        "url": "https://www.investing.com/news/company-news/hertz-to-offer-500-million-in-senior-notes-93CH-3756692",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXoOtGhRRvgR1HUfiRulp-Lfh6Ufwxf64FGnbtLVraia6A082KwWZ77xV_O30",
-        "source": "Investing.com"
-      }
-    ]
-  },
-  {
-    "title": "ig",
-    "link": "https://trends.google.com/trending/rss?geo=MM",
-    "pubdate": "Fri, 13 Dec 2024 10:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtmunFcfupU9_jadUdCjGzYw0mR7ydFpGfkhhfD_Gmzt5Hec5HVoia16-e1g",
-    "picture_source": "CNN",
-    "news_items": [
-      {
-        "title": "Former FBI deputy director reacts to DOJ report finding no undercover agents at Capitol on Jan. 6",
-        "snippet": "",
-        "url": "https://www.cnn.com/2024/12/13/politics/video/january-6-right-wing-claims-fbi-crowd-report-mccabe-cnntm-digvid",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtmunFcfupU9_jadUdCjGzYw0mR7ydFpGfkhhfD_Gmzt5Hec5HVoia16-e1g",
-        "source": "CNN"
-      },
-      {
-        "title": "Musk, Vance seize on Jan. 6 report debunking FBI claims as proof of conspiracy",
-        "snippet": "",
-        "url": "https://www.axios.com/2024/12/13/trump-musk-vance-jan-6-report-fbi",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdjrWcPpyjMxHLoWrwBj8U8Y9nYJpAjIATwmn_ZtNotPlchFjfKzoe4KnmDI0",
-        "source": "Axios"
-      },
-      {
-        "title": "As another Jan. 6 conspiracy theory collapses, JD Vance pretends otherwise",
-        "snippet": "",
-        "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/another-jan-6-conspiracy-theory-collapses-jd-vance-pretends-otherwise-rcna184106",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8-6aOxqbxb74tyYVYxBdiNT4TCTMMYPgt2zaj_YC1CD4R31Nn92CXT8w9Ip0",
-        "source": "MSNBC News"
-      }
-    ]
-  },
-  {
-    "title": "allu arjun",
-    "link": "https://trends.google.com/trending/rss?geo=MM",
-    "pubdate": "Fri, 13 Dec 2024 08:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtJNUrBUtnN97P84KyH8ul3YmibpuznwOY-pgmsgPWS69E4_2m_4KavnO-KBo",
-    "picture_source": "thesun.my",
-    "news_items": [
-      {
-        "title": "Indian actor held after stampede death at film screening",
-        "snippet": "",
-        "url": "https://thesun.my/world-news/indian-actor-held-after-stampede-death-at-film-screening-EH13418826",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtJNUrBUtnN97P84KyH8ul3YmibpuznwOY-pgmsgPWS69E4_2m_4KavnO-KBo",
-        "source": "thesun.my"
-      },
-      {
-        "title": "Are National Awards Becoming A Curse For TFI?",
-        "snippet": "",
-        "url": "https://www.m9.news/movienews/are-national-awards-becoming-a-curse-for-tfi/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB_5it1ATmh-uTtxq2836DlSXskMUEijbbbXK5IIhvSuYfoubxwNJjciBr14I",
-        "source": "M9.news"
-      },
-      {
-        "title": "Chiranjeevi praised by fans after Allu Arjun gets bail, but here’s what really happened",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/web-series/news/telugu/chiranjeevi-praised-by-fans-after-allu-arjun-gets-bail-but-heres-what-really-happened/articleshow/116305194.cms",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxdBpjx_shDsDPqYKsAf5DuhEEEmsVwMh9_SIIv3jWduLdDnJtzASGF_gWI3E",
-        "source": "Times of India"
+        "url": "https://www.usatoday.com/story/news/nation/2025/01/08/winter-storm-weather-updates-snow-forecast/77537885007/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSudGbgTVlV3DCSXiUGhXIB9g0eERLXfHXxE49tO9CaKU3ocwztGQLEisNE134",
+        "source": "USA Today"
       }
     ]
   }

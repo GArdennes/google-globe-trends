@@ -1,156 +1,125 @@
 [
   {
-    "title": "trinidad express",
+    "title": "arsenal vs newcastle",
     "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Sat, 14 Dec 2024 02:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTltO9-WReYqF8CLCPTzyOhefk2AZZxOjGy63d4gxDxI6QKBXT-la4gLVebl-Q",
-    "picture_source": "Trinidad Express Newspapers",
-    "news_items": [
-      {
-        "title": "Speaker to Young: Explain 3-month delay",
-        "snippet": "",
-        "url": "https://trinidadexpress.com/news/local/speaker-to-young-explain-3-month-delay/article_08c9766e-b9cb-11ef-b8ef-a7a29cd215f5.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTltO9-WReYqF8CLCPTzyOhefk2AZZxOjGy63d4gxDxI6QKBXT-la4gLVebl-Q",
-        "source": "Trinidad Express Newspapers"
-      },
-      {
-        "title": "Wharf swimmer found dead in the gulf",
-        "snippet": "",
-        "url": "https://trinidadexpress.com/newsextra/wharf-swimmer-found-dead-in-the-gulf/article_2099ef54-ba01-11ef-93e3-a7d03c343cd0.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYsJ07fglAO8QqG3nAFICY6UNvqNqMBxe_7AtzJx1ANDAufn_IxbJnd68H64",
-        "source": "Trinidad Express Newspapers"
-      },
-      {
-        "title": "Body found off King's Wharf, San Fernando",
-        "snippet": "",
-        "url": "https://newsday.co.tt/2024/12/13/body-found-off-kings-wharf-san-fernando/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2F6oeOy7TlGapHP47pMuowsh11UagwEbJeSOlhyuNcJVPw-NbF14jJC0rMyo",
-        "source": "Trinidad and Tobago Newsday"
-      }
-    ]
-  },
-  {
-    "title": "weather tomorrow",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Fri, 13 Dec 2024 17:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-    "picture_source": "5 EYEWITNESS NEWS",
-    "news_items": [
-      {
-        "title": "Ken says a warming begins today",
-        "snippet": "",
-        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-        "source": "5 EYEWITNESS NEWS"
-      },
-      {
-        "title": "Warmer temps this weekend and especially for next week",
-        "snippet": "",
-        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
-        "source": "WIS News 10"
-      },
-      {
-        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
-        "snippet": "",
-        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
-        "source": "WLWT"
-      }
-    ]
-  },
-  {
-    "title": "australia vs india",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Fri, 13 Dec 2024 16:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Ie-bkpSEFVb6wVIdUbV7KDipVqWjPMW4LYhQ2eZihq7PdEuAhEwHXk4x6P0",
-    "picture_source": "ESPNcricinfo",
-    "news_items": [
-      {
-        "title": "Khawaja, McSweeney steady for 13.2 overs before rain ruins day one of Gabba Test",
-        "snippet": "",
-        "url": "https://www.espncricinfo.com/series/australia-vs-india-2024-25-1426547/australia-vs-india-3rd-test-1426557/match-report",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Ie-bkpSEFVb6wVIdUbV7KDipVqWjPMW4LYhQ2eZihq7PdEuAhEwHXk4x6P0",
-        "source": "ESPNcricinfo"
-      },
-      {
-        "title": "Australia vs India: Rain ruins day one of third Test in Brisbane",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/cricket/articles/c1d3exv3v9lo",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTngsumfQhgMBeFwE5JN5QPaT8CIhR5yrDngqGcKIR5vYAqtLPcvc61NCJTuug",
-        "source": "BBC"
-      },
-      {
-        "title": "Why India's toss decision at the Gabba defies history but not logic",
-        "snippet": "",
-        "url": "https://www.wisden.com/series/australia-vs-india-m-202425/cricket-news/why-indias-history-defying-decision-to-field-at-brisbane-isnt-as-bad-as-it-seems",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdT-hdMmQWSs9buew1Fa2G43GOMHqWcXusLuqVoBRt3yQt8AsuoRVfH_yTaak",
-        "source": "Wisden"
-      }
-    ]
-  },
-  {
-    "title": "new zealand vs england",
-    "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Fri, 13 Dec 2024 13:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
+    "pubdate": "Tue, 7 Jan 2025 11:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BvfjXhKSi4mS5PYVWnsQ9IlWROLVcGUuGiJxrSZNSLPhVOZ5p4ckfAGTpm8",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "New Zealand vs England: Matthew Potts and Gus Atkinson lead tourists in Hamilton",
+        "title": "Football latest: West Ham boss Julen Lopetegui, Newcastle beat Arsenal, Didier Deschamps to leave France",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/cricket/articles/cx27x3w8ypno",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBdpLjcdR81Bbzyt04aXpzYnpk0aKEe2gncrcnoar3ADMhAS8c6LqEn_U-Ss",
+        "url": "https://www.bbc.com/sport/football/live/cgkxl267relt",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BvfjXhKSi4mS5PYVWnsQ9IlWROLVcGUuGiJxrSZNSLPhVOZ5p4ckfAGTpm8",
         "source": "BBC"
       },
       {
-        "title": "Stokes motivates his team to put in extra effort, says England pacer Potts",
+        "title": "Arteta laments 'different' Cup ball in Arsenal loss",
         "snippet": "",
-        "url": "https://www.socialnews.xyz/2024/12/14/stokes-motivates-his-team-to-put-in-extra-effort-says-england-pacer-potts/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8yf16L3Z8OIdisEwTKYKo0Vk7tuAifDhD0UMf9sWS_QwHon8eOB5Z4KhX4Bw",
-        "source": "Social News XYZ"
+        "url": "https://www.espn.com/soccer/story/_/id/43325707/ball-flight-added-arsenal-misses-mikel-arteta",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScL7FWA1Zlw35CH1ZeDVdttgqOKcbctge2UYGKpf-rH-3YubNHaVIKLH1_v7k",
+        "source": "ESPN"
       },
       {
-        "title": "Woakes replaced by Potts for final New Zealand Test match",
+        "title": "Arsenal 0-2 Newcastle highlights",
         "snippet": "",
-        "url": "https://www.sportsmax.tv/cricket/cricket-international/item/155897-woakes-replaced-by-potts-for-final-new-zealand-test-match",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOHggd7E0Ajt2wUkvpH_k6VtKAnWRxhaQR6VLsWKk39I12bPqLH8wCQNTMCaA",
-        "source": "SportsMax"
+        "url": "https://www.skysports.com/football/live-blog/22524/13284532/arsenal-vs-newcastle-live-carabao-cup-semi-final-first-leg-match-updates-news-score-stream-and-highlights",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2kLfURolxH7ueq5QRU9t_o6l_Ci4qdJLH6QmKDKXjfAVkoXpYuW1NDG8Ktpk",
+        "source": "Sky Sports"
       }
     ]
   },
   {
-    "title": "pakistan vs south africa",
+    "title": "efl cup",
     "link": "https://trends.google.com/trending/rss?geo=TT",
-    "pubdate": "Fri, 13 Dec 2024 08:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFY19KY3tmVOHSP4uhglANAWJ9vvzFULGWBMh-cljqo97Sp3-Evdj2VIAaNI",
-    "picture_source": "qhubo.com.ni",
+    "pubdate": "Tue, 7 Jan 2025 12:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8U69NeWzeE8Wwkcm-iXNVTo0Up-vvqVgpuR4VvP-KSnRYKzkyLR1nPXGKZks",
+    "picture_source": "www.ysscores.com",
     "news_items": [
       {
-        "title": "Missed the Bus, But Not the Moment! What a Comeback!",
+        "title": "History of confrontations between Liverpool and Tottenham in all tournaments",
         "snippet": "",
-        "url": "https://www.qhubo.com.ni/news2/missed-the-bus-but-not-the-moment-what-a-comeback/9504/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFY19KY3tmVOHSP4uhglANAWJ9vvzFULGWBMh-cljqo97Sp3-Evdj2VIAaNI",
-        "source": "qhubo.com.ni"
+        "url": "https://www.ysscores.com/en/news/10368202/History-of-confrontations-between-Liverpool-and-Tottenham-in-all-tournaments",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8U69NeWzeE8Wwkcm-iXNVTo0Up-vvqVgpuR4VvP-KSnRYKzkyLR1nPXGKZks",
+        "source": "www.ysscores.com"
       },
       {
-        "title": "RSA Vs PAK, 2nd T20I: Ton-Up Hendricks Takes South Africa To Series Win Over Pakistan",
+        "title": "Preview: Spurs and Liverpool’s Carabao Cup semi-final, first leg",
         "snippet": "",
-        "url": "https://www.outlookindia.com/sports/cricket/pakistan-vs-south-africa-2nd-t20i-reeza-hendricks-first-hundred-takes-sa-to-series-win-over-pak-in-pics",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Dhu9f5ZeI7jM8j8VbwaNzcECGqOuCIudmW3w7fc9eooXzOfLAUp1ihBCbS4",
-        "source": "Outlook India"
+        "url": "https://www.fotmob.com/id/topnews/17760-preview-spurs-liverpools-carabao-cup-semi-final-first-leg?utm_source=fotmob",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_JSH7jEiD0YINHTsXabS6Tte8aF52-wqCvgPAs3sUya3wzT6sDMApm-3znnY",
+        "source": "FotMob"
       },
       {
-        "title": "SA vs PAK Dream11 Team Prediction Fantasy Tips Predicted Playing XI Match 3 South Africa vs Pakistan T20I seri",
+        "title": "Wednesday Football Tips: Back Spurs and Liverpool goals with 11/4 and 7/1 Bet Builders",
         "snippet": "",
-        "url": "https://www.timesnownews.com/sports/cricket/sa-vs-pak-dream11-team-prediction-fantasy-tips-predicted-playing-xi-match-3-south-africa-vs-pakistan-t20i-series-2024-article-116314647",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5F-OcRZbpKpncSZsOd4Z9ySynRcbk8JiuPLZqOTNmKVevV-n3MhaE9F3ExHY",
-        "source": "Times Now"
+        "url": "https://onefootball.com/en/news/wednesday-football-tips-back-spurs-and-liverpool-goals-with-114-and-71-bet-builders-40530981",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj0kUyCDrQwDszsx5cIPxuklFdXI1hGQdHEnyITt5ab8KWmOik5xOgfPlt_NE",
+        "source": "OneFootball"
+      }
+    ]
+  },
+  {
+    "title": "new zealand vs sri lanka",
+    "link": "https://trends.google.com/trending/rss?geo=TT",
+    "pubdate": "Wed, 8 Jan 2025 01:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvm9e_BHsHafDyrzj85O30JycqkpzbEwLIrteYLcSwhYxcWvIRJEYwPHD9MM",
+    "picture_source": "ESPNcricinfo",
+    "news_items": [
+      {
+        "title": "New Zealand breeze past Sri Lanka despite Theekshana hat-trick",
+        "snippet": "",
+        "url": "https://www.espncricinfo.com/series/new-zealand-vs-sri-lanka-2024-25-1443537/new-zealand-vs-sri-lanka-2nd-odi-1443547/match-report",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvm9e_BHsHafDyrzj85O30JycqkpzbEwLIrteYLcSwhYxcWvIRJEYwPHD9MM",
+        "source": "ESPNcricinfo"
+      },
+      {
+        "title": "Sri Lanka opt to field in 37-overs-a-side contest after long rain delay",
+        "snippet": "",
+        "url": "https://bvmsports.com/2025/01/07/sri-lanka-opt-to-field-in-37-overs-a-side-contest-after-long-rain-delay/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfzYSjWf6e-HayFIXaExuGaqgfwkcEyua9etEBpbK_7n56qYyo5OyU6M9JPIo",
+        "source": "BVM Sports"
+      },
+      {
+        "title": "Mark Chapman builds his case for Champions Trophy place in Black Caps’ ODI win over Sri Lanka",
+        "snippet": "",
+        "url": "https://www.thepost.co.nz/sport/360542983/mark-chapman-builds-his-case-champions-trophy-place-black-caps-vs-sri-lanka",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRG59n9N4rr66_YrTvkabx4MUiB9rjS9c40VNhDvt6JbBCpyUdMpcWzwKE2X04",
+        "source": "The Post (Wellington)"
+      }
+    ]
+  },
+  {
+    "title": "mavericks vs lakers",
+    "link": "https://trends.google.com/trending/rss?geo=TT",
+    "pubdate": "Tue, 7 Jan 2025 18:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEp2hAatxp7unmfZcFCvuLky0-OrFxRFU103aeLYfPjNqWoIahjMoW77j5MuI",
+    "picture_source": "SportsTak",
+    "news_items": [
+      {
+        "title": "'The Lakers stink, plain and simple': NBA Legend Charles Barkley Blasts LeBron James' Lakers Following Poor Show Against Doncic Less Dallas Mavericks",
+        "snippet": "",
+        "url": "https://thesportstak.com/basketball/story/the-lakers-stink-plain-and-simple-nba-legend-charles-barkley-blasts-lebron-james-lakers-following-poor-show-against-doncic-less-dallas-mavericks-3154831-2025-01-08",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEp2hAatxp7unmfZcFCvuLky0-OrFxRFU103aeLYfPjNqWoIahjMoW77j5MuI",
+        "source": "SportsTak"
+      },
+      {
+        "title": "Austin Reaves keeps it real about his poor play versus Mavericks",
+        "snippet": "",
+        "url": "https://sports.yahoo.com/austin-reaves-keeps-real-poor-150109418.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1BMJBDTOuvMwPz3-jtEmgjsyTCpZ2dsrTfYGgPDO_rFlSkj6AgVwH-7EUa3k",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "LeBron James on one reason the Lakers' defense struggled versus Mavs",
+        "snippet": "",
+        "url": "https://lebronwire.usatoday.com/story/sports/nba/2025/01/08/lebron-james-on-one-reason-the-lakers-defense-struggled-versus-mavs/77533998007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxkpZqCds2ttkNn6oP-jRS_0Q5cEq_-U260hGBRlgmM75T0E2ktbJAou1Mvgg",
+        "source": "LeBron Wire"
       }
     ]
   }

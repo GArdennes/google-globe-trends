@@ -1,304 +1,311 @@
 [
   {
-    "title": "mainz – bayern",
+    "title": "alfred gusenbauer",
     "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWB5Zmt3tYTJnfqsJcF5QLcQnmCm0VGmcasza1af7nzCY7X1UY1Dv2Sx9OWdk",
+    "pubdate": "Wed, 8 Jan 2025 07:40:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRysyeKbCDWxCpxajaeXccVjuvj6JhxpoUlpwqPguBNTPoDKop_y-VPxdXiTMc",
+    "picture_source": "Der Standard",
+    "news_items": [
+      {
+        "title": "Gusenbauer und Co: Signa-Masseverwalter will eine Milliarde von früherem Vorstand und Aufsichtsrat",
+        "snippet": "",
+        "url": "https://www.derstandard.at/story/3000000251908/gusenbauer-und-co-signa-masseverwalter-will-eine-milliarde-von-frueherem-vorstand-und-aufsichtsrat",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRysyeKbCDWxCpxajaeXccVjuvj6JhxpoUlpwqPguBNTPoDKop_y-VPxdXiTMc",
+        "source": "Der Standard"
+      },
+      {
+        "title": "Signa-Insolvenzverwalter will von Managern über 1 Mrd. Euro",
+        "snippet": "",
+        "url": "https://www.vol.at/signa-insolvenzverwalter-will-von-managern-uber-1-mrd-euro/9148759",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7GyQzLph6Y1B2v5s5P6gPC2t384ek1BiMhtRteK1kOqgP-BXRMJqNzJgt46k",
+        "source": "VOL.AT"
+      },
+      {
+        "title": "Gewaltige Forderungen - Gusenbauer und Co. sollen 1 Milliarde € bezahlen",
+        "snippet": "",
+        "url": "https://www.krone.at/3646545",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR29RCCqpxUeVJFp7ePaaSpTn_P5LB27JbW-uJjzRL8k0njNilgW2AP4Uhy2y8",
+        "source": "Kronen Zeitung"
+      }
+    ]
+  },
+  {
+    "title": "fressnapf rückruf",
+    "link": "https://trends.google.com/trending/rss?geo=AT",
+    "pubdate": "Wed, 8 Jan 2025 05:30:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgSwz8EbeKoMUp4jNBr89ApbizVrrsTCuT2fkS-rPpKYN6r0UgdCYWeXSwEE0",
+    "picture_source": "Kleine Zeitung",
+    "news_items": [
+      {
+        "title": "Salmonellen-Gefahr: Dieses Trockenfutter für Hunde und Katzen ist betroffen",
+        "snippet": "",
+        "url": "https://www.kleinezeitung.at/oesterreich/19235442/salmonellen-gefahr-dieses-trockenfutter-fuer-hunde-und-katzen-ist",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgSwz8EbeKoMUp4jNBr89ApbizVrrsTCuT2fkS-rPpKYN6r0UgdCYWeXSwEE0",
+        "source": "Kleine Zeitung"
+      },
+      {
+        "title": "Salmonellen in Hunde- und Katzenfutter: 18 Produkte zurückgerufen",
+        "snippet": "",
+        "url": "https://www.5min.at/5202501081458/salmonellen-in-hunde-und-katzenfutter-18-produkte-zurueckgerufen/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kc5OWKS-_LjZQjbexhqylw0Gv69-n76CKCsRvBfR9041_J6DsB2LH5D0dKw",
+        "source": "5 Minuten"
+      },
+      {
+        "title": "Salmonellengefahr: Fressnapf ruft zahlreiche Sorten Hunde- und Katzenfutter zurück",
+        "snippet": "",
+        "url": "https://www.spiegel.de/panorama/salmonellen-fressnapf-ruft-zahlreiche-hundefutter-und-katzenfutter-zurueck-a-2e65b377-c50f-437b-98c0-5f189cf2e40f",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUE4dmxY9cl5adJ0Axuw_adqH2yvUi-QNspBTVkwRM4BaS_LZSjbkzjv3dzBQ",
+        "source": "Spiegel"
+      }
+    ]
+  },
+  {
+    "title": "wetter schneefall",
+    "link": "https://trends.google.com/trending/rss?geo=AT",
+    "pubdate": "Wed, 8 Jan 2025 04:50:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUzjQhsIEbNB3UaAwi3wfj8hYJvRMcmCp-9OG-P3exzfnsiLNRReuqSAQHQbM",
     "picture_source": "BILD.de",
     "news_items": [
       {
-        "title": "FC Bayern: Kompany sorgt für Abwehr-Überraschung gegen Mainz!",
+        "title": "Unwetter: Schnee-Walze trifft Deutschland",
         "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/fc-bayern-kompany-sorgt-fuer-abwehr-ueberraschung-gegen-mainz-675d82c48011081334d94bb4",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWB5Zmt3tYTJnfqsJcF5QLcQnmCm0VGmcasza1af7nzCY7X1UY1Dv2Sx9OWdk",
+        "url": "https://www.bild.de/news/wetter/unwetter-schnee-walze-trifft-deutschland-677e2d4df1467569f2bc9a5e",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUzjQhsIEbNB3UaAwi3wfj8hYJvRMcmCp-9OG-P3exzfnsiLNRReuqSAQHQbM",
         "source": "BILD.de"
       },
       {
-        "title": "Ab 15.30 Uhr im Ticker - Deutsche Konferenz mit Bayern und Leverkusen LIVE",
+        "title": "Kräftige Schneefälle bis in tiefe Lagen",
         "snippet": "",
-        "url": "https://www.krone.at/3624584",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxN0z-5KeJDTLgTfZ96w07ShSjo8PC4EljSnks2MYtvuVmr0exNuv-Q-uCKA",
+        "url": "https://wetterkanal.kachelmannwetter.com/kraeftige-schneefaelle-bis-in-tiefe-lagen/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlUISnKI74CzRv3x63fslix-luGGJ3bjD1azDJf-gEhMgAHfJkFv6O68OpyPw",
+        "source": "Wetterkanal Kachelmannwetter"
+      },
+      {
+        "title": "Wetteraussichten: Turbulente Tage mit nachfolgender Hochdruckwetterlage",
+        "snippet": "",
+        "url": "https://www.wetterprognose-wettervorhersage.de/wetter-jahreszeiten/winter/wetter-winter-2024-2025/12528-wetteraussichten-turbulente-tage-mit-nachfolgender-hochdruckwetterlage.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8Ue2aoF6p_taUcWUZMlVLOkIMOqSSLlD2C4nkyu-7s-JZsHdXTo-0Nxlr0G0",
+        "source": "Wetterprognose und Wettervorhersage"
+      }
+    ]
+  },
+  {
+    "title": "madonna di campiglio",
+    "link": "https://trends.google.com/trending/rss?geo=AT",
+    "pubdate": "Wed, 8 Jan 2025 08:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyzpnvL4DaGm7iE-H8HQwM6TumO4hakigYtauVwuX5o_4_TMjb3rswYiIQDU0",
+    "picture_source": "Unsertirol24",
+    "news_items": [
+      {
+        "title": "E’ tempo di 3Tre",
+        "snippet": "",
+        "url": "https://www.unsertirol24.com/2025/01/07/e-tempo-di-3tre/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyzpnvL4DaGm7iE-H8HQwM6TumO4hakigYtauVwuX5o_4_TMjb3rswYiIQDU0",
+        "source": "Unsertirol24"
+      },
+      {
+        "title": "Quando lo sci alpino oggi in tv: orari slalom Madonna di Campiglio, startlist, programma, streaming",
+        "snippet": "",
+        "url": "https://www.oasport.it/2025/01/a-che-ora-lo-sci-alpino-oggi-in-tv-startlist-slalom-madonna-di-campiglio-programma-streaming/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaAgdn9ORAq8Z8xcu2C0Q5CSndckrY5yB9_Xhwee9_sHoXOMb5Bym3RNh8ink",
+        "source": "OA Sport"
+      },
+      {
+        "title": "Tomba, ricordi da... Salotto Bianco: 'Sierra Nevada i giorni più belli, vincere a Campiglio dopo Stenmark e Edalini...'",
+        "snippet": "",
+        "url": "https://www.neveitalia.it/sport/scialpino/maschile/news/tomba-ricordi-da-salotto-bianco-sierra-nevada-i-giorni-piu-belli-vincere-a-campiglio-dopo-stenmark-e-edalini",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeo3CMG9x10pA1avZQYJHjku_VfI6_2z_9X8ojQZMbSpm15csqfoFTbj0_Q5s",
+        "source": "neveitalia.it"
+      }
+    ]
+  },
+  {
+    "title": "novomatic verkauft admiral",
+    "link": "https://trends.google.com/trending/rss?geo=AT",
+    "pubdate": "Wed, 8 Jan 2025 06:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgpFdQCdkdZIr4tDdZ0heji39u7KKizb3q5A-OAkup9jzz2szTGvRYb2Mst9s",
+    "picture_source": "noe.ORF.at",
+    "news_items": [
+      {
+        "title": "Novomatic verkauft Admiral Sportwetten an Tipico",
+        "snippet": "",
+        "url": "https://noe.orf.at/stories/3288179/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgpFdQCdkdZIr4tDdZ0heji39u7KKizb3q5A-OAkup9jzz2szTGvRYb2Mst9s",
+        "source": "noe.ORF.at"
+      },
+      {
+        "title": "Paukenschlag in der Glücksspiel-Branche: Tipico schluckt die Admiral-Gruppe",
+        "snippet": "",
+        "url": "https://kurier.at/wirtschaft/paukenschlag-novomatic-verkauft-admiral-sportwetten-an-tipico/402995950",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS10ZsfQZ0y9UNpZJGq8nv-RPIIinuIAawGoxUExoACzBqhuhtsDQwa3USvy64",
+        "source": "Kurier"
+      },
+      {
+        "title": "Österreichischer Wettanbieter Admiral wird verkauft",
+        "snippet": "",
+        "url": "https://www.5min.at/5202501081121/oesterreichischer-wettanbieter-admiral-wird-verkauft/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Xio0cFOG5gFH-JUSgO5NEnOJMtVQbMP5iQP3IrQj1rfjr0PemUUXgEgibTQ",
+        "source": "5 Minuten"
+      }
+    ]
+  },
+  {
+    "title": "annie altman",
+    "link": "https://trends.google.com/trending/rss?geo=AT",
+    "pubdate": "Wed, 8 Jan 2025 04:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFuuwUmlxCQhsCu6hHzG24sJW1JVhGlSEVoDocgB1tF6MoXo8tZTYjNR7iijY",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "OpenAI boss Sam Altman denies sexual abuse allegations made by sister",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/cz6lq6x2gd9o",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFuuwUmlxCQhsCu6hHzG24sJW1JVhGlSEVoDocgB1tF6MoXo8tZTYjNR7iijY",
+        "source": "BBC"
+      },
+      {
+        "title": "OpenAI chief executive Sam Altman accused of sexual abuse by sister in lawsuit",
+        "snippet": "",
+        "url": "https://www.theguardian.com/technology/2025/jan/08/openai-chief-executive-sam-altman-accused-of-sexual-abuse-by-sister-in-lawsuit",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReQ5EJqXp6ebBUE2pxMjFXEkkuyM47vYXthlILYE4QVXoq1TTGvkxd5IKgaH8",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Sam Altman's sister accused him of sexual abuse in a new lawsuit. His family is rallying behind him.",
+        "snippet": "",
+        "url": "https://www.businessinsider.com/sam-altman-family-speaks-out-against-sisters-sexual-abuse-lawsuit-2025-1",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqcNCMAxy75YEeCQiJ8OsKQdg8qlVmGe4v_tZWofyMz0JnOkcNmZIeZ4Nv5s",
+        "source": "Business Insider"
+      }
+    ]
+  },
+  {
+    "title": "sylvie meis",
+    "link": "https://trends.google.com/trending/rss?geo=AT",
+    "pubdate": "Wed, 8 Jan 2025 09:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREPrwwdzDw3jXNGyxK9-8WXKbswRTv97V_mLHLnAe5o_GBw6PP1QRonzZK3uY",
+    "picture_source": "Kronen Zeitung",
+    "news_items": [
+      {
+        "title": "Sexy Nixe - Sylvie Meis heizt mit Bikini-Schnappschüssen ein",
+        "snippet": "",
+        "url": "https://www.krone.at/3647037",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREPrwwdzDw3jXNGyxK9-8WXKbswRTv97V_mLHLnAe5o_GBw6PP1QRonzZK3uY",
         "source": "Kronen Zeitung"
       },
       {
-        "title": "Liveticker: Pressetalk vor 1. FSV Mainz 05 - FC Bayern",
+        "title": "Sylvie Meis räkelt sich am Strand im Bikini: Heißer geht nicht",
         "snippet": "",
-        "url": "https://fcbayern.com/de/news/2024/12/ticker-pressetalk-des-fc-bayern-vor-dem-auswaertsspiel-beim-1.-fsv-mainz-05",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF4v_RAvT8MImhbeK8QiMJkb-CaT2u__Eh5K1Gcu42UIMFfEffcJCG3IZvH_A",
-        "source": "FC Bayern"
+        "url": "https://www.msn.com/de-at/nachrichten/other/sylvie-meis-r%C3%A4kelt-sich-am-strand-im-bikini-hei%C3%9Fer-geht-nicht/ar-AA1x9ZaE",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROvr6pGqaS76QU9Ky9QBmykmDGcDkRLD7loo44VlLmgVodev2NDVoMC8JI8AQ",
+        "source": "MSN"
+      },
+      {
+        "title": "Nach Krebsdiagnose: Mausi Lugner wegen schlechter Werte im Krankenhaus",
+        "snippet": "",
+        "url": "https://www.kleinezeitung.at/leute/19233866/christina-lugner-wegen-schlechter-werte-im-krankenhaus",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9C8zRzPqJY2TMnp-Jm8w4NTNvEpuRyyeeY0Sdzv-redtHcuArJ8WJKeWEqE",
+        "source": "Kleine Zeitung"
       }
     ]
   },
   {
-    "title": "augsburg – leverkusen",
+    "title": "galatasaray",
     "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 09:00:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCP1RXBspl-GrpNNrQCrjqUMbg4A4n0TIzd1i7wyc87C1OCmpOLVbK7irgVIU",
-    "picture_source": "Ligaportal",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrpdjPGKFICPwC2MF_4IkpRJtOGUMMm2y8JRzHRi1jeNaP6kz5TZEyc1wYDQs",
+    "picture_source": "Oxu.Az",
     "news_items": [
       {
-        "title": "Alonso warnt vor Augsburg: \"Immer hart\"",
+        "title": "Galatasaray'ın Başakşehir maçındaki karşılaşma kadrosu belli oldu",
         "snippet": "",
-        "url": "https://www.ligaportal.at/international/deutsche-bundesliga/77236-alonso-warnt-vor-augsburg-immer-hart",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCP1RXBspl-GrpNNrQCrjqUMbg4A4n0TIzd1i7wyc87C1OCmpOLVbK7irgVIU",
-        "source": "Ligaportal"
+        "url": "https://oxu.az/tr/spor/galatasaray-in-basaksehir-macindaki-karsilasma-kadrosu-belli-oldu",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrpdjPGKFICPwC2MF_4IkpRJtOGUMMm2y8JRzHRi1jeNaP6kz5TZEyc1wYDQs",
+        "source": "Oxu.Az"
       },
       {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
+        "title": "Galatasaray'ın Türkiye Kupası mesaisi başlıyor: Takımda son durum ve Başakşehir maçı ilk 11'i belli oldu",
         "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
+        "url": "https://www.ntv.com.tr/galeri/sporskor/galatasarayin-turkiye-kupasi-mesaisi-basliyor-takimda-son-durum-ve-basaksehir-maci-ilk-11i-belli-oldu,_48fGXlF-EeqHkCoOu6GFA",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1Tlc7N4sV4dtMDv82yj1RLHZBGxpQEQeQBV71fH_HL6HM8NDlp6tctGenhYQ",
+        "source": "NTV Haber"
       },
       {
-        "title": "Adventsheimspiel",
+        "title": "Galatasaray Türkiye Kupası'nda sezonu Başakşehir maçıyla açıyor, Şampiyon Oran farkı Misli'de öne çıkıyor!",
         "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
+        "url": "https://www.milliyet.com.tr/skorer/galatasaray-turkiye-kupasinda-sezonu-basaksehir-maciyla-aciyor-sampiyon-oran-farki-mislide-one-cikiyor-7277679",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJuhYpMZniC-D9zlnNXufxJpQet1gF3LWqEpl_49P1LUIP4RQiAbefHp0p0Q",
+        "source": "Milliyet"
       }
     ]
   },
   {
-    "title": "schalke – düsseldorf",
+    "title": "atx unternehmen",
     "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 04:40:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 04:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6DZw7r9IORbgOrZUeVTG8PblBSjXTREra-wEveAE4wrMkGuosu_QiUXdCR8",
-    "picture_source": "kicker",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTlOx3y6DkIVVIQIyD8ppvC4ExIk8KfCNSwq2K8q-ykSyTC7LGeSgX6Qi3spk",
+    "picture_source": "Der Standard",
     "news_items": [
       {
-        "title": "Liveticker | FC Schalke 04 - Fortuna Düsseldorf : | 16. Spieltag | 2. Bundesliga 2024/25",
+        "title": "Fat-Cat-Day: Schoeller-Bleckmann-Chef verdiente in 1,4 Tagen die Jahresgage vieler Österreicher",
         "snippet": "",
-        "url": "https://www.kicker.at/schalke-gegen-duesseldorf-2024-bundesliga-4937222/ticker",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6DZw7r9IORbgOrZUeVTG8PblBSjXTREra-wEveAE4wrMkGuosu_QiUXdCR8",
-        "source": "kicker"
+        "url": "https://www.derstandard.at/story/3000000251701/fat-cat-day-schoeller-bleckmann-chef-verdiente-in-14-tagen-die-jahresgage-vieler-oesterreicher",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTlOx3y6DkIVVIQIyD8ppvC4ExIk8KfCNSwq2K8q-ykSyTC7LGeSgX6Qi3spk",
+        "source": "Der Standard"
       },
       {
-        "title": "FC Schalke 04 vs. Fortuna Düsseldorf heute live im Free-TV: Wer zeigt / überträgt 2. Bundesliga im TV und Livestream?",
+        "title": "\"Fat Cat Day\": Welche ATX-Vorstände am meisten verdienen",
         "snippet": "",
-        "url": "https://www.spox.com/fussball/listen/fc-schalke-04-vs-fortuna-duesseldorf-heute-live-im-free-tv-wer-zeigt-uebertraegt-2-bl-im-tv-und-livestream/6862872",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx14BTbYrYjhUh8uP4FVsfW_VggKKzQMIsSjyZQdYD3qH8pHh_eUempIWLQT4",
-        "source": "SPOX"
+        "url": "https://kurier.at/wirtschaft/einkommen-atx-vorstaende-top-gagen-fat-cat-day/402995934",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhqczvTEdIV0n6fqfSg8bzFdFRloHzRrB4_gZNMl52v1aUtbrgxwgKMPCGk0",
+        "source": "Kurier"
       },
       {
-        "title": "Remis im NRW-Derby: Furiose Schalker scheitern an Düsseldorfs Keeper",
+        "title": "Stundenlohn von 814 Euro: Arbeiterkammer kritisiert die \"Fat Cats\"",
         "snippet": "",
-        "url": "https://www.sportschau.de/fussball/bundesliga/furiose-schalker-scheitern-an-duesseldorfs-keeper,zweite-bundesliga-s04-f95-100.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBmiSkG2vyV5sOVOpvio2xds7E_9kdsWCiK51TJbP07UeRCUQ-lf861gUO2PA",
-        "source": "sportschau.de"
-      }
-    ]
-  },
-  {
-    "title": "clement noel",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUvucEbtgOH5hB2QH8XoIvu3LFILruk7oHD12EZQV3vToccuNt0LT24ahlp6E",
-    "picture_source": "LAOLA1",
-    "news_items": [
-      {
-        "title": "Slalom-Dominator Clement Noel verliert Zähne und verletzt sich",
-        "snippet": "",
-        "url": "https://www.laola1.at/de/red/wintersport/ski-alpin/weltcup-herren/grosse-sorgen-um-slalom-dominator-clement-noel/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUvucEbtgOH5hB2QH8XoIvu3LFILruk7oHD12EZQV3vToccuNt0LT24ahlp6E",
-        "source": "LAOLA1"
-      },
-      {
-        "title": "Frenchman injured - Bad crash in home race! Worries about Clement Noel",
-        "snippet": "",
-        "url": "https://www.krone.at/3625424",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv9XkKGEHBKThUrrxlWvRo-xMzoCUl5dRdHJIvAZn8RB7pWa0XRG4t1GUxtCA",
-        "source": "Kronen Zeitung"
-      },
-      {
-        "title": "Sturz in Val d'Isere – Ski-Dominator abgeflogen – erste Diagnose-Meldung",
-        "snippet": "",
-        "url": "https://www.heute.at/s/ski-dominator-fliegt-bei-heimrennen-spektakulaer-ab-120078416",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3wCJUV7xHfbGu46-kOIbXEg7YcOx0_prp6E1WG8lD2EXuHn-r27CYFxUFo40",
-        "source": "Heute"
-      }
-    ]
-  },
-  {
-    "title": "andreas wieland",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 03:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSImEFws4xstwxGYr8BMrYjv6ATTzZdjOExsUMMwH7GZvEZjJMPwO_Joe6x9co",
-    "picture_source": "LAOLA1",
-    "news_items": [
-      {
-        "title": "LASK: Wieland vor Rückkehr auf die Trainerbank",
-        "snippet": "",
-        "url": "https://www.laola1.at/de/red/fussball/regionalligen/lask--wieland-vor-rueckkehr-auf-die-trainerbank/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSImEFws4xstwxGYr8BMrYjv6ATTzZdjOExsUMMwH7GZvEZjJMPwO_Joe6x9co",
-        "source": "LAOLA1"
-      },
-      {
-        "title": "LASK: Wieland zurück auf der Trainerbank",
-        "snippet": "",
-        "url": "https://www.nachrichten.at/sport/fussball/lask/wieland-zurueck-auf-der-trainerbank;art100,4008567",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW3mnb9YGl3hrCZ4hMJVAwo9VqxNVzmrcoDx0A9g4g-dQbMaDZUqXGOsgPmfo",
+        "url": "https://www.nachrichten.at/wirtschaft/stundenlohn-von-814-euro-arbeiterkammer-kritisiert-die-fat-cats;art15,4014272",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROSA2o7LW_DxMl_UOuasWd4phDhGwwqEAQ71f5nzc7N3pXdyH1SQd9d9x8Llo",
         "source": "nachrichten.at"
       }
     ]
   },
   {
-    "title": "hochfilzen",
+    "title": "brand grünburg",
     "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 03:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOthTmEjmOk6pMLxoONgQxB78_Sn3Fu8DPn2ZWQJl5QprwmmfMh7fnelEaHo",
-    "picture_source": "sportschau.de",
-    "news_items": [
-      {
-        "title": "Biathlon in Hochfilzen: Voigt und Preuß mit Top-Ergebnissen in der Verfolgung",
-        "snippet": "",
-        "url": "https://www.sportschau.de/wintersport/biathlon/voigt-und-preuss-in-der-verfolgung-aufs-podest,biathlon-268.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOthTmEjmOk6pMLxoONgQxB78_Sn3Fu8DPn2ZWQJl5QprwmmfMh7fnelEaHo",
-        "source": "sportschau.de"
-      },
-      {
-        "title": "Andexer? \"Hab gesagt: Wirst sehen, die schießt zweimal Null\"",
-        "snippet": "",
-        "url": "https://www.laola1.at/de/red/wintersport/biathlon/news/andexer---hab-gesagt--wirst-sehen--die-scheisst-zweimal-null-/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzS0L3vxVnRK67TtFyWhpuXPM3ZKneZb45gSD_vo0J91KwoGKY7BRgiGvk6yQ",
-        "source": "LAOLA1"
-      },
-      {
-        "title": "\"Ich war so nervös\": Anna Andexer überzeugt bei Weltcup-Debüt in Hochfilzen",
-        "snippet": "",
-        "url": "https://www.salzburg24.at/sport/wintersport/ich-war-so-nervoes-anna-andexer-ueberzeugt-bei-weltcup-debuet-in-hochfilzen-170090167",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGsazM5XPE9eRvwYDlCjomewIAXeDp3Pi3apSAkh8CF1eWZMzzfb061MPW8_Y",
-        "source": "salzburg24"
-      }
-    ]
-  },
-  {
-    "title": "moosburg aktuell",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 02:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2i7sDKgLryPOIeKkIV33PzzN359iivaibhzGzHIY_vrv3yG9BRWj4FTx1iFw",
-    "picture_source": "kaernten.ORF.at",
-    "news_items": [
-      {
-        "title": "Empörung über Artikel in ÖVP-Zeitung",
-        "snippet": "",
-        "url": "https://kaernten.orf.at/stories/3285306/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2i7sDKgLryPOIeKkIV33PzzN359iivaibhzGzHIY_vrv3yG9BRWj4FTx1iFw",
-        "source": "kaernten.ORF.at"
-      },
-      {
-        "title": "\"Luschn\" und \"Speibe\": Skandal um Kärntner Bürgermeister",
-        "snippet": "",
-        "url": "https://www.oe24.at/oesterreich/chronik/kaernten/luschn-und-speibe-skandal-um-kaerntner-buergermeister/616472536",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUGlOUIADSxwTyFEi4u61BzzQJ3m0GLefjqg7XgnBDqU8SOC6a_bbCO8Rfhc",
-        "source": "OE24"
-      },
-      {
-        "title": "ÖVP-Bürgermeister reagiert nach Kritik an Artikel in Parteizeitung",
-        "snippet": "",
-        "url": "https://www.kleinezeitung.at/kaernten/klagenfurt/19175496/oevp-buergermeister-reagiert-nach-kritik-an-artikel-in-parteizeitung",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMbK3sPUR4ARbDRqb6zhoDJdeGgHc3lqVoS1bdF06dbuPdMWz__xOr1cZqyXM",
-        "source": "Kleine Zeitung"
-      }
-    ]
-  },
-  {
-    "title": "josef taus",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 02:00:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNoB1qtDssrLOSbIq6pp_yvj0wNBmMMFFCTpyNAjAfcyg0Dz_btSvejMH4g4I",
-    "picture_source": "ORF",
-    "news_items": [
-      {
-        "title": "1933–2024: Josef Taus ist tot",
-        "snippet": "",
-        "url": "https://orf.at/stories/3378944/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNoB1qtDssrLOSbIq6pp_yvj0wNBmMMFFCTpyNAjAfcyg0Dz_btSvejMH4g4I",
-        "source": "ORF"
-      },
-      {
-        "title": "Industrieller und Ex-ÖVP-Chef Josef Taus verstorben",
-        "snippet": "",
-        "url": "https://www.diepresse.com/19176921/industrieller-und-ex-oevp-chef-josef-taus-verstorben",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdxskUzhHxKWJAnfdCbPDNFH_kJNlLsfPoPsCxXXQ4Lb3bCgihU1Io_BruB5Q",
-        "source": "DiePresse.com"
-      },
-      {
-        "title": "In Memoriam Josef Taus: Der ORF ändert sein Programm",
-        "snippet": "",
-        "url": "https://www.kleinezeitung.at/kultur/medien/19177167/der-orf-aendert-sein-programm",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCZo0YKkRJ4vvCAvcwigEkrKOJobH0uvSIe5oLRTrvRoX-xj5bRg8RDV4XLng",
-        "source": "Kleine Zeitung"
-      }
-    ]
-  },
-  {
-    "title": "justin bieber",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 02:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSket80VDtB3IymbFtmyxP3-cVsWOoFbL1MI7VCYSubNls0_oKuWZbDbFkStuA",
-    "picture_source": "Daily Mail",
-    "news_items": [
-      {
-        "title": "How Justin Bieber delayed Selena Gomez and Benny Blanco's engagement news for months",
-        "snippet": "",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-14186991/Selena-Gomez-Benny-Blanco-secretly-engaged-months-Justin-Bieber.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSket80VDtB3IymbFtmyxP3-cVsWOoFbL1MI7VCYSubNls0_oKuWZbDbFkStuA",
-        "source": "Daily Mail"
-      },
-      {
-        "title": "So Just How Rich Is Selena Gomez's Fiancé, Benny Blanco? Let's Discuss",
-        "snippet": "",
-        "url": "https://www.cosmopolitan.com/entertainment/celebs/a63172052/benny-blanco-net-worth/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTun_KjHigzXMd1EHbQY4Dc1aiPuXepRSd0IbxY1kdLhvF3kHeU5Hoe7lFjx1c",
-        "source": "Cosmopolitan"
-      },
-      {
-        "title": "Selena Gomez Said ‘Forever Begins Now’ to Marquise Diamond Engagement Ring",
-        "snippet": "",
-        "url": "https://nationaljeweler.com/articles/13490-selena-gomez-said-forever-begins-now-to-marquise-diamond-engagement-ring",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Bb-Qgze1Xm38QadhlCzVIr4fsdQL5sRpZXVKoPepXYrzkuEE5O-6CnF9mdI",
-        "source": "nationaljeweler.com"
-      }
-    ]
-  },
-  {
-    "title": "marco schwarz",
-    "link": "https://trends.google.com/trending/rss?geo=AT",
-    "pubdate": "Sat, 14 Dec 2024 01:10:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 05:00:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmk4orTVjkMydGZBgXTTveXD_M6p7ez9FQlnsDlWaV_QrKr1IrdShhM5R9Vxo",
-    "picture_source": "Der Standard",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTfJXXZ7E77bWgEs7e2VKvoaFG0C_hbvUzp1diK5UbscYbwS2mcQAscJR0ymg",
+    "picture_source": "ooe.ORF.at",
     "news_items": [
       {
-        "title": "Comeback-Zeit in Val d'Isère: Odermatt gegen die Unserie",
+        "title": "Nebengebäude ging in Flammen auf",
         "snippet": "",
-        "url": "https://www.derstandard.at/story/3000000249290/comeback-zeit-in-val-disere-odermatt-gegen-die-unserie",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmk4orTVjkMydGZBgXTTveXD_M6p7ez9FQlnsDlWaV_QrKr1IrdShhM5R9Vxo",
-        "source": "Der Standard"
+        "url": "https://ooe.orf.at/stories/3288192/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTfJXXZ7E77bWgEs7e2VKvoaFG0C_hbvUzp1diK5UbscYbwS2mcQAscJR0ymg",
+        "source": "ooe.ORF.at"
       },
       {
-        "title": "Ski alpin: Spannende Ausgangslage in Val d’Isere",
+        "title": "Großbrand: Acht Feuerwehren bekämpfen Feuer in Burgkirchen",
         "snippet": "",
-        "url": "https://sport.orf.at/stories/3135743/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHyYAwt6R6hc6thP0WqRvK1GymNfxhi8LDF80vWUB1tWgwXyJt0Pemk4BWBOQ",
-        "source": "sport.ORF.at"
+        "url": "https://www.meinbezirk.at/braunau/c-lokales/acht-feuerwehren-bekaempfen-feuer-in-burgkirchen_a7091047",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNLr5_iYU4Hnff7JEfzX7xfDo6MbC-JJ5QuON0BPnYkKeBu6pqiU5RKcvXaaw",
+        "source": "MeinBezirk.at"
       },
       {
-        "title": "Schwarz vor Comeback: \"Man muss realistisch bleiben\"",
+        "title": "Neun Feuerwehren bei Brand in einem Unternehmen in Grünburg im Einsatz",
         "snippet": "",
-        "url": "https://www.laola1.at/de/red/wintersport/ski-alpin/weltcup-herren/schwarz-vor-comeback---man-muss-realistisch-bleiben-/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHgquZWK8gxWsHPYyr9GyhZ00po1yg0nKIe27IIEqbIELr8b3rDgqBo1r4XUE",
-        "source": "LAOLA1"
+        "url": "https://www.tips.at/nachrichten/kirchdorf/blaulicht/671081-neun-feuerwehren-bei-brand-in-einem-unternehmen-in-gruenburg-im-einsatz",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0MGPrGTa7EedIwUyQnCR6shaRzt_-Ge8LQqzO8O1jG95rosJqsE2bDrr6Uew",
+        "source": "Tips.at"
       }
     ]
   }

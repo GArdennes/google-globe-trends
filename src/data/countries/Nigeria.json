@@ -1,305 +1,290 @@
 [
   {
-    "title": "preston vs leeds united",
+    "title": "trabzonspor vs alanyaspor",
     "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 06:20:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjtpHdYSF7SyrLnFMisLR8QuWjqyVIT9-EUqb4109zUGuNNJKN4zGmq2zo3ZU",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSijCvVXGvdjtHM42qa3BOAV0X1jC4H8rcqivgSpYe4c6A8pqcQlrfuGE2DDoo",
+    "picture_source": "A SPOR",
+    "news_items": [
+      {
+        "title": "08 Ocak 2025 - Trabzon'da ortalık karıştı! Maçın bitiş düdüğüyle birlikte… - Ziraat Türkiye Kupası",
+        "snippet": "",
+        "url": "https://www.aspor.com.tr/turkiye-kupasi/kupatv/turkiye-kupasi/trabzonda-ortalik-karisti-macin-bitis-duduguyle-birlikte",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSijCvVXGvdjtHM42qa3BOAV0X1jC4H8rcqivgSpYe4c6A8pqcQlrfuGE2DDoo",
+        "source": "A SPOR"
+      },
+      {
+        "title": "58' Gooolll Simon Banza ile Trabzonspor farkı 2'ye çıkarıyor",
+        "snippet": "",
+        "url": "https://www.karadenizdesonnokta.com.tr/58-gooolll-simon-banza-ile-trabzonspor-farki-2ye-cikariyor",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP9C5E66KYUZEDTvGGmRapW8vu5PegXhUof0QOw5YmdGKcBoiA2vd8j7zibNI",
+        "source": "Karadeniz'de Sonnokta Gazetesi"
+      },
+      {
+        "title": "Samsun’da ev yangını: Çatı katı alevlere teslim oldu",
+        "snippet": "",
+        "url": "https://bolgeninsesigazetesi.com/samsunda-ev-yangini-cati-kati-alevlere-teslim-oldu",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaSkRPaSST2vcSE580V2jaFUQ0lHMiwaUGijCQFGXIRXa0OCAadb4FUcVgdnI",
+        "source": "Bölgenin Sesi Gazetesi"
+      }
+    ]
+  },
+  {
+    "title": "churchill brothers",
+    "link": "https://trends.google.com/trending/rss?geo=NG",
+    "pubdate": "Wed, 8 Jan 2025 02:20:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWB1O4QyA54cOQB-ieecvySVjdWBNfzgHZhl2Amx1x04Qtksk101iRPvxbLqs",
+    "picture_source": "LatestLY",
+    "news_items": [
+      {
+        "title": "Delhi FC vs Gokulam Kerala, I-League 2024–25 Live Streaming Online: Watch Free Telecast of Indian League",
+        "snippet": "",
+        "url": "https://www.latestly.com/socially/sports/football/delhi-fc-vs-gokulam-kerala-i-league-2024-25-live-streaming-online-watch-free-telecast-of-indian-league-football-match-on-tv-6549202.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWB1O4QyA54cOQB-ieecvySVjdWBNfzgHZhl2Amx1x04Qtksk101iRPvxbLqs",
+        "source": "LatestLY"
+      },
+      {
+        "title": "Churchill Brothers eye fifth straight win to extend lead at top",
+        "snippet": "",
+        "url": "https://www.thegoan.net/sports/%EF%BB%BFchurchill-brothers-eye-fifth-straight-win-to-extend-lead-at-top/124321.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4KTKebEDTk33VRL_yKbdZQRIz8Ny2qzYTfZcPvEuCHEjddlfZB-nOw2obpR0",
+        "source": "The Goan"
+      },
+      {
+        "title": "I-League 2024-25 Live Streaming Transitions to Paid Model on SSEN: All You Need to Know",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2255421-i-league-2024-25-live-streaming-transitions-to-paid-model-on-ssen-all-you-need-to-know",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0PCfU4h5ziYNCmwq0EdzmaAo-KcmEWm7m_ZdfY93MSkmBCGwrnLq1RiQRBlc",
+        "source": "FootBoom"
+      }
+    ]
+  },
+  {
+    "title": "fc goa",
+    "link": "https://trends.google.com/trending/rss?geo=NG",
+    "pubdate": "Wed, 8 Jan 2025 07:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHinvc523BJm0-Aji3ExG8FgoT4QVg7h46OYvwVizZyFECxZGRA5TrAr08aog",
+    "picture_source": "ESPN India",
+    "news_items": [
+      {
+        "title": "ISL: FC Goa draw 1-1 with Hyderabad FC",
+        "snippet": "",
+        "url": "https://www.espn.in/football/story/_/id/43334778/isl-score-2024-25-indian-super-league-football-report-results-summary-schedule-matchweek-16",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHinvc523BJm0-Aji3ExG8FgoT4QVg7h46OYvwVizZyFECxZGRA5TrAr08aog",
+        "source": "ESPN India"
+      },
+      {
+        "title": "ISL 2024-25: FC Goa looks to extend winning run against struggling Hyderabad FC",
+        "snippet": "",
+        "url": "https://sportstar.thehindu.com/football/indian-football/isl-2024-25-fc-goa-vs-hyderabad-fc-preview-team-news-head-to-head-fcg-v-hfc-indian-super-league/article69072476.ece",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRESpZO7AjbIboNXIEAqjAXROB5jQb2oKHtnzBDIyjWfO5pprI02IEWo51_Fw4",
+        "source": "Sportstar"
+      },
+      {
+        "title": "FC Goa group among three best in my coaching career: Manolo",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/goa/fc-goa-group-among-three-best-in-my-coaching-career-manolo/articleshow/117034300.cms",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP8DkoKzY97Hr9gpiPeHNRyqNF0UFsJIWTjjQOX7uoRH9oGAwWyFKQ1dxjugU",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "title": "nyesom wike son graduation llm",
+    "link": "https://trends.google.com/trending/rss?geo=NG",
+    "pubdate": "Wed, 8 Jan 2025 05:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBwx7xbsdsDHMNtsnvUH1XjTC25KsTCg9Z0sPtatojewUY8HWz-GfeZr-0BkI",
+    "picture_source": "TheCable",
+    "news_items": [
+      {
+        "title": "PHOTOS: Wike celebrates son for earning master’s degree from UK varsity",
+        "snippet": "",
+        "url": "https://www.thecable.ng/photos-wike-celebrates-son-for-earning-masters-degree-from-uk-varsity/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBwx7xbsdsDHMNtsnvUH1XjTC25KsTCg9Z0sPtatojewUY8HWz-GfeZr-0BkI",
+        "source": "TheCable"
+      },
+      {
+        "title": "You Served As Education Minister, Two-Term Governor But Couldn’t Build A Good School To Send Your Children — Sowore Lambasts Nyesom Wike For Celebrating Son’s Graduation In UK",
+        "snippet": "",
+        "url": "https://saharareporters.com/2025/01/08/you-served-education-minister-two-term-governor-couldnt-build-good-school-send-your",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjsd6MYiV0N_9BBM4DnbLqpk--uhV1GMak8gEeW9r_gyE_U_Ax1gddliMg5Ok",
+        "source": "Sahara Reporters"
+      },
+      {
+        "title": "PHOTOS: Wike celebrates son’s graduation from UK varsity",
+        "snippet": "",
+        "url": "https://tribuneonlineng.com/photos-wike-celebrates-sons-graduation-from-uk-varsity/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwne5ZTcbwRH_n6EshFjM2aBMGcCAmeaH13BHdJhXo0_lkXDiC3y6EvpNWhCE",
+        "source": "Tribune Online"
+      }
+    ]
+  },
+  {
+    "title": "pi network mainnet launch",
+    "link": "https://trends.google.com/trending/rss?geo=NG",
+    "pubdate": "Wed, 8 Jan 2025 04:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZjjQr9eCHWo-orxSRlWgji-TSt6MytEaOF1oacK0ZC6ImaAdQutt0ZksLC8",
+    "picture_source": "theafricalogistics.com",
+    "news_items": [
+      {
+        "title": "Pi Network Pushes Back Mainnet Launch to 2025: What Pioneers Can Expect",
+        "snippet": "",
+        "url": "https://theafricalogistics.com/pi-network-pushes-back-mainnet-launch-to-2025-what-pioneers-can-expect/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZjjQr9eCHWo-orxSRlWgji-TSt6MytEaOF1oacK0ZC6ImaAdQutt0ZksLC8",
+        "source": "theafricalogistics.com"
+      },
+      {
+        "title": "Pi Network mainnet launch is coming: will Pi coin rise or fall?",
+        "snippet": "",
+        "url": "https://crypto.news/pi-network-mainnet-launch-is-coming-will-pi-coin-rise-or-fall/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vNLlXNFp6yOtc8b0QF5ovMzH6RvcPAXyoGeAyfHsXkrwRpV28rmGQ2ihQx0",
+        "source": "crypto.news"
+      },
+      {
+        "title": "Researchers at Stanford have launched a 'next generation' new way to mine crypto: 'It is essential to empower real people'",
+        "snippet": "",
+        "url": "https://www.thecooldown.com/green-business/pi-network-bitcoin-mining-stanford/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGit5wtdK5BP_LIyEzMVRklXev-SDrMjHCRsE78OjHgARfQmUdWWPwhsNkb9w",
+        "source": "The Cool Down"
+      }
+    ]
+  },
+  {
+    "title": "2 for 1 broadway tickets 2025",
+    "link": "https://trends.google.com/trending/rss?geo=NG",
+    "pubdate": "Wed, 8 Jan 2025 04:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0g-b4Ys6q7rZrM5DfytGh6qNLJh5tcW33XlC2O1jBzPpAcky3XEc64r0Udo4",
+    "picture_source": "PinkNews",
+    "news_items": [
+      {
+        "title": "Broadway Week returns in 2025, where you can get your Wicked fix for less",
+        "snippet": "",
+        "url": "https://www.thepinknews.com/2025/01/08/broadway-week-2025/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0g-b4Ys6q7rZrM5DfytGh6qNLJh5tcW33XlC2O1jBzPpAcky3XEc64r0Udo4",
+        "source": "PinkNews"
+      },
+      {
+        "title": "Grab Heavily Discounted \"The Lion King\" and \"Aladdin\" Tickets for 2025's NYC Broadway Week",
+        "snippet": "",
+        "url": "https://www.laughingplace.com/w/disney-entertainment/nyc-disney-on-broadway-ticket-deals-2025/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSf0cH_S7n2fIw0TWbRbb1E4yVcgl1RFE-9gP83E0EgtogMiqggZz2aUfsyW9I",
+        "source": "Laughing Place"
+      },
+      {
+        "title": "New York City hotels offer 25% discounts for winter travelers",
+        "snippet": "",
+        "url": "https://pix11.com/news/local-news/new-york-city-hotels-offer-25-discounts-for-winter-travelers/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78clE7jnVIf6wciqNill4J0aMPsPNyJLCFoROiXFRX23emGi1z3-2Mf2L63A",
+        "source": "PIX11"
+      }
+    ]
+  },
+  {
+    "title": "brown ideye",
+    "link": "https://trends.google.com/trending/rss?geo=NG",
+    "pubdate": "Wed, 8 Jan 2025 09:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSF8AUWK89ho2mzm8FmUAdhnQo1C9JBif1elX8PGVMLUPGBa6BWRIWxEBjkL9M",
+    "picture_source": "Channels Television",
+    "news_items": [
+      {
+        "title": "I won’t Hesitate To Honour Super Eagles Call Up, Says Brown Ideye",
+        "snippet": "",
+        "url": "https://www.channelstv.com/2025/01/08/i-wont-hesitate-to-honour-super-eagles-call-up-says-brown-ideye/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSF8AUWK89ho2mzm8FmUAdhnQo1C9JBif1elX8PGVMLUPGBa6BWRIWxEBjkL9M",
+        "source": "Channels Television"
+      },
+      {
+        "title": "CAF CC: Ideye scores as Enyimba thrash Black Bulls to secure first win",
+        "snippet": "",
+        "url": "https://www.thecable.ng/caf-cc-ideye-scores-as-enyimba-thrash-black-bulls-to-secure-first-win/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyCf4yc2JgqTfbBO8_Yqq4bWWJA4tn3Vf11vgFBGg-y7hjNu6M8yD6X5U4ID4",
+        "source": "TheCable"
+      },
+      {
+        "title": "Black Bulls’ coach admits ‘unforced errors’ in loss to Enyimba",
+        "snippet": "",
+        "url": "https://thenationonlineng.net/black-bulls-coach-admits-unforced-errors-in-loss-to-enyimba/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3EwyQMP3taJFOJfrasKAf12rBVBysZKAPMmUTDHldk2XsKABlEeHDGGm2cZI",
+        "source": "The Nation Newspaper"
+      }
+    ]
+  },
+  {
+    "title": "los angeles",
+    "link": "https://trends.google.com/trending/rss?geo=NG",
+    "pubdate": "Wed, 8 Jan 2025 07:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJfDoXMdcITIJRHOx03iuquhQNAjbqgVtnUgZxPFne1sg1BjPm3DWlzwd0BM0",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Championship LIVE: Follow live text and latest scores across the Championship.",
+        "title": "What are Santa Ana winds and how are they fuelling LA wildfires?",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c0j8x3wlgnet",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjtpHdYSF7SyrLnFMisLR8QuWjqyVIT9-EUqb4109zUGuNNJKN4zGmq2zo3ZU",
+        "url": "https://www.bbc.com/weather/articles/cg7r7rrex8no",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJfDoXMdcITIJRHOx03iuquhQNAjbqgVtnUgZxPFne1sg1BjPm3DWlzwd0BM0",
         "source": "BBC"
       },
       {
-        "title": "Preview: Preston North End vs. Leeds United - prediction, team news, lineups",
+        "title": "Major Wildfires Around Los Angeles Still Uncontained—Here’s What To Know",
         "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/leeds-united/preview/preview-preston-vs-leeds-prediction-team-news-lineups_560417.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6PvU4W3-EsHVbDuyv18I404VDhFkHJ98uL3hqVJZ0N89A_2leLqICU3b02iw",
-        "source": "Sports Mole"
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/01/08/major-wildfires-around-los-angeles-still-uncontained-heres-what-to-know/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4uzloCPmsyIFaWYiXDtiNTmOgnDRciQFHpPu9J_5V8U9FDYAHtGNOyhNIF-A",
+        "source": "Forbes"
       },
       {
-        "title": "Preston North End v Leeds United: Can Preston spring a surprise @ 5/4?",
+        "title": "What are the Santa Ana winds fueling the California wildfires?",
         "snippet": "",
-        "url": "https://betting.betfair.com/football/championship/preston-north-end-v-leeds-united-efl-championship-tips-can-preston-spring-a-surprise-121224-1230.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnHxH7UcokAWybtgMxz4z-b3hC1-HZRBrGmVaH4o8J3CMVT5F0Yz3OZBcU2AQ",
-        "source": "Betfair"
+        "url": "https://www.theguardian.com/us-news/2025/jan/08/what-are-the-santa-ana-devil-winds-los-angeles-wildfires-southern-california-fires",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_PCFmslImfTtefn4lmAE0TAAn9zJzXVrMJ5i8P-Q9Mg7TSLqktqpia1lQ-B0",
+        "source": "The Guardian"
       }
     ]
   },
   {
-    "title": "cbn nigerian naira",
+    "title": "2024 playlist in a bottle",
     "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 04:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGVjFcLWyzaLOES3beBJTPw0JGHeYyivCWG7ebOpmF-Y20ZdosFfzddsDR-fg",
-    "picture_source": "Premium Times Nigeria",
+    "pubdate": "Wed, 8 Jan 2025 02:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAyohfC2hv4lJLXNpyZsqgxRmD-wTUdPyLb7XH7Mvt9mKBP5uFD8M6wsRTtMM",
+    "picture_source": "Spotify",
     "news_items": [
       {
-        "title": "CBN confirms validity of old, new naira notes",
+        "title": "Your Playlist In a Bottle Is Ready! It’s Time To Unlock the 2024 Playlist You Created",
         "snippet": "",
-        "url": "https://www.premiumtimesng.com/news/top-news/761225-cbn-confirms-validity-of-old-new-naira-notes.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGVjFcLWyzaLOES3beBJTPw0JGHeYyivCWG7ebOpmF-Y20ZdosFfzddsDR-fg",
-        "source": "Premium Times Nigeria"
+        "url": "https://newsroom.spotify.com/2025-01-07/your-playlist-in-a-bottle-is-ready-its-time-to-unlock-the-2024-playlist-you-created/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAyohfC2hv4lJLXNpyZsqgxRmD-wTUdPyLb7XH7Mvt9mKBP5uFD8M6wsRTtMM",
+        "source": "Spotify"
       },
       {
-        "title": "CBN Reaffirms Validity of Old N1000, N500, N200 Denominations",
+        "title": "Spotify's Playlist in a Bottle: How to see your 2024 music time capsule",
         "snippet": "",
-        "url": "https://www.thisdaylive.com/index.php/2024/12/14/cbn-reaffirms-validity-of-old-n1000-n500-n200-denominations/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3lQCUbu0DGgj1EQPhMfpVI7YtMHtvNtTDY2jnWAQDFUc_ErciNBI53wm5ZA4",
-        "source": "THISDAYLIVE"
+        "url": "https://www.fox10phoenix.com/news/spotify-playlist-bottle-how-to-see-2024-music-time-capsule",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIny3qUJEeCLmqTcLB-u1YHIs7ahalmb1GsPGYG80TU6ivfKK_Chu-Ky1L7P4",
+        "source": "FOX 10 Phoenix"
       },
       {
-        "title": "CBN restates validity of N1000, N500, N200 as legal tenders indefinitely",
+        "title": "It’s time to open your musical time capsule on Spotify",
         "snippet": "",
-        "url": "https://gazettengr.com/cbn-restates-validity-of-n1000-n500-n200-as-legal-tenders-indefinitely/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTM5gHrmWb-YvM61luyfh4H6Rm-9UUq_QKIlxvLeaIuU1ht6F0x_69c0Y1OlHM",
-        "source": "Peoples Gazette Nigeria"
+        "url": "https://routenote.com/blog/its-time-to-open-your-musical-time-capsule-on-spotify/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ15FmuXwF0vCIMhBXCXbHDOVy57iGkaVBwG7LnVQt1QqNqL6Q2KOEHZvgs1r0",
+        "source": "RouteNote"
       }
     ]
   },
   {
-    "title": "leicester city vs chelsea",
+    "title": "martin bakole",
     "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDisVJOzFSnsIEC03yRz_DUCo7VWsFYogD4lDRzu9ZuBFjeyi2PDaFUHaBJ0",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "Women's Super League Leicester City 1 Chelsea 0 75 minutes played. In progress",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c8rjk3n23ejt",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDisVJOzFSnsIEC03yRz_DUCo7VWsFYogD4lDRzu9ZuBFjeyi2PDaFUHaBJ0",
-        "source": "BBC"
-      },
-      {
-        "title": "Confirmed Chelsea line-up v Leicester City | News | Official Site",
-        "snippet": "",
-        "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-v-leicester-city",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5Twi1PyDmfluIY0uc3s4mTVu--5hx3RG9b2tOlrmwDe5wlZiXC5XBgdbMQac",
-        "source": "Chelsea Football Club"
-      },
-      {
-        "title": "Leicester vs Chelsea LIVE! Women's Super League team news, updates, match commentary, score, report",
-        "snippet": "",
-        "url": "https://www.skysports.com/football/live-blog/36996/13272727/leicester-vs-chelsea-live-womens-super-league-team-news-updates-match-commentary-score-report",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckAAma2YRuoQlo1KRKUojc_a7u1qcsPahYk49Rvw9a8Vi9vJOR_GaslXEMCg",
-        "source": "Sky Sports"
-      }
-    ]
-  },
-  {
-    "title": "reims vs monaco prediction",
-    "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 02:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrw-tlpvwopunHcbMOHuLmAO_oDW-nIIvg875Vq4mX7WrmqLDAdyrJRoF1yg",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Reims vs. Monaco - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/reims/preview/preview-reims-vs-monaco-prediction-team-news-lineups_560446.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrw-tlpvwopunHcbMOHuLmAO_oDW-nIIvg875Vq4mX7WrmqLDAdyrJRoF1yg",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Stade de Reims vs Monaco: previous stats | Ligue 1 2024/2025",
-        "snippet": "",
-        "url": "https://en.as.com/resultados/futbol/francia/2024_2025/directo/regular_a_15_481875/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAaD-Q7CioY1jHqvwteat23bGZnZIiwzej6fUegpYOv3S9JAQ0yukm84gjsn0",
-        "source": "Diario AS"
-      },
-      {
-        "title": "Ligue 1 Tips: Back Rosenior's Alsatians to sign off in style",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/ligue-1-tips-back-roseniors-alsatians-to-sign-off-in-style-40433272",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxE7DFSo3Gy8vRFvMImUV8rKjlsQfMXO3aK6Tm1QET11G-1A0UxSZ7nqyfILA",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "marseille vs lille",
-    "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 01:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0sOsW3VUHEryadKLzyAL30TlQcNRLMyNcQBrVTYKm0gHURPZGaXkJnoY5cuM",
-    "picture_source": "Goal.com",
-    "news_items": [
-      {
-        "title": "OFFICIEL - Un forfait inattendu pour l’OM avant le LOSC",
-        "snippet": "",
-        "url": "https://www.goal.com/fr/listes/officiel-un-forfait-inattendu-pour-l-om-avant-le-losc/blt71a0f51f936adcf2",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0sOsW3VUHEryadKLzyAL30TlQcNRLMyNcQBrVTYKm0gHURPZGaXkJnoY5cuM",
-        "source": "Goal.com"
-      },
-      {
-        "title": "Marseille - Lille : à quelle heure et sur quelle chaîne regarder le match de Ligue 1 en direct ?",
-        "snippet": "",
-        "url": "https://www.msn.com/fr-fr/sport/football/marseille-lille-%C3%A0-quelle-heure-et-sur-quelle-cha%C3%AEne-regarder-le-match-de-ligue-1-en-direct/ar-AA1vPFGa",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFVR2ajB_6px00kCzuj7GiBlvE36iIEJPBcMuGqZCsL_brRQFoDVrPjm3MEs",
-        "source": "MSN"
-      },
-      {
-        "title": "Ligue 1: le Losc vise le podium avant son choc face à l'OM",
-        "snippet": "",
-        "url": "https://www.bfmtv.com/grand-lille/replay-emissions/nord-week-end/ligue-1-le-losc-vise-le-podium-avant-son-choc-face-a-l-om_VN-202412140236.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfyDY8mhfoYfOwj4xkft0zt6-18mmxYUcvjUEWMk1s2kkE0VOd1i7qpPmN0GI",
-        "source": "BFMTV"
-      }
-    ]
-  },
-  {
-    "title": "udinese vs napoli",
-    "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 01:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSOx5JbN3yJA7oTIMN9z4tNsOJuW_A5AyBRMMJ6StgqzpBJqKxy5z_GHgMSlA",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Udinese vs. Napoli - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/udinese/preview/preview-udinese-vs-napoli-prediction-team-news-lineups_560441.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSOx5JbN3yJA7oTIMN9z4tNsOJuW_A5AyBRMMJ6StgqzpBJqKxy5z_GHgMSlA",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Conte gives monosyllabic answers in eight-minute press conference",
-        "snippet": "",
-        "url": "https://football-italia.net/conte-answers-eight-minute-press-conference/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvGco_6gS8vKuDygvexAqZVKQZqTMxMhpmJHO-4btje9DYQL1mDc1TJwYEcsI",
-        "source": "Football Italia"
-      },
-      {
-        "title": "Udinese vs Napoli Prediction and Betting Tips",
-        "snippet": "",
-        "url": "https://mrfixitstips.co.uk/previews/udinese-vs-napoli-prediction-and-betting-tips-3/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwx4vN1nu2erJWOgqtiCKbJzPMF9_fBoodF8QzccsxbohsEPjn1kP5WjTFUW0",
-        "source": "MrFixitsTips"
-      }
-    ]
-  },
-  {
-    "title": "mohammedan sc dhaka vs abahani limited dhaka",
-    "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 01:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6CiDAY34jZGzFMpPXhh8XaJ5mh4E8-S8IcMVMuAIbJF7rvQM9_inIAiwvMiw",
-    "picture_source": "United News of Bangladesh",
-    "news_items": [
-      {
-        "title": "BPL Football: Dhaka Mohammedan SC take solo lead with all-win run beating Dhaka Abahani",
-        "snippet": "",
-        "url": "https://unb.com.bd/category/Sports/bpl-football-dhaka-mohammedan-sc-take-solo-lead-with-all-win-run-beating-dhaka-abahani/149101",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6CiDAY34jZGzFMpPXhh8XaJ5mh4E8-S8IcMVMuAIbJF7rvQM9_inIAiwvMiw",
-        "source": "United News of Bangladesh"
-      },
-      {
-        "title": "Mohammedan win season’s first ‘Dhaka Derby’",
-        "snippet": "",
-        "url": "https://www.daily-sun.com/post/782135",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_o6OwKUSAEmuMIpfdX95LNVwIjZd5l3L-lykLZmHFTLtTjH5KdEDXu7sX2s0",
-        "source": "Daily Sun"
-      }
-    ]
-  },
-  {
-    "title": "rivers state federal allocation appeal",
-    "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 01:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rYaAJj3f1sj9B5Rdvb4j_z4_vDPZyIE1cAHyf3e5MLrCzqNlhZuaiqT1H-I",
-    "picture_source": "THISDAYLIVE",
-    "news_items": [
-      {
-        "title": "Appeal Court Upturns Judgement Stopping Release of Federal Allocations to Rivers",
-        "snippet": "",
-        "url": "https://www.thisdaylive.com/index.php/2024/12/13/appeal-court-upturns-judgement-stopping-release-of-federal-allocations-to-rivers/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rYaAJj3f1sj9B5Rdvb4j_z4_vDPZyIE1cAHyf3e5MLrCzqNlhZuaiqT1H-I",
-        "source": "THISDAYLIVE"
-      },
-      {
-        "title": "Fubara wins as Appeal Court reverses judgment stopping Rivers allocation",
-        "snippet": "",
-        "url": "https://punchng.com/fubara-wins-as-appeal-court-reverses-judgment-stopping-rivers-allocation/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyvs7X98f8Le-EmgCLIgHwmRxWhRDumsekO0OSBim_V-rzplaOFw-E7-YQRvc",
-        "source": "Punch Newspapers"
-      },
-      {
-        "title": "Court Judgement: Why it would’ve been dangerous to cut off funding for Rivers – Official",
-        "snippet": "",
-        "url": "https://www.premiumtimesng.com/news/more-news/761281-court-judgement-why-it-wouldve-been-dangerous-to-cut-off-funding-for-rivers-official.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI5HRI6-Jhhdl2F9t56GxBj4GB6cnzuEDS3LgQ_MjKekMRTarSo88RdtHTmmw",
-        "source": "Premium Times Nigeria"
-      }
-    ]
-  },
-  {
-    "title": "brisbane roar fc vs central coast mariners",
-    "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 01:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCT_-gTmxfOPp7C4lon1iXq-q3hspxWNp8nsK8hHOCt0xPPWXho_r9GT9CyKQ",
-    "picture_source": "Western Sydney Wanderers",
-    "news_items": [
-      {
-        "title": "Ins & Outs: Wanderers v Brisbane Roar",
-        "snippet": "",
-        "url": "https://wswanderersfc.com.au/news/ins-outs-wanderers-v-brisbane-roar-2/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCT_-gTmxfOPp7C4lon1iXq-q3hspxWNp8nsK8hHOCt0xPPWXho_r9GT9CyKQ",
-        "source": "Western Sydney Wanderers"
-      },
-      {
-        "title": "WHAT A HIT! Brandon Borrello scores free-kick screamer",
-        "snippet": "",
-        "url": "https://aleagues.com.au/videos/id/what-a-hit-brandon-borrello-scores-free-kick-screamer/6365982904112/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAp_D6yYcyRIf34rrs-C9pUzEl63IeyyY6CoNMwk3bKPBOaCRBTHTanX562aI",
-        "source": "A-Leagues"
-      },
-      {
-        "title": "The Tackle: How long Roar coach has to save his job",
-        "snippet": "",
-        "url": "https://www.codesports.com.au/football/a-leagues/the-tackle-brisbane-roar-coach-under-pressure-to-keep-his-job-while-red-card-looks-set-to-stand/news-story/1de025162e76fb4f3b74bad622e19d00",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTqLqFcT3c8y_QWJglrPde-3VVCF7mXGCnf30ha1khCF8rtSHIQ7RkbxhrTDE",
-        "source": "CODE Sports"
-      }
-    ]
-  },
-  {
-    "title": "sevilla vs celta vigo",
-    "link": "https://trends.google.com/trending/rss?geo=NG",
-    "pubdate": "Sat, 14 Dec 2024 00:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRN3aKSaiY95i-Rl1laxs-YQa0zwMKxtqj0nGvtd2lcYhqSjtwakx4S8UhRPs8",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Sevilla vs. Celta Vigo - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/sevilla/preview/preview-sevilla-vs-celta-vigo-prediction-team-news-lineups_560398.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRN3aKSaiY95i-Rl1laxs-YQa0zwMKxtqj0nGvtd2lcYhqSjtwakx4S8UhRPs8",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Sevilla vs Celta: previous stats | LaLiga EA Sports 2024/2025",
-        "snippet": "",
-        "url": "https://en.as.com/resultados/futbol/primera/2024_2025/directo/regular_a_17_480566/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-97bKEAifP7cZ0W7RzG9fMWoIGF1gd3TuKrF1vnBzKbTmDP3YpH43JSDJT_8",
-        "source": "Diario AS"
-      },
-      {
-        "title": "Sevilla vs Celta Vigo Prediction and Betting Tips | 14th December 2024",
-        "snippet": "",
-        "url": "https://www.sportskeeda.com/football/sevilla-vs-celta-vigo-prediction-betting-tips-14th-december-2024",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ULow6eElCQlDrX3bXVNLZMPFVqnehPhRZOEysTv0A1vgTq033nsnFx_cE5E",
-        "source": "Sportskeeda"
-      }
-    ]
+    "pubdate": "Wed, 8 Jan 2025 02:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
   }
 ]

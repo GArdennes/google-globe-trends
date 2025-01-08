@@ -1,63 +1,125 @@
 [
   {
-    "title": "google",
+    "title": "squid game 2",
     "link": "https://trends.google.com/trending/rss?geo=MK",
-    "pubdate": "Fri, 13 Dec 2024 17:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTypVmFlIU8OlQw2jHQptw6BsueGsj0uMtHOSsBto97lC56vn8NjAxV-YEONUg",
-    "picture_source": "Google Blog",
+    "pubdate": "Wed, 8 Jan 2025 07:20:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRebRfPuBTgh2_ZAn5ehA4_0DNkf7jYIYmDAi4myVrMWIdbVjoPSmTUcTV8zfk",
+    "picture_source": "Forbes",
     "news_items": [
       {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
+        "title": "A ‘Squid Game’ Season 3 Release Date Announcement Could Be Imminent",
         "snippet": "",
-        "url": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTypVmFlIU8OlQw2jHQptw6BsueGsj0uMtHOSsBto97lC56vn8NjAxV-YEONUg",
-        "source": "Google Blog"
+        "url": "https://www.forbes.com/sites/erikkain/2025/01/07/a-squid-game-season-3-release-date-announcement-could-be-imminent/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRebRfPuBTgh2_ZAn5ehA4_0DNkf7jYIYmDAi4myVrMWIdbVjoPSmTUcTV8zfk",
+        "source": "Forbes"
       },
       {
-        "title": "Google Unveils A.I. Agent That Can Use Websites on Its Own",
+        "title": "Squid Game season 2 continues to smash records for Netflix, but it's still can't compete with the streamer's most-watched non-English show of all-time",
         "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/11/technology/google-ai-agent-gemini.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsqjZAKfhLL_pgHuDCcgANAJUd7DXf328XWRts3j0t0Hewi3NV5rxkGgnOcng",
-        "source": "The New York Times"
+        "url": "https://www.techradar.com/streaming/netflix/squid-game-season-2-continues-to-smash-records-for-netflix-but-its-still-cant-compete-with-the-streamers-most-watched-non-english-show-of-all-time",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHx1dybScs3CgZzJjnprnWf0PrnSD8WTI04WIGJZ-2c29UsIcaKcheUxiJjck",
+        "source": "TechRadar"
       },
       {
-        "title": "Alphabet stock hits record high on Google's new AI model, Gemini 2.0",
+        "title": "‘Squid Game’ Creator Breaks Down ‘Heavy’ Season 2 Finale Death, Mid-Credits Scene Clues and When Season 3 Is Coming",
         "snippet": "",
-        "url": "https://finance.yahoo.com/video/alphabet-stock-hits-record-high-214706792.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk43UDRmVjh9BjGBcY6Y-NOJMIOUMQ4pxj3tgUsYJp5fZRqfFvKGyvyZYawc8",
-        "source": "Yahoo Finance"
+        "url": "https://variety.com/2024/tv/news/squid-game-2-ending-jung-bae-death-explained-mid-credits-scene-season-3-1236255614/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8HTY8A8lu0XsQD9Ffp1hElPcqmEwqNL2opC4b_s_4DXXECL6oYooepLxeB8M",
+        "source": "Variety"
       }
     ]
   },
   {
-    "title": "weather tomorrow",
+    "title": "facebook",
     "link": "https://trends.google.com/trending/rss?geo=MK",
-    "pubdate": "Fri, 13 Dec 2024 12:00:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-    "picture_source": "5 EYEWITNESS NEWS",
+    "pubdate": "Tue, 7 Jan 2025 23:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7iRPv8fGLo2M6GWrTMC5-MJtv9eXCHx5V01-htDKUGeOEYMh8MaV-nuL-obs",
+    "picture_source": "CNBC",
     "news_items": [
       {
-        "title": "Ken says a warming begins today",
+        "title": "EBay shares soar after Meta allows listings on Facebook Marketplace in U.S., Europe",
         "snippet": "",
-        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-        "source": "5 EYEWITNESS NEWS"
+        "url": "https://www.cnbc.com/2025/01/08/ebay-shares-soar-as-meta-allows-listings-on-facebook-marketplace.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7iRPv8fGLo2M6GWrTMC5-MJtv9eXCHx5V01-htDKUGeOEYMh8MaV-nuL-obs",
+        "source": "CNBC"
       },
       {
-        "title": "Warmer temps this weekend and especially for next week",
+        "title": "Meta Will Test Showing EBay Listings On Facebook Marketplace. EBay Stock Jumps.",
         "snippet": "",
-        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
-        "source": "WIS News 10"
+        "url": "https://www.investors.com/news/technology/ebay-stock-meta-stock-facebook-marketplace-ebay-listings/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStzUnZncOF113xJ-LLtT08O4jU-dOLSuL66QBERdwEzpNA4dqix9-WzMWm4Nk",
+        "source": "Investor's Business Daily"
       },
       {
-        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
+        "title": "Meta Floats EBay Ads Fix to Comply With EU Antitrust Order",
         "snippet": "",
-        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
-        "source": "WLWT"
+        "url": "https://www.bloomberg.com/news/articles/2025-01-08/meta-floats-ebay-ads-solution-to-comply-with-eu-antitrust-order",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEToUpBI40WWmJX1Jd6FE2B2i2g5NELixnvj8qxul0SgeZYJbi_PyE5Htmck",
+        "source": "Bloomberg.com"
+      }
+    ]
+  },
+  {
+    "title": "arsenal vs newcastle",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Tue, 7 Jan 2025 11:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC5hvW3xi250v2SV7FpqnllND9c6gHcFsGxM8dhL65d-MBwlNekWZHlBE7Dqo",
+    "picture_source": "The Guardian",
+    "news_items": [
+      {
+        "title": "Football Daily | Mikel Arteta, matchballs and Arsenal excuses that just fly differently",
+        "snippet": "",
+        "url": "https://www.theguardian.com/football/2025/jan/08/football-daily-mikel-arteta-arsenal-matchballs",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC5hvW3xi250v2SV7FpqnllND9c6gHcFsGxM8dhL65d-MBwlNekWZHlBE7Dqo",
+        "source": "The Guardian"
+      },
+      {
+        "title": "EFL defend Cup ball after Arteta's complaint",
+        "snippet": "",
+        "url": "https://www.espn.com/soccer/story/_/id/43334273/efl-defend-carabao-cup-ball-mikel-arteta-complaint",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDymCmLdZZHS7-v4QRQeEDJ8T8KOGQWnZgqDxIgg0IaH5cW0rsrpQ1X5bJsrY",
+        "source": "ESPN"
+      },
+      {
+        "title": "Football latest: West Ham boss Julen Lopetegui, Newcastle beat Arsenal, Didier Deschamps to leave France",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/cgkxl267relt",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BvfjXhKSi4mS5PYVWnsQ9IlWROLVcGUuGiJxrSZNSLPhVOZ5p4ckfAGTpm8",
+        "source": "BBC"
+      }
+    ]
+  },
+  {
+    "title": "yahoo",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Tue, 7 Jan 2025 22:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBYYM3PCfQnZGghuAmJ34DtcU9Vz--qQLqTLIpsnqnqHxBCZtUdgwpeHThCps",
+    "picture_source": "Axios",
+    "news_items": [
+      {
+        "title": "The bond market is sending a warning to Trump and Congress",
+        "snippet": "",
+        "url": "https://www.axios.com/2025/01/08/bond-market-trump-treasury",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBYYM3PCfQnZGghuAmJ34DtcU9Vz--qQLqTLIpsnqnqHxBCZtUdgwpeHThCps",
+        "source": "Axios"
+      },
+      {
+        "title": "10-year Treasury note yield hits highest level since April ahead of Fed minutes",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2025/01/08/10-year-treasury-yield-jobs-data-fed-minutes.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkezDSrhqz2NWb42jWZmuvS-7vCHjTbd1YcTWREVQ2RNnBcmMqlYCICEfb7DQ",
+        "source": "CNBC"
+      },
+      {
+        "title": "Key US Treasury Yields Approach 2023 Peaks With 5% in Sight",
+        "snippet": "",
+        "url": "https://www.bloomberg.com/news/articles/2025-01-08/key-us-treasury-yields-approach-2023-peaks-with-5-in-sight",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmgpxW2IkicZiACZ9MuW2Z7ckKjJr0AKzaMO6DrApdvC821x-PNoI7wYeQ25c",
+        "source": "Bloomberg.com"
       }
     ]
   }

@@ -1,63 +1,280 @@
 [
   {
-    "title": "valencia fc",
+    "title": "sporting - porto",
     "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Fri, 13 Dec 2024 13:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7KZN9TcTjP8VRLixiHggtk2AhWCWFOJtDk8JdX23yStTCQRUtNSWwAqNyq3w",
-    "picture_source": "Sports Mole",
+    "pubdate": "Tue, 7 Jan 2025 11:00:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWMDVggS6vp4wJrtI6lRziOUMzKjHGPJbashVhaFp2e4z_g-mab8ANsPb2jnQ",
+    "picture_source": "A Bola",
     "news_items": [
       {
-        "title": "Preview: Real Valladolid vs. Valencia - prediction, team news, lineups",
+        "title": "Sporting-FC Porto: leões estão na final com um tiro do 'suspeito do costume'",
         "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/valencia/preview/preview-valladolid-vs-valencia-prediction-team-news-lineups_560329.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7KZN9TcTjP8VRLixiHggtk2AhWCWFOJtDk8JdX23yStTCQRUtNSWwAqNyq3w",
-        "source": "Sports Mole"
+        "url": "https://www.abola.pt/futebol/jogo/sporting-fc-porto-4440983/sporting-fc-porto-siga-aqui-o-classico-das-meias-finais",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWMDVggS6vp4wJrtI6lRziOUMzKjHGPJbashVhaFp2e4z_g-mab8ANsPb2jnQ",
+        "source": "A Bola"
       },
       {
-        "title": "Pepelu: \"We're hurt because we wanted to turn the situation around but nothing goes our way, We must keep fighting\"",
+        "title": "Fair play na tribuna no Sporting-FC Porto",
         "snippet": "",
-        "url": "https://onefootball.com/en/news/pepelu-were-hurt-because-we-wanted-to-turn-the-situation-around-but-nothing-goes-our-way-we-must-keep-fighting-40436851",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRaezfixXPSO_lxlTR4vbGt66B9T_-it_AHeB6nW95XuGaz-f1azBbLr_MiKs",
+        "url": "https://www.record.pt/futebol/futebol-nacional/allianz-cup/detalhe/fair-play-na-tribuna-no-sporting-fc-porto",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTPaxEyfDCQokS7vRaLlRsH5ytF_nuL10AhhgVI0L5hMedWPhIicUsY_IFx7U",
+        "source": "Record"
+      },
+      {
+        "title": "Sporting-FC Porto, 1-0 (destaques dos leões)",
+        "snippet": "",
+        "url": "https://maisfutebol.iol.pt/taca-da-liga/sporting/sporting-fc-porto-1-0-destaques-dos-leoes",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQar5JjTy6d9TaanN1WvxfDrs071myHIFQkBuh9B8pm53pndzraZrAvo_-55KM",
+        "source": "Maisfutebol"
+      }
+    ]
+  },
+  {
+    "title": "weather",
+    "link": "https://trends.google.com/trending/rss?geo=MZ",
+    "pubdate": "Tue, 7 Jan 2025 20:50:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-BL2Qs1fRh-M8FZapBu2PTG4eWXCVW74LUcof9xRxA9wyyIaQElaXRbB5oc8",
+    "picture_source": "Daily Express",
+    "news_items": [
+      {
+        "title": "Met Office issues 7-hour snow warning as three more regions to be hit by polar blast",
+        "snippet": "",
+        "url": "https://www.express.co.uk/news/weather/1997711/met-office-ice-snow-warning-england-wales-regions",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-BL2Qs1fRh-M8FZapBu2PTG4eWXCVW74LUcof9xRxA9wyyIaQElaXRbB5oc8",
+        "source": "Daily Express"
+      },
+      {
+        "title": "Road surface temperatures forecast to dip to -5°C tonight",
+        "snippet": "",
+        "url": "https://www.tenby-today.co.uk/news/road-surface-temperatures-forecast-to-dip-to-5degc-tonight-754467",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqwEk7mSMCxoyDRBSf12HZYT0xCSoQocKzRvUZc_ZN0TuZCrdp6bzFE3bGri4",
+        "source": "Tenby Observer"
+      },
+      {
+        "title": "Schools and college across Warrington forced to close due to dangerous conditions",
+        "snippet": "",
+        "url": "https://www.warringtonguardian.co.uk/news/24841030.schools-across-warrington-forced-close-due-ice/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfw9wWZEO3vQKvoY8t509l7w4MOM2nyeL0nYCy4_YWEH9Hlj7XxDgqWjq_jE",
+        "source": "Warrington Guardian"
+      }
+    ]
+  },
+  {
+    "title": "arsenal vs newcastle",
+    "link": "https://trends.google.com/trending/rss?geo=MZ",
+    "pubdate": "Tue, 7 Jan 2025 11:20:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDbMagXl1d-cTRaXyJbcrFYg4S_NgrxvRu5u0atRgceKsBR_sRLOQz2VggJYk",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Arsenal 0-2 Newcastle: Mikel Arteta says Carabao Cup footballs are 'tricky'",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/articles/cdek10j3rjeo",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDbMagXl1d-cTRaXyJbcrFYg4S_NgrxvRu5u0atRgceKsBR_sRLOQz2VggJYk",
+        "source": "BBC"
+      },
+      {
+        "title": "Nine days of wonder make memories to last a lifetime",
+        "snippet": "",
+        "url": "https://onefootball.com/de/news/nine-days-of-wonder-make-memories-to-last-a-lifetime-40532307",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqiOmWn2byGDP4zVYW5ovulO1DK2aH06igcj6_X2owJhLjTB4a8DX511NwljA",
         "source": "OneFootball"
       },
       {
-        "title": "Anuar, Key to Valladolid's Victory Over Valencia",
+        "title": "Tottenham vs Liverpool: Get £30 in free bets and £10 casino bonus with BoyleSports, plus 25% boost on your...",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2179196-anuar-key-to-valladolid-s-victory-over-valencia",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0iIUP0Nqakf4QqDffR89OtwwQs2PfP45HcCs6NDcDevLVatgkrulWdTbRU8",
+        "url": "https://www.thesun.co.uk/sport/32669513/tottenham-vs-liverpool-boylesports-free-bets-carabao-cup/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS59cimjhjjB3LNsFwqwfdrfKeZkZMk4Hrv3kuji7NFaCxjs_jWp9KbXNpkp9g",
+        "source": "The Sun"
+      }
+    ]
+  },
+  {
+    "title": "arsenal - newcastle",
+    "link": "https://trends.google.com/trending/rss?geo=MZ",
+    "pubdate": "Tue, 7 Jan 2025 11:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD1M_Jmw9valKSQyJ8JsfOPjihlvGgwWYhI36HA4IRZbOPK6mQoeGKsAIATik",
+    "picture_source": "Newcastle United",
+    "news_items": [
+      {
+        "title": "Latest. Tonali bags brace of awards after Carabao Cup quarter-final heroics",
+        "snippet": "",
+        "url": "https://www.newcastleunited.com/en/news/tonali-bags-brace-of-awards-after-carabao-cup-quarter-final-heroics",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD1M_Jmw9valKSQyJ8JsfOPjihlvGgwWYhI36HA4IRZbOPK6mQoeGKsAIATik",
+        "source": "Newcastle United"
+      },
+      {
+        "title": "Tonali two games away from first Newcastle trophy after individual EFL Cup award",
+        "snippet": "",
+        "url": "https://football-italia.net/tonali-two-games-away-from-newcastle-trophy/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwkMgPinw0L8zaZSu7OOTONqLfTmV2ys0toiO8QtRK1S6-qAlxO07J-tvtsGE",
+        "source": "Football Italia"
+      },
+      {
+        "title": "Latest. Sandro Tonali named fans’ Player of the Match from win at Arsenal",
+        "snippet": "",
+        "url": "https://www.newcastleunited.com/en/news/choose-your-player-of-the-match-after-2-0-win-at-arsenal",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSucmGtHIS8thltfCzy7rn2we-999ni2wIkn0nt50rFTaKzXhjMGA4U3jJXpZU",
+        "source": "Newcastle United"
+      }
+    ]
+  },
+  {
+    "title": "weather tomorrow",
+    "link": "https://trends.google.com/trending/rss?geo=MZ",
+    "pubdate": "Tue, 7 Jan 2025 10:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1aHzKao3SjIad4EmXoIrJY0yviItjigR-PC5LyXxUeuhtJKyBKSQVdt9KKbw",
+    "picture_source": "KDBC",
+    "news_items": [
+      {
+        "title": "School delays, cancellations due to cold temperatures for Wednesday in Borderland",
+        "snippet": "",
+        "url": "https://cbs4local.com/newsletter-daily/school-delays-due-to-cold-temperatures-for-wednesday-in-borderland",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1aHzKao3SjIad4EmXoIrJY0yviItjigR-PC5LyXxUeuhtJKyBKSQVdt9KKbw",
+        "source": "KDBC"
+      },
+      {
+        "title": "El Paso ISD to close Wednesday; others closed or delay",
+        "snippet": "",
+        "url": "https://www.ktsm.com/news/cold-temperatures-to-delay-gadsden-isd-classes-on-wednesday/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJtBFvIEq_tzULv3tDcmRwZJ1m8vr4R_k-XNmpui7KjSToH25eTCC1emvXduc",
+        "source": "KTSM 9 News"
+      },
+      {
+        "title": "Will there be school closures due to possible snow? What to know",
+        "snippet": "",
+        "url": "https://www.elpasotimes.com/story/news/2025/01/07/will-there-be-school-closures-due-to-possible-snow-what-to-know/77512990007/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREb3YdPEYLfwyhe5KFnJDOT0FwluO-MW7PM5qSgKBb544ZaHOeyGy8zCqHark",
+        "source": "El Paso Times"
+      }
+    ]
+  },
+  {
+    "title": "futemax",
+    "link": "https://trends.google.com/trending/rss?geo=MZ",
+    "pubdate": "Tue, 7 Jan 2025 11:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxMB1BpdgO-76nbPCYo7Uh1ZAmBWSG9wdkU9Hcl2VNYuVGl8G1bsOVMIeRYOQ",
+    "picture_source": "Helder Moura",
+    "news_items": [
+      {
+        "title": "botafogo x santos futemax",
+        "snippet": "",
+        "url": "https://heldermoura.com.br/botafogo+x+santos+futemax-7/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxMB1BpdgO-76nbPCYo7Uh1ZAmBWSG9wdkU9Hcl2VNYuVGl8G1bsOVMIeRYOQ",
+        "source": "Helder Moura"
+      },
+      {
+        "title": "flamengo futmax",
+        "snippet": "",
+        "url": "https://maraba.pa.gov.br/flamengo+futmax-7/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFlDKlDK_96iPZLkeGcth9yhPAeSGbz1vHRw0YU8URj_ztkyL7mJwumEGQEo",
+        "source": "Prefeitura de Marabá - Pa"
+      },
+      {
+        "title": "flamengo hoje futemax",
+        "snippet": "",
+        "url": "https://juruaonline.com.br/flamengo+hoje+futemax-4/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRa140r_leo1THtRgSqJrLopouasX-MTToIwxK_yXEQyvcFHmikdVh4TT6xeI",
+        "source": "Juruá Online"
+      }
+    ]
+  },
+  {
+    "title": "al-hilal - al-ittihad",
+    "link": "https://trends.google.com/trending/rss?geo=MZ",
+    "pubdate": "Tue, 7 Jan 2025 09:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCGM30XtpN_235rp4KinhbSm3F-M2xTNGlZxfBmsx27PikjUD_o_2GwhrMa6w",
+    "picture_source": "FootBoom",
+    "news_items": [
+      {
+        "title": "Match Result: Al-Hilal and Al-Ittihad Draw (2-2) in Saudi King’s Cup Quarter-Finals",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2272922-match-result-al-hilal-and-al-ittihad-draw-2-2-in-saudi-king-s-cup-quarter-finals",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCGM30XtpN_235rp4KinhbSm3F-M2xTNGlZxfBmsx27PikjUD_o_2GwhrMa6w",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Diaby is on Al-Ittihad’s list to face Al-Hilal",
+        "snippet": "",
+        "url": "https://www.ysscores.com/en/news/10292963/Diaby-is-on-Al-Ittihad%E2%80%99s-list-to-face-Al-Hilal",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT57CqAlLvxKc0Wu34OLNCHQMeuQWOuDmtyRs7E6NbUauCUHzVeWS1oZoZ6hI",
+        "source": "www.ysscores.com"
+      },
+      {
+        "title": "Al-Hilal Fans Prepare for Saudi Classic!",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/football/2269384-al-hilal-fans-prepare-for-saudi-classic",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyX4jQfhq9pkbTT0IVhXeygGFCi0TmHP726S7ga0H4lOpiLcQlTD6MHre7As",
         "source": "FootBoom"
       }
     ]
   },
   {
-    "title": "ciclone chido em moçambique",
+    "title": "porto",
     "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Fri, 13 Dec 2024 09:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD9zLly8WkrLVwC_o7gvjsSiLC2CZTHtiRfqsI7gEaoPtm-lYjmT6-ra9BPak",
-    "picture_source": "Rádio Moçambique",
+    "pubdate": "Tue, 7 Jan 2025 12:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaOCBvlH4TaWcvf3RA6nR91ivg-BZToH98G55Zbytujft4oSeqoE-SiaTwvEs",
+    "picture_source": "A Bola",
     "news_items": [
       {
-        "title": "Ciclone tropical CHIDO poderá afectar Cabo Delgado e Nampula",
+        "title": "Presidente do Nacional garante que horário do jogo com o FC Porto vai mudar",
         "snippet": "",
-        "url": "https://www.rm.co.mz/ciclone-tropical-chido-podera-afectar-cabo-delgado-e-nampula/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD9zLly8WkrLVwC_o7gvjsSiLC2CZTHtiRfqsI7gEaoPtm-lYjmT6-ra9BPak",
-        "source": "Rádio Moçambique"
+        "url": "https://www.abola.pt/futebol/noticias/presidente-do-nacional-garante-que-horario-do-jogo-com-o-fc-porto-vai-mudar-2025010519271977072",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaOCBvlH4TaWcvf3RA6nR91ivg-BZToH98G55Zbytujft4oSeqoE-SiaTwvEs",
+        "source": "A Bola"
       },
       {
-        "title": "Ciclone tropical intenso \"Chido\" avança para Moçambique com impacto previsto nas próximas 72 horas",
+        "title": "Em modos ditatoriais, o nevoeiro da Choupana mandou estarem quietos aqueles que ousaram perturbá-lo",
         "snippet": "",
-        "url": "https://integritymagazine.co.mz/arquivos/35765",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YTyZCVRt-ad1FrNNfdpAx1MdkIUzfJHUIAwF_F5Ehbnscxhf3NI6hVHckHU",
-        "source": "Integrity Magazine"
+        "url": "https://tribuna.expresso.pt/cronica-de-jogo/2025-01-03-em-modos-ditatoriais-o-nevoeiro-da-choupana-mandou-estarem-quietos-aqueles-que-ousaram-perturba-lo-ef647763",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Df2UOJfpr67r22-V6IsK2fjAZAe2oIKf0iRe9ASxFqC5A-O36ZoPd01vquw",
+        "source": "Tribuna Expresso"
       },
       {
-        "title": "Ciclone Chido já é “intenso” e vai afectar norte do país no domingo - O País - A verdade como notícia",
+        "title": "Eis a visibilidade na Choupana a 35 minutos do Nacional da Madeira x FC Porto",
         "snippet": "",
-        "url": "https://opais.co.mz/ciclone-chido-ja-e-intenso-e-vai-afectar-norte-do-pais-no-domingo/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyUTHkfZAIHpiL63CUohONA2e4dnJuE7fDftflPZ6LkWcJDoau5k5e9w0Bej8",
-        "source": "O País"
+        "url": "https://bolanarede.pt/especial-bola-na-rede/atualidade/eis-a-visibilidade-na-choupana-a-35-minutos-do-nacional-da-madeira-x-fc-porto/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKnRDsyht2XKvCNIVIEIkPy-_6gPr2dNP_50BupYguO5_CFFyx0xX2VMApG1o",
+        "source": "Bola na Rede"
+      }
+    ]
+  },
+  {
+    "title": "eldense - valencia",
+    "link": "https://trends.google.com/trending/rss?geo=MZ",
+    "pubdate": "Tue, 7 Jan 2025 12:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvv59GVvwZJvMv_KwVZ-L7a4_sKlfqTuZf0bDgbbm2MfUsoyZGTxE4Fbm5GuM",
+    "picture_source": "FootBoom",
+    "news_items": [
+      {
+        "title": "La Furia de Canós Celebrada Tras un Espectacular Gol en la Copa... Un Año Después",
+        "snippet": "",
+        "url": "https://www.footboom1.com/es/news/football/2271613-canos-fury-celebrated-after-stunning-copa-goal-one-year-on",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvv59GVvwZJvMv_KwVZ-L7a4_sKlfqTuZf0bDgbbm2MfUsoyZGTxE4Fbm5GuM",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Sergi Canós promete ser importante en el Valencia CF de Carlos Corberán",
+        "snippet": "",
+        "url": "https://www.eldesmarque.com/futbol/valencia-cf/20250108/sergi-canos-promesa-ser-importante-carlos-corberan_300547440.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCm7d76a67Pha6xN91uaaKvon3sleAVRC-f8gdUIUGiJbyYm8J76TADa7V6I",
+        "source": "ElDesmarque"
+      },
+      {
+        "title": "Vídeo: Canós conecta con Diego López para hacer 0-2 en Elda",
+        "snippet": "",
+        "url": "https://www.msn.com/es-es/deportes/futbol/v%C3%ADdeo-can%C3%B3s-conecta-con-diego-l%C3%B3pez-para-hacer-0-2-en-elda/ar-AA1x9inX",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhc31fxqEjccyVQXOOloaR4_ihIWKhDzyXMUXH-sT9uKEXLRcpeASus-itqrc",
+        "source": "MSN"
       }
     ]
   }

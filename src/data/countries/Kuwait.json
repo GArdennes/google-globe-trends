@@ -1,187 +1,311 @@
 [
   {
-    "title": "isl",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HJr0Su6v5-KNy2Db529KbTo2xk6fYUMAJqy5FdEe-8DvjMIcTVdYvh4LCHI",
-    "picture_source": "Sportstar",
+    "pubdate": "Tue, 7 Jan 2025 19:20:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwUx3OacjYVaPIhwMxCw-NPIo8p7Ut_jy2GHSkpAr_Fg7olymKkbJEB27HUw",
+    "picture_source": "Los Angeles Times",
     "news_items": [
       {
-        "title": "Mohun Bagan vs Kerala Blasters LIVE SCORE: MBSG v KBFC, ISL 2024-25 live streaming info",
+        "title": "2 dead and more than 1,000 homes, businesses, other buildings destroyed in fires",
         "snippet": "",
-        "url": "https://sportstar.thehindu.com/football/indian-football/mohun-bagan-sg-vs-kerala-blasters-live-score-mbsg-v-kbfc-updates-lineups-isl-2024-25-goals-highlights/article68985242.ece",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HJr0Su6v5-KNy2Db529KbTo2xk6fYUMAJqy5FdEe-8DvjMIcTVdYvh4LCHI",
-        "source": "Sportstar"
+        "url": "https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwUx3OacjYVaPIhwMxCw-NPIo8p7Ut_jy2GHSkpAr_Fg7olymKkbJEB27HUw",
+        "source": "Los Angeles Times"
       },
       {
-        "title": "Jose Molina highlights on potential striker rotation and Vishal Kaith's importance ahead of Kerala Blasters clash",
+        "title": "Live camera shows the destructive Palisades Fire in Los Angeles",
         "snippet": "",
-        "url": "https://khelnow.com/football/indian-football-isl-jose-molina-pre-pc-202412-2",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUlKD4Z4Vhfdgzev5KySN9ARPvBC4cDIf26ol4jfnX9OFcF4Ppq6RkTZKeLDQ",
-        "source": "Khel Now"
+        "url": "https://ktla.com/news/california/wildfires/palisades-fire-live-camera/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_-liP7Vv_yrjyVCLggXDi6nCvgsdhCz6g372PJvem-AX_6NJBdd0GmnBNFbQ",
+        "source": "KTLA"
       },
       {
-        "title": "ISL: Mohun Bagan look to continue home run in clash against Kerala Blasters",
+        "title": "Where power is out in Southern California | MAP",
         "snippet": "",
-        "url": "https://www.telegraphindia.com/sports/football/isl-mohun-bagan-super-giant-look-to-continue-home-run-in-clash-against-kerala-blasters/cid/2070617",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9yvs9phOC9WDb0r7XtydB0sUOa0oobC___Rm6CTL6we1BdNzkbjpt7eGO_1I",
-        "source": "Telegraph India"
+        "url": "https://abc7.com/post/power-outage-map-tracker-see-affected-areas-los-angeles-larger-southern-california-area/15777619/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5nkx9br0NqPxC9bI-NyHYlCTk-Rui_VaXwSCtwydNDdXD5FOa4OqZJdyGjA",
+        "source": "ABC7 Los Angeles"
       }
     ]
   },
   {
-    "title": "zimbabwe vs afghanistan",
+    "title": "الطقس",
     "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Sat, 14 Dec 2024 03:20:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhUWVMhOQ8D___AeWNNiVl5GSty-wrXSgV7-NrdfDNyUPXg4Gbaka30UyJs7E",
-    "picture_source": "Cricbuzz.com",
-    "news_items": [
-      {
-        "title": "Zimbabwe vs Afghanistan, 2nd T20I",
-        "snippet": "",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/109327/afg-vs-zim-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhUWVMhOQ8D___AeWNNiVl5GSty-wrXSgV7-NrdfDNyUPXg4Gbaka30UyJs7E",
-        "source": "Cricbuzz.com"
-      },
-      {
-        "title": "Zimbabwe vs Afghanistan 3rd T20I Live Streaming And Live Telecast: When And Where To Watch",
-        "snippet": "",
-        "url": "https://sports.ndtv.com/cricket/zimbabwe-vs-afghanistan-3rd-t20i-live-streaming-and-live-telecast-when-and-where-to-watch-7246398",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCSTWCYHKb44-OGTo1KadcjA-2ybGK06kmLgfEwGuU99l5AotkATJxalRqQ4",
-        "source": "NDTV Sports"
-      },
-      {
-        "title": "2nd T20I: Rasooli leads Afghanistan to 50-run victory over Zimbabwe",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/2nd-t20i-rasooli-leads-afghanistan-to-50-run-victory-over-zimbabwe/articleshow/116296305.cms",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1ER2uQG8FfOAzjOS1JO02AzjsoZqN28t0r3JfwCbLZkD1rd0BSCCmRZmI7SU",
-        "source": "Times of India"
-      }
-    ]
-  },
-  {
-    "title": "bahrain vs kuwait",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Sat, 14 Dec 2024 00:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoHCWTKQbJfngheNobziD_wGwvrcSJ17giXw-Ns17i60N4LStvldkFznMhUvI",
-    "picture_source": "Times of India",
-    "news_items": [
-      {
-        "title": "ILT20 Gulf Cricket Championship 2024: UAE, Kuwait start with wins",
-        "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-gulf-cricket-championship-2024-uae-kuwait-start-with-wins/articleshow/116307873.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoHCWTKQbJfngheNobziD_wGwvrcSJ17giXw-Ns17i60N4LStvldkFznMhUvI",
-        "source": "Times of India"
-      },
-      {
-        "title": "Kuwait vs Bahrain, 3rd Match",
-        "snippet": "",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/112241/bhr-vs-kuw-3rd-match-gulf-cricket-t20i-championship",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT59Lu8rmA8kSoIgZFWvXRIz0QTFHl6MDEWRWAvVaYByNWx0qsk0ldyjEMUQwA",
-        "source": "Cricbuzz.com"
-      },
-      {
-        "title": "QAT vs OMN Dream11 Prediction Today Match 4 Gulf Cup T20I 2024",
-        "snippet": "",
-        "url": "https://cricketaddictor.com/fantasy-cricket/qat-vs-omn-dream11-prediction-today-match-4-gulf-cup-t20i-2024/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoOcKBTc9Y4SnYNTyFWOEkz_kvXUVMLtPfRFaVcn9iqM_No65csWoz3t5yrO0",
-        "source": "Cricket Addictor"
-      }
-    ]
-  },
-  {
-    "title": "new zealand vs england",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Fri, 13 Dec 2024 18:20:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ_tsyJ4ZJaBKHQUCfneWZLxcTTTjqNTi197hFugK6MsXgm09N2P3ULhdhJcU",
-    "picture_source": "The National",
-    "news_items": [
-      {
-        "title": "NZ v England 3rd Test - Day 1",
-        "snippet": "",
-        "url": "https://www.thenationalnews.com/sport/cricket/2024/12/14/nz-v-england-3rd-test-day-1/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ_tsyJ4ZJaBKHQUCfneWZLxcTTTjqNTi197hFugK6MsXgm09N2P3ULhdhJcU",
-        "source": "The National"
-      },
-      {
-        "title": "Stokes motivates his team to put in extra effort, says England pacer Potts",
-        "snippet": "",
-        "url": "https://www.socialnews.xyz/2024/12/14/stokes-motivates-his-team-to-put-in-extra-effort-says-england-pacer-potts/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8yf16L3Z8OIdisEwTKYKo0Vk7tuAifDhD0UMf9sWS_QwHon8eOB5Z4KhX4Bw",
-        "source": "Social News XYZ"
-      },
-      {
-        "title": "Matt Potts impresses and Gus Atkinson's Anderson-style spell: Five takeaways from England's disciplined first day in Hamilton",
-        "snippet": "",
-        "url": "https://www.wisden.com/series/new-zealand-vs-england-m-202425/cricket-news/matt-potts-impresses-and-gus-atkinsons-anderson-style-spell-x-takeaways-from-englands-disciplined-first-day-in-hamilton",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2O9ZL_bAciQfC1_RwjSF0ZSBrojVEaUBVyWQS8ZXqMu0sClGC8csTKoB0xhs",
-        "source": "Wisden"
-      }
-    ]
-  },
-  {
-    "title": "australia vs india",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Fri, 13 Dec 2024 16:00:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 19:00:00 -0800",
     "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-VBWpTev9fPIcidvYdOmuaqB7E13gOJHxpnsUjmXUTIERfB3VR6MqRKvBYJg",
-    "picture_source": "ESPNcricinfo",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLjOkUX6A3XfJ7VcNJEx3yUY0xXu3ELeIeKtaM3UOPK_HJXDFMfHPqg11zecQ",
+    "picture_source": "جريدة مصرنا",
     "news_items": [
       {
-        "title": "Ball by Ball Commentary & Live Score - AUS vs IND, 3rd Test",
+        "title": "توقعات الأرصاد: ارتفاع طفيف في درجات الحرارة قبل وصول منخفض الخميس",
         "snippet": "",
-        "url": "https://www.espncricinfo.com/series/australia-vs-india-2024-25-1426547/australia-vs-india-3rd-test-1426557/ball-by-ball-commentary",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-VBWpTev9fPIcidvYdOmuaqB7E13gOJHxpnsUjmXUTIERfB3VR6MqRKvBYJg",
+        "url": "https://misrena.com/uncategorized/14202.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLjOkUX6A3XfJ7VcNJEx3yUY0xXu3ELeIeKtaM3UOPK_HJXDFMfHPqg11zecQ",
+        "source": "جريدة مصرنا"
+      },
+      {
+        "title": "الأرصاد: درجات الحرارة تقترب من الصفر وأقل المناطق بردوة لمدة 7 أيام قادمة | الأخبار",
+        "snippet": "",
+        "url": "https://radar2.net/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D9%88/8852/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJpcCPDI2Zjd1htlHM_o-_f1j76d9KVvJ1q1Eb2Qqfg7YgBbqqVcq_mKtglU",
+        "source": "radar2.net"
+      },
+      {
+        "title": "الطقس غدا.. شبورة مائية كثيفة على بعض المناطق وسقوط أمطار بمطروح",
+        "snippet": "",
+        "url": "https://www.youm7.com/story/2025/1/8/%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%BA%D8%AF%D8%A7-%D8%B4%D8%A8%D9%88%D8%B1%D8%A9-%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%88%D8%B3%D9%82%D9%88%D8%B7-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1/6839523",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU1rrv-6mWrADdtbR6U0mswoXtnCJDudp-w8Hc-uwU3UPdZXHxznKVFUaeTVo",
+        "source": "اليوم السابع"
+      }
+    ]
+  },
+  {
+    "title": "new zealand vs sri lanka",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 7 Jan 2025 18:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxtkbB23GyI2xHkypRI1dvpblQHKEo_8aMIiB6bHzQsoNWq9dAKGSoCsL0sCo",
+    "picture_source": "France 24",
+    "news_items": [
+      {
+        "title": "New Zealand crush Sri Lanka by 113 runs in 2nd ODI to win series",
+        "snippet": "",
+        "url": "https://www.france24.com/en/live-news/20250108-new-zealand-crush-sri-lanka-by-113-runs-in-2nd-odi-to-win-series",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxtkbB23GyI2xHkypRI1dvpblQHKEo_8aMIiB6bHzQsoNWq9dAKGSoCsL0sCo",
+        "source": "France 24"
+      },
+      {
+        "title": "Cricket Photos - NZ vs SL, 2nd ODI Pictures",
+        "snippet": "",
+        "url": "https://www.espncricinfo.com/series/new-zealand-vs-sri-lanka-2024-25-1443537/new-zealand-vs-sri-lanka-2nd-odi-1443547/match-photo",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq--QYLaT3ZrgI7XfocG7LHiTXYOStoRaZnGvjcfeOWf5hRl9jvpa8Zu-IlD8",
         "source": "ESPNcricinfo"
       },
       {
-        "title": "Has Brisbane weather misled Rohit Sharma into bowling first in Gabba Test",
+        "title": "New Zealand vs Sri Lanka Highlights: New Zealand beat Sri Lanka by 113 runs | Mint",
         "snippet": "",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/has-brisbane-weather-misled-rohit-sharma-into-bowling-first-in-the-gabba-test/articleshow/116306683.cms",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPdqoLNOU80dBrRZGkb_q-OYUuYvbrRzloZcvjhxF6N-U3e_CXMKfieV9dez0",
-        "source": "Times of India"
-      },
-      {
-        "title": "India Take Big Step, Make 2 Significant Changes In Playing XI For 3rd Test Against Australia",
-        "snippet": "",
-        "url": "https://sports.ndtv.com/australia-vs-india-2024-25/india-take-big-step-make-2-significant-changes-in-playing-xi-in-3rd-test-against-australia-7244193",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wNUZVPgmnQ20KBNBqgAurC8lLiSErJBQQNCp1yy9RgGIY1ejF5F-a6_zg2s",
-        "source": "NDTV Sports"
+        "url": "https://www.livemint.com/sports/cricket-news/new-zealand-vs-sri-lanka-live-score-2nd-odi-of-sri-lanka-tour-of-new-zealand-2024-25-final-updates-today-08-jan-2025-11736294811090.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnzRt5NQ8yaFixNmtZnDrLLgZen34tBCxox_vdLD7ZudlTEBchFtoeVYdfalQ",
+        "source": "mint"
       }
     ]
   },
   {
-    "title": "pakistan vs south africa",
+    "title": "kuwait weather",
     "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Fri, 13 Dec 2024 07:40:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCil_ImF3DbYxVoJ1OIN7LpcnKPEhN7nVIuYeVNnqYGYwXrvYslyLZpo3m7Q",
-    "picture_source": "ESPNcricinfo",
+    "pubdate": "Tue, 7 Jan 2025 18:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnNcjLra7u-A_klTlY3WnTvkYAMb-_5ffXbITIXqovuBnQ4bHyod6QFBzI0j0",
+    "picture_source": "كونا",
     "news_items": [
       {
-        "title": "Hendricks' maiden T20I ton hands SA first series win since August 2022",
+        "title": "KUNA : Scattered rain to persist through Wednesday evening - Meteorologist - Environment - 08/01/2025",
         "snippet": "",
-        "url": "https://www.espncricinfo.com/series/south-africa-vs-pakistan-2024-25-1432205/south-africa-vs-pakistan-2nd-t20i-1432212/match-report",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCil_ImF3DbYxVoJ1OIN7LpcnKPEhN7nVIuYeVNnqYGYwXrvYslyLZpo3m7Q",
-        "source": "ESPNcricinfo"
+        "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3213767&language=en",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnNcjLra7u-A_klTlY3WnTvkYAMb-_5ffXbITIXqovuBnQ4bHyod6QFBzI0j0",
+        "source": "كونا"
       },
       {
-        "title": "SA vs PAK 3rd T20I Dream11 Fantasy Top Picks For Today's Match",
+        "title": "Meteorologist warns of continued rainfall in Kuwait; caution urged",
         "snippet": "",
-        "url": "https://cricket.one/fantasy-analysis/sa-vs-pak-3rd-t20i-dream11-fantasy-tips-5-top-picks-for-grand-league-contests/675d66c4c521c65b36a98802",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmUeWyfldQIoZdK2Lc05QLaIWEDrN5yOO7p_NFf0HkPoxJYXnPuPKkbUvuP5U",
-        "source": "cricket.one"
+        "url": "https://www.arabtimesonline.com/news/meteorologist-warns-of-continued-rainfall-in-kuwait-caution-urged/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI1drZ7uyH2uOq0GdwNmRD0N6BfHKIwA6Av2sWnrldFYJ5wq3MkPXPqxubcP4",
+        "source": "Arab Times Kuwait"
       },
       {
-        "title": "SA vs PAK 2nd T20I: Saim Ayub stars as Pakistan scores first 200+ total in T20Is in 54 matches",
+        "title": "Kuwait issues frost warning: Temperature to drop below 3°C",
         "snippet": "",
-        "url": "https://www.sportingnews.com/in/cricket/news/sa-pak-2nd-t20i-saim-ayub-pakistan-score-first-200-54-matches/4b1e58c531afbe344fea6481",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr1FH7l3qvvPlvOIT_LiBuadzmSNMeTc0xvYhWNzMGbR0j_J35QBrDvrWABDM",
-        "source": "Sporting News"
+        "url": "https://gulfnews.com/world/gulf/kuwait/kuwait-issues-frost-warning-temperature-to-drop-below-3c-1.500010564",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYgPL9RWUvq0JbAFMrxkE45pYSGd-XIPAukFcZMu3lI11pu27YOZhrqCO5qcY",
+        "source": "Gulf News"
+      }
+    ]
+  },
+  {
+    "title": "الطقس في الكويت",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 7 Jan 2025 17:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnNcjLra7u-A_klTlY3WnTvkYAMb-_5ffXbITIXqovuBnQ4bHyod6QFBzI0j0",
+    "picture_source": "كونا",
+    "news_items": [
+      {
+        "title": "(الأرصاد الجوية): أمطار متفرقة رعدية أحيانا تستمر حتى مساء اليوم الأربعاء - عام - 08/01/2025",
+        "snippet": "",
+        "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3213754",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnNcjLra7u-A_klTlY3WnTvkYAMb-_5ffXbITIXqovuBnQ4bHyod6QFBzI0j0",
+        "source": "كونا"
+      },
+      {
+        "title": "«الأرصاد»: أمطار متفرقة رعدية أحيانا وفرص لتكون الضباب",
+        "snippet": "",
+        "url": "https://www.alraimedia.com/article/1714038/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D8%A3%D8%AD%D9%8A%D8%A7%D9%86%D8%A7-%D9%88%D9%81%D8%B1%D8%B5-%D9%84%D8%AA%D9%83%D9%88%D9%86-%D8%A7%D9%84%D8%B6%D8%A8%D8%A7%D8%A8",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR9pVGhqS7Ei1TbtT8FWf3coOj_XkmuUZ_XX3UlMo-ws5FJ0_mhJxCcEcDqf0",
+        "source": "الراي"
+      },
+      {
+        "title": "طقس اليوم.. انخفاض في الرؤية الأفقية بسبب الضباب مع فرصة لأمطار متفرقة تكون رعدية أحياناً.. والعظمى 19",
+        "snippet": "",
+        "url": "https://alwatan.kuwait.tt/articledetails.aspx?id=795080",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN15jc2gxs3jNd3PdMad5ylkdaCScHiJHQIUHgfL1ZNGWTopkZL4BOMIS34fw",
+        "source": "جـريـدة الوطن"
+      }
+    ]
+  },
+  {
+    "title": "मौसम",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 7 Jan 2025 19:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxj47lvmpcXBSWPlQuKJnV4iVcaNn20dtjt6FdKpNQxpLLliKpgnaA5pscvRk",
+    "picture_source": "Jagran",
+    "news_items": [
+      {
+        "title": "Delhi Weather: दिल्ली में फिर लौटेगी ठिठुरन, घने कोहरे और शीतलहर का सामना करने को रहें तैयार",
+        "snippet": "",
+        "url": "https://www.jagran.com/delhi/new-delhi-city-ncr-strong-sunshine-gave-relief-on-wednesday-yellow-alert-of-cold-and-fog-again-today-23863466.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxj47lvmpcXBSWPlQuKJnV4iVcaNn20dtjt6FdKpNQxpLLliKpgnaA5pscvRk",
+        "source": "Jagran"
+      },
+      {
+        "title": "UP Rains: अगले 48 घंटे में यूपी के इन जिलों में मेघ गर्जन के साथ बारिश ओले गिरने का अलर्ट IMD latest update",
+        "snippet": "",
+        "url": "https://www.patrika.com/gonda-news/up-rains-alert-of-rain-and-hailstorm-along-with-thunder-in-these-districts-of-up-in-the-next-48-hours-imd-latest-update-19299480",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkxTmdN_zYfynQnZEFldYKMH4j1i4Ksp4_s6QCybBA-lbrsqib9pRlAVnSZdM",
+        "source": "Patrika News"
+      },
+      {
+        "title": "कल का मौसम 09 January 2025: शीतलहर कोहरे बर्फबारी का अटैक, बारिश-तेज हवाएं करेंगी घरों में कैद; फ्लाइटें-ट्रेनें रहेंगी लेट",
+        "snippet": "",
+        "url": "https://www.timesnowhindi.com/cities/kal-ka-mausam-09-january-2025-kal-ka-mausam-kaisa-rahega-rajasthan-up-bihar-delhi-ncr-harayan-and-jammu-kashmir-mein-imd-ka-cold-day-rain-alert-jari-article-117052626",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP5ThDwHtnltC2pkGkUZpy6aC3cIZVSiLt87jsXq5-rvLiGG2oBkSy1kaWCnc",
+        "source": "Times Now Navbharat"
+      }
+    ]
+  },
+  {
+    "title": "شاهد",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Wed, 8 Jan 2025 08:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5RBnM0x_2vQtX1TMWQgjayl5oNgCa550MzhOD9esksn1_oEUuRbbV1kjtAAA",
+    "picture_source": "الجزيرة نت",
+    "news_items": [
+      {
+        "title": "شاهد.. أوباميانغ يقود القادسية لنصف نهائي كأس خادم الحرمين الشريفين",
+        "snippet": "",
+        "url": "https://www.aljazeera.net/sport/2025/1/7/%D8%B4%D8%A7%D9%87%D8%AF-%D8%A3%D9%88%D8%A8%D8%A7%D9%85%D9%8A%D8%A7%D9%86%D8%BA-%D9%8A%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D9%84%D9%86%D8%B5%D9%81",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5RBnM0x_2vQtX1TMWQgjayl5oNgCa550MzhOD9esksn1_oEUuRbbV1kjtAAA",
+        "source": "الجزيرة نت"
+      },
+      {
+        "title": "أوباميانج: لا أهتم بمن سنواجه في كأس الملك",
+        "snippet": "",
+        "url": "https://www.kooora.com/?n=1379953",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcltTTOYVzccjqT_JNqBwUlyiuj86z3SIbJFZKbWN9MPOjy29h3WfhrcXYkpw",
+        "source": "كووورة: الموقع العربي الرياضي الأول"
+      },
+      {
+        "title": "القادسية يلتقي التعاون في ربع نهائي كأس خادم الحرمين الشريفين",
+        "snippet": "",
+        "url": "https://www.almasryalyoum.com/news/details/3346750",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgNCESoE9FVm5iLm6NOdYr1LBJF84ZcqB6zxXCfVJHY0wrtole4MSuO5DfaKY",
+        "source": "المصري اليوم"
+      }
+    ]
+  },
+  {
+    "title": "فجر السعيد",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Wed, 8 Jan 2025 02:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnIDcztS6nMRM4ifGFkjqKdE0LpTfIFQV8nB89YxlU8IKy_j1NQv8QRBjWqX4",
+    "picture_source": "aljadeed",
+    "news_items": [
+      {
+        "title": "الامن الكويتي يلقي القبض على فجر السعيد",
+        "snippet": "",
+        "url": "https://www.aljadeed.tv/entertainment/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%86%D9%8A%D8%A9/520454/%D8%A7%D9%84%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A-%D9%8A%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D8%B3%D8%B9%D9%8A%D8%AF",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnIDcztS6nMRM4ifGFkjqKdE0LpTfIFQV8nB89YxlU8IKy_j1NQv8QRBjWqX4",
+        "source": "aljadeed"
+      },
+      {
+        "title": "القبض على الكويتية فجر السعيد بتهمة الإساءة لرئيس الوزراء العراقي",
+        "snippet": "",
+        "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=07012025&id=28cb4e49-9bb0-44fd-bf36-c268f2e9e51c",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVPcL1SU7ZGzPSUFb-IO-MilNq6Isa6RstEvaQ-u53oUYUNR-E0rIjtRfDdcY",
+        "source": "بوابة الشروق"
+      },
+      {
+        "title": "الكويت تحتجز فجر السعيد لإساءتها لرئيس الوزراء العراقي",
+        "snippet": "",
+        "url": "https://slaati.com/2025/01/06/p2609087.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKJIu2ZEcjlKhWAQYCsW6QB6BvXCS9G-w6aETmIqDz_S8xqkpk2jV17Fxj5Uw",
+        "source": "صحيفة صدى الالكترونية"
+      }
+    ]
+  },
+  {
+    "title": "weather today",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 7 Jan 2025 18:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotohs-PYLZuQ284ofQp-lEu0tqd3-OwVxZySgCFKXMaLKN7G8DHicE1Es0r4",
+    "picture_source": "The Weather Channel",
+    "news_items": [
+      {
+        "title": "Winter Storm Cora Tracker: Satellite, Alerts, Forecasts And More",
+        "snippet": "",
+        "url": "https://weather.com/storms/winter/news/2025-01-07-winter-storm-cora-maps-tracker-radar-forecast",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotohs-PYLZuQ284ofQp-lEu0tqd3-OwVxZySgCFKXMaLKN7G8DHicE1Es0r4",
+        "source": "The Weather Channel"
+      },
+      {
+        "title": "Which states will see snow, ice next? See where winter storm Cora is headed",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/news/weather/2025/01/08/winter-storm-cora-path-snow-ice-southern-us/77538346007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBRfXyks2c2TGA7sbPP3iLVcONbWP5-eDfOJN3WRrxQnzdzjNDGJCmtOxjNKQ",
+        "source": "USA Today"
+      },
+      {
+        "title": "Winter Storm Cora will bring a second week of subfreezing temps to Florida",
+        "snippet": "",
+        "url": "https://www.pnj.com/story/weather/2025/01/07/will-winter-storm-cora-impact-florida-yep-heres-how/77520834007/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6GoVeC7oxff8IW-_zCbII0JWtHlywUfSQBysWskTOxShXtRBBL2R_CJUQSKU",
+        "source": "Pensacola News Journal"
+      }
+    ]
+  },
+  {
+    "title": "يوتيوب",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 7 Jan 2025 16:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqz7_O2xfnQ9s6BwFXzYrU_0SoQudPjQo-BHmcmUSm9vPGt-BpUxVHgFtD1eQ",
+    "picture_source": "إرم نيوز",
+    "news_items": [
+      {
+        "title": "الرومانسية تتفوق في سباق الأغاني \"الأكثر مشاهدة\" (فيديو)",
+        "snippet": "",
+        "url": "https://www.eremnews.com/entertainment/8qjlcql",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqz7_O2xfnQ9s6BwFXzYrU_0SoQudPjQo-BHmcmUSm9vPGt-BpUxVHgFtD1eQ",
+        "source": "إرم نيوز"
+      },
+      {
+        "title": "تامر حسني ورامي صبري في «فعلاً مبيتنسيش»",
+        "snippet": "",
+        "url": "https://www.aljarida.com/article/86576",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI2pZu8_np4qlBCo3yjHJf6IfBHlmKdHHOFOqGzIq_I6qBN3CQi9XsLXEuFn0",
+        "source": "جريدة الجريدة الكويتية"
+      },
+      {
+        "title": "نجاح كبير لكليب أغنية تامر حسني ورامي صبري \"ما بيتنسيش\"",
+        "snippet": "",
+        "url": "https://www.youm7.com/story/2025/1/8/%D9%86%D8%AC%D8%A7%D8%AD-%D9%83%D8%A8%D9%8A%D8%B1-%D9%84%D9%83%D9%84%D9%8A%D8%A8-%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D8%AA%D8%A7%D9%85%D8%B1-%D8%AD%D8%B3%D9%86%D9%8A-%D9%88%D8%B1%D8%A7%D9%85%D9%8A-%D8%B5%D8%A8%D8%B1%D9%8A-%D9%85%D8%A7-%D8%A8%D9%8A%D8%AA%D9%86%D8%B3%D9%8A%D8%B4/6838602",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7q1NGGh2BK7z3aXC4av9x0cJoMGMboGvVuHvq8-WGZr8imSDuukqIFQyGDb0",
+        "source": "اليوم السابع"
       }
     ]
   }

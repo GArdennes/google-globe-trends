@@ -15,7 +15,7 @@ async function fetchWithRetry(url, retries = 3, backoff = 1000) {
       if (error.response && error.response.status === 429 && i < retries - 1) {
         console.warn(`Rate limit exceeded. Retrying in ${backoff}ms...`);
         await delay(backoff);
-        backoff *= 2; // Exponential backoff
+        backoff *= 4; // Exponential backoff
       } else {
         throw error;
       }
@@ -66,17 +66,22 @@ export default async function crawl(data) {
           : [],
       }));
 
-      const maxTrend = trend.reduce(
-        (max, item) => (item.approx_traffic > max.approx_traffic ? item : max),
-        trend[0],
+      // Sort trends by approx_traffic in decreasing order
+      const sortedTrends = trend.sort(
+        (a, b) => b.approx_traffic - a.approx_traffic,
       );
+
+      // Select the top 3 trends
+      const topTrends = sortedTrends.slice(0, 3);
 
       const x = {
         country: countryName,
         ISO: geoCode,
-        title: maxTrend.title,
-        link: maxTrend.news_items[0] ? maxTrend.news_items[0].url : "N/A",
-        traffic: maxTrend.approx_traffic,
+        trends: topTrends.map((t) => ({
+          title: t.title,
+          link: t.news_items[0] ? t.news_items[0].url : "N/A",
+          traffic: t.approx_traffic,
+        })),
       };
 
       tableData.push(x);

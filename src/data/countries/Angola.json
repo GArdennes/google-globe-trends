@@ -1,156 +1,311 @@
 [
   {
-    "title": "weather",
+    "title": "arsenal vs newcastle",
     "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Fri, 13 Dec 2024 22:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrz15jwFuVDwZVXq4UtkgunRq1mU0MGPMq84hEzJ1kLo3mB2cz_1ClWBLO3sc",
-    "picture_source": "The Weather Network",
+    "pubdate": "Tue, 7 Jan 2025 11:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScL7FWA1Zlw35CH1ZeDVdttgqOKcbctge2UYGKpf-rH-3YubNHaVIKLH1_v7k",
+    "picture_source": "ESPN",
     "news_items": [
       {
-        "title": "Southern Ontario's bright weekend will be ending on a gloomy note",
+        "title": "Arteta laments 'different' Cup ball in Arsenal loss",
         "snippet": "",
-        "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/southern-ontarios-bright-weekend-will-be-ending-on-a-gloomy-note",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrz15jwFuVDwZVXq4UtkgunRq1mU0MGPMq84hEzJ1kLo3mB2cz_1ClWBLO3sc",
-        "source": "The Weather Network"
+        "url": "https://www.espn.com/soccer/story/_/id/43325707/ball-flight-added-arsenal-misses-mikel-arteta",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScL7FWA1Zlw35CH1ZeDVdttgqOKcbctge2UYGKpf-rH-3YubNHaVIKLH1_v7k",
+        "source": "ESPN"
       },
       {
-        "title": "Police Asking Residents To Stay Off The Roads If Possible Due To Icy Conditions",
+        "title": "Football latest: West Ham boss Julen Lopetegui, Newcastle beat Arsenal, Didier Deschamps to leave France",
         "snippet": "",
-        "url": "https://www.kawartha411.ca/2024/12/09/opp-asking-residents-to-stay-off-the-roads-if-possible-due-to-icy-conditions/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwPXIWkprwJmaw25HTDj-QKWTlGeH8HINFKAJ2s9UP6sI7HrC_OReeirLlAuY",
-        "source": "Kawartha 411"
+        "url": "https://www.bbc.com/sport/football/live/cgkxl267relt",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BvfjXhKSi4mS5PYVWnsQ9IlWROLVcGUuGiJxrSZNSLPhVOZ5p4ckfAGTpm8",
+        "source": "BBC"
       },
       {
-        "title": "GTA sees freezing rain, icy conditions during morning rush hour",
+        "title": "‘We’ve only done half the work’: Howe cautious after Newcastle victory",
         "snippet": "",
-        "url": "https://toronto.ctvnews.ca/gta-sees-freezing-rain-icy-conditions-during-morning-rush-hour-1.7138539",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXlK5gd__YQ82mJ4eMdi6vOkmWgt8mf8nQwB8ae6yUCUYYFgEknc_WqwbMFc",
-        "source": "CTV News Toronto"
+        "url": "https://www.theguardian.com/football/2025/jan/07/eddie-howe-arsenal-newcastle-football-carabao-cup",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnPzWgRTZINTZSjae_0zQMlDynnitleGR1mHYuTdqFlbPvDaBM8EFN8p7b_yE",
+        "source": "The Guardian"
       }
     ]
   },
   {
-    "title": "isabel dos santos",
+    "title": "bp",
     "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Fri, 13 Dec 2024 13:20:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 04:10:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWd7eGAkcVMx7kr8UmrayMvBlzUTk1Pl0imbEeC8mkcL2uTYpW5c1SPRaR_Zo",
-    "picture_source": "Negócios",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzXfgv9pDZvHwwsxIMtkdUUtoWURYUU8DGvU0lrZQvbsXtTckxfPhLjPi3h7s",
+    "picture_source": "Crude Oil Prices Today | OilPrice.com",
     "news_items": [
       {
-        "title": "Isabel dos Santos sinaliza vontade de concorrer à presidência de Angola",
+        "title": "BP to Help India Boost Production at Its Largest Oilfield",
         "snippet": "",
-        "url": "https://www.jornaldenegocios.pt/economia/mundo/africa/angola/detalhe/isabel-dos-santos-sinaliza-vontade-de-concorrer-a-presidencia-de-angola",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWd7eGAkcVMx7kr8UmrayMvBlzUTk1Pl0imbEeC8mkcL2uTYpW5c1SPRaR_Zo",
-        "source": "Negócios"
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-to-Help-India-Boost-Production-at-Its-Largest-Oilfield.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzXfgv9pDZvHwwsxIMtkdUUtoWURYUU8DGvU0lrZQvbsXtTckxfPhLjPi3h7s",
+        "source": "Crude Oil Prices Today | OilPrice.com"
       },
       {
-        "title": "Isabel dos Santos admite voltar a Angola e concorrer à presidência do país",
+        "title": "India's ONGC engages BP to boost production in largest oil field",
         "snippet": "",
-        "url": "https://observador.pt/2024/12/13/isabel-dos-santos-admite-voltar-a-angola-e-concorrer-a-presidencia-do-pais/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAmyNW0__PrmEea1yY0DSTe0PfrwSp2s-GORowmefnMadOwPyAeMtMX47m5QM",
-        "source": "Observador"
+        "url": "https://www.reuters.com/business/energy/indias-ongc-engages-bp-boost-production-largest-oil-field-2025-01-08/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfdiTswqOkqXhG3vMFyVLd9ag8zHlN9nnY2lMvE_2ivU5-9pzUJlG7JYysGs",
+        "source": "Reuters"
       },
       {
-        "title": "Isabel dos Santos quer concorrer à presidência de Angola",
+        "title": "Mumbai High engages BP Exploration (Alpha) as Technical Services Provider",
         "snippet": "",
-        "url": "https://www.cmjornal.pt/mundo/detalhe/isabel-dos-santos-quer-concorrer-a-presidencia-de-angola",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfM0T-CRoucQqOJWHLct0tjoxAvg9YfX70lzNK0AHScROQ9a4H5eOAxp6b7Xg",
-        "source": "Correio da Manhã"
+        "url": "https://www.business-standard.com/markets/capital-market-news/mumbai-high-engages-bp-exploration-alpha-as-technical-services-provider-125010800208_1.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoyuHagwgCBlVbNLvCR5M3P2M8xt_jMd14dF21iAs6mHHDOkqiypiIL29h5Bw",
+        "source": "Business Standard"
+      }
+    ]
+  },
+  {
+    "title": "arsenal fc",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 7 Jan 2025 12:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR45p1cwAWQ8hneV2FiuRWS2DZLRWPJ-OBDcOnpBIaQbBaellEWFy3BU5EDCC8",
+    "picture_source": "Football FanCast",
+    "news_items": [
+      {
+        "title": "Arsenal battling to keep £200k-per-week star as Barcelona plot move for him",
+        "snippet": "",
+        "url": "https://www.footballfancast.com/arsenal-battling-to-keep-thomas-partey-as-barcelona-plot-move-for-him/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR45p1cwAWQ8hneV2FiuRWS2DZLRWPJ-OBDcOnpBIaQbBaellEWFy3BU5EDCC8",
+        "source": "Football FanCast"
+      },
+      {
+        "title": "Thomas Partey Arsenal future decided - Jorginho fear, Barcelona transfer, Mesut Ozil repeat",
+        "snippet": "",
+        "url": "https://www.msn.com/en-gb/sport/football/thomas-partey-arsenal-future-decided-jorginho-fear-barcelona-transfer-mesut-ozil-repeat/ar-AA1wIlaW",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeq8gfHzG8MMIJkycUGa9YrgVaRzVK-zfsivrIr3-1_FSSD1LJIZwh5fsGNjY",
+        "source": "MSN"
+      },
+      {
+        "title": "How Thomas Partey truly feels about Arsenal stay as transfer exit update revealed in contract doubt",
+        "snippet": "",
+        "url": "https://www.arsenalinsider.com/transfers/how-thomas-partey-truly-feels-about-arsenal-stay-as-transfer-exit-update-revealed-in-contract-doubt/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPw8Mc0fsiIdwjsZewTWgIAuUZjFqEAFlAC40YwLA1otAdtnsUSXWAFRQutvs",
+        "source": "Arsenal Insider"
+      }
+    ]
+  },
+  {
+    "title": "club brugge",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 7 Jan 2025 11:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDUsIIVt79Oe1D3jRBSD2RdGHp4X99t_XusCRI3xa_HXdWqC86u2e4ijlUvJI",
+    "picture_source": "sporza",
+    "news_items": [
+      {
+        "title": "Oh-La-La! 3 mooie goals uit een avondje bekervoetbal, met 2 snelle sprints van Oh en de knappe controle van Tzolis",
+        "snippet": "",
+        "url": "https://sporza.be/nl/2025/01/08/oh-la-la-3-mooie-goals-uit-een-avondje-bekervoetbal-met-2-snelle-sprints-van-oh-en-de-knappe-controle-van-tzolis~1736323923110/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDUsIIVt79Oe1D3jRBSD2RdGHp4X99t_XusCRI3xa_HXdWqC86u2e4ijlUvJI",
+        "source": "sporza"
+      },
+      {
+        "title": "Club Brugge legt strijdvaardig OH Leuven over de knie en stoot door naar halve finale",
+        "snippet": "",
+        "url": "https://www.hln.be/beker-van-belgie/club-brugge-legt-strijdvaardig-oh-leuven-over-de-knie-en-stoot-door-naar-halve-finale~ae333b6a8/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwHnxJ3CadD2a0e7N9Y3WsRY0CBPLjNuC9K_1zpArYomMaPXGAW6qCNvu-QaA",
+        "source": "HLN"
+      },
+      {
+        "title": "Coleman uitgeschakeld met OHL in bekertoernooi: \"Laten liggen in de eerste helft\"",
+        "snippet": "",
+        "url": "https://www.voetbalprimeur.be/nieuws/1249229/coleman-uitgeschakeld-met-ohl-in-bekertoernooi-laten-liggen-in-de-eerste-helft.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoGpms_G2OZLbM5n0GGJc5-pYQlJFcClpHDkE9iYOWGrtILoe29VB8tFrfhEg",
+        "source": "VoetbalPrimeur.be"
+      }
+    ]
+  },
+  {
+    "title": "valencia vs",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 7 Jan 2025 13:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvv59GVvwZJvMv_KwVZ-L7a4_sKlfqTuZf0bDgbbm2MfUsoyZGTxE4Fbm5GuM",
+    "picture_source": "FootBoom",
+    "news_items": [
+      {
+        "title": "La Furia de Canós Celebrada Tras un Espectacular Gol en la Copa... Un Año Después",
+        "snippet": "",
+        "url": "https://www.footboom1.com/es/news/football/2271613-canos-fury-celebrated-after-stunning-copa-goal-one-year-on",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvv59GVvwZJvMv_KwVZ-L7a4_sKlfqTuZf0bDgbbm2MfUsoyZGTxE4Fbm5GuM",
+        "source": "FootBoom"
+      },
+      {
+        "title": "El Valencia pone rumbo a octavos con buenas sensaciones",
+        "snippet": "",
+        "url": "https://onefootball.com/es/noticias/el-valencia-pone-rumbo-a-octavos-con-buenas-sensaciones-40529973",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojQZjHauz0ppVwjtbjMN56Rdh5XsWhrjcmeRhAiWLnCQF-lAed8hGB0K1szY",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Vídeo: Canós conecta con Diego López para hacer 0-2 en Elda",
+        "snippet": "",
+        "url": "https://www.msn.com/es-es/deportes/futbol/v%C3%ADdeo-can%C3%B3s-conecta-con-diego-l%C3%B3pez-para-hacer-0-2-en-elda/ar-AA1x9inX",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhc31fxqEjccyVQXOOloaR4_ihIWKhDzyXMUXH-sT9uKEXLRcpeASus-itqrc",
+        "source": "MSN"
+      }
+    ]
+  },
+  {
+    "title": "krc genk",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 7 Jan 2025 12:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsZwEHc0HagFXnlY5lOPbxix-AagvO4Vvw-EWphAQ51VR6XuFc-6ulWDkKbfI",
+    "picture_source": "sporza",
+    "news_items": [
+      {
+        "title": "Met Oh als aanstoker en Penders als redder: STVV heeft geen schijn van kans tegen Genk in eenzijdige kwartfinale",
+        "snippet": "",
+        "url": "https://sporza.be/nl/matches/voetbal/croky-cup/2024-2025/kwartfinale/01/stvv-krc-genk-met-oh-als-aanstoker-en-penders-als-redder-stvv-heeft-geen-schijn-van-kans-tegen-genk-in-eenzijdige-kwartfinale~1726228577772/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsZwEHc0HagFXnlY5lOPbxix-AagvO4Vvw-EWphAQ51VR6XuFc-6ulWDkKbfI",
+        "source": "sporza"
+      },
+      {
+        "title": "Appeltaart en appelmoes: KRC Genk viert derbyzege op traditionele wijze",
+        "snippet": "",
+        "url": "https://www.krcgenk.be/nl/nieuws/5797/appeltaart-en-appelmoes-krc-genk-viert-derbyzege-op-traditionele-wijze",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROQQ75tOVNdfkLiY68YpEk_aIErXlZP_bFxr16ooqvvY6RtzFLvnL1AB9odNg",
+        "source": "KRC Genk"
+      },
+      {
+        "title": "Thorsten Fink komt met opvallende uitspraak na bekermatch tegen STVV",
+        "snippet": "",
+        "url": "https://www.redactie24.be/voetbal/thorsten-fink-komt-met-opvallende-uitspraak-na-bekermatch-tegen-stvv-175730",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQykhvFuaLhyZMYsVcjj6m6kg4FZk9lgW7Litwgy6g4zL6XaAH-E3-2bR9RacI",
+        "source": "Redactie24"
+      }
+    ]
+  },
+  {
+    "title": "porto vs sporting",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 7 Jan 2025 12:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwwhDk7qbDfR0uJi6Z13tA8tvD8Q7nZTpazB3qwsQ8DmG88io6Cqi8fhcKzPM",
+    "picture_source": "A Bola",
+    "news_items": [
+      {
+        "title": "Sporting-FC Porto, 1-0 A análise de Duarte Gomes à arbitragem do clássico",
+        "snippet": "",
+        "url": "https://www.abola.pt/futebol/noticias/a-analise-de-duarte-gomes-a-arbitragem-do-classico-2025010722083792217",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwwhDk7qbDfR0uJi6Z13tA8tvD8Q7nZTpazB3qwsQ8DmG88io6Cqi8fhcKzPM",
+        "source": "A Bola"
+      },
+      {
+        "title": "Penálti ou não? O lance polémico antes do intervalo do Sporting-FC Porto",
+        "snippet": "",
+        "url": "https://www.noticiasaominuto.com/desporto/2702862/penalti-ou-nao-o-lance-polemico-antes-do-intervalo-do-sporting-fc-porto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJW4cOemPCKyt9f7TN6Wm56IwMOA3FwRciFFAzKwp3kmBLTU4VLN_BS-Pxh98",
+        "source": "Notícias ao Minuto"
+      },
+      {
+        "title": "Eustaquio comete penálti na primeira parte? A opinião de quem sabe",
+        "snippet": "",
+        "url": "https://www.jn.pt/6180209288/eustaquio-comete-penalti-na-primeira-parte-a-opiniao-de-quem-sabe/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNRqUyPAEKVqzMcj-Xn7S-BMeGcxBcwdNgaDGCi9vfKsEr6BZ9y402sp_JAu0",
+        "source": "Jornal de Notícias"
+      }
+    ]
+  },
+  {
+    "title": "futemax",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Tue, 7 Jan 2025 12:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHNoWPHOZR9W99HhS7lKVbbnNFTgR-h91hvEEHdCsQBYBqDgyWwZ_9AlMb4jo",
+    "picture_source": "Helder Moura",
+    "news_items": [
+      {
+        "title": "botafogo ao vivo futemax",
+        "snippet": "",
+        "url": "https://heldermoura.com.br/botafogo+ao+vivo+futemax-4/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHNoWPHOZR9W99HhS7lKVbbnNFTgR-h91hvEEHdCsQBYBqDgyWwZ_9AlMb4jo",
+        "source": "Helder Moura"
+      },
+      {
+        "title": "flamengo futmax",
+        "snippet": "",
+        "url": "https://maraba.pa.gov.br/flamengo+futmax-7/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFlDKlDK_96iPZLkeGcth9yhPAeSGbz1vHRw0YU8URj_ztkyL7mJwumEGQEo",
+        "source": "Prefeitura de Marabá - Pa"
+      },
+      {
+        "title": "flamengo hoje futemax",
+        "snippet": "",
+        "url": "https://juruaonline.com.br/flamengo+hoje+futemax-4/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRa140r_leo1THtRgSqJrLopouasX-MTToIwxK_yXEQyvcFHmikdVh4TT6xeI",
+        "source": "Juruá Online"
+      }
+    ]
+  },
+  {
+    "title": "fc goa",
+    "link": "https://trends.google.com/trending/rss?geo=AO",
+    "pubdate": "Wed, 8 Jan 2025 08:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGmzcq4S6onJS2sJPH3sUZitb2XKN4tfP3yR8pM6toFnm58zuLSAcccvf9A2s",
+    "picture_source": "Aiz Goa News",
+    "news_items": [
+      {
+        "title": "Focusing on moment over momentum important for Manolo’s Goa",
+        "snippet": "",
+        "url": "https://aizgoanews.com/54561/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGmzcq4S6onJS2sJPH3sUZitb2XKN4tfP3yR8pM6toFnm58zuLSAcccvf9A2s",
+        "source": "Aiz Goa News"
+      },
+      {
+        "title": "Report: Paulista grabs late equaliser as Hyderabad FC hold in-form FC Goa",
+        "snippet": "",
+        "url": "https://www.indiansuperleague.com/news/report-paulista-grabs-late-equaliser-as-hyderabad-fc-holdin-formfcgoa",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRJ8joFH-s0Q-wXAU__Vp6gtIZ50hTwkeSheDdng3hFnU-bFtafJcq2o9GJsk",
+        "source": "Indian Super League | Official Website"
+      },
+      {
+        "title": "FC Goa group among three best in my coaching career: Manolo",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/goa/fc-goa-group-among-three-best-in-my-coaching-career-manolo/articleshow/117034300.cms",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP8DkoKzY97Hr9gpiPeHNRyqNF0UFsJIWTjjQOX7uoRH9oGAwWyFKQ1dxjugU",
+        "source": "Times of India"
       }
     ]
   },
   {
     "title": "valencia fc",
     "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Fri, 13 Dec 2024 13:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoafAbOW27Klvj0wwMo-88lQgJVVs5a7HBX3leQzhjCSMkq1gZiE25XxMOev0",
-    "picture_source": "Yahoo Sports",
+    "pubdate": "Tue, 7 Jan 2025 13:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7KZN9TcTjP8VRLixiHggtk2AhWCWFOJtDk8JdX23yStTCQRUtNSWwAqNyq3w",
+    "picture_source": "Sports Mole",
     "news_items": [
       {
-        "title": "Valencia contemplate managerial sacking after latest La Liga defeat",
+        "title": "Preview: Eldense vs. Valencia - prediction, team news, lineups",
         "snippet": "",
-        "url": "https://sports.yahoo.com/valencia-contemplate-managerial-sacking-latest-100800740.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoafAbOW27Klvj0wwMo-88lQgJVVs5a7HBX3leQzhjCSMkq1gZiE25XxMOev0",
-        "source": "Yahoo Sports"
+        "url": "https://www.sportsmole.co.uk/football/valencia/copa-del-rey/preview/preview-eldense-vs-valencia-prediction-team-news-lineups_562144.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7KZN9TcTjP8VRLixiHggtk2AhWCWFOJtDk8JdX23yStTCQRUtNSWwAqNyq3w",
+        "source": "Sports Mole"
       },
       {
-        "title": "Valencia Analyzes Baraja's Future Amidst Struggles",
+        "title": "The Cup as a Springboard Towards the Pizjuán",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2179153-valencia-analyzes-baraja-s-future-amidst-struggles",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB9TmM1RMg6t8H0TZThtIqsdGXq6YFBHQOKbb_MPYw42hlZHxHMYXGv1giiUI",
+        "url": "https://www.footboom1.com/en/news/football/2273284-the-cup-as-a-springboard-towards-the-pizjuan",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLKmd-JBXegV8DYsCqGK48Mt1ydK1wxA5EvpSE1bruYN1eyRgv8gdmKVz_ZUY",
         "source": "FootBoom"
       },
       {
-        "title": "Ruben Baraja under increased threat as Valencia manager following Rayo Vallecano defeat",
+        "title": "MATCH PREVIEW | CD ELDENSE – VALENCIA CF",
         "snippet": "",
-        "url": "https://www.yardbarker.com/soccer/articles/ruben_baraja_under_increased_threat_as_valencia_manager_following_rayo_vallecano_defeat/s1_15980_41376601",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpKzzs39duKqI4tVmALJ26OsYHlrlaYWywQLqTe-V3az_XNFwkAlAYcu1O-Po",
-        "source": "Yardbarker"
-      }
-    ]
-  },
-  {
-    "title": "toulouse fc",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Fri, 13 Dec 2024 12:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXc7DyMhrhXn_4z7UM3yGw9AdwP1B9EEgPNSerPx-6-eJeEKUQMoCZ5_AIswg",
-    "picture_source": "Peuple Vert",
-    "news_items": [
-      {
-        "title": "ASSE : Les grands gagnants et perdants du match contre Toulouse",
-        "snippet": "",
-        "url": "https://peuple-vert.fr/asse-actualite/asse-les-grands-gagnants-et-perdants-du-match-contre-toulouse/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXc7DyMhrhXn_4z7UM3yGw9AdwP1B9EEgPNSerPx-6-eJeEKUQMoCZ5_AIswg",
-        "source": "Peuple Vert"
-      },
-      {
-        "title": "Olivier Dall'Oglio : \"Le vestiaire est assez abattu\"",
-        "snippet": "",
-        "url": "https://onefootball.com/fr/news/olivier-dalloglio-le-vestiaire-est-assez-abattu-40437102",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKmLuEKeNrQcICa70QFGUk6_ZbF_Fh3kMF_8mhx0BcJTwhzp6ZXWbbSiDNkXc",
-        "source": "OneFootball"
-      },
-      {
-        "title": "ENTRETIEN. TFC – Saint-Étienne : \"L’Europe ? Pourquoi pas\" répond le buteur gabonais Shavy Babicka après le succès sur les Verts",
-        "snippet": "",
-        "url": "https://www.ladepeche.fr/2024/12/14/entretien-tfc-saint-etienne-leurope-pourquoi-pas-repond-le-buteur-gabonais-shavy-babicka-apres-le-succes-sur-les-verts-12391990.php",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHKePpXGBlP-1pVSp8jCKgWbpVCNfTb-J9Ur06S17p2FMlRxqJ9C-QHg3NR8Y",
-        "source": "ladepeche.fr"
-      }
-    ]
-  },
-  {
-    "title": "elon musk",
-    "link": "https://trends.google.com/trending/rss?geo=AO",
-    "pubdate": "Fri, 13 Dec 2024 06:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4e_-c8QqKgLwvuEUdsX_0S3WunvLdcHliCUPFS7FSTPD4shECWao-DF06OnE",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "Elon Musk reveals SEC sent him 'settlement demand' after Twitter buyout probe",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2024/12/13/elon-musk-says-sec-sent-settlement-demand-after-twitter-deal-probe.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4e_-c8QqKgLwvuEUdsX_0S3WunvLdcHliCUPFS7FSTPD4shECWao-DF06OnE",
-        "source": "CNBC"
-      },
-      {
-        "title": "SEC 'reopens' probe into Neuralink, Musk's lawyer says",
-        "snippet": "",
-        "url": "https://www.reuters.com/technology/sec-reopens-probe-into-elon-musks-neuralink-2024-12-13/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFpNjo3URM5Nh0R8-CQVu9QDP2_HMBbcTWJDETzcxADmHf-2qVzbN9nGnmxOk",
-        "source": "Reuters"
-      },
-      {
-        "title": "SEC extends Musk's response time for Twitter takeover inquiry, Reuters reports",
-        "snippet": "",
-        "url": "https://www.investing.com/news/company-news/sec-extends-musks-response-time-for-twitter-takeover-inquiry-reuters-reports-93CH-3771920",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVAHQ_FrqJuSWyas0JtgaXTaPfVQA4ymwmu8U5SeaNVYiTUcKA2kw0L2ovVQ",
-        "source": "Investing.com"
+        "url": "https://www.valenciacf.com/en/17362356121823560",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsOWP-NugUoU_zDL3qI4X6jB3UUGI5x4jr6Tzgt1T6FF9ISA-neCzGClb62Hs",
+        "source": "Valencia CF"
       }
     ]
   }

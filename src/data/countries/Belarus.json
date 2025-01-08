@@ -1,259 +1,224 @@
 [
   {
-    "title": "натали",
+    "title": "спокойнич",
     "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 01:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLDk8KxmgDGIwB5eGpNp6nWoMpWdfVbgRHvAi9jEcYU78i4mGOxyAcfe3ts7M",
+    "picture_source": "The Voice Mag",
+    "news_items": [
+      {
+        "title": "«Страшные боли закончены»: умер от тяжелой болезни известный стример Максим Spokoynich",
+        "snippet": "",
+        "url": "https://www.thevoicemag.ru/stars/news/08-01-2025/strashnye-boli-zakoncheny-umer-ot-tyajeloi-bolezni-izvestnyi-strimer-maksim-spokoynich/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLDk8KxmgDGIwB5eGpNp6nWoMpWdfVbgRHvAi9jEcYU78i4mGOxyAcfe3ts7M",
+        "source": "The Voice Mag"
+      },
+      {
+        "title": "Известный российский стример умер, не дожив до 30 лет",
+        "snippet": "",
+        "url": "https://news.ru/society/umer-izvestnyj-rossijskij-strimer/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9brEP1CDm_cl0S0b6xYtwt6fgl_veDJ53GfumcWRTtlDNkIJQhdClDbEU-KM",
+        "source": "NEWS.ru"
+      },
+      {
+        "title": "«Все твои страшные боли закончены». Умер известный стример из Москвы Максим Spokoynich",
+        "snippet": "",
+        "url": "https://msk1.ru/text/world/2025/01/08/74965412/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRG0vGbxeMTRooWN5NraIOGv5RnmwmiDtq4pi9sz8qcCd0B45bU0eoSg57TG5c",
+        "source": "МСК1.ру"
+      }
+    ]
+  },
+  {
+    "title": "бабарико",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Wed, 8 Jan 2025 03:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsrbg34h1RjCegxWU8N3TzHsEm_qECaQ1jr6eRz7Z-DL1A6grcYqPCcXAlaRM",
+    "picture_source": "DW",
+    "news_items": [
+      {
+        "title": "Опубликованы фото Бабарико - с ним не было связи 1,5 года",
+        "snippet": "",
+        "url": "https://www.dw.com/ru/opublikovany-foto-politzaklucennogo-babariko-s-nim-ne-bylo-svazi-15-goda/a-71245268",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsrbg34h1RjCegxWU8N3TzHsEm_qECaQ1jr6eRz7Z-DL1A6grcYqPCcXAlaRM",
+        "source": "DW"
+      },
+      {
+        "title": "Появились фото белорусского оппозиционера Бабарико из колонии",
+        "snippet": "",
+        "url": "https://www.golosameriki.com/a/poyavilis-foto-belorusskogo-oppozitsionera-babariko-iz-kolonii/7929312.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhvStm2NseaWrGi1di6iIZ1oA9z2myn6xNUYhc11Iv8wbIgUN9-pF_zCcv07U",
+        "source": "Голос Америки"
+      },
+      {
+        "title": "Власти Беларуси показали Виктора Бабарико в колонии",
+        "snippet": "",
+        "url": "https://ru.euronews.com/my-europe/2025/01/08/belarus-babariko-video",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrQAjKKszCQmtO45gKo9PfcHbbMDtxRciaWvf8-mKHT9wlcbmUdZI7sL0Nvmk",
+        "source": "Euronews.com"
+      }
+    ]
+  },
+  {
+    "title": "телеграм",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Tue, 7 Jan 2025 21:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "календарь 2025",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Tue, 7 Jan 2025 22:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX_HYxSnRbJfVVlhD7YE-VbC5lS1p22te2pOyrNUSIG5YvgdyndYZeh5syBFM",
+    "picture_source": "КаспийИнфо. Новости Астрахани и региона",
+    "news_items": [
+      {
+        "title": "Календарь всех выходных и праздников на 2025 год",
+        "snippet": "",
+        "url": "https://kaspyinfo.ru/news/gorod/103153",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX_HYxSnRbJfVVlhD7YE-VbC5lS1p22te2pOyrNUSIG5YvgdyndYZeh5syBFM",
+        "source": "КаспийИнфо. Новости Астрахани и региона"
+      },
+      {
+        "title": "Мишустин утвердил календарь праздничных дней в 2025 году",
+        "snippet": "",
+        "url": "https://news.ru/vlast/mishustin-utverdil-kalendar-prazdnichnyh-dnej-v-2025-godu/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-nnKRbPt80ZgbDsckIOyG6qrp_pcfpPQp9recGQ6jomeK1WbXAZ2a4CRPd8",
+        "source": "NEWS.ru"
+      },
+      {
+        "title": "В Челябинской области увеличены майские праздники за счет выходных февраля и марта",
+        "snippet": "",
+        "url": "http://xn----8sbef8axpew9i.xn--p1ai/archives/117714",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6QI6CcXkpSv0HdD9CbEM0TE1dq0y4WjUz0uh-Ad7G1yy5WDLI7qeuXPbgwng",
+        "source": "Вся Округа"
+      }
+    ]
+  },
+  {
+    "title": "рт",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Tue, 7 Jan 2025 21:50:00 -0800",
     "approx_traffic": 200,
     "picture": "",
     "picture_source": "",
     "news_items": []
   },
   {
-    "title": "кальяри – аталанта",
+    "title": "mail",
     "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 21:30:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
-    "picture_source": "Soccer365.ru",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6ol6QC50b827iN_t03Dian1i7BUs31vS9NAOaiVcRkmDRJynsIatB4oQe5-g",
+    "picture_source": "ABC11",
     "news_items": [
       {
-        "title": "Кальяри – Аталанта: превью",
+        "title": "Toddler dies after 12 hours in room near space heater, Moore County sheriff says; father charged",
         "snippet": "",
-        "url": "https://soccer365.ru/news/21571/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvgL5zkSgW0QKlzps-S5Bz4S6w43Vp1lu170oSGmnk6rChhvVu_Cz86_DjZbk",
-        "source": "Soccer365.ru"
+        "url": "https://abc11.com/post/toddler-dies-12-hours-room-space-heater-moore-county-sheriff-says-father-charged/15773280/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6ol6QC50b827iN_t03Dian1i7BUs31vS9NAOaiVcRkmDRJynsIatB4oQe5-g",
+        "source": "ABC11"
       },
       {
-        "title": "Кальяри - Аталанта: прогноз и ставка на Серию А — 14 декабря 2024",
+        "title": "Father Jailed After Investigation Into Son's 2023 Death",
         "snippet": "",
-        "url": "https://www.liveresult.ru/tips/football/Italy/tip220313-Cagliari-Atalanta",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9rrEH-4BEO9x2I3hl9P5G6FsaqjjSd3PO3k5sUT2EGAKBUc1_58cHwWb7exo",
-        "source": "LiveResult"
+        "url": "https://www.thepilot.com/news/father-jailed-after-investigation-into-sons-2023-death/article_3e522524-cd71-11ef-9abb-a704bfc4ce7c.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVcBsxszVpAg65FOHDKrDmiyIGrFqGYk1BQH1ZXBXbL6HT2raEXeGtWGzKGA",
+        "source": "The Pilot Newspaper"
       },
       {
-        "title": "«Кальяри» — «Аталанта». Прямая трансляция: смотреть онлайн матч Серии А",
+        "title": "Boy, 2, baked to death 'after dad dumped him in room with space heater for 12 hours'",
         "snippet": "",
-        "url": "https://sport24.ru/football/news-709539-kalyari-atalanta-pryamaya-translyatsiya-smotret-onlayn-match-serii-a",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_L7N9NuW2FFwP3nc7L6rzDC2wLAkNcQzse-hG6DgcgKYnECtEy0JK-QKyKjM",
+        "url": "https://www.dailymail.co.uk/news/article-14263219/river-carter-died-space-heater-dad-charged-north-carolina.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOchI-h6MdP4OdtRheFCxxlbHTLamqF5hoiss6ux9Z3D503yYXD6tHYhAc2Gw",
+        "source": "Daily Mail"
+      }
+    ]
+  },
+  {
+    "title": "новости мира",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Tue, 7 Jan 2025 21:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "северсталь – авангард",
+    "link": "https://trends.google.com/trending/rss?geo=BY",
+    "pubdate": "Wed, 8 Jan 2025 08:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzfEb7imYPJumdKezf_jBb1-xSys_S2NpU774VtP6mQSru_SGBvLze39M_YTw",
+    "picture_source": "Allhockey.ru",
+    "news_items": [
+      {
+        "title": "\"Авангард\" отыгрался с 0:3 в матче с \"Северсталью\" и одержал победу по буллитам",
+        "snippet": "",
+        "url": "https://allhockey.ru/news/show/539680-Avangard_otygralsya_s_0_3_v_matche_s_Severstal_ju_i_oderzhal_pobedu_po_bullitam",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzfEb7imYPJumdKezf_jBb1-xSys_S2NpU774VtP6mQSru_SGBvLze39M_YTw",
+        "source": "Allhockey.ru"
+      },
+      {
+        "title": "Ротенберг вынесет принципиального соперника, в «Зеленом дерби» сработает традиция. Экспресс на КХЛ",
+        "snippet": "",
+        "url": "https://sport24.ru/hockey/article-715597-prognozy-i-stavki-na-kkhl-ekspress-na-khokkey-severstal-avangard-ska-spartak-ak-bars-salavat-yulayev",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNN8MzYsJ7ft98L_pX2RS7v0_bqlJZjV7c3ZRrCDMjiK7g3K6mJ1oXLQWI1uI",
         "source": "Sport24.ru"
+      },
+      {
+        "title": "Авангард сыграет на выезде с Северсталью",
+        "snippet": "",
+        "url": "https://vesti-omsk.ru/news/sport/avangard-sygraet-na-vyezde-s-severstalyu/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXPJ_jzy_swCiOPe6t9pI1uAPzs_SuiDzv70Qq0MhIyXbslUtsL9SACbtopZY",
+        "source": "ГТРК Иртыш"
       }
     ]
   },
   {
-    "title": "оман",
+    "title": "ска – спартак",
     "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Sat, 14 Dec 2024 04:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PHJJ-AqD24PfjbWoPeioqgXPzf6Ie4Js2MOSM2niNFD_Q83QV0IEjdv5U6w",
-    "picture_source": "ABW.by",
-    "news_items": [
-      {
-        "title": "Белорусская сельхозтехника будет поставляться в Оман",
-        "snippet": "",
-        "url": "https://abw.by/news/rb/2024/12/14/belorusskaya-selhoztehnika-budet-postavlyatsya-v-oman",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PHJJ-AqD24PfjbWoPeioqgXPzf6Ie4Js2MOSM2niNFD_Q83QV0IEjdv5U6w",
-        "source": "ABW.by"
-      },
-      {
-        "title": "Лукашенко направился с рабочим визитом в Оман",
-        "snippet": "",
-        "url": "https://www.sb.by/articles/lukashenko-napravilsya-s-rabochim-vizitom-v-oman.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw4-yKgLuD7eFel5LGc5O3UhbGAKKRQGuQ9sx9wiRz_ArlzMpCI030VUtPsRA",
-        "source": "Беларусь сегодня"
-      },
-      {
-        "title": "Беларусь укрепляет позиции на Ближнем Востоке. Зачем Лукашенко полетел в Оман спустя 17 лет",
-        "snippet": "",
-        "url": "https://belta.by/president/view/belarus-ukrepljaet-pozitsii-na-blizhnem-vostoke-zachem-lukashenko-poletel-v-oman-spustja-17-let-682613-2024/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAchBaIfmwJxlVVG10WIPzg-rKjpg6dnu1EeKPoCQ2aW9lvg6b5FGwlPDq-gA",
-        "source": "БелТА"
-      }
-    ]
-  },
-  {
-    "title": "михаил кавелашвили",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Sat, 14 Dec 2024 03:40:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 08:00:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
-    "picture_source": "BBC",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvMKYbZTe_mRSjqHwmC2OB-QPtUBV-YFPAaXz_cUM7_RfFrs7H7ZlXFEPinxI",
+    "picture_source": "Спорт Mail",
     "news_items": [
       {
-        "title": "Президентские выборы в Грузии: коллегия проголосовала за бывшего футболиста Михаила Кавелашвили. Оппозиция выборы не признает",
+        "title": "«Спартак» разгромил СКА в гостевом матче Континентальной хоккейной лиги",
         "snippet": "",
-        "url": "https://www.bbc.com/russian/articles/cd0elgx741xo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sppVgCV3r1laQOzMg5p-Ck3AXyslEqjSmeBuQx853ZuTbiKu87v2xitOvQ",
-        "source": "BBC"
+        "url": "https://sportmail.ru/news/hockey-khl/64362296/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvMKYbZTe_mRSjqHwmC2OB-QPtUBV-YFPAaXz_cUM7_RfFrs7H7ZlXFEPinxI",
+        "source": "Спорт Mail"
       },
       {
-        "title": "Протестующие в Грузии требуют отменить выборы президента",
+        "title": "«Зелёное дерби» в Казани, «Спартак» в гостях у СКА. Превью 8 января: Новости",
         "snippet": "",
-        "url": "https://ru.euronews.com/my-europe/2024/12/13/georgia-protests-friday",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTam_FMJs0-16ZdKBkhFeSTOiWRrBjwG7SViqqNPBuVre_F4KLyr2kf22J09us",
-        "source": "Euronews.com"
+        "url": "https://www.khl.ru/news/2025/01/08/540403.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBu2Sxs89W8THt_d5mmEbNuiaM5jAbJGN-W5NxOruz42hjgbGsO4ISh5wffog",
+        "source": "KHL"
       },
       {
-        "title": "Президентом Грузии коллегией выборщиков избран Михаил Кавелашвили",
+        "title": "\"Спартак\" выступил с заявлением перед матчем против СКА",
         "snippet": "",
-        "url": "https://www.interfax.ru/world/997702",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSFYWh0IUJw_ZVryJH4EEKrVYfMW2JnYXXNQGmPPB3vCsdguKBxILT2c6uNR4",
-        "source": "Интерфакс"
+        "url": "https://allhockey.ru/news/show/539650-Spartak_vystupil_s_zayavleniem_pered_matchem_protiv_SKA",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzfEb7imYPJumdKezf_jBb1-xSys_S2NpU774VtP6mQSru_SGBvLze39M_YTw",
+        "source": "Allhockey.ru"
       }
     ]
   },
   {
-    "title": "борис щербаков",
+    "title": "белта",
     "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 20:10:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 21:50:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWMmDrQbXvaHRzTv-HNtSYsbYxcdo4WH2nGWBmLM0KEY92h-GknGY384rAOJY",
-    "picture_source": "Кино Mail",
-    "news_items": [
-      {
-        "title": "Сын Бориса Щербакова рассказал о состоянии отца после новостей о пневмонии",
-        "snippet": "",
-        "url": "https://kino.mail.ru/news/76401-syin-borisa-scherbakova-rasskazal-o-sostoyanii-ottsa-posle-novostej-o-pnevmonii/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWMmDrQbXvaHRzTv-HNtSYsbYxcdo4WH2nGWBmLM0KEY92h-GknGY384rAOJY",
-        "source": "Кино Mail"
-      },
-      {
-        "title": "Состояние Бориса Щербакова после операции на лице резко ухудшилось",
-        "snippet": "",
-        "url": "https://7days.ru/news/sostoyanie-borisa-shcherbakova-posle-operatsii-na-litse-rezko-ukhudshilos.htm",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0_VUzmM1ygrjBmKxFpc8vAj10T2dknnU5z4suXgwGav_R6ANppK1lRtbzP0o",
-        "source": "7Дней.ру"
-      },
-      {
-        "title": "Невролог Хорошев объяснил, с чем связано критическое состояние Бориса Щербакова",
-        "snippet": "",
-        "url": "https://radio1.ru/news/shou-biznes/nekrolog-horoshev-obyasnil-s-chem-svyazano-kriticheskoe-sostoyanie-borisa-scherbakova/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS852Z4j_X9mNG90dMdsUN6c6QgRQLoqxwZgJuSwzrtVXRBQ3HRx7C11jih_vk",
-        "source": "radio1.ru"
-      }
-    ]
-  },
-  {
-    "title": "viber заблокировали",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 19:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmkrfvqoJDsvNNG1j8mHSDESe6TvcpnwZxNFrBMy3_ZGuRzoNE3NJDDbhKiXo",
-    "picture_source": "Myfin.by",
-    "news_items": [
-      {
-        "title": "В России заблокировали Viber",
-        "snippet": "",
-        "url": "https://myfin.by/article/zhizn/v-rossii-zablokirovali-viber-34334",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmkrfvqoJDsvNNG1j8mHSDESe6TvcpnwZxNFrBMy3_ZGuRzoNE3NJDDbhKiXo",
-        "source": "Myfin.by"
-      },
-      {
-        "title": "Viber под запретом: Россия ограничила доступ к популярному мессенджеру",
-        "snippet": "",
-        "url": "https://newgrodno.by/v-mire/rossiya-ogranichila-dostup-k-populyarnomu-messendzheru/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-LjxLp0v7EYA6WRzW5z0dcRecWEGT83GnysZcEeBRALfGv4rX7MwCn9mAuDw",
-        "source": "NewGrodno.By"
-      },
-      {
-        "title": "В России заблокировали Viber",
-        "snippet": "",
-        "url": "https://officelife.media/news/58781-v-rossii-zablokirovali-viber/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSruCEnUmgbjH39v6dzM4a-2JSZQIskQHDwyQk0-lz2UNZdrKVyWC-HnFOa5m8",
-        "source": "officelife.media"
-      }
-    ]
-  },
-  {
-    "title": "ютуб",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 17:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNkdHP_vSGl6XSJSk2tLC0JTlkz8D7iecyqfQ1si4ytC9VxJjd4g4eNUI9KHM",
-    "picture_source": "Tochka.by",
-    "news_items": [
-      {
-        "title": "YouTube блокирует в Беларуси важнейшую опцию",
-        "snippet": "",
-        "url": "https://tochka.by/articles/technology/youtube_blokiruet_v_belarusi_vazhneyshuyu_optsiyu/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNkdHP_vSGl6XSJSk2tLC0JTlkz8D7iecyqfQ1si4ytC9VxJjd4g4eNUI9KHM",
-        "source": "Tochka.by"
-      },
-      {
-        "title": "Сервис рекламы Google решил уйти из Беларуси. Что будет с монетизацией?",
-        "snippet": "",
-        "url": "https://myfin.by/article/biznes/servis-reklamy-google-resil-ujti-iz-belarusi-cto-budet-s-monetizaciej-34267",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FxXft_zbi94LxzUBlEFuqh1yN4Fe2u12GYzsXOC8CElPLzFGN2BY9jYOhzM",
-        "source": "Myfin.by"
-      },
-      {
-        "title": "Белорусские аккаунты AdSense отключат, монетизации не будет",
-        "snippet": "",
-        "url": "https://tech.onliner.by/2024/12/11/adsense-belarus",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzWodbr5Fcar1MUZBumTk0Gci7NI9p8rj_ryIKpQ402U11Vb5wGc6K5D3HzDM",
-        "source": "Onlíner"
-      }
-    ]
-  },
-  {
-    "title": "пожар в тц беларусь витебск",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 07:10:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8SAb9nmTOmm2tCNrKNOYY7XbVqb1dt4X15ILTEMgM-ggStsvqGCm-saWhfI8",
-    "picture_source": "Onlíner",
-    "news_items": [
-      {
-        "title": "«Пострадавших уже 16». Новые подробности пожара в витебском ТЦ",
-        "snippet": "",
-        "url": "https://realt.onliner.by/2024/12/14/dvoe-v-tyazhelom-sostoyanii-podrobnosti-o-postradavshix-pri-pozhare-v-vitebskom-tc",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8SAb9nmTOmm2tCNrKNOYY7XbVqb1dt4X15ILTEMgM-ggStsvqGCm-saWhfI8",
-        "source": "Onlíner"
-      },
-      {
-        "title": "Спасатели ликвидировали пожар в торговом центре «Беларусь»",
-        "snippet": "",
-        "url": "https://mchs.gov.by/glavnoe/474112/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBBjc873GRr7KiaDOTVl1Iz2fhTNmCTab0GU3NYxJQzGgBSl1KZvzGF7OVcQ",
-        "source": "Министерство по чрезвычайным ситуациям Республики Беларусь"
-      },
-      {
-        "title": "Пожар в торговом центре «Беларусь» ликвидирован",
-        "snippet": "",
-        "url": "https://vitbichi.by/news/obshchestvo/pozhar_v_torgovom_tsentre_belarus_likvidirovan/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6fJCL34hAuU0NsAFEruhvGueNe5WtNObp40OOVexZUToBnqrSjj-xzbPbC-E",
-        "source": "Vitbichi.by"
-      }
-    ]
-  },
-  {
-    "title": "чрезвычайное положение",
-    "link": "https://trends.google.com/trending/rss?geo=BY",
-    "pubdate": "Fri, 13 Dec 2024 06:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPOlcRo6NadbauahNAAgYjFEJYACMsr3lIvtGdmpvlAzbeJK-uRg473HiHn_A",
-    "picture_source": "Euronews.com",
-    "news_items": [
-      {
-        "title": "Молдавия объявила режим ЧП из-за риска отключения российского газа",
-        "snippet": "",
-        "url": "https://ru.euronews.com/business/2024/12/13/business-moldova-energy-emergency",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPOlcRo6NadbauahNAAgYjFEJYACMsr3lIvtGdmpvlAzbeJK-uRg473HiHn_A",
-        "source": "Euronews.com"
-      },
-      {
-        "title": "Молдова вводит режим ЧП в сфере энергетики на фоне прекращения транзита российского газа через Украину",
-        "snippet": "",
-        "url": "https://www.bbc.com/russian/articles/c786j8pxp9jo",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOXTnHibz1IcZu_KLNL7e8hqD16QmZCZgcOgnO8UzxCesNRK8Cr14bxmNHzis",
-        "source": "BBC"
-      },
-      {
-        "title": "В Молдове снова газовый кризис: в чем причина и кто виноват",
-        "snippet": "",
-        "url": "https://www.dw.com/ru/v-moldove-snova-gazovyj-krizis-v-cem-pricina-i-kto-vinovat/a-71050731",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvfTW9bhM6nQN7KCle6ttQD0GKbiVsH4TWPfq3f4W6ZXLndtMWI_K0Vv31oGM",
-        "source": "DW"
-      }
-    ]
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
   }
 ]

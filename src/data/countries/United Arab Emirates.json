@@ -1,304 +1,311 @@
 [
   {
-    "title": "arsenal vs everton",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-    "picture_source": "BBC",
+    "pubdate": "Wed, 8 Jan 2025 08:20:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTlPlyWYZqmmkRDTC_Mh9ZJcONw_t9cicpZfRjvSIlG4kK3FVOe1lcIF1kXOk",
+    "picture_source": "The Washington Post",
     "news_items": [
       {
-        "title": "Premier League Arsenal versus Everton kick off 15:00 Sat 14 Dec 2024",
+        "title": "Southern states bracing for their biggest snowstorm in years",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c047zvkyd10t",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnz0ooLvOSZuo-6ROA7Q3BI5Mi1Oh_eeTaCJif7_6J7BGMxNe3zbOCSgCARg0",
-        "source": "BBC"
+        "url": "https://www.washingtonpost.com/weather/2025/01/08/winter-storm-central-southern-eastern-states-forecast/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTlPlyWYZqmmkRDTC_Mh9ZJcONw_t9cicpZfRjvSIlG4kK3FVOe1lcIF1kXOk",
+        "source": "The Washington Post"
       },
       {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
+        "title": "Winter Storm Forecast to Bring Snow and Ice to Texas",
         "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-        "source": "Arsenal.com"
+        "url": "https://www.nytimes.com/2025/01/07/weather/texas-snow-ice-forecast.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLRela2TnldqzuS7dhDbvd87xVIseIIjKZBb4Le104lVgJ13EXmQFg82_7p8",
+        "source": "The New York Times"
       },
       {
-        "title": "How to watch Liverpool vs Fulham in the USA: Live Stream and TV for 2024-25 Premier League",
+        "title": "Another winter storm is brewing: Warnings issued as another blast of snow expected",
         "snippet": "",
-        "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-liverpool-vs-fulham-in-the-usa-live-stream-and-tv-for-2024-25-premier-league/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqNOinCb8FrY2HufFGMrKfayh9Fos4PUiGfWOxmNXaOl6RLsGNM4IlQe7sV1M",
-        "source": "World Soccer Talk"
-      }
-    ]
-  },
-  {
-    "title": "liverpool vs fulham",
-    "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtSRnU2q_S9H9zP0KgQwhzkwngJey1FEuZd-IQEcBCLUIBDaviS0Mtkeumbo",
-    "picture_source": "Fulham FC",
-    "news_items": [
-      {
-        "title": "Team News: Fulham without 5 at Anfield",
-        "snippet": "",
-        "url": "https://www.fulhamfc.com/news/2024/december/12/team-news-fulham-without-5-at-anfield/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtSRnU2q_S9H9zP0KgQwhzkwngJey1FEuZd-IQEcBCLUIBDaviS0Mtkeumbo",
-        "source": "Fulham FC"
-      },
-      {
-        "title": "\"They're in Great Form\" - Alan Shearer Previews Liverpool's Premier League Clash with Fulham",
-        "snippet": "",
-        "url": "https://anfieldindex.com/76425/theyre-in-great-form-alan-shearer-previews-liverpools-premier-league-clash-with-fulham.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8n8fAruf7VHqyvTYP3fLL7050EzMA6HFZ8u5NR-oBeZAZxJTS9UO94wVvfh8",
-        "source": "anfieldindex.com"
-      },
-      {
-        "title": "Diogo Jota & Federico Chiesa Return To Liverpool Squad For Clash With Fulham, Darwin Nunez Dropped",
-        "snippet": "",
-        "url": "https://www.si.com/onsi/soccer/liverpool/matchday/diogo-jota-federico-chiesa-return-to-liverpool-squad-for-clash-with-fulham-darwin-nunez-dropped-01jf2pqtz3j2",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1JdotDYtbAi0yL-Rn8jZYD7MXtBWbOVz4BrldKIlRIZ8rx9ItF8qbp8eFyAs",
-        "source": "Sports Illustrated"
-      }
-    ]
-  },
-  {
-    "title": "ليفربول ضد فولهام",
-    "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUgzYYQYm-TPTFNXMr_tyqT3Okp3xTYySkRx30uxxv-wEKCcsCzQe4Nx-V8MA",
-    "picture_source": "اليوم السابع",
-    "news_items": [
-      {
-        "title": "محمد صلاح على موعد مع التاريخ ليصبح رابع الهدافين التاريخيين فى ليفربول",
-        "snippet": "",
-        "url": "https://www.youm7.com/story/2024/12/14/%D9%85%D8%AD%D9%85%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%84%D9%8A%D8%B5%D8%A8%D8%AD-%D8%B1%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%81%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D9%8A%D9%86/6811372",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUgzYYQYm-TPTFNXMr_tyqT3Okp3xTYySkRx30uxxv-wEKCcsCzQe4Nx-V8MA",
-        "source": "اليوم السابع"
-      },
-      {
-        "title": "القنوات الناقلة لمباراة ليفربول اليوم ضد فولهام في الدوري الإنجليزي مع الموعد",
-        "snippet": "",
-        "url": "https://almashhad.com/article/218257510540304-sports/918480132910636-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B6%D8%AF-%D9%81%D9%88%D9%84%D9%87%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%B9%D8%AF/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyeo86q1SE_LYummsm6RRp4CpshtrQmha7hBDk6OS9PbKCLBxhuxyLdukCrxE",
-        "source": "قناة ومنصة المشهد"
-      },
-      {
-        "title": "تشكيلة ليفربول الرسمية لمواجهة فولهام في الدوري الإنجليزي",
-        "snippet": "",
-        "url": "https://hihi2.com/2024/12/14/p2980963.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOarEV67d2EDdg_hocG5IsO5jONLpy0SKNwjR73F2LqgbJXVOyRsGDbcmkR6c",
-        "source": "هاي كورة"
-      }
-    ]
-  },
-  {
-    "title": "augsburg vs leverkusen",
-    "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBVg-B6TsUZa7mzj39Yc5-QMTB-4GEOL8kyECM4G2CyUSwpxzqMelFyWPk4Ws",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Augsburg vs. Bayer Leverkusen - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/augsburg/preview/preview-augsburg-vs-b-leverkusen-prediction-team-news-lineups_560469.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBVg-B6TsUZa7mzj39Yc5-QMTB-4GEOL8kyECM4G2CyUSwpxzqMelFyWPk4Ws",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Soccer-Leverkusen’s Alonso wary of Augsburg’s home form",
-        "snippet": "",
-        "url": "https://theprint.in/sport/soccer-leverkusens-alonso-wary-of-augsburgs-home-form/2402450/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlbtxYRp4paOFlv3xBJdC9PUGGJPidpgqdmJ6bmCXgU8quHFWCMoUEpesgw10",
-        "source": "ThePrint"
-      },
-      {
-        "title": "Augsburgo vs Leverkusen: previous stats | Bundesliga 2024/2025",
-        "snippet": "",
-        "url": "https://en.as.com/resultados/futbol/alemania/2024_2025/directo/regular_a_14_484054/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgfBry7Y7hpPDwcErNZS0MyOlPzP52oQ9gQqmTw52PuQrpqqsGy-G4baOcCw",
-        "source": "Diario AS"
-      }
-    ]
-  },
-  {
-    "title": "cagliari vs atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjhFfbi1nv1PH2MTO45idswlVqFDufHQTKCbN17fjuHu7gH8l8rhpXyudBU0",
-    "picture_source": "Sports Mole",
-    "news_items": [
-      {
-        "title": "Preview: Cagliari vs. Atalanta BC - prediction, team news, lineups",
-        "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/cagliari/preview/preview-cagliari-vs-atalanta-prediction-team-news-lineups_560431.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjhFfbi1nv1PH2MTO45idswlVqFDufHQTKCbN17fjuHu7gH8l8rhpXyudBU0",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "Serie A Liveblog: Cagliari-Atalanta, Udinese-Napoli, Juventus-Venezia",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/serie-liveblog-cagliari-atalanta-udinese-130200832.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbdSvGTTApusS64wsnaUSjqUj0pB6F4YfEMf5Rw4yZUMv5RlaMVNoi9VPvP3s",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Watch Cagliari vs. Atalanta Online: Live Stream, Start Time",
-        "snippet": "",
-        "url": "https://ftw.usatoday.com/article/watch-cagliari-vs-atalanta-online-live-stream-start-time-2",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJeF87A6RHUO7mbLkNgmqQ6jMn7QALR2w5s7xwspFjVtlBux8iwWgM22N0-rY",
+        "url": "https://www.usatoday.com/story/news/nation/2025/01/08/winter-storm-weather-updates-snow-forecast/77537885007/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSudGbgTVlV3DCSXiUGhXIB9g0eERLXfHXxE49tO9CaKU3ocwztGQLEisNE134",
         "source": "USA Today"
       }
     ]
   },
   {
-    "title": "full moon december 2024",
+    "title": "الطقس غدًا",
     "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 05:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUqKDzjWAKrK5U4gq6WyZFM96Q7teUuiDnXhWtttm6o-Jc9W9oK4AG8bHFAU4",
-    "picture_source": "Space.com",
-    "news_items": [
-      {
-        "title": "Geminid meteor shower peaks tonight! Here's how to see one of the best meteor showers of the year",
-        "snippet": "",
-        "url": "https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-2024-peaks-tonight-how-to-see-one-of-the-best-meteor-showers-of-the-year",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUqKDzjWAKrK5U4gq6WyZFM96Q7teUuiDnXhWtttm6o-Jc9W9oK4AG8bHFAU4",
-        "source": "Space.com"
-      },
-      {
-        "title": "The Next Full Moon is the Cold Moon",
-        "snippet": "",
-        "url": "https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-moon-frost-moon-or-winter-moon/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFfEdVRqNObGtHXWGWXuSN3mT1RLIAmaWNHKj3HqFcmHdYGEKMOLJhXGUq5k",
-        "source": "NASA Science (.gov)"
-      },
-      {
-        "title": "What is the spiritual meaning of December's full moon also known as the Cold Moon?",
-        "snippet": "",
-        "url": "https://www.marca.com/en/lifestyle/world-news/2024/12/14/675d603522601dcb458b4588.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzVCX6Gfe56CQpQAI_hvEbq6SoDlcvQNHCBxybTSLBRLglNe35LcXsQ_vv6g",
-        "source": "Marca.com"
-      }
-    ]
-  },
-  {
-    "title": "espanyol vs osasuna",
-    "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROXf0qliRynQf2vfYlwiPpGZGsM1nn4BJtfvRnddyrmGpDbCTA1OtfzREyem0",
-    "picture_source": "FootBoom",
-    "news_items": [
-      {
-        "title": "Vicente Moreno: \"It’s going to be a tough match, and I would give anything to win\"",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2178933-vicente-moreno-it-s-going-to-be-a-tough-match-and-i-would-give-anything-to-win",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROXf0qliRynQf2vfYlwiPpGZGsM1nn4BJtfvRnddyrmGpDbCTA1OtfzREyem0",
-        "source": "FootBoom"
-      },
-      {
-        "title": "Espanyol vs. Osasuna (Dec 14, 2024) Pregame",
-        "snippet": "",
-        "url": "https://www.espn.com/soccer/preview/_/gameId/704828",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQC0SSn7T2y-IxC5B4n0IC862bhvkjSvfhfKC0OTbcFXBInqGousDxyVcsideQ",
-        "source": "ESPN"
-      },
-      {
-        "title": "Espanyol Set To Clash With Osasuna: A Crucial La Liga Showdown",
-        "snippet": "",
-        "url": "https://evrimagaci.org/tpg/espanyol-set-to-clash-with-osasuna-a-crucial-la-liga-showdown-88383",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiPnT4QaUW1BlftRAfvpua8BiKLUPUzaG8JtzLaIP8WqRXpKuniVjx1ulpadI",
-        "source": "Evrim Ağacı"
-      }
-    ]
-  },
-  {
-    "title": "mohun bagan vs kerala blasters",
-    "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 05:00:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 08:30:00 -0800",
     "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLjOkUX6A3XfJ7VcNJEx3yUY0xXu3ELeIeKtaM3UOPK_HJXDFMfHPqg11zecQ",
+    "picture_source": "جريدة مصرنا",
+    "news_items": [
+      {
+        "title": "توقعات الأرصاد: ارتفاع طفيف في درجات الحرارة قبل وصول منخفض الخميس",
+        "snippet": "",
+        "url": "https://misrena.com/uncategorized/14202.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLjOkUX6A3XfJ7VcNJEx3yUY0xXu3ELeIeKtaM3UOPK_HJXDFMfHPqg11zecQ",
+        "source": "جريدة مصرنا"
+      },
+      {
+        "title": "الأرصاد: درجات الحرارة تقترب من الصفر وأقل المناطق بردوة لمدة 7 أيام قادمة | الأخبار",
+        "snippet": "",
+        "url": "https://radar2.net/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D9%88/8852/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJpcCPDI2Zjd1htlHM_o-_f1j76d9KVvJ1q1Eb2Qqfg7YgBbqqVcq_mKtglU",
+        "source": "radar2.net"
+      },
+      {
+        "title": "طقس معتدل وسطوع لأشعة الشمس اليوم فى الدقهلية.. فيديو",
+        "snippet": "",
+        "url": "https://www.youm7.com/story/2025/1/8/%D8%B7%D9%82%D8%B3-%D9%85%D8%B9%D8%AA%D8%AF%D9%84-%D9%88%D8%B3%D8%B7%D9%88%D8%B9-%D9%84%D8%A3%D8%B4%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%89-%D8%A7%D9%84%D8%AF%D9%82%D9%87%D9%84%D9%8A%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/6839189",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeaE5_OkSeObkMCwn0sgh36yrbnhpxWebY_cSOa2tpId0Hgg_SxZfoHc4gq4s",
+        "source": "اليوم السابع"
+      }
+    ]
+  },
+  {
+    "title": "polytrauma",
+    "link": "https://trends.google.com/trending/rss?geo=AE",
+    "pubdate": "Wed, 8 Jan 2025 06:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiNS9nX8xZmBYfmqbnSrstMZO5CMkELhdEaWm5dalgZfn5sN9VEi8Vyrsu13Y",
+    "picture_source": "CBS News",
+    "news_items": [
+      {
+        "title": "Second man accused of supplying drugs to Liam Payne before his death surrenders to Argentine police",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/news/liam-payne-death-accused-hotel-worker-drugs-surrenders-police/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiNS9nX8xZmBYfmqbnSrstMZO5CMkELhdEaWm5dalgZfn5sN9VEi8Vyrsu13Y",
+        "source": "CBS News"
+      },
+      {
+        "title": "Five People Indicted in Connection With Liam Payne’s Fatal Fall",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2024/12/30/arts/music/liam-payne-indictments.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnP11LlwVNKZ3kL6Nub7cy2d35WeQPBfLdyDrnWwiap4gC6X_seWR7MiP__dU",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Liam Payne Death Investigation: 5 Charged in Connection with Late One Direction Singer's Fatal Fall",
+        "snippet": "",
+        "url": "https://people.com/liam-payne-death-five-people-charged-in-connection-fatal-fall-8767456",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKj-25qS3hOCg4WZeDdYoe0-GWuUCq8oy4SKmQO5wNG8MtpmLxg7hD6_4lRAQ",
+        "source": "People.com"
+      }
+    ]
+  },
+  {
+    "title": "dubai weather tomorrow",
+    "link": "https://trends.google.com/trending/rss?geo=AE",
+    "pubdate": "Wed, 8 Jan 2025 06:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS64jmSOj2knXJVXG02oqdm_CY-YUyvLVUREmdqitTZNxcdXn1Bsi0ATRKe6eU",
+    "picture_source": "Khaleej Times",
+    "news_items": [
+      {
+        "title": "UAE weather tomorrow: Rain expected, temperature to dip",
+        "snippet": "",
+        "url": "https://www.khaleejtimes.com/uae/weather/uae-weather-tomorrow-rain-expected-temperature-to-dip",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS64jmSOj2knXJVXG02oqdm_CY-YUyvLVUREmdqitTZNxcdXn1Bsi0ATRKe6eU",
+        "source": "Khaleej Times"
+      },
+      {
+        "title": "UAE weather alert: Dense fog in Abu Dhabi and Al Ain, low visibility on roads – drive cautiously today!",
+        "snippet": "",
+        "url": "https://gulfnews.com/uae/weather/uae-weather-alert-dense-fog-in-abu-dhabi-and-al-ain-low-visibility-on-roads-drive-cautiously-today-1.500012317",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8AR_aWhY0NtEKN4Jot94URNmeFRJTKBzq_S7Uc2WR00ShV3hMiP0MvgZHL4c",
+        "source": "Gulf News"
+      },
+      {
+        "title": "Rain expected tomorrow with drop in temperatures",
+        "snippet": "",
+        "url": "https://www.emirates247.com/uae/rain-expected-tomorrow-with-drop-in-temperatures-2025-01-08-1.736096",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSyyWpCkkI-3Jin8AAlCDk_sERzEDa1vfSkP6Y-eIleWf__w-G2mv79yDHqsY",
+        "source": "Emirates24|7"
+      }
+    ]
+  },
+  {
+    "title": "goa vs hyderabad",
+    "link": "https://trends.google.com/trending/rss?geo=AE",
+    "pubdate": "Wed, 8 Jan 2025 05:50:00 -0800",
+    "approx_traffic": 500,
     "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm3hdfs-_8S1x9dnim38vEQavnb-s0FMMgKy9cSD8t7eTHsmznB3K-GjZObCY",
     "picture_source": "Daijiworld",
     "news_items": [
       {
-        "title": "ISL 2024-25: Table-toppers Mohun Bagan look to capitalise on struggling Kerala Blasters",
+        "title": "ISL 2024-25: Hyderabad FC snatch late point against FC Goa in 1-1 draw",
         "snippet": "",
-        "url": "https://www.daijiworld.com/index.php/news/newsDisplay?newsID=1253160",
+        "url": "https://www.daijiworld.com/index.php/news/newsDisplay?newsID=1260494",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm3hdfs-_8S1x9dnim38vEQavnb-s0FMMgKy9cSD8t7eTHsmznB3K-GjZObCY",
         "source": "Daijiworld"
       },
       {
-        "title": "Jose Molina highlights on potential striker rotation and Vishal Kaith's importance ahead of Kerala Blasters clash",
+        "title": "Focusing on moment over momentum important for Manolo’s Goa",
         "snippet": "",
-        "url": "https://khelnow.com/football/indian-football-isl-jose-molina-pre-pc-202412-2",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUlKD4Z4Vhfdgzev5KySN9ARPvBC4cDIf26ol4jfnX9OFcF4Ppq6RkTZKeLDQ",
-        "source": "Khel Now"
+        "url": "https://aizgoanews.com/54561/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGmzcq4S6onJS2sJPH3sUZitb2XKN4tfP3yR8pM6toFnm58zuLSAcccvf9A2s",
+        "source": "Aiz Goa News"
       },
       {
-        "title": "Preview: Formidable Mohun Bagan SG welcome determined Kerala Blasters FC",
+        "title": "FC Goa group among three best in my coaching career: Manolo",
         "snippet": "",
-        "url": "https://www.indiansuperleague.com/news/preview-formidable-mohun-bagan-sg-welcome-determined-kerala-blasters-fc",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCEk4L9yAuZkNqkZaXz5zBOAlgXMLffBtnmPD6GRzEEZ5tnJaQpZaR4qHsX6E",
-        "source": "Indian Super League | Official Website"
+        "url": "https://timesofindia.indiatimes.com/goa/fc-goa-group-among-three-best-in-my-coaching-career-manolo/articleshow/117034300.cms",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP8DkoKzY97Hr9gpiPeHNRyqNF0UFsJIWTjjQOX7uoRH9oGAwWyFKQ1dxjugU",
+        "source": "Times of India"
       }
     ]
   },
   {
-    "title": "leicester city vs chelsea",
+    "title": "dubai bling season 3",
     "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 04:10:00 -0800",
+    "pubdate": "Wed, 8 Jan 2025 09:00:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDisVJOzFSnsIEC03yRz_DUCo7VWsFYogD4lDRzu9ZuBFjeyi2PDaFUHaBJ0",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8pM2v8gSsBfP4N8TgrWiq4pDlKmp4NePqpiZqLzS43Ue5jYym53tfj3ztjek",
+    "picture_source": "Screen Rant",
+    "news_items": [
+      {
+        "title": "How To Watch Dubai Bling Season 3 & When It Premieres",
+        "snippet": "",
+        "url": "https://screenrant.com/how-watch-dubai-bling-season-3-when-premieres/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8pM2v8gSsBfP4N8TgrWiq4pDlKmp4NePqpiZqLzS43Ue5jYym53tfj3ztjek",
+        "source": "Screen Rant"
+      },
+      {
+        "title": "Saudi star Model Roz makes guest appearance on Netflix’s ‘Dubai Bling’",
+        "snippet": "",
+        "url": "https://www.arabnews.com/node/2585641/lifestyle",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLbuX4ADxIxS-7pVv6iX8WeTencJdInK-ZCh_DRHU6heU61D0gCGVVOX-HF2o",
+        "source": "Arab News"
+      },
+      {
+        "title": "“I can be the worst enemy” Dubai Bling star Ebraheem Al Samadi discusses his issues with Marwan and Danya",
+        "snippet": "",
+        "url": "https://www.soapcentral.com/shows/i-can-worst-enemy-dubai-bling-star-ebraheem-al-samadi-discusses-issues-marwan-danya",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPm_KNqlUNHpJ5JbpYi9h14cer9cN5CaIJ-01jTKyBUXaSRY4bJ8I9pul6Gu8",
+        "source": "Soap Central"
+      }
+    ]
+  },
+  {
+    "title": "شاهد",
+    "link": "https://trends.google.com/trending/rss?geo=AE",
+    "pubdate": "Wed, 8 Jan 2025 08:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpLzUhZtaolt2GnBru_zSFCYA-Mm7e6uk3UUke_0Q9Jikl11pl1SyoaBQk-E",
+    "picture_source": "اليوم السابع",
+    "news_items": [
+      {
+        "title": "شاهد درة فى جلسة تصوير بالشورت الأسود",
+        "snippet": "",
+        "url": "https://www.youm7.com/story/2025/1/8/%D8%B4%D8%A7%D9%87%D8%AF-%D8%AF%D8%B1%D8%A9-%D9%81%D9%89-%D8%AC%D9%84%D8%B3%D8%A9-%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF/6839412",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpLzUhZtaolt2GnBru_zSFCYA-Mm7e6uk3UUke_0Q9Jikl11pl1SyoaBQk-E",
+        "source": "اليوم السابع"
+      },
+      {
+        "title": "درة تبهر جمهورها بـ\"بدلة سوداء\" وكلب في يدها (صور)",
+        "snippet": "",
+        "url": "https://www.egypttelegraph.com/article/107304/%D8%AF%D8%B1%D8%A9-%D8%AA%D8%A8%D9%87%D8%B1-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%87%D8%A7-%D8%A8%D9%80-%D8%A8%D8%AF%D9%84%D8%A9-%D8%B3%D9%88%D8%AF%D8%A7%D8%A1-%D9%88%D9%83%D9%84%D8%A8",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9dADPJyJnFfLSwZAuGatOaeRtyCT31HEA3vUFJBSGUrq7kxzp0Z8DZqry_8g",
+        "source": "تليجراف مصر"
+      },
+      {
+        "title": "درة تستعرض جمالها بأحدث ظهور",
+        "snippet": "",
+        "url": "https://m.trading-secrets.guru/14903/%D8%AF%D8%B1%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AC%D9%85%D8%A7%D9%84%D9%87%D8%A7-%D8%A8%D8%A3%D8%AD%D8%AF%D8%AB-%D8%B8%D9%87%D9%88%D8%B1/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvlPqi6Opzr6gXtD3PB7hrcZiBzcjapxyFHLcf9x378ngm3ky-gCFChwWvBg",
+        "source": "ترند نيوز"
+      }
+    ]
+  },
+  {
+    "title": "shahid",
+    "link": "https://trends.google.com/trending/rss?geo=AE",
+    "pubdate": "Wed, 8 Jan 2025 07:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcCYPc3RpgV1wUEbvYb_M-RI5lCMFoJLra8tj-CLL1-lveTVUCVS1XCzsIZo",
+    "picture_source": "Khaleej Times",
+    "news_items": [
+      {
+        "title": "'Deva' teaser unleashes Shahid Kapoor's powerful cop avatar",
+        "snippet": "",
+        "url": "https://www.khaleejtimes.com/entertainment/deva-teaser-unleashes-shahid-kapoors-powerful-cop-avatar",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcCYPc3RpgV1wUEbvYb_M-RI5lCMFoJLra8tj-CLL1-lveTVUCVS1XCzsIZo",
+        "source": "Khaleej Times"
+      },
+      {
+        "title": "Star Hero on Right Track: Can He Beat Ranbir?",
+        "snippet": "",
+        "url": "https://www.m9.news/bollywood/star-hero-shahid-kapoor-on-right-track-can-he-beat-ranbir-kapoor/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTCvOZoDfnqek2TI6hP0NHO0A9i2bcFKRl1h1X0_zK3076pQzECRtKivTg2wE",
+        "source": "M9.news"
+      },
+      {
+        "title": "Deva Trailer First Review: Shahid Kapoor's 'Power Packed' Trailer Is A Total 'Paisa Vasool'; DEETS",
+        "snippet": "",
+        "url": "https://www.filmibeat.com/bollywood/news/2025/deva-trailer-first-review-shahid-kapoor-power-packed-final-cut-trailer-is-total-paisa-vasool-437193.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCC694UZJRIOpDGzDCu4SRBOASF4cJsrM-HHFiy51PVSXnFVaXKDFI2TKI1j4",
+        "source": "Filmibeat"
+      }
+    ]
+  },
+  {
+    "title": "وضعیت هوای فردا",
+    "link": "https://trends.google.com/trending/rss?geo=AE",
+    "pubdate": "Wed, 8 Jan 2025 09:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk1dR-xHQNhPNqMp8Mm6i2YuN4EmkpcMGbO21R-Oa1_BWEYY06P2PmRyzdsqw",
+    "picture_source": "ایرنا",
+    "news_items": [
+      {
+        "title": "بارش برف و باران در قزوین",
+        "snippet": "",
+        "url": "https://www.irna.ir/news/85711563/%D8%A8%D8%A7%D8%B1%D8%B4-%D8%A8%D8%B1%D9%81-%D9%88-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk1dR-xHQNhPNqMp8Mm6i2YuN4EmkpcMGbO21R-Oa1_BWEYY06P2PmRyzdsqw",
+        "source": "ایرنا"
+      },
+      {
+        "title": "شاخص هوای سه شهر در این استان قرمز شد",
+        "snippet": "",
+        "url": "https://www.eghtesadonline.com/fa/news/2030274/%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D9%88%D8%A7%DB%8C-%D8%B3%D9%87-%D8%B4%D9%87%D8%B1-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%82%D8%B1%D9%85%D8%B2-%D8%B4%D8%AF",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Mj0p5DNHmeg8hG_U-ErjijyHbaOL4cds18PqxABNyl6ItqYHsy8AY7snMWE",
+        "source": "اقتصاد آنلاین"
+      },
+      {
+        "title": "هوای قزوین، آبیک و محمدیه ناسالم شد",
+        "snippet": "",
+        "url": "https://www.imna.ir/news/827719/%D9%87%D9%88%D8%A7%DB%8C-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%A2%D8%A8%DB%8C%DA%A9-%D9%88-%D9%85%D8%AD%D9%85%D8%AF%DB%8C%D9%87-%D9%86%D8%A7%D8%B3%D8%A7%D9%84%D9%85-%D8%B4%D8%AF",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFiNeUTiZ5FVBZB5Uin1HCwAJlTxn5AgcgSkVIgzGU0tFQ2K_O46O6PHOGDFE",
+        "source": "ایمنا"
+      }
+    ]
+  },
+  {
+    "title": "los angeles",
+    "link": "https://trends.google.com/trending/rss?geo=AE",
+    "pubdate": "Wed, 8 Jan 2025 07:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJfDoXMdcITIJRHOx03iuquhQNAjbqgVtnUgZxPFne1sg1BjPm3DWlzwd0BM0",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Women's Super League Leicester City 1 Chelsea 0 75 minutes played. In progress",
+        "title": "What are Santa Ana winds and how are they fuelling LA wildfires?",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c8rjk3n23ejt",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDisVJOzFSnsIEC03yRz_DUCo7VWsFYogD4lDRzu9ZuBFjeyi2PDaFUHaBJ0",
+        "url": "https://www.bbc.com/weather/articles/cg7r7rrex8no",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJfDoXMdcITIJRHOx03iuquhQNAjbqgVtnUgZxPFne1sg1BjPm3DWlzwd0BM0",
         "source": "BBC"
       },
       {
-        "title": "Leicester vs Chelsea LIVE! Women's Super League team news, updates, match commentary, score, report",
+        "title": "Major Wildfires Around Los Angeles Still Uncontained—Here’s What To Know",
         "snippet": "",
-        "url": "https://www.skysports.com/football/live-blog/36996/13272727/leicester-vs-chelsea-live-womens-super-league-team-news-updates-match-commentary-score-report",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckAAma2YRuoQlo1KRKUojc_a7u1qcsPahYk49Rvw9a8Vi9vJOR_GaslXEMCg",
-        "source": "Sky Sports"
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/01/08/major-wildfires-around-los-angeles-still-uncontained-heres-what-to-know/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4uzloCPmsyIFaWYiXDtiNTmOgnDRciQFHpPu9J_5V8U9FDYAHtGNOyhNIF-A",
+        "source": "Forbes"
       },
       {
-        "title": "WSL predictions: Gameweek 10",
+        "title": "What are the Santa Ana winds fueling the California wildfires?",
         "snippet": "",
-        "url": "https://www.90min.com/wsl-predictions-gameweek-10-2024-25",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtkYYKOdRCGqP9N8O2xdLdRmcZhTioXKajT7e10fyurxw2iQxiUkzvoYDkZLk",
-        "source": "90Min.com"
-      }
-    ]
-  },
-  {
-    "title": "ricky martin",
-    "link": "https://trends.google.com/trending/rss?geo=AE",
-    "pubdate": "Sat, 14 Dec 2024 04:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2nebDQQhPn2ioBkZnPUXZyXTx1F4vphcjqeueMT9yGLchCdIYENMWadtknM",
-    "picture_source": "Architectural Digest España",
-    "news_items": [
-      {
-        "title": "De Leonardo DiCaprio a Ricky Martin: 5 famosos que poseen islas privadas",
-        "snippet": "",
-        "url": "https://www.revistaad.es/articulos/leonardo-dicaprio-y-mas-famosos-que-tienen-islas-privadas",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2nebDQQhPn2ioBkZnPUXZyXTx1F4vphcjqeueMT9yGLchCdIYENMWadtknM",
-        "source": "Architectural Digest España"
-      },
-      {
-        "title": "Video: Ricky Martin sorprende con mensaje de bienestar: \"¡Bienvenido al primer día del resto de tu vida!\"",
-        "snippet": "",
-        "url": "https://robertocavada.com/entretenimiento/2024/12/12/video-ricky-martin-sorprende-con-mensaje-de-bienestar-bienvenido-al-primer-dia-del-resto-de-tu-vida/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-vC5pbMiagjuzhsRUnvkA5v2OQUcJDNvPD83D-iF9e_Vc46Sfbc9ss0gwSN4",
-        "source": "RC Noticias"
+        "url": "https://www.theguardian.com/us-news/2025/jan/08/what-are-the-santa-ana-devil-winds-los-angeles-wildfires-southern-california-fires",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_PCFmslImfTtefn4lmAE0TAAn9zJzXVrMJ5i8P-Q9Mg7TSLqktqpia1lQ-B0",
+        "source": "The Guardian"
       }
     ]
   }

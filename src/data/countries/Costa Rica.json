@@ -1,96 +1,227 @@
 [
   {
-    "title": "hernán medford",
+    "title": "miguel herrera",
     "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Sat, 14 Dec 2024 05:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8h_Z0xv45F4ALjSVk3r1X-sikt1ZvKyCtyDb1SoD3dGjmihylJIQXoPdYMkI",
-    "picture_source": "Everardo Herrera",
+    "pubdate": "Tue, 7 Jan 2025 11:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Pmz8FDQCCHTZrmnetYf0re5IBa3s1ywQ2NKZUpHKLjtmML0dPH18g5o8zUc",
+    "picture_source": "Federación Costarricense de Fútbol",
     "news_items": [
       {
-        "title": "Hernán Medford duró poco tiempo sin equipo",
+        "title": "La FCRF da la bienvenida a Miguel Herrera como técnico de la Selección Nacional",
         "snippet": "",
-        "url": "https://everardoherrera.com/index.php?view=article&id=120802:hernan-medford-duro-poco-tiempo-sin-equipo&catid=75",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8h_Z0xv45F4ALjSVk3r1X-sikt1ZvKyCtyDb1SoD3dGjmihylJIQXoPdYMkI",
-        "source": "Everardo Herrera"
+        "url": "https://www.fcrf.cr/2025/01/07/la-fcrf-da-la-bienvenida-a-miguel-herrera-como-tecnico-de-la-seleccion-nacional/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Pmz8FDQCCHTZrmnetYf0re5IBa3s1ywQ2NKZUpHKLjtmML0dPH18g5o8zUc",
+        "source": "Federación Costarricense de Fútbol"
       },
       {
-        "title": "Hernán Medford sorprende al dejar el futbol de Costa Rica para volver a Guatemala",
+        "title": "Wanchope: el tico que se sentará a la par del “Piojo”",
         "snippet": "",
-        "url": "https://futbolcentroamerica.com/costarica/hernan-medford-sorprende-al-dejar-el-futbol-de-costa-rica-para-volver-a-guatemala",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkv-d7jIUpePV2qtduhOKbaiCUtJoYvvjgvF19igsbWldych-Nv95F-Zxbq0",
-        "source": "Fútbol Centroamérica"
+        "url": "https://www.crhoy.com/deportes/wanchope-el-tico-que-se-sentara-a-la-par-del-piojo/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpmmBMsrcow-itXfx7Fw1KvLjVKK3NM-RpNuL4QmVVYI25BKIz3KnrPIrHmk",
+        "source": "CRHoy.com"
+      },
+      {
+        "title": "Piojo Herrera, nuevo entrenador de selección Costa Rica",
+        "snippet": "",
+        "url": "https://www.espn.com.mx/futbol/costa-rica/nota/_/id/14637104/piojo-herrera-elegido-dirigi-seleccion-costa-rica",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEoKzw6Q3S9dgdu-U0jQ4w4slCw8AIka4jhRUrPxXd73pbEf4y9Rj7d8cc6Tw",
+        "source": "ESPN México"
       }
     ]
   },
   {
-    "title": "lluvia de estrellas",
+    "title": "arsenal - newcastle",
     "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Fri, 13 Dec 2024 20:50:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 11:10:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeuOZIvqHsyBrOMTm2k08QxjcAySssXNJyRUVAdyzusL_mFZJVzcK0-kT7Fyw",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Arsenal vs Newcastle LIVE: Carabao Cup semi-final score, updates & radio commentary",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/ckg9dgm5gk4t",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeuOZIvqHsyBrOMTm2k08QxjcAySssXNJyRUVAdyzusL_mFZJVzcK0-kT7Fyw",
+        "source": "BBC"
+      },
+      {
+        "title": "Nine days of wonder make memories to last a lifetime",
+        "snippet": "",
+        "url": "https://onefootball.com/de/news/nine-days-of-wonder-make-memories-to-last-a-lifetime-40532307",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqiOmWn2byGDP4zVYW5ovulO1DK2aH06igcj6_X2owJhLjTB4a8DX511NwljA",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Tottenham vs Liverpool: Get £30 in free bets and £10 casino bonus with BoyleSports, plus 25% boost on your...",
+        "snippet": "",
+        "url": "https://www.thesun.co.uk/sport/32669513/tottenham-vs-liverpool-boylesports-free-bets-carabao-cup/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS59cimjhjjB3LNsFwqwfdrfKeZkZMk4Hrv3kuji7NFaCxjs_jWp9KbXNpkp9g",
+        "source": "The Sun"
+      }
+    ]
+  },
+  {
+    "title": "cd eldense - valencia c. f.",
+    "link": "https://trends.google.com/trending/rss?geo=CR",
+    "pubdate": "Tue, 7 Jan 2025 11:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVBXRx4xRNvVPvH_ycluOVywFdaGMFpBuwrNtKw47Lei-snYoQLBLo_X_bmNA",
+    "picture_source": "Marca.com",
+    "news_items": [
+      {
+        "title": "El Valencia sonríe en la Copa a golazo limpio",
+        "snippet": "",
+        "url": "https://www.marca.com/futbol/copa-rey/cronica/2025/01/07/677d867922601d61718b45b5.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVBXRx4xRNvVPvH_ycluOVywFdaGMFpBuwrNtKw47Lei-snYoQLBLo_X_bmNA",
+        "source": "Marca.com"
+      },
+      {
+        "title": "Resumen y goles del Eldense vs Valencia, 1/16 de final Copa del Rey 24-25",
+        "snippet": "",
+        "url": "https://as.com/videos/copa-del-rey-de-futbol/resumen-y-goles-del-eldense-vs-valencia-116-de-final-copa-del-rey-24-25-v/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWltMHSwh-le3IEevGeu6OJEk2IDX5NyLyet-ChRONPTk1YSMO1VOLknUj3JE",
+        "source": "Diario AS"
+      },
+      {
+        "title": "Vídeo: Canós conecta con Diego López para hacer 0-2 en Elda",
+        "snippet": "",
+        "url": "https://www.msn.com/es-es/deportes/futbol/v%C3%ADdeo-can%C3%B3s-conecta-con-diego-l%C3%B3pez-para-hacer-0-2-en-elda/ar-AA1x9inX",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhc31fxqEjccyVQXOOloaR4_ihIWKhDzyXMUXH-sT9uKEXLRcpeASus-itqrc",
+        "source": "MSN"
+      }
+    ]
+  },
+  {
+    "title": "chances",
+    "link": "https://trends.google.com/trending/rss?geo=CR",
+    "pubdate": "Tue, 7 Jan 2025 18:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvStk6Kkut3b7FeJ8399R8xm2XoL4IEhmxSUuOLwymz0pG3r7bA_oroPsH_5E",
+    "picture_source": "5 EYEWITNESS NEWS",
+    "news_items": [
+      {
+        "title": "More of the same for Wednesday, gradual warmup begins Thursday",
+        "snippet": "",
+        "url": "https://kstp.com/kstp-news/weather-forecast/more-of-the-same-for-wednesday-gradual-warmup-begins-thursday/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvStk6Kkut3b7FeJ8399R8xm2XoL4IEhmxSUuOLwymz0pG3r7bA_oroPsH_5E",
+        "source": "5 EYEWITNESS NEWS"
+      },
+      {
+        "title": "A few snow chances on the way - Savanna | Latest Weather Forecast",
+        "snippet": "",
+        "url": "https://www.channel3000.com/weather/forecast/a-few-snow-chances-on-the-way---savanna/article_a1211afa-86c8-5443-b891-835dd6b621fd.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7u89hUgRfHTSKdOS1usUkPkbH7lbCnX_kltBr-a1A1C96qkudORYdXXn6ew",
+        "source": "Channel 3000"
+      },
+      {
+        "title": "Our Calm & Cold Week Continues",
+        "snippet": "",
+        "url": "https://www.kcrg.com/2025/01/07/our-cold-calm-week-continues/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKZYYu5yhrWgqOqDMx4aP1D4JgzhVROk563mKv3UjY-OcHU2l7u_5yKEaYgSk",
+        "source": "KCRG"
+      }
+    ]
+  },
+  {
+    "title": "chances de hoy",
+    "link": "https://trends.google.com/trending/rss?geo=CR",
+    "pubdate": "Tue, 7 Jan 2025 18:20:00 -0800",
     "approx_traffic": 200,
     "picture": "",
     "picture_source": "",
     "news_items": []
   },
   {
-    "title": "luna llena diciembre 2024",
+    "title": "efl cup",
     "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Fri, 13 Dec 2024 15:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0Odeau_CP8YWB57XYGiscPLD_XZ1f-Yj5UjPw0hhckncXbqc6GOcabWpzDQc",
-    "picture_source": "Clarin.com",
+    "pubdate": "Tue, 7 Jan 2025 13:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63w5rj5zlxCGHsTAiz5eVJt7wIzdcQnfk4hPjSXd5dSO2wW9c77EXm3_3KPw",
+    "picture_source": "anfieldindex.com",
     "news_items": [
       {
-        "title": "Luna llena del 15 de diciembre de 2024 en Géminis: cómo afecta a cada signo del zodiaco",
+        "title": "Starting XI Prediction: Arne Slot to Make Five Changes for Liverpool's Semi-Final Clash with Tottenham Hotspur",
         "snippet": "",
-        "url": "https://www.clarin.com/astrologia/luna-llena-15-diciembre-2024-geminis-afecta-signo-zodiaco_0_C62FOK4RPz.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0Odeau_CP8YWB57XYGiscPLD_XZ1f-Yj5UjPw0hhckncXbqc6GOcabWpzDQc",
-        "source": "Clarin.com"
+        "url": "https://anfieldindex.com/77334/starting-xi-prediction-arne-slot-to-make-five-changes-for-liverpools-semi-final-clash-with-tottenham-hotspur.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63w5rj5zlxCGHsTAiz5eVJt7wIzdcQnfk4hPjSXd5dSO2wW9c77EXm3_3KPw",
+        "source": "anfieldindex.com"
       },
       {
-        "title": "No te pierdas ‘Cold Moon’ este fin de semana. No volverá hasta 2043.",
+        "title": "Tottenham's Clear Goal Ahead of Carabao Cup Clash with Liverpool as Postecoglou Awaits Reinforcements",
         "snippet": "",
-        "url": "https://www.ucodigital.com.ar/tecnica/no-te-pierdas-cold-moon-este-fin-de-semana-no-volvera-hasta-2043/122130/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFspj1JgoQEPp5LKdmJXcsRj8m1xnLKPUanxDhyzdlOY5vPgBwy84Xnepync",
-        "source": "Uco Digital"
+        "url": "https://www.footboom1.com/en/news/football/2273659-tottenham-s-clear-goal-ahead-of-carabao-cup-clash-with-liverpool-as-postecoglou-awaits-reinforcements",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVdzQ-0QLyomFq0NBd0SyTFcowV1yN0l2MBZozHx7_sBNrZXtvkNnoWj7h0G4",
+        "source": "FootBoom"
       },
       {
-        "title": "Gran parada lunar: así el luna llena que se despedirá este domingo hasta 2043",
+        "title": "History of confrontations between Liverpool and Tottenham in all tournaments",
         "snippet": "",
-        "url": "https://www.elperiodico.com/es/ciencia/20241214/luna-llena-gran-parada-lunar-2024-dv-112581594",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyxB08tVGI-zEs5dlueypymDLmgXn-qYoVuevT94hKjOLELLkG-BYCVGdGngk",
-        "source": "El Periódico"
+        "url": "https://www.ysscores.com/en/news/10368202/History-of-confrontations-between-Liverpool-and-Tottenham-in-all-tournaments",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8U69NeWzeE8Wwkcm-iXNVTo0Up-vvqVgpuR4VvP-KSnRYKzkyLR1nPXGKZks",
+        "source": "www.ysscores.com"
       }
     ]
   },
   {
-    "title": "valladolid - valencia c. f.",
+    "title": "al hilal - al ittihad",
     "link": "https://trends.google.com/trending/rss?geo=CR",
-    "pubdate": "Fri, 13 Dec 2024 11:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
-    "picture_source": "Marca.com",
+    "pubdate": "Tue, 7 Jan 2025 11:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCGM30XtpN_235rp4KinhbSm3F-M2xTNGlZxfBmsx27PikjUD_o_2GwhrMa6w",
+    "picture_source": "FootBoom",
     "news_items": [
       {
-        "title": "El Valladolid condena a Baraja",
+        "title": "Match Result: Al-Hilal and Al-Ittihad Draw (2-2) in Saudi King’s Cup Quarter-Finals",
         "snippet": "",
-        "url": "https://www.marca.com/futbol/primera-division/cronica/2024/12/13/675c8e17ca47413b758b45bc.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6067vxROslIUHUubbP0CBppllZHt8HkBEMO-S9SWyoyYQAVuWwywPAO61AUA",
-        "source": "Marca.com"
+        "url": "https://www.footboom1.com/en/news/football/2272922-match-result-al-hilal-and-al-ittihad-draw-2-2-in-saudi-king-s-cup-quarter-finals",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCGM30XtpN_235rp4KinhbSm3F-M2xTNGlZxfBmsx27PikjUD_o_2GwhrMa6w",
+        "source": "FootBoom"
       },
       {
-        "title": "Anuar, tras la victoria en Zorrilla: \"Puede ser el paso que necesitábamos para creer\"",
+        "title": "Diaby is on Al-Ittihad’s list to face Al-Hilal",
         "snippet": "",
-        "url": "https://www.eldesmarque.com/futbol/real-valladolid/20241214/anuar-tuhami-victoria-pucela-valencia-cf_300530064.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCfrq4LJ4oOwr-OUbb9TkF1axyMbttft9_sS2efeWsnSUBtpi-mwMn0ZARBaM",
-        "source": "ElDesmarque"
+        "url": "https://www.ysscores.com/en/news/10292963/Diaby-is-on-Al-Ittihad%E2%80%99s-list-to-face-Al-Hilal",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT57CqAlLvxKc0Wu34OLNCHQMeuQWOuDmtyRs7E6NbUauCUHzVeWS1oZoZ6hI",
+        "source": "www.ysscores.com"
       },
       {
-        "title": "Aprobados y suspensos del Valencia: Mosquera, un error de colista",
+        "title": "Al-Hilal Fans Prepare for Saudi Classic!",
         "snippet": "",
-        "url": "https://as.com/futbol/primera/aprobados-y-suspensos-del-valencia-mosquera-un-error-de-colista-n/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbpuuLBx-2bKh1lJj78w-74GR9TDzY1NI8tUjZ7Qsqus7bwXV9S-84DlKATU",
-        "source": "Diario AS"
+        "url": "https://www.footboom1.com/en/news/football/2269384-al-hilal-fans-prepare-for-saudi-classic",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyX4jQfhq9pkbTT0IVhXeygGFCi0TmHP726S7ga0H4lOpiLcQlTD6MHre7As",
+        "source": "FootBoom"
+      }
+    ]
+  },
+  {
+    "title": "gabriel freitas",
+    "link": "https://trends.google.com/trending/rss?geo=CR",
+    "pubdate": "Tue, 7 Jan 2025 11:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiLCpDFASTlmUNYEYsZu1zVcjVXfOUoi_IQR7zBCLrs6P5dGpZuYB0cToTTL8",
+    "picture_source": "Times of India",
+    "news_items": [
+      {
+        "title": "Brazilian influencer Gabriel Freitas, known for his 384lb weight loss dies at 37",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/brazilian-influencer-gabriel-freitas-known-for-his-384lb-weight-loss-dies-at-37/articleshow/116925910.cms",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiLCpDFASTlmUNYEYsZu1zVcjVXfOUoi_IQR7zBCLrs6P5dGpZuYB0cToTTL8",
+        "source": "Times of India"
+      },
+      {
+        "title": "Reality TV star dies of heart attack following the death of both his dad and brother",
+        "snippet": "",
+        "url": "https://www.nationalworld.com/culture/celebrity/reality-tv-star-lost-32-stone-dies-heart-attack-putting-weight-back-on-dad-brother-death-4931443",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyIDx4gRvTLisdYhm4zrP5qhQvBzlxbzp-rFj14kqn9hAtR79pGQdEcjW8Lw8",
+        "source": "NationalWorld"
+      },
+      {
+        "title": "Reality TV star dies aged 37 after 32-stone weight loss and gaining it back",
+        "snippet": "",
+        "url": "https://www.dailystar.co.uk/showbiz/reality-tv-star-dies-aged-34412653",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd4pOQf_aifkZxq9cDmmBS07nyRKmJt4Rlf0Nq7oaLQvSn9Tibe6Jb77yVrU0",
+        "source": "Daily Star"
       }
     ]
   }

@@ -1,94 +1,187 @@
 [
   {
-    "title": "meteo",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Fri, 13 Dec 2024 22:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57h2MzczXjyChPm0lYo5J0xpRIyYObewctk30q42k_xQuYTK9OiKLeAA12G8",
-    "picture_source": "Meteo Giornale",
+    "pubdate": "Tue, 7 Jan 2025 11:40:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1aHzKao3SjIad4EmXoIrJY0yviItjigR-PC5LyXxUeuhtJKyBKSQVdt9KKbw",
+    "picture_source": "KDBC",
     "news_items": [
       {
-        "title": "Holiday Weather, Everything Will Happen: From Heat to Polar Cold",
+        "title": "School delays, cancellations due to cold temperatures for Wednesday in Borderland",
         "snippet": "",
-        "url": "https://www.meteogiornale.it/eng/2024/12/weather-news/holiday-weather-everything-will-happen-from-heat-to-polar-cold/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57h2MzczXjyChPm0lYo5J0xpRIyYObewctk30q42k_xQuYTK9OiKLeAA12G8",
-        "source": "Meteo Giornale"
+        "url": "https://cbs4local.com/newsletter-daily/school-delays-due-to-cold-temperatures-for-wednesday-in-borderland",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1aHzKao3SjIad4EmXoIrJY0yviItjigR-PC5LyXxUeuhtJKyBKSQVdt9KKbw",
+        "source": "KDBC"
       },
       {
-        "title": "Mid-December Could Be Much Different Than Early December",
+        "title": "El Paso ISD to close Wednesday; others closed or delay",
         "snippet": "",
-        "url": "https://www.yahoo.com/news/mid-december-could-much-different-214415057.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUka18rG3TBvwf6IXIu8csXjSUojs9Iuvb66juJEF9ShVOfQfYQ4NI5YbfqFs",
+        "url": "https://www.ktsm.com/news/cold-temperatures-to-delay-gadsden-isd-classes-on-wednesday/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJtBFvIEq_tzULv3tDcmRwZJ1m8vr4R_k-XNmpui7KjSToH25eTCC1emvXduc",
+        "source": "KTSM 9 News"
+      },
+      {
+        "title": "Will there be school closures due to possible snow? What to know",
+        "snippet": "",
+        "url": "https://www.elpasotimes.com/story/news/2025/01/07/will-there-be-school-closures-due-to-possible-snow-what-to-know/77512990007/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREb3YdPEYLfwyhe5KFnJDOT0FwluO-MW7PM5qSgKBb544ZaHOeyGy8zCqHark",
+        "source": "El Paso Times"
+      }
+    ]
+  },
+  {
+    "title": "weather",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Tue, 7 Jan 2025 21:30:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6NgTY0CYnDufsBXJi3lmAgnF3h8IEmtNniCGDIxqseluw89H3s-YgfdcJ05o",
+    "picture_source": "ABC7 Chicago",
+    "news_items": [
+      {
+        "title": "Weather Sketchers for week of December 30",
+        "snippet": "",
+        "url": "https://abc7chicago.com/post/weather-sketchers-week-december-30/15777685/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6NgTY0CYnDufsBXJi3lmAgnF3h8IEmtNniCGDIxqseluw89H3s-YgfdcJ05o",
+        "source": "ABC7 Chicago"
+      },
+      {
+        "title": "Defining wintry weather for the Midlands this weekend",
+        "snippet": "",
+        "url": "https://www.wltx.com/article/weather/weather-impact/defining-wintry-weather-for-the-midlands-this-weekend/101-2b397902-9e66-4f3a-a2ff-8838fb9dffef",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtrjuyVh4JdexCWMkjdWywTCUPtadKeqD-YJSSYDBfZFpYbzn3cfz_BNr81TQ",
+        "source": "WLTX"
+      },
+      {
+        "title": "Watching the thermostat? Aiken may see weekend mix of rain, ice or snow.",
+        "snippet": "",
+        "url": "https://www.postandcourier.com/aikenstandard/news/local/aiken-wintry-precipitation-weekend/article_aa5aec1c-cd15-11ef-a323-6f70311183eb.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNc2cd_b5Urvx9fGzqPvLMu1tHCMjDZZ8N_gpDuLvFMCBtBsIml8Sev_ftMY",
+        "source": "Post and Courier"
+      }
+    ]
+  },
+  {
+    "title": "linda de sousa video",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Tue, 7 Jan 2025 14:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvGr3GQ4R0LfebTpiByUCF_fHaTlyooQBUpoqa28dpxkxGObROB_Drb1r9XDw",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Wandsworth: Ex-prison officer jailed over sex with inmate",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/cwy849w4ygwo",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvGr3GQ4R0LfebTpiByUCF_fHaTlyooQBUpoqa28dpxkxGObROB_Drb1r9XDw",
+        "source": "BBC"
+      },
+      {
+        "title": "The shock rise of prison guard sex cases revealed as officers cut HOLES in uniforms for quickies with porn-mad inmates",
+        "snippet": "",
+        "url": "https://www.thesun.co.uk/news/32659383/prison-guard-sex-inmates-porn/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl9sAbOwxLHQ5eiCb3x10WsKNuI2J5bdPjXckt7kNODumUfHrzx-p4sOmZM8w",
+        "source": "The Sun"
+      },
+      {
+        "title": "Prison Guard Whose Sex Video with Inmate Went Viral Learns Fate: 'This Offense Was Not Isolated'",
+        "snippet": "",
+        "url": "https://people.com/prison-guard-prisoner-sex-video-learns-fate-8770755",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR74ocrVCq2rLNHaEgeVRstQW3g26aL_1G0M8WWn0ghjaCeZwlZoJjoW-8cBNY",
+        "source": "People.com"
+      }
+    ]
+  },
+  {
+    "title": "demi moore",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Tue, 7 Jan 2025 14:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPd2JqbL6cnmQnviqR_OmfFhxHIKcWZQCHbK-0rywAEVscU1BBwtv3l6ILH8",
+    "picture_source": "MSNBC News",
+    "news_items": [
+      {
+        "title": "Opinion | Demi Moore finally gets her flowers",
+        "snippet": "",
+        "url": "https://www.msnbc.com/opinion/msnbc-opinion/demi-moore-golden-globes-speech-substance-win-rcna186443",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPd2JqbL6cnmQnviqR_OmfFhxHIKcWZQCHbK-0rywAEVscU1BBwtv3l6ILH8",
+        "source": "MSNBC News"
+      },
+      {
+        "title": "Demi Moore shows off dance moves while celebrating first Golden Globes win at afterparty",
+        "snippet": "",
+        "url": "https://www.yahoo.com/entertainment/demi-moore-shows-off-dance-153456318.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSN5jJVRAzcYHcLRPYXGVNYKvkYWGbYs-gw4-osez-QCoAz_1AdD2Eox_UUYtU",
         "source": "Yahoo"
       },
       {
-        "title": "Weather outlook for the holidays in December and January",
+        "title": "No, Demi Moore didn't snub Kylie Jenner at the 2025 Golden Globes",
         "snippet": "",
-        "url": "https://lismoreapp.com.au/NewsStory/weather-outlook-for-the-holidays-in-december-and-january/675c131f433c61002d52fc04",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNd20z-8IBxKT6AxLgn4jPdGHDTBaD94_x8e1m3j9u45rrGXENsGhv8kgjmL0",
-        "source": "The Lismore App"
+        "url": "https://www.usatoday.com/story/entertainment/celebrities/2025/01/06/demi-moore-kylie-jenner-golden-globes-snub/77495410007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR84tXT50EiFd_sTgRIiyA-giIWCN4fkaI6momPbI-Cn0ekZQMmglR5eyYfiDk",
+        "source": "USA Today"
       }
     ]
   },
   {
-    "title": "mrbeast",
+    "title": "arsenal vs newcastle",
     "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Fri, 13 Dec 2024 18:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe70-9NkJaWm2HGgeEDTcjHMs956zqA10tYVYnv7gggO-14uKrLC3qX3-Flzo",
-    "picture_source": "The Economic Times",
+    "pubdate": "Tue, 7 Jan 2025 11:40:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeuOZIvqHsyBrOMTm2k08QxjcAySssXNJyRUVAdyzusL_mFZJVzcK0-kT7Fyw",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "MrBeast subscribes to T-Series YouTube channel in 'biggest' social media collaboration ever",
+        "title": "Arsenal vs Newcastle LIVE: Carabao Cup semi-final score, updates & radio commentary",
         "snippet": "",
-        "url": "https://m.economictimes.com/magazines/panache/mrbeast-subscribes-to-t-series-youtube-channel-in-biggest-social-media-collaboration-ever/articleshow/116159160.cms",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe70-9NkJaWm2HGgeEDTcjHMs956zqA10tYVYnv7gggO-14uKrLC3qX3-Flzo",
-        "source": "The Economic Times"
+        "url": "https://www.bbc.com/sport/football/live/ckg9dgm5gk4t",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeuOZIvqHsyBrOMTm2k08QxjcAySssXNJyRUVAdyzusL_mFZJVzcK0-kT7Fyw",
+        "source": "BBC"
       },
       {
-        "title": "T-Series, MrBeast finally end 'subscriber-race' with a surprise deal",
+        "title": "Tottenham vs Liverpool: Get £30 in free bets and £10 casino bonus with BoyleSports, plus 25% boost on your...",
         "snippet": "",
-        "url": "https://www.newsbytesapp.com/news/entertainment/mrbeast-t-series-end-subscriber-race-with-a-surprise-deal/story",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwsjnUqvoqg2JN6oO-_q-TLVlo9lYQ3xE4yxDVa-GR2Hwr2q3Xi_hrzXwB5y8",
-        "source": "NewsBytes"
+        "url": "https://www.thesun.co.uk/sport/32669513/tottenham-vs-liverpool-boylesports-free-bets-carabao-cup/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS59cimjhjjB3LNsFwqwfdrfKeZkZMk4Hrv3kuji7NFaCxjs_jWp9KbXNpkp9g",
+        "source": "The Sun"
       },
       {
-        "title": "MrBeast Flies To India And Ends Rivalry With T-series, Lauds Indian Creators",
+        "title": "Mikel Arteta suggests errant finishing in League Cup loss to Newcastle down to 'tricky' ball - 'Flies a lot'",
         "snippet": "",
-        "url": "https://www.timesnownews.com/entertainment-news/hollywood/mrbeast-flies-to-india-and-ends-rivalry-with-bhushan-kumars-t-series-lauds-indian-creators-article-116187324",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiWR5jkG0CqPb4pCjtMweVL7c97WOX5ifW6JDv11_Dq6sgtS6HcHbaEyfxANk",
-        "source": "Times Now"
+        "url": "https://www.eurosport.com/football/league-cup/2024-2025/mikel-arteta-suggests-errant-finishing-in-league-cup-loss-to-newcastle-down-to-tricky-ball-flies-a-lot_vid2291397/video.shtml",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPfNXDlIsoFf3TXiW90XCKIzHEETKXrHInmos8lY-6_oXJsyljcKrvJoJtpCQ",
+        "source": "Eurosport"
       }
     ]
   },
   {
-    "title": "weather tomorrow",
+    "title": "twitch",
     "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Fri, 13 Dec 2024 11:30:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-    "picture_source": "5 EYEWITNESS NEWS",
+    "pubdate": "Tue, 7 Jan 2025 12:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLP2Wnsy_2ytu0QHXKMUznRQe1cPDQs7xdTQdpt11Tr99idH3enl4nBV_iUUo",
+    "picture_source": "People.com",
     "news_items": [
       {
-        "title": "Ken says a warming begins today",
+        "title": "How Allison Holker Discovered Stephen ‘tWitch’ Boss’ Drug Addiction (Exclusive)",
         "snippet": "",
-        "url": "https://kstp.com/kstp-news/weather-forecast/ken-says-a-warming-begins-today/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTrjY2V4n4X8XrmKCvgbLqAQ83u5qEAszLWMTlyM1Wu_9KkgKp75SHpWz0q5A",
-        "source": "5 EYEWITNESS NEWS"
+        "url": "https://people.com/allison-holker-discovered-stephen-twitch-boss-drug-addiction-before-funeral-exclusive-8770065",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLP2Wnsy_2ytu0QHXKMUznRQe1cPDQs7xdTQdpt11Tr99idH3enl4nBV_iUUo",
+        "source": "People.com"
       },
       {
-        "title": "Warmer temps this weekend and especially for next week",
+        "title": "Who is Candiace Dillard married to? TV star faces backlash for bringing race into her criticism of Allison Holker",
         "snippet": "",
-        "url": "https://www.wistv.com/2024/12/13/cloud-cover-increases-after-frigid-morning/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpJzcj5wdqBnpnbmfkHtgLx1Wo4bW5tXoJp81OhbmLfPzgc9uCzqpD8ahmgr4",
-        "source": "WIS News 10"
+        "url": "https://www.sportskeeda.com/pop-culture/news-who-candiace-dillard-married-to-tv-star-faces-backlash-bringing-race-criticism-allison-holker",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Wf97jNME0FK8Kw0aCWpxsYmfKLINkcaGcflAvhOf-GT5p_FB6DULLEw9CmU",
+        "source": "Sportskeeda"
       },
       {
-        "title": "Weekend weather planner: Rain showers roll in as temperatures warm up",
+        "title": "Allison Holker Fires Back Against Allegations Regarding Her Memoir Motives",
         "snippet": "",
-        "url": "https://www.wlwt.com/article/cincinnati-weather-rain-showers-saturday/63181297",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Dw3sGi8TfVL7pSYcDtlsZ57-rVaYY2V25JjCS3-JdcA6R8bhISc6_BqtWJQ",
-        "source": "WLWT"
+        "url": "https://collider.com/allison-holker-memoir-backlash/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGqbF1fOIEnHgmIHmvVdawAcK7uZz17pBE3WBSNfpDGojEyYXqE1Qd4fCfu-0",
+        "source": "Collider"
       }
     ]
   }

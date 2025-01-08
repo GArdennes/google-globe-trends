@@ -1,63 +1,187 @@
 [
   {
-    "title": "„belgrado crvena zvezda“ prieš „pirėjo olympiakos“",
+    "title": "esveikata",
     "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Fri, 13 Dec 2024 12:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqCVrQTPUDTXI6yCG2FHM7Fj4jp0Tf_m1Z9pmBgVgTMh_8s6q3tHy9wbaGKjU",
-    "picture_source": "BasketNews.lt",
+    "pubdate": "Wed, 8 Jan 2025 07:20:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReiN9hJ_l7_XZw39ZOVpvZ39JvMjT9Ir813AQldT6ZDEJpTb1Arh4VKkbh0k4",
+    "picture_source": "Vakarų ekspresas",
     "news_items": [
       {
-        "title": "Magišką atmosferą Belgrade kūrę fanai išvydo „Crvena Zvezda“ triumfą prieš „Olympiakos“ / Naujienos",
+        "title": "Įspėjimų negirdi: sukčiai trina iš džiaugsmo rankas",
         "snippet": "",
-        "url": "https://www.basketnews.lt/news-216306-magiska-atmosfera-belgrade-kure-fanai-isvydo-crvena-zvezda-triumfa-pries-olympiakos.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqCVrQTPUDTXI6yCG2FHM7Fj4jp0Tf_m1Z9pmBgVgTMh_8s6q3tHy9wbaGKjU",
-        "source": "BasketNews.lt"
+        "url": "https://ve.lt/kriminalai/ispejimu-negirdi-sukciai-trina-is-dziaugsmo-rankas",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReiN9hJ_l7_XZw39ZOVpvZ39JvMjT9Ir813AQldT6ZDEJpTb1Arh4VKkbh0k4",
+        "source": "Vakarų ekspresas"
       },
       {
-        "title": "Belgrade – „Žalgiriui“ palanki šeimininkų pergalė prieš „Olympiakos“",
+        "title": "Sukčiai iš žmonių, bandžiusių prisijungti prie portalo esveikata.lt, išviliojo beveik 6 tūkst. eurų",
         "snippet": "",
-        "url": "https://www.15min.lt/24sek/naujiena/eurolyga/belgrade-zalgiriui-palanki-seimininku-pergale-pries-olympiakos-1362-2360786",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqI4tmAVEgZqA9RBVPGhWIDi2QiIWN50ID_-smN-xs6VeSdmu86iJEFRHwJug",
+        "url": "https://www.delfi.lt/news/crime/sukciai-is-zmoniu-bandziusiu-prisijungti-prie-portalo-esveikatalt-isviliojo-beveik-6-tukst-euru-120077269",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoauQUSVlB0zcrbhlcpuaMPGe7e0zFOP5QvGeONjWuJzQf10vCtuwQJd6CDFs",
+        "source": "Delfi"
+      },
+      {
+        "title": "Policija įspėja apie grėsmę jungiantis prie e.sveikatos: žmonės, būkite atsargūs",
+        "snippet": "",
+        "url": "https://www.tv3.lt/naujiena/lietuva/policija-ispeja-apie-gresme-jungiantis-prie-e-sveikatos-zmones-bukite-atsargus-n1389726",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXDE_AkMldkqgIZbdjMLVKt6n5d7Bqib9mbmXyYNdXsG6HkIxfwGT-HKbwFfk",
+        "source": "Tv3.lt"
+      }
+    ]
+  },
+  {
+    "title": "sigitas jakubauskas",
+    "link": "https://trends.google.com/trending/rss?geo=LT",
+    "pubdate": "Wed, 8 Jan 2025 00:30:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2u8DtnihmbH7TivT3qoW6iWhQS11IsT-WCmX8GUQk6RvcTURpAW_Tu_SL_68",
+    "picture_source": "Delfi",
+    "news_items": [
+      {
+        "title": "Mirė garsus aktorius Sigitas Jakubauskas",
+        "snippet": "",
+        "url": "https://www.delfi.lt/veidai/zmones/mire-garsus-aktorius-sigitas-jakubauskas-120077210",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2u8DtnihmbH7TivT3qoW6iWhQS11IsT-WCmX8GUQk6RvcTURpAW_Tu_SL_68",
+        "source": "Delfi"
+      },
+      {
+        "title": "S.Jakubausko gedinti I.Norkutė – apie pranašiškus žodžius ir liūdną likimą: „Čia jau buvo mirtis“",
+        "snippet": "",
+        "url": "https://www.15min.lt/zmones/naujiena/lietuva/s-jakubausko-gedinti-i-norkute-apie-pranasiskus-zodzius-ir-liudna-likima-cia-jau-buvo-mirtis-1050-2372972",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDH-AoW366fkNu5MHhO93-ZKjmVUtzONZXCTMr4M7ZoQ-WJXqKtJG8jgxdhjk",
         "source": "15min.lt"
       },
       {
-        "title": "Eurolygoje – „Crvena Zvezda“ ir „Emporio Armani“ pergalės",
+        "title": "Paskutinis S. Jakubausko interviu prieš gniuždančią diagnozę: liga atėmė aktoriaus instrumentą",
         "snippet": "",
-        "url": "https://www.lrt.lt/naujienos/sportas/10/2438814/eurolygoje-crvena-zvezda-ir-emporio-armani-pergales",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIcRvr2RR94mSE_s6owfparYlP1AO6YLYGN5iuDtpqSqn3b3oI0RjubFawaho",
+        "url": "https://www.lrytas.lt/kultura/scena/2025/01/08/news/paskutinis-s-jakubaicio-interviu-pries-gniuzdancia-diagnoze-liga-ateme-aktoriaus-instrumenta-35964481",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2u1jjRNat8dTXcLPqugEyLE2ppH6fslNO5L_ovJgzwNDnEnvR7Z85z-PSa00",
+        "source": "Lrytas"
+      }
+    ]
+  },
+  {
+    "title": "sauktiniu sarasas 2025",
+    "link": "https://trends.google.com/trending/rss?geo=LT",
+    "pubdate": "Wed, 8 Jan 2025 06:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_T_2iEraShdwtAslyLWqfF4vTUdj6ra54el_KI-LU0cfkG8ToUqlGJbGuyC8",
+    "picture_source": "Tv3.lt",
+    "news_items": [
+      {
+        "title": "Sudarytas 2025 m. šauktinių sąrašas: ketinama pašaukti beveik 3,9 tūkst. jaunuolių",
+        "snippet": "",
+        "url": "https://www.tv3.lt/naujiena/lietuva/sudarytas-2025-m-sauktiniu-sarasas-ketinama-pasaukti-beveik-3-9-tukst-jaunuoliu-n1389600",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_T_2iEraShdwtAslyLWqfF4vTUdj6ra54el_KI-LU0cfkG8ToUqlGJbGuyC8",
+        "source": "Tv3.lt"
+      },
+      {
+        "title": "Mano, kad ateityje į karinę tarnybą bus šaukiamos ir merginos: tai neišvengiama",
+        "snippet": "",
+        "url": "https://www.delfi.lt/news/daily/lithuania/mano-kad-ateityje-i-karine-tarnyba-bus-saukiamos-ir-merginos-tai-neisvengiama-120077277",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpihVL9FjXiCXOZa5a71OgzGEabZgtAICidtmw8ka0FLLWwoRrf9AkN5otMLY",
+        "source": "Delfi"
+      },
+      {
+        "title": "Krašto apsaugos ministerijoje sudarytas šauktinių sąrašas",
+        "snippet": "",
+        "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2455142/krasto-apsaugos-ministerijoje-sudarytas-sauktiniu-sarasas",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzLQRWn4NZoT8ExYCMZsj8FcU-_DS8OVN1ZZ9zJwJ_6IGP2e9OPqEDOd6oTHM",
         "source": "LRT"
       }
     ]
   },
   {
-    "title": "„stambulo anadolu efes“ prieš „atėnų panathinaikos“",
+    "title": "binance",
     "link": "https://trends.google.com/trending/rss?geo=LT",
-    "pubdate": "Fri, 13 Dec 2024 09:40:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 14:40:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxHx9przQeuYi9IPqFlww7hlF6oN-PXgAIv9-LDA8AnU0CjlYkrdKGG8jXT3A",
-    "picture_source": "BasketNews.lt",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqrguJkSpuFAemZeSVCax519KBmLTqaPLo1yBIpTqB4jqzi55dMenbYch4kI",
+    "picture_source": "Forexlive",
     "news_items": [
       {
-        "title": "„Anadolu Efes“ surakino Eurolygos čempionus ir išrašė jiems skaudžią pamoką / Naujienos",
+        "title": "Bitcoin analysis for today",
         "snippet": "",
-        "url": "https://www.basketnews.lt/news-216297-anadolu-efes-surakino-eurolygos-cempionus-ir-israse-jiems-skaudzia-pamoka.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxHx9przQeuYi9IPqFlww7hlF6oN-PXgAIv9-LDA8AnU0CjlYkrdKGG8jXT3A",
-        "source": "BasketNews.lt"
+        "url": "https://www.forexlive.com/Cryptocurrency/bitcoin-analysis-for-today-20250108/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqrguJkSpuFAemZeSVCax519KBmLTqaPLo1yBIpTqB4jqzi55dMenbYch4kI",
+        "source": "Forexlive"
       },
       {
-        "title": "Graikų grandų bėdos: Atamanas komandą uždarys viešbutyje, Bartzokas auklėtinius lygino su sviestu",
+        "title": "Bitcoin’s price briefly reaching $100K prompts a record monthly outflow of 5.4K BTC",
         "snippet": "",
-        "url": "https://www.delfi.lt/krepsinis/naujienos/graiku-grandu-bedos-atamanas-komanda-uzdarys-viesbutyje-bartzokas-aukletinius-lygino-su-sviestu-120072211",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIwsDLBzTlIMHgrj126uxT8j_kCQROFhj2qA9CgU1w7YXK2DEtN6oNsqSWRsA",
+        "url": "https://www.binance.com/en/square/post/18631882213105",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyfYA_P9QXjiW62KOoloHCmpEyAcJSPs6snH5g14rp11vTlTewCAEP6-K-p4Q",
+        "source": "Binance"
+      },
+      {
+        "title": "Crypto Price Analysis 1-7 BITCOIN: BTC, ETHEREUM: ETH, SOLANA: SOL, ALGORAND: ALGO, HEDERA: HBAR, NEAR PROTOCOL: NEAR, ARBITRUM: ARB",
+        "snippet": "",
+        "url": "https://cryptodaily.co.uk/2025/01/crypto-price-analysis-1-7-bitcoin-btc-ethereum-eth-solana-sol-algorand-algo-hedera-hbar-near-protocol-near-arbitrum-arb",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSijnL3MkvuvCBh3JJY6Gja9BuJMNeYclGk_uW6wV-WOFTolvpMCBr6GYzDwzI",
+        "source": "Crypto Daily"
+      }
+    ]
+  },
+  {
+    "title": "orai vilnius",
+    "link": "https://trends.google.com/trending/rss?geo=LT",
+    "pubdate": "Tue, 7 Jan 2025 20:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXfOc6UX4ojvLJrT3k8M5YyNQGYUd9rBLBNOhYOPk6--PZ2Ebu5eO6dtAKUJk",
+    "picture_source": "Delfi",
+    "news_items": [
+      {
+        "title": "Laukia dar viena galinga sniego porcija: dalyje Lietuvos siaus pūga",
+        "snippet": "",
+        "url": "https://www.delfi.lt/news/lithuania/laukia-dar-viena-galinga-sniego-porcija-dalyje-lietuvos-siaus-puga-120077203",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXfOc6UX4ojvLJrT3k8M5YyNQGYUd9rBLBNOhYOPk6--PZ2Ebu5eO6dtAKUJk",
         "source": "Delfi"
       },
       {
-        "title": "Nemalonus E.Atamano sugrįžimas namo – Eurolygos čempionai sutriuškinti Stambule",
+        "title": "Sinoptikė siunčia įspėjimą: Lietuvą užgrius dar viena audra su pūgomis",
         "snippet": "",
-        "url": "https://www.15min.lt/24sek/naujiena/eurolyga/nemalonus-e-atamano-sugrizimas-namo-eurolygos-cempionai-sutriuskinti-stambule-1362-2360768",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUhP8xN-GMclMw5w_harTURefVDiJzOmSn7a3OTqHcynpR1MzTy8IYqohqrtE",
-        "source": "15min.lt"
+        "url": "https://www.tv3.lt/naujiena/lietuva/sinoptike-siuncia-ispejima-lietuva-uzgrius-dar-viena-audra-su-pugomis-n1389620",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSioNlEp04XQnq0JviAL9UCyIm-23qhp4NOZ5PSxCtuffPSEMWHM7eDnWLIXYY",
+        "source": "Tv3.lt"
+      },
+      {
+        "title": "Orai: visa likusi savaitė bus darganota",
+        "snippet": "",
+        "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2455019/orai-visa-likusi-savaite-bus-darganota",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoCX6-UrMsVyEfK_gjogpbXeuQv-ufMnT1JXfgY0AvgJO5d9x74DK88VUlTyA",
+        "source": "LRT"
+      }
+    ]
+  },
+  {
+    "title": "eurocup",
+    "link": "https://trends.google.com/trending/rss?geo=LT",
+    "pubdate": "Tue, 7 Jan 2025 11:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJb_kaeAPWsw5WgW9AuCBInBdN4Ezg9wQamI7zL7yvyMmywZkNDcfA7MMNd8",
+    "picture_source": "Daily Sabah",
+    "news_items": [
+      {
+        "title": "Galatasaray, Beşiktaş face crucial EuroCup ties, Fenerbahçe host ALBA | Daily Sabah",
+        "snippet": "",
+        "url": "https://www.dailysabah.com/sports/basketball/galatasaray-besiktas-face-crucial-eurocup-ties-fenerbahce-host-alba",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJb_kaeAPWsw5WgW9AuCBInBdN4Ezg9wQamI7zL7yvyMmywZkNDcfA7MMNd8",
+        "source": "Daily Sabah"
+      },
+      {
+        "title": "Hapoel Tel Aviv, Jerusalem gain EuroCup wins; Mac TA stumbles vs Partizan",
+        "snippet": "",
+        "url": "https://www.jpost.com/israel-news/sports/article-836219",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaa5mWF8SOwhUFg8pQwx4rfxYkmtTXOa6oGCciISbLhs2mxtdsmrfmU0oGs6k",
+        "source": "The Jerusalem Post"
+      },
+      {
+        "title": "Hapoel Tel Aviv and Gran Canaria Shine in EuroCup Clash",
+        "snippet": "",
+        "url": "https://www.footboom1.com/en/news/basketball/2271494-hapoel-tel-aviv-and-gran-canaria-shine-in-eurocup-clash",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI_39ylH8a99BVcmOVlnI-xUJ17tbLDMqCg2oMpQ1WFX5TVF1Y-iMACrSIPK8",
+        "source": "FootBoom"
       }
     ]
   }

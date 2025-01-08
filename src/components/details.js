@@ -17,9 +17,8 @@ export default function Details() {
     if (!focusedMarker) return null;
 
     const countryName = focusedMarker.country;
-    const value = focusedMarker.traffic;
-    const topics = focusedMarker.title;
-    const url = getSearchUrl(countryName, topics);
+    const topics = focusedMarker.trends;
+    const url = getSearchUrl(countryName, topics[0].title);
 
     return (
       <>
@@ -33,15 +32,19 @@ export default function Details() {
           <h1 style={{ fontSize: "2rem", marginBottom: "0rem" }}>
             {countryName}
           </h1>
-          <p style={{ marginBlockEnd: "0rem" }}>
-            Trending topic:{" "}
-            <a
-              className="clickable-link"
-              onClick={() => window.open(focusedMarker.link, "_blank")}>
-              {topics}
-            </a>
-          </p>
-          <p>{`(Approximate traffic of ${value})`}</p>
+          <p style={{ marginBlockEnd: "0rem" }}>Trending topics:</p>
+          <ul>
+            {focusedMarker.trends.map((trend, index) => (
+              <li key={index}>
+                <a
+                  className="clickable-link"
+                  onClick={() => window.open(trend.link, "_blank")}>
+                  {trend.title}
+                </a>
+                <p>{`(Approximate traffic of ${trend.traffic})`}</p>
+              </li>
+            ))}
+          </ul>
           <Button
             label="View search results"
             onClick={() => window.open(url, "_blank")}

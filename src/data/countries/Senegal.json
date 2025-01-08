@@ -1,228 +1,157 @@
 [
   {
-    "title": "arsenal – everton",
+    "title": "arsenal – newcastle",
     "link": "https://trends.google.com/trending/rss?geo=SN",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
-    "picture_source": "Arsenal.com",
+    "pubdate": "Tue, 7 Jan 2025 11:00:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeuOZIvqHsyBrOMTm2k08QxjcAySssXNJyRUVAdyzusL_mFZJVzcK0-kT7Fyw",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Every word from Mikel Arteta's pre-Everton presser | Press conference | News",
+        "title": "Arsenal vs Newcastle LIVE: Carabao Cup semi-final score, updates & radio commentary",
         "snippet": "",
-        "url": "https://www.arsenal.com/news/every-word-mikel-artetas-pre-everton-presser-1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0l-McM-3N-tF0ZHgwO880Y1YLD6MUlSF_8O7Y65x2BF4spzneC-WldQZveE",
+        "url": "https://www.bbc.com/sport/football/live/ckg9dgm5gk4t",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeuOZIvqHsyBrOMTm2k08QxjcAySssXNJyRUVAdyzusL_mFZJVzcK0-kT7Fyw",
+        "source": "BBC"
+      },
+      {
+        "title": "Arteta mocked by League Cup organisers after 'tricky' ball excuse",
+        "snippet": "",
+        "url": "https://www.rfi.fr/en/sports/20250108-arteta-mocked-by-league-cup-organisers-after-tricky-ball-excuse",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVqHHJOr6_muvec-y_zfvS5EiuIQJCQmy4lX8LlMDG5x-NgCcL89L_AoAIsxY",
+        "source": "RFI"
+      },
+      {
+        "title": "Preview: Arsenal v Newcastle United | Pre-Match Report | News",
+        "snippet": "",
+        "url": "https://www.arsenal.com/news/preview-arsenal-v-newcastle-united-1",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT64L3g2LHPB3t4ZvZvVyFBRbCbgoEmrSulVEXHkD_o52UCSiTfLwF4yTCHNbE",
         "source": "Arsenal.com"
-      },
-      {
-        "title": "Liverpool vs Fulham LIVE: Premier League team news, line-ups and more",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/liverpool-vs-fulham-live-premier-130024902.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzU2E14EGckBt0ic527jchCx0JekCwkEvir9rpx53DSS4htwFJrh0HfhQtldk",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "LATEST UPDATE: Will Gabriel Magalhaes return to action for Arsenal to face Everton?",
-        "snippet": "",
-        "url": "https://arsenalcore.com/latest-update-gabriel-magalhaes-injury-return-arsenal-vs-everton/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG8YOvVyTzMiftIuwbKJmWivccPA2OrdJQnZF9Byba-KnOu3A3R0VREHA7h3g",
-        "source": "ArsenalCore"
       }
     ]
   },
   {
-    "title": "liverpool – fulham",
+    "title": "eldense – valence",
     "link": "https://trends.google.com/trending/rss?geo=SN",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
+    "pubdate": "Tue, 7 Jan 2025 11:30:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMi2JWfJfaEXjuUktncwUQuGSpeMGhOHFdTdZJvwDJSDr0HwScWyd2H2Sv_74",
+    "picture_source": "L'Équipe",
+    "news_items": [
+      {
+        "title": "Eldense 0-2 Valence CF, Coupe du Roi : résumé du match (07/01/2025)",
+        "snippet": "",
+        "url": "https://www.lequipe.fr/Football/match-direct/coupe-du-roi/2024-2025/eldense-valence-cf-live/669109",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMi2JWfJfaEXjuUktncwUQuGSpeMGhOHFdTdZJvwDJSDr0HwScWyd2H2Sv_74",
+        "source": "L'Équipe"
+      },
+      {
+        "title": "La Coupe comme tremplin vers le Pizjuán",
+        "snippet": "",
+        "url": "https://www.footboom1.com/fr/news/football/2273284-the-cup-as-a-springboard-towards-the-pizjuan",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLKmd-JBXegV8DYsCqGK48Mt1ydK1wxA5EvpSE1bruYN1eyRgv8gdmKVz_ZUY",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Coupe du Roi : Valence se qualifie pour les huitièmes",
+        "snippet": "",
+        "url": "https://www.footmercato.net/a8154151294672055312-coupe-du-roi-valence-se-qualifie-pour-les-huitiemes",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlQPWJz-EW2tQE2b8IjgZvlwTICrh6YO2fyKlZ5By84PzY4lyXztb5ozMrn7o",
+        "source": "Foot Mercato"
+      }
+    ]
+  },
+  {
+    "title": "sporting – porto",
+    "link": "https://trends.google.com/trending/rss?geo=SN",
+    "pubdate": "Tue, 7 Jan 2025 13:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDRHKSMvV-LPZOR5hjjDe7-9zrRO821AMv4rntzS4pm4yG3jTfvjsngTZIHw",
-    "picture_source": "Rousing The Kop",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuP1jQ8x1Vf7ZHlHfbGEtY14vJNuS2hEHpGCGI_gaLqWX5vjoMxHFsVFZf_TM",
+    "picture_source": "Substack",
     "news_items": [
       {
-        "title": "The five Fulham players set to miss Liverpool clash as key defensive duo ruled out",
+        "title": "As dores de crescimento",
         "snippet": "",
-        "url": "https://www.rousingthekop.com/2024/12/14/the-five-fulham-players-set-to-miss-liverpool-clash-as-key-defensive-duo-ruled-out/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDRHKSMvV-LPZOR5hjjDe7-9zrRO821AMv4rntzS4pm4yG3jTfvjsngTZIHw",
-        "source": "Rousing The Kop"
+        "url": "https://substack.com/home/post/p-154392027?utm_campaign=post&utm_medium=web",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuP1jQ8x1Vf7ZHlHfbGEtY14vJNuS2hEHpGCGI_gaLqWX5vjoMxHFsVFZf_TM",
+        "source": "Substack"
       },
       {
-        "title": "'We know how important this time of the year is' - Virgil van Dijk's Fulham programme notes",
+        "title": "Nuno Lobo reage à eliminação do FC Porto: \"Acreditem, vamos ser campeões\"",
         "snippet": "",
-        "url": "https://www.liverpoolfc.com/news/we-know-how-important-time-year-virgil-van-dijks-fulham-programme-notes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJSi-Um9m-SMqUXEvmyIHnovmXK47_OZ7EBQhqCoxVCx_lB2YJsaHIxc4Qgc",
-        "source": "Liverpool FC"
+        "url": "https://www.noticiasaominuto.com/desporto/2703420/nuno-lobo-reage-a-eliminacao-do-fc-porto-acreditem-vamos-ser-campeoes",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhKS-E0Rw_MI7-VkwMxvindVrLcx-HcQYEulUb-RdrdA8qNwAxgt4WVrxFl54",
+        "source": "Notícias ao Minuto"
       },
       {
-        "title": "\"They're in Great Form\" - Alan Shearer Previews Liverpool's Premier League Clash with Fulham",
+        "title": "Sporting CP – FC Porto seguido na SIC por média de 1,8 milhões de telespectadores",
         "snippet": "",
-        "url": "https://anfieldindex.com/76425/theyre-in-great-form-alan-shearer-previews-liverpools-premier-league-clash-with-fulham.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8n8fAruf7VHqyvTYP3fLL7050EzMA6HFZ8u5NR-oBeZAZxJTS9UO94wVvfh8",
-        "source": "anfieldindex.com"
+        "url": "https://www.ligaportugal.pt/pt/epocas/20242025/noticias/geral/allianz-cup/sporting-cp-fc-porto-seguido-na-sic-por-media-de-18-milhoes-de-telespectadores?bck=L3B0L2hvbWVwYWdlLw",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHb6-01lqp6iV4AIKxQ0YfE7__9MZz-jxckjpuAOCwsKBxCburFHm1BN32x7k",
+        "source": "Liga Portugal"
       }
     ]
   },
   {
-    "title": "mainz 05 – bayern",
+    "title": "lamine yamal",
     "link": "https://trends.google.com/trending/rss?geo=SN",
-    "pubdate": "Sat, 14 Dec 2024 06:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-    "picture_source": "FCBinside",
+    "pubdate": "Wed, 8 Jan 2025 05:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl3RN8mfcXldMoXY1iyo8d9W_uCX61d2IwS2AHyN0aSz_S-42UmsTeagsmnZE",
+    "picture_source": "CNN",
     "news_items": [
       {
-        "title": "Kompany baut um: Das ist die Startelf des FC Bayern in Mainz",
+        "title": "‘Barça is the club of my life’: In CNN exclusive Lamine Yamal pledges long-term future to Barcelona after historic 2024",
         "snippet": "",
-        "url": "https://fcbinside.de/2024/12/14/kompany-baut-um-das-ist-die-startelf-des-fc-bayern-in-mainz/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoANLi8dN9Lsw6OJL0bZdCRnsXiT18pVa9ZdL6HB_tx2vxAjdaR8t6kMr_yfY",
-        "source": "FCBinside"
+        "url": "https://www.cnn.com/2025/01/08/sport/lamine-yamal-barcelona-future-spt-intl/index.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl3RN8mfcXldMoXY1iyo8d9W_uCX61d2IwS2AHyN0aSz_S-42UmsTeagsmnZE",
+        "source": "CNN"
       },
       {
-        "title": "Mainz 05 – FC Bayern im Live-Ticker: Bundesliga heute",
+        "title": "\"I Will Renew My Contract\"",
         "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/mainz-05-fc-bayern-im-live-ticker-bundesliga-heute-675acfd60492fa7e5829a6cb",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfdOmhRnyNjEN6d0tvRs1oI033iSAZrNUqnt-XijjWkAx33Z3y0WL0_Uy7cY",
-        "source": "BILD.de"
+        "url": "https://www.footboom1.com/en/news/football/2274488-i-will-renew-my-contract",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHXrOE4MKIFPIDRhoR4zp9RF1o7O4cjkTCTj6BgAYR7CzCqutxtltbEaEtPY",
+        "source": "FootBoom"
       },
       {
-        "title": "Deutsche Konferenz mit Bayern und Leverkusen LIVE",
+        "title": "Yamal talks about renewing his contract with Barcelona",
         "snippet": "",
-        "url": "https://fan.at/news/675d0c9d51398e3ffd27e7a2",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIStcZ-2Bcrodo2zOWRxRuXeSs8NK09m75YO-ESOfpzaB0BXJoHlmnaqXDPU",
-        "source": "fan.at"
+        "url": "https://www.ysscores.com/en/news/10384114/Yamal-talks-about-renewing-his-contract-with-Barcelona",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc207rCfwP9IDt5BD3D-MwiDtpsjljeaBnCO0DuNBQvmaVuoHb6GJ-Tsnxllc",
+        "source": "www.ysscores.com"
       }
     ]
   },
   {
-    "title": "augsbourg – leverkusen",
+    "title": "arsenal vs",
     "link": "https://trends.google.com/trending/rss?geo=SN",
-    "pubdate": "Sat, 14 Dec 2024 05:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-    "picture_source": "BILD.de",
+    "pubdate": "Tue, 7 Jan 2025 14:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCh5XUhVKUlRGrfLK7ZIGp-sIphL6WPY_Uc4laPT4QFrCj1IgBvwKu7nWsmMM",
+    "picture_source": "ESPN",
     "news_items": [
       {
-        "title": "Bayer Leverkusen: Schick und Boniface: So ist der Stand bei den Bayer-Stürmern",
+        "title": "Arsenal vs Man United: Time, how to watch, stats, team news",
         "snippet": "",
-        "url": "https://www.bild.de/sport/fussball/bayer-leverkusen-schick-und-boniface-so-ist-der-stand-bei-den-bayer-stuermern-675c55eff42ba80299f9f611",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_MEOCV0MAkDkX_6L3aCWi9o1amjJPFF4Kf0pqT9_ULNLu1eRP9Eu9yRdtic",
-        "source": "BILD.de"
+        "url": "https://www.espn.com/soccer/story/_/id/43321404/arsenal-vs-man-united-how-watch-stats-team-news",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCh5XUhVKUlRGrfLK7ZIGp-sIphL6WPY_Uc4laPT4QFrCj1IgBvwKu7nWsmMM",
+        "source": "ESPN"
       },
       {
-        "title": "Adventsheimspiel",
+        "title": "Man United LOSE protracted battle with Arsenal over FA Cup allocation - as FA deny their request for final 1,0",
         "snippet": "",
-        "url": "https://onefootball.com/es/noticias/adventsheimspiel-40434309",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHGH91PCOD2gk6gf7N2KXlqyc5FxyAKEzk_uKP32IXRc3EajYutM69qWaLP0",
-        "source": "OneFootball"
+        "url": "https://www.dailymail.co.uk/sport/football/article-14262883/Man-United-Arsenal-neutral-tickets-Emirates-denied.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRsO95pgFo0n_lQwaeBMjvg508dg1pBvfU8a-hRtQ93CXMQ0vDaGFnYjAR7Nc",
+        "source": "Daily Mail"
       },
       {
-        "title": "Augsburg gegen Leverkusen heute im Live-Ticker: Stolperstein für den Meister?",
+        "title": "Man Utd XI vs Arsenal: Predicted lineup and confirmed team news",
         "snippet": "",
-        "url": "https://www.fr.de/sport/fussball/augsburg-gegen-leverkusen-heute-im-live-ticker-stolperstein-fuer-den-meister-zr-93468975.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoYDB6AQZjh8r-ViLzavBYAw8fxqplpa7uXjwDAHGgZY0PU7C4EbzvRmel0TY",
-        "source": "Frankfurter Rundschau"
+        "url": "https://www.standard.co.uk/sport/football/man-utd-xi-vs-arsenal-fc-predicted-lineup-confirmed-team-news-injury-latest-fa-cup-2025-b1203570.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL8mpY0bnlUQGBHoofTarlbVC6hH0OUAVpw2doOCv2JPhkEU9Kq1mH6nnSmDQ",
+        "source": "London Evening Standard"
       }
     ]
-  },
-  {
-    "title": "cagliari – atalanta",
-    "link": "https://trends.google.com/trending/rss?geo=SN",
-    "pubdate": "Sat, 14 Dec 2024 05:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-    "picture_source": "Virgilio Sport",
-    "news_items": [
-      {
-        "title": "Cagliari-Atalanta: Formazioni ufficiali e Cronaca in diretta",
-        "snippet": "",
-        "url": "https://sport.virgilio.it/dirette/live/serie-a/14-12-2024/cagliari-atalanta/2456255/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHzBigJcitb57OV8fuOhaWUFUjTJezGvZeZG3iACsP4O_mSYUSFcMTXlHc5H4",
-        "source": "Virgilio Sport"
-      },
-      {
-        "title": "La vostra formazione: voglia di Retegui dal 1′",
-        "snippet": "",
-        "url": "https://www.calcioatalanta.it/2024/12/14/la-vostra-formazione-voglia-di-retegui-dal-1/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaOdcDHDKvENI8JsQRXSpn8W91DZmCNFLPRPuvY9S-VerxqMFuq1oOQCykkq4",
-        "source": "CalcioAtalanta"
-      },
-      {
-        "title": "Serie A: in campo Cagliari-Atalanta 0-0 DIRETTA",
-        "snippet": "",
-        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/12/14/serie-a-in-campo-cagliari-atalanta-0-0-diretta_84f15718-8258-43f7-b819-4d26a6fd37c1.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3V0PqgJcUAYXJ_0S8lDkIP9NlmnkZ6NU3cqyDDxuHFlRZXioyikiUcPOR5Gg",
-        "source": "ANSA"
-      }
-    ]
-  },
-  {
-    "title": "espanyol – osasuna",
-    "link": "https://trends.google.com/trending/rss?geo=SN",
-    "pubdate": "Sat, 14 Dec 2024 04:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTaVMIXaNEO83i1_amrfos1Gj1s5XGg9vWotHs0V7eovOIdrp0aw8CNuYe7YA",
-    "picture_source": "El 1900",
-    "news_items": [
-      {
-        "title": "Fernando Calero llega a la ‘final’ ante CA Osasuna",
-        "snippet": "",
-        "url": "https://el1900.com/fernando-calero-llega-a-la-fina-ca-osasuna-espanyol/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTaVMIXaNEO83i1_amrfos1Gj1s5XGg9vWotHs0V7eovOIdrp0aw8CNuYe7YA",
-        "source": "El 1900"
-      },
-      {
-        "title": "Tejero, Kumbulla, Romero y Roca, novedades en el Espanyol; Ibáñez y Raúl, en el Osasuna",
-        "snippet": "",
-        "url": "https://www.infobae.com/espana/agencias/2024/12/14/tejero-kumbulla-romero-y-roca-novedades-en-el-espanyol-ibanez-y-raul-en-el-osasuna/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4",
-        "source": "Infobae"
-      },
-      {
-        "title": "Moncayola y Moi Gómez se caen de la convocatoria",
-        "snippet": "",
-        "url": "https://riojaactual.com/rioja-actual-educacion/320262/moncayola-y-moi-gomez-se-caen-de-la-convocatoria/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkszAcjeUpRyiSvSQxQcQJ84j3qQr0UKsXcLz4n8G6Wtx7vEmp-5ojw_Omh3s",
-        "source": "Rioja Actual"
-      }
-    ]
-  },
-  {
-    "title": "barthélémy dias maire de dakar",
-    "link": "https://trends.google.com/trending/rss?geo=SN",
-    "pubdate": "Fri, 13 Dec 2024 15:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-fz0-Bn5wrXZ7vpGJcdWKL_8AGBhRSuOYBUzJEqh3gSENFPEO7GBuXeK6Wg8",
-    "picture_source": "Seneweb",
-    "news_items": [
-      {
-        "title": "Barthélémy Dias : une motion de soutien déposée lundi",
-        "snippet": "",
-        "url": "https://www.seneweb.com/news/Justice/barthelemy-dias-une-motion-de-soutien-de_n_458259.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-fz0-Bn5wrXZ7vpGJcdWKL_8AGBhRSuOYBUzJEqh3gSENFPEO7GBuXeK6Wg8",
-        "source": "Seneweb"
-      },
-      {
-        "title": "Dernière minute : les forces de l’ordre à l’intérieur de la mairie de Dakar",
-        "snippet": "",
-        "url": "https://www.dakaractu.com/Derniere-minute-les-forces-de-l-ordre-a-l-interieur-de-la-mairie-de-Dakar_a256751.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4yXePgiqFlXktLtjROEplAbQL3qyK9UPcomnkhY3xGRpBdTqdhfiFzdm2bA",
-        "source": "DAKARACTU.COM"
-      },
-      {
-        "title": "Intervention des forces de l'ordre à la Mairie de Dakar: Barthélémy Dias dénonce une tentative de dictature",
-        "snippet": "",
-        "url": "https://www.leral.net/Intervention-des-forces-de-l-ordre-a-la-Mairie-de-Dakar-Barthelemy-Dias-denonce-une-tentative-de-dictature_a374682.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTltIbZeZgS-JCFwM_40633ZsqD-NOePEoZlr38lzyzZ3szZm17cw5sQYIV-C4",
-        "source": "Leral.net"
-      }
-    ]
-  },
-  {
-    "title": "valladolid – valence",
-    "link": "https://trends.google.com/trending/rss?geo=SN",
-    "pubdate": "Fri, 13 Dec 2024 12:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
   }
 ]
