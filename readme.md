@@ -17,7 +17,7 @@ Google Globe Trends is a tool that allows you to visualize trending search keywo
 
 ### Uncompleted Tasks
 
-- **Learning to use the tree map visual**: Complete the tutorials on implementing the chartjs package for tree map charts. (10/01/2025)
+- **Learning to use the tree map visual**: Complete the tutorials on implementing the chartjs package for tree map charts. (10/01/2025), (13/01/2025)
 - **Visualise for each country the tree map**: The profile of each country should be illustrated with SDG chart.
 
 ### Completed Tasks
