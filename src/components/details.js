@@ -3,11 +3,52 @@ import { useStateValue } from "../state";
 import Button from "./button";
 import Fade from "./fade";
 
-const getSearchUrl = (country, keyword) => {
-  const formattedQuery = `${encodeURIComponent(country)} ${encodeURIComponent(
-    keyword,
-  )}`.replace(/(%20| )/g, "+");
-  return `https://www.google.com/search?q=${formattedQuery}`;
+// Create a script element for Chart.js
+const chartJsScript = document.createElement("script");
+chartJsScript.type = "text/javascript";
+chartJsScript.src =
+  "https://cdn.jsdelivr.net/npm/chart.js/dist/chart.umd.min.js";
+document.head.appendChild(chartJsScript);
+
+// Create a script element for Chart.js Treemap
+const chartJsTreemapScript = document.createElement("script");
+chartJsTreemapScript.type = "text/javascript";
+chartJsTreemapScript.src =
+  "https://cdn.jsdelivr.net/npm/chartjs-chart-treemap@3.1.0/dist/chartjs-chart-treemap.min.js";
+document.head.appendChild(chartJsTreemapScript);
+
+const getSearchUrl = (country) => {
+  const formattedQuery = `${encodeURIComponent(country)}`.replace(
+    /(%20| )/g,
+    "+",
+  );
+  return `https://en.wikipedia.org/wiki/${formattedQuery}`;
+};
+
+const getChart = (performance) => {
+  // const labels = Object.keys(performance);
+  const data = Object.values(performance);
+
+  const dt = {
+    datasets: [
+      {
+        label: "Sustainable Development Goals",
+        data: data,
+        backgroundColor: ["rgba(255, 26, 104, 0.2)"],
+        borderColor: ["rgba(255, 26, 104, 1)"],
+        borderWidth: 1,
+      },
+    ],
+  };
+
+  const config = {
+    type: "treemap",
+    data: dt,
+    options: {},
+  };
+
+  const myChart = new Chart(document.getElementById("myChart"), config);
+  return myChart;
 };
 
 export default function Details() {
@@ -17,9 +58,9 @@ export default function Details() {
     if (!focusedMarker) return null;
 
     const countryName = focusedMarker.country;
-    const value = focusedMarker.traffic;
-    const topics = focusedMarker.title;
-    const url = getSearchUrl(countryName, topics);
+    const value = focusedMarker.population;
+    const topics = focusedMarker.performance;
+    const url = getSearchUrl(countryName);
 
     return (
       <>
@@ -34,15 +75,10 @@ export default function Details() {
             style={{ fontSize: "2rem", marginBottom: "0rem", color: "white" }}>
             {countryName}
           </h1>
-          <p style={{ marginBlockEnd: "0rem", color: "white" }}>
-            Trending topic:{" "}
-            <a
-              className="clickable-link"
-              onClick={() => window.open(focusedMarker.link, "_blank")}
-              style={{ color: "lightblue" }}>
-              {topics}
-            </a>
-          </p>
+          <div className="Sustainable-Development-Goals">
+            <canvas id="myChart" width="400" height="400"></canvas>
+            {getChart(topics)}
+          </div>
           <p
             style={{ color: "white" }}>{`(Approximate traffic of ${value})`}</p>
           <Button

@@ -52,7 +52,9 @@ export default async function crawl(data) {
           "Goal 17 Score": attributes["Goal_17_Score"],
         };
 
-        const fetchPromise = fetch("https://restcountries.com/v3.1/alpha/" + geoCode)
+        const fetchPromise = fetch(
+          "https://restcountries.com/v3.1/alpha/" + geoCode,
+        )
           .then((response) => {
             if (!response.ok) {
               throw new Error("Network response was not ok");
@@ -64,7 +66,10 @@ export default async function crawl(data) {
             const x = {
               country: countryName,
               ISO: geoCode,
-              population: Array.isArray(point) && point.length > 0 ? point[0].population : null,
+              population:
+                Array.isArray(point) && point.length > 0
+                  ? point[0].population
+                  : null,
               performance,
             };
 
