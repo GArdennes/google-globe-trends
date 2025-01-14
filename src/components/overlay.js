@@ -1,4 +1,3 @@
-import moment from "moment";
 import React, { useState } from "react";
 
 import { useStateValue } from "../state";
@@ -9,7 +8,7 @@ import Link from "./link";
 import Icons from "./icons";
 
 export default function Overlay() {
-  const [{ focusedMarker, lastUpdated, markers, start }] = useStateValue();
+  const [{ focusedMarker, markers, start }] = useStateValue();
   const [showAbout, setShowAbout] = useState(false);
 
   if (!markers) {
@@ -37,8 +36,7 @@ export default function Overlay() {
           </div>
         </div>
         <div className="footer">
-          Sustainable Development Goals created on{" "}
-          {moment(lastUpdated).format("MMM D, YYYY")}
+          Sustainable Development Goals
           <div style={{ display: "flex", marginRight: "5rem" }}>
             <Icons />
           </div>
