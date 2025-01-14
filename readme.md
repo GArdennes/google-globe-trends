@@ -17,7 +17,7 @@ Google Globe Trends is a tool that allows you to visualize trending search keywo
 
 ### Uncompleted Tasks
 
-- **Visualise for each country the tree map**: The profile of each country should be illustrated with SDG chart.
+- **Visualise for each country the tree map**: The profile of each country should be illustrated with SDG chart. (14/01/2025)
 
 ### Completed Tasks
 
