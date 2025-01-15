@@ -75,6 +75,10 @@ const getChart = (performance) => {
               return `${title[ctx.dataIndex]} - Major challenges remain`;
             }
           },
+          font: {
+            size: 13,
+          },
+          color: "black",
         },
         captions: {
           display: false,
@@ -166,9 +170,16 @@ export default function Details() {
           <p className="traffic-info">{`(Population of ${value})`}</p>
           <canvas
             id="myChart"
-            width="500"
-            height="500"
-            style={{ padding: "10pt" }}></canvas>
+            width="800"
+            height="800"
+            style={{
+              width: "100%",
+              height: "auto",
+              display: "block",
+              margin: "auto",
+              maxWidth: "800px",
+              padding: "10pt",
+            }}></canvas>
           <Button
             className="search-button"
             label="View search results"

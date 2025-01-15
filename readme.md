@@ -17,6 +17,7 @@ Google Globe Trends is a tool that allows you to visualize trending search keywo
 
 ### Uncompleted Tasks
 
+-**Responsive display**: Ensuring the chart supports both desktop and mobile views.
 
 ### Completed Tasks
 
