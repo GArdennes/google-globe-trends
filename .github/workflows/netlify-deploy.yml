@@ -1,21 +1,21 @@
-name: Netlify Scheduled Deployment
+# name: Netlify Scheduled Deployment
 
-on:
-  schedule:
-    - cron: '0 12 * * *' # This runs every 24 hours at noon UTC
-  workflow_dispatch: # Allows manual triggering of the action from GitHub Actions
+# on:
+#   schedule:
+#     - cron: '0 12 * * *' # This runs every 24 hours at noon UTC
+#   workflow_dispatch: # Allows manual triggering of the action from GitHub Actions
 
-jobs:
-  deploy:
-    if: github.ref == 'refs/heads/main' # Specify the branch 'main' to trigger on
-    runs-on: ubuntu-latest
+# jobs:
+#   deploy:
+#     if: github.ref == 'refs/heads/main' # Specify the branch 'main' to trigger on
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Trigger Netlify Build with Cache Clearing
-        run: |
-          # Call the Netlify API to trigger a new build and clear the cache
-          curl -X POST \
-          -H "Content-Type: application/json" \
-          -H "Authorization: Bearer ${{ secrets.NETLIFY_ACCESS_TOKEN }}" \
-          -d '{"clear_cache": true}' \
-          https://api.netlify.com/api/v1/sites/${{ secrets.NETLIFY_SITE_ID }}/builds
+#     steps:
+#       - name: Trigger Netlify Build with Cache Clearing
+#         run: |
+#           # Call the Netlify API to trigger a new build and clear the cache
+#           curl -X POST \
+#           -H "Content-Type: application/json" \
+#           -H "Authorization: Bearer ${{ secrets.NETLIFY_ACCESS_TOKEN }}" \
+#           -d '{"clear_cache": true}' \
+#           https://api.netlify.com/api/v1/sites/${{ secrets.NETLIFY_SITE_ID }}/builds
