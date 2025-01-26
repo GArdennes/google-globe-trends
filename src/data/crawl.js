@@ -52,6 +52,10 @@ export default async function crawl(data) {
           "Goal 17 Score": attributes["Goal_17_Score"],
         };
 
+        let rank = attributes["Overall_Rank"] === null 
+          ? "No data" 
+          : `${attributes["Overall_Rank"]}/167`;
+
         const fetchPromise = fetch(
           "https://restcountries.com/v3.1/alpha/" + geoCode,
         )
@@ -62,7 +66,6 @@ export default async function crawl(data) {
             return response.json();
           })
           .then((point) => {
-            console.log(JSON.stringify(point, null, 2)); // Log the entire point object to inspect its structure
             const x = {
               country: countryName,
               ISO: geoCode,
@@ -70,6 +73,7 @@ export default async function crawl(data) {
                 Array.isArray(point) && point.length > 0
                   ? point[0].population
                   : null,
+              rank,
               performance,
             };
 

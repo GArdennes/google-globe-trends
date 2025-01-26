@@ -143,7 +143,8 @@ body {
   justify-content: center; // Center items vertically
   text-align: center;
   font-family: Arial, sans-serif;
-  max-width: 25vw;
+  // max-width: 25vw;
+  width: 600px;
   position: absolute;
   top: 50%;
   right: 10%;
@@ -169,6 +170,15 @@ body {
     display: flex;
     flex-direction: column;
     margin: $spacing * 2 0;
+    padding: 20px;
+  }
+
+  .traffic-info {
+    margin-bottom: 5px; /* Adjust this value as needed */
+  }
+
+  #myChart {
+    padding: 10px;
   }
 }
 

@@ -102,6 +102,16 @@ const getChart = (performance) => {
         legend: {
           display: false,
         },
+        zoom: {
+          zoom: {
+            wheel: {
+              enabled: true,
+            },
+          },
+          pan: {
+            enabled: true,
+          },
+        },
       },
     },
   };
@@ -167,19 +177,9 @@ export default function Details() {
             style={{ fontSize: "2rem", marginBottom: "0rem", color: "white" }}>
             {countryName}
           </h1>
+          <p className="traffic-info">{`Rank: ${focusedMarker.rank}`}</p>
           <p className="traffic-info">{`(Population of ${value})`}</p>
-          <canvas
-            id="myChart"
-            width="800"
-            height="800"
-            style={{
-              width: "100%",
-              height: "auto",
-              display: "block",
-              margin: "auto",
-              maxWidth: "800px",
-              padding: "10pt",
-            }}></canvas>
+          <canvas id="myChart"></canvas>
           <Button
             className="search-button"
             label="View search results"
