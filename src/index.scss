@@ -143,14 +143,14 @@ body {
   justify-content: center; // Center items vertically
   text-align: center;
   font-family: Arial, sans-serif;
-  // max-width: 25vw;
-  width: 600px;
+  width: 500px;
+  max-width: 90vw;
   position: absolute;
   top: 50%;
   right: 10%;
   transform: translate(0, -50%);
   @media only screen and (max-width: $media-phone-max-width) {
-    max-width: 60vw;
+    max-width: 50vw;
     right: $spacing * 2;
   }
 }
