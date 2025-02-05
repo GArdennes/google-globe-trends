@@ -1,275 +1,311 @@
 [
   {
-    "title": "sylvie meis",
+    "title": "zdf mediathek markus lanz heute",
     "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 08:50:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp4GBxrktZrGQIQfMzLBdOXT7RmkD3R0wKyf1ZsZPmVUCG2ILgoPwOYhIm2qk",
-    "picture_source": "Spiegel",
+    "pubdate": "Tue, 4 Feb 2025 23:20:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ3NqpYj8B20Do-x4cmT99ccEUHOgEeVDPM4BiyaJedOJxAHvnt93ufN8EZYk",
+    "picture_source": "ZDF",
     "news_items": [
       {
-        "title": "Ajax Amsterdam verlängert mit Damián van der Vaart, Sohn von Rafael van der Vaart",
+        "title": "Markus Lanz: Zur Migrationsabstimmung im Bundestag und den Perspektiven der SPD",
         "snippet": "",
-        "url": "https://www.spiegel.de/sport/fussball/ajax-amsterdam-verlaengert-mit-damian-van-der-vaart-sohn-von-rafael-van-der-vaart-a-102ac84a-706c-4135-a75a-291f6c894e84",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp4GBxrktZrGQIQfMzLBdOXT7RmkD3R0wKyf1ZsZPmVUCG2ILgoPwOYhIm2qk",
+        "url": "https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-30-januar-2025-102.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ3NqpYj8B20Do-x4cmT99ccEUHOgEeVDPM4BiyaJedOJxAHvnt93ufN8EZYk",
+        "source": "ZDF"
+      },
+      {
+        "title": "„Markus Lanz“ gestern am 4.2.25: Thema und Gäste am Dienstag",
+        "snippet": "",
+        "url": "https://www.augsburger-allgemeine.de/panorama/tv/markus-lanz-gestern-gaeste-thema-am-4-2-2025-105489239",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSob_0kH7_gYMxkPw1qa80TjOAiQBnmqBd4ubUp8AwKWDe-cIU76KTwgceY7qA",
+        "source": "Augsburger Allgemeine"
+      },
+      {
+        "title": "Lanz gestern: Gäste und Themen am 04.02.2025",
+        "snippet": "",
+        "url": "https://www.stuttgarter-nachrichten.de/inhalt.lanz-gestern-gaeste-und-themen-04-02-2025.28fa2255-451b-4257-bc88-292da330c0e5.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXC1VQ8pRJcv26kzMos1iOC0elHo0EnXin1-KohsBcah2rNTAlSvLX3MdXC98",
+        "source": "Stuttgarter Nachrichten"
+      }
+    ]
+  },
+  {
+    "title": "david sacks bitcoin",
+    "link": "https://trends.google.com/trending/rss?geo=DE",
+    "pubdate": "Tue, 4 Feb 2025 23:00:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTItXEAhsWjwjQNqSeI0V36QPE_SNEUePQhEJTBosT4oRyjiZbYenIB4zxJi3Q",
+    "picture_source": "CNBC",
+    "news_items": [
+      {
+        "title": "White House crypto czar David Sacks says first priority is stablecoin legislation",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2025/02/04/trump-crypto-czar-david-sacks-says-priority-is-stablecoin-legislation.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTItXEAhsWjwjQNqSeI0V36QPE_SNEUePQhEJTBosT4oRyjiZbYenIB4zxJi3Q",
+        "source": "CNBC"
+      },
+      {
+        "title": "Trump’s Crypto Czar Is Studying Feasibility of US Bitcoin Reserve",
+        "snippet": "",
+        "url": "https://www.bloomberg.com/news/articles/2025-02-04/crypto-czar-sacks-is-studying-feasibility-of-us-bitcoin-reserve",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7XYy8wh3jvp296QkDw8cnp18ZmR7DtcuTVhAlO9zSqp8gWUsI1h1uauO90Dk",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "US Congress to form cryptocurrency working group",
+        "snippet": "",
+        "url": "https://www.reuters.com/world/us/us-congress-form-cryptocurrency-working-group-2025-02-04/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO-w8LcNjN0X4cYupC1WU7TPWjuiUDjVkcyLrvgl8ZS3QbYxmYVb4xNFtf8GE",
+        "source": "Reuters"
+      }
+    ]
+  },
+  {
+    "title": "golden bachelor franz stärk",
+    "link": "https://trends.google.com/trending/rss?geo=DE",
+    "pubdate": "Tue, 4 Feb 2025 23:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9B7cF6Q3f3hkGxyzIpHKj01pL1LXMwLZRAy4pGPxattxuNP2LbVfITxIPgAw",
+    "picture_source": "BILD.de",
+    "news_items": [
+      {
+        "title": "„Golden Bachelor“: Liebes-Klartext! So ging es nach dem Finale weiter",
+        "snippet": "",
+        "url": "https://www.bild.de/unterhaltung/tv-fernsehformate/golden-bachelor-liebes-klartext-so-ging-es-nach-dem-finale-weiter-679d0ee2103e042fb1b7f327",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9B7cF6Q3f3hkGxyzIpHKj01pL1LXMwLZRAy4pGPxattxuNP2LbVfITxIPgAw",
+        "source": "BILD.de"
+      },
+      {
+        "title": "„Golden Bachelor“-Finale endet mit einem Knall – und der goldenen Rose",
+        "snippet": "",
+        "url": "https://www.rnd.de/medien/golden-bachelor-finale-endet-mit-einem-knall-und-der-goldenen-rose-T6IIEIOKGRLGRDO4UBMZN4UR3M.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTowjR4MdGdXk-vCAXe2B85lgCYX40wLd-9npfdC3JK5sGN2dDXTENzUrAQZ00",
+        "source": "RND.de"
+      },
+      {
+        "title": "„Golden Bachelor“: Wer wann rausflog, wen Franz zur Siegerin kürte und mehr!",
+        "snippet": "",
+        "url": "https://www.tvmovie.de/news/golden-bachelor-gewinnerin-wer-ist-raus-folge-11-fianale-franz-staerk-sylvia-lise-einzeldates-kuesse-reunion-beziehungsstatus-145081",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF20Dv7FN9PsIRhYp_kQrsW438Kodezf7Y9i_TPzn16Ev7S_UM5jGwMXo1CJI",
+        "source": "TVMovie"
+      }
+    ]
+  },
+  {
+    "title": "tv duell",
+    "link": "https://trends.google.com/trending/rss?geo=DE",
+    "pubdate": "Tue, 4 Feb 2025 23:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrgA805IeX2nPwG86JJQmzi62QtFRREPvX1YJGkAB0x_AebR9Fds7Ng0_oo6s",
+    "picture_source": "BILD.de",
+    "news_items": [
+      {
+        "title": "Bundestagswahl: RTL verkündet TV-„Quadrell“ zwischen allen Kanzlerkandidaten",
+        "snippet": "",
+        "url": "https://www.bild.de/politik/bundestagswahl-rtl-verkuendet-tv-quadrell-zwischen-allen-kanzlerkandidaten-67a30019d72ca12c3499efbb",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrgA805IeX2nPwG86JJQmzi62QtFRREPvX1YJGkAB0x_AebR9Fds7Ng0_oo6s",
+        "source": "BILD.de"
+      },
+      {
+        "title": "Scholz, Merz, Weidel und Habeck treffen bei TV-Schlagabtausch aufeinander",
+        "snippet": "",
+        "url": "https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrpuetRK9mkM4gT9SjBeG7i2rjk9A9-VSYmr3wtJa1X2SS3E3IuGT_XnhVxqM",
         "source": "Spiegel"
       },
       {
-        "title": "Stolze Mutter: Sohn von Sylvie Meis feiert einen Meilenstein",
+        "title": "Merz, Scholz, Habeck und Weidel treffen bei Quadrell aufeinander",
         "snippet": "",
-        "url": "https://www.t-online.de/sport/fussball/id_100568050/damian-van-der-vaart-sohn-von-sylvie-meis-feiert-einen-meilenstein.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg-XNcn3u2vetN5JGPOWDGNW-sir3hkixs7s6wRF_1MsMzuda0O1Cus0zN_AE",
-        "source": "T-Online"
-      },
-      {
-        "title": "Sylvie Meis platzt vor Stolz: Sohn Damián erhält neuen Profi-Vertrag",
-        "snippet": "",
-        "url": "https://web.de/magazine/unterhaltung/stars/sylvie-meis-platzt-stolz-sohn-damian-erhaelt-profi-vertrag-40534918",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe7ynOkqgQ35DLYHCO1nj6ANsXUGyosuSaNQFndxi4jqe-8724W5bQNcugsys",
-        "source": "WEB.DE"
+        "url": "https://www.n-tv.de/politik/Merz-Scholz-Habeck-und-Weidel-treffen-bei-Quadrell-aufeinander-article25539844.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM-Sh25JFnuByuVtIQ8VcFRn9ubkiasbyP1U4vpj1QtaVp7DAKc-KOIi-r6HU",
+        "source": "N-TV"
       }
     ]
   },
   {
-    "title": "galatasaray",
+    "title": "whatsapp dritter haken",
     "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 08:40:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMAcur93yOQ88sfsrT_ETA7XknjbcoJHY7ojAa41Nvs4YlGBeItdoYNThW0mo",
-    "picture_source": "Milliyet",
-    "news_items": [
-      {
-        "title": "MUHTEMEL 11'LER! ⚽GS-BAŞAKŞEHİR MAÇI CANLI YAYIN KANALI! Galatasaray-Başakşehir maçı bu akşam saat kaçta hangi kanalda?",
-        "snippet": "",
-        "url": "https://www.milliyet.com.tr/galeri/galatasaray-basaksehir-maci-ne-zaman-saat-kacta-hangi-kanalda-turkiye-kupasi-c-grubu-ilk-macinda-galatasaray-basaksehiri-konuk-edi-7277500",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMAcur93yOQ88sfsrT_ETA7XknjbcoJHY7ojAa41Nvs4YlGBeItdoYNThW0mo",
-        "source": "Milliyet"
-      },
-      {
-        "title": "Galatasaray'da Okan Buruk'tan kupa maçına ince dokunuş",
-        "snippet": "",
-        "url": "https://www.fanatik.com.tr/galatasaray/galatasarayda-okan-buruktan-kupa-macina-ince-dokunus-2568935",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc05F8vc5P-QZ_68jnquJ3NQAX2GNM9g6bhcnODV6HvRQnSuweewSpeM-ChHU",
-        "source": "Fanatik"
-      },
-      {
-        "title": "GALATASARAY - BAŞAKŞEHİR MAÇI CANLI İZLE | ATV canlı yayın ekranı ile Ziraat Türkiye Kupası Galatasaray - Başakşehir maçı izle (Galatasaray ZTK maçı şifresiz izle)",
-        "snippet": "",
-        "url": "https://www.haberturk.com/galatasaray-basaksehir-maci-canli-izle-atv-canli-yayin-ekrani-ile-ziraat-turkiye-kupasi-galatasaray-basaksehir-maci-canli-izle-galatasaray-ztk-maci-sifresiz-izle-3754152",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXTKj9uXkNKQrOPXbN1NjORQIhW5FVWxayUebATm3x1Aa9Mym_lnUltviqFHk",
-        "source": "Habertürk"
-      }
-    ]
-  },
-  {
-    "title": "isabella rossellini",
-    "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 08:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHfHevVMyRmBex-8XL84XL8TrNME_jmZ2NY6o72Z_qtVRcTdjiJQ9WJEomDK8",
-    "picture_source": "AP News",
-    "news_items": [
-      {
-        "title": "Isabella Rossellini says red carpet judgement is hard",
-        "snippet": "",
-        "url": "https://apnews.com/video/isabella-rossellini-john-minchillo-john-carucci-62fd8f3d70814f0bb403f859b8f7204e",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHfHevVMyRmBex-8XL84XL8TrNME_jmZ2NY6o72Z_qtVRcTdjiJQ9WJEomDK8",
-        "source": "AP News"
-      },
-      {
-        "title": "Isabella Rossellini says red carpet judgement is hard",
-        "snippet": "",
-        "url": "https://ca.news.yahoo.com/isabella-rossellini-says-red-carpet-005556874.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXbBpSpmRN4DeB46xBQGjdNSp8Ll2BpTLrCP5rMpRcVijS8exd0q_Y5fWl1cw",
-        "source": "Yahoo News Canada"
-      },
-      {
-        "title": "At 41, was Isabella Rossellini too old to be beautiful in 1994?",
-        "snippet": "",
-        "url": "https://www.theguardian.com/film/2025/jan/05/at-41-was-isabella-rossellini-too-old-to-be-beautiful-in-1994",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEVbm7q7RVtQB3KWJQHUYxxIMYjKWdAHKmMyfWV7SxonHGktcEEoIGqK1-VvI",
-        "source": "The Guardian"
-      }
-    ]
-  },
-  {
-    "title": "florian david fitz",
-    "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 09:00:00 -0800",
+    "pubdate": "Wed, 5 Feb 2025 00:00:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrwKMcPJGISKdgUiJFo20SEXQZoO2gl_r9PWKzfszcl_E27YnUNqTRFJg_GBw",
-    "picture_source": "VOX.de",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQun-sIpySkpQ1Sw7lNuwy7CZ-4XJzBArnj2vxS2UIoIzTBQiJwwhugrn1oauA",
+    "picture_source": "BILD.de",
     "news_items": [
       {
-        "title": "Daniela gesteht bei „First Dates\": „Ich habe Schauspieler Florian David Fitz einen Heiratsantrag gemacht\"",
+        "title": "WhatsApp: Verwirrung um angeblich DRITTEN Haken bei Screenshots!",
         "snippet": "",
-        "url": "https://www.vox.de/cms/daniela-gesteht-bei-first-dates-ich-habe-schauspieler-florian-david-fitz-einen-heiratsantrag-gemacht-5095747.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrwKMcPJGISKdgUiJFo20SEXQZoO2gl_r9PWKzfszcl_E27YnUNqTRFJg_GBw",
-        "source": "VOX.de"
+        "url": "https://www.bild.de/leben-wissen/digital/verwirrung-um-dritten-haken-bei-whatsapp-67a1c92308bc756e749d5f93",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQun-sIpySkpQ1Sw7lNuwy7CZ-4XJzBArnj2vxS2UIoIzTBQiJwwhugrn1oauA",
+        "source": "BILD.de"
       },
       {
-        "title": "\"Hin und weg\"-Schauspieler Florian David Fitz: Zum ersten Mal spricht er über seine Familie",
+        "title": "WhatsApp führt dritten Haken im Chat ein? Das steckt wirklich hinter den Gerüchten",
         "snippet": "",
-        "url": "https://www.joyn.de/bts/themen/allgemein/news/hin-und-weg-schauspieler-florian-david-fitz-zum-ersten-mal-spricht-er-ueber-seine-familie-981",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFf4_kdcmqrpnZ-_LptCNVqzDfaShbYcEo0PidgukCNF36r7LtNBqzojcqVU",
-        "source": "Joyn"
+        "url": "https://www.chip.de/nachrichten/whatsapp,125120/whatsapp-soll-einen-dritten-haken-im-chat-einfuehren-das-steckt-hinter-den-geruechten_4e6f6dbe-e343-474c-9fce-f538b4c81a61.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6zPVCbDtr1mHn1j5Wv1UI6jC3DS8VxIwupRzKd4gYFgzTBoyCJpxmkxoonNs",
+        "source": "CHIP"
+      },
+      {
+        "title": "Achtung: Diese WhatsApp-Neuerung ist ein Fake!",
+        "snippet": "",
+        "url": "https://www.computerbild.de/artikel/cb-News-App-Check-WhatsApp-Neuerung-ist-ein-Fake-39410391.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToke0iZH_b9BvaTcpWhMELC7meMDj5S8iDan22FFdGMy1KymSZDBBm4KnOhDc",
+        "source": "Computer Bild"
       }
     ]
   },
   {
-    "title": "xrp kurs prognose",
+    "title": "a4 sperrung",
     "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 09:00:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 23:40:00 -0800",
     "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShYELup-9ukR9U1i38jHyHhuLZ-35ZNZDEHOLJtMnp4Th2z4OqHS9OXsaWZc0",
+    "picture_source": "RP Online",
+    "news_items": [
+      {
+        "title": "Glatteis am Morgen in NRW: A4 nach Unfällen mit rund 20 Autos gesperrt",
+        "snippet": "",
+        "url": "https://rp-online.de/nrw/panorama/a4-gesperrt-glaette-und-regen-in-nrw-unfall-mit-20-autos_aid-123828953",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShYELup-9ukR9U1i38jHyHhuLZ-35ZNZDEHOLJtMnp4Th2z4OqHS9OXsaWZc0",
+        "source": "RP Online"
+      },
+      {
+        "title": "Gefrierender Regen: Straßen extrem glatt – A 4 gesperrt",
+        "snippet": "",
+        "url": "https://www.oberberg-aktuell.de/blaulicht/gefrierender-regen--stra--en-extrem-glatt-----a---gesperrt-a-111885",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQux3FJDrib3-ir_6J4OaUyeQWRIATTGvYu70noPYzjs5ak4a33TqnYYvM-1LI",
+        "source": "Oberberg-Aktuell"
+      },
+      {
+        "title": "Update: Glatteis im Kreis Olpe – Unfälle und Störungen im Straßenverkehr",
+        "snippet": "",
+        "url": "https://www.lokalplus.nrw/kreis-olpe/update-glatteis-im-kreis-olpe-92961",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3ds1UW1Hq-rNempPfABMiUh9EiMV00HUb9JDcYEa02pi9da58YfuiOXlVQY",
+        "source": "LokalPlus"
+      }
+    ]
   },
   {
-    "title": "madonna di campiglio",
+    "title": "google cloud",
     "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 08:40:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 23:10:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbPIhrgxaKpqpMx-B8dplpjTFe6YOdSn8ry3vOUrKyi1jV7kapm2zF285nhBA",
-    "picture_source": "Fanpage",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_QLJqmntAr0CcZH-w0YsJmBIxHvWqCii8PsQg0vo0Wj_6sBKAk0DKtbm_RBg",
+    "picture_source": "CNBC",
     "news_items": [
       {
-        "title": "Sci alpino oggi in TV, dove vedere lo Slalom Gigante maschile a Madonna di Campiglio: orari e diretta",
+        "title": "Alphabet shares drop as much as 9% on revenue miss, soaring AI investments",
         "snippet": "",
-        "url": "https://www.fanpage.it/sport/sport-invernali/sci-alpino-oggi-in-tv-dove-vedere-lo-slalom-gigante-maschile-a-madonna-di-campiglio-orari-e-diretta/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbPIhrgxaKpqpMx-B8dplpjTFe6YOdSn8ry3vOUrKyi1jV7kapm2zF285nhBA",
-        "source": "Fanpage"
+        "url": "https://www.cnbc.com/2025/02/04/alphabet-q4-earnings-report-2024.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_QLJqmntAr0CcZH-w0YsJmBIxHvWqCii8PsQg0vo0Wj_6sBKAk0DKtbm_RBg",
+        "source": "CNBC"
       },
       {
-        "title": "Tutto pronto per la 3Tre n° 71, Vinatzer vuole accendere la luce azzurra a Campiglio. Alle 17.45 lo start",
+        "title": "Google Parent Alphabet's Stock Slides as Cloud Revenue Disappoints",
         "snippet": "",
-        "url": "https://www.neveitalia.it/sport/scialpino/maschile/news/tutto-pronto-per-la-3tre-n-71-vinatzer-vuole-accendere-la-luce-azzurra-a-campiglio-alle-1745-lo-start",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB7zcXYu3maJFPcjaWX8pTE2fIc8Bs0OW9vjmWYaOC-Qaxelz3lyYDb-ou-nw",
-        "source": "neveitalia.it"
+        "url": "https://www.investopedia.com/google-earnings-q4-fy-2024-update-8785878",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_Y7MrTNmh4ZIVpTsMOW-qDeR2gVX8pJ1aCaekAxj8FnofyJaBtt-RZdTYWMQ",
+        "source": "Investopedia"
       },
       {
-        "title": "Sorteggio Pettorali: a Feller il numero 1. Noël al via con il 4, numero 6 per Kristoffersen",
+        "title": "Alphabet shares fall 7% in Frankfurt after revenue miss",
         "snippet": "",
-        "url": "https://www.campanedipinzolo.it/cronaca-locale/sorteggio-pettorali-a-feller-il-numero-1-noel-al-via-con-il-4-numero-6-per-kristoffersen/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgrSXNRhEPPEqf5cvbPN9bnamUC4fcq9sQBcLYved3XcQcdS2d5S0_m2wmDAI",
-        "source": "Campane di Pinzolo.it"
+        "url": "https://finance.yahoo.com/news/alphabet-shares-fall-7-frankfurt-071347322.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUITsYMvxJZbS4ezK07bQBAXBzKmrgt36Vw5CnRCCIkyIOam3GeaTLEcA7Pbk",
+        "source": "Yahoo Finance"
       }
     ]
   },
   {
-    "title": "gina lisa",
+    "title": "stau a3",
     "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 08:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQp6WcBZGjtMEjGQiQuDYlkKJWpGVXiO41gWkIIIxjuSxxxtS2DF4rVtXpgl6U",
-    "picture_source": "VOX.de",
+    "pubdate": "Wed, 5 Feb 2025 00:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmPRwIm9c5Lm_QxKUTd_C8VQQPR2uxAMNWJPSLf8Swm0GYsb4Chpf-4fwpE6M",
+    "picture_source": "Frankfurter Rundschau",
     "news_items": [
       {
-        "title": "Gina Lisa stellt die Freundin zur Rede",
+        "title": "Massenkarambolage auf der A3: Stau im Feierabendverkehr",
         "snippet": "",
-        "url": "https://www.vox.de/cms/wo-die-liebe-hinfaellt-gina-lisa-ist-in-einer-beziehung-mit-einer-frau-ist-sie-jetzt-gluecklicher-5095766.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQp6WcBZGjtMEjGQiQuDYlkKJWpGVXiO41gWkIIIxjuSxxxtS2DF4rVtXpgl6U",
-        "source": "VOX.de"
-      },
-      {
-        "title": "Gina-Lisa Lohfink und Missy in der Krise",
-        "snippet": "",
-        "url": "https://www.vox.de/videos/gina-lisa-lohfink-und-missy-in-der-krise-6776bfcfad44ce052c0fd1da.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKypzAi8a1VuK36rNozWJr4J8Gm0V_BQtiQl72s3cMVvwv2GY5HNujgjBDM-4",
-        "source": "VOX.de"
-      }
-    ]
-  },
-  {
-    "title": "daniel craig",
-    "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 09:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDKqYsU6Xgs6YQcS9yHyttinXYT4egjyMUz0S6PjMHsKl4JGChVxvSmdguvy4",
-    "picture_source": "IMDb",
-    "news_items": [
-      {
-        "title": "Daniel Craig to Receive London Film Critics’ Circle Top Honor",
-        "snippet": "",
-        "url": "https://www.imdb.com/news/ni65056316/?ref_=nwc_art_plk",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDKqYsU6Xgs6YQcS9yHyttinXYT4egjyMUz0S6PjMHsKl4JGChVxvSmdguvy4",
-        "source": "IMDb"
-      },
-      {
-        "title": "London Film Critics’ Circle To Fete Daniel Craig",
-        "snippet": "",
-        "url": "https://deadline.com/2025/01/london-film-critics-circle-daniel-craig-queer-dilys-powell-award-1236251218/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQAJN1j5DH6c8qPUt8t_uR2xSU9Zyq2B_gtDOeFxivEwS-0Cv1ARDIluyxYTw",
-        "source": "Deadline"
-      },
-      {
-        "title": "Daniel Craig Set for London Critics’ Top Honor – Global Bulletin",
-        "snippet": "",
-        "url": "https://variety.com/2025/film/news/daniel-craig-london-critics-circle-award-1236269589/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqYck4alfQd8X44aC9-sTYKlvCqjBPJeBsWbFAKohNOzGae5EPFhwMOQGUeB0",
-        "source": "Variety"
-      }
-    ]
-  },
-  {
-    "title": "matthäi cup 2025",
-    "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 09:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3cP8bmr2nihr3bRhWjBGTfSXeiEzEVk5c6AfQm1nfKQa5JtOTTZpM9hIWQgY",
-    "picture_source": "Die DeichStube",
-    "news_items": [
-      {
-        "title": "Werder-Legenden in Frankfurt - Hallenturnier im Liveticker: Heute live",
-        "snippet": "",
-        "url": "https://www.deichstube.de/news/werder-bremen-liveticker-legenden-hallenturnier-frankfurt-matthaei-cup-live-ticker-mittwoch-infos-traditionsmannschaft-zr-93502022.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3cP8bmr2nihr3bRhWjBGTfSXeiEzEVk5c6AfQm1nfKQa5JtOTTZpM9hIWQgY",
-        "source": "Die DeichStube"
-      },
-      {
-        "title": "Traditionsturnier in der Frankfurter Ballsporthalle mit viel Prominenz",
-        "snippet": "",
-        "url": "https://www.fr.de/eintracht-frankfurt/traditionsturnier-in-der-frankfurter-ballsporthalle-mit-viel-prominenz-93501588.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS804DWmy3Z-bu8-y75_mL9c6p1r6cSIqOluUPXPdEU1jJ9KZ4oxHv-CBuez8M",
+        "url": "https://www.fr.de/frankfurt/auf-der-a3-in-suedhessen-acht-fahrzeuge-beteiligt-massenkarambolage-zr-93547315.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmPRwIm9c5Lm_QxKUTd_C8VQQPR2uxAMNWJPSLf8Swm0GYsb4Chpf-4fwpE6M",
         "source": "Frankfurter Rundschau"
       },
       {
-        "title": "VfB Legenden treten in Frankfurt an",
+        "title": "Acht Fahrzeuge krachten auf A3 bei Breckenheim ineinander",
         "snippet": "",
-        "url": "https://www.vfb.de/de/vfb/aktuell/neues/club/2025/vfb-legenden-treten-in-frankfurt-an/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpMpckXwmoE03I9hv8WV79gzGlnSryeWOCB99sRrIGkT7bFlGhfNdRnbOt9-s",
-        "source": "VfB Stuttgart"
+        "url": "http://www.wiesbadenaktuell.de/startseite/news-detail-view/article/acht-fahrzeuge-krachten-auf-a3-bei-breckenheim-ineinander.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStKFye-oB9F0eEfiu_VAr8CdT2I-R0x0pz2Q1dLlATKRrF871wM8i7MgIIKuQ",
+        "source": "Wiesbadenaktuell"
+      },
+      {
+        "title": "Zwei schwere Verkehrsunfälle sorgen für massive Staus rund um Wiesbaden",
+        "snippet": "",
+        "url": "https://news-stadt.de/rheingau-wiesbaden/zwei-schwere-verkehrsunfaelle-sorgen-fuer-massive-staus-rund-um-wiesbaden",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSinqTsUxesKhNJhJh1gf-Tuzm-I4t4jppN6tR_yY8l8nMKnrXNS0yusWvqwmU",
+        "source": "News-Stadt"
       }
     ]
   },
   {
-    "title": "robin pietsch",
+    "title": "motogp",
     "link": "https://trends.google.com/trending/rss?geo=DE",
-    "pubdate": "Wed, 8 Jan 2025 09:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NvYl-VDX3gIyGrTMnFa68EC2T5wfeMHFhMEaAPY04v9MJTWpqgYRKM5zRig",
-    "picture_source": "Ostsee Zeitung",
+    "pubdate": "Wed, 5 Feb 2025 00:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVaXkOZOr1OJVD5K3WecOwwZlm6ykOsQwhB6sF3IrlHedkycNIDkT42BF4Uk",
+    "picture_source": "Motorsport-Total.com",
     "news_items": [
       {
-        "title": "„Mein Lokal, dein Lokal“ auf Kabel eins: Restaurants in Kühlungsborn, Boltenhagen, Wismar wollen die Besten sein",
+        "title": "\"Muss noch 1.000 Dinge lernen\": Ai Ogura beim Shakedown bester Rookie",
         "snippet": "",
-        "url": "https://www.ostsee-zeitung.de/mecklenburg-vorpommern/mein-lokal-dein-lokal-auf-kabel-eins-restaurants-in-kuehlungsborn-boltenhagen-wismar-wollen-die-HZANBG36NFGBJPS6DKTBDTZYVA.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NvYl-VDX3gIyGrTMnFa68EC2T5wfeMHFhMEaAPY04v9MJTWpqgYRKM5zRig",
-        "source": "Ostsee Zeitung"
+        "url": "https://www.motorsport-total.com/motogp/news/muss-noch-1000-dinge-lernen-ai-ogura-beim-shakedown-bester-rookie-25020401",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVaXkOZOr1OJVD5K3WecOwwZlm6ykOsQwhB6sF3IrlHedkycNIDkT42BF4Uk",
+        "source": "Motorsport-Total.com"
       },
       {
-        "title": "Heftiger Eklat bei ,,Mein Lokal, Dein Lokal‘‘: HIER kochen die Emotionen über!",
+        "title": "MotoGP-Comeback: Dovizioso unterstützt Yamaha beim Sepang-Shakedown",
         "snippet": "",
-        "url": "https://www.tvdigital.de/aktuelles/fernsehen/heftiger-eklat-bei-mein-lokal-dein-lokal-hier-kochen-die-emotionen-ueber",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyOsBmOIWIOwuZ0uv2k2p3v3x8Opf9VtJJHIyB8_JFJnvd2GASQZZDGsYJSJo",
-        "source": "TV Digital"
+        "url": "https://www.msn.com/de-de/sport/motorsport/motogp-comeback-dovizioso-unterst%C3%BCtzt-yamaha-beim-sepang-shakedown/ar-AA1y3uik",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS714U8NW8czJLlYNdzbqwQB--oGLJ9WF1c0qvCtOklVeksqHld8o55SF7LC3I",
+        "source": "MSN"
       },
       {
-        "title": "\"Es muss endlich was passieren\": Sterne-Koch Robin Pietsch appelliert an Politik",
+        "title": "MotoGP-Wintertest in Sepang: Jorge Martin nach Sturz im Krankenhaus",
         "snippet": "",
-        "url": "https://www.ksta.de/panorama/promis/es-muss-endlich-was-passieren-sterne-koch-robin-pietsch-appelliert-an-politik-933810",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6oNhG3JgJDDMV_x2eYDU7XzU969zX28dO9gTDkLZs8YtqfdPJd7VFDH05hxA",
-        "source": "Kölner Stadt-Anzeiger"
+        "url": "https://de.motorsport.com/motogp/live-text/motogp-wintertest-in-sepang-jorge-martin-nach-sturz-im-krankenhaus/1123889/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREzcwr772MwPlGbZC-5cGtAc2kIOgIiUaqJGNJSpA-gSKDzGgCaKumZbGD650",
+        "source": "Motorsport.com"
+      }
+    ]
+  },
+  {
+    "title": "carsten spohr",
+    "link": "https://trends.google.com/trending/rss?geo=DE",
+    "pubdate": "Tue, 4 Feb 2025 23:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX7T1foPBcykDT979xmyoSLfANgcAh8r2b5CNvdGkx8NJPyqj74kOHpxChXgQ",
+    "picture_source": "fnp.de",
+    "news_items": [
+      {
+        "title": "Lufthansa-Chef wird bei Ticketpreisen deutlich – Änderung am Flughafen Frankfurt",
+        "snippet": "",
+        "url": "https://www.fnp.de/frankfurt/lufthansa-chef-ticketpreise-deutlich-aenderung-flughafen-frankfurt-ita-italienische-tochter-zr-93554007.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX7T1foPBcykDT979xmyoSLfANgcAh8r2b5CNvdGkx8NJPyqj74kOHpxChXgQ",
+        "source": "fnp.de"
+      },
+      {
+        "title": "Lufthansa-Chef: Carsten Spohr sieht ITA bereits in diesem Jahr profitabel",
+        "snippet": "",
+        "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/lufthansa-chef-carsten-spohr-sieht-ita-bereits-in-diesem-jahr-profitabel-01/100105257.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJBwbLhbaIIJh5O_wubcuOrpJFG_R1-bXvoVSdKLbKukn7Ns4Zsl40btypAg",
+        "source": "Handelsblatt"
+      },
+      {
+        "title": "Schlechte Nachrichten für Urlauber: Eine Fluglinie erhöht die Ticketpreise in Europa",
+        "snippet": "",
+        "url": "https://www.chip.de/nachrichten/fitness-freizeit,76109/preissteigerung-bei-airline-eine-fluglinie-erhoeht-die-ticketpreise-in-europa_c25f836a-a1fb-4e9a-801a-b3391e67a298.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMOU-TaMmeAp_PNscmgpHZSmdv945scar4B-K-YqV1Cqe4i5PPqzR8QjjHUGU",
+        "source": "CHIP"
       }
     ]
   }

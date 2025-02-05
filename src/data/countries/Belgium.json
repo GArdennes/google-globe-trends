@@ -1,312 +1,290 @@
 [
   {
-    "title": "sneeuw",
+    "title": "stib",
     "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 04:40:00 -0800",
-    "approx_traffic": 20000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM8BIK2K2IbJCRvwwIskcaRshxHWJfgzr5PHZE5FB_51LQQoFYPI-tmSvSZEo",
-    "picture_source": "Het Nieuwsblad",
-    "news_items": [
-      {
-        "title": "LIVE. Winterprik in ons land: eerste sneeuw begint te vallen in Vlaanderen, zorgt het weer voor problemen tijdens avondspits?",
-        "snippet": "",
-        "url": "https://www.nieuwsblad.be/cnt/dmf20250108_95536825",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM8BIK2K2IbJCRvwwIskcaRshxHWJfgzr5PHZE5FB_51LQQoFYPI-tmSvSZEo",
-        "source": "Het Nieuwsblad"
-      },
-      {
-        "title": "Eerste sneeuwvlokken beginnen te vallen in Oost- en West-Vlaanderen - “We verwachten gemiddeld vijf centimeter sneeuw”",
-        "snippet": "",
-        "url": "https://www.hln.be/weernieuws/eerste-sneeuwvlokken-beginnen-te-vallen-in-oost-en-west-vlaanderen-we-verwachten-gemiddeld-vijf-centimeter-sneeuw~acdcd81e/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNKK3jBO7gXZJ_O0lU1O-LUw_PR1fau0MGCRyqPuw_0muy0HT8IS_v4RZYdVo",
-        "source": "HLN"
-      },
-      {
-        "title": "Sneeuw op komst in Vlaanderen vanavond en vannacht: meer dan 500 strooiwagens rijden uit",
-        "snippet": "",
-        "url": "https://www.vrt.be/vrtnws/nl/2025/01/08/sneeuw-weerbericht/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTcCO7UMxZt75rujIAiPyy6zue_ctPLc7ZtKp8VVVNrEwOB79mYTdq0hlGmn4",
-        "source": "VRT"
-      }
-    ]
-  },
-  {
-    "title": "weerbericht sneeuw",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 03:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR22UgNjdPfC2YhOYfmwv6PTLAljMz4AHT-VOujgMayyKtWLQZ27Kil9A_e9nI",
-    "picture_source": "NoodweerBenelux",
-    "news_items": [
-      {
-        "title": "Krijgen we een heuse sneeuwverrassing woensdag en donderdag?",
-        "snippet": "",
-        "url": "https://www.noodweer.be/krijgen-we-een-heuse-sneeuwverrassing-woensdag-en-donderdag-060125/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR22UgNjdPfC2YhOYfmwv6PTLAljMz4AHT-VOujgMayyKtWLQZ27Kil9A_e9nI",
-        "source": "NoodweerBenelux"
-      },
-      {
-        "title": "Twee automobilisten verongelukt door gladheid, tientallen gewonden gemeld",
-        "snippet": "",
-        "url": "https://nos.nl/l/2550939",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2H1QLnapJFJ-KkRnaVnvbRNzxDHrGgYo8gDK8hNEeSAQxfc_eDBo2NtClYwg",
-        "source": "NOS"
-      },
-      {
-        "title": "Weer veel zout op de wegen gestrooid om gladheid",
-        "snippet": "",
-        "url": "https://www.telegraaf.nl/nieuws/943887845/sneeuwdek-tot-10-centimeter-verwacht-in-limburg-en-waarschuwing-voor-vertragingen-op-weg-en-spoor",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIpsieZYgFw-F20mmse67lSLWVOmRn4fiupxsgSK13F0R6z5-dKV8fdJNiTao",
-        "source": "Telegraaf"
-      }
-    ]
-  },
-  {
-    "title": "ketnet",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 04:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRddXANJfUwja4aF7E98FNiiSIAPjDKVDszcfw22aw6VhdEx8AC1uprrAKzWwA",
-    "picture_source": "VRT",
-    "news_items": [
-      {
-        "title": "Hallo kroket!: de terugkeer van live avontuur op Ketnet",
-        "snippet": "",
-        "url": "https://www.vrt.be/nl/over-ons/nieuws-over-vrt/hallo-kroket-de-terugkeer-van-live-avontuur-op-ketnet",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRddXANJfUwja4aF7E98FNiiSIAPjDKVDszcfw22aw6VhdEx8AC1uprrAKzWwA",
-        "source": "VRT"
-      },
-      {
-        "title": "Nostalgie: iconische Ketnet-kroket keert terug naar jongerenzender in nieuwe show",
-        "snippet": "",
-        "url": "https://www.hln.be/tv/nostalgie-iconische-ketnet-kroket-keert-terug-naar-jongerenzender-in-nieuwe-show~a6ac921d/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhtM0Tc2rxQPmD5qCVxvuqIoI3GVqSgbZEHLDGcbclToJxUFA2GPqIQWqTXg0",
-        "source": "HLN"
-      },
-      {
-        "title": "De Ketnet-kroket is vanaf vanavond terug!",
-        "snippet": "",
-        "url": "https://www.msn.com/nl-be/nieuws/other/de-ketnet-kroket-is-vanaf-vanavond-terug/ar-AA1x2E2G",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmgZeiy-5jQjFBoLMPN9hwJxbOkib-FK-pj12Eae8DVZQ5DkELfhYxQujbTZk",
-        "source": "MSN"
-      }
-    ]
-  },
-  {
-    "title": "fernando alonso",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 03:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetuel6ga2tKddZYLOxOT1VDROiBVFvtDmlZSR1gKioG3UUcCRdSLTMy6Ik1Y",
-    "picture_source": "Motorsport Week",
-    "news_items": [
-      {
-        "title": "Aston Martin makes stark admission amid recent F1 troubles",
-        "snippet": "",
-        "url": "https://www.motorsportweek.com/2025/01/08/aston-martin-makes-stark-admission-amid-recent-f1-troubles/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetuel6ga2tKddZYLOxOT1VDROiBVFvtDmlZSR1gKioG3UUcCRdSLTMy6Ik1Y",
-        "source": "Motorsport Week"
-      },
-      {
-        "title": "Mike Krack Brutal Confession as Aston Martin Falls from Grace in 2024",
-        "snippet": "",
-        "url": "https://www.si.com/fannation/racing/f1briefings/news/mike-krack-brutal-confession-as-aston-martin-falls-from-grace-in-2024-01jgxp2t73fk",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTO_0yNNgv4n0iSlN6VmOBRjYQtekMPkm1ZXxct8HeeV16BbF4cPO3590dXAGM",
-        "source": "Sports Illustrated"
-      },
-      {
-        "title": "Aston Martin eyes Star Wars dream with ‘Yoda’ Adrian Newey",
-        "snippet": "",
-        "url": "https://www.yardbarker.com/formula_one/articles/aston_martin_eyes_star_wars_dream_with_yoda_adrian_newey/s1_17325_41490635",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUPYsHTDCgQh9l_BAdQ_4cASB_Gm1XmycpabSVgrhK--IaIGtxhzL2BsmW5pQ",
-        "source": "Yardbarker"
-      }
-    ]
-  },
-  {
-    "title": "cecilia sala",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 03:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQamOvzE1bjkHAwIULtMcJ1NSlulNJ9xxr5cbiDH4We58A8-B7cpqR1OBF_0cs",
-    "picture_source": "Corriere della Sera",
-    "news_items": [
-      {
-        "title": "Cecilia Sala arrivata in Italia, le ultime notizie in diretta | La giornalista a Ciampino, l'abbraccio col compagno Daniele Raineri: «Ciao, sono tornata»",
-        "snippet": "",
-        "url": "https://www.corriere.it/politica/diretta-live/25_gennaio_08/rientro-cecilia-sala-diretta.shtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQamOvzE1bjkHAwIULtMcJ1NSlulNJ9xxr5cbiDH4We58A8-B7cpqR1OBF_0cs",
-        "source": "Corriere della Sera"
-      },
-      {
-        "title": "Una sponda con l’Italia e gli europei: ecco perché Teheran ha accettato la svolta sul caso Sala",
-        "snippet": "",
-        "url": "https://www.repubblica.it/esteri/2025/01/08/news/sala_governo_pezeshkian_servizi_sicurezza-423925192/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc_IAbVisj_P1eNwGe7l58WBzuentrtnJqlflphxI6kwE6quJBTRMDK5-_aUw",
-        "source": "la Repubblica"
-      },
-      {
-        "title": "La liberazione di Cecilia Sala",
-        "snippet": "",
-        "url": "https://www.ilpost.it/2025/01/08/cecilia-sala-liberata/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiAvP-6tPWLMyLr3mgUUQfm9EcX5Nx-imLmEWl9QDM2woO4TlqfuEok6BvS-Y",
-        "source": "Il Post"
-      }
-    ]
-  },
-  {
-    "title": "galatasaray",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 09:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrpdjPGKFICPwC2MF_4IkpRJtOGUMMm2y8JRzHRi1jeNaP6kz5TZEyc1wYDQs",
-    "picture_source": "Oxu.Az",
-    "news_items": [
-      {
-        "title": "Galatasaray'ın Başakşehir maçındaki karşılaşma kadrosu belli oldu",
-        "snippet": "",
-        "url": "https://oxu.az/tr/spor/galatasaray-in-basaksehir-macindaki-karsilasma-kadrosu-belli-oldu",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrpdjPGKFICPwC2MF_4IkpRJtOGUMMm2y8JRzHRi1jeNaP6kz5TZEyc1wYDQs",
-        "source": "Oxu.Az"
-      },
-      {
-        "title": "Galatasaray'ın Türkiye Kupası mesaisi başlıyor: Takımda son durum ve Başakşehir maçı ilk 11'i belli oldu",
-        "snippet": "",
-        "url": "https://www.ntv.com.tr/galeri/sporskor/galatasarayin-turkiye-kupasi-mesaisi-basliyor-takimda-son-durum-ve-basaksehir-maci-ilk-11i-belli-oldu,_48fGXlF-EeqHkCoOu6GFA",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1Tlc7N4sV4dtMDv82yj1RLHZBGxpQEQeQBV71fH_HL6HM8NDlp6tctGenhYQ",
-        "source": "NTV Haber"
-      },
-      {
-        "title": "Galatasaray Türkiye Kupası'nda sezonu Başakşehir maçıyla açıyor, Şampiyon Oran farkı Misli'de öne çıkıyor!",
-        "snippet": "",
-        "url": "https://www.milliyet.com.tr/skorer/galatasaray-turkiye-kupasinda-sezonu-basaksehir-maciyla-aciyor-sampiyon-oran-farki-mislide-one-cikiyor-7277679",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJuhYpMZniC-D9zlnNXufxJpQet1gF3LWqEpl_49P1LUIP4RQiAbefHp0p0Q",
-        "source": "Milliyet"
-      }
-    ]
-  },
-  {
-    "title": "neige",
-    "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 08:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3fUT-FhiksCYLrWni-MGFSP9dxyJc5gYcvZ_tcO5zCW7j-D4uNUEcDvtxkGQ",
+    "pubdate": "Tue, 4 Feb 2025 22:20:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4Gne8X1Iy-V3VEDO9TKbWWgxw6qzwqqy3yicC3cGZLUCzNA5Qtc0DWNLOgpQ",
     "picture_source": "RTL info",
     "news_items": [
       {
-        "title": "DIRECT: la neige est arrivée en Belgique, le sud du pays se couvre de blanc",
+        "title": "\"Évacuation de la station de métro Clémenceau\": des coups de feu entendus à Anderlecht, les auteurs armés en fuite",
         "snippet": "",
-        "url": "https://www.rtl.be/actu/belgique/meteo/direct-la-neige-est-arrivee-en-belgique-le-sud-du-pays-se-couvre-de-blanc/2025-01-08/article/734677",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3fUT-FhiksCYLrWni-MGFSP9dxyJc5gYcvZ_tcO5zCW7j-D4uNUEcDvtxkGQ",
+        "url": "https://www.rtl.be/actu/regions/bruxelles/evacuation-de-la-station-de-metro-clemenceau-des-coups-de-feu-entendus/2025-02-05/article/738145",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4Gne8X1Iy-V3VEDO9TKbWWgxw6qzwqqy3yicC3cGZLUCzNA5Qtc0DWNLOgpQ",
         "source": "RTL info"
       },
       {
-        "title": "Météo: les prochaines heures s'annoncent compliquées sur les routes, jusqu'à 10 centimètres de neige attendus sur le centre du pays",
+        "title": "Circulation du métro interrompue depuis 6h30 sur les lignes 2 et 6, entre Porte de Halle et Gare de l’Ouest",
         "snippet": "",
-        "url": "https://www.dhnet.be/actu/belgique/2025/01/08/meteo-les-prochaines-heures-sannoncent-compliquees-sur-les-routes-jusqua-10-centimetres-de-neige-attendus-sur-le-centre-du-pays-CNW3X5P3BFA2JJ6A7T65GMNA6E/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQic3wxqOXLBATF1UzVKOtxg7NYWNDb4iRM-XoXLJZWbPG1NIn2Lq6E4q5ePa8",
+        "url": "https://www.rtbf.be/article/circulation-du-metro-interrompue-depuis-6h30-sur-les-lignes-2-et-6-entre-porte-de-halle-et-gare-de-l-ouest-11499473",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_aNtX5DIUSXKxn6uXjq2H9TVg8ohMnOkZXr1iN9sE-CgNok98ixN-8eHcJdM",
+        "source": "RTBF"
+      },
+      {
+        "title": "Bruxelles : les lignes de métro 2 et 6 interrompues, des perturbations importantes pour les usagers",
+        "snippet": "",
+        "url": "https://www.lesoir.be/653274/article/2025-02-05/bruxelles-les-lignes-de-metro-2-et-6-interrompues-des-perturbations-importantes",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu0DJIBAnOslT7ACS3Nu_UUOxCbuCSWgIvq_ciij6eaW0T19JwVv1ytdnlE3I",
+        "source": "Le Soir"
+      }
+    ]
+  },
+  {
+    "title": "sncb",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Sj_9GsD1k9oDbRIBabLCl0KuY1wGvcnzDSbTe68A3-WrdW2UOhe3GDQrG_Q",
+    "picture_source": "Sudinfo",
+    "news_items": [
+      {
+        "title": "« C’est un scandale, de la part du personnel et des médecins » : Bouchez réagit aux 45 absences pour maladie chez les cheminots à Charleroi, après l’accord de gouvernement",
+        "snippet": "",
+        "url": "https://www.sudinfo.be/id949135/article/2025-02-04/cest-un-scandale-de-la-part-du-personnel-et-des-medecins-bouchez-reagit-aux-45",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Sj_9GsD1k9oDbRIBabLCl0KuY1wGvcnzDSbTe68A3-WrdW2UOhe3GDQrG_Q",
+        "source": "Sudinfo"
+      },
+      {
+        "title": "\"Les conducteurs se sont tous fait porter pâles\": importantes perturbations en gare de Namur, la même situation constatée à Ottignies",
+        "snippet": "",
+        "url": "https://www.rtl.be/actu/regions/namur/les-conducteurs-se-sont-tous-fait-porter-pales-importantes-perturbations-en-gare/2025-02-03/article/737944",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWtGy4ZHmx25wH8dwsOzfOwRmHWwyuUnGmT_EjEFJ57PnFcZ4arP9pVtJ2PE",
+        "source": "RTL info"
+      },
+      {
+        "title": "Plusieurs trains supprimés en raison de personnel malade: “Sans doute une réaction aux mesures de l’Arizona”",
+        "snippet": "",
+        "url": "https://www.7sur7.be/belgique/plusieurs-trains-supprimes-en-raison-de-personnel-malade-sans-doute-une-reaction-aux-mesures-de-larizona~a1ffaa8d/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_q1iSSlrCb3qnaGv0J-YrLGNDLvspFfSW3nlvNDEw52qLLhN-HQO9d3em6Yk",
+        "source": "7sur7.be"
+      }
+    ]
+  },
+  {
+    "title": "deborah françois",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Tue, 4 Feb 2025 23:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjmFPag17-i1-g5yB_QQYdjMGU0459i0gJcSOrgKbLizKICKAL62Sb0gVnOx4",
+    "picture_source": "RTBF",
+    "news_items": [
+      {
+        "title": "Magritte du cinéma 2025 : l'actrice Déborah François présidente de la 14e cérémonie",
+        "snippet": "",
+        "url": "https://www.rtbf.be/article/magritte-du-cinema-2025-l-actrice-deborah-francois-presidente-de-la-14e-ceremonie-11499460",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjmFPag17-i1-g5yB_QQYdjMGU0459i0gJcSOrgKbLizKICKAL62Sb0gVnOx4",
+        "source": "RTBF"
+      },
+      {
+        "title": "Déborah François, la nouvelle présidente des Magritte: \"Si ça me fait peur, c'est qu'il faut le faire\"",
+        "snippet": "",
+        "url": "https://www.dhnet.be/medias/cinema/2025/02/05/deborah-francois-la-nouvelle-presidente-des-magritte-si-ca-me-fait-peur-cest-quil-faut-le-faire-ANTYA635SJH2LECW5XQCZPRDB4/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUZghgu5JUzKzw-yJkl77U1r7zmOj9XDdOEa_CfQvLwPi8jogjaVxFtJeC6R0",
         "source": "DHnet"
       },
       {
-        "title": "DIRECT – La Belgique face à une nouvelle offensive hivernale : déjà une accumulation de plusieurs centimètres de neige en région verviétoise et en province de Luxembourg",
+        "title": "Le retour de Déborah François en présidente des Magritte",
         "snippet": "",
-        "url": "https://www.sudinfo.be/id936357/article/2025-01-08/direct-la-belgique-face-une-nouvelle-offensive-hivernale-deja-une-accumulation",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpVBTuYCnPmF3f0oXsnLR-C4EXKCxNx3GW2un7P4FQyP2xzrUmKh94QDbU7H0",
-        "source": "Sudinfo"
+        "url": "https://www.lalibre.be/culture/cinema/2025/02/05/le-retour-de-deborah-francois-en-presidente-des-magritte-HY6A27LOQVB7LGOVVMGDMIS4RQ/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwWpyNboj1hvtG3ckkBpgKIG0avwYD0plRxo2P4fRQ500C3MTgP2csM_gN3lM",
+        "source": "La Libre.be"
       }
     ]
   },
   {
-    "title": "brigitte macron",
+    "title": "trump gaza",
     "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 04:30:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 23:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRssDK39n65OevE-JrMcLnagD3KWHufJkYPCJfFSfgZjYfYLfUD7fi8Q5kSoE",
-    "picture_source": "7sur7.be",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIiubjCev3X_cs_BIT2n4iVuGi8BDdiAOdDJC25GyFhuMEgRrB4Kvcdu32jFY",
+    "picture_source": "The Guardian",
     "news_items": [
       {
-        "title": "Brigitte Macron prend la défense de son mari, parfois “meurtri” par les critiques: “Il mérite le respect”",
+        "title": "Trump declares US will ‘take over’ Gaza Strip and says Palestinians should move to neighbouring countries – live",
         "snippet": "",
-        "url": "https://www.7sur7.be/monde/brigitte-macron-prend-la-defense-de-son-mari-parfois-meurtri-par-les-critiques-il-merite-le-respect~acc21dd4/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRssDK39n65OevE-JrMcLnagD3KWHufJkYPCJfFSfgZjYfYLfUD7fi8Q5kSoE",
-        "source": "7sur7.be"
+        "url": "https://www.theguardian.com/world/live/2025/feb/05/trump-gaza-take-over-reaction-israel-netanyahu-middle-east-latest-live",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIiubjCev3X_cs_BIT2n4iVuGi8BDdiAOdDJC25GyFhuMEgRrB4Kvcdu32jFY",
+        "source": "The Guardian"
       },
       {
-        "title": "\"S'il y a une chose qu'Emmanuel mérite, c'est le respect\" : Brigitte Macron défend l'action de son mari sur TF1",
+        "title": "Trump’s Gaza ‘Riviera’ plan is the most outlandish idea in the history of US Middle East peacemaking",
         "snippet": "",
-        "url": "https://www.tf1info.fr/politique/video-s-il-y-a-une-chose-qu-emmanuel-merite-c-est-le-respect-brigitte-macron-defend-l-action-de-son-mari-sur-tf1-2343657.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpxOmZN830-TTCG00v6WJdn_0RtxtEsKVbj9_CNZb5juNXMdNj5X6Wb3bXpqc",
-        "source": "TF1 Info"
+        "url": "https://www.cnn.com/2025/02/05/politics/trump-gaza-takeover-analysis/index.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB404M-OgiVPprLhE6qOZPJ7YWO5lMVFtolytBVP3Rabq1t6Y3PwLZLggKYw4",
+        "source": "CNN"
       },
       {
-        "title": "Brigitte Macron juge que son mari est \"meurtri\" par les critiques et \"mérite le respect\"",
+        "title": "Arab nations reject Trump’s suggestion to relocate Palestinians from Gaza to Egypt and Jordan",
         "snippet": "",
-        "url": "https://www.bfmtv.com/politique/elysee/brigitte-macron-juge-que-son-mari-est-meurtri-par-les-critiques-et-merite-le-respect_AN-202501080601.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP9u63nuvhj1xjPbw1TmvfPyL_aAEmFQ2NGOvaYL_EqwCLNznFWagGw6iuxPs",
-        "source": "BFMTV"
+        "url": "https://apnews.com/article/mideast-egypt-jordan-palestinians-trump-51dc4d5225e6bc0a135b7bbafedb3d86",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYWQmT2FIhn1lrENIZN3Nf6AzGauGqIVAHX3mgI_DAc_cJfS1n1TpCDGyUR14",
+        "source": "AP News"
       }
     ]
   },
   {
-    "title": "didier deschamps",
+    "title": "ronaldo",
     "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 04:30:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 22:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8jCkraKumGImzZ1hEs8EA3AgzonLdvuaTH1rwkmQ2wmLo8dB2u9HDqHM3Jtc",
-    "picture_source": "7sur7.be",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR38zMuiTsEBSqfx_j9vGgLIePI650IRzJvQcoS9aVV1H4Jua-vFm5e9j8UBmw",
+    "picture_source": "E! Online",
     "news_items": [
       {
-        "title": "“Dans ma tête, c’est bien clair”: Didier Deschamps annonce qu’il quittera les Bleus après le Mondial 2026",
+        "title": "Photos from A Guide to Cristiano Ronaldo's Family",
         "snippet": "",
-        "url": "https://www.7sur7.be/football/dans-ma-tete-cest-bien-clair-didier-deschamps-annonce-quil-quittera-les-bleus-apres-le-mondial-2026~a5907b98/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8jCkraKumGImzZ1hEs8EA3AgzonLdvuaTH1rwkmQ2wmLo8dB2u9HDqHM3Jtc",
-        "source": "7sur7.be"
+        "url": "https://www.eonline.com/photos/37515/a-guide-to-cristiano-ronaldos-family",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR38zMuiTsEBSqfx_j9vGgLIePI650IRzJvQcoS9aVV1H4Jua-vFm5e9j8UBmw",
+        "source": "E! Online"
       },
       {
-        "title": "Oubliez Zidane, votez Genesio ! - International - France",
+        "title": "‘My life changed’ – Cristiano Ronaldo shopping trip turned Georgina Rodriguez’s world upside down to become...",
         "snippet": "",
-        "url": "https://www.sofoot.com/articles/equipe-de-france-apres-lannonce-de-depart-de-didier-deschamps-votez-bruno-genesio-plutot-que-zinedine-zidane",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAfJUQWqIqn4r6E76CWr8sJo-Yp2OjAdiZPZFWhczbjDMVHdeMTa_KWc6Mnp0",
-        "source": "So Foot"
+        "url": "https://talksport.com/football/2447348/cristiano-ronaldo-georgina-rodriguez-gucci-married/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbH7TYSbkhmMXuObP-2Az9tkRs7n-cIjGCZVXempZmJxAd3ClDb91Hghff5qE",
+        "source": "talkSPORT"
       },
       {
-        "title": "« Cela va libérer tout le monde » : Philippe Diallo, le président de la FFF, sur le départ de Didier Deschamps en 2026",
+        "title": "UPI Almanac for Wednesday, Feb. 5, 2025",
         "snippet": "",
-        "url": "https://www.lequipe.fr/Football/Article/Philippe-diallo-le-president-de-la-fff-sur-le-depart-de-didier-deschamps-en-2026-cela-va-liberer-tout-le-monde/1530735",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXlY-GQMChK6lK68M2sbWXcpb_HOWjCUhPsljMU9nPIZZ-ucMNM-CmDi0zCg4",
-        "source": "L'Équipe"
+        "url": "https://www.upi.com/Top_News/2025/02/05/UPI-Almanac-for-Wednesday-Feb-5-2025/7071738722532/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6tpaNp6y2qvTK4IA51FnoSSQKD7LqdW7Hd0cjVsLOkByW1eOt5M_3rn8dqA",
+        "source": "upi"
       }
     ]
   },
   {
-    "title": "alonso",
+    "title": "clippers – lakers",
     "link": "https://trends.google.com/trending/rss?geo=BE",
-    "pubdate": "Wed, 8 Jan 2025 04:00:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgpt27vrRlFfiSwMo96yZSvaXm3ggNDzoBlWqM_MtI_8Od7GCZvkcO7kOHcwM",
-    "picture_source": "MotorcycleSports",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kecZZdEwJHxp7Sf8l6albukKf-RIyitHetNQ2efHX1sxGintqjdfeaTX-vY",
+    "picture_source": "Yahoo Sports",
     "news_items": [
       {
-        "title": "Las luchas de Aston Martin en la F1 de 2024: Mike Krack reflexiona sobre una temporada decepcionante.",
+        "title": "Clippers coach Tyronn Lue rips his team after loss to the Lakers",
         "snippet": "",
-        "url": "https://motorcyclesports.net/es/las-dificultades-de-aston-martin-en-la-f1-2024-mike-krack-reflexiona-sobre-una-temporada-decepcionante/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgpt27vrRlFfiSwMo96yZSvaXm3ggNDzoBlWqM_MtI_8Od7GCZvkcO7kOHcwM",
-        "source": "MotorcycleSports"
+        "url": "https://sports.yahoo.com/clippers-coach-tyronn-lue-rips-073143733.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kecZZdEwJHxp7Sf8l6albukKf-RIyitHetNQ2efHX1sxGintqjdfeaTX-vY",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "El jefe de Aston Martin le agradece a Fernando Alonso y a Stroll que no hayan \"criticado\" al equipo",
+        "title": "Kawhi Leonard stats tonight: How did the Clippers star fare in latest Battle of LA? (Feb. 4)",
         "snippet": "",
-        "url": "https://www.lasexta.com/noticias/deportes/motor/formula1/jefe-aston-martin-agradece-fernando-alonso-stroll-que-hayan-criticado-equipo_202501026776ae84af2175000145346e.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx49AGcboPIPZ7j-pEny9XstegD9rGfHXpYhLnYqBC6JJoztMWFsRrCTpGWQM",
-        "source": "LaSexta"
+        "url": "https://www.sportskeeda.com/basketball/news-kawhi-leonard-stats-tonight-how-clippers-star-fare-latest-battle-la-feb-4",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcPp-xawdfcJN4iDXuj8dYQCp53IVkH615zrdBmxWfOGvK2Hj3ytwnU1Ft5RI",
+        "source": "Sportskeeda"
       },
       {
-        "title": "Mike Krack rebate la afirmación de Fernando Alonso: “Mercedes ganó carreras y tuvo menos tiempo en el túnel”",
+        "title": "Kawhi Leonard's Blunt Statement After Clippers' Blowout Loss to Lakers",
         "snippet": "",
-        "url": "https://www.motor.es/formula-1/mike-krack-rebate-fernando-alonso-mercedes-f1-gano-carreras-2025105974.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6xf6fIh-IRKqBW4XnzUFBqJbjzG9Xkd75mPNSo1Ipl7WJ_oSYMBxFQfpTBw",
-        "source": "Motor.es"
+        "url": "https://www.si.com/nba/clippers/news/kawhi-leonard-s-blunt-statement-after-clippers-blowout-loss-to-lakers-01jkabqtk17s",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg8rZ0UpJOk1d784JPyuJ6IBNkOYH9EnlnNp-iJLlZJYpuY-ailHGOTdr_rPs",
+        "source": "Sports Illustrated"
       }
     ]
+  },
+  {
+    "title": "eendenkroos",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Wed, 5 Feb 2025 00:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2NKxlYeOatNA8NlAUfqFIyOm9-tTvLlvyiKRsYrX3nRDvzXy8aOGmAo89yss",
+    "picture_source": "Het Nieuwsblad",
+    "news_items": [
+      {
+        "title": "“Het groeit als onkruid op water. In de zomer ga ik om de twee dagen kunnen oogsten”: deze Vlaamse kwekers staan te popelen om eendenkroos te serveren",
+        "snippet": "",
+        "url": "https://www.nieuwsblad.be/cnt/dmf20250204_96557055",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2NKxlYeOatNA8NlAUfqFIyOm9-tTvLlvyiKRsYrX3nRDvzXy8aOGmAo89yss",
+        "source": "Het Nieuwsblad"
+      },
+      {
+        "title": "Straks eendenkroos in je stamppot of pesto? EU keurt verkoop van groente goed",
+        "snippet": "",
+        "url": "https://www.nu.nl/wetenschap/6344616/straks-eendenkroos-in-je-stamppot-of-pesto-eu-keurt-verkoop-van-groente-goed.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJcYa5j4r8M10FUCnbdxQTu-5czVxkLqk5V993AJPVMUmI-D2Nc-aUoWhSfBs",
+        "source": "NU"
+      },
+      {
+        "title": "Productie en consumptie waterlinzen toegestaan: eerste teler staat in de startblokken",
+        "snippet": "",
+        "url": "https://vilt.be/nl/nieuws/productie-en-consumptie-waterlinzen-toegestaan-eerste-teler-staat-in-de-startblokken",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRadYRLZvSdHWaC1kE3ddbmpzX7nkelonYGYafOH9bRC3G30BhtQagvk54rvkg",
+        "source": "VILT vzw"
+      }
+    ]
+  },
+  {
+    "title": "metro",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Wed, 5 Feb 2025 00:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKC1x9blOO_QGUspw9hyxB3xLsN-pFGAeFzGE9eI2VWpAekXGLhvlc2OOJTWo",
+    "picture_source": "QCity Metro",
+    "news_items": [
+      {
+        "title": "Today in Charlotte (Feb. 5)",
+        "snippet": "",
+        "url": "https://qcitymetro.com/2025/02/05/today-in-charlotte-feb-5/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKC1x9blOO_QGUspw9hyxB3xLsN-pFGAeFzGE9eI2VWpAekXGLhvlc2OOJTWo",
+        "source": "QCity Metro"
+      },
+      {
+        "title": "Businesses close, children skip school for ‘a day without immigrants’ protest",
+        "snippet": "",
+        "url": "https://www.latimes.com/politics/story/2025-02-03/businesses-close-children-skip-school-for-a-day-without-immigrants-protest",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvzI_q5SrQd9dqID6UjA6vwB0EpPDbSI6xzIZhhKcsmVgKCYue_ny-HHlvxA",
+        "source": "Los Angeles Times"
+      },
+      {
+        "title": "Minneapolis grocery seeks to help migrant families on \"A Day Without Immigrants\"",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/minnesota/news/a-day-without-immigrants-movement-planned-for-monday/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1gOvzMn_TQJkbCIMdhwZRRS5ZGgmbNxZogHifxHbcNpo8HjjDYwP9RD9WBs",
+        "source": "CBS News"
+      }
+    ]
+  },
+  {
+    "title": "aga khan",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Tue, 4 Feb 2025 22:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSem5J38QGoc52CIAbnuAWVy5K3HkBKBRaRGQ-Tijrn5wEA3coOpjF8ZlnE1Eo",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Aga Khan: Billionaire and spiritual leader dies at 88",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/c9vmlk4rzzjo",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSem5J38QGoc52CIAbnuAWVy5K3HkBKBRaRGQ-Tijrn5wEA3coOpjF8ZlnE1Eo",
+        "source": "BBC"
+      },
+      {
+        "title": "The Aga Khan, spiritual leader of the world’s Ismaili Muslims, has died at age 88",
+        "snippet": "",
+        "url": "https://www.cnn.com/2025/02/04/world/aga-khan-ismaili-muslim-obit-intl-latam/index.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT8Duz-Xq40hCUHV_Npo1mrKEP-RwJjmwvQsxqBIuN8qykKVfUlqBnrF3Dim4",
+        "source": "CNN"
+      },
+      {
+        "title": "The Aga Khan IV, Wealthy Leader of the Ismaili Muslims, Dies at 88",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2025/02/04/world/the-aga-khan-iv-dead.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH2kQjBuqlEG2epxOKT2VtrJgV_mCjoirh8e0h4W6PUTVlQiCfSyay8WHhHX0",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "title": "dhnet",
+    "link": "https://trends.google.com/trending/rss?geo=BE",
+    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
   }
 ]

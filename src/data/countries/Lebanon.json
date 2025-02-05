@@ -1,249 +1,311 @@
 [
   {
-    "title": "جهاد ازعور",
+    "title": "الطقس غدًا",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Tue, 7 Jan 2025 09:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyBU3SAeNaeTB3w6uZf-P2S76ORlM29GhJ-qAhm5Z2u2Rrj1PYSBXs30pbFEo",
-    "picture_source": "Elnashra",
+    "pubdate": "Tue, 4 Feb 2025 10:40:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIfNbXSd5PRo_1xywK_OUpZmKakqsK7x6Vo4LIB5nVVUT1kbJCX6tgbbu-dXE",
+    "picture_source": "الوطن",
     "news_items": [
       {
-        "title": "سيزار المعلوف: المرشح صاحب الحظ الذي ممكن ان يحظى بتوافق داخلي ودعم خارجي هو جهاد ازعور",
+        "title": "عاجل.. «أمطار غزيرة لمدة 10 أيام».. تفاصيل التقلبات الجوية بسبب «نوات الإسكندرية»",
         "snippet": "",
-        "url": "https://www.elnashra.com/news/show/1705383/%D8%B3%D9%8A%D8%B2%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%81-%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AD-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D8%AD%D8%B8-%D8%A7%D9%84%D8%B0%D9%8A-%D9%85%D9%85%D9%83%D9%86-%D9%8A%D8%AD%D8%B8%D9%89-%D8%A8%D8%AA%D9%88%D8%A7",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyBU3SAeNaeTB3w6uZf-P2S76ORlM29GhJ-qAhm5Z2u2Rrj1PYSBXs30pbFEo",
-        "source": "Elnashra"
+        "url": "https://www.elwatannews.com/news/details/7821614",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIfNbXSd5PRo_1xywK_OUpZmKakqsK7x6Vo4LIB5nVVUT1kbJCX6tgbbu-dXE",
+        "source": "الوطن"
       },
       {
-        "title": "\"مخرج للجميع\"... وهاب يكشف عن اسم الرئيس المقبل",
+        "title": "اضطراب في طقس الإسكندرية غدا وإعلان حالة الطوارئ.. أمطار ورياح شديدة",
         "snippet": "",
-        "url": "https://www.lebanondebate.com/news/679653",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8fiGkcMPJGTyHKcs-MEf5IAl455UAfZxuY9HJPN2gMLAreOKDEfWJMj0jkU",
+        "url": "https://news.5lejnews.com/world/83875.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuymr2SLzVRFw0aqfgCVljCybHrgW1bLJ4MIJ80V7BUi9YDkW55bmjV5PjE_4",
+        "source": "خليج نيوز"
+      },
+      {
+        "title": "طقس الإسكندرية اليوم 4-2-2025.. استمرار حركة الملاحة والسفن بالميناء",
+        "snippet": "",
+        "url": "https://www.youm7.com/story/2025/2/4/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-4-2-2025-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%81%D9%86/6871141",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-uTlLYHWimnQ6ekpwuas4TxkgZTbQlmf0P3AI0P4RCzE4AzwwpICz-4iAqvY",
+        "source": "اليوم السابع"
+      }
+    ]
+  },
+  {
+    "title": "الطقس",
+    "link": "https://trends.google.com/trending/rss?geo=LB",
+    "pubdate": "Tue, 4 Feb 2025 20:30:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANCG8S4C5Whv4PY8a1mBB1n4xge76KODXNI1U5zth0Z9p25_Agsv7_4B8Ra0",
+    "picture_source": "Lebanon Debate",
+    "news_items": [
+      {
+        "title": "\"ACIL\" تعيد للشتاء هيبته... ساعات \"عاصفة\" بانتظاركم وتحذير \"هام\"!",
+        "snippet": "",
+        "url": "https://www.lebanondebate.com/news/684142",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANCG8S4C5Whv4PY8a1mBB1n4xge76KODXNI1U5zth0Z9p25_Agsv7_4B8Ra0",
         "source": "Lebanon Debate"
       },
       {
-        "title": "الخطوط الرئاسية تتقاطع عند بري: أيقنعه الثنائي المسيحي بأزعور؟",
+        "title": "منخفض جوي قصير وطقس بارد ومثلج...",
         "snippet": "",
-        "url": "https://www.almodon.com/politics/2025/1/8/%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D8%AA%D9%82%D8%A7%D8%B7%D8%B9-%D8%B9%D9%86%D8%AF-%D8%A8%D8%B1%D9%8A-%D8%A3%D9%8A%D9%82%D9%86%D8%B9%D9%87-%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A-%D8%A8%D8%A3%D8%B2%D8%B9%D9%88%D8%B1",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3Pa5L8fem4qaqnmenvy2omc7WNDJgrFzSaRcNOYiORmfKKP3aGVDGqNq26hc",
-        "source": "almodon"
+        "url": "https://www.lbcgroup.tv/news/lebanon-weather/835759/%D9%85%D9%86%D8%AE%D9%81%D8%B6-%D8%AC%D9%88%D9%8A-%D9%82%D8%B5%D9%8A%D8%B1-%D9%88%D8%B7%D9%82%D8%B3-%D8%A8%D8%A7%D8%B1%D8%AF-%D9%88%D9%85%D8%AB%D9%84%D8%AC/ar",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqdn1bXvaVl9oBxg0XZ1OymfsCLsx-qaovmpNFZHxHQxWrvqPOk0hnKQe5oS4",
+        "source": "LBCI Lebanon"
+      },
+      {
+        "title": "بعد انقطاع الأمطار... العاصفة الثلجية الأولى لهذا العام 'أسيل' تصل إلى لبنان",
+        "snippet": "",
+        "url": "https://www.annahar.com/Lebanon/192714/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%81%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%84%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A3%D8%B3%D9%8A%D9%84-%D8%AA%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs59Rf3_0rpVjoCACK0xU8_BXYnIBeHoLrTl7lJedR9HIGYK3m6-zK6drD3DA",
+        "source": "annahar.com"
       }
     ]
   },
   {
-    "title": "جوزيف عون",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Wed, 8 Jan 2025 04:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYm_JgH44ku_Sv1G3xGuQi__qzaCEuOQOHDDsONyq1KXCn3dtVeUFSqHO0UCw",
-    "picture_source": "سكاي نيوز عربية",
+    "pubdate": "Tue, 4 Feb 2025 20:30:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJI_M3VI0fAkp6tXOlHFLYWtYHWzNiaj0t87beMGPVSPTbKC7xyvlqGAV5qyk",
+    "picture_source": "WBAL-TV",
     "news_items": [
       {
-        "title": "مصادر: توجه لاختيار جوزيف عون مرشحا توافقيا لرئاسة لبنان",
+        "title": "Icy day coming to Baltimore; Ice storm warning Thursday in Western Md.",
         "snippet": "",
-        "url": "https://www.skynewsarabia.com/middle-east/1767455-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%87-%D9%84%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D8%AC%D9%88%D8%B2%D9%8A%D9%81-%D8%B9%D9%88%D9%86-%D9%85%D8%B1%D8%B4%D8%AD%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82%D9%8A%D8%A7-%D9%84%D8%B1%D9%8A%D9%94%D8%A7%D8%B3%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYm_JgH44ku_Sv1G3xGuQi__qzaCEuOQOHDDsONyq1KXCn3dtVeUFSqHO0UCw",
-        "source": "سكاي نيوز عربية"
+        "url": "https://www.wbaltv.com/article/baltimore-weather-ice-icy-winter-february-6-2025/63654825",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJI_M3VI0fAkp6tXOlHFLYWtYHWzNiaj0t87beMGPVSPTbKC7xyvlqGAV5qyk",
+        "source": "WBAL-TV"
       },
       {
-        "title": "مخزومي: للتعاون والمضي قدماً لما فيه مصلحة لبنان وشعبه",
+        "title": "Much of the D.C. area could experience an icy glaze Wednesday night",
         "snippet": "",
-        "url": "https://www.mtv.com.lb/News/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/1537176/%D9%85%D8%AE%D8%B2%D9%88%D9%85%D9%8A--%D9%84%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B6%D9%8A-%D9%82%D8%AF%D9%85%D8%A7--%D9%84%D9%85%D8%A7-%D9%81%D9%8A%D9%87-%D9%85%D8%B5%D9%84%D8%AD%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B4%D8%B9%D8%A8%D9%87",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXsIB3JQ7THpXJ2qdDiYUdFqvk-VjC-NLjnCd5UzhHkIU0UeyO_nUEM5rfccU",
-        "source": "MTV Lebanon"
+        "url": "https://www.washingtonpost.com/weather/2025/02/04/ice-storm-maryland-virginia-dc/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRejaTn49TEeLfnGFB5H2QDUnTsa5YtLmhrd05UDV2QbwuNdq-AjAVitSzKCjk",
+        "source": "The Washington Post"
       },
       {
-        "title": "وضاح الصادق يكشف أسرار الساعات الأخيرة رئاسياً وكواليس إقناع بري: حقائب أموال وتخوف من حدث أمني!",
+        "title": "Another round of winter weather: Wintry mix expected in the DC area Wednesday night",
         "snippet": "",
-        "url": "https://www.lebanondebate.com/news/679765",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUhjwW3GF-eHZFpmAQfFVv7_1PXnzKyKPif5w4B4IepLlkUwahPvmWF7WhcwA",
-        "source": "Lebanon Debate"
+        "url": "https://wtop.com/weather-news/2025/02/another-round-of-winter-weather-wintry-mix-expected-in-the-dc-area-wednesday-night/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgVgGOiRTAz3z2g6F6LMvl0Jt-J7Eqt39hA2Oqh9Zhti1tb37dez8R7Xtj7FQ",
+        "source": "WTOP"
       }
     ]
   },
   {
-    "title": "joseph aoun",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Wed, 8 Jan 2025 03:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxeUEkQX82AsZPs0nX9F9m1lw3d8jHzxpsulsATseIn07uq6PDKLP8wsbhr8",
-    "picture_source": "Alma Research and Education Center",
+    "pubdate": "Tue, 4 Feb 2025 10:30:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnmD7-M9kgn2pFzmiL89gJW0uABFxVRRQdt7lfxDKtw47IGe1KoaV-8FXLQw",
+    "picture_source": "ABC7 Chicago",
     "news_items": [
       {
-        "title": "Joseph Aoun – Will He be The Next President of Lebanon?",
+        "title": "Chicago, Illinois weather forecast tomorrow: Wintry mix could create dangerous travel conditions Wednesday",
         "snippet": "",
-        "url": "https://israel-alma.org/joseph-aoun-will-he-be-the-next-president-of-lebanon/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxeUEkQX82AsZPs0nX9F9m1lw3d8jHzxpsulsATseIn07uq6PDKLP8wsbhr8",
-        "source": "Alma Research and Education Center"
+        "url": "https://abc7chicago.com/post/chicago-illinois-weather-forecast-tomorrow-wintry-mix-could-create-dangerous-travel-conditions-wednesday/15864806/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnmD7-M9kgn2pFzmiL89gJW0uABFxVRRQdt7lfxDKtw47IGe1KoaV-8FXLQw",
+        "source": "ABC7 Chicago"
       },
       {
-        "title": "Reports: Opposition to endorse Aoun from Maarab as Saudi envoy pushes for his election",
+        "title": "Winter Weather Advisory issued for Wednesday into Thursday morning",
         "snippet": "",
-        "url": "https://www.naharnet.com/stories/en/310216-reports-opposition-to-endorse-aoun-from-maarab-as-saudi-envoy-pushes-for-his-election",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVH5K7fWSjq6PZmQoFnUfEoj_CynjCs1ZpSDaXv4tZM6fsirNxARlDQMdlRj8",
-        "source": "Naharnet"
+        "url": "https://wgntv.com/weather/chicago-weather-tuesday-wednesday-02052025/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDl_VYB7Yv0Pb1TIvNgBUjvRee_sHl-Ja-ZQNK4XfheI2LuRgsvOJS_ZSBYOI",
+        "source": "WGN-TV"
       },
       {
-        "title": "US dangles Saudi Arabia's cash to push candidate for Lebanon's presidency",
+        "title": "Chicago Winter Weather Advisory: Freezing rain, snow and slick roads could impact Wednesday commutes",
         "snippet": "",
-        "url": "https://www.middleeasteye.net/news/us-dangles-saudi-arabias-cash-push-candidate-lebanese-presidency",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR32Gk2EycK_XNmr3CJrKFr4RMZ6R7av4_KFEFJzA0hHKcwqJslUVAZIcVgoPk",
-        "source": "Middle East Eye"
+        "url": "https://www.fox32chicago.com/weather/chicago-winter-weather-advisory-freezing-rain-snow-slick-roads-wednesday-commutes",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjOrWytt-CPz1Qie-bzXp_hQNnU6arct-xNnUuW2dKTF3-iSIvRxxSg2qFyQM",
+        "source": "FOX 32 Chicago"
       }
     ]
   },
   {
-    "title": "arsenal vs newcastle",
+    "title": "atlético madrid vs getafe",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Tue, 7 Jan 2025 11:20:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 12:20:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeuOZIvqHsyBrOMTm2k08QxjcAySssXNJyRUVAdyzusL_mFZJVzcK0-kT7Fyw",
-    "picture_source": "BBC",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
+    "picture_source": "El Periódico de España",
     "news_items": [
       {
-        "title": "Arsenal vs Newcastle LIVE: Carabao Cup semi-final score, updates & radio commentary",
+        "title": "Y Giuliano volvió a demostrar, arrollando al Getafe, que es digno heredero del cántico de su padre",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/ckg9dgm5gk4t",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeuOZIvqHsyBrOMTm2k08QxjcAySssXNJyRUVAdyzusL_mFZJVzcK0-kT7Fyw",
-        "source": "BBC"
+        "url": "https://www.epe.es/es/deportes/20250204/atletico-madrid-getafe-copa-rey-resultado-giuliano-simeone-114008399",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
+        "source": "El Periódico de España"
       },
       {
-        "title": "Arsenal’s Slim League Cup Hopes: What History Says About Overturning a Two-Goal Deficit",
+        "title": "HERRERA EN COPE EN LA RIOJA I 05 FEB 2025 I 07:20 H",
         "snippet": "",
-        "url": "https://theanalyst.com/2025/01/arsenal-league-cup-chances-defeat-newcastle",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_L6Ryc4EaZLYphXS71cvd8ImGqLawV4bGCHLdsVo3vDkTnFD372-Uh2E1mTs",
-        "source": "Opta Analyst"
+        "url": "https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono/audios/herrera-cope-rioja-i-05-feb-2025-i-07-20-h-20250205_3089938.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUM6S89NThDiBVH8-zukoKPyKwQgwtgDS0jTn8MnkIAtvxobMbEo-PGsFILE",
+        "source": "COPE"
       },
       {
-        "title": "Nine days of wonder make memories to last a lifetime",
+        "title": "Antonio Romero: \"El Atlético llega como el equipo en mejor forma de nuestra competición al derbi frente al Real Madrid\"",
         "snippet": "",
-        "url": "https://onefootball.com/en/news/nine-days-of-wonder-make-memories-to-last-a-lifetime-40532307",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqiOmWn2byGDP4zVYW5ovulO1DK2aH06igcj6_X2owJhLjTB4a8DX511NwljA",
-        "source": "OneFootball"
+        "url": "https://cadenaser.com/nacional/2025/02/04/antonio-romero-el-atletico-de-madrid-llega-como-el-equipo-en-mejor-forma-de-nuestra-competicion-al-derbi-frente-al-real-madrid-cadena-ser/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXYPvZg42nC11OlMOVOnojmVeM8eLRTcTYVCGhr532uaYYQs54a4O6g2YNCV8",
+        "source": "Cadena SER"
       }
     ]
   },
   {
-    "title": "آرسنال ضد نيوكاسل يونايتد",
+    "title": "الهلال ضد برسبوليس",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Tue, 7 Jan 2025 12:10:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 10:10:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd2l3CdwautU9qirmN_4iMJFIS6wUiCrSbkLTh5MfQYl3ta22rWkTyrf-gsP0",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx6vRwHRUz1BPK9AgQeUd0YPDa8FqAJWpU4qipRdO6h_MPmQQh4xoak2jENL0",
     "picture_source": "annahar.com",
     "news_items": [
       {
-        "title": "نيوكاسل يضرب أرسنال في معقله",
+        "title": "الهلال يواصل عروضه القوية",
         "snippet": "",
-        "url": "https://www.annahar.com/Sports/185622/%D9%86%D9%8A%D9%88%D9%83%D8%A7%D8%B3%D9%84-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%81%D9%8A-%D9%85%D8%B9%D9%82%D9%84%D9%87",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd2l3CdwautU9qirmN_4iMJFIS6wUiCrSbkLTh5MfQYl3ta22rWkTyrf-gsP0",
+        "url": "https://www.annahar.com/sports/Latest-News/192681/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D8%B1%D9%88%D8%B6%D9%87-%D8%A7%D9%84%D9%82%D9%88%D9%8A%D8%A9",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx6vRwHRUz1BPK9AgQeUd0YPDa8FqAJWpU4qipRdO6h_MPmQQh4xoak2jENL0",
         "source": "annahar.com"
       },
       {
-        "title": "أرتيتا يعلن إصابة لاعبه الصاعد نوانيري",
+        "title": "بعد 140 يوما.. كانسيلو يلمع في نخبة آسيا",
         "snippet": "",
-        "url": "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%83%D8%A3%D8%B3-%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D8%A3%D8%B1%D8%AA%D9%8A%D8%AA%D8%A7-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8%D9%87-%D8%A7%D9%84%D8%B5%D8%A7%D8%B9%D8%AF-%D9%86%D9%88%D8%A7%D9%86%D9%8A%D8%B1%D9%8A-2025-01-07",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeZmwFo2QOyJF6u6YzxbEabcLRJW8c_8RI_O93YjBLg_cVZjxMowiAcbdQxB8",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "أسبوع حاسم لأرسنال في كل البطولات",
-        "snippet": "",
-        "url": "https://hihi2.com/2025/01/07/p3020665.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8QGAIsuxxFOJaIQTbw52ABv6aU_63kJZhdIT7ROfK0twOQiaHbI7jUTDrbc",
-        "source": "هاي كورة"
-      }
-    ]
-  },
-  {
-    "title": "al-hilal vs al-ittihad",
-    "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Tue, 7 Jan 2025 09:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-tGLzC_DyEMwKVDvnRFug_qmyythspTU-Se5e4GwrWbIkmiSwII-aXcAr7V0",
-    "picture_source": "Al Arabiya English",
-    "news_items": [
-      {
-        "title": "Three Takeaways: Brilliant Benzema buries Al Hilal in King’s Cup",
-        "snippet": "",
-        "url": "https://english.alarabiya.net/sports/2025/01/08/three-takeaways-brilliant-benzema-buries-al-hilal-in-king-s-cup",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-tGLzC_DyEMwKVDvnRFug_qmyythspTU-Se5e4GwrWbIkmiSwII-aXcAr7V0",
-        "source": "Al Arabiya English"
-      },
-      {
-        "title": "Match Result: Al-Hilal and Al-Ittihad Draw (2-2) in Saudi King’s Cup Quarter-Finals",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2272922-match-result-al-hilal-and-al-ittihad-draw-2-2-in-saudi-king-s-cup-quarter-finals",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCGM30XtpN_235rp4KinhbSm3F-M2xTNGlZxfBmsx27PikjUD_o_2GwhrMa6w",
-        "source": "FootBoom"
-      },
-      {
-        "title": "Diaby is on Al-Ittihad’s list to face Al-Hilal",
-        "snippet": "",
-        "url": "https://www.ysscores.com/en/news/10292963/Diaby-is-on-Al-Ittihad%E2%80%99s-list-to-face-Al-Hilal",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT57CqAlLvxKc0Wu34OLNCHQMeuQWOuDmtyRs7E6NbUauCUHzVeWS1oZoZ6hI",
-        "source": "www.ysscores.com"
-      }
-    ]
-  },
-  {
-    "title": "إلدينزي ضد فالنسيا",
-    "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Tue, 7 Jan 2025 12:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjI8N90Vg54FhmyNxYEB4XAXu1k4fXDz9bwhuu7KtylEGAX4LrVgvhBYYS80",
-    "picture_source": "كووورة: الموقع العربي الرياضي الأول",
-    "news_items": [
-      {
-        "title": "مواجهات متوازنة لريال مدريد وبرشلونة في قرعة كأس ملك إسبانيا",
-        "snippet": "",
-        "url": "https://www.kooora.com/?n=1380095",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjI8N90Vg54FhmyNxYEB4XAXu1k4fXDz9bwhuu7KtylEGAX4LrVgvhBYYS80",
+        "url": "https://www.kooora.com/?n=1386666",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdftbaXunCCXvA3VhPIe2bjD44YB9C0kjZDP_yXvToAXlrjxUD6w1Ialjlc8I",
         "source": "كووورة: الموقع العربي الرياضي الأول"
       },
       {
-        "title": "قرعة دور الـ16 من كأس ملك إسبانيا",
+        "title": "سالم الدوسري دخل تاريخ دوري أبطال آسيا من أوسع الأبواب",
         "snippet": "",
-        "url": "https://hihi2.com/2025/01/08/p3022287.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVHv7dlxPGb9qQbG_hS8cKsrG07HevLNcv2fsLsWcn7aTHi4ePj73TvjvdsE",
+        "url": "https://hihi2.com/2025/02/05/p3069994.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE5huAqFdG3r6pvk_PMF05GnPx2YnP3Y2H1hb1N3scndh6U8BqEFpC-YGZAj0",
         "source": "هاي كورة"
-      },
-      {
-        "title": "برشلونة وريال مدريد في مواجهات قوية بدور الـ16 لكأس إسبانيا",
-        "snippet": "",
-        "url": "https://www.annahar.com/Sports/185743/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%88%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D9%82%D9%88%D9%8A%D8%A9-%D8%A8%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D9%8016-%D9%84%D9%83%D8%A3%D8%B3-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc7B1WWUu8-OdWVizVUiHOGxdAogSXtCrt33YAEaxE8FwG5b7h7iMYxQOJDyE",
-        "source": "annahar.com"
       }
     ]
   },
   {
-    "title": "الهلال",
+    "title": "clippers vs lakers",
     "link": "https://trends.google.com/trending/rss?geo=LB",
-    "pubdate": "Tue, 7 Jan 2025 12:00:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 21:40:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpsi-G32S-Y1FmwG4Hl_RZ96_tx9fSfQ21zd8SFeBXBS53aNtY3VP2w7NyBdY",
-    "picture_source": "annahar.com",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kecZZdEwJHxp7Sf8l6albukKf-RIyitHetNQ2efHX1sxGintqjdfeaTX-vY",
+    "picture_source": "Yahoo Sports",
     "news_items": [
       {
-        "title": "بنزيمة: نحن فريق متكامل",
+        "title": "Clippers coach Tyronn Lue rips his team after loss to the Lakers",
         "snippet": "",
-        "url": "https://www.annahar.com/Sports/185609/%D8%A8%D9%86%D8%B2%D9%8A%D9%85%D8%A9-%D9%86%D8%AD%D9%86-%D9%81%D8%B1%D9%8A%D9%82-%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpsi-G32S-Y1FmwG4Hl_RZ96_tx9fSfQ21zd8SFeBXBS53aNtY3VP2w7NyBdY",
-        "source": "annahar.com"
+        "url": "https://sports.yahoo.com/clippers-coach-tyronn-lue-rips-073143733.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kecZZdEwJHxp7Sf8l6albukKf-RIyitHetNQ2efHX1sxGintqjdfeaTX-vY",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "الهلال واتحاد جدة يلتقيان في \"أغلى الكؤوس\"",
+        "title": "Kawhi Leonard stats tonight: How did the Clippers star fare in latest Battle of LA? (Feb. 4)",
         "snippet": "",
-        "url": "https://www.tayyar.org/News/Sports/646264",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFVe_IObMoWbDk8yLOjo4rXEYyZ18xowevjYsslVQwdCzYDAnQuZBV_6PXRW8",
-        "source": "Tayyar.org"
+        "url": "https://www.sportskeeda.com/basketball/news-kawhi-leonard-stats-tonight-how-clippers-star-fare-latest-battle-la-feb-4",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcPp-xawdfcJN4iDXuj8dYQCp53IVkH615zrdBmxWfOGvK2Hj3ytwnU1Ft5RI",
+        "source": "Sportskeeda"
       },
       {
-        "title": "كونترا: زرعت عقلية الفوز في الاتحاد.. والهلال خيب أملي",
+        "title": "Kawhi Leonard's Blunt Statement After Clippers' Blowout Loss to Lakers",
         "snippet": "",
-        "url": "https://www.alarabiya.net/sport/2025/01/07/%D9%83%D9%88%D9%86%D8%AA%D8%B1%D8%A7-%D8%B2%D8%B1%D8%B9%D8%AA-%D8%B9%D9%82%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%88%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%AE%D9%8A%D8%A8-%D8%A3%D9%85%D9%84%D9%8A",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWZ49Mw5519U2jClyrmXHBOZJFp6vPX4d3JJahTG6jV0mvfsdnUBrmGP9-jfw",
-        "source": "العربية"
+        "url": "https://www.si.com/nba/clippers/news/kawhi-leonard-s-blunt-statement-after-clippers-blowout-loss-to-lakers-01jkabqtk17s",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg8rZ0UpJOk1d784JPyuJ6IBNkOYH9EnlnNp-iJLlZJYpuY-ailHGOTdr_rPs",
+        "source": "Sports Illustrated"
+      }
+    ]
+  },
+  {
+    "title": "الطقس اليوم",
+    "link": "https://trends.google.com/trending/rss?geo=LB",
+    "pubdate": "Tue, 4 Feb 2025 20:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5q1qggpW2bFNYMgXT2pLowGm2EAvuuP5f5muW9Bjn4D2-6h61V_l6iC77mU",
+    "picture_source": "طقس العرب",
+    "news_items": [
+      {
+        "title": "مصر | انخفاض ملحوظ في درجات الحرارة ونشاط كبير للرياح مع اقتراب كتلة هوائية باردة من أصل قطبي من الجمهورية",
+        "snippet": "",
+        "url": "https://www.arabiaweather.com/ar/content/%D9%85%D8%B5%D8%B1-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%85%D9%84%D8%AD%D9%88%D8%B8-%D9%81%D9%8A-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D9%86%D8%B4%D8%A7%D8%B7-%D9%83%D8%A8%D9%8A%D8%B1-%D9%84%D9%84%D8%B1%D9%8A%D8%A7%D8%AD-%D9%85%D8%B9-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%A8-%D9%83%D8%AA%D9%84%D8%A9-%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A8%D8%A7%D8%B1%D8%AF%D8%A9-%D9%85%D9%86-%D8%A3%D8%B5%D9%84-%D9%82%D8%B7%D8%A8%D9%8A",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5q1qggpW2bFNYMgXT2pLowGm2EAvuuP5f5muW9Bjn4D2-6h61V_l6iC77mU",
+        "source": "طقس العرب"
+      },
+      {
+        "title": "\"الأرصاد\" تحذر من طقس الـ48 ساعة المقبلة.. ونصائح قبل الخروج من المنزل ..ترفيه و منوعات",
+        "snippet": "",
+        "url": "https://ar.pressbee.net/show9210173.html?title=%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8048-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9-%D9%88%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B2",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXS3ev_kV-2yzN4t9RoikRfR0dW0XL4uhPL71qLnKl4UDufwo-XOo9i79Qkg",
+        "source": "برس بي"
+      },
+      {
+        "title": "أمطار غزيرة تضرب الإسكندرية مع نشاط لحركة الرياح.. فيديو",
+        "snippet": "",
+        "url": "https://www.youm7.com/story/2025/2/5/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9-%D9%86%D8%B4%D8%A7%D8%B7-%D9%84%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/6872281",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFRSKE-dfHVQIMwvQXwa3rW9q5tc8JPMcMoAQjdHmTy7QjZJ4poldzU7xmpI8",
+        "source": "اليوم السابع"
+      }
+    ]
+  },
+  {
+    "title": "greece",
+    "link": "https://trends.google.com/trending/rss?geo=LB",
+    "pubdate": "Tue, 4 Feb 2025 13:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWeB5t-qCvHmN8Q0pW8V5o0-8nN4I8bHEeFJ65Kd01Cnkx7mW_Tr42aIm1UrE",
+    "picture_source": "MTV Lebanon",
+    "news_items": [
+      {
+        "title": "Thousands Evacuate Santorini Amid Earthquake Fears",
+        "snippet": "",
+        "url": "https://www.mtv.com.lb/en/News/International/1545401/thousands-evacuate-santorini-amid-earthquake-fears",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWeB5t-qCvHmN8Q0pW8V5o0-8nN4I8bHEeFJ65Kd01Cnkx7mW_Tr42aIm1UrE",
+        "source": "MTV Lebanon"
+      },
+      {
+        "title": "Greek PM calls for calm after 'very intense' Santorini tremors",
+        "snippet": "",
+        "url": "https://www.nna-leb.gov.lb/en/international/756707/greek-pm-calls-for-calm-after-very-intense-santori",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsh130vlvYM44wsEh7RQjqSPkXY6xKbrb6GBng4-3OJ52D22-vwPZWe_tz3lE",
+        "source": "الوكالة الوطنية للإعلام"
+      },
+      {
+        "title": "Increased volcanic activity detected in Greece’s popular tourist island of Santorini",
+        "snippet": "",
+        "url": "https://apnews.com/article/santorini-volcanic-seismic-activity-greece-447e16e21f479ecbdccc12e2219c27cb",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnYaqTeL-m5OPYd1er44uPMBh_1saTiEYHyZ7dOHxNsyYX22aqfuVKgqiJgYE",
+        "source": "AP News"
+      }
+    ]
+  },
+  {
+    "title": "al-hilal vs persepolis",
+    "link": "https://trends.google.com/trending/rss?geo=LB",
+    "pubdate": "Tue, 4 Feb 2025 10:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq7Qga7bt4ihGLBQfdGqteWaTlT0gy1t96ySznxFzsKG9czttTNIw3vyErXSk",
+    "picture_source": "The National",
+    "news_items": [
+      {
+        "title": "Post-Neymar era starts with a bang as Al Hilal continue AFC Champions League dominance by thrashing Persepolis",
+        "snippet": "",
+        "url": "https://www.thenationalnews.com/sport/football/2025/02/05/post-neymar-era-starts-with-a-bang-as-al-hilal-continue-afc-champions-league-dominance-by-thrashing-persepolis/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq7Qga7bt4ihGLBQfdGqteWaTlT0gy1t96ySznxFzsKG9czttTNIw3vyErXSk",
+        "source": "The National"
+      },
+      {
+        "title": "Ismail Kartal: Persepolis ready to meet Al Hilal",
+        "snippet": "",
+        "url": "https://www.tehrantimes.com/news/509384/Ismail-Kartal-Persepolis-ready-to-meet-Al-Hilal",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGG4cu-45E9yv7am3Tv8tob8vsdA4-wlx0-UD8LGAX6sql1FJwmQLQ8_kWl6c",
+        "source": "Tehran Times"
+      },
+      {
+        "title": "Caio Cesar joins the Crescent List against Persepolis",
+        "snippet": "",
+        "url": "https://www.ysscores.com/en/news/12099589/Caio-Cesar-joins-the-Crescent-List-against-Persepolis",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4yflvto6G9QpQH--PCKLqMLYPQCNLWZ3iYjI80eXY__5jktLpccdyB6wTPu0",
+        "source": "www.ysscores.com"
       }
     ]
   }

@@ -1,304 +1,311 @@
 [
   {
-    "title": "ionq",
+    "title": "장학재단",
     "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVju3mkcNdF3XMz2E1K65hj9YCLRtUyrX1oiZjzg1iwlhc6Txht8PvskZtQzg",
-    "picture_source": "Yahoo Finance",
+    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6WGGjzi5w6GROFIK2YH2kbtRS14_H3sfJQqzmH5S0-7rKd0Cdtvr1gJxaF8k",
+    "picture_source": "대한민국 정책브리핑",
     "news_items": [
       {
-        "title": "Quantum Stocks Drop as Nvidia CEO Sees Use Years Away",
+        "title": "2025년 1학기 장학금 신청 놓치지 마세요! - 전체 | 카드/한컷 | 멀티미디어",
         "snippet": "",
-        "url": "https://finance.yahoo.com/news/quantum-computing-stocks-drop-nvidia-005300972.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVju3mkcNdF3XMz2E1K65hj9YCLRtUyrX1oiZjzg1iwlhc6Txht8PvskZtQzg",
-        "source": "Yahoo Finance"
+        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148939213&pWise=sub&pWiseSub=C5",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6WGGjzi5w6GROFIK2YH2kbtRS14_H3sfJQqzmH5S0-7rKd0Cdtvr1gJxaF8k",
+        "source": "대한민국 정책브리핑"
       },
       {
-        "title": "Quantum stocks like Rigetti plunge after Nvidia's Huang says the computers are 15 to 30 years away",
+        "title": "원거리 진학 저소득층 대학생에 月20만원 주거안정 지원",
         "snippet": "",
-        "url": "https://www.cnbc.com/2025/01/08/quantum-stocks-like-rigetti-plunge-after-nvidias-huang-says-the-computers-are-15-to-30-years-away.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuR_5ApegAuUZFQxF07WGEut1uI3i1z9mQZ-0-17WYmpDf73ws9OeqnNJZfQ",
-        "source": "CNBC"
+        "url": "https://www.donga.com/news/Society/article/all/20250205/130968945/2",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPTqSuKQBQ8egPQGv65JFffZfmxaAmJ2w_Y8ExkGcH50alk45cSqUVnZOGwu0",
+        "source": "동아일보"
       },
       {
-        "title": "NVIDIA CEO’s Predictions Rain on Quantum Stock Parade",
+        "title": "“등록금도 비싼데 월세까지?”…저소득 대학생 주거비, 정부가 지원한다",
         "snippet": "",
-        "url": "https://thequantuminsider.com/2025/01/08/nvidia-ceos-predictions-rain-on-quantum-stock-parade/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtckivLL6ieaJqDsNWfbUwseoYi4hNXtrYEQ6qPAXCEvYvfsZoBcXTT9za7Vc",
-        "source": "The Quantum Insider"
+        "url": "http://www.incheonilbo.com/news/articleView.html?idxno=1278126",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT87bVP3V97Jc8ctBJ6URrKIbnoCNUwJ9rppzD9iLq_lxfhlK53qM6jCxx9EEQ",
+        "source": "인천일보"
       }
     ]
   },
   {
-    "title": "아이온큐 주가",
+    "title": "김부겸",
     "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTvgvAlA9ZDcRjFxxrfBUnUhSeWVhQ27k4841kxseclxyd6TyEiw-4mrdM7Vc",
-    "picture_source": "글로벌이코노믹",
-    "news_items": [
-      {
-        "title": "아이온큐, 큐비텍 인수로 양자 네트워킹에 '날개'...주가 6.91% 급등",
-        "snippet": "",
-        "url": "https://www.g-enews.com/article/Securities/2025/01/202501070727306776e250e8e188_1",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTvgvAlA9ZDcRjFxxrfBUnUhSeWVhQ27k4841kxseclxyd6TyEiw-4mrdM7Vc",
-        "source": "글로벌이코노믹"
-      },
-      {
-        "title": "IONQ 주가, 사상 최고치인 $48.61 달성 By Investing.com",
-        "snippet": "",
-        "url": "https://kr.investing.com/news/company-news/article-93CH-1322047",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXDBOC9Pxmw3sElxyyS-q7hHW_2D-S6wJbgZuyd-alUUrpI1BNzWTjnRc3JwA",
-        "source": "Investing.com 한국어"
-      },
-      {
-        "title": "스마트폰을 위한 양자 도약! IonQ의 획기적인 기술이 모든 것을 바꿀 수 있는 방법",
-        "snippet": "",
-        "url": "https://smartphonemagazine.nl/ko/2025/01/07/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%96%91%EC%9E%90-%EB%8F%84%EC%95%BD-ionq%EC%9D%98-%ED%9A%8D%EA%B8%B0%EC%A0%81%EC%9D%B8-%EA%B8%B0%EC%88%A0%EC%9D%B4-%EB%AA%A8/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEOr_p5PgCois260WT2dJHChGvyZ8fUxLzs7ufbE8eBcWyfNfPaDWQm391_w",
-        "source": "smartphonemagazine.nl"
-      }
-    ]
-  },
-  {
-    "title": "fomc",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 07:20:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 22:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqaurBr8H-mCVi2TJbDBikQ7qkwJLSU4mtxIyosIVUcy2tZXo_1VSa_QgZgE",
-    "picture_source": "Reuters",
-    "news_items": [
-      {
-        "title": "Fed minutes may begin to show the hurdle to further rate cuts",
-        "snippet": "",
-        "url": "https://www.reuters.com/markets/us/fed-minutes-may-begin-show-hurdle-further-rate-cuts-2025-01-08/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqaurBr8H-mCVi2TJbDBikQ7qkwJLSU4mtxIyosIVUcy2tZXo_1VSa_QgZgE",
-        "source": "Reuters"
-      },
-      {
-        "title": "Market Braces For High Interest Rates: Investors Price In Just One Cut This Year As Fed Minutes Loom",
-        "snippet": "",
-        "url": "https://www.forbes.com/sites/dereksaul/2025/01/08/market-braces-for-high-interest-rates-investors-price-in-just-one-cut-this-year-as-fed-minutes-loom/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDNlE_6d82kwf9Iqp0FbhW0SsBYf7pVGwa2MtFmU767_ycgs32tpqjenQGSms",
-        "source": "Forbes"
-      },
-      {
-        "title": "Fed Meeting Minutes Today: What to Expect",
-        "snippet": "",
-        "url": "https://www.barrons.com/articles/fed-meeting-minutes-today-interest-rates-f69658e8",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz2hgXjPCjcVjMOJSAVnKKypVq7j1wnQsefCKLr9ypXKl4V-y_e64ZoS3b7zo",
-        "source": "Barron's"
-      }
-    ]
-  },
-  {
-    "title": "qqq",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 07:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs9B41lQ919NNdTQV9eGjU7FpYYQBHeDgu-ssAPiXCPZlzisYfmhjrga0yqDg",
-    "picture_source": "MarketBeat",
-    "news_items": [
-      {
-        "title": "International Assets Investment Management LLC Sells 32,520,286 Shares of Invesco QQQ (NASDAQ:QQQ)",
-        "snippet": "",
-        "url": "https://www.marketbeat.com/instant-alerts/international-assets-investment-management-llc-sells-32520286-shares-of-invesco-qqq-nasdaqqqq-2025-01-08/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs9B41lQ919NNdTQV9eGjU7FpYYQBHeDgu-ssAPiXCPZlzisYfmhjrga0yqDg",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Invesco QQQ (NASDAQ:QQQ) Shares Sold by Kozak & Associates Inc.",
-        "snippet": "",
-        "url": "https://www.marketbeat.com/instant-alerts/kozak-associates-inc-cuts-position-in-invesco-qqq-nasdaqqqq-2025-01-06/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs9B41lQ919NNdTQV9eGjU7FpYYQBHeDgu-ssAPiXCPZlzisYfmhjrga0yqDg",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Pair of Familiar Names Could Power QQQ in 2025",
-        "snippet": "",
-        "url": "https://www.etftrends.com/etf-education-channel/pair-familiar-names-could-power-qqq-2025/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYeKMVPBbejlhVjGYJgR8RI5QIB8vOSEM_DE59zXxAO_dT5GvkKBF8brLp5iw",
-        "source": "ETF Trends"
-      }
-    ]
-  },
-  {
-    "title": "나는솔로",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 06:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzdwzMwRdDagllkdvfBgeGWyB5RTyyEopDb9UfGyW462EFywzkErYnMHR1ZV8",
-    "picture_source": "NATE",
-    "news_items": [
-      {
-        "title": "'나는 솔로' 24기 옥순, 나이-직업 공개…\"성형하고 더 예뻐져\"",
-        "snippet": "",
-        "url": "https://news.nate.com/view/20250108n38465",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzdwzMwRdDagllkdvfBgeGWyB5RTyyEopDb9UfGyW462EFywzkErYnMHR1ZV8",
-        "source": "NATE"
-      },
-      {
-        "title": "'역대급 플러팅女' 24기 옥순, \"영수, 쉽게 넘어오니까 재미없어\" ('나는솔로') [종합]",
-        "snippet": "",
-        "url": "https://www.chosun.com/entertainments/broadcast/2025/01/09/7JDAYB4A4LVOCOSXRDJYBVIWMA/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBBvLOhe0BNkM99O2QcZk4TttsPqdqkpYq7U8PpDaQa3rSK5KVXcfqjIx8JTQ",
-        "source": "조선일보"
-      },
-      {
-        "title": "'나는 솔로' 영철-순자, 첫 선택부터 통했다…\"많이 떨려\" 설렘",
-        "snippet": "",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/5655409",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlyW1f6zKKNXT0e4llWg7maXNAPjn5sywAu8WCj3SJl2tl6T3kdi0esZn5GPg",
-        "source": "뉴스1"
-      }
-    ]
-  },
-  {
-    "title": "오키나와",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuW7RvDg3JOa3xSqQazbf9c3j4GEC67Y6ekcvyH73fmiGUYD4VgCdsPaYijjw",
-    "picture_source": "NHK",
-    "news_items": [
-      {
-        "title": "Papers sent to prosecutors over US Marine's alleged sexual assault in Okinawa",
-        "snippet": "",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/20250108_16/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuW7RvDg3JOa3xSqQazbf9c3j4GEC67Y6ekcvyH73fmiGUYD4VgCdsPaYijjw",
-        "source": "NHK"
-      },
-      {
-        "title": "US Marine suspected of sexual assault in Okinawa in November",
-        "snippet": "",
-        "url": "https://mainichi.jp/english/articles/20250108/p2g/00m/0na/047000c",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCufWUVEbT2vAZ3dI0A2e66fksdGKZjtBa0-icVJpJK8bAe5JsufyZATws3kI",
-        "source": "毎日新聞"
-      },
-      {
-        "title": "Police accuse another US service member of sexual assault on Okinawa",
-        "snippet": "",
-        "url": "https://www.stripes.com/branches/marine_corps/2025-01-08/marine-military-sexual-assault-okinawa-16415356.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRzHqEgJlRJx880GAKgyxmPk5BoDta5UGYRKjfpr58QJAT5-rFH-lEMX-rduc",
-        "source": "Stars and Stripes"
-      }
-    ]
-  },
-  {
-    "title": "황현희",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4uUfG2_5_q1VejtmBUbnWhsazpq8byV_pvwcFe_FYDUPjHjLgpeOhQDR1NA",
-    "picture_source": "머니투데이",
-    "news_items": [
-      {
-        "title": "황현희, 숨만 쉬어도 월급이…'100억 자산가' 된 비법 공개",
-        "snippet": "",
-        "url": "https://news.mt.co.kr/mtview.php?no=2025010814254419370",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4uUfG2_5_q1VejtmBUbnWhsazpq8byV_pvwcFe_FYDUPjHjLgpeOhQDR1NA",
-        "source": "머니투데이"
-      },
-      {
-        "title": "'라스' 황현희, 갭 투자 언급···공중파에서 이래도 맞아?[순간포착]",
-        "snippet": "",
-        "url": "https://www.chosun.com/entertainments/broadcast/2025/01/09/CVXFO2SL67DLU7ZVHZMBTTYTGU/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCiu5pWtlC62E3B91WRG9yLNAG4pgHpe2uS0wxA57yjlBT4HBRG8qk1uCRv_c",
-        "source": "조선일보"
-      },
-      {
-        "title": "\"유재석 제쳤다고?\"…예능출연료 1위 찍은 '100억 자산' 개그맨",
-        "snippet": "",
-        "url": "https://www.hankyung.com/article/2025010824197",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6lj150ZW1paRmSMNJ_3VLr6rHZyf-ep3qF-DwlYn1-Cl0VN0ZP2nNPAbnn04",
-        "source": "한국경제"
-      }
-    ]
-  },
-  {
-    "title": "지젤",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 08:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrTYGMjf98J139nHieUQrFuCdk0lDM96r_4c5dW0SbRM3I27l3reFNwj5Zu-8",
-    "picture_source": "Chosun Biz",
-    "news_items": [
-      {
-        "title": "에스파 지젤, 옷이 어디까지 파졌길래…머리에 가려진 끈에 상의 안 입은 줄 - 조선비즈",
-        "snippet": "",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2025/01/07/RF2RKLYSFAN46YMO5QPNNPXN2Y/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrTYGMjf98J139nHieUQrFuCdk0lDM96r_4c5dW0SbRM3I27l3reFNwj5Zu-8",
-        "source": "Chosun Biz"
-      },
-      {
-        "title": "지젤, 미모 물 올랐는데 상처 어쩌나…파격 문신까지 눈길",
-        "snippet": "",
-        "url": "https://tenasia.hankyung.com/article/2025010828234",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwJx0zkEGO_0qj0VyZDxbNNFJFCRLUvv27giTo-ME-qceko8yBLrZLghSAmP8",
-        "source": "텐아시아"
-      }
-    ]
-  },
-  {
-    "title": "la 산불",
-    "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 07:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfN2iksWLRQYOwgko6BtfhnNhbmYBETR4drud8vzBNHmXzgGecf8shobIE8k4",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIsBCJej5FkYkCLaY38xrmnA4K71xwv-cIiS7QaK6pJ3aQoqUJCET3m7sINsM",
     "picture_source": "조선일보",
     "news_items": [
       {
-        "title": "LA 산불로 도로에 버려진 차량 100대, 불도저로 밀었다",
+        "title": "이재명 “재판 전혀 지연없이 신속하게 끝날 것”...‘선거법 위반’ 항소심 출석",
         "snippet": "",
-        "url": "https://www.chosun.com/international/international_general/2025/01/08/CXQQZEYXTVDDTM436BEDLDXDH4/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfN2iksWLRQYOwgko6BtfhnNhbmYBETR4drud8vzBNHmXzgGecf8shobIE8k4",
+        "url": "https://www.chosun.com/national/court_law/2025/02/05/PQVORSAXERHBJIEW4LLZ63FJPA/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIsBCJej5FkYkCLaY38xrmnA4K71xwv-cIiS7QaK6pJ3aQoqUJCET3m7sINsM",
         "source": "조선일보"
       },
       {
-        "title": "'악마의 바람' 덮친 미국 LA...대형 산불에 3만 명 대피",
+        "title": "민주당 \"위헌법률심판 제청 신청은 방어권 행사‥재판 지연 없어\"",
         "snippet": "",
-        "url": "https://www.ytn.co.kr/_ln/0104_202501081923468834",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBlbdK3dqlR-dFyE5PglnTENAu-6fBml0drdQ2FCLBq-oCu03ZsU1PwR_kXgI",
-        "source": "YTN"
+        "url": "https://imnews.imbc.com/news/2025/politics/article/6683457_36711.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuiaVCeOfbgus5NmqyJ6UGQlXFlsPN_f5iwZ8oe9x1XyThUeFNY0zSJjMsbWw",
+        "source": "MBC 뉴스"
       },
       {
-        "title": "미국 LA서 동시다발 대형 산불… \"8만 명 대피 명령, 건물 1만 채 이상 위험\"",
+        "title": "오세훈, 이재명 ‘우클릭’에…“실용주의 코스프레, 국민 안 속아”",
         "snippet": "",
-        "url": "https://www.hankookilbo.com/News/Read/A2025010810130001731",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOQpq6GbJPOWw8XNG_ac69CW6gx54SBaFgHnLF_obEj2LHsV9nZ19j72vuA3g",
-        "source": "한국일보"
+        "url": "https://www.donga.com/news/Politics/article/all/20250205/130973529/2",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKBFwlL2tLqMzAos2UKP1y-qyC2SJ3y6yhXX_-XGYWefK3szi-UuXRkoycTgk",
+        "source": "동아일보"
       }
     ]
   },
   {
-    "title": "명태균",
+    "title": "코레일 채용",
     "link": "https://trends.google.com/trending/rss?geo=KR",
-    "pubdate": "Wed, 8 Jan 2025 06:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo24D6tTSUJj3wcNazdarbTMsP6HJr1aZOtNVaeeojq5TN8XexP8GkzEmKBno",
-    "picture_source": "경향신문",
+    "pubdate": "Tue, 4 Feb 2025 22:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwEJXc4jOnrFHJnRQmaJHMT8yHF7gdiOlP-CyNNruyoYXRFbI0eSDdu1cbzIE",
+    "picture_source": "비즈니스포스트",
     "news_items": [
       {
-        "title": "검찰, 윤 부부가 명태균에게서 비공표 여론조사 받은 내용 확인하고도 미조사",
+        "title": "코레일 상반기 신입사원 2243명 채용, 올해 공공기관 최대 규모",
         "snippet": "",
-        "url": "https://www.khan.co.kr/article/202501082217001",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo24D6tTSUJj3wcNazdarbTMsP6HJr1aZOtNVaeeojq5TN8XexP8GkzEmKBno",
+        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=382289",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwEJXc4jOnrFHJnRQmaJHMT8yHF7gdiOlP-CyNNruyoYXRFbI0eSDdu1cbzIE",
+        "source": "비즈니스포스트"
+      },
+      {
+        "title": "한문희 코레일 사장 \"어려워도 청년 일자리 확대\"…올해 공공기관 최대 2243명 선발",
+        "snippet": "",
+        "url": "https://news.nate.com/view/20250205n25099",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBDMY5YkUfmE6Lrgs5WkeGeB7WWj33JYtV8lqEXYIL3Rv9JUxx2-57OVPXZEA",
+        "source": "NATE"
+      },
+      {
+        "title": "코레일, 상반기 신입사원 2243명 채용",
+        "snippet": "",
+        "url": "https://zdnet.co.kr/view/?no=20250205154107",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiQU2QYCgqtgCCPidAVemhDT7UWn5IYDhCPpAr50b62F7QOHxnLkQe86Cptxk",
+        "source": "지디넷코리아"
+      }
+    ]
+  },
+  {
+    "title": "이화여대",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZuX9RDoIzjBUPBDECUvD4L6RuaghBkV8D9pYTjLQIL5eBgoujCfKtDUcEvXg",
+    "picture_source": "NATE",
+    "news_items": [
+      {
+        "title": "나주시, 이화여대와 문학 분야 업무협약…문학 진흥 활성화 맞손",
+        "snippet": "",
+        "url": "https://news.nate.com/view/20250204n21071",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZuX9RDoIzjBUPBDECUvD4L6RuaghBkV8D9pYTjLQIL5eBgoujCfKtDUcEvXg",
+        "source": "NATE"
+      },
+      {
+        "title": "나주시, 이화여대와 문학 콘텐츠 개발 등 협력",
+        "snippet": "",
+        "url": "https://www.thereport.co.kr/news/articleView.html?idxno=59085",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9lw2r_craShUosToxYP2KG9wu9i8Z-jPhzJ7s_ORy_rWLbNtrWlc5IHoDKeY",
+        "source": "더리포트"
+      },
+      {
+        "title": "나주시, 이화여대와 문학 분야 업무협약 … 문학 진흥 활성화 맞손",
+        "snippet": "",
+        "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=232748",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSqzPzfN1kEKmkqVCUAnefrgOsoAgchYtPkNoY7iBukjqAf9a7bb9WJV0kSw",
+        "source": "포인트데일리"
+      }
+    ]
+  },
+  {
+    "title": "indigo",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Tue, 4 Feb 2025 21:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQThxxWV3vhSxhcivsuk-Z7P34O76e-xr09vTJyQwfkNn4oNLTi0xrsHFkgAeA",
+    "picture_source": "Times of India",
+    "news_items": [
+      {
+        "title": "Over 2,000 IndiGo and Mumbai airport taxi staffers join BJP-affiliated Airport Aviation Employees Union",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/over-2000-indigo-and-mumbai-airport-taxi-staffers-join-bjp-affiliated-airport-aviation-employees-union/articleshow/117922389.cms",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQThxxWV3vhSxhcivsuk-Z7P34O76e-xr09vTJyQwfkNn4oNLTi0xrsHFkgAeA",
+        "source": "Times of India"
+      },
+      {
+        "title": "\"Pathetic Downfall\": Delhi Doctor Calls Out IndiGo's \"Unprofessionalism\"",
+        "snippet": "",
+        "url": "https://www.ndtv.com/india-news/ex-aiims-delhi-doctor-slams-indigo-over-nightmare-flight-experience-airline-responds-7621647",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm_I2de2-2f9wE8y8cBtKTRiJKO-o5LCAUUJ_eivZPZhtP9tcKfsbGsxHmajI",
+        "source": "NDTV"
+      },
+      {
+        "title": "Man’s blood sugar level drops after meal delayed during flight",
+        "snippet": "",
+        "url": "https://newskarnataka.com/india/mans-blood-sugar-level-drops-after-meal-delayed-during-flight/05022025/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYmQsHDZchELT_tiwFcLzS233CBu9rMCj5KumswKq0U9IXPHY87iORqg_KSdc",
+        "source": "News Karnataka"
+      }
+    ]
+  },
+  {
+    "title": "문다혜",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Tue, 4 Feb 2025 21:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXQCu9o1WVeR9TFz3NBe1LSWCpKllI6o3jxdue-KxdjNXf74NadTaCdGrRE0",
+    "picture_source": "매일경제",
+    "news_items": [
+      {
+        "title": "[속보] 검찰, 문다혜 불구속 기소…음주운전·불법숙박업 혐의",
+        "snippet": "",
+        "url": "https://www.mk.co.kr/news/society/11233075",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXQCu9o1WVeR9TFz3NBe1LSWCpKllI6o3jxdue-KxdjNXf74NadTaCdGrRE0",
+        "source": "매일경제"
+      },
+      {
+        "title": "‘음주운전·불법숙박업’ 문다혜씨 재판행",
+        "snippet": "",
+        "url": "https://www.khan.co.kr/article/202502051345001",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCuamKccc7UcxSD6gmyKph6xJKLyWH5roK_NG8TlbFqoy0bZVmCCEmWQqi6Z0",
         "source": "경향신문"
       },
       {
-        "title": "[특집방송] '명태균-김건희·윤석열' 카톡 입수... 윤석열 기소할 물증 나왔다",
+        "title": "검찰, 문다혜 불구속 기소…음주운전·불법숙박업 혐의",
         "snippet": "",
-        "url": "https://newstapa.org/article/uVvAl",
-        "picture": "",
-        "source": "뉴스타파"
+        "url": "https://www.chosun.com/national/national_general/2025/02/05/OLN2CBZSJZFNZIZC6DOHSCOMKU/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkAJGQ7yt-VmbU0lbgCc34MUr_tqvhv9jHdsdq5fUKo1Nw4wdHpDCvVsinQc",
+        "source": "조선일보"
+      }
+    ]
+  },
+  {
+    "title": "부산대",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Tue, 4 Feb 2025 23:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbw8o3pYp1Qc1MRulsp0LX9ImJWRhM7EJdtU-QxntyVvhAhb3umRrxiOke02w",
+    "picture_source": "국제신문",
+    "news_items": [
+      {
+        "title": "부산대-한국환경연구원, 환경정책·계획 연구협력 MoU 체결",
+        "snippet": "",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=&key=20250205.99099001396",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbw8o3pYp1Qc1MRulsp0LX9ImJWRhM7EJdtU-QxntyVvhAhb3umRrxiOke02w",
+        "source": "국제신문"
       },
       {
-        "title": "[단독] 명태균 여론조작, 박형준∙홍준표까지 뻗쳤나…검찰 수사 착수",
+        "title": "[부산소식] 부산대·한국환경연구원, 환경정책 연구 협약 체결",
         "snippet": "",
-        "url": "https://www.hani.co.kr/arti/area/yeongnam/1176760.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlONxJPyG_BC0MhP9OsK9k9LvnwvCCNNrlkZ3WcjevBTwyFhnU17xBINSJSVk",
-        "source": "한겨레"
+        "url": "https://www.yna.co.kr/view/AKR20250205123300051",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiYXJBFFBt9RAOnnw4lhB9geg15PYuyXp3BKPMfdmRRkJ2NGn__nFCENFJToI",
+        "source": "연합뉴스"
+      },
+      {
+        "title": "부산대-한국환경연구원, 환경정책 연구협력 위한 업무협약 체결",
+        "snippet": "",
+        "url": "https://www.inthenews.co.kr/mobile/article.html?no=69044",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55hMXCJo-St6KScv_DrHSxcBW4Dynfv6BcFQhZU1NBOS86Ge_gL1703OjuYU",
+        "source": "인더뉴스"
+      }
+    ]
+  },
+  {
+    "title": "영남대",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Tue, 4 Feb 2025 22:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX5Kb2eoknYops8hWr42PWZgs6gEvjgwbFi2mmOfDyiISAI7REWXGb3BaWTwA",
+    "picture_source": "동아일보",
+    "news_items": [
+      {
+        "title": "김용대 영남대의료원장 취임",
+        "snippet": "",
+        "url": "https://www.donga.com/news/Society/article/all/20250204/130967831/2",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX5Kb2eoknYops8hWr42PWZgs6gEvjgwbFi2mmOfDyiISAI7REWXGb3BaWTwA",
+        "source": "동아일보"
+      },
+      {
+        "title": "김용대 영남대병원 교수, 영남대의료원장 취임",
+        "snippet": "",
+        "url": "https://www.imaeil.com/page/view/2025020408190979982",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkMSKzVEeg7ICQ1mCoBxObQF_f39NNko-1QlxV-7cUQHQel-w9aJSHJjM0X0",
+        "source": "매일신문"
+      },
+      {
+        "title": "영남대의료원, 제22대 김용대 의료원장 취임",
+        "snippet": "",
+        "url": "https://www.metroseoul.co.kr/article/20250203500590",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpt3hbGEai6rVqhjEf9xhy5rSnBigcPxmIwe0eR_chpGlq5U5GWNnUiIM11WI",
+        "source": "메트로신문"
+      }
+    ]
+  },
+  {
+    "title": "한성대",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Tue, 4 Feb 2025 21:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv5OM3bFpoEIcisHHxBfT88s-DtoB0Wubmf-SvM4cgnYx9sBj2J-N4O3KkfAA",
+    "picture_source": "뉴스1",
+    "news_items": [
+      {
+        "title": "한성대 국방M&S인정기술연구원, 방위사업청 전문연구기관 재위촉",
+        "snippet": "",
+        "url": "https://www.news1.kr/society/education/5678138",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv5OM3bFpoEIcisHHxBfT88s-DtoB0Wubmf-SvM4cgnYx9sBj2J-N4O3KkfAA",
+        "source": "뉴스1"
+      },
+      {
+        "title": "한성대 교내 연구원, 방사청 전문기관 위촉",
+        "snippet": "",
+        "url": "https://news.nate.com/view/20250204n23207",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfl7Gsl1IBohruaqKCij_EMDSRox337nzFa47X0CCcaupB1AprqLU1vxuYrQU",
+        "source": "NATE"
+      },
+      {
+        "title": "한성대 국방M&S인정기술연구원, 방위사업청 전문연구기관 재위촉",
+        "snippet": "",
+        "url": "https://www.newsis.com/view/NISX20250204_0003051699",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRZ6jRUfOJkyts3T00PPZq9D6JU-RCU3denl6zCW4Ie0JuNGqLNpEvYxFINZY",
+        "source": "뉴시스"
+      }
+    ]
+  },
+  {
+    "title": "동아대",
+    "link": "https://trends.google.com/trending/rss?geo=KR",
+    "pubdate": "Tue, 4 Feb 2025 21:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQhMByw5Ody5cvFlv_uYoUIItfbfYPsyWaOkMi-AHdeJcdXdfk4atEhGuPKjQ",
+    "picture_source": "국제신문",
+    "news_items": [
+      {
+        "title": "동아대 등 지역 6개 대학, ‘소프트웨어 중심 사업 협력’ 협약 체결",
+        "snippet": "",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=&key=20250205.99099001323",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQhMByw5Ody5cvFlv_uYoUIItfbfYPsyWaOkMi-AHdeJcdXdfk4atEhGuPKjQ",
+        "source": "국제신문"
+      },
+      {
+        "title": "[보도참고] \"인공지능로 디지털 대전환\", 인공지능 3대 강국 도약을 위한 정책 현장 행보 본격화",
+        "snippet": "",
+        "url": "https://go.seoul.co.kr/news/prnewsView.php?id=365545",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA",
+        "source": "서울신문"
+      },
+      {
+        "title": "정부, ‘AI G3’ 도약 위해 AI·SW 전문·융합인재 양성 지원 확대",
+        "snippet": "",
+        "url": "https://www.etoday.co.kr/news/view/2442404",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZIBC1zP-t0snf4PX33xCq1uYXVL77ZLuwFqfcLSiqUsFNenRr_wd4U2FcYpM",
+        "source": "이투데이"
       }
     ]
   }

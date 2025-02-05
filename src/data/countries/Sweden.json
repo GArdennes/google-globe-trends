@@ -1,311 +1,311 @@
 [
   {
-    "title": "bensin",
+    "title": "sl",
     "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Tue, 7 Jan 2025 23:50:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 19:50:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS__UmvNpgrF27rWgTrgm_OYjB9oPoJV-o_rMF6BCholgNX9FKaNXp0K5-xQ2w",
+    "picture_source": "cricket.com.au",
+    "news_items": [
+      {
+        "title": "Aussies expect extra spin from Galle surface for second Test",
+        "snippet": "",
+        "url": "https://www.cricket.com.au/news/4210314/second-test-australia-sri-lanka-travis-head-galle-pitch-spin-labuschagne-konstas-connolly",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS__UmvNpgrF27rWgTrgm_OYjB9oPoJV-o_rMF6BCholgNX9FKaNXp0K5-xQ2w",
+        "source": "cricket.com.au"
+      },
+      {
+        "title": "Labuschagne’s Test spot up for debate ahead of Green return",
+        "snippet": "",
+        "url": "https://www.smh.com.au/sport/cricket/head-predicts-konstas-recall-for-lord-s-as-galle-pitch-bakes-20250204-p5l9h6.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-h_BearFfuMSU8KXYU9nRHjy-F-mED05yGAXn7Zt--m1lzq4oJbdVMFPN4d0",
+        "source": "The Sydney Morning Herald"
+      },
+      {
+        "title": "Star’s fate locked in as debutant looms",
+        "snippet": "",
+        "url": "https://www.news.com.au/sport/cricket/marnus-labuschagnes-fate-locked-in-as-debutant-looms-for-second-test/news-story/195e5cba8a2620d7ba6ca821080f7a28",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrnvAY-ru1h-ZmcIWYUop_zwb9hGXOB0rcrUh74jBTaEvoFGacKUO7N63YCrg",
+        "source": "News.com.au"
+      }
+    ]
+  },
+  {
+    "title": "mikael johansson lyxfällan",
+    "link": "https://trends.google.com/trending/rss?geo=SE",
+    "pubdate": "Tue, 4 Feb 2025 20:30:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ93-T6i-PVHBvnWkIvZxIDkFNKtsjEtQJqi6h6KckjGneGDBcBaVgBjnI6-dg",
-    "picture_source": "Marcus Oscarsson",
-    "news_items": [
-      {
-        "title": "Bensin och diesel slut – tomma pumpar på flera håll",
-        "snippet": "",
-        "url": "https://marcusoscarsson.se/bensin-och-diesel-slut-tomma-pumpar-pa-flera-hall/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ93-T6i-PVHBvnWkIvZxIDkFNKtsjEtQJqi6h6KckjGneGDBcBaVgBjnI6-dg",
-        "source": "Marcus Oscarsson"
-      },
-      {
-        "title": "Akut brist på bensin – slutsålt på mackar",
-        "snippet": "",
-        "url": "https://carup.se/akut-brist-pa-bensin-slutsalt-pa-mackar/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREWsBGwAnVD1xcqFNrvk_Ckb48pliPNRk4-MNHY4FKLXOMxsKCaGP7-Cd1y_A",
-        "source": "Carup.se"
-      },
-      {
-        "title": "Bensinbrist på flera mackar: ”Tråkigt på alla sätt”",
-        "snippet": "",
-        "url": "https://www.vibilagare.se/nyheter/bensinbrist-pa-flera-mackar-trakigt-pa-alla-satt",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQRozn8LWXgoxT3bf3IApcqxpASxFnjNuIyprXTJO7yhbV8OPQ8pMNVssBk4M",
-        "source": "Vi Bilägare"
-      }
-    ]
-  },
-  {
-    "title": "så mycket bättre",
-    "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Wed, 8 Jan 2025 07:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROA_7eY08WP_9w9Y-1ODnkX4aI2wGqkAKhAVpcy_7wxW942z-OYAfibtCKKjY",
-    "picture_source": "Helagotland",
-    "news_items": [
-      {
-        "title": "BESKEDET: TV4 pausar ”Så mycket bättre” under 2025",
-        "snippet": "",
-        "url": "https://www.helagotland.se/nyheter/burgsvik/artikel/beskedet-tv4-pausar-sa-mycket-battre-under-2025/l6gezy8j",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROA_7eY08WP_9w9Y-1ODnkX4aI2wGqkAKhAVpcy_7wxW942z-OYAfibtCKKjY",
-        "source": "Helagotland"
-      },
-      {
-        "title": "Paus för ”Så mycket bättre” 2025",
-        "snippet": "",
-        "url": "https://www.aftonbladet.se/nojesbladet/a/0VklK6/sa-mycket-battre-pausas",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXzqlcZAfwsVQbTT99JBi5JaHbSRE6tpSp4bXtflXVE8p3oZhJPXFfA6CP1vo",
-        "source": "Aftonbladet"
-      },
-      {
-        "title": "Krönika: Bättre sent än aldrig – men tack för musiken TV4",
-        "snippet": "",
-        "url": "https://www.gp.se/kultur/kulturkronika/battre-sent-an-aldrig-men-tack-for-musiken-tv4.1f14c522-ce6c-4734-856e-2ab0651de650",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMSWQIeCcjLTxQPy8gf1hq2SzpZIX2mdovotjW-wmpF4b6Hh4F6d4i3oRt158",
-        "source": "GP"
-      }
-    ]
-  },
-  {
-    "title": "polytrauma",
-    "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Wed, 8 Jan 2025 07:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiNS9nX8xZmBYfmqbnSrstMZO5CMkELhdEaWm5dalgZfn5sN9VEi8Vyrsu13Y",
-    "picture_source": "CBS News",
-    "news_items": [
-      {
-        "title": "Second man accused of supplying drugs to Liam Payne before his death surrenders to Argentine police",
-        "snippet": "",
-        "url": "https://www.cbsnews.com/news/liam-payne-death-accused-hotel-worker-drugs-surrenders-police/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiNS9nX8xZmBYfmqbnSrstMZO5CMkELhdEaWm5dalgZfn5sN9VEi8Vyrsu13Y",
-        "source": "CBS News"
-      },
-      {
-        "title": "Five People Indicted in Connection With Liam Payne’s Fatal Fall",
-        "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/30/arts/music/liam-payne-indictments.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnP11LlwVNKZ3kL6Nub7cy2d35WeQPBfLdyDrnWwiap4gC6X_seWR7MiP__dU",
-        "source": "The New York Times"
-      },
-      {
-        "title": "Liam Payne Death Investigation: 5 Charged in Connection with Late One Direction Singer's Fatal Fall",
-        "snippet": "",
-        "url": "https://people.com/liam-payne-death-five-people-charged-in-connection-fatal-fall-8767456",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKj-25qS3hOCg4WZeDdYoe0-GWuUCq8oy4SKmQO5wNG8MtpmLxg7hD6_4lRAQ",
-        "source": "People.com"
-      }
-    ]
-  },
-  {
-    "title": "riksbanken",
-    "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Tue, 7 Jan 2025 23:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3Ij9H2HO31cbBKa1z3SMwU8Siy30c-Q1bnAX07EBUVMjcb_LYhYWy88Uh6k",
-    "picture_source": "SVT Nyheter",
-    "news_items": [
-      {
-        "title": "Inflationen sjunker enligt KPIF",
-        "snippet": "",
-        "url": "https://www.svt.se/nyheter/inrikes/inflationen-sjunker-enligt-kpif",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3Ij9H2HO31cbBKa1z3SMwU8Siy30c-Q1bnAX07EBUVMjcb_LYhYWy88Uh6k",
-        "source": "SVT Nyheter"
-      },
-      {
-        "title": "Inflationsjubel: ”Nu blir fattigjanuari lättare...”",
-        "snippet": "",
-        "url": "https://www.aftonbladet.se/minekonomi/a/GyqJjQ/inflationbesked-for-december",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5tMGyuL2_nmu34MgmgUhBa2rbxtZDN_4t1QTxu_xo8zjkyynuOqNzd_RPlk",
-        "source": "Aftonbladet"
-      },
-      {
-        "title": "Carl Johan von Seth: Överraskande inflationsfall lär ge ny räntesänkning",
-        "snippet": "",
-        "url": "https://www.dn.se/ekonomi/carl-johan-von-seth-nytt-inflationsfall-lar-ge-ny-rantesankning/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE8XArmC5XH3GgREKE1xivM81dhcfdU1qhqTKPuMK6C77fUqSLpTKhhuT_SSI",
-        "source": "DN"
-      }
-    ]
-  },
-  {
-    "title": "inflation",
-    "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Tue, 7 Jan 2025 22:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfVP2VDwKAZJW45V_4OBbWPQ_jWAR9AN_kHclVaiMHDN4IzTKqvInfjxLrr6s",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "Janet Yellen: Covid stimulus may have contributed 'a little bit' to inflation",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2025/01/08/janet-yellen-covid-stimulus-inflation-biden-trump.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfVP2VDwKAZJW45V_4OBbWPQ_jWAR9AN_kHclVaiMHDN4IzTKqvInfjxLrr6s",
-        "source": "CNBC"
-      },
-      {
-        "title": "Yellen: We haven't seen too much progress on inflation in the the past couple of months",
-        "snippet": "",
-        "url": "https://www.forexlive.com/news/yellen-we-havent-seen-too-much-progress-on-inflation-in-the-the-past-couple-of-months-20250108/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVu8iVSkEciaW-7LxWZ2MHhykCC0rE767qUnysKBtMdypAiD6meKftRm12JIE",
-        "source": "Forexlive"
-      },
-      {
-        "title": "Janet Yellen: Covid stimulus may have contributed ‘a little bit' to inflation",
-        "snippet": "",
-        "url": "https://www.nbclosangeles.com/news/business/money-report/janet-yellen-covid-stimulus-may-have-contributed-a-little-bit-to-inflation/3597697/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmK-HCqHN1sdxDC_s5dKimEXwzIwYUcLA0CG0TavxFa7cGm_-JfouC5EtVfEI",
-        "source": "NBC4 Los Angeles"
-      }
-    ]
-  },
-  {
-    "title": "jonathan andersson",
-    "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Wed, 8 Jan 2025 07:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGvw83uNeTm4TQBM40N7xIoZCbp8vdsGb8JgXrGAaaZon2NeTf9MeJhWQ8fyE",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdjDGsn4Y0sg5DLj8OAhYRh_g8UIA-JX9YB3Mf9S8G1oztPVkqUykt7wGZJw",
     "picture_source": "Aftonbladet",
     "news_items": [
       {
-        "title": "Jonathan Andersson lämnar Färjestad",
+        "title": "Spelskulderna fick Mikael att ta sitt liv — nu får familjen behålla huset",
         "snippet": "",
-        "url": "https://www.aftonbladet.se/sportbladet/hockey/a/eMXBKM/jonathan-andersson-bryter-med-farjestad",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGvw83uNeTm4TQBM40N7xIoZCbp8vdsGb8JgXrGAaaZon2NeTf9MeJhWQ8fyE",
+        "url": "https://www.aftonbladet.se/minekonomi/a/zAz8vb/lanekarusellen-fick-mikael-att-ta-sitt-liv-lyxfallan-hjalpte-familjen",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdjDGsn4Y0sg5DLj8OAhYRh_g8UIA-JX9YB3Mf9S8G1oztPVkqUykt7wGZJw",
         "source": "Aftonbladet"
       },
       {
-        "title": "Förre Örebrospelaren lämnar Färjestad",
+        "title": "Lämnades med sex barn och miljonskulder – när maken tog sitt liv",
         "snippet": "",
-        "url": "https://www.na.se/2025-01-08/forre-orebrospelaren-lamnar-farjestad/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUfMXOaMouFhhyH3PysGDJ-T6cfGMxa9TUIfTePvr54Jx6LExHTqi6ZQF8tSw",
-        "source": "Nerikes Allehanda"
+        "url": "https://www.tv4.se/artikel/ZotMEVp1HUIEmwjp5vtOK/laemnades-med-sex-barn-och-miljonskulder-naer-maken-tog-sitt-liv",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8v4oOtLSN9-uiRHI5jWy4OBHPRvvFmwiryrUzSnhid_zFHsNmVUNjDS308e4",
+        "source": "TV4 Nyheterna"
       },
       {
-        "title": "JUST NU: Backen lämnar Färjestad: ”Fri att söka nya utmaningar”",
+        "title": "Vändingen efter traumat – livet efter Lyxfällan • Mikael tog sitt liv",
         "snippet": "",
-        "url": "https://www.nwt.se/2025/01/08/backen-lamnar-farjestad-fri-att-soka-nya-utmaningar-cd9c3/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmfEfLRH8cb4Ulp3kWf3Q6O7quuNWL5VXUad1PDmZ8sxmHAndgELQYuCRF7Yg",
-        "source": "NWT"
-      }
-    ]
-  },
-  {
-    "title": "ukraina kursk offensiv",
-    "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Wed, 8 Jan 2025 07:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwn6p8VCz_D95MziQa0KUX7_1VoZkCscffNsGNSJX7-T4ufrQD2DDDMFUH1e8",
-    "picture_source": "SVT Nyheter",
-    "news_items": [
-      {
-        "title": "Kongresspolitiker i motion: Kriget är ett folkmord – Senaste nytt om kriget i Ukraina",
-        "snippet": "",
-        "url": "https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=f8f22965f5cfd0fee2772e1ef6c50b7b",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwn6p8VCz_D95MziQa0KUX7_1VoZkCscffNsGNSJX7-T4ufrQD2DDDMFUH1e8",
-        "source": "SVT Nyheter"
-      },
-      {
-        "title": "Ukrainas nya motoffensiv",
-        "snippet": "",
-        "url": "https://www.aftonbladet.se/podcasts/episode/379377",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCrBtNh4lURksnCWXDbOhSDmT7kfvXV2AsuBUIFtbG3FrrwPE3xSejFP3Ff90",
-        "source": "Aftonbladet"
-      },
-      {
-        "title": "”Annat ljud i skällan när Ryssland angripits”",
-        "snippet": "",
-        "url": "https://www.svd.se/a/1MdwnX/positionen-i-kursk-kan-bli-viktig-i-forhandlingar",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmGB8RL8BIRBXZ-NYwQhpMDreSr7G9822HN5bg4yng3kXqro76OPOY47nOhmM",
-        "source": "SvD"
-      }
-    ]
-  },
-  {
-    "title": "henrik landerholm",
-    "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Tue, 7 Jan 2025 23:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqV4x16fmqHnorI2T-MfuOJwgMnSoMfR0vIPARUhgBR4Le1rT5Vrp6GbtVBHY",
-    "picture_source": "SVT Nyheter",
-    "news_items": [
-      {
-        "title": "Säkerhetsrådgivare Henrik Landerholm glömde hemliga dokument",
-        "snippet": "",
-        "url": "https://www.svt.se/nyheter/inrikes/sakerhetsradgivare-henrik-landerholm-glomde-hemliga-dokument",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqV4x16fmqHnorI2T-MfuOJwgMnSoMfR0vIPARUhgBR4Le1rT5Vrp6GbtVBHY",
-        "source": "SVT Nyheter"
-      },
-      {
-        "title": "Annie Reuterskiöld: Året börjar med en smäll för statsministern",
-        "snippet": "",
-        "url": "https://www.dn.se/sverige/annie-reuterskiold-aret-borjar-med-en-small-for-statsministern/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLzxjhtJUhJx4pYCDReou7ayuPHcK-zhIf9k-o92sSb81BYHXk8sSzl7qXlxc",
-        "source": "DN"
-      },
-      {
-        "title": "Glömde handlingar som kan skada Sveriges säkerhet",
-        "snippet": "",
-        "url": "https://www.expressen.se/nyheter/sverige/glomde-handlingar-som-kan-skada-sveriges-sakerhet/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSMQbYsYN8rMDQPR9mBOioAomxsEzj_DPHkPlI31jEFLcEjyZknUdbo-4ceeQ",
+        "url": "https://www.expressen.se/noje/vandingen-efter-traumat-livet-efter-lyxfallan/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr3ZyXhiUt_Godh7fxqJjnNPPOXd113TyRvkJknqd80ae5Cnnr7vT8FDSqeiM",
         "source": "Expressen"
       }
     ]
   },
   {
-    "title": "gnosjö",
+    "title": "gazaremsan",
     "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Wed, 8 Jan 2025 08:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhZb2E3F10kkzoSdIAY9_rEtca-5YkiYpCpQUVcnSHeO1fvdZF1WnZdrif-8",
-    "picture_source": "DN",
+    "pubdate": "Tue, 4 Feb 2025 22:50:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2KKZSXd4_we9OLVD6sFuRy57mbQTuagLzmHZGhKZVfqgzOR_A-hst8JU9ME",
+    "picture_source": "SVT Nyheter",
     "news_items": [
       {
-        "title": "Misstänkte Gnosjö-mördaren planerade döda hotellstäderska",
+        "title": "Analys: Häpnadsväckande förslag – med enorma berg att bestiga",
         "snippet": "",
-        "url": "https://www.dn.se/sverige/misstankte-gnosjo-mordaren-planerade-doda-hotellstaderska/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhZb2E3F10kkzoSdIAY9_rEtca-5YkiYpCpQUVcnSHeO1fvdZF1WnZdrif-8",
-        "source": "DN"
+        "url": "https://www.svt.se/nyheter/utrikes/hapnadsvackande-forslag-med-enorma-berg-att-bestiga",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2KKZSXd4_we9OLVD6sFuRy57mbQTuagLzmHZGhKZVfqgzOR_A-hst8JU9ME",
+        "source": "SVT Nyheter"
       },
       {
-        "title": "Rättegången inleds i dag – misstänkte mördaren ströp katter",
+        "title": "Trumps förslag: Töm Gaza och låt USA ta över",
         "snippet": "",
-        "url": "https://www.aftonbladet.se/nyheter/kolumnister/a/63KMez/oisin-cantwell-en-potentiell-seriemordare-kan-ha-stoppats",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNRBfA2qSp7WiDw2iLuysqxhCgvnqUN8y6zMyVmWHmMHKmCK7_Jza7FTDtYeQ",
+        "url": "https://www.aftonbladet.se/nyheter/a/vgGbPm/trump-om-gaza-usa-ska-aga-det",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIFrvqV7dZ6Ger71miPW0hLzW4IfWFHcDh4wZq0akmcaavNuOL-ikPx8nxoNY",
         "source": "Aftonbladet"
       },
       {
-        "title": "Hör den mordmisstänkte berätta om dagen då Ana dödades",
+        "title": "Donald Trump: USA ska ta över Gaza",
         "snippet": "",
-        "url": "https://www.svt.se/nyheter/lokalt/jonkoping/starka-kanslor-nar-mordrattegang-inleddes",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf9TSk5zlmmguBwcDn2p40sYfIwvLyoPemDiW8ep7z8Ttb5kQQojtpctWhxUw",
+        "url": "https://www.dn.se/varlden/trump-usa-ska-ta-over-gaza/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpaGNDs6kWh1qFugSKnXcgXBObMBXNE43lCRhaItPKAwwghNa5NZAqb6SckGE",
+        "source": "DN"
+      }
+    ]
+  },
+  {
+    "title": "neymar",
+    "link": "https://trends.google.com/trending/rss?geo=SE",
+    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-oRCGvkLxSIFKXKbLhU8XQwebX9TQ94CcBY7RF4vlH-tyhgTvUF9bkLTFPmI",
+    "picture_source": "dsports",
+    "news_items": [
+      {
+        "title": "Tras el sueldo soñado en Arabia, se filtró cuánto ganará Neymar en Santos",
+        "snippet": "",
+        "url": "https://www.directvsports.com/futbol/Tras-el-sueldo-sonado-en-Arabia-se-filtro-cuanto-ganara-Neymar-en-Santos-20250204-0030.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-oRCGvkLxSIFKXKbLhU8XQwebX9TQ94CcBY7RF4vlH-tyhgTvUF9bkLTFPmI",
+        "source": "dsports"
+      },
+      {
+        "title": "El regreso de Neymar impulsa las ventas anticipadas de camisetas del Santos",
+        "snippet": "",
+        "url": "https://www.footboom1.com/es/news/football/2353240-neymar-s-return-sparks-surge-in-santos-jersey-pre-sales",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3MTQzwaFTw0F40GywPHVT4DMggFxOmFTiKfK0U6TTMY1CJSDBK8cV4CrPLck",
+        "source": "FootBoom"
+      },
+      {
+        "title": "Neymar llegó a la práctica en helicóptero",
+        "snippet": "",
+        "url": "https://ansabrasil.com.br/americalatina/noticia/deportes/2025/02/04/neymar-llego-a-la-practica-en-helicoptero_e2ba5d7b-1386-4a24-be24-1513a2b29488.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRK6QlGuCNWS-RUpjJoK4K3eSD1eFFvIl-CWV2x736wDY1ufeXG66lhZ12nzvg",
+        "source": "ANSA Brasil"
+      }
+    ]
+  },
+  {
+    "title": "roslagsbanan",
+    "link": "https://trends.google.com/trending/rss?geo=SE",
+    "pubdate": "Tue, 4 Feb 2025 21:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdtNtSqyG0MLcjDI5VG14d0L2Er0fDJLumq5sYef2Bo3tYH-OXxoWQVL1eM8",
+    "picture_source": "SVT Nyheter",
+    "news_items": [
+      {
+        "title": "Nedriven kontaktledning orsakar stopp på Roslagsbanan",
+        "snippet": "",
+        "url": "https://www.svt.se/nyheter/lokalt/stockholm/nedriven-kontaktledning-orsakar-stopp-pa-roslagsbanan",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdtNtSqyG0MLcjDI5VG14d0L2Er0fDJLumq5sYef2Bo3tYH-OXxoWQVL1eM8",
+        "source": "SVT Nyheter"
+      },
+      {
+        "title": "Stort avbrott på Roslagsbanan",
+        "snippet": "",
+        "url": "https://www.mitti.se/nyheter/stort-avbrott-pa-roslagsbanan-6.3.275047.6e59d1e8a2",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3apFtqfP0J2NGNdoEOjQuQVA8_HK1lc2s4eyow47W-EQR4932vAOJd23u1w",
+        "source": "Mitt i"
+      },
+      {
+        "title": "Uppgifter: Misstänkte dubbelmördaren dömd för flera tidigare brott",
+        "snippet": "",
+        "url": "https://www.aftonbladet.se/nyheter/a/GyXOlQ/misstankte-dubbelmordaren-i-pitea-uppges-vara-domd-for-flera-brott",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2LBoPwLp_5sPwDcvqLv3aFoqu6QDfPsja_XyY1kwQWnE292oV9jILuunULps",
+        "source": "Aftonbladet"
+      }
+    ]
+  },
+  {
+    "title": "larsa pippen",
+    "link": "https://trends.google.com/trending/rss?geo=SE",
+    "pubdate": "Tue, 4 Feb 2025 20:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "",
+    "picture_source": "AP News",
+    "news_items": [
+      {
+        "title": "Michael Jordan's son was arrested in Florida on drug charge after SUV was stopped on railroad tracks",
+        "snippet": "",
+        "url": "https://apnews.com/article/marcus-jordan-arrest-michael-jordan-nba-2d91de791156f7e9874197c4f794fe26",
+        "picture": "",
+        "source": "AP News"
+      },
+      {
+        "title": "Michael Jordan's Son Arrested For Cocaine Possession, Resisting Arrest",
+        "snippet": "",
+        "url": "https://www.tmz.com/2025/02/04/michael-jordan-marcus-arrest-dui-cocaine-florida/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxcjvDBO02HEr0hNSnaUQVn_FQu7l3A358fs_zyIknpDKwUofJeJTblVAvGik",
+        "source": "TMZ"
+      },
+      {
+        "title": "Marcus Jordan, son of Michael Jordan, arrested in Central Florida for DUI, drug charges",
+        "snippet": "",
+        "url": "https://www.wesh.com/article/marcus-jordan-arrest-florida/63663575",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNAs0LED0g2Ipb6w1w380CflgK81XMdEDpNBQyDGvirEtJSqe37D0gNvrq0Gc",
+        "source": "WESH"
+      }
+    ]
+  },
+  {
+    "title": "gottsunda",
+    "link": "https://trends.google.com/trending/rss?geo=SE",
+    "pubdate": "Tue, 4 Feb 2025 23:30:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSw_ocEWwPdodgarKxxjotcqpw5nlc_OdE37dJ9G_ZR1gogFh4mxtW4JqvOG8E",
+    "picture_source": "UNT",
+    "news_items": [
+      {
+        "title": "JUST NU: Polisen om insatsen i Gottsunda – en till sjukhus",
+        "snippet": "",
+        "url": "https://www.unt.se/nyheter/uppsala/artikel/just-nu-polisen-om-insatsen-i-gottsunda-en-till-sjukhus/lyvkxn9l",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSw_ocEWwPdodgarKxxjotcqpw5nlc_OdE37dJ9G_ZR1gogFh4mxtW4JqvOG8E",
+        "source": "UNT"
+      },
+      {
+        "title": "Misstänkt grovt brott i Gottsunda – stor polisinsats",
+        "snippet": "",
+        "url": "https://www.sverigesradio.se/artikel/misstankt-grovt-brott-i-gottsunda-stor-polisinsats",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU3S_xANC42NF3ofwaOf4F1_Nrwgr-jDET-KF16Q6FwIOgynNyCtWc9hwv3ck",
+        "source": "Sveriges Radio"
+      },
+      {
+        "title": "Stor polisinsats i Gottsunda: \"Pågående insats\"",
+        "snippet": "",
+        "url": "https://www.unt.se/nyheter/uppsala/artikel/stor-polisinsats-i-gottsunda-ska-ha-hotat-med-pistol/lyvkxn9l",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0zCJlcHpyH42VX_LybsDYkWXO8y1dwepe0DMraJZqKxVTXBM8x58ctn1id9g",
+        "source": "UNT"
+      }
+    ]
+  },
+  {
+    "title": "four nations",
+    "link": "https://trends.google.com/trending/rss?geo=SE",
+    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6XXWt1xUEpX098thmbfQtoYROqaZ7nng5mmAhNWkdMbp9WergWNxfEV_X2-c",
+    "picture_source": "Aftonbladet",
+    "news_items": [
+      {
+        "title": "”Jag kände mig extra inspirerad”",
+        "snippet": "",
+        "url": "https://www.aftonbladet.se/sportbladet/hockey/a/lwab89/nhl-ne-jersey-besegrade-pittsburgh",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6XXWt1xUEpX098thmbfQtoYROqaZ7nng5mmAhNWkdMbp9WergWNxfEV_X2-c",
+        "source": "Aftonbladet"
+      },
+      {
+        "title": "Beskedet: Kallas in till Tre Kronor",
+        "snippet": "",
+        "url": "https://www.expressen.se/sport/hockey/tre-kronor/rickard-rakell-kallas-in-till-four-nations/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKWQ_Tcj4AQSDNl458zv2DY1-Cmgk9En9vAUm01bKdud2LTIUUe-9WJ9p3oDA",
+        "source": "Expressen"
+      },
+      {
+        "title": "Ishockey: Tungt för Samuel Ersson – blev utbytt",
+        "snippet": "",
+        "url": "https://www.svt.se/sport/ishockey/tungt-for-samuel-ersson-blev-utbytt",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVfY82l-NueYT6Evd7qMNPIuX4Bm4pEboASE9CcHMyytBLlJEvQeLw9umwtms",
         "source": "SVT Nyheter"
       }
     ]
   },
   {
-    "title": "post malone",
+    "title": "nhl",
     "link": "https://trends.google.com/trending/rss?geo=SE",
-    "pubdate": "Wed, 8 Jan 2025 06:40:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 19:50:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYO3i-UsVpnq6Poy1GNwPRvx1jWGtdvV-3R75uWAhzZs9dA7gsVkLoRdDyDBg",
-    "picture_source": "Houston Public Media",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRklApZkmAsfdsTqixqAR8EUoDwq98hZZe0fno-ea7KuqD3ccuxCNVWbnFUB4M",
+    "picture_source": "Aftonbladet",
     "news_items": [
       {
-        "title": "Post Malone gives $20,000 holiday tip to Houston bartender",
+        "title": "William Nylander stod för hattrick i natt",
         "snippet": "",
-        "url": "https://www.houstonpublicmedia.org/articles/arts-culture/pop-culture/2025/01/07/510100/post-malone-gives-20000-holiday-tip-to-houston-area-bartender/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYO3i-UsVpnq6Poy1GNwPRvx1jWGtdvV-3R75uWAhzZs9dA7gsVkLoRdDyDBg",
-        "source": "Houston Public Media"
+        "url": "https://www.aftonbladet.se/sportbladet/hockey/a/63e1kL/nhl-toronto-besegrade-calgary",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRklApZkmAsfdsTqixqAR8EUoDwq98hZZe0fno-ea7KuqD3ccuxCNVWbnFUB4M",
+        "source": "Aftonbladet"
       },
       {
-        "title": "Rapper Post Malone drops $20,000 tip for Houston waitress before show",
+        "title": "Nylander med hattrick i Torontos vinst",
         "snippet": "",
-        "url": "https://www.chron.com/food/article/post-malone-houston-waitress-tip-20018648.php",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCEnZxRy0UeLtO3sMe9cVbwrhPHmk1mryT0EsQPQP7KToakxLEvrvvRO_GV6U",
-        "source": "Chron"
+        "url": "https://www.msn.com/sv-se/sport/other/nylander-med-hattrick-i-torontos-vinst/ar-AA1yr3Ps",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTivgTrqT8Ks-0MKcDPxvmb4ZIGJ7O5ZK7g9aI4zFSv1GruA1lJ7uZy-wEeidU",
+        "source": "MSN"
       },
       {
-        "title": "How Post Malone made a Houston bartender’s year with a $20K tip",
+        "title": "Hattrick av Nylander – tvåa i målligan",
         "snippet": "",
-        "url": "https://www.click2houston.com/news/local/2025/01/08/how-post-malone-made-a-houston-bartenders-year-with-a-20k-tip/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMtYpA65qaWkBr9QN2QZnLOePz1TADS9uBD4zgwKynJ0J43ap0VLw8elx9uns",
-        "source": "Click2Houston"
+        "url": "https://hockeynews.se/nyheter/hattrick-av-nylander-tvaa-i-malligan",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwHVXZMa9SQaD-8dZtDgKV0rBWrR6ksqLR0Oip6STupxe6JCd4kqwv6txnazQ",
+        "source": "HockeyNews"
+      }
+    ]
+  },
+  {
+    "title": "hemnet",
+    "link": "https://trends.google.com/trending/rss?geo=SE",
+    "pubdate": "Tue, 4 Feb 2025 18:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTRIj31en7MYNk91u9GRMq1AbZAanjBPpc9F_-rd9RCuISNdGFGulqTG93_Mk",
+    "picture_source": "Västerviks-Tidningen",
+    "news_items": [
+      {
+        "title": "Fyrarumsvilla för 16 miljoner toppar listan",
+        "snippet": "",
+        "url": "https://www.vt.se/nyheter/vastervik/artikel/fyrarumsvilla-for-16-miljoner-toppar-listan/rx7n48yl",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTRIj31en7MYNk91u9GRMq1AbZAanjBPpc9F_-rd9RCuISNdGFGulqTG93_Mk",
+        "source": "Västerviks-Tidningen"
+      },
+      {
+        "title": "Analys: Hemnet är en unik tillgång - men aktien är dyr",
+        "snippet": "",
+        "url": "https://www.placera.se/placera/redaktionellt/2025/02/03/analys-hemnet-aktien-ar-inte-billig-men-ar-samtidigt-en-helt-unik-tillgang.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMVh4ICpj8-_y2kvi68x80e15R5jV-y-Xz00YL_U-aFa1bNaiPRlFqiM_apGM",
+        "source": "Placera"
+      },
+      {
+        "title": "Tillväxtstjärnan slutar med börsnedgången",
+        "snippet": "",
+        "url": "https://www.di.se/nyheter/tillvaxtstjarnan-slutar-med-borsnedgangen/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgResu6fdzTyzuHP7ToSD0n2a3W7bjJrFRCg1vD1w4yPihakXnghZmK_w_sI4",
+        "source": "Dagens industri"
       }
     ]
   }

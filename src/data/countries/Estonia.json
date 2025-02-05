@@ -1,11 +1,64 @@
 [
   {
-    "title": "mailis reps",
+    "title": "bob dylan",
     "link": "https://trends.google.com/trending/rss?geo=EE",
-    "pubdate": "Wed, 8 Jan 2025 02:00:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
+    "pubdate": "Tue, 4 Feb 2025 09:30:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmhqdQqC53il19sAtwaAKhrgjN51NwH_9cfWxIDvys5lLres8p9WX3rPA0tEg",
+    "picture_source": "Rolling Stone",
+    "news_items": [
+      {
+        "title": "Willie Nelson, Bob Dylan Announce 2025 Outlaw Music Festival Summer Tour",
+        "snippet": "",
+        "url": "https://www.rollingstone.com/music/music-news/bob-dylan-willie-nelson-2025-outlaw-music-festival-tour-dates-1235253589/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmhqdQqC53il19sAtwaAKhrgjN51NwH_9cfWxIDvys5lLres8p9WX3rPA0tEg",
+        "source": "Rolling Stone"
+      },
+      {
+        "title": "Willie Nelson, Bob Dylan reunite (again) for Outlaw Music Festival 10th anniversary",
+        "snippet": "",
+        "url": "https://www.aol.com/news/willie-nelson-bob-dylan-reunite-171433798.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6XNp6WUY55Akq3o5u6MdZQqTndgh3xU3PcewiAu0cwBJYKNlbV8veoxvpnpo",
+        "source": "AOL.com"
+      },
+      {
+        "title": "Willie Nelson, Bob Dylan, Sheryl Crow coming to Connecticut for Outlaw Festival",
+        "snippet": "",
+        "url": "https://www.nbcconnecticut.com/entertainment/entertainment-news/willie-nelson-bob-dylan-sheryl-crow-coming-to-connecticut-for-outlaw-festival/3490000/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt2KlJbxH7KfB3tBq759PPgT4NS9j8AEztY5vpW0NGQyRhFQpLZ64A4bl-EqU",
+        "source": "NBC Connecticut"
+      }
+    ]
+  },
+  {
+    "title": "örebro",
+    "link": "https://trends.google.com/trending/rss?geo=EE",
+    "pubdate": "Tue, 4 Feb 2025 09:10:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc-teeI-CSyJSz70ACV5MM6dTzZjwi5bMHLqpMMDrOZpI5i1TtxN2atq5wTmc",
+    "picture_source": "Aftonbladet",
+    "news_items": [
+      {
+        "title": "Lasse, 62, hörde skotten – gömde sig i lunchrummet på Risbergska",
+        "snippet": "",
+        "url": "https://www.aftonbladet.se/nyheter/a/25gJX4/lasse-62-horde-skotten-gomde-sig-i-lunchrummet-pa-risbergska",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc-teeI-CSyJSz70ACV5MM6dTzZjwi5bMHLqpMMDrOZpI5i1TtxN2atq5wTmc",
+        "source": "Aftonbladet"
+      },
+      {
+        "title": "Polisen: Inget ideologiskt motiv bakom skjutningen",
+        "snippet": "",
+        "url": "https://www.dn.se/sverige/polisen-inget-ideologiskt-motiv-bakom-skjutningen/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhr0s2kgUVI4fykuyIWXAxUJIdojstgL0NWlwSUO1X-z6ss63I_2ZHCtY_v2A",
+        "source": "DN"
+      },
+      {
+        "title": "Här är mannen som pekas ut för massakern",
+        "snippet": "",
+        "url": "https://www.na.se/2025-02-05/har-ar-mannen-som-pekas-ut-for-massakern/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjYpJuKSlWuD_I4Kz4GTd_JxQ-6n3wv_cPzP8JUXr138Y3kFWfVYnFEhjw7g",
+        "source": "Nerikes Allehanda"
+      }
+    ]
   }
 ]

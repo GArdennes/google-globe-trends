@@ -1,94 +1,156 @@
 [
   {
-    "title": "eldense – valence",
+    "title": "atlético madrid – getafe",
     "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Tue, 7 Jan 2025 11:30:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMi2JWfJfaEXjuUktncwUQuGSpeMGhOHFdTdZJvwDJSDr0HwScWyd2H2Sv_74",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
+    "picture_source": "El Periódico de España",
+    "news_items": [
+      {
+        "title": "Y Giuliano volvió a demostrar, arrollando al Getafe, que es digno heredero del cántico de su padre",
+        "snippet": "",
+        "url": "https://www.epe.es/es/deportes/20250204/atletico-madrid-getafe-copa-rey-resultado-giuliano-simeone-114008399",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
+        "source": "El Periódico de España"
+      },
+      {
+        "title": "Antonio Romero: \"El Atlético llega como el equipo en mejor forma de nuestra competición al derbi frente al Real Madrid\"",
+        "snippet": "",
+        "url": "https://cadenaser.com/nacional/2025/02/04/antonio-romero-el-atletico-de-madrid-llega-como-el-equipo-en-mejor-forma-de-nuestra-competicion-al-derbi-frente-al-real-madrid-cadena-ser/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXYPvZg42nC11OlMOVOnojmVeM8eLRTcTYVCGhr532uaYYQs54a4O6g2YNCV8",
+        "source": "Cadena SER"
+      },
+      {
+        "title": "Atlético De Madrid Se Pasea Ante El Getafe Y Ya Está En Semis De Copa",
+        "snippet": "",
+        "url": "https://www.barrons.com/news/spanish/atletico-de-madrid-se-pasea-ante-el-getafe-y-ya-esta-en-semis-de-copa-219033c9?refsec=topics_afp-news",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9gfeM9nRKaK9_PzewxOrW4yWxixdmjl6s0ga885BZ6-pLXbP7hhJ0kBHKPoo",
+        "source": "Barron's"
+      }
+    ]
+  },
+  {
+    "title": "le mans – paris-sg",
+    "link": "https://trends.google.com/trending/rss?geo=BF",
+    "pubdate": "Tue, 4 Feb 2025 11:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
     "picture_source": "L'Équipe",
     "news_items": [
       {
-        "title": "Eldense 0-2 Valence CF, Coupe du Roi : résumé du match (07/01/2025)",
+        "title": "Le PSG laissera sa part de recette au Mans... seulement en Coupe de France Féminine",
         "snippet": "",
-        "url": "https://www.lequipe.fr/Football/match-direct/coupe-du-roi/2024-2025/eldense-valence-cf-live/669109",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMi2JWfJfaEXjuUktncwUQuGSpeMGhOHFdTdZJvwDJSDr0HwScWyd2H2Sv_74",
+        "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-laissera-sa-part-de-recette-au-mans-seulement-en-coupe-de-france-feminine/1537691",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
         "source": "L'Équipe"
       },
       {
-        "title": "La Coupe comme tremplin vers le Pizjuán",
+        "title": "Mardi 4 février 2025 au Mans : Alexandre Abrivard en lever de rideau du 8e de finale de Coupe de France de football",
         "snippet": "",
-        "url": "https://www.footboom1.com/fr/news/football/2273284-the-cup-as-a-springboard-towards-the-pizjuan",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLKmd-JBXegV8DYsCqGK48Mt1ydK1wxA5EvpSE1bruYN1eyRgv8gdmKVz_ZUY",
-        "source": "FootBoom"
+        "url": "https://www.paris-turf.com/actualites/vie-des-courses/mardi-4-fevrier-2025-au-mans-alexandre-abrivard-en-lever-de-rideau-du-8e-de-finale-de-coupe-de-france-de-football-30697534620",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4CmXOnPL4FKQ5XXZHiur8pwi05jLDp4xXaia43lFsSsS_zw4WgGmGjuzCAnA",
+        "source": "Paris-Turf"
       },
       {
-        "title": "Coupe du Roi : Valence se qualifie pour les huitièmes",
+        "title": "Multiplex Coupe de France : sur quelle chaîne et à quelle heure voir les matchs de ce mercredi ?",
         "snippet": "",
-        "url": "https://www.footmercato.net/a8154151294672055312-coupe-du-roi-valence-se-qualifie-pour-les-huitiemes",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlQPWJz-EW2tQE2b8IjgZvlwTICrh6YO2fyKlZ5By84PzY4lyXztb5ozMrn7o",
-        "source": "Foot Mercato"
+        "url": "https://www.ouest-france.fr/sport/football/coupe-de-france/multiplex-coupe-de-france-sur-quelle-chaine-et-a-quelle-heure-voir-les-matchs-de-ce-mercredi-b52d3ce0-e303-11ef-95b5-abc03fff97b2",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJrjo9T6D-M1cSx-z9SsEwMj7GqiwDke1yxFN-lDLUGwv7kV0jxIdK7zJV8OY",
+        "source": "Ouest-France"
       }
     ]
   },
   {
-    "title": "arsenal – newcastle",
+    "title": "atalanta – bologne",
     "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Tue, 7 Jan 2025 11:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIF_aKZp4x7yyqe8SUKCm8y9z8LvCUHhLWgqHaRXKupy1_pU3AGrTP9KMFnk8",
-    "picture_source": "Arsenal.com",
+    "pubdate": "Tue, 4 Feb 2025 12:00:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVQaEWxEuPE5nfAmvi5tHnlHv0Z8SL8VVA663BlhjKFaAL2dpbiYo1KEXE4Ug",
+    "picture_source": "SO FOOT.com",
     "news_items": [
       {
-        "title": "Arteta on Toon tie: \"It's only half-time\" | Interview | News",
+        "title": "Bologne croque l’Atalanta et se hisse en demies",
         "snippet": "",
-        "url": "https://www.arsenal.com/news/arteta-toon-tie-its-only-half-time",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIF_aKZp4x7yyqe8SUKCm8y9z8LvCUHhLWgqHaRXKupy1_pU3AGrTP9KMFnk8",
-        "source": "Arsenal.com"
+        "url": "https://www.sofoot.com/breves/coupe-ditalie-bologne-croque-bologne-et-se-hisse-en-demies",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVQaEWxEuPE5nfAmvi5tHnlHv0Z8SL8VVA663BlhjKFaAL2dpbiYo1KEXE4Ug",
+        "source": "SO FOOT.com"
       },
       {
-        "title": "Arsenal’s Slim League Cup Hopes: What History Says About Overturning a Two-Goal Deficit",
+        "title": "Pronostic Atalanta Bologne : Bergame met Bologne dans la sauce ?",
         "snippet": "",
-        "url": "https://theanalyst.com/2025/01/arsenal-league-cup-chances-defeat-newcastle",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_L6Ryc4EaZLYphXS71cvd8ImGqLawV4bGCHLdsVo3vDkTnFD372-Uh2E1mTs",
-        "source": "Opta Analyst"
+        "url": "https://maligue2.fr/2025/02/03/pronostic-atalanta-bologne-bergame-met-bologne-dans-la-sauce/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJWN9_Hp49CU3cOxgR5vMSi854iyDuk-RjRRyd9hHL_LF3E30qHfPdzrzL-5A",
+        "source": "MaLigue2"
       },
       {
-        "title": "Official Carabao Cup account uses perfect 50 Cent meme to troll Mikel Arteta in hilarious response to Arsenal manager's bizarre criticism of match ball",
+        "title": "Atalanta contre Bologna : Aperçu du Match et Prédiction",
         "snippet": "",
-        "url": "https://www.goal.com/en-om/lists/official-carabao-cup-account-uses-50-cent-meme-troll-mikel-arteta-hilarious-response-arsenal-manager-criticism-match-ball/blt836e587fbbbba106",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJRMkjbjflntJJnTf8203surl4s9RcOr7RfFKCSHGtAGHQiVgEf-HGj6RBA2k",
-        "source": "Goal.com"
+        "url": "https://www.footboom1.com/fr/news/football/2351522-atalanta-vs-bologna-match-preview-and-prediction",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ--DhboJ7e__k1TWjG3wRjKVdoToi0Eg-qRhYc3MFHD6ECL1GsefFy959HC78",
+        "source": "FootBoom"
       }
     ]
   },
   {
-    "title": "al-hilal – al ittihad",
+    "title": "lille – usl dunkerque",
     "link": "https://trends.google.com/trending/rss?geo=BF",
-    "pubdate": "Tue, 7 Jan 2025 10:20:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 12:30:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCGM30XtpN_235rp4KinhbSm3F-M2xTNGlZxfBmsx27PikjUD_o_2GwhrMa6w",
-    "picture_source": "FootBoom",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa-tIOPH3jkKmKBLTCL0RNApfZh74B6DrkSIXxHi3q4WszJcq9CmWt00hOD0s",
+    "picture_source": "Le petit Lillois",
     "news_items": [
       {
-        "title": "Match Result: Al-Hilal and Al-Ittihad Draw (2-2) in Saudi King’s Cup Quarter-Finals",
+        "title": "LOSC – USL Dunkerque : L’absence surprise de Gabriel Gudmundsson expliquée",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2272922-match-result-al-hilal-and-al-ittihad-draw-2-2-in-saudi-king-s-cup-quarter-finals",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCGM30XtpN_235rp4KinhbSm3F-M2xTNGlZxfBmsx27PikjUD_o_2GwhrMa6w",
-        "source": "FootBoom"
+        "url": "https://lepetitlillois.com/2025/02/05/losc-usl-dunkerque-labsence-surprise-de-gabriel-gudmundsson-expliquee/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa-tIOPH3jkKmKBLTCL0RNApfZh74B6DrkSIXxHi3q4WszJcq9CmWt00hOD0s",
+        "source": "Le petit Lillois"
       },
       {
-        "title": "Diaby is on Al-Ittihad’s list to face Al-Hilal",
+        "title": "L'équipe de Ligue 2 élimine Lille de la Coupe Zhegrovë",
         "snippet": "",
-        "url": "https://www.ysscores.com/en/news/10292963/Diaby-is-on-Al-Ittihad%E2%80%99s-list-to-face-Al-Hilal",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT57CqAlLvxKc0Wu34OLNCHQMeuQWOuDmtyRs7E6NbUauCUHzVeWS1oZoZ6hI",
-        "source": "www.ysscores.com"
+        "url": "https://www.koha.net/fr/futboll/skuadra-e-ligue-2-eliminon-nga-kupa-lillen-e-zhegroves",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGMkXH38wk0wGzkt55q_Cy7wISPAmA2LOkl9_dhN57zm1hNzWveDB-8l2btvU",
+        "source": "KOHA.net"
       },
       {
-        "title": "Al-Hilal Fans Prepare for Saudi Classic!",
+        "title": "Coupe de France : Ewen Jaouen, l’ange gardien de Dunkerque planait sur son nuage face au LOSC",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2269384-al-hilal-fans-prepare-for-saudi-classic",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyX4jQfhq9pkbTT0IVhXeygGFCi0TmHP726S7ga0H4lOpiLcQlTD6MHre7As",
-        "source": "FootBoom"
+        "url": "https://www.lavoixdunord.fr/1551593/article/2025-02-04/coupe-de-france-ewen-jaouen-l-ange-gardien-de-dunkerque-planait-sur-son-nuage",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2eD340HjPP8e4RocpGK844kseaf7UUKycySwr4G9YpeyQKrwFHDcTFE9hWA",
+        "source": "La Voix du Nord"
+      }
+    ]
+  },
+  {
+    "title": "troyes – brest",
+    "link": "https://trends.google.com/trending/rss?geo=BF",
+    "pubdate": "Tue, 4 Feb 2025 11:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5QIloj98WcrRMAEkISMfSZBBFyozqViA-eyF9mnBvKEi7cDz8gI4Vu1VZ9SU",
+    "picture_source": "L'Équipe",
+    "news_items": [
+      {
+        "title": "Pas d'inquiétude pour le Brestois Romain Faivre, sorti sur blessure à Troyes en Coupe de France",
+        "snippet": "",
+        "url": "https://www.lequipe.fr/Football/Actualites/Pas-d-inquietude-pour-le-brestois-romain-faivre-sorti-sur-blessure-a-troyes-en-coupe-de-france/1537742",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5QIloj98WcrRMAEkISMfSZBBFyozqViA-eyF9mnBvKEi7cDz8gI4Vu1VZ9SU",
+        "source": "L'Équipe"
+      },
+      {
+        "title": "Ibrahim Salah buteur en Coupe de France",
+        "snippet": "",
+        "url": "https://mountakhab.net/ibrahim-salah-buteur-en-coupe-de-france/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVS8ndwkxj43GD3-JVZVlDu5Rcoq7ROItIgjVlGpp2X0m5Z1Tx73Nv8yI5Y4",
+        "source": "mountakhab.net"
+      },
+      {
+        "title": "CdF : Troyes 0-0 Brest (mi-tps)",
+        "snippet": "",
+        "url": "https://m.maxifoot.fr/coupe-france/troyes-0-0-brest-mi-tps-foot-427854.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6Yxm3Cou6sr745SmbG5N2mAJVHj1YiQl6cJz69uX_jzZZz-olTIn_qdq4j0",
+        "source": "Maxifoot"
       }
     ]
   }

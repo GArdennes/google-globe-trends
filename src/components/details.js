@@ -41,22 +41,17 @@ export default function Details() {
                   onClick={() => window.open(trend.link, "_blank")}>
                   {trend.title}
                 </a>
-                <p>{`(Approximate traffic of ${trend.traffic})`}</p>
+                <p
+                  style={{
+                    marginBottom: "1rem",
+                  }}>{`(Approximate traffic of ${trend.traffic})`}</p>
               </li>
             ))}
           </ul>
           <Button
             label="View search results"
             onClick={() => window.open(url, "_blank")}
-            style={{
-              backgroundColor: "#333",
-              color: "#fff",
-              padding: "0.5rem 1rem",
-              borderRadius: "5px",
-              border: "none",
-              fontSize: "1rem",
-              cursor: "pointer",
-            }}
+            id="search-button"
           />
         </div>
       </>

@@ -1,94 +1,125 @@
 [
   {
-    "title": "grenlande",
+    "title": "cavaliers pret celtics",
     "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Tue, 7 Jan 2025 22:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlbYvcJTwBv8OJ5To5scDNALDh4ZhzoDLBkM7qNiNGdGBS9wI1qGPcr_jVJUA",
+    "pubdate": "Tue, 4 Feb 2025 19:20:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlmmDwBdYVe8k3xTs3kPLrXTeEFAvsvSxMCcdZbfM4JZGYSnWMWjjNuBD1Jr8",
+    "picture_source": "DELFI",
+    "news_items": [
+      {
+        "title": "Porziņģis turpina demonstrēt lielisku sniegumu un palīdz \"Celtics\" uzvarēt tiešo konkurenti",
+        "snippet": "",
+        "url": "https://www.delfi.lv/sports/17012608/basketbols/120060080/porzingis-turpina-demonstret-lielisku-sniegumu-un-palidz-celtics-uzvaret-tieso-konkurenti",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlmmDwBdYVe8k3xTs3kPLrXTeEFAvsvSxMCcdZbfM4JZGYSnWMWjjNuBD1Jr8",
+        "source": "DELFI"
+      },
+      {
+        "title": "Porziņģim 19 punkti aizraujošā Austrumu konferences līderu cīņā / Raksts",
+        "snippet": "",
+        "url": "https://www.lsm.lv/raksts/sports/basketbols/05.02.2025-porzingim-19-punkti-aizraujosa-austrumu-konferences-lideru-cina.a586502/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJj5rLrQ2acfCtIXK21Jsvf8Jr1ASqOhhPInRgS-r-sl-NOpmYUQZmiNavGuk",
+        "source": "LSM"
+      },
+      {
+        "title": "Porziņģis aizpilda statistikas ailītes, Bostona pārspēj Austrumu līderi – Basketbols",
+        "snippet": "",
+        "url": "https://sportacentrs.com/basketbols/nba/kristaps_porzingis/05022025-porzingis_aizpilda_statistikas_ailites_bo",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJjW-avJ9cBbf3cX3DbNw1f8p8AcZbP0RTSR4vGv-IxT6EUYufld-WLxB4Rw",
+        "source": "Sportacentrs.com"
+      }
+    ]
+  },
+  {
+    "title": "lielais kristaps",
+    "link": "https://trends.google.com/trending/rss?geo=LV",
+    "pubdate": "Tue, 4 Feb 2025 11:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLD3MwwqUnRy0KTMqaGmus93AEUJJrk5udu67foeEW0jsclBag7hKy4282iTo",
+    "picture_source": "LSM",
+    "news_items": [
+      {
+        "title": "«Lielā Kristapa» ceremonijā kuplākie lauri – filmām «Straume» un «Marijas klusums» / Raksts",
+        "snippet": "",
+        "url": "https://www.lsm.lv/raksts/kultura/kino-foto-un-tv/04.02.2025-liela-kristapa-ceremonija-kuplakie-lauri-filmam-straume-un-marijas-klusums.a586388/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLD3MwwqUnRy0KTMqaGmus93AEUJJrk5udu67foeEW0jsclBag7hKy4282iTo",
+        "source": "LSM"
+      },
+      {
+        "title": "Pasniegti \"Lielie Kristapi\": gada labākā filma \"Marijas klusums\", \"Straumei\" piecas balvas",
+        "snippet": "",
+        "url": "https://www.delfi.lv/kultura/52862727/screen/120060071/pasniegti-lielie-kristapi-gada-labaka-filma-marijas-klusums-straumei-piecas-balvas",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRu0DN0OTPrldO2xhHWXk3aQBGZQxzk82W7FNIGyziYGr9dbNHiby2XfLwmNFw",
+        "source": "DELFI"
+      },
+      {
+        "title": "Noskaidroti Nacionālās kino balvas \"Lielais Kristaps\" ieguvēji",
+        "snippet": "",
+        "url": "https://www.apollo.lv/8186004/noskaidroti-nacionalas-kino-balvas-lielais-kristaps-ieguveji",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQSTqk4cKnfsmicyJg13l5CusUiTkSXXvOJecPGg1JB0pHpDc7KhhpOrgQ_M",
+        "source": "Apollo.lv"
+      }
+    ]
+  },
+  {
+    "title": "kas jauns",
+    "link": "https://trends.google.com/trending/rss?geo=LV",
+    "pubdate": "Tue, 4 Feb 2025 21:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQyHf5A7eEkb2U76FeXYmlWroCvuV4PL9lw8CYOS1lFgbyuI7gyRI6Of922ck",
     "picture_source": "Jauns.lv",
     "news_items": [
       {
-        "title": "Rinkēvičs: ceru, ka Tramps nedomā nopietni uzbrukt Kanādai un atņemt Dānijai Grenlandi",
+        "title": "Somijā mīklaini pazudis pāris no Rīgas, telefoni izslēgti gandrīz divas nedēļas",
         "snippet": "",
-        "url": "https://jauns.lv/raksts/zinas/636335-rinkevics-ceru-ka-tramps-nedoma-nopietni-uzbrukt-kanadai-un-atnemt-danijai-grenlandi",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlbYvcJTwBv8OJ5To5scDNALDh4ZhzoDLBkM7qNiNGdGBS9wI1qGPcr_jVJUA",
+        "url": "https://jauns.lv/raksts/zinas/640091-somija-miklaini-pazudis-paris-no-rigas-telefoni-izslegti-gandriz-divas-nedelas",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQyHf5A7eEkb2U76FeXYmlWroCvuV4PL9lw8CYOS1lFgbyuI7gyRI6Of922ck",
         "source": "Jauns.lv"
       },
       {
-        "title": "Tramps atdzīvina ASV sapni par Grenlandi",
+        "title": "Mīklainos apstākļos ceļā uz Somiju pazuduši divi Latvijas iedzīvotāji - vīrietis un sieviete",
         "snippet": "",
-        "url": "https://www.tvnet.lv/8168060/tramps-atdzivina-asv-sapni-par-grenlandi",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4QHQGf8V20khyWi3y-gEn_7VbQjE2penHnjP8wP1sqCl-ntIlleuZWnfz5fY",
-        "source": "TVNET"
+        "url": "https://nra.lv/latvija/481945-cela-uz-somiju-miklainos-apstaklos-pazudis-virietis-un-sieviete.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStNMuJYXqLPK92gdH7nB7PgMEmcMHBNSRhUmz9zPeywSa-1SVJenSu7lt1gYY",
+        "source": "NRA"
       },
       {
-        "title": "Trampa neprognozējamība sāk izpausties: NATO dalībvalstīm aizsardzības izdevumi jāpalielina līdz 5% no IKP",
+        "title": "Meklē bezvēsts prombūtnē esošos Oļegu un Svetlanu Iļzeņecus. Iespējams, abi atrodas Igaunijā",
         "snippet": "",
-        "url": "https://www.la.lv/trampa-neprognozejamiba-sak-izpausties-nato-dalibvalstim-aizsardzibas-izdevumi-japalielina-lidz-5-no-ikp",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQBf2WuGEqV2pgIH2z1LQzpMMSLEaJuct5cZU7_GrNIHICkkqYu943-BgFn0",
-        "source": "LA.LV"
+        "url": "https://www.apollo.lv/8182041/mekle-bezvests-prombutne-esosos-olegu-un-svetlanu-ilzenecus-iespejams-abi-atrodas-igaunija",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqTF6_YKLDoqqlSvX94TdiapwNgohuLGvWkTW860cTYisHn50OSRrLcE3QDIo",
+        "source": "Apollo.lv"
       }
     ]
   },
   {
     "title": "nba",
     "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Tue, 7 Jan 2025 19:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiLjSrK7v21M6-KCTcyO7LiyqXk7SPzAlsq_Qc0RxxeZllAIJO3COlo7Btnl8",
-    "picture_source": "The New York Times",
+    "pubdate": "Tue, 4 Feb 2025 19:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBHppnQw3B11c39eAMCQN3IqQJ9-yH6e3ueZ4UaiCVxS1tWP2GvVuLYknAZ1Q",
+    "picture_source": "NBA.Com",
     "news_items": [
       {
-        "title": "Tonight’s best game of the NBA season, plus more NFL coaching carousel news - The Athletic",
+        "title": "Houston Rockets vs Brooklyn Nets Feb 4, 2025 Box Scores",
         "snippet": "",
-        "url": "https://www.nytimes.com/athletic/6044783/2025/01/08/cavaliers-thunder-finals-matchup-the-pulse/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiLjSrK7v21M6-KCTcyO7LiyqXk7SPzAlsq_Qc0RxxeZllAIJO3COlo7Btnl8",
-        "source": "The New York Times"
-      },
-      {
-        "title": "Starting 5, Jan. 8: Tonight: Cavs-Thunder, a one-of-a-kind matchup",
-        "snippet": "",
-        "url": "https://www.nba.com/news/starting-5-jan-8-tonight-cavs-thunder-a-one-of-a-kind-matchup",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSvVyq-NTMvrGS4ZJdCZRaeKrD3y1WKVbsLxaBdVI-KYtiscE9CczqFP-VH2U",
+        "url": "https://www.nba.com/game/hou-vs-bkn-0022400711/box-score",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBHppnQw3B11c39eAMCQN3IqQJ9-yH6e3ueZ4UaiCVxS1tWP2GvVuLYknAZ1Q",
         "source": "NBA.Com"
       },
       {
-        "title": "An Ode to the Revolution",
+        "title": "Nic Claxton swats six shots in strong defensive showing",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/basketball/2273774-an-ode-to-the-revolution",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6Ew9DHSqnhWROgHZhvyeJXtl2dzll-vQRFwHud_wb6UyhbDQaGAqScaGV1gc",
-        "source": "FootBoom"
-      }
-    ]
-  },
-  {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=LV",
-    "pubdate": "Tue, 7 Jan 2025 20:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YUPCbmY5LmgErnplonQpMM_r8Q5XX69_GvtsBkMELoH8RAw-G1jPncEHYCo",
-    "picture_source": "The Washington Post",
-    "news_items": [
-      {
-        "title": "It may snow some Saturday in D.C. area, but chances for a big storm are small",
-        "snippet": "",
-        "url": "https://www.washingtonpost.com/weather/2025/01/07/dc-snow-forecast-gulf-storm/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YUPCbmY5LmgErnplonQpMM_r8Q5XX69_GvtsBkMELoH8RAw-G1jPncEHYCo",
-        "source": "The Washington Post"
+        "url": "https://www.fantasypros.com/nba/news/495638/nic-claxton-swats-six-shots-strong-defensive-showing.php",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVMKetSWxyziKcN3Y1tafn9p7no0gGkPiLYpsdVZPbKREXNjp_0d8eOZdRos",
+        "source": "FantasyPros"
       },
       {
-        "title": "Trump inauguration: Can Washington handle two weeks of high-security pomp along with heavy burst of snow?",
+        "title": "D'Angelo Russell News: Subdued effort in victory",
         "snippet": "",
-        "url": "https://www.hindustantimes.com/world-news/us-news/trump-inauguration-can-washington-handle-two-weeks-of-high-security-pomp-along-with-heavy-burst-of-snow-101736243108655.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKnP3daN3y62tT5NWZAo0cXY-LQF5qiT7J1tqGnkxmTeUfi98YsB8dGnPGXJk",
-        "source": "Hindustan Times"
-      },
-      {
-        "title": "NOAA Satellites Provided Crucial Data During Recent Mid-Atlantic Winter Storm",
-        "snippet": "",
-        "url": "https://www.nesdis.noaa.gov/news/noaa-satellites-provided-crucial-data-during-recent-mid-atlantic-winter-storm",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTJLhTZCgkwzp19pfDmcJTtVs-195LcCp6J0AYSxk5Bg3kQh5o0BNzKaxAtzE",
-        "source": "National Environmental Satellite, Data, and Information Service (.gov)"
+        "url": "https://www.rotowire.com/basketball/headlines/dangelo-russell-news-subdued-effort-in-victory-480325",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlVjxLIhEy5DPy6_qy12q9O8fXEDahft6lwOTTa-Puedl2xQRiLsTCdF9T0ec",
+        "source": "RotoWire"
       }
     ]
   }

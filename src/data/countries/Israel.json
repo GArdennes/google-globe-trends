@@ -1,311 +1,311 @@
 [
   {
-    "title": "משה כהן",
+    "title": "מזג אוויר",
     "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 8 Jan 2025 02:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRImiXS6neAj-N7pxAGQ3OVRdq8iwFNSJ7kOT13sq_6vKzrshCPF65ttFBIg9g",
-    "picture_source": "ice (אייס)",
+    "pubdate": "Tue, 4 Feb 2025 20:20:00 -0800",
+    "approx_traffic": 20000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sp-ZdLZCOWH9WkgIqMete6t8IJH5a2J1LWb9lS5UxM92zN6isy-8I7f-E-U",
+    "picture_source": "mako",
     "news_items": [
       {
-        "title": "בגיל 52: הזמר שכיכב בשנות ה-90 הפך לשומר בלובי",
+        "title": "\"אנחנו לקראת גל קור שלא ראינו מתחילת החורף\": כל מה שידוע על המערכת החורפית שתגיע מחר",
         "snippet": "",
-        "url": "https://www.ice.co.il/social/news/article/1045956",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRImiXS6neAj-N7pxAGQ3OVRdq8iwFNSJ7kOT13sq_6vKzrshCPF65ttFBIg9g",
-        "source": "ice (אייס)"
+        "url": "https://www.mako.co.il/hix-nature/Article-695173d940cc491027.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sp-ZdLZCOWH9WkgIqMete6t8IJH5a2J1LWb9lS5UxM92zN6isy-8I7f-E-U",
+        "source": "mako"
       },
       {
-        "title": "אחרי הפודקאסט המרגש ב'מעריב': הדבר הלא ייאמן שקרה לזמר משה כהן",
+        "title": "אחרי ינואר השחון: גשמים וסופות רעמים יפקדו את הארץ",
         "snippet": "",
-        "url": "https://www.maariv.co.il/culture/music/article-1162250",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUugj-P2M1-D7ogu76uY5cw9Yv4NISvNW908H0NMuHe63bIJ6Q8JEO1qv8nPg",
-        "source": "מעריב"
+        "url": "https://www.kan.org.il/content/kan-news/local/live-856336/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5a3KVzTjrhcUPnwwY4uPDKVtOtsJdyyhI4ADHTAlguuM0cZcXlBHIHd6MxYE",
+        "source": "כאן 11"
       },
       {
-        "title": "מלך המועדונים שהפך לאב בית במגדל יוקרה: החיים החדשים של משה כהן",
+        "title": "גשמים, סופות רעמים, שלג בחרמון וחשש משיטפונות | צפו במכ\"ם לקראת הסערה",
         "snippet": "",
-        "url": "https://www.msn.com/he-il/news/other/%D7%9E%D7%9C%D7%9A-%D7%94%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%A0%D7%99%D7%9D-%D7%A9%D7%94%D7%A4%D7%9A-%D7%9C%D7%90%D7%91-%D7%91%D7%99%D7%AA-%D7%91%D7%9E%D7%92%D7%93%D7%9C-%D7%99%D7%95%D7%A7%D7%A8%D7%94-%D7%94%D7%97%D7%99%D7%99%D7%9D-%D7%94%D7%97%D7%93%D7%A9%D7%99%D7%9D-%D7%A9%D7%9C-%D7%9E%D7%A9%D7%94-%D7%9B%D7%94%D7%9F/ar-AA1wXuS7",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYepDiYdz8WZSabEPkssoes6a_fSp60l6j5pBgw41Vs03UyMo2MheN1R091dA",
+        "url": "https://www.ynet.co.il/news/article/gx996cd0d",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQnPKa7bUlau4mv_SQ9E6Ab420ZvxfIdQL-JMitIVwrw3ca-vT2LDXfzOCd7M",
+        "source": "ynet"
+      }
+    ]
+  },
+  {
+    "title": "الطقس",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Tue, 4 Feb 2025 20:20:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeb2xEn9z7x-38xGcWJB0OiqGyOa6dXbMYiq_eVQbaZd8jVJ651XXCe8QI5Fk",
+    "picture_source": "Facebook",
+    "news_items": [
+      {
+        "title": "حالة سريعة من... - الهيئة العامة للأرصاد الجوية المصرية",
+        "snippet": "",
+        "url": "https://www.facebook.com/story.php?story_fbid=1021272156698018&id=100064457301517",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeb2xEn9z7x-38xGcWJB0OiqGyOa6dXbMYiq_eVQbaZd8jVJ651XXCe8QI5Fk",
+        "source": "Facebook"
+      },
+      {
+        "title": "تنويه من \"الأرصاد\" بشأن طقس الأربعاء",
+        "snippet": "",
+        "url": "https://radar2.net/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/%D8%AA%D9%86%D9%88%D9%8A%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A8%D8%B4%D8%A3%D9%86-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1/63017/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQROAWNlwv8wrN2WQThO6oSrA6f-dioW2m4sSO0bjooHVS6cdgs4daCKUpB8ro",
+        "source": "موقع رادار"
+      },
+      {
+        "title": "تغير مفاجئ، درجات الحرارة اليوم الأربعاء 05-2-2025 فى مصر",
+        "snippet": "",
+        "url": "https://www.vetogate.com/5341975",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWQk6OGt7SfhPLI5E-oCrXpDosnIwbCCQVcBoqLWBX2p8JvEJx_SXREqoPAw",
+        "source": "فيتو"
+      }
+    ]
+  },
+  {
+    "title": "weather",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Tue, 4 Feb 2025 20:30:00 -0800",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM17OPAGsHqI0fROYb9tP_pxA5THWeknP1mDQlRFCkCZ0YYH166gz8UN5ougY",
+    "picture_source": "The Washington Post",
+    "news_items": [
+      {
+        "title": "CWG Live updates: Cold air spills back in tonight; an icy glaze possible Wednesday night",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2025/02/04/dc-weather-live-updates-wintry-mix-wednesday-night/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM17OPAGsHqI0fROYb9tP_pxA5THWeknP1mDQlRFCkCZ0YYH166gz8UN5ougY",
+        "source": "The Washington Post"
+      },
+      {
+        "title": "Temps cool off, set up icy conditions into Thursday",
+        "snippet": "",
+        "url": "https://www.wbaltv.com/article/temps-cool-off-set-up-icy-conditions-into-thursday/63670302",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJI_M3VI0fAkp6tXOlHFLYWtYHWzNiaj0t87beMGPVSPTbKC7xyvlqGAV5qyk",
+        "source": "WBAL-TV"
+      },
+      {
+        "title": "Virginia State Police urge drivers to be cautious on roadways ahead of winter storm",
+        "snippet": "",
+        "url": "https://www.dcnewsnow.com/news/local-news/virginia/virginia-state-police-urge-drivers-to-be-cautious-on-roadways-ahead-of-winter-storm/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRskbtqNmxakstOWxEyBJLkL8HbQRWe-1Ay68L9PZLUNsK6e5ZgjUrdzyfjxM4",
+        "source": "DC News Now"
+      }
+    ]
+  },
+  {
+    "title": "טרייל בלייזרס נגד פייסרס",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Tue, 4 Feb 2025 19:40:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa90bxJyes9-AsMjDChbsfW15t_x5u6Cvk6gcAxwsaIx87ov9cmGUo6_yE6Nk",
+    "picture_source": "ynet",
+    "news_items": [
+      {
+        "title": "פורטלנד הביסה את אינדיאנה, רק 6 נקודות לאבדיה",
+        "snippet": "",
+        "url": "https://www.ynet.co.il/sport/worldbasketball/article/bkjd8uxfyx",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa90bxJyes9-AsMjDChbsfW15t_x5u6Cvk6gcAxwsaIx87ov9cmGUo6_yE6Nk",
+        "source": "ynet"
+      },
+      {
+        "title": "ניצחון תשיעי בעשרה משחקים: פורטלנד שוב הביסה, משחק חלש לאבדיה",
+        "snippet": "",
+        "url": "https://sports.walla.co.il/item/3724608",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9lcJnRdQKfFnzSjtrjw_1E8t-XIUwd7xGNTIgSKYX5423MrZPHxHs6SBDbfg",
+        "source": "וואלה ספורט"
+      },
+      {
+        "title": "האזינו לשידור החי: אבדיה שוב נגד פיניקס",
+        "snippet": "",
+        "url": "https://www.sport5.co.il/articles.aspx?FolderID=403&docID=496404",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJ8hK0Kei4XiWG_lab6UC1JvJ6wnD3atpJtdB3QQoshHuIyikKHwUpThbk1s",
+        "source": "ספורט 5"
+      }
+    ]
+  },
+  {
+    "title": "trail blazers vs pacers",
+    "link": "https://trends.google.com/trending/rss?geo=IL",
+    "pubdate": "Tue, 4 Feb 2025 20:50:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihRvzoqQ7HMPEx6oxP89I-sdu1XardWKrwwkYlP_STXnP2WCRBl_MNQrcx80",
+    "picture_source": "Blazer's Edge",
+    "news_items": [
+      {
+        "title": "Blazers Unstoppable In 112-89 Win Over Pacers",
+        "snippet": "",
+        "url": "https://www.blazersedge.com/2025/2/4/24359097/blazers-pacers-recap-anfernee-simons",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihRvzoqQ7HMPEx6oxP89I-sdu1XardWKrwwkYlP_STXnP2WCRBl_MNQrcx80",
+        "source": "Blazer's Edge"
+      },
+      {
+        "title": "Scoot Henderson Postgame Interview | Brightside Windows Baseline Report | POR vs IND | 2/04/2025",
+        "snippet": "",
+        "url": "https://www.nba.com/blazers/videos/scoot-henderson-postgame-interview-brightside-windows-baseline-report-por-vs-ind-2-04-2025",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg_db9TtEw0PEaSZAJvbJmskCXNXzQfwnBP7cDlxTll-kLXxa17hTzys473Co",
+        "source": "NBA.Com"
+      },
+      {
+        "title": "Simons scores 22 and Portland downs Indiana 112-89 for 5th straight win",
+        "snippet": "",
+        "url": "https://www.msn.com/en-au/sport/nba/simons-scores-22-and-portland-downs-indiana-112-89-for-5th-straight-win/ar-AA1yr2sv",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVHfgOTG3U5iOt5t3Pfl7Wl1JyVp7F7Yt_gRpMzeFDN6gFfwpa-AWjbcj-W5Q",
         "source": "MSN"
       }
     ]
   },
   {
-    "title": "יובל וגדני",
+    "title": "nba",
     "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 7 Jan 2025 22:10:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8h9H33LJ4oMiQn5znrIgZG-3DnIwkeuw0WUBDQFhAGFZDWj2Z-a4cOISyAgQ",
-    "picture_source": "ynet",
-    "news_items": [
-      {
-        "title": "הלוחם יובל וגדני שהיה מבוקש בברזיל נחת בישראל: \"ילמד מהטעויות\"",
-        "snippet": "",
-        "url": "https://www.ynet.co.il/news/article/r1bc11qs8yg",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8h9H33LJ4oMiQn5znrIgZG-3DnIwkeuw0WUBDQFhAGFZDWj2Z-a4cOISyAgQ",
-        "source": "ynet"
-      },
-      {
-        "title": "N12 - נמלט מחקירה בברזיל: חייל המילואים חזר לארץ",
-        "snippet": "",
-        "url": "https://www.mako.co.il/news-israel/2025_q1/Article-c2594015b534491026.htm",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4YZ8bdSWwLLLGIKLWtDXc84TQ2reBHd4qHVlR21jlL1aTWtwwdHmOlC4_kYU",
-        "source": "mako"
-      },
-      {
-        "title": "\"הלב נשבר, אבל לא נבהלתי\": הלוחם שנמלט מברזיל בריאיון",
-        "snippet": "",
-        "url": "https://www.kan.org.il/content/kan-news/defense/844967/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnhMGtCKVBfrMzApp5u4eHxX2W4lX-TTfnDOV_w0R9MwOsi98XqokOoRHz0k4",
-        "source": "כאן 11"
-      }
-    ]
-  },
-  {
-    "title": "כרם שלום",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 8 Jan 2025 03:40:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 20:50:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3v29jTyf4vaQEkDJJI1lhpPdNvo_Wx2wj3I-hz56CS-xv0wol9iERQ-NTpM",
-    "picture_source": "ynet",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcQyltBxmgO5tyLuaTgiyQVImn7pPA_FJ4ssg7nBGbOCS1dP-uPPDjE1niQk0",
+    "picture_source": "NBC Sports Bay Area & California",
     "news_items": [
       {
-        "title": "צה\"ל: יורט שיגור מרפיח לאזור כרם שלום",
+        "title": "Warriors guard Schroder compares trade deadline to ‘modern slavery'",
         "snippet": "",
-        "url": "https://www.ynet.co.il/news/article/by31r1hl1x",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3v29jTyf4vaQEkDJJI1lhpPdNvo_Wx2wj3I-hz56CS-xv0wol9iERQ-NTpM",
-        "source": "ynet"
+        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/dennis-schroder-trade-deadline-modern-slavery/1825751/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcQyltBxmgO5tyLuaTgiyQVImn7pPA_FJ4ssg7nBGbOCS1dP-uPPDjE1niQk0",
+        "source": "NBC Sports Bay Area & California"
       },
       {
-        "title": "אזעקות בעוטף; צה\"ל: יורט שיגור שחצה לשטח ישראל מדרום הרצועה",
+        "title": "\"It's like modern slavery\" - Dennis Schroder blasts the NBA's brutal trade system following Luka Doncic's trade",
         "snippet": "",
-        "url": "https://news.walla.co.il/blog/3717661",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6oXVm3krlIp9eceI8Xw_pRlvrIZ-dd-82AFmphybUxvp9qOzvMHJKQWif2U",
-        "source": "וואלה חדשות"
+        "url": "https://www.basketballnetwork.net/latest-news/dennis-schroder-blasts-the-nbas-brutal-trade-system-following-luka-doncics-trade",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx5kmJekabNBY2G7zEVzWE8q1oVvM4-FpnlcO_Q4DTgBdmp0pl1qlR6eBL_mw",
+        "source": "Basketball Network"
       },
       {
-        "title": "N12 - התחדשה האש מעזה: צבע אדום בעוטף - ביום ה-9 ברציפות",
+        "title": "Warriors Star Getting Crushed For Response To Luka Doncic Trade",
         "snippet": "",
-        "url": "https://www.mako.co.il/news-military/2025_q1/Article-92867ba6ac13491027.htm",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM0GgSrVwgG0pSSTFLRPz2qoLnyjuP0lamtZKmYZ5mBY5jdoTPyf7Al_hKfQ0",
-        "source": "mako"
+        "url": "https://athlonsports.com/nba/golden-state-warriors/warriors-dennis-schroder-crushed-modern-slavery-response-luka-doncic-lakers-trade",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNkasF9C0L8qVxrRrnpLlu7q7PIB2snYAiti9iRWZiTNcgjhQazeBjdlD1Pag",
+        "source": "Athlon Sports"
       }
     ]
   },
   {
-    "title": "אלמוג כהן",
+    "title": "clippers vs lakers",
     "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 8 Jan 2025 01:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdkTXYmmkzGGfO5_AcM0TT9pcPel8STfFUxXP5QelnTwn75TIBkOi-fmm7zco",
-    "picture_source": "ynet",
-    "news_items": [
-      {
-        "title": "ח\"כ כהן הודח מהוואטסאפ, חברי עוצמה יהודית הסתודדו עם האופוזיציה",
-        "snippet": "",
-        "url": "https://www.ynet.co.il/news/article/byqk11k3ukg",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdkTXYmmkzGGfO5_AcM0TT9pcPel8STfFUxXP5QelnTwn75TIBkOi-fmm7zco",
-        "source": "ynet"
-      },
-      {
-        "title": "מי שלח את המסרון המכפיש נגד אלמוג כהן?",
-        "snippet": "",
-        "url": "https://www.srugim.co.il/1079018-%D7%9E%D7%99-%D7%A9%D7%9C%D7%97-%D7%90%D7%AA-%D7%94%D7%9E%D7%A1%D7%A8%D7%95%D7%9F-%D7%94%D7%9E%D7%9B%D7%A4%D7%99%D7%A9-%D7%A0%D7%92%D7%93-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%9B%D7%94%D7%9F",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTTKNRaRxtEzrqIPITZhXpeVLNm2vivEgQ4jogU183ldJUjcm7TuokGR82hhE",
-        "source": "סרוגים"
-      },
-      {
-        "title": "מחטף עוקף בן גביר: דמי הביטוח הלאומי יועלו אחרי תרגיל לילי \"מסריח\"",
-        "snippet": "",
-        "url": "https://www.themarker.com/allnews/2025-01-08/ty-article/.premium/00000194-44c5-d96e-a1d6-57ed87ff0000",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKV9epbkirn2PMLM6rp2hN0GLW_bN5OfZeVwLWk1h8JLXUvtkcwl_TdS7VSew",
-        "source": "TheMarker"
-      }
-    ]
-  },
-  {
-    "title": "אביב גפן",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 8 Jan 2025 01:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZZ1qa3CZq3AWjnuTdbDX0W83VdHt0A58r6_r3Ixh5MiUu4KMAqePmgcGugo8",
-    "picture_source": "פנאי פלוס",
-    "news_items": [
-      {
-        "title": "ברכות: לאביב גפן ושרון קאופמן נולד ילד משותף ראשון",
-        "snippet": "",
-        "url": "https://pplus.ynet.co.il/rechilut/article/sjp369s81x",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZZ1qa3CZq3AWjnuTdbDX0W83VdHt0A58r6_r3Ixh5MiUu4KMAqePmgcGugo8",
-        "source": "פנאי פלוס"
-      },
-      {
-        "title": "מזל טוב: אביב גפן ואשתו בבשורה משמחת",
-        "snippet": "",
-        "url": "https://www.srugim.co.il/1079003-%D7%9E%D7%96%D7%9C-%D7%98%D7%95%D7%91-%D7%90%D7%91%D7%99%D7%91-%D7%92%D7%A4%D7%9F-%D7%95%D7%90%D7%A9%D7%AA%D7%95-%D7%91%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%9E%D7%A9%D7%9E%D7%97%D7%AA",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCiacpUAb1Fx_e0WzgzDkcWsXyow4QA4ebXav9uyUmigOMXvD7oN_zJM6NM0",
-        "source": "סרוגים"
-      },
-      {
-        "title": "אחרי מנורה: עומר אדם ואביב גפן כובשים עוד פסגה",
-        "snippet": "",
-        "url": "https://www.mako.co.il/tvbee-tv-news/Article-682484ebf754491027.htm",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjUgv-WGZV3Urjk0g3BWTy6OgP1QmiSTECj9EEM7LRAY8TVnPUf_lLNUNt_-k",
-        "source": "mako"
-      }
-    ]
-  },
-  {
-    "title": "חטופים",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 8 Jan 2025 07:50:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 21:20:00 -0800",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgZQhM5fplIDO0HyRam_sP9DJrdEBxtFwK9LWrVg38m8ltm_8MW8LLOzCgEo",
-    "picture_source": "ynet",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kecZZdEwJHxp7Sf8l6albukKf-RIyitHetNQ2efHX1sxGintqjdfeaTX-vY",
+    "picture_source": "Yahoo Sports",
     "news_items": [
       {
-        "title": "אחיהם של החטופים בעזה: \"פרסום רשימת השמות ריסק משפחות\"",
+        "title": "Clippers coach Tyronn Lue rips his team after loss to the Lakers",
         "snippet": "",
-        "url": "https://www.ynet.co.il/news/article/skax4nsu1e",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXgZQhM5fplIDO0HyRam_sP9DJrdEBxtFwK9LWrVg38m8ltm_8MW8LLOzCgEo",
-        "source": "ynet"
+        "url": "https://sports.yahoo.com/clippers-coach-tyronn-lue-rips-073143733.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kecZZdEwJHxp7Sf8l6albukKf-RIyitHetNQ2efHX1sxGintqjdfeaTX-vY",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "נתניהו לא יסיים את המלחמה. עסקה חלקית לפחות תציל כמה מהחטופים החיים",
+        "title": "Kawhi Leonard stats tonight: How did the Clippers star fare in latest Battle of LA? (Feb. 4)",
         "snippet": "",
-        "url": "https://www.haaretz.co.il/opinions/2025-01-08/ty-article-opinion/.premium/00000194-40e8-d96e-a1d6-53e8892f0000",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAcwT4Alm4XYVCk2S_uyc5SFP5dGWreIq2A1llT68gxKx1LRlbZdXcMvbmzOo",
-        "source": "הארץ"
+        "url": "https://www.sportskeeda.com/basketball/news-kawhi-leonard-stats-tonight-how-clippers-star-fare-latest-battle-la-feb-4",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcPp-xawdfcJN4iDXuj8dYQCp53IVkH615zrdBmxWfOGvK2Hj3ytwnU1Ft5RI",
+        "source": "Sportskeeda"
       },
       {
-        "title": "פרטים חדשים על עסקת החטופים: הסעיף החריג שעשוי לקבור את ההסכם",
+        "title": "Kawhi Leonard's Blunt Statement After Clippers' Blowout Loss to Lakers",
         "snippet": "",
-        "url": "https://www.maariv.co.il/news/military/article-1162529",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsc6N_kCAOVBxUYuTwc4cW1N2RMNOEIdCTHyM4ZAIr7MuVe6rKqmfy5qAskfk",
-        "source": "מעריב"
+        "url": "https://www.si.com/nba/clippers/news/kawhi-leonard-s-blunt-statement-after-clippers-blowout-loss-to-lakers-01jkabqtk17s",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg8rZ0UpJOk1d784JPyuJ6IBNkOYH9EnlnNp-iJLlZJYpuY-ailHGOTdr_rPs",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
-    "title": "ניר ביטון",
+    "title": "רונאלדו",
     "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 8 Jan 2025 06:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWxAL2RhtwGgGXwoBuuyCnoe9UP-CV0TYtz9oUt-cmYqkqEDEYEjU2k5hdwsY",
-    "picture_source": "ynet",
+    "pubdate": "Tue, 4 Feb 2025 21:40:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWb4pdzznUCzMW3NY85uvTMT-MqXPCiHK-fTDdniU6jYw4NGToF5OQVz-df_8",
+    "picture_source": "ONE",
     "news_items": [
       {
-        "title": "ניר ביטון בדרך למ.ס אשדוד, אופיר קריאף חתם",
+        "title": "האיש שהופך נס לדבר מובן מאליו: רונאלדו בן 40",
         "snippet": "",
-        "url": "https://www.ynet.co.il/sport/israelisoccer/article/rk8gszhljl",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWxAL2RhtwGgGXwoBuuyCnoe9UP-CV0TYtz9oUt-cmYqkqEDEYEjU2k5hdwsY",
-        "source": "ynet"
+        "url": "https://m.one.co.il/mobile/Article/484257.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWb4pdzznUCzMW3NY85uvTMT-MqXPCiHK-fTDdniU6jYw4NGToF5OQVz-df_8",
+        "source": "ONE"
       },
       {
-        "title": "אופיר קריאף יחתום באשדוד עד סיום העונה",
+        "title": "רונאלדו, אימפריה של כדורגלן אחד: הטור של דני דבורין",
         "snippet": "",
-        "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=493715",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsESHwH1AbSZDeo6a1fhz6frmKeYW2BLDsVLwT9RXLM8zbrywgqmtFOsR9Onc",
-        "source": "ספורט 5"
-      },
-      {
-        "title": "עם הופעת ליגה אחת: ניר ביטון מתקרב לקאמבק לאשדוד",
-        "snippet": "",
-        "url": "https://sports.walla.co.il/item/3717687",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXBtaZMsB3i9vY2t97-jyD0bMB7JiWD8YSCQhYYGEayCFqCT34FlVjGHN0dk",
+        "url": "https://sports.walla.co.il/item/3724718",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-UIcV0Lld6bvATtdMOCxtNXDrGItOy-2rei8OCeL_8QVbsuBUbS0cWuZ2P5s",
         "source": "וואלה ספורט"
-      }
-    ]
-  },
-  {
-    "title": "דוריה למפל",
-    "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 8 Jan 2025 08:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwCVcRw1h0mOTiod9A1lgkQl9ruQ_9CS8Ibz_OdKvTlTHheYbzNW421O-QUA8",
-    "picture_source": "ynet",
-    "news_items": [
+      },
       {
-        "title": "רשמית: דוריה למפל מצטרפת לחדשות 13",
+        "title": "רונאלדו: \"אני הכדורגלן השלם והטוב בכל הזמנים. מסי? יריבות היסטורית\"",
         "snippet": "",
-        "url": "https://www.ynet.co.il/entertainment/article/hkxlzz3lje",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwCVcRw1h0mOTiod9A1lgkQl9ruQ_9CS8Ibz_OdKvTlTHheYbzNW421O-QUA8",
+        "url": "https://www.ynet.co.il/sport/worldsoccer/article/hjcz9zky1e",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa3-N8vPIr5bUB1MBI5Qcc09c8Dwz1zDghgwAt49g6TbuJy6ud8auEsGAw1oQ",
         "source": "ynet"
-      },
-      {
-        "title": "דוריה למפל תחליף את הילה קורח בהגשת חדשות 13",
-        "snippet": "",
-        "url": "https://www.haaretz.co.il/gallery/media/2025-01-08/ty-article/.premium/00000194-4685-d8e2-a59c-febd91570000",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQr16yEabf_sSlxQAK4GnuVqB0a-XtoJc66_Lztcc5bNjpqO3y4bhSiNPbwvJo",
-        "source": "הארץ"
-      },
-      {
-        "title": "עכשיו זה רשמי: זאת המחליפה של הילה קורח",
-        "snippet": "",
-        "url": "https://www.maariv.co.il/culture/tv/article-1162708",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0vBRk8bm155p6ll6p2uy3P0CqfiLjzrx9MI7bzT2is3P4xISfkg5LHsyJyFI",
-        "source": "מעריב"
       }
     ]
   },
   {
-    "title": "אלבניה",
+    "title": "nba games",
     "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Wed, 8 Jan 2025 07:50:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 21:30:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxAi-uCQgJ3oMZRVuzzlrKMwj3HK1Ud2Ux7A6YsAEupCsok8lp2B126zwyobM",
-    "picture_source": "ynet",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkutyTkycrdzfLp3s-OyWsDwzo2cSbNQ_U9OAstB_6dneFJQCykhWfDyH_E4",
+    "picture_source": "AP News",
     "news_items": [
       {
-        "title": "החל מ-279 דולר: היעד החדש של סאן דור לקיץ",
+        "title": "Fans at Raptors game continue trend of booing US national anthem at pro sporting events in Canada",
         "snippet": "",
-        "url": "https://www.ynet.co.il/vacation/flights/article/h1qp6aj81l",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxAi-uCQgJ3oMZRVuzzlrKMwj3HK1Ud2Ux7A6YsAEupCsok8lp2B126zwyobM",
-        "source": "ynet"
+        "url": "https://apnews.com/article/fans-boo-national-anthem-tariffs-canada-2c7210574c0373348870a94445814407",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkutyTkycrdzfLp3s-OyWsDwzo2cSbNQ_U9OAstB_6dneFJQCykhWfDyH_E4",
+        "source": "AP News"
       },
       {
-        "title": "המחיר: 279$, הזמן: שעתיים וחצי. הקו החדש של אל על לאביב",
+        "title": "U.S. national anthem is booed by Canadian hockey fans as tariffs are put in place",
         "snippet": "",
-        "url": "https://travel.walla.co.il/item/3717881",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzq6pzL6S5B8UaddmFqbqPCfb689xibsd0_qex-HoAFAq0cGNdHLQo7eCi6XA",
-        "source": "וואלה תיירות"
+        "url": "https://www.startribune.com/us-national-anthem-booed-ottawa-canada-nhl-game-wild-mandia-tariffs-donald-trump-justin-trudeau/601215698",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZ9TalYubvmy2M_Hw_n8mYkk86OVr6XzaXKwlswY0kIUfrjko4ZwF27QD1bA",
+        "source": "Star Tribune"
       },
       {
-        "title": "כאן יבלו הישראלים בקיץ: יעד חדש במחיר של פחות מחופשה באילת",
+        "title": "US anthem booed by Canadian fans before Detroit Red Wings-Canucks game in Vancouver",
         "snippet": "",
-        "url": "https://www.maariv.co.il/lifestyle/travel/article-1162573",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOqOv4mghf_x7tRsyLCsHeAaqBBXIOEZfSz9GOuP7ihhKTnZOdMJ7zVFKHXZ0",
-        "source": "מעריב"
+        "url": "https://www.freep.com/story/sports/nhl/red-wings/2025/02/02/us-anthem-booed-by-canadian-fans-before-detroit-red-wings-canucks/78168753007/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwVlCYx-63LL8aCXi2GUCCBoGtuU0ETEpd8ssRvQjmnlV4QN0WqMH7BJuD-0s",
+        "source": "Detroit Free Press"
       }
     ]
   },
   {
-    "title": "eta uk",
+    "title": "x",
     "link": "https://trends.google.com/trending/rss?geo=IL",
-    "pubdate": "Tue, 7 Jan 2025 23:50:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 17:10:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmpOgS3SxhRj1GLS4Yk_K6nMfQR2kJYkfGPGv0m4UlxrmQBbBXdf2g_Ip-1YU",
-    "picture_source": "CNN",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfR6o2PDgbaMs3RcTyvFBe_L9g4v5_i_-oynP2VSwMFerNBeTro6C2mCldqoI",
+    "picture_source": "USA Today",
     "news_items": [
       {
-        "title": "Visitors to the UK from 48 countries must now apply and pay a fee before travel",
+        "title": "Elon Musk's X sues Lego, Shell, more companies over advertising 'boycott' from platform",
         "snippet": "",
-        "url": "https://www.cnn.com/travel/uk-eta-visa-travel-2025/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmpOgS3SxhRj1GLS4Yk_K6nMfQR2kJYkfGPGv0m4UlxrmQBbBXdf2g_Ip-1YU",
-        "source": "CNN"
+        "url": "https://www.usatoday.com/story/tech/news/2025/02/02/elon-musk-x-advertising-boycott-lawsuit/78157291007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfR6o2PDgbaMs3RcTyvFBe_L9g4v5_i_-oynP2VSwMFerNBeTro6C2mCldqoI",
+        "source": "USA Today"
       },
       {
-        "title": "Conor Murphy's warning over impact of digital travel permit",
+        "title": "Musk’s X Adds Nestlé, Colgate, Shell, Other Brands to Ad-Boycott Suit",
         "snippet": "",
-        "url": "https://www.bbc.com/news/articles/c3weg048e29o",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgwNfBiQAM4VQ1q_R-0KAn3ToEocHIN5FEBYJb9nk4olFpW7rQlvQ8wHYspRU",
-        "source": "BBC"
+        "url": "https://www.wsj.com/business/media/musks-x-adds-nestle-colgate-shell-other-brands-to-ad-boycott-suit-3e1c8715",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4cjpF4_VSQk9uO-kGOkiTCerSeP2fq8c3uY0yh0tgSqNm_ztUsIFPoxhYwRc",
+        "source": "WSJ"
       },
       {
-        "title": "UK visitors from dozens of countries will have to pay a new entry fee starting this week",
+        "title": "Elon Musk's X sues Lego, Nestlé and more brands, accusing them of advertising boycott",
         "snippet": "",
-        "url": "https://www.cnbc.com/2025/01/06/uk-visitors-new-entry-fee-electronic-travel-authorization.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAEwA8Ece51XbucmrUxf071TNcQEUQDtzmCIYBpss547bBQoSNcD8JsDGbP9U",
-        "source": "CNBC"
+        "url": "https://www.npr.org/2025/02/01/nx-s1-5283271/elon-musk-lawsuit-advertisers-boycott-new",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTK9IZPlsBW17VZzBV-Fs1HRof9_Bp8I8sRwlZD-Cew-n3w--j3_hHEgmyttLQ",
+        "source": "NPR"
       }
     ]
   }

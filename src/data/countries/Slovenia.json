@@ -1,156 +1,289 @@
 [
   {
-    "title": "marko hot",
+    "title": "nba",
     "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Wed, 8 Jan 2025 05:40:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 17:10:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRppLdkpxMwko3wX8koIbNorbE5XxXni_nIGjH9T3KdGIBb-F4lgOCivRoWb-U",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7VNTInnfT8K5AlhdJD0ao0eFn9Ay0OgVS2v-xP9KwSCi9eFqApwVL69cLbGY",
     "picture_source": "24ur.com",
     "news_items": [
       {
-        "title": "Pretep v Piranu: Meira Hot zanika vpletenost v incident",
+        "title": "'Luka je že nekaj časa moj najljubši igralec v ligi. Dobra bova skupaj'",
         "snippet": "",
-        "url": "https://www.24ur.com/novice/crna-kronika/v-pretepu-v-piranu-vpletena-druzina-poslanke-meire-hot.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRppLdkpxMwko3wX8koIbNorbE5XxXni_nIGjH9T3KdGIBb-F4lgOCivRoWb-U",
+        "url": "https://www.24ur.com/sport/kosarka/luka_je_ze_nekaj_casa_moj_najljubsi_igralec_v_nba_ligi_dobra_bova_skupaj.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7VNTInnfT8K5AlhdJD0ao0eFn9Ay0OgVS2v-xP9KwSCi9eFqApwVL69cLbGY",
         "source": "24ur.com"
       },
       {
-        "title": "Policija preiskuje decembrski pretep več oseb v Piranu",
+        "title": "Davis hitro prebolel menjavo in že pogleduje proti naslovu",
         "snippet": "",
-        "url": "https://www.rtvslo.si/crna-kronika/policija-preiskuje-decembrski-pretep-vec-oseb-v-piranu/732750",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQWGWr6dnIaU7Nqt64_qWjcXNYk8hqZPoh4xJDxVGEPzfHveIQtgnHLAxesIY",
+        "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/davis-hitro-prebolel-menjavo-in-ze-pogleduje-proti-naslovu/735583",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCLbl7QShSL9DPMSD8NXs1qNoRNyZmu5-rD60-zBPjlpexI359a1OscO2TeU8",
         "source": "rtvslo.si"
       },
       {
-        "title": "Družinski člani Meire Hot v brutalnem pretepu poškodovali več nedolžnih ljudi? Oglasila se je tudi poslanka.",
+        "title": "Pretežak, neodgovoren, poškodovan? Odgovor Dončića bo silovit",
         "snippet": "",
-        "url": "https://siol.net/novice/slovenija/druzinski-clani-poslanke-naj-bi-v-brutalnem-pretepu-poskodovali-vec-nedolznih-ljudi-652306",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiAG2bjKOJYE7915sOV31sTevDKDiJnISXMLG3YU3aZZFKOt-SFVEzagkLrqM",
-        "source": "SiOL"
-      }
-    ]
-  },
-  {
-    "title": "arsenal – newcastle",
-    "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Tue, 7 Jan 2025 11:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIAMyhmxObLn-FYctZLP5JDKYJ7YSo_9xCizzZ8N_IFfAkiqZdroa-bTKi-xo",
-    "picture_source": "24ur.com",
-    "news_items": [
-      {
-        "title": "Vroči Newcastle na Emiratesu do lepe prednosti pred povratno tekmo",
-        "snippet": "",
-        "url": "https://www.24ur.com/sport/nogomet/vroci-newcastle-na-emiratesu-do-lepe-prednosti-pred-povratno-tekmo.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIAMyhmxObLn-FYctZLP5JDKYJ7YSo_9xCizzZ8N_IFfAkiqZdroa-bTKi-xo",
-        "source": "24ur.com"
-      },
-      {
-        "title": "Newcastle spravil v slabo voljo Arsenal, vroči Liverpool pri Tottenhamu",
-        "snippet": "",
-        "url": "https://siol.net/sportal/nogomet/angleski-ligaski-pokal-polfinale-prvi-tekmi-652284",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMASczcuBBWf6q7CdVzymCRxFGBPqkOhVQLwCVcCbP8agnOFSyg_RVkpXLvLE",
-        "source": "SiOL"
-      },
-      {
-        "title": "Arteta kot v starih časih: Kriva je žoga",
-        "snippet": "",
-        "url": "https://www.delo.si/sport/nogomet/arteta-kot-v-starih-casih-kriva-je-zoga",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSslWx0JLZOMLNS5DcT4RgEQNpZGbBHew9swFDgfBebz0yTWCHbqnipgk1sQJo",
+        "url": "https://www.delo.si/mnenja/komentarji/komentar-pretezak-neodgovoren-poskodovan-odgovor-doncica-bo-silovit",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFLDbVGzqNm_ub1Z-Eh1v7hyM1wt6bzBtaV5yqj3HJQ5mNvPPyvW5npRmgP_A",
         "source": "Delo.si"
       }
     ]
   },
   {
-    "title": "eldense – valencia",
+    "title": "atlético madrid – getafe",
     "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Tue, 7 Jan 2025 12:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvv59GVvwZJvMv_KwVZ-L7a4_sKlfqTuZf0bDgbbm2MfUsoyZGTxE4Fbm5GuM",
-    "picture_source": "FootBoom",
+    "pubdate": "Tue, 4 Feb 2025 12:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
+    "picture_source": "El Periódico de España",
     "news_items": [
       {
-        "title": "La Furia de Canós Celebrada Tras un Espectacular Gol en la Copa... Un Año Después",
+        "title": "Y Giuliano volvió a demostrar, arrollando al Getafe, que es digno heredero del cántico de su padre",
         "snippet": "",
-        "url": "https://www.footboom1.com/es/news/football/2271613-canos-fury-celebrated-after-stunning-copa-goal-one-year-on",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvv59GVvwZJvMv_KwVZ-L7a4_sKlfqTuZf0bDgbbm2MfUsoyZGTxE4Fbm5GuM",
-        "source": "FootBoom"
+        "url": "https://www.epe.es/es/deportes/20250204/atletico-madrid-getafe-copa-rey-resultado-giuliano-simeone-114008399",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
+        "source": "El Periódico de España"
       },
       {
-        "title": "El Valencia pone rumbo a octavos con buenas sensaciones",
+        "title": "Simeone al cuadrado",
         "snippet": "",
-        "url": "https://onefootball.com/es/noticias/el-valencia-pone-rumbo-a-octavos-con-buenas-sensaciones-40529973",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojQZjHauz0ppVwjtbjMN56Rdh5XsWhrjcmeRhAiWLnCQF-lAed8hGB0K1szY",
+        "url": "https://onefootball.com/fr/news/simeone-al-cuadrado-40665567",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoFTw4F4uD4w1tTWUsFhI3Z5sZaNAO_Eo_3AKoVR8jgmOG_tyR3gwshaW8DGg",
         "source": "OneFootball"
       },
       {
-        "title": "Vídeo: Canós conecta con Diego López para hacer 0-2 en Elda",
+        "title": "HERRERA EN COPE EN LA RIOJA I 05 FEB 2025 I 07:20 H",
         "snippet": "",
-        "url": "https://www.msn.com/es-es/deportes/futbol/v%C3%ADdeo-can%C3%B3s-conecta-con-diego-l%C3%B3pez-para-hacer-0-2-en-elda/ar-AA1x9inX",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhc31fxqEjccyVQXOOloaR4_ihIWKhDzyXMUXH-sT9uKEXLRcpeASus-itqrc",
+        "url": "https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono/audios/herrera-cope-rioja-i-05-feb-2025-i-07-20-h-20250205_3089938.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUM6S89NThDiBVH8-zukoKPyKwQgwtgDS0jTn8MnkIAtvxobMbEo-PGsFILE",
+        "source": "COPE"
+      }
+    ]
+  },
+  {
+    "title": "mona lisa",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 4 Feb 2025 12:00:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrhK0AqPIzNBN3glxelF7lrj3l5rX1O8CaK2qjVrj174BpchL99UVBSaux5vk",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Mona Lisa to be moved as part of major Louvre overhaul",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/cde9r0xgk67o",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrhK0AqPIzNBN3glxelF7lrj3l5rX1O8CaK2qjVrj174BpchL99UVBSaux5vk",
+        "source": "BBC"
+      },
+      {
+        "title": "Macron turns to billionaires to help pay for his legacy",
+        "snippet": "",
+        "url": "https://www.politico.eu/article/sidelined-politically-emmanuel-macron-turns-to-billionaires-to-help-pay-for-his-legacy-louvre-renovation/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVWUlozXMpx48AK8uOgzXzu54rR-zVILOAF_FR8jJv0CUXuu1mS4c9TxH0UA8",
+        "source": "POLITICO.eu"
+      },
+      {
+        "title": "Imagining the Mona Lisa’s New Room",
+        "snippet": "",
+        "url": "https://hyperallergic.com/986558/imagining-the-mona-lisa-new-room-louvre-museum-paris/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBzH6sYeKftfYxAupdzSkRGxqHbdtzx1ETxsFYHmMOhOk6qLysUeSg92PV3ac",
+        "source": "Hyperallergic"
+      }
+    ]
+  },
+  {
+    "title": "rob pelinka",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 4 Feb 2025 09:30:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9T80qEB63M_huikvIxYxtch80Yh9q09L8E1pdCHKMJ1-YiLURXHhwZtAVvpU",
+    "picture_source": "CNN",
+    "news_items": [
+      {
+        "title": "Anthony Davis comments for first time after blockbuster trade from Lakers to Mavericks in exchange for Luka Dončić",
+        "snippet": "",
+        "url": "https://www.cnn.com/2025/02/04/sport/anthony-davis-lakers-mavericks-luka-doncic-spt-intl/index.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9T80qEB63M_huikvIxYxtch80Yh9q09L8E1pdCHKMJ1-YiLURXHhwZtAVvpU",
+        "source": "CNN"
+      },
+      {
+        "title": "Trending Topics: What does Anthony Davis-for-Luka Dončić deal mean for Lakers?",
+        "snippet": "",
+        "url": "https://www.nba.com/news/trending-topics-impact-of-luka-doncic-on-lakers",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRykCQiE0gaFa56ILurF1xdxnZY9jx0yMLFtNmZo-8u_69NRqPuUzjV2eA4XX0",
+        "source": "NBA.Com"
+      },
+      {
+        "title": "Lakers land Luka Dončić in blockbuster trade that sends Anthony Davis to Mavericks",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/losangeles/news/lakers-land-luka-doncic-from-mavericks-in-unexpected-trade-involving-anthony-davis/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cQ0yxlR5Xwh-WqX1uc0ffdiPt0JgzujjIq95XrP2p0PdJTU8JBU46y9atjY",
+        "source": "CBS News"
+      }
+    ]
+  },
+  {
+    "title": "76ers vs mavericks",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 4 Feb 2025 21:40:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRCAvqF1qn13EyrfwUNhi8ICLmzNxivA8j0V8Tw3r3-SDmWzlVvHHNj01B4M0",
+    "picture_source": "NBA.Com",
+    "news_items": [
+      {
+        "title": "Sixers' Joel Embiid available vs. Mavs after 15-game absence",
+        "snippet": "",
+        "url": "https://www.nba.com/news/joel-embiid-available-after-15-game-absence",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRCAvqF1qn13EyrfwUNhi8ICLmzNxivA8j0V8Tw3r3-SDmWzlVvHHNj01B4M0",
+        "source": "NBA.Com"
+      },
+      {
+        "title": "Joel Embiid injury update: 76ers big man set to return vs. Mavericks after 15-game absence",
+        "snippet": "",
+        "url": "https://www.cbssports.com/nba/news/joel-embiid-injury-update-76ers-big-man-set-to-return-vs-mavericks-after-15-game-absence/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA1QRRiNWDKeE6kx2Pdticmby3_7u-E32jeMejY3kzuZ49IdMsHRIG8AiZMeM",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "Player Grades: Recapping Mavericks vs. 76ers",
+        "snippet": "",
+        "url": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/2025/2/4/24359078/mavericks-vs-76ers-recap",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkjbqjiSFBgDS_WsjOIS0Tql-8q8yGfOiVe6PFS0rQGJ4_nocNRZ_u3VN43o",
+        "source": "Mavs Moneyball"
+      }
+    ]
+  },
+  {
+    "title": "lakers",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 4 Feb 2025 19:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlLQL8vHTgAaY6W6JzXetxQYZ0t_07TxCSNIj7BNtm2UW1SwrXv3LRTGPUlk8",
+    "picture_source": "Basketball Network",
+    "news_items": [
+      {
+        "title": "\"You done lost your damn mind\" - Stephen Jackson clowns Lakers fans who are saying they'll win the title this year after trading for Luka Doncic",
+        "snippet": "",
+        "url": "https://www.basketballnetwork.net/latest-news/stephen-jackson-says-the-lakers-wont-win-the-title-with-luka-in-2025",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlLQL8vHTgAaY6W6JzXetxQYZ0t_07TxCSNIj7BNtm2UW1SwrXv3LRTGPUlk8",
+        "source": "Basketball Network"
+      },
+      {
+        "title": "Analyst Believes Rob Pelinka Might Get A Statue",
+        "snippet": "",
+        "url": "https://bvmsports.com/2025/02/04/analyst-believes-rob-pelinka-might-get-a-statue/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJwUhjNl59-NKcCLWOfqxwgLx0iV49SQ1av_eJDONxxDmCc9iBDEem8MMB9ew",
+        "source": "BVM Sports"
+      },
+      {
+        "title": "Jalen Rose can't believe the Mavs gave up on Luka Doncic: \"Rob Pelinka might get a statue\"",
+        "snippet": "",
+        "url": "https://www.msn.com/en-us/sports/nba/jalen-rose-can-t-believe-the-mavs-gave-up-on-luka-doncic-rob-pelinka-might-get-a-statue/ar-AA1ypKGE",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQt181N3jf0DTVJf09qO8YtkoRoHjtczaMXTHGcsESSEhCurzI0mzy-qmHqn8I",
         "source": "MSN"
       }
     ]
   },
   {
-    "title": "nba",
+    "title": "pesem evrovizije",
     "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Tue, 7 Jan 2025 19:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMMNmcHP5DISMkZ55h45LPuknlQB2YHVQtFkrEdVlL3y001Yy-ybZqYaeGUpY",
-    "picture_source": "2K Newsroom",
+    "pubdate": "Tue, 4 Feb 2025 13:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiuIeRNxp0f-KdUquL2eil0miouM8P4ROu-i3LS4hZOclLQOlQ2HPHDmFtBtQ",
+    "picture_source": "Dnevnik",
     "news_items": [
       {
-        "title": "NBA® 2K25 Season 4: Celebrate the New Year and Gear Up for NBA All-Star Weekend with All-New Rewards, Events, Fresh Fits and More",
+        "title": "Bodo Slovenijo na Evroviziji diskvalificirali?",
         "snippet": "",
-        "url": "https://newsroom.2k.com/news/nbar-2k25-season-4-celebrate-the-new-year-and-gear-up-for-nba-all-star-weekend-with-all-new-rewards-events-fresh-fits-and-more",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMMNmcHP5DISMkZ55h45LPuknlQB2YHVQtFkrEdVlL3y001Yy-ybZqYaeGUpY",
-        "source": "2K Newsroom"
+        "url": "https://www.dnevnik.si/novice/slovenija/vencek-imitacij-razburil-strasti-2714785/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiuIeRNxp0f-KdUquL2eil0miouM8P4ROu-i3LS4hZOclLQOlQ2HPHDmFtBtQ",
+        "source": "Dnevnik"
       },
       {
-        "title": "NBA 2K25 - Official Season 4 Trailer",
+        "title": "Škandal: RTVS in EBU poziva k diskvalifikaciji Klemna Slakonje",
         "snippet": "",
-        "url": "https://in.ign.com/nba-2k25/222385/video/nba-2k25-official-season-4-trailer",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LEeUENFFiEO6GIMnegcfanmJ73a6aXrkW-iG3VaGYkIYae4qRSVVRxxFE0w",
-        "source": "IGN India"
+        "url": "https://www.zurnal24.si/magazin/vip/skandal-rtvs-in-ebu-poziva-k-diskvalifikaciji-klemna-slakonje-436286",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3zIyNAUBB_pcwpVZVWaHzdQX8MI7mpzXmdUrg5X51paJ9fa35Vj9PBAXC5Vw",
+        "source": "Žurnal24"
       },
       {
-        "title": "NBA 2K25 Unveils First Update of 2025: Patch Notes Released",
+        "title": "(POGLED) Ema 2025: Maturantski izlet, na katerem je zmagal foter",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/basketball/2266307-nba-2k25-unveils-first-update-of-2025-patch-notes-released",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5aHE6bQ9D3yXnP63fdyKnLN7TesZhOBAHPhWpmzp3SZerq7WRuOfj4KA6ksk",
-        "source": "FootBoom"
+        "url": "https://vecer.com/slovenija/pogled-ema-2025-maturantski-izlet-na-katerem-je-zmagal-foter-10375656",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd6OJC-WnN-s2_VFIk87QZJarKA0iOG-YlsFu3raWm584uxrq_t-Y0LEE_j40",
+        "source": "Večer.com"
       }
     ]
   },
   {
-    "title": "pamela anderson",
+    "title": "atalanta – bologna",
     "link": "https://trends.google.com/trending/rss?geo=SI",
-    "pubdate": "Tue, 7 Jan 2025 11:10:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 12:30:00 -0800",
+    "approx_traffic": 200,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "clippers vs lakers",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 4 Feb 2025 22:20:00 -0800",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTARfo_uKx9SPkXXeT_C9M5vHuXm-UgVieCDLbK89Orq1-uSPn9jQOYmW4VIik",
-    "picture_source": "upi",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqY1X_jopMl6SuXVRIuoNEG5-sdat9W0xd42_FzDct3g8UXUi1rbNEy8YtIGU",
+    "picture_source": "Silver Screen and Roll",
     "news_items": [
       {
-        "title": "Pamela Anderson: 'I got so much off my chest' making 'Last Showgirl'",
+        "title": "Player Grades: Lakers vs. Clippers",
         "snippet": "",
-        "url": "https://www.upi.com/Entertainment_News/Movies/2025/01/08/Pamela-Anderson-Last-Showgirl-interview/2871736273249/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTARfo_uKx9SPkXXeT_C9M5vHuXm-UgVieCDLbK89Orq1-uSPn9jQOYmW4VIik",
-        "source": "upi"
+        "url": "https://www.silverscreenandroll.com/2025/2/4/24359227/player-grades-lakers-clippers-box-score-stats-lebron-james-austin-reaves-luka-doncic",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqY1X_jopMl6SuXVRIuoNEG5-sdat9W0xd42_FzDct3g8UXUi1rbNEy8YtIGU",
+        "source": "Silver Screen and Roll"
       },
       {
-        "title": "Where To Watch The Last Showgirl: Showtimes & Streaming Status",
+        "title": "LeBron JamesandLuka Doncic's first lakers moment had the NBA in awe",
         "snippet": "",
-        "url": "https://screenrant.com/where-to-watch-the-last-showgirl-showtimes-streaming/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_DRrADZiZ9w_eanQLbUyrB7JKXylaoPTEG6D19ryQzu1c7eSDGFSGYAmk97k",
-        "source": "Screen Rant"
+        "url": "https://www.marca.com/en/basketball/nba/los-angeles-lakers/2025/02/05/67a300abca474192618b4597.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLYfW17UfwRC4GzV-NTui0Ci0XtCIkGxOR6G43lPubJHPnzbA0E9R-aBu-tuw",
+        "source": "Marca.com"
       },
       {
-        "title": "Interview: 'The Last Showgirl' Screenwriter Kate Gersten Talks Penning the Pamela Anderson Showcase",
+        "title": "Doncic immediately enjoying being one of the Lakers",
         "snippet": "",
-        "url": "https://awardsradar.com/2025/01/08/interview-the-last-showgirl-screenwriter-kate-gersten-talks-penning-the-pamela-anderson-showcase/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZDp6ib6iqyHyE6ckX5Y3LBb8sw597uM_ywJqC-Vxe2MISFXpD0AU3lqxJZ7w",
-        "source": "Awards Radar"
+        "url": "https://en.as.com/nba/doncic-immediately-enjoying-being-one-of-the-lakers-n/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPtPKOLqstx7iaU-EcvocBSUjsOrASGbLSnxyMOk74sLf53NtEQ03Yi3aUf3I",
+        "source": "Diario AS"
+      }
+    ]
+  },
+  {
+    "title": "caleb martin",
+    "link": "https://trends.google.com/trending/rss?geo=SI",
+    "pubdate": "Tue, 4 Feb 2025 12:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ62fha8QA-MYOUfHt0k69sck3z5o0Rxye3fOw6RsyF8eVal85zU5GEmqzylI",
+    "picture_source": "NBA.Com",
+    "news_items": [
+      {
+        "title": "Luka Dončić joins Lakers after trade from Mavericks",
+        "snippet": "",
+        "url": "https://www.nba.com/news/luka-doncic-joins-lakers-after-trade-from-mavericks",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ62fha8QA-MYOUfHt0k69sck3z5o0Rxye3fOw6RsyF8eVal85zU5GEmqzylI",
+        "source": "NBA.Com"
+      },
+      {
+        "title": "Sixers Trade Caleb Martin To Mavs For Quentin Grimes, Second-Round Pick",
+        "snippet": "",
+        "url": "https://www.hoopsrumors.com/2025/02/sixers-to-trade-caleb-martin-to-mavs-for-quentin-grimes-second-round-pick.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_vqW5s9d98_tdRMXhHUTM7NV-evMqXm0p-EiQqg5euOHe-evQNZC8f66VmV0",
+        "source": "Hoops Rumors"
+      },
+      {
+        "title": "Instant reaction to Mavericks' out-of-nowhere trade for Caleb Martin",
+        "snippet": "",
+        "url": "https://thesmokingcuban.com/instant-reaction-dallas-mavericks-out-of-nowhere-trade-for-caleb-martin",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE9V_1yR3Hug03ANBXS4blSaN9tbzoTg8-2YUrNo9zFGudTdZufzg0xAVQGxI",
+        "source": "The Smoking Cuban"
       }
     ]
   }

@@ -1,304 +1,311 @@
 [
   {
-    "title": "polytrauma",
+    "title": "dfes",
     "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 06:20:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 21:40:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaeeHRXy7DF4m2dNTdljFiW9CNQ7_Fe5NWMDkCbz7otyJDGuNgHwFY2tyj5gs",
+    "picture_source": "Yanchep News Online",
+    "news_items": [
+      {
+        "title": "DFES and Marine Rescue WA introduce Deckee",
+        "snippet": "",
+        "url": "https://www.yanchepnewsonline.com.au/dfes-and-marine-rescue-wa-introduce-deckee/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaeeHRXy7DF4m2dNTdljFiW9CNQ7_Fe5NWMDkCbz7otyJDGuNgHwFY2tyj5gs",
+        "source": "Yanchep News Online"
+      },
+      {
+        "title": "Yalgoo shire $6m out of pocket after DFES rejects disaster recovery reimbursement",
+        "snippet": "",
+        "url": "https://www.abc.net.au/news/2025-02-05/disaster-funding-rejection-leaves-yalgoo-6m-out-of-pocket/104885486",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ1KOApFGjM6cK3zrnbakIa6GQLuS-x_vYZGD_8-OhTATFs_EG-2f9Yh15oKU",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "‘Horrified’: Shire of Yalgoo left in the lurch over $6 million disaster relief funding stoush",
+        "snippet": "",
+        "url": "https://www.6pr.com.au/horrified-shire-of-yalgoo-left-in-the-lurch-over-6-million-disaster-relief-funding-stoush/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSplNzOSoZf9-N9g_GkBD40XOeV7QJO-IwXN-JrgVzbHhjf72B0KLl5DP_I8NI",
+        "source": "6PR"
+      }
+    ]
+  },
+  {
+    "title": "boil water alert central coast nsw",
+    "link": "https://trends.google.com/trending/rss?geo=AU",
+    "pubdate": "Tue, 4 Feb 2025 21:40:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGmbUrVB0gfmqBPmVLs5iGYo4_3Twj7AupK2BN-WlJGvRhtond0rdWk6dVvXk",
+    "picture_source": "Australian Broadcasting Corporation",
+    "news_items": [
+      {
+        "title": "Drinking-water alert cancelled for nine NSW suburbs after E.coli find",
+        "snippet": "",
+        "url": "https://www.abc.net.au/news/2025-02-05/boil-water-alert-nsw-central-coast-ecoli-found-in-water/104898280",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGmbUrVB0gfmqBPmVLs5iGYo4_3Twj7AupK2BN-WlJGvRhtond0rdWk6dVvXk",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Central Coast residents told to boil water after testing detected bacteria",
+        "snippet": "",
+        "url": "https://www.smh.com.au/national/nsw/central-coast-residents-told-to-boil-water-20250205-p5l9o5.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmT0ZR7q5Am4Yo2LLMi_nIuZzrbM-17jwbjZEKfaRAiTG_uqDViGqPpZkHErk",
+        "source": "The Sydney Morning Herald"
+      },
+      {
+        "title": "False alarm: Central Coast Council rescinds warning following ‘potential contamination’",
+        "snippet": "",
+        "url": "https://www.ntnews.com.au/news/nsw/central-coast-council-urges-affluent-suburbs-to-boil-water-following-potential-contamination/news-story/38e583a5f121e68e1b440cfd14bc8aae",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjQmwOdDgLlYJ6tZQ8Ra1cmLLCShEPOPizGbHS4yzmDyXx72pX0heUXSC2wg0",
+        "source": "NT News"
+      }
+    ]
+  },
+  {
+    "title": "baby left in car",
+    "link": "https://trends.google.com/trending/rss?geo=AU",
+    "pubdate": "Tue, 4 Feb 2025 23:40:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiNS9nX8xZmBYfmqbnSrstMZO5CMkELhdEaWm5dalgZfn5sN9VEi8Vyrsu13Y",
-    "picture_source": "CBS News",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXJGT-Ks9r_c5SBCa8vN0bE_AsXwfqn1lOtiwRClqd8zlKBz-sN1XjL2BiUOE",
+    "picture_source": "Australian Broadcasting Corporation",
     "news_items": [
       {
-        "title": "Second man accused of supplying drugs to Liam Payne before his death surrenders to Argentine police",
+        "title": "Earlwood community left devastated by death of infant found in car, after neighbours tried to revive the girl",
         "snippet": "",
-        "url": "https://www.cbsnews.com/news/liam-payne-death-accused-hotel-worker-drugs-surrenders-police/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiNS9nX8xZmBYfmqbnSrstMZO5CMkELhdEaWm5dalgZfn5sN9VEi8Vyrsu13Y",
-        "source": "CBS News"
+        "url": "https://www.abc.net.au/news/2025-02-05/community-reaction-neighbours-child-death-earlwood-hot-car/104898850",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXJGT-Ks9r_c5SBCa8vN0bE_AsXwfqn1lOtiwRClqd8zlKBz-sN1XjL2BiUOE",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Five People Indicted in Connection With Liam Payne’s Fatal Fall",
+        "title": "'Unimaginable time of sorrow': Parents mourn one-year-old girl found dead in car",
         "snippet": "",
-        "url": "https://www.nytimes.com/2024/12/30/arts/music/liam-payne-indictments.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnP11LlwVNKZ3kL6Nub7cy2d35WeQPBfLdyDrnWwiap4gC6X_seWR7MiP__dU",
-        "source": "The New York Times"
+        "url": "https://www.9news.com.au/national/babys-death-outside-childcare-centre-sent-shockwave-through-community/f4d71439-8c4e-40a1-8787-5a98649a186f",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbbfcwmUpmBOw4dom4A0Uth-PVYzKaSiPN6MF7spWRcs3XAp2xAFGhebeGYF4",
+        "source": "9News.com.au"
       },
       {
-        "title": "Liam Payne Death Investigation: 5 Charged in Connection with Late One Direction Singer's Fatal Fall",
+        "title": "One-year-old girl found dead in car outside Sydney childcare centre",
         "snippet": "",
-        "url": "https://people.com/liam-payne-death-five-people-charged-in-connection-fatal-fall-8767456",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKj-25qS3hOCg4WZeDdYoe0-GWuUCq8oy4SKmQO5wNG8MtpmLxg7hD6_4lRAQ",
-        "source": "People.com"
+        "url": "https://www.theguardian.com/global/2025/feb/04/one-year-old-found-dead-in-car-outside-sydney-earlwood-childcare-centre-ntwnfb",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0F2xw61FyLYt2sPQDmfyJItCjBabtEAZQWcbaGlrZ-0HHI69RY5jsSZQjvHc",
+        "source": "The Guardian"
       }
     ]
   },
   {
-    "title": "gilberto ramirez",
+    "title": "new zealand",
     "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 04:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxJHqjlMHUzre_GBrM_DSulD-hSBhczX7eKYjjHooCgyfCTGN_ZjlfVKAZMAM",
-    "picture_source": "Boxing News 24/7",
+    "pubdate": "Tue, 4 Feb 2025 22:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKVf3AHnmGyKO4u8FMU9-E-SgXAouMPtRmOnr0DXUoFyvRia8CHs1FH0PzVH0",
+    "picture_source": "NZ Herald",
     "news_items": [
       {
-        "title": "Eddie Hearn Calls For Jai Opetaia – Gilberto Ramirez Fight Next",
+        "title": "Economist warns Kiwis not to ‘bet the house’ on property market",
         "snippet": "",
-        "url": "https://www.boxing247.com/boxing-news/eddie-hearn-calls-for-jai-opetaia-gilberto-ramirez-fight-next/285513",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxJHqjlMHUzre_GBrM_DSulD-hSBhczX7eKYjjHooCgyfCTGN_ZjlfVKAZMAM",
-        "source": "Boxing News 24/7"
+        "url": "https://www.nzherald.co.nz/business/economist-warns-kiwis-not-to-bet-the-house-on-property-market/M7K4ZJO5HFF4ZOMIU4F4ZKPTPY/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKVf3AHnmGyKO4u8FMU9-E-SgXAouMPtRmOnr0DXUoFyvRia8CHs1FH0PzVH0",
+        "source": "NZ Herald"
       },
       {
-        "title": "Gilberto Ramirez eyes Jai Opetaia, David Benavidez, Oleksandr Usyk or even Jake Paul",
+        "title": "New Zealand house prices crash",
         "snippet": "",
-        "url": "https://www.boxingscene.com/gilberto-ramirez-eyes-jai-opetaia-david-benavidez-oleksandr-usyk-or-even-jake-paul--201137",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO9uKIXesoYEtGoRHILtjthR-MXo7PDUTIFzpqT3dpBXmO1017OnpCwaNddFA",
-        "source": "BoxingScene"
+        "url": "https://www.macrobusiness.com.au/2025/02/new-zealand-house-prices-crash/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgz9yxoR5iksN3Gaj-UQq4WxpyLR9OnqmbAe1wowgqSh79RaD2cfA42x79GWI",
+        "source": "MacroBusiness"
       },
       {
-        "title": "Eddie Hearn on Opetaia vs Ramirez: “Oscar Let’s Make It Happen”",
+        "title": "Revealed: $500,000 price drops in New Zealand’s most expensive suburbs",
         "snippet": "",
-        "url": "https://3kingsboxing.com/eddie-hearn-on-opetaia-vs-ramirez-oscar-lets-make-it-happen/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRanzR2MCTDJzs16_oxuVmdY5NrtFke_YXg3r49g4pIKj4IY9kVojtZ6yORT3s",
-        "source": "3KingsBoxing.com"
+        "url": "https://www.oneroof.co.nz/news/revealed-500-000-price-drops-in-new-zealands-most-expensive-suburbs-46911",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5yT2OQR8OSmNMnUfZ6rdFEPvZVEKQ4zULrR9F6n256ANQY4NAKgaFZbTBrpU",
+        "source": "OneRoof"
       }
     ]
   },
   {
-    "title": "nyt connections hints january 8",
+    "title": "china",
     "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 04:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHUUBdbE5h6-yL0teVk4M3oo8OSRxnUPq0ld2tmfWO2Mkwi4IymtFd4IFXYM",
-    "picture_source": "Forbes",
+    "pubdate": "Tue, 4 Feb 2025 22:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5dtDeugpTSmOCEL2d8S25h6u01P8FG10YXDb6JJGBmByrkh99ACmgNoJz_p4",
+    "picture_source": "Australian Broadcasting Corporation",
     "news_items": [
       {
-        "title": "NYT ‘Connections’ Hints And Answers For Monday, January 6",
+        "title": "China retaliates with tariffs on US goods after Trump imposes new levies",
         "snippet": "",
-        "url": "https://www.forbes.com/sites/krisholt/2025/01/05/nyt-connections-today-help-clues-hints-answers-monday-january-6-575/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHUUBdbE5h6-yL0teVk4M3oo8OSRxnUPq0ld2tmfWO2Mkwi4IymtFd4IFXYM",
+        "url": "https://www.abc.net.au/news/2025-02-04/china-retaliates-with-tariffs-on-united-states-goods/104896638",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5dtDeugpTSmOCEL2d8S25h6u01P8FG10YXDb6JJGBmByrkh99ACmgNoJz_p4",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Xi Jinping shows how he will return American fire",
+        "snippet": "",
+        "url": "https://www.economist.com/finance-and-economics/2025/02/04/xi-jinping-shows-how-he-will-return-american-fire",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPmWK60nTla6CCzBTdPfQs56BAntYPRb9WmvqcODA0tBBvZPweEtYM2RBR8Vw",
+        "source": "The Economist"
+      },
+      {
+        "title": "Trump Tariffs Live Updates: China Responds With Retaliatory Tariffs, Export Controls And Google Probe",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/alisondurkee/2025/02/04/trump-tariffs-live-updates-china-responds-with-retaliatory-tariffs-export-controls-and-a-probe-into-google/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgL-y-Sgaok7XUu17j5HU8oQCO0_YbL1gi1uwOg1XWBYHhDD5f1ijC63UI5t4",
         "source": "Forbes"
-      },
-      {
-        "title": "Today's NYT Connections: Sports Edition Hints and Answers for Jan. 8, #107",
-        "snippet": "",
-        "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-8-107/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUWVob_xHtF8j3SPlhnR01w-4OX1slhEJWy-4jxYaAzllE53ZMbr6Q-4Z-eZU",
-        "source": "CNET"
-      },
-      {
-        "title": "NYT Connections hint and answers for Wednesday, 8th Jan",
-        "snippet": "",
-        "url": "https://www.rockpapershotgun.com/connections-hint-answers-08-01-25",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQauI3B95UsLPvSuS_lbSqbZjIVvTpq1ci5nYWjtrFTaPrM0LHDOqJAXHEcwYo",
-        "source": "Rock Paper Shotgun"
       }
     ]
   },
   {
-    "title": "eddie hearn",
+    "title": "bushfire",
     "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 03:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4Jk5UwrwwSC4p-byJhzP2pJMgCP-FXyvDtoZIbcABtxB1exhHNKadHO2FTsw",
-    "picture_source": "Nine",
+    "pubdate": "Tue, 4 Feb 2025 21:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhQ5hUlo1jzKCSRogZXu1GmF3IrA6-6hUROXVlmdRapr8VrCDWjx04xaGeCvo",
+    "picture_source": "Australian Broadcasting Corporation",
     "news_items": [
       {
-        "title": "Aussie world champ Jai Opetaia on right path to face Oleksandr Usyk in 'massive fight', says top promoter",
+        "title": "Overland Track closed and bushwalkers told to evacuate as fire started by dry lightning gets within 5km",
         "snippet": "",
-        "url": "https://www.nine.com.au/sport/combat-sports/boxing-news-2025-jai-opetaia-oleksandr-usyk-fight-eddie-hearn-gilberto-ramirez-david-nyika-20250108-p5l2rl.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4Jk5UwrwwSC4p-byJhzP2pJMgCP-FXyvDtoZIbcABtxB1exhHNKadHO2FTsw",
-        "source": "Nine"
+        "url": "https://www.abc.net.au/news/2025-02-05/overland-track-closed-by-bushfires-walkers-evacuate/104899318",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhQ5hUlo1jzKCSRogZXu1GmF3IrA6-6hUROXVlmdRapr8VrCDWjx04xaGeCvo",
+        "source": "Australian Broadcasting Corporation"
       },
       {
-        "title": "Undisputed: Hearn's plan for Opetaia and huge Usyk call",
+        "title": "Bushfire outbreak hits popular walking track",
         "snippet": "",
-        "url": "https://www.canberratimes.com.au/story/8861427/undisputed-hearns-plan-for-opetaia-and-huge-usyk-call/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIHbv_ZoFo9AL8GjLr36IECSuHOJi-rK_vcdx7JEaq9JpNHUjFXVC0gqaDhEE",
-        "source": "The Canberra Times"
-      },
-      {
-        "title": "‘Massive fight’: Aussie champ on Usyk collision course but big goal awaits before heavyweight move",
-        "snippet": "",
-        "url": "https://www.foxsports.com.au/boxing/only-thing-missing-saudi-billionaires-plea-for-aussie-star-ahead-of-gold-coast-clash/news-story/00d4e77ac7c312b4e2ee2fbc5e070fc1",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJq-BPNR6mXsLmIIIHrCKTiU9QSJzT9abyz3cy6AXmF0ds4oRYJjLQQ0gv_xM",
-        "source": "Fox Sports"
-      }
-    ]
-  },
-  {
-    "title": "david mccallum",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 03:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPQ8YEEVmJ7J5OzulPhPE1m45mw6VoaAiScinK0G0WZ0ThG4jZKiyGIKRAh_E",
-    "picture_source": "The Mirror US",
-    "news_items": [
-      {
-        "title": "Real reason David McCallum made the tough decision to leave NCIS",
-        "snippet": "",
-        "url": "https://www.themirror.com/entertainment/david-mccallum-ncis-dr-ducky-894526",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPQ8YEEVmJ7J5OzulPhPE1m45mw6VoaAiScinK0G0WZ0ThG4jZKiyGIKRAh_E",
-        "source": "The Mirror US"
-      },
-      {
-        "title": "“If you don’t, we’re not doing the show”: Real Reason Donald Bellisario Threatened to Cancel NCIS Over David McCallum’s Ducky",
-        "snippet": "",
-        "url": "https://www.imdb.com/news/ni65055039/?ref_=tt_nwr_1",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX6JeYCAUXGeIOU1fwXDdDdG7cMEbnynDQymOScu9shjhJluSdxerOv7Obq5A",
-        "source": "IMDb"
-      },
-      {
-        "title": "David McCallum Left NCIS Because Ducky Was “Becoming a little redundant”",
-        "snippet": "",
-        "url": "https://www.imdb.com/news/ni65049367/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYgWjsGr1agv4ryQnr9Z68D0toLt4P-XaFCeOFqCWAW7-dXTLa4IZCvgoT31A",
-        "source": "IMDb"
-      }
-    ]
-  },
-  {
-    "title": "isabella rossellini",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 05:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Njq9POZ9ESgJScmStBQA0l-D2Wg1-Hzc0a_Ar136Ky6owkPwJFo32p415-U",
-    "picture_source": "WWD",
-    "news_items": [
-      {
-        "title": "Isabella Rossellini Proves the Power of a Great Red Lip at the 2025 Golden Globe Awards",
-        "snippet": "",
-        "url": "https://wwd.com/shop/shop-beauty/isabella-rossellini-golden-globes-2025-lancome-beauty-1236789616/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Njq9POZ9ESgJScmStBQA0l-D2Wg1-Hzc0a_Ar136Ky6owkPwJFo32p415-U",
-        "source": "WWD"
-      },
-      {
-        "title": "Isabella Rossellini Looks Glamorous in Red at the Golden Globes",
-        "snippet": "",
-        "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a63205159/isabella-rossellini-red-carpet-photos-golden-globes-2025/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8FQdMZdrttWr7E4zh9UKESB8t3kgE94lN4hUIE6RnHIbIcOyeB0bMQ8O5u54",
-        "source": "Town & Country Magazine"
-      },
-      {
-        "title": "How Isabella Rossellini Got Ready for the Golden Globes After a 28-Year Hiatus",
-        "snippet": "",
-        "url": "https://www.elle.com/beauty/makeup-skin-care/g63349583/isabella-rossellini-getting-ready-golden-globe-awards-2025/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvipn9pBEXMb8uYrlItgB2JMnJsCwJ02d-XCdRM2zJHE7mnLPwuhn098kQUA",
-        "source": "ELLE"
-      }
-    ]
-  },
-  {
-    "title": "tilda swinton",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 05:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_Ie8ArEHTJTLyq-rlC8N0MdOCRomeu5VYKgdttx1HHONdueJqFa7BOGxWjk",
-    "picture_source": "Collider",
-    "news_items": [
-      {
-        "title": "Luca Guadagnino’s First Feature Was This True-Crime Documentary Starring Tilda Swinton",
-        "snippet": "",
-        "url": "https://collider.com/luca-guadagnino-the-protagonists-tilda-swinton/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_Ie8ArEHTJTLyq-rlC8N0MdOCRomeu5VYKgdttx1HHONdueJqFa7BOGxWjk",
-        "source": "Collider"
-      },
-      {
-        "title": "Golden Globes 2025: Demi Moore's Oscar hopes boosted after acting win",
-        "snippet": "",
-        "url": "https://www.bbc.com/news/articles/cew25kgdn5do",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEvhdM-oZHEfvFwgi1mF-7IxscPEuHHsD40SebLVkqzWPvH6JVHN9ky5wRfYY",
-        "source": "BBC"
-      },
-      {
-        "title": "The best vintage dresses to have ever graced the Golden Globes red carpet",
-        "snippet": "",
-        "url": "https://www.vogue.com.au/fashion/news/the-best-vintage-dresses-to-have-ever-graced-the-golden-globes-red-carpet/image-gallery/310d26ae162a86bf88c97a099ec5a54d",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcr3fgecdbGzHs5nt09bH-ndaOJDeIyBn2dLVV6j3QwOZvNIqJBaKXMwQPB6k",
-        "source": "Vogue Australia"
-      }
-    ]
-  },
-  {
-    "title": "rufus wainwright",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 04:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyx_yG87qPFaCAzpDupU5jVxqimUG0Kl2ASP7SZhvylZqIqPpghTRxH680LrM",
-    "picture_source": "Tinnitist",
-    "news_items": [
-      {
-        "title": "Classic Album Review: Rufus Wainwright | Want Two",
-        "snippet": "",
-        "url": "https://tinnitist.com/2025/01/07/classic-album-review-rufus-wainwright-want-two/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyx_yG87qPFaCAzpDupU5jVxqimUG0Kl2ASP7SZhvylZqIqPpghTRxH680LrM",
-        "source": "Tinnitist"
-      },
-      {
-        "title": "Video: Sara Bareilles and Rufus Wainwright Perform 'She Used to Be Mine' from WAITRESS",
-        "snippet": "",
-        "url": "https://www.broadwayworld.com/article/Video-Sara-Bareilles-and-Rufus-Wainwright-Perform-She-Used-to-Be-Mine-from-WAITRESS-20250106",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfY47DGuwdg4MHgYt3wPDOKEKop7x2sGaUTALFnJZxjlEtAw07GiBa1ZpFfBE",
-        "source": "BroadwayWorld.com"
-      }
-    ]
-  },
-  {
-    "title": "bom weather",
-    "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 04:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3Ly0URnW3TPFXloe1XMPte7u_HSMhHI1zQSzQ-CvFymvbLZptEqT_KyF1I8",
-    "picture_source": "News.com.au",
-    "news_items": [
-      {
-        "title": "‘Watch out’: Heavy rain warning for coast",
-        "snippet": "",
-        "url": "https://www.news.com.au/technology/environment/bureau-of-meteorology-warns-storms-and-damaging-winds-could-hit-eastern-australia/news-story/8ff36ed56c4077adebab074307e50f51",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3Ly0URnW3TPFXloe1XMPte7u_HSMhHI1zQSzQ-CvFymvbLZptEqT_KyF1I8",
+        "url": "https://www.news.com.au/technology/environment/tasmania-fire-service-warns-canning-peak-bushfire-threatens-overland-track/news-story/f2951b0b97fe1a7c6592439f3142cdd2",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4iRoz_6aGPbBx8P4azeUgUYdirXh9OmmEjgepBydK2xsNpxl3oDIO-5DzT4U",
         "source": "News.com.au"
       },
       {
-        "title": "Stormy weather setting in for eastern, northern Australia",
+        "title": "Australia news live: Tasmania’s overland bushwalking track closed amid bushfire threat",
         "snippet": "",
-        "url": "https://www.weatherzone.com.au/news/stormy-weather-setting-in-for-eastern-northern-australia/1890254",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRessvTFM8YagKq5IL2oGoR5o7pWhZ_RkkShwvlxKwGb6ekjeOXCEgTz4RgrgY",
-        "source": "Weatherzone"
-      },
-      {
-        "title": "Burst of thunderstorm activity predicted for Hunter as rain sets in",
-        "snippet": "",
-        "url": "https://www.newcastleherald.com.au/story/8860850/newcastle-weather-rain-and-storms-predicted-to-hit-hunter-coast/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX4HStWE1QTSbmuf4YfPMQZ8Iy-WR9sFFUfuV2sjub_FZ2YlDC7mZm3scQMRc",
-        "source": "Newcastle Herald"
+        "url": "https://www.theguardian.com/australia-news/live/2025/feb/05/australia-news-politics-live-deepseek-ban-federal-parliament-question-time-election-campaign-anthony-albanese-peter-dutton-ntwnfb?filterKeyEvents=false",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTii43Fx9zGx8853A3iW_dcPBLcVZ9tqGa-hkphLG7TvZpxSGwe6ecHVmB6NI",
+        "source": "The Guardian"
       }
     ]
   },
   {
-    "title": "adelaide international women's singles",
+    "title": "tom holland",
     "link": "https://trends.google.com/trending/rss?geo=AU",
-    "pubdate": "Wed, 8 Jan 2025 03:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcWLvW523gGbxigRYShFjE5fTcOwQ1IeGIFA33_Pk4HNmVyqpV-WVqKaaTQpk",
-    "picture_source": "WTA Tennis",
+    "pubdate": "Tue, 4 Feb 2025 22:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-KXn5Dbmfjlx_ZOutrBpWr_u5jT0U5W1_YxpSz9yfXwDjdMrXsGL5Ky0XFgk",
+    "picture_source": "Yahoo",
     "news_items": [
       {
-        "title": "Pegula vs. Sakkari | Round of 16 Adelaide International 2025 | WTA Official",
+        "title": "Zendaya’s Family Shows Just How Much They Adore Her Fiancé Tom Holland",
         "snippet": "",
-        "url": "https://www.wtatennis.com/tournament/2014/adelaide/2025/scores/LS008",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcWLvW523gGbxigRYShFjE5fTcOwQ1IeGIFA33_Pk4HNmVyqpV-WVqKaaTQpk",
-        "source": "WTA Tennis"
+        "url": "https://www.yahoo.com/entertainment/zendaya-family-shows-just-much-170122807.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-KXn5Dbmfjlx_ZOutrBpWr_u5jT0U5W1_YxpSz9yfXwDjdMrXsGL5Ky0XFgk",
+        "source": "Yahoo"
       },
       {
-        "title": "No place like home as Kokkinakis, Gadecki and Jones begin Adelaide campaigns",
+        "title": "Tom Holland Gets Called ‘Spider-Man’ While Partying With Zendaya In Oakland",
         "snippet": "",
-        "url": "https://adelaideinternational.com.au/2025/01/no-place-like-home-kokkinakis-gadecki-jones-begin-adelaide-international-2025-campaigns/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhcUYY7ToAHjTyNzmA0J8AR2Q2MvaQ9Ng8rE8-vAxYPckKxsvKIHxYaXWQ0Fs",
-        "source": "Adelaide International Tennis"
+        "url": "https://www.bet.com/article/2w71k4/tom-holland-gets-called-spider-man-while-partying-with-zendaya-in-oakland",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3ghHp7ThPXzep6JjmMUanRkNiA2ml9qvfGe8FaEn1J4s1J-3HHqpHrVkxbk",
+        "source": "BET"
       },
       {
-        "title": "Scouting Report: Americans Paul, Korda, Shelton feature across Adelaide & Auckland",
+        "title": "Internet is Loving Tom Holland Kicking it With Zendaya's Blackity-Black Family!",
         "snippet": "",
-        "url": "https://www.atptour.com/en/news/adelaide-auckland-2025-scouting-report",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc6uULafDlkb1PCYImhSV25_F-pvsh13WDHHZV446sVaXrVT3GNSzw8qLQwrg",
-        "source": "ATP Tour"
+        "url": "https://www.theroot.com/internet-is-loving-tom-holland-kicking-it-with-zendayas-1851755211",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOVwlCfl9_SPkstRlLgkgguk3rnRf7-7uS6T3MT4hY-Fu-GEU77kAd5iVY2iM",
+        "source": "The Root"
+      }
+    ]
+  },
+  {
+    "title": "ludwig",
+    "link": "https://trends.google.com/trending/rss?geo=AU",
+    "pubdate": "Tue, 4 Feb 2025 23:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShys87kNg2xPf5bmUTvZTmwl83S8H2Bt2OMlVMiz4PBo5nB_EWvPy_T8dpF10",
+    "picture_source": "The Sydney Morning Herald",
+    "news_items": [
+      {
+        "title": "Crime procedurals are back, and David Mitchell’s new one is the best",
+        "snippet": "",
+        "url": "https://www.smh.com.au/culture/tv-and-radio/crime-procedurals-are-back-and-david-mitchell-s-new-one-is-the-best-20250127-p5l7f1.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShys87kNg2xPf5bmUTvZTmwl83S8H2Bt2OMlVMiz4PBo5nB_EWvPy_T8dpF10",
+        "source": "The Sydney Morning Herald"
+      },
+      {
+        "title": "Ludwig",
+        "snippet": "",
+        "url": "https://tvtonight.com.au/2025/02/ludwig-2.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRAaQWBqIskdBGRYZmLHKF2o5Uesvr9lqtHWGZyVisZM_pfjDvfePjNkh7Oc",
+        "source": "TV Tonight | Australia's Leading TV Blog"
+      },
+      {
+        "title": "‘Ludwig’: BritBox Drops Trailer For The Crime Comedy",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/marcberman1/2025/01/30/ludwig-britbox-drops-trailer-for-the-crime-comedy/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5RE8lnKRUoF8cR4ui_vU0Hx3sNxcsyEzVCLr1BdtAMJ4q9qNhmqrwCMaMrw",
+        "source": "Forbes"
+      }
+    ]
+  },
+  {
+    "title": "anna paul",
+    "link": "https://trends.google.com/trending/rss?geo=AU",
+    "pubdate": "Tue, 4 Feb 2025 23:20:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYQfmIJXP5hgjt1XFjzMTRDy9KfzwKU_GreCA6aSAXdFJZcq_kvVvPiDvFDEc",
+    "picture_source": "News.com.au",
+    "news_items": [
+      {
+        "title": "‘Feel broke’: OnlyFans star divides Aussies",
+        "snippet": "",
+        "url": "https://www.news.com.au/finance/money/wealth/a-state-of-mind-anna-pauls-broke-feeling-claim-divides/news-story/91acfcbea2bb137eaf86a7ba6351160c",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYQfmIJXP5hgjt1XFjzMTRDy9KfzwKU_GreCA6aSAXdFJZcq_kvVvPiDvFDEc",
+        "source": "News.com.au"
+      },
+      {
+        "title": "Almost 1 million fans unfollow Aussie star",
+        "snippet": "",
+        "url": "https://www.news.com.au/lifestyle/real-life/news-life/anna-paul-and-mikaela-testa-feud-influencer-responds-to-broke-claims/news-story/41439d2b61b2c474a6d7ae3485eaf15a",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQvNWPyoTcmGUFamX6SPldQu1mtxIWipoGQm5uRdRtqFFcs3JFYFUSgAhQeqo",
+        "source": "News.com.au"
+      },
+      {
+        "title": "Anna Paul breaks silence after Mikaela Testa’s allegations lead to 'nearly 1M unfollows'",
+        "snippet": "",
+        "url": "https://www.indy100.com/news/anna-paul-breaks-silence-mikaela-testa",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqZ4L5FhoZAIh6QWZPJVluNjJA7j8Fr6JpDzIZXBg8btuFUIqmXKPV195q5UI",
+        "source": "Indy100"
+      }
+    ]
+  },
+  {
+    "title": "kingswood stabbing",
+    "link": "https://trends.google.com/trending/rss?geo=AU",
+    "pubdate": "Tue, 4 Feb 2025 22:50:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgYndpmKnC-1Whq5RMVGGZlD0Olepq7oQLf4aSAVbSat4d3g4TYRtmZssMcg",
+    "picture_source": "Australian Broadcasting Corporation",
+    "news_items": [
+      {
+        "title": "Seven teenagers arrested after pizza shop owner fatally stabbed in Kingswood",
+        "snippet": "",
+        "url": "https://www.abc.net.au/news/2025-02-05/pizza-shop-owner-stabbing-death-teens-arrested-kingswood/104901542",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgYndpmKnC-1Whq5RMVGGZlD0Olepq7oQLf4aSAVbSat4d3g4TYRtmZssMcg",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Latest News",
+        "snippet": "",
+        "url": "https://www.police.nsw.gov.au/news/article?id=116667",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU3AxcAeYGJxxUpI8ydrx56zt54n3wI62-0nmi9dtckHX-33O_3LTSxj7Vsbc",
+        "source": "NSW Police"
+      },
+      {
+        "title": "Popular Sydney pizza chef stabbed to death, seven teens arrested",
+        "snippet": "",
+        "url": "https://www.smh.com.au/national/nsw/popular-sydney-pizza-chef-stabbed-to-death-six-teens-arrested-20250205-p5l9py.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBihQnptAx_uDegA-J9fljdOVQOput6UNLsLkvhw_nOXPA9jQkF2JSAHgLRhM",
+        "source": "The Sydney Morning Herald"
       }
     ]
   }

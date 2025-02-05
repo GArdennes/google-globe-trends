@@ -1,156 +1,311 @@
 [
   {
-    "title": "arsenal - newcastle",
+    "title": "atlético madrid - getafe",
     "link": "https://trends.google.com/trending/rss?geo=HN",
-    "pubdate": "Tue, 7 Jan 2025 11:10:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS49lnR8o4yJBrdk2b_1j_Qwh3Jp4S_0Lq2-XgJNoDqKxkiB0rwvrsUpdlKp3U",
+    "picture_source": "Marca.com",
+    "news_items": [
+      {
+        "title": "Hay otro Simeone en la ciudad",
+        "snippet": "",
+        "url": "https://www.marca.com/futbol/copa-rey/cronica/2025/02/04/6797bfe7ca47417e6c8b4571.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS49lnR8o4yJBrdk2b_1j_Qwh3Jp4S_0Lq2-XgJNoDqKxkiB0rwvrsUpdlKp3U",
+        "source": "Marca.com"
+      },
+      {
+        "title": "Fiesta argentina y a semifinales",
+        "snippet": "",
+        "url": "https://as.com/futbol/a-semifinales-bailando-tango-n/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM3AKEzmzGOtmPwMeQyWCqkofNqk7jDzhR3-oB_-x5-Lrw9Xf9XyCz_wClgmg",
+        "source": "Diario AS"
+      },
+      {
+        "title": "Tremenda goleada del Atlético en la Copa del Rey, clasifican a semifinales y avisan al Real Madrid de cara al derbi",
+        "snippet": "",
+        "url": "https://www.diez.hn/internacionales/tremenda-goleada-atletico-copa-del-rey-clasifican-a-semifinales-y-avisan-real-madrid-derbi-EO23963124",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_MGpNkmHoAIE6eaNzTGuvbYOGR-PaoiPklf-imXR1NctOEDrwi4uSDtctgQ",
+        "source": "DIEZ.HN"
+      }
+    ]
+  },
+  {
+    "title": "copa del rey",
+    "link": "https://trends.google.com/trending/rss?geo=HN",
+    "pubdate": "Tue, 4 Feb 2025 04:00:00 -0800",
     "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScL7FWA1Zlw35CH1ZeDVdttgqOKcbctge2UYGKpf-rH-3YubNHaVIKLH1_v7k",
-    "picture_source": "ESPN",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCSMfDXeUWOwIiyuhWuJt8OIFC2SCX9lLkPXWhR_vQ3oFLX64Xo3k7Nk9Ezs0",
+    "picture_source": "DIEZ.HN",
     "news_items": [
       {
-        "title": "Arteta laments 'different' Cup ball in Arsenal loss",
+        "title": "Leganés enciende la polémica con Real Madrid: “Un partido VÁRbaro”",
         "snippet": "",
-        "url": "https://www.espn.com/soccer/story/_/id/43325707/ball-flight-added-arsenal-misses-mikel-arteta",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScL7FWA1Zlw35CH1ZeDVdttgqOKcbctge2UYGKpf-rH-3YubNHaVIKLH1_v7k",
-        "source": "ESPN"
+        "url": "https://www.diez.hn/internacionales/leganes-enciende-polemica-redes-burla-real-madrid-juego-copa-del-rey-un-partido-varbaro-PM23945468",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCSMfDXeUWOwIiyuhWuJt8OIFC2SCX9lLkPXWhR_vQ3oFLX64Xo3k7Nk9Ezs0",
+        "source": "DIEZ.HN"
       },
       {
-        "title": "Football latest: West Ham boss Julen Lopetegui, Newcastle beat Arsenal, Didier Deschamps to leave France",
+        "title": "Así fue la burla de club español al Real Madrid previo a su próximo partido",
         "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/cgkxl267relt",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BvfjXhKSi4mS5PYVWnsQ9IlWROLVcGUuGiJxrSZNSLPhVOZ5p4ckfAGTpm8",
-        "source": "BBC"
+        "url": "https://www.deportestvc.com/futbol-internacional/burla-de-club-espanol-al-real-madrid-partido-copa-de-rey-2025-02-04",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0vpbnSQh2FEtq5w3NZ7LFluhJ7-Q2bvzbF_BJZ_Nagoa5iwil9QYlLWqn_WQ",
+        "source": "Deportes TVC"
       },
       {
-        "title": "‘We’ve only done half the work’: Howe cautious after Newcastle victory",
+        "title": "El ingenioso guiño del Leganés a la polémica arbitral: 'Partido várbaro'",
         "snippet": "",
-        "url": "https://www.theguardian.com/football/2025/jan/07/eddie-howe-arsenal-newcastle-football-carabao-cup",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnPzWgRTZINTZSjae_0zQMlDynnitleGR1mHYuTdqFlbPvDaBM8EFN8p7b_yE",
-        "source": "The Guardian"
+        "url": "https://www.marca.com/futbol/real-madrid/2025/02/04/ingenioso-guino-leganes-polemica-arbitral-partido-varbaro.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGd6ZUlG9BToC1pqxadnEfGxAxP3HJugWyz5SOLfmH61yhZJfXjJSRjMzOPDs",
+        "source": "Marca.com"
       }
     ]
   },
   {
-    "title": "cd eldense - valencia c. f.",
+    "title": "le mans football club - psg",
     "link": "https://trends.google.com/trending/rss?geo=HN",
-    "pubdate": "Tue, 7 Jan 2025 11:30:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
     "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWltMHSwh-le3IEevGeu6OJEk2IDX5NyLyet-ChRONPTk1YSMO1VOLknUj3JE",
-    "picture_source": "Diario AS",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
+    "picture_source": "L'Équipe",
     "news_items": [
       {
-        "title": "Resumen y goles del Eldense vs Valencia, 1/16 de final Copa del Rey 24-25",
+        "title": "Le PSG laissera sa part de recette au Mans... seulement en Coupe de France Féminine",
         "snippet": "",
-        "url": "https://as.com/videos/copa-del-rey-de-futbol/resumen-y-goles-del-eldense-vs-valencia-116-de-final-copa-del-rey-24-25-v/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWltMHSwh-le3IEevGeu6OJEk2IDX5NyLyet-ChRONPTk1YSMO1VOLknUj3JE",
-        "source": "Diario AS"
+        "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-laissera-sa-part-de-recette-au-mans-seulement-en-coupe-de-france-feminine/1537691",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
+        "source": "L'Équipe"
       },
       {
-        "title": "Vídeo: Canós conecta con Diego López para hacer 0-2 en Elda",
+        "title": "Multiplex Coupe de France : sur quelle chaîne et à quelle heure voir les matchs de ce mercredi ?",
         "snippet": "",
-        "url": "https://www.msn.com/es-es/deportes/futbol/v%C3%ADdeo-can%C3%B3s-conecta-con-diego-l%C3%B3pez-para-hacer-0-2-en-elda/ar-AA1x9inX",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhc31fxqEjccyVQXOOloaR4_ihIWKhDzyXMUXH-sT9uKEXLRcpeASus-itqrc",
-        "source": "MSN"
+        "url": "https://www.ouest-france.fr/sport/football/coupe-de-france/multiplex-coupe-de-france-sur-quelle-chaine-et-a-quelle-heure-voir-les-matchs-de-ce-mercredi-b52d3ce0-e303-11ef-95b5-abc03fff97b2",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJrjo9T6D-M1cSx-z9SsEwMj7GqiwDke1yxFN-lDLUGwv7kV0jxIdK7zJV8OY",
+        "source": "Ouest-France"
       },
       {
-        "title": "La Furia de Canós Celebrada Tras un Espectacular Gol en la Copa... Un Año Después",
+        "title": "Le Mans : Rabillard tout de même fier",
         "snippet": "",
-        "url": "https://www.footboom1.com/es/news/football/2271613-canos-fury-celebrated-after-stunning-copa-goal-one-year-on",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvv59GVvwZJvMv_KwVZ-L7a4_sKlfqTuZf0bDgbbm2MfUsoyZGTxE4Fbm5GuM",
-        "source": "FootBoom"
+        "url": "https://www.maxifoot.fr/le-mans/rabillard-tout-de-meme-fier-foot-427870.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILgbqON4SGZGl6fKGj3H3_W8CyCUgbezNwWsMTXpUtmYL-r-2Qic7P0J4hKg",
+        "source": "Maxifoot"
       }
     ]
   },
   {
-    "title": "supercopa de españa",
+    "title": "atalanta - bolonia",
     "link": "https://trends.google.com/trending/rss?geo=HN",
-    "pubdate": "Wed, 8 Jan 2025 04:50:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 11:30:00 -0800",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIqOEgv_EVYeJAOwXRNskhk4ewbDjO5bugZY5zAk0FiUTS5Un7rPn05p83hqI",
+    "picture_source": "Football Italia",
+    "news_items": [
+      {
+        "title": "Coppa Italia: Atalanta 0-1 Bologna – Rossoblu make 21st century history",
+        "snippet": "",
+        "url": "https://football-italia.net/coppa-italia-qf-atalanta-0-1-bologna/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIqOEgv_EVYeJAOwXRNskhk4ewbDjO5bugZY5zAk0FiUTS5Un7rPn05p83hqI",
+        "source": "Football Italia"
+      },
+      {
+        "title": "Super sub Castro sends Bologna into Coppa Italia final four at expense of Atalanta",
+        "snippet": "",
+        "url": "https://www.flashscore.com/news/atalanta-bologna-report-2025-02-04/Sb2PtIn2/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxVATFCL0kfot2o4kuw4seUfFTvzjbTcu9OFbtr3knSYeHdeFCZ9s5dqFiFY",
+        "source": "Flashscore.com"
+      },
+      {
+        "title": "Atalanta coach Gasperini admits form slump after Coppa exit",
+        "snippet": "",
+        "url": "https://www.tribalfootball.com/article/soccer-coppa-italia-atalanta-coach-gasperini-admits-form-slump-after-coppa-exit-a4f90908-92cb-438a-bc2b-9ffc39e05059",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ627CTw1u53JzEh4t7YyFwVHIpSFhwppYVwC3EfOzQ3xo8J8PwQQT9vIm6ZPw",
+        "source": "TribalFootball"
+      }
+    ]
+  },
+  {
+    "title": "real hope - cruz azul",
+    "link": "https://trends.google.com/trending/rss?geo=HN",
+    "pubdate": "Tue, 4 Feb 2025 16:20:00 -0800",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2brd_UBXKI4522hYuaxqdwjDt7ozt0x54-VVte7TalYsvfjiTT0EbDWjQubU",
-    "picture_source": "Diario AS",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE6udEbLrP1yyIgnOpe3yhABIh_ACfz--WQqK52Ez2_G7iVwwPnYJsJ4osySg",
+    "picture_source": "Mashable",
     "news_items": [
       {
-        "title": "Posible alineación del Barcelona ante el Athletic hoy en la Supercopa",
+        "title": "How to watch Real Hope vs. Cruz Azul online for free",
         "snippet": "",
-        "url": "https://as.com/futbol/primera/posible-alineacion-del-barcelona-ante-el-athletic-hoy-en-la-supercopa-n/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2brd_UBXKI4522hYuaxqdwjDt7ozt0x54-VVte7TalYsvfjiTT0EbDWjQubU",
-        "source": "Diario AS"
+        "url": "https://mashable.com/article/real-hope-cruz-azul-concacaf-champions-cup-2025-live-stream-for-free",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE6udEbLrP1yyIgnOpe3yhABIh_ACfz--WQqK52Ez2_G7iVwwPnYJsJ4osySg",
+        "source": "Mashable"
       },
       {
-        "title": "Barcelona enfrenta al Athletic Club en Arabia: hora y por dónde ver hoy el partido de la Supercopa de España",
+        "title": "RH vs CRU Dream11 Prediction: Today’s Match – Fantasy Football Tips, Captain Choices, Playing XI & Injury Updates – Concacaf Champions Cup 2025",
         "snippet": "",
-        "url": "https://www.diez.hn/internacionales/barcelona-athletic-club-en-vivo-supercopa-espana-en-directo-partido-lewandowski-hansi-flick-FM23499936",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL9PuSe5Eq3l2YRzLjzegmnSFbhuRhF-QQh4WXyusR7WO_1AbzV41iImNX_Us",
-        "source": "Diez.hn"
+        "url": "https://uccricket.live/sports/football/rh-vs-cru-dream11-prediction-match-fantasy-tips-captain-choices-playing-xi-concacaf-champions-cup-2025-28350/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUUelAWvNFrkIR1MD-YPZA8WpUgDaggcsPI-Ppgm2H21BBJkCkB71gA8XV6ww",
+        "source": "UC Cricket"
       },
       {
-        "title": "Bailan dos plazas para Flick ante el Athletic",
+        "title": "Real Hope and Cruz Azul kick off 2025 Concacaf Champions Cup",
         "snippet": "",
-        "url": "https://www.sport.es/es/noticias/barca/bailan-plazas-flick-athletic-113188126",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaRUynPgGp0T_9ZTpnzf3erXjkSOt65nWm3aDnlgEWoBUUPrt5OaqkMqttNuk",
-        "source": "SPORT"
+        "url": "https://www.concacaf.com/champions-league/news/real-hope-and-cruz-azul-kick-off-2025-concacaf-champions-cup/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaprggj14JpKWZy8teYrV8XGOXDYItODJnUpstw3ACeROvtJfU9swujD0DHTM",
+        "source": "Concacaf"
       }
     ]
   },
   {
-    "title": "efl cup",
+    "title": "al hilal - persépolis",
     "link": "https://trends.google.com/trending/rss?geo=HN",
-    "pubdate": "Tue, 7 Jan 2025 11:30:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 10:10:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMG-VAdME-SU6OZoH1ah9PaFh05gl_hSvPa3D1n0r4fSDX2_tcHcxMuobXuVA",
+    "picture_source": "Tehran Times",
+    "news_items": [
+      {
+        "title": "Al Hilal too strong for Persepolis at ACL Elite MD7",
+        "snippet": "",
+        "url": "https://www.tehrantimes.com/news/509447/Al-Hilal-too-strong-for-Persepolis-at-ACL-Elite-MD7",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMG-VAdME-SU6OZoH1ah9PaFh05gl_hSvPa3D1n0r4fSDX2_tcHcxMuobXuVA",
+        "source": "Tehran Times"
+      },
+      {
+        "title": "Al-Dawsari the star as Al-Hilal return to top of AFC Champions League Elite group",
+        "snippet": "",
+        "url": "https://www.arabnews.com/node/2589038/sport",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRahmOoZoqfaoM988RFxyYjENWpN1MoqaCtxHj1CsT2tC4HcmaOgixgiIeLWtY",
+        "source": "Arab News"
+      },
+      {
+        "title": "Al-Hilal vs Persepolis Live Streaming Online, AFC Champions League Elite 2024–25: Get Match Telecast Time",
+        "snippet": "",
+        "url": "https://www.latestly.com/sports/football/al-hilal-vs-persepolis-live-streaming-online-afc-champions-league-elite-2024-25-get-match-telecast-time-in-ist-and-tv-channels-to-watch-football-match-in-india-6617555.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRND1LrVfpogAq4yBPwUQYao58hutvzyognAHOHtzvh3-7oWwfNrtSBHx4rJlM",
+        "source": "LatestLY"
+      }
+    ]
+  },
+  {
+    "title": "cristiano ronaldo",
+    "link": "https://trends.google.com/trending/rss?geo=HN",
+    "pubdate": "Tue, 4 Feb 2025 15:20:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63w5rj5zlxCGHsTAiz5eVJt7wIzdcQnfk4hPjSXd5dSO2wW9c77EXm3_3KPw",
-    "picture_source": "anfieldindex.com",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
+    "picture_source": "SportsMint Media",
     "news_items": [
       {
-        "title": "Starting XI Prediction: Arne Slot to Make Five Changes for Liverpool's Semi-Final Clash with Tottenham Hotspur",
+        "title": "Cristiano Ronaldo: a global brand colossus at 40",
         "snippet": "",
-        "url": "https://anfieldindex.com/77334/starting-xi-prediction-arne-slot-to-make-five-changes-for-liverpools-semi-final-clash-with-tottenham-hotspur.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63w5rj5zlxCGHsTAiz5eVJt7wIzdcQnfk4hPjSXd5dSO2wW9c77EXm3_3KPw",
-        "source": "anfieldindex.com"
+        "url": "https://sportsmintmedia.com/cristiano-ronaldo-a-global-brand-colossus-at-40/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
+        "source": "SportsMint Media"
       },
       {
-        "title": "Tottenham's Clear Goal Ahead of Carabao Cup Clash with Liverpool as Postecoglou Awaits Reinforcements",
+        "title": "Press Review: \"The Day the King Turns 40\" and What's Left in the Transfer Market",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2273659-tottenham-s-clear-goal-ahead-of-carabao-cup-clash-with-liverpool-as-postecoglou-awaits-reinforcements",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVdzQ-0QLyomFq0NBd0SyTFcowV1yN0l2MBZozHx7_sBNrZXtvkNnoWj7h0G4",
+        "url": "https://www.footboom1.com/en/news/football/2354344-press-review-the-day-the-king-turns-40-and-what-s-left-in-the-transfer-market",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtVAqOr3ZQXqMZSmJdriAQtj_pasL8sF-HN84RHJRjoCSR45gdsCIeGk7uDec",
         "source": "FootBoom"
       },
       {
-        "title": "History of confrontations between Liverpool and Tottenham in all tournaments",
+        "title": "European leaders gear up for tariffs after Trump threat",
         "snippet": "",
-        "url": "https://www.ysscores.com/en/news/10368202/History-of-confrontations-between-Liverpool-and-Tottenham-in-all-tournaments",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8U69NeWzeE8Wwkcm-iXNVTo0Up-vvqVgpuR4VvP-KSnRYKzkyLR1nPXGKZks",
-        "source": "www.ysscores.com"
+        "url": "https://www.msn.com/en-za/news/other/european-leaders-gear-up-for-tariffs-after-trump-threat/vi-AA1yp1iR?ocid=hpmsn",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn0Q476C5BV8nsBSowAx_SgrNJ-aqcySfccePHE5c6JQbHlKuXEOkegRdluHY",
+        "source": "MSN"
       }
     ]
   },
   {
-    "title": "sporting lisboa - porto",
+    "title": "troyes - stade brestois",
     "link": "https://trends.google.com/trending/rss?geo=HN",
-    "pubdate": "Tue, 7 Jan 2025 12:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQndi7U2YMgh5vB9FB0J68PqSs4xO8CsSWGetfKTzFoYdsz_vzw0th9tKey_QQ",
-    "picture_source": "PortuGOAL",
+    "pubdate": "Tue, 4 Feb 2025 10:10:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4jsfDcgLYjcq6hlzDoJMDpstnDXZ862Um8O318Ddax--arrQVgxpdXxs6GkA",
+    "picture_source": "Le Télégramme",
     "news_items": [
       {
-        "title": "Viktor Gyökeres strikes as Sporting beat Porto in Taça da Liga semi-final",
+        "title": "Un but spectaculaire, des sandwichs qui ne passent pas et de l’IA pour prévenir les suicides : Bonjour Brest",
         "snippet": "",
-        "url": "https://portugoal.net/club-news/4426-viktor-gyoekeres-strikes-as-sporting-beat-porto-in-taca-da-liga-semi-final",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQndi7U2YMgh5vB9FB0J68PqSs4xO8CsSWGetfKTzFoYdsz_vzw0th9tKey_QQ",
-        "source": "PortuGOAL"
+        "url": "https://www.letelegramme.fr/finistere/brest-29200/un-but-spectaculaire-des-sandwichs-qui-ne-passent-pas-et-de-lia-pour-prevenir-les-suicides-bonjour-brest-6754804.php",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4jsfDcgLYjcq6hlzDoJMDpstnDXZ862Um8O318Ddax--arrQVgxpdXxs6GkA",
+        "source": "Le Télégramme"
       },
       {
-        "title": "Sporting Lisbon vs Porto Prediction and Betting Tips | January 7th 2025",
+        "title": "CdF : Troyes 1-2 Brest (fini)",
         "snippet": "",
-        "url": "https://www.sportskeeda.com/football/sporting-lisbon-vs-porto-prediction-betting-tips-january-7th-2025",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsaQt1N5er0gwF3t8U0BGBYnxU7-h2nGlof9vpH3ABMp8Uslrs4kgS6KsHJrY",
-        "source": "Sportskeeda"
+        "url": "https://www.maxifoot.fr/info-427855_250204/football.php",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZor0yWMzjEKvKCI3Ppu6SI96_bXZ3QD6h9cqqTg7oYFOez0QHBphVD_tYG80",
+        "source": "Maxifoot"
       },
       {
-        "title": "Final-Four of the League Cup Kicks Off Today, BOM DIA Will Be There - BOM DIA Luxembourg",
+        "title": "Nord-Finistère - Coupe de France. Qualification du bout du pied pour le Stade Brestois . Sport",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2270178-final-four-of-the-league-cup-kicks-off-today-bom-dia-will-be-there-bom-dia-luxembourg",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfjla8fsaOJSLBNLwYMgVEKbCiKZk2l2Q14lYY1mYCqs0wFv1CrxJ58DCEmLU",
-        "source": "FootBoom"
+        "url": "https://trouville-deauville.maville.com/sport/detail_-nord-finistere-coupe-de-france.-qualification-du-bout-du-pied-pour-le-stade-brestois-_-6665293_actu.Htm",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs4vnsWJr_DDvAlbSdbSTHvD8Otj6KD-8b1NSyS1UWPm_MwQtmRWxh0TOloGU",
+        "source": "Maville.com"
+      }
+    ]
+  },
+  {
+    "title": "real sociedad - real madrid c. f. femenino",
+    "link": "https://trends.google.com/trending/rss?geo=HN",
+    "pubdate": "Tue, 4 Feb 2025 10:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSk-JiFlibXoWgcL5wbddEjYqi9KdR3Q6qMzbJPlpeLYzlkDa2lTgPUxl3CpU0",
+    "picture_source": "Marca.com",
+    "news_items": [
+      {
+        "title": "El Real Madrid 'aprieta' la Liga",
+        "snippet": "",
+        "url": "https://www.marca.com/futbol/futbol-femenino/primera-division/cronica/2025/02/04/67a25792268e3e1e4a8b458c.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSk-JiFlibXoWgcL5wbddEjYqi9KdR3Q6qMzbJPlpeLYzlkDa2lTgPUxl3CpU0",
+        "source": "Marca.com"
+      },
+      {
+        "title": "Demasiado castigo",
+        "snippet": "",
+        "url": "https://www.realsociedad.eus/es/noticias/detalle/demasiado-castigo-9",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4vLELvXMzd1BR2gnddwpxqN-Ap8VZ-kK1OC4YpzIacnjhoNnHwGLApwJg5c",
+        "source": "Real Sociedad"
+      },
+      {
+        "title": "El Madrid entona el Bruun, Bruun para apretar la Liga F",
+        "snippet": "",
+        "url": "https://as.com/futbol/femenino/el-madrid-entona-el-bruun-bruun-en-zubieta-para-apretar-la-liga-n/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTy54SnS6SyIpYMuZCGF_Elxr-LzdXq-N8a24yfLWKmuCijlTb_qhjhmTc4M",
+        "source": "Diario AS"
+      }
+    ]
+  },
+  {
+    "title": "copa italia",
+    "link": "https://trends.google.com/trending/rss?geo=HN",
+    "pubdate": "Tue, 4 Feb 2025 13:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcZ0o-HkSyLAR7BoY03LbFnh7tNYEHWmGkmLQTG8PBfW2dFRnveGezqMF8ew",
+    "picture_source": "AP News",
+    "news_items": [
+      {
+        "title": "Con gol de Santiago Castro, Bologna vence a Atalanta y alcanza semifinales de la Copa Italia",
+        "snippet": "",
+        "url": "https://apnews.com/article/copa-italiana-santiago-castro-bologna-atalanta-juventus-empoli-a16936a222f4bc54283f12f50de83ce4",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcZ0o-HkSyLAR7BoY03LbFnh7tNYEHWmGkmLQTG8PBfW2dFRnveGezqMF8ew",
+        "source": "AP News"
+      },
+      {
+        "title": "Bolonia deshacerse de Atalanta en las finales de cuarto de la Copa Italiana",
+        "snippet": "",
+        "url": "https://www.puertasautomaticasediciones.cl/cultura/bolonia-deshacerse-de-atalanta-en-las-finales-de-cuarto-de-la-copa-italiana/103106/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgCrkyYpP0T34z9J3ENm8ycI0xfe9ot2BiVeIJSX6ETvalp2sVFc2VVE6OdY",
+        "source": "www.puertasautomaticasediciones.cl"
+      },
+      {
+        "title": "Lucumí le ganó el duelo a Cuadrado y Bolognia es semifinalista de Copa",
+        "snippet": "",
+        "url": "https://www.futbolred.com/otras-ligas-de-futbol/goles-resumen-y-resultado-atalanta-vs-bolognia-de-cuadrado-y-lucumi-en-copa-italia-234838",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMBe-__lX6OJlC-XfvStNWunk32GFHq5v2qYvDsThwOw4Dd-2bwzo4fk_8K7I",
+        "source": "Futbolred"
       }
     ]
   }

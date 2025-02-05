@@ -1,311 +1,311 @@
 [
   {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Tue, 7 Jan 2025 19:20:00 -0800",
-    "approx_traffic": 20000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwUx3OacjYVaPIhwMxCw-NPIo8p7Ut_jy2GHSkpAr_Fg7olymKkbJEB27HUw",
-    "picture_source": "Los Angeles Times",
-    "news_items": [
-      {
-        "title": "2 dead and more than 1,000 homes, businesses, other buildings destroyed in fires",
-        "snippet": "",
-        "url": "https://www.latimes.com/california/live/pacific-palisades-fire-updates-los-angeles",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwUx3OacjYVaPIhwMxCw-NPIo8p7Ut_jy2GHSkpAr_Fg7olymKkbJEB27HUw",
-        "source": "Los Angeles Times"
-      },
-      {
-        "title": "Live camera shows the destructive Palisades Fire in Los Angeles",
-        "snippet": "",
-        "url": "https://ktla.com/news/california/wildfires/palisades-fire-live-camera/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_-liP7Vv_yrjyVCLggXDi6nCvgsdhCz6g372PJvem-AX_6NJBdd0GmnBNFbQ",
-        "source": "KTLA"
-      },
-      {
-        "title": "Where power is out in Southern California | MAP",
-        "snippet": "",
-        "url": "https://abc7.com/post/power-outage-map-tracker-see-affected-areas-los-angeles-larger-southern-california-area/15777619/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5nkx9br0NqPxC9bI-NyHYlCTk-Rui_VaXwSCtwydNDdXD5FOa4OqZJdyGjA",
-        "source": "ABC7 Los Angeles"
-      }
-    ]
-  },
-  {
     "title": "الطقس",
     "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Tue, 7 Jan 2025 19:00:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLjOkUX6A3XfJ7VcNJEx3yUY0xXu3ELeIeKtaM3UOPK_HJXDFMfHPqg11zecQ",
-    "picture_source": "جريدة مصرنا",
-    "news_items": [
-      {
-        "title": "توقعات الأرصاد: ارتفاع طفيف في درجات الحرارة قبل وصول منخفض الخميس",
-        "snippet": "",
-        "url": "https://misrena.com/uncategorized/14202.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLjOkUX6A3XfJ7VcNJEx3yUY0xXu3ELeIeKtaM3UOPK_HJXDFMfHPqg11zecQ",
-        "source": "جريدة مصرنا"
-      },
-      {
-        "title": "الأرصاد: درجات الحرارة تقترب من الصفر وأقل المناطق بردوة لمدة 7 أيام قادمة | الأخبار",
-        "snippet": "",
-        "url": "https://radar2.net/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D9%88/8852/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJpcCPDI2Zjd1htlHM_o-_f1j76d9KVvJ1q1Eb2Qqfg7YgBbqqVcq_mKtglU",
-        "source": "radar2.net"
-      },
-      {
-        "title": "الطقس غدا.. شبورة مائية كثيفة على بعض المناطق وسقوط أمطار بمطروح",
-        "snippet": "",
-        "url": "https://www.youm7.com/story/2025/1/8/%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%BA%D8%AF%D8%A7-%D8%B4%D8%A8%D9%88%D8%B1%D8%A9-%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%88%D8%B3%D9%82%D9%88%D8%B7-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1/6839523",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU1rrv-6mWrADdtbR6U0mswoXtnCJDudp-w8Hc-uwU3UPdZXHxznKVFUaeTVo",
-        "source": "اليوم السابع"
-      }
-    ]
-  },
-  {
-    "title": "new zealand vs sri lanka",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Tue, 7 Jan 2025 18:10:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 20:10:00 -0800",
     "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxtkbB23GyI2xHkypRI1dvpblQHKEo_8aMIiB6bHzQsoNWq9dAKGSoCsL0sCo",
-    "picture_source": "France 24",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqsCHRR-GEUiwatHMDpuD-tkVyUty8m3knjXR64X-DXYHFArUYMNbBdEheYh0",
+    "picture_source": "المصري اليوم",
     "news_items": [
       {
-        "title": "New Zealand crush Sri Lanka by 113 runs in 2nd ODI to win series",
+        "title": "أمطار لمدة 48 ساعة.. الأرصاد تكشف موعد تقلبات الطقس: «اتخذوا كافة الاستعدادات»",
         "snippet": "",
-        "url": "https://www.france24.com/en/live-news/20250108-new-zealand-crush-sri-lanka-by-113-runs-in-2nd-odi-to-win-series",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxtkbB23GyI2xHkypRI1dvpblQHKEo_8aMIiB6bHzQsoNWq9dAKGSoCsL0sCo",
-        "source": "France 24"
+        "url": "https://www.almasryalyoum.com/news/details/3369142",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqsCHRR-GEUiwatHMDpuD-tkVyUty8m3knjXR64X-DXYHFArUYMNbBdEheYh0",
+        "source": "المصري اليوم"
       },
       {
-        "title": "Cricket Photos - NZ vs SL, 2nd ODI Pictures",
+        "title": "«الأرصاد» تحذر من اضطراب الملاحة بالبحرين الأحمر والمتوسط - شبكة أطلس سبورت",
         "snippet": "",
-        "url": "https://www.espncricinfo.com/series/new-zealand-vs-sri-lanka-2024-25-1443537/new-zealand-vs-sri-lanka-2nd-odi-1443547/match-photo",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq--QYLaT3ZrgI7XfocG7LHiTXYOStoRaZnGvjcfeOWf5hRl9jvpa8Zu-IlD8",
-        "source": "ESPNcricinfo"
+        "url": "https://ar.atlassport.ps/uncategorized/45809/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7---%D8%B4%D8%A8%D9%83%D8%A9-%D8%A3%D8%B7%D9%84%D8%B3-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCBue-irMqRqhKAbYGMty1mifbFT4NAGAcY58U3hdFb8_IgvzRhBm6XvroBf0",
+        "source": "شبكة أطلس سبورت"
       },
       {
-        "title": "New Zealand vs Sri Lanka Highlights: New Zealand beat Sri Lanka by 113 runs | Mint",
+        "title": "أمطار متفاوتة وانخفاض درجات الحرارة، تحذير عاجل من الأرصاد",
         "snippet": "",
-        "url": "https://www.livemint.com/sports/cricket-news/new-zealand-vs-sri-lanka-live-score-2nd-odi-of-sri-lanka-tour-of-new-zealand-2024-25-final-updates-today-08-jan-2025-11736294811090.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnzRt5NQ8yaFixNmtZnDrLLgZen34tBCxox_vdLD7ZudlTEBchFtoeVYdfalQ",
-        "source": "mint"
+        "url": "https://www.algomhor.com/197479",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8Fytprfvv5c7AIaYyogOew9wjgLbFwCKHlyz21r82yGjt8lDbcWzhG6jcru4",
+        "source": "الجمهور الإخباري"
       }
     ]
   },
   {
-    "title": "kuwait weather",
+    "title": "atlético madrid vs getafe",
     "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Tue, 7 Jan 2025 18:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnNcjLra7u-A_klTlY3WnTvkYAMb-_5ffXbITIXqovuBnQ4bHyod6QFBzI0j0",
-    "picture_source": "كونا",
+    "pubdate": "Tue, 4 Feb 2025 12:40:00 -0800",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
+    "picture_source": "El Periódico de España",
     "news_items": [
       {
-        "title": "KUNA : Scattered rain to persist through Wednesday evening - Meteorologist - Environment - 08/01/2025",
+        "title": "Y Giuliano volvió a demostrar, arrollando al Getafe, que es digno heredero del cántico de su padre",
         "snippet": "",
-        "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3213767&language=en",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnNcjLra7u-A_klTlY3WnTvkYAMb-_5ffXbITIXqovuBnQ4bHyod6QFBzI0j0",
-        "source": "كونا"
+        "url": "https://www.epe.es/es/deportes/20250204/atletico-madrid-getafe-copa-rey-resultado-giuliano-simeone-114008399",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
+        "source": "El Periódico de España"
       },
       {
-        "title": "Meteorologist warns of continued rainfall in Kuwait; caution urged",
+        "title": "Antonio Romero: \"El Atlético llega como el equipo en mejor forma de nuestra competición al derbi frente al Real Madrid\"",
         "snippet": "",
-        "url": "https://www.arabtimesonline.com/news/meteorologist-warns-of-continued-rainfall-in-kuwait-caution-urged/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI1drZ7uyH2uOq0GdwNmRD0N6BfHKIwA6Av2sWnrldFYJ5wq3MkPXPqxubcP4",
-        "source": "Arab Times Kuwait"
+        "url": "https://cadenaser.com/nacional/2025/02/04/antonio-romero-el-atletico-de-madrid-llega-como-el-equipo-en-mejor-forma-de-nuestra-competicion-al-derbi-frente-al-real-madrid-cadena-ser/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXYPvZg42nC11OlMOVOnojmVeM8eLRTcTYVCGhr532uaYYQs54a4O6g2YNCV8",
+        "source": "Cadena SER"
       },
       {
-        "title": "Kuwait issues frost warning: Temperature to drop below 3°C",
+        "title": "Atlético De Madrid Se Pasea Ante El Getafe Y Ya Está En Semis De Copa",
         "snippet": "",
-        "url": "https://gulfnews.com/world/gulf/kuwait/kuwait-issues-frost-warning-temperature-to-drop-below-3c-1.500010564",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYgPL9RWUvq0JbAFMrxkE45pYSGd-XIPAukFcZMu3lI11pu27YOZhrqCO5qcY",
-        "source": "Gulf News"
+        "url": "https://www.barrons.com/news/spanish/atletico-de-madrid-se-pasea-ante-el-getafe-y-ya-esta-en-semis-de-copa-219033c9?refsec=topics_afp-news",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9gfeM9nRKaK9_PzewxOrW4yWxixdmjl6s0ga885BZ6-pLXbP7hhJ0kBHKPoo",
+        "source": "Barron's"
       }
     ]
   },
   {
-    "title": "الطقس في الكويت",
+    "title": "الهلال ضد برسبوليس",
     "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Tue, 7 Jan 2025 17:30:00 -0800",
+    "pubdate": "Tue, 4 Feb 2025 10:10:00 -0800",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnNcjLra7u-A_klTlY3WnTvkYAMb-_5ffXbITIXqovuBnQ4bHyod6QFBzI0j0",
-    "picture_source": "كونا",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLcSIKMARxHX60iE8VgTckByShORhpw9U0tW-UkRYm6BGIk8jU8L9EZBVgvQw",
+    "picture_source": "وكالة الأنباء الكويتية",
     "news_items": [
       {
-        "title": "(الأرصاد الجوية): أمطار متفرقة رعدية أحيانا تستمر حتى مساء اليوم الأربعاء - عام - 08/01/2025",
+        "title": "(الهلال) السعودي يفوز على (برسبوليس) الإيراني وينتزع صدارة دوري أبطال آسيا للنخبة - رياضة - 05/02/2025",
         "snippet": "",
-        "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3213754",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnNcjLra7u-A_klTlY3WnTvkYAMb-_5ffXbITIXqovuBnQ4bHyod6QFBzI0j0",
-        "source": "كونا"
+        "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3217684&language=ar",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLcSIKMARxHX60iE8VgTckByShORhpw9U0tW-UkRYm6BGIk8jU8L9EZBVgvQw",
+        "source": "وكالة الأنباء الكويتية"
       },
       {
-        "title": "«الأرصاد»: أمطار متفرقة رعدية أحيانا وفرص لتكون الضباب",
+        "title": "القنوات المفتوحة الناقلة لمباراة الهلال وبرسبوليس في دوري أبطال آسيا 2025",
         "snippet": "",
-        "url": "https://www.alraimedia.com/article/1714038/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9-%D8%B1%D8%B9%D8%AF%D9%8A%D8%A9-%D8%A3%D8%AD%D9%8A%D8%A7%D9%86%D8%A7-%D9%88%D9%81%D8%B1%D8%B5-%D9%84%D8%AA%D9%83%D9%88%D9%86-%D8%A7%D9%84%D8%B6%D8%A8%D8%A7%D8%A8",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR9pVGhqS7Ei1TbtT8FWf3coOj_XkmuUZ_XX3UlMo-ws5FJ0_mhJxCcEcDqf0",
+        "url": "https://mojazanba.com/sports/46941/2025/02/03/%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%87/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-0y8bX0V0Vcqhdn7hVcm-89UPl-nKXUVLwBJakz0Z8UciQmotC3DosBGtUOk",
+        "source": "موجز الأنباء"
+      },
+      {
+        "title": "بعد 140 يوما.. كانسيلو يلمع في نخبة آسيا",
+        "snippet": "",
+        "url": "https://www.kooora.com/?n=1386666",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdftbaXunCCXvA3VhPIe2bjD44YB9C0kjZDP_yXvToAXlrjxUD6w1Ialjlc8I",
+        "source": "كووورة: الموقع العربي الرياضي الأول"
+      }
+    ]
+  },
+  {
+    "title": "تطبيقي",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 4 Feb 2025 01:20:00 -0800",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhj7GteFfSpXGDI2j_8v-Q9waCKvzLU4IPOr2bmiO_f4J8wus35Dw5BT9N0hc",
+    "picture_source": "وكالة الأنباء الكويتية",
+    "news_items": [
+      {
+        "title": "(التطبيقي) الكويتية تطلق فعاليات أسبوع واحة التدريب السابع لتعزيز دور الذكاء الاصطناعي في التعليم",
+        "snippet": "",
+        "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3217491&language=ar",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhj7GteFfSpXGDI2j_8v-Q9waCKvzLU4IPOr2bmiO_f4J8wus35Dw5BT9N0hc",
+        "source": "وكالة الأنباء الكويتية"
+      },
+      {
+        "title": "التطبيقي تحصل على تقييم «Satisfied» من الجهاز الوطني للاعتماد الأكاديمي وجودة التعليم",
+        "snippet": "",
+        "url": "https://www.alraimedia.com/article/1716742/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A-%D8%AA%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%AA%D9%82%D9%8A%D9%8A%D9%85-satisfied-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A-%D9%88%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjo4RkiZYOdAdyIIZXNJ1YoCJ4Q6BhYbGPt7yY2CFGatVN99yrJYtwYHZttBY",
         "source": "الراي"
       },
       {
-        "title": "طقس اليوم.. انخفاض في الرؤية الأفقية بسبب الضباب مع فرصة لأمطار متفرقة تكون رعدية أحياناً.. والعظمى 19",
+        "title": "د. الفجام: نحرص على توفير بيئة تعليمية تواكب أحدث التطورات لدعم التحصيل العلمي والتدريبي في «التطبيقي»",
         "snippet": "",
-        "url": "https://alwatan.kuwait.tt/articledetails.aspx?id=795080",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN15jc2gxs3jNd3PdMad5ylkdaCScHiJHQIUHgfL1ZNGWTopkZL4BOMIS34fw",
+        "url": "https://alwatan.kuwait.tt/articledetails.aspx?id=796573",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGvcVhjuja-eho_oiM8XA0NH3TfswJBmZsxht2x0lbKD2HhePuEWQhapmdFAk",
         "source": "جـريـدة الوطن"
-      }
-    ]
-  },
-  {
-    "title": "मौसम",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Tue, 7 Jan 2025 19:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxj47lvmpcXBSWPlQuKJnV4iVcaNn20dtjt6FdKpNQxpLLliKpgnaA5pscvRk",
-    "picture_source": "Jagran",
-    "news_items": [
-      {
-        "title": "Delhi Weather: दिल्ली में फिर लौटेगी ठिठुरन, घने कोहरे और शीतलहर का सामना करने को रहें तैयार",
-        "snippet": "",
-        "url": "https://www.jagran.com/delhi/new-delhi-city-ncr-strong-sunshine-gave-relief-on-wednesday-yellow-alert-of-cold-and-fog-again-today-23863466.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxj47lvmpcXBSWPlQuKJnV4iVcaNn20dtjt6FdKpNQxpLLliKpgnaA5pscvRk",
-        "source": "Jagran"
-      },
-      {
-        "title": "UP Rains: अगले 48 घंटे में यूपी के इन जिलों में मेघ गर्जन के साथ बारिश ओले गिरने का अलर्ट IMD latest update",
-        "snippet": "",
-        "url": "https://www.patrika.com/gonda-news/up-rains-alert-of-rain-and-hailstorm-along-with-thunder-in-these-districts-of-up-in-the-next-48-hours-imd-latest-update-19299480",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkxTmdN_zYfynQnZEFldYKMH4j1i4Ksp4_s6QCybBA-lbrsqib9pRlAVnSZdM",
-        "source": "Patrika News"
-      },
-      {
-        "title": "कल का मौसम 09 January 2025: शीतलहर कोहरे बर्फबारी का अटैक, बारिश-तेज हवाएं करेंगी घरों में कैद; फ्लाइटें-ट्रेनें रहेंगी लेट",
-        "snippet": "",
-        "url": "https://www.timesnowhindi.com/cities/kal-ka-mausam-09-january-2025-kal-ka-mausam-kaisa-rahega-rajasthan-up-bihar-delhi-ncr-harayan-and-jammu-kashmir-mein-imd-ka-cold-day-rain-alert-jari-article-117052626",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP5ThDwHtnltC2pkGkUZpy6aC3cIZVSiLt87jsXq5-rvLiGG2oBkSy1kaWCnc",
-        "source": "Times Now Navbharat"
-      }
-    ]
-  },
-  {
-    "title": "شاهد",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Wed, 8 Jan 2025 08:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5RBnM0x_2vQtX1TMWQgjayl5oNgCa550MzhOD9esksn1_oEUuRbbV1kjtAAA",
-    "picture_source": "الجزيرة نت",
-    "news_items": [
-      {
-        "title": "شاهد.. أوباميانغ يقود القادسية لنصف نهائي كأس خادم الحرمين الشريفين",
-        "snippet": "",
-        "url": "https://www.aljazeera.net/sport/2025/1/7/%D8%B4%D8%A7%D9%87%D8%AF-%D8%A3%D9%88%D8%A8%D8%A7%D9%85%D9%8A%D8%A7%D9%86%D8%BA-%D9%8A%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D9%84%D9%86%D8%B5%D9%81",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5RBnM0x_2vQtX1TMWQgjayl5oNgCa550MzhOD9esksn1_oEUuRbbV1kjtAAA",
-        "source": "الجزيرة نت"
-      },
-      {
-        "title": "أوباميانج: لا أهتم بمن سنواجه في كأس الملك",
-        "snippet": "",
-        "url": "https://www.kooora.com/?n=1379953",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcltTTOYVzccjqT_JNqBwUlyiuj86z3SIbJFZKbWN9MPOjy29h3WfhrcXYkpw",
-        "source": "كووورة: الموقع العربي الرياضي الأول"
-      },
-      {
-        "title": "القادسية يلتقي التعاون في ربع نهائي كأس خادم الحرمين الشريفين",
-        "snippet": "",
-        "url": "https://www.almasryalyoum.com/news/details/3346750",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgNCESoE9FVm5iLm6NOdYr1LBJF84ZcqB6zxXCfVJHY0wrtole4MSuO5DfaKY",
-        "source": "المصري اليوم"
-      }
-    ]
-  },
-  {
-    "title": "فجر السعيد",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Wed, 8 Jan 2025 02:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnIDcztS6nMRM4ifGFkjqKdE0LpTfIFQV8nB89YxlU8IKy_j1NQv8QRBjWqX4",
-    "picture_source": "aljadeed",
-    "news_items": [
-      {
-        "title": "الامن الكويتي يلقي القبض على فجر السعيد",
-        "snippet": "",
-        "url": "https://www.aljadeed.tv/entertainment/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%81%D9%86%D9%8A%D8%A9/520454/%D8%A7%D9%84%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A-%D9%8A%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D8%B3%D8%B9%D9%8A%D8%AF",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnIDcztS6nMRM4ifGFkjqKdE0LpTfIFQV8nB89YxlU8IKy_j1NQv8QRBjWqX4",
-        "source": "aljadeed"
-      },
-      {
-        "title": "القبض على الكويتية فجر السعيد بتهمة الإساءة لرئيس الوزراء العراقي",
-        "snippet": "",
-        "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=07012025&id=28cb4e49-9bb0-44fd-bf36-c268f2e9e51c",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVPcL1SU7ZGzPSUFb-IO-MilNq6Isa6RstEvaQ-u53oUYUNR-E0rIjtRfDdcY",
-        "source": "بوابة الشروق"
-      },
-      {
-        "title": "الكويت تحتجز فجر السعيد لإساءتها لرئيس الوزراء العراقي",
-        "snippet": "",
-        "url": "https://slaati.com/2025/01/06/p2609087.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKJIu2ZEcjlKhWAQYCsW6QB6BvXCS9G-w6aETmIqDz_S8xqkpk2jV17Fxj5Uw",
-        "source": "صحيفة صدى الالكترونية"
-      }
-    ]
-  },
-  {
-    "title": "weather today",
-    "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Tue, 7 Jan 2025 18:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotohs-PYLZuQ284ofQp-lEu0tqd3-OwVxZySgCFKXMaLKN7G8DHicE1Es0r4",
-    "picture_source": "The Weather Channel",
-    "news_items": [
-      {
-        "title": "Winter Storm Cora Tracker: Satellite, Alerts, Forecasts And More",
-        "snippet": "",
-        "url": "https://weather.com/storms/winter/news/2025-01-07-winter-storm-cora-maps-tracker-radar-forecast",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotohs-PYLZuQ284ofQp-lEu0tqd3-OwVxZySgCFKXMaLKN7G8DHicE1Es0r4",
-        "source": "The Weather Channel"
-      },
-      {
-        "title": "Which states will see snow, ice next? See where winter storm Cora is headed",
-        "snippet": "",
-        "url": "https://www.usatoday.com/story/news/weather/2025/01/08/winter-storm-cora-path-snow-ice-southern-us/77538346007/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBRfXyks2c2TGA7sbPP3iLVcONbWP5-eDfOJN3WRrxQnzdzjNDGJCmtOxjNKQ",
-        "source": "USA Today"
-      },
-      {
-        "title": "Winter Storm Cora will bring a second week of subfreezing temps to Florida",
-        "snippet": "",
-        "url": "https://www.pnj.com/story/weather/2025/01/07/will-winter-storm-cora-impact-florida-yep-heres-how/77520834007/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6GoVeC7oxff8IW-_zCbII0JWtHlywUfSQBysWskTOxShXtRBBL2R_CJUQSKU",
-        "source": "Pensacola News Journal"
       }
     ]
   },
   {
     "title": "يوتيوب",
     "link": "https://trends.google.com/trending/rss?geo=KW",
-    "pubdate": "Tue, 7 Jan 2025 16:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqz7_O2xfnQ9s6BwFXzYrU_0SoQudPjQo-BHmcmUSm9vPGt-BpUxVHgFtD1eQ",
-    "picture_source": "إرم نيوز",
+    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGb1TDVlkqfw0ycceyTt_ZCTcnpiS0YPxH6kSjbgUaQtrSE-8NtxZsHcOrlzo",
+    "picture_source": "اليوم السابع",
     "news_items": [
       {
-        "title": "الرومانسية تتفوق في سباق الأغاني \"الأكثر مشاهدة\" (فيديو)",
+        "title": "مطالب بحظر يوتيوب للقاصرين في أستراليا على غرار منصات التواصل الأخرى",
         "snippet": "",
-        "url": "https://www.eremnews.com/entertainment/8qjlcql",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqz7_O2xfnQ9s6BwFXzYrU_0SoQudPjQo-BHmcmUSm9vPGt-BpUxVHgFtD1eQ",
-        "source": "إرم نيوز"
-      },
-      {
-        "title": "تامر حسني ورامي صبري في «فعلاً مبيتنسيش»",
-        "snippet": "",
-        "url": "https://www.aljarida.com/article/86576",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI2pZu8_np4qlBCo3yjHJf6IfBHlmKdHHOFOqGzIq_I6qBN3CQi9XsLXEuFn0",
-        "source": "جريدة الجريدة الكويتية"
-      },
-      {
-        "title": "نجاح كبير لكليب أغنية تامر حسني ورامي صبري \"ما بيتنسيش\"",
-        "snippet": "",
-        "url": "https://www.youm7.com/story/2025/1/8/%D9%86%D8%AC%D8%A7%D8%AD-%D9%83%D8%A8%D9%8A%D8%B1-%D9%84%D9%83%D9%84%D9%8A%D8%A8-%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D8%AA%D8%A7%D9%85%D8%B1-%D8%AD%D8%B3%D9%86%D9%8A-%D9%88%D8%B1%D8%A7%D9%85%D9%8A-%D8%B5%D8%A8%D8%B1%D9%8A-%D9%85%D8%A7-%D8%A8%D9%8A%D8%AA%D9%86%D8%B3%D9%8A%D8%B4/6838602",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7q1NGGh2BK7z3aXC4av9x0cJoMGMboGvVuHvq8-WGZr8imSDuukqIFQyGDb0",
+        "url": "https://www.youm7.com/story/2025/2/4/%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AD%D8%B8%D8%B1-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%84%D9%84%D9%82%D8%A7%D8%B5%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%B9%D9%84%D9%89-%D8%BA%D8%B1%D8%A7%D8%B1-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84/6870242",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGb1TDVlkqfw0ycceyTt_ZCTcnpiS0YPxH6kSjbgUaQtrSE-8NtxZsHcOrlzo",
         "source": "اليوم السابع"
+      },
+      {
+        "title": "أحمد فريد يطرح أحدث أغنية بعنوان «عابر سبيل» (صور)",
+        "snippet": "",
+        "url": "https://www.almasryalyoum.com/news/details/3368433",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6Yg-ULfHbnQlvmYI3gK67PWBU3OnjemAQGPyzlw3C-2OK9MLr_JESmRS6muE",
+        "source": "المصري اليوم"
+      },
+      {
+        "title": "أحمد فريد يطرح أحد أغانيه «عابر سبيل» على اليوتيوب (فيديو)",
+        "snippet": "",
+        "url": "https://www.algomhor.com/196588",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVJJ7QfdHTtAgIQLjuLeUMUUWuNrVzaPRIK74x9ypkYFagKDo57z8Eh9G7hO8",
+        "source": "الجمهور الإخباري"
+      }
+    ]
+  },
+  {
+    "title": "al-hilal vs persepolis",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 4 Feb 2025 10:10:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq7Qga7bt4ihGLBQfdGqteWaTlT0gy1t96ySznxFzsKG9czttTNIw3vyErXSk",
+    "picture_source": "The National",
+    "news_items": [
+      {
+        "title": "Post-Neymar era starts with a bang as Al Hilal continue AFC Champions League dominance by thrashing Persepolis",
+        "snippet": "",
+        "url": "https://www.thenationalnews.com/sport/football/2025/02/05/post-neymar-era-starts-with-a-bang-as-al-hilal-continue-afc-champions-league-dominance-by-thrashing-persepolis/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq7Qga7bt4ihGLBQfdGqteWaTlT0gy1t96ySznxFzsKG9czttTNIw3vyErXSk",
+        "source": "The National"
+      },
+      {
+        "title": "Caio Cesar joins the Crescent List against Persepolis",
+        "snippet": "",
+        "url": "https://www.ysscores.com/en/news/12099589/Caio-Cesar-joins-the-Crescent-List-against-Persepolis",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4yflvto6G9QpQH--PCKLqMLYPQCNLWZ3iYjI80eXY__5jktLpccdyB6wTPu0",
+        "source": "www.ysscores.com"
+      },
+      {
+        "title": "Al Hilal too strong for Persepolis at ACL Elite MD7",
+        "snippet": "",
+        "url": "https://www.tehrantimes.com/news/509447/Al-Hilal-too-strong-for-Persepolis-at-ACL-Elite-MD7",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMG-VAdME-SU6OZoH1ah9PaFh05gl_hSvPa3D1n0r4fSDX2_tcHcxMuobXuVA",
+        "source": "Tehran Times"
+      }
+    ]
+  },
+  {
+    "title": "فهد اليوسف",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 4 Feb 2025 04:00:00 -0800",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmmcz7RjFuXpYOhfmipqgZU5nQPRICa-HY1Byud9QspFkyIAx8D9Men7BY9II",
+    "picture_source": "الراي",
+    "news_items": [
+      {
+        "title": "عبدالله العلي وزيراً للدفاع",
+        "snippet": "",
+        "url": "https://www.alraimedia.com/article/1716955/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B9%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A7-%D9%84%D9%84%D8%AF%D9%81%D8%A7%D8%B9",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmmcz7RjFuXpYOhfmipqgZU5nQPRICa-HY1Byud9QspFkyIAx8D9Men7BY9II",
+        "source": "الراي"
+      },
+      {
+        "title": "السيرة الذاتية لوزير الدفاع الشيخ عبدالله علي عبدالله السالم الصباح - عام - 04/02/2025",
+        "snippet": "",
+        "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3217573",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7OSoJR3gqLcjRqXEwPWtOlIwl1wmsQfYqJHEGgyjv7H402l_b1K3ZdXy8CV4",
+        "source": "وكالة الأنباء الكويتية"
+      },
+      {
+        "title": "الكويت.. تعيين الشيخ عبد الله السالم الصباح وزيرا للدفاع",
+        "snippet": "",
+        "url": "https://www.skynewsarabia.com/middle-east/1774588-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD-%D9%88%D8%B2%D9%8A%D8%B1%D8%A7-%D9%84%D9%84%D8%AF%D9%81%D8%A7%D8%B9",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5V9SsiE-8hZrbsGVG4jg0i0RsCm_Qv2hOaSVBpXPC5r7FEy6vEvG10Lt-yU",
+        "source": "سكاي نيوز عربية"
+      }
+    ]
+  },
+  {
+    "title": "le mans vs psg",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 4 Feb 2025 17:50:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
+    "picture_source": "L'Équipe",
+    "news_items": [
+      {
+        "title": "Le PSG laissera sa part de recette au Mans... seulement en Coupe de France Féminine",
+        "snippet": "",
+        "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-laissera-sa-part-de-recette-au-mans-seulement-en-coupe-de-france-feminine/1537691",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
+        "source": "L'Équipe"
+      },
+      {
+        "title": "Multiplex Coupe de France : sur quelle chaîne et à quelle heure voir les matchs de ce mercredi ?",
+        "snippet": "",
+        "url": "https://www.ouest-france.fr/sport/football/coupe-de-france/multiplex-coupe-de-france-sur-quelle-chaine-et-a-quelle-heure-voir-les-matchs-de-ce-mercredi-b52d3ce0-e303-11ef-95b5-abc03fff97b2",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJrjo9T6D-M1cSx-z9SsEwMj7GqiwDke1yxFN-lDLUGwv7kV0jxIdK7zJV8OY",
+        "source": "Ouest-France"
+      },
+      {
+        "title": "Le Mans : Rabillard tout de même fier",
+        "snippet": "",
+        "url": "https://www.maxifoot.fr/le-mans/rabillard-tout-de-meme-fier-foot-427870.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILgbqON4SGZGl6fKGj3H3_W8CyCUgbezNwWsMTXpUtmYL-r-2Qic7P0J4hKg",
+        "source": "Maxifoot"
+      }
+    ]
+  },
+  {
+    "title": "copa del rey",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 4 Feb 2025 13:20:00 -0800",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGd6ZUlG9BToC1pqxadnEfGxAxP3HJugWyz5SOLfmH61yhZJfXjJSRjMzOPDs",
+    "picture_source": "Marca.com",
+    "news_items": [
+      {
+        "title": "El ingenioso guiño del Leganés a la polémica arbitral: 'Partido várbaro'",
+        "snippet": "",
+        "url": "https://www.marca.com/futbol/real-madrid/2025/02/04/ingenioso-guino-leganes-polemica-arbitral-partido-varbaro.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGd6ZUlG9BToC1pqxadnEfGxAxP3HJugWyz5SOLfmH61yhZJfXjJSRjMzOPDs",
+        "source": "Marca.com"
+      },
+      {
+        "title": "Alineación posible del Real Madrid contra el Leganés en Copa",
+        "snippet": "",
+        "url": "https://as.com/futbol/alineacion-posible-del-real-madrid-contra-el-leganes-en-copa-n/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0Z0wV_XVnJTva4xw7sHhkSU18O8fE1MjEi_nbFfBurLQqGw1fh4OZVBeu48Q",
+        "source": "Diario AS"
+      },
+      {
+        "title": "El Leganés la lía en redes sociales con un cartel de lo más polémico para anunciar el partido de Copa del Rey",
+        "snippet": "",
+        "url": "https://www.realmadridexclusivo.com/redes/leganes-lia-en-redes-sociales-con-cartel-mas-polemico-anunciar-partido-copa-rey_217714_102.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4W06MpLeHvZvoNoVBoXGZi9G5HfgZTyR0JNi5CHeZG2NnG65MQT-_vCJTZPU",
+        "source": "Real Madrid Exclusivo"
+      }
+    ]
+  },
+  {
+    "title": "kanye west and bianca",
+    "link": "https://trends.google.com/trending/rss?geo=KW",
+    "pubdate": "Tue, 4 Feb 2025 04:00:00 -0800",
+    "approx_traffic": 100,
+    "picture": "",
+    "picture_source": "Variety",
+    "news_items": [
+      {
+        "title": "Jimmy Kimmel Slams Kanye West, Bianca Censori for Naked Red Carpet",
+        "snippet": "",
+        "url": "https://variety.com/2025/tv/news/jimmy-kimmel-slams-kanye-west-bianca-censori-naked-grammys-red-carpet-1236297069/",
+        "picture": "",
+        "source": "Variety"
+      },
+      {
+        "title": "Grammys Producer Speaks Out About Bianca Censori's Near-Nude Look at 2025 Grammys (Exclusive)",
+        "snippet": "",
+        "url": "https://people.com/grammys-2025-producer-addresses-bianca-censori-nearly-nude-incident-and-dress-code-exclusive-8785619",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpRJMMeAHS9t8UeyP2fK9MRXoAJdXDlnMFWADLqYEuAKXC9JPV1UdGjk7PZVw",
+        "source": "People.com"
+      },
+      {
+        "title": "Exclusive | Kanye West, Bianca Censori attempted to recreate 'Vultures' album cover at Grammys 2025",
+        "snippet": "",
+        "url": "https://pagesix.com/2025/02/02/entertainment/kanye-west-bianca-censori-attempted-to-recreate-vultures-album-cover-at-grammys-2025/",
+        "picture": "",
+        "source": "Page Six"
       }
     ]
   }
