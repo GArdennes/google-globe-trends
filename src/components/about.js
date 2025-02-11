@@ -10,11 +10,11 @@ export default function About({ onHide, show }) {
       <div className="about-content">
         <h2>About</h2>
         <p>
-          <Link link="GITHUB_REPO">Globe Trends</Link> is a{" "}
+          <Link link="GITHUB_REPO">SDG Stats Link</Link> is a{" "}
           <Link link="JAMSTACK">JAMstack</Link> application built without any
-          server components. Data is fetched during build time using the{" "}
-          <Link link="GOOGLE_TRENDS_API">google-trends-api</Link> library. Globe
-          visualizations are rendered using the{" "}
+          server components. Data is fetched from the{" "}
+          <Link link="SDG_SITE">Sustainable Development Goals 2024</Link>{" "}
+          report. Globe visualizations are rendered using the{" "}
           <Link link="REACT_GLOBE_GITHUB">react-globe</Link> component.
         </p>
         <p>

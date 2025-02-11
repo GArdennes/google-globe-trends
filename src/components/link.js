@@ -3,8 +3,9 @@ import React from "react";
 const links = {
   CONFIG:
     "https://github.com/GArdennes/google-globe-trends/blob/main/src/config.js",
-  GITHUB_REPO: "https://github.com/GArdennes/google-globe-trends",
-  GOOGLE_TRENDS_API: "https://www.npmjs.com/package/google-trends-api",
+  GITHUB_REPO:
+    "https://github.com/GArdennes/google-globe-trends/tree/extension",
+  SDG_SITE: "https://dashboards.sdgindex.org/",
   JAMSTACK: "https://jamstack.org/",
   METOO: "https://metoorising.withgoogle.com/",
   REACT_GLOBE_GITHUB: "https://github.com/vasturiano/react-globe.gl",
