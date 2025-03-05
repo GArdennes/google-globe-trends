@@ -16,7 +16,10 @@ SDG Stats Link is a tool that allows you to visualize the Sustainable Developmen
 
 ### Uncompleted Tasks
 
-- **Update the content**: Update the readme content.
+- **Update the content**: Update the about section with information about myself.
+- **View should be bigger**: Update the size of the treemap chart.
+- **Chart text visibility**: Update the text color on the chart for contrast and easier reading.
+- **Additional tabs**: Include separate tab for categorised views i.e. Global level, Continent level, SDG category, etc.
 
 ### Completed Tasks
 
@@ -29,6 +32,7 @@ SDG Stats Link is a tool that allows you to visualize the Sustainable Developmen
 - **Amend data query**: Fetch data on country statistics and SDG performance.
 - **Learning to use the tree map visual**: Complete the tutorials on implementing the chartjs package for tree map charts.
 - **Visualise for each country the tree map**: The profile of each country should be illustrated with SDG chart.
+- **Countries with no data indicator**: The marker color for a country with no data should be different.
 -**Responsive display**: Ensuring the chart supports both desktop and mobile views.
 - **Update the content**: Update the page text content.
 
