@@ -1,16 +1,22 @@
-import fetch from 'node-fetch';
-import fs from 'fs';
-import debug from 'debug';
+import fetch from "node-fetch";
+import fs from "fs";
+import debug from "debug";
 
-const log = debug('crawl');
+const log = debug("crawl");
 const sdg_data = JSON.parse(fs.readFileSync("./src/data/SDG.json", "utf8"));
 
 async function fetchWithRetry(url, options = {}, retries = 3, backoff = 3000) {
   for (let i = 0; i < retries; i++) {
     try {
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), options.timeout || 10000);
-      const response = await fetch(url, { ...options, signal: controller.signal });
+      const timeoutId = setTimeout(
+        () => controller.abort(),
+        options.timeout || 10000,
+      );
+      const response = await fetch(url, {
+        ...options,
+        signal: controller.signal,
+      });
       clearTimeout(timeoutId);
 
       if (!response.ok) {
@@ -20,7 +26,7 @@ async function fetchWithRetry(url, options = {}, retries = 3, backoff = 3000) {
     } catch (error) {
       if (i < retries - 1) {
         log(`Retrying fetch for ${url} (${i + 1}/${retries})...`);
-        await new Promise(resolve => setTimeout(resolve, backoff * (i + 1)));
+        await new Promise((resolve) => setTimeout(resolve, backoff * (i + 1)));
       } else {
         throw error;
       }
@@ -86,7 +92,7 @@ export default async function crawl(data) {
 
         const fetchPromise = fetchWithRetry(
           "https://restcountries.com/v3.1/alpha/" + geoCode,
-          { timeout: 10000 }
+          { timeout: 10000 },
         )
           .then((point) => {
             const x = {

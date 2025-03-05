@@ -39,7 +39,9 @@ export default function World() {
           labelSize={() => 0.5}
           labelDotRadius={() => 0.5}
           labelColor={(d) =>
-            markers.find((m) => m.ISO === d.properties.adm0_a3)
+            markers.find(
+              (m) => m.ISO === d.properties.adm0_a3 && m.rank !== "No data",
+            )
               ? "rgba(255, 165, 0, 0.75)"
               : "rgba(255, 0, 0, 0.75)"
           }
