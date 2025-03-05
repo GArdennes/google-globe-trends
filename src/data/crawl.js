@@ -1,5 +1,32 @@
-import fs from "fs";
+import fetch from 'node-fetch';
+import fs from 'fs';
+import debug from 'debug';
+
+const log = debug('crawl');
 const sdg_data = JSON.parse(fs.readFileSync("./src/data/SDG.json", "utf8"));
+
+async function fetchWithRetry(url, options = {}, retries = 3, backoff = 3000) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), options.timeout || 10000);
+      const response = await fetch(url, { ...options, signal: controller.signal });
+      clearTimeout(timeoutId);
+
+      if (!response.ok) {
+        throw new Error(`Network response was not ok: ${response.statusText}`);
+      }
+      return response.json();
+    } catch (error) {
+      if (i < retries - 1) {
+        log(`Retrying fetch for ${url} (${i + 1}/${retries})...`);
+        await new Promise(resolve => setTimeout(resolve, backoff * (i + 1)));
+      } else {
+        throw error;
+      }
+    }
+  }
+}
 
 export default async function crawl(data) {
   let tableData = [];
@@ -7,7 +34,7 @@ export default async function crawl(data) {
 
   for (const country of data) {
     try {
-      console.log(`Crawling ${country.name} with ${country["alpha-3"]}...`);
+      log(`Crawling ${country.name} with ${country["alpha-3"]}...`);
       let countryName = country.name;
       let geoCode = country["alpha-3"];
       const feed = sdg_data.features;
@@ -57,15 +84,10 @@ export default async function crawl(data) {
             ? "No data"
             : `${attributes["Overall_Rank"]}/167`;
 
-        const fetchPromise = fetch(
+        const fetchPromise = fetchWithRetry(
           "https://restcountries.com/v3.1/alpha/" + geoCode,
+          { timeout: 10000 }
         )
-          .then((response) => {
-            if (!response.ok) {
-              throw new Error("Network response was not ok");
-            }
-            return response.json();
-          })
           .then((point) => {
             const x = {
               country: countryName,
@@ -93,7 +115,7 @@ export default async function crawl(data) {
 
         fetchPromises.push(fetchPromise);
       } else {
-        console.log(`No item found for ${countryName} with code ${geoCode}`);
+        log(`No item found for ${countryName} with code ${geoCode}`);
       }
     } catch (error) {
       console.error(`Error crawling ${country.name}:`, error.message);
@@ -105,7 +127,7 @@ export default async function crawl(data) {
   await Promise.all(fetchPromises);
 
   // Log tableData to ensure it is populated
-  // console.log("Final tableData:", JSON.stringify(tableData, null, 2));
+  // log("Final tableData:", JSON.stringify(tableData, null, 2));
 
   // Write tableData to data.json
   fs.writeFileSync(`./src/data/data.json`, JSON.stringify(tableData, null, 2));
