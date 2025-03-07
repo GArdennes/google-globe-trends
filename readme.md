@@ -17,8 +17,8 @@ SDG Stats Link is a tool that allows you to visualize the Sustainable Developmen
 ### Uncompleted Tasks
 
 - **Update the content**: Update the about section with information about myself.
-- **View should be bigger**: Update the size of the treemap chart.
-- **Chart text visibility**: Update the text color on the chart for contrast and easier reading.
+- **View should be bigger**: Update the size of the treemap chart.(07/03/2025)
+- **Chart text visibility**: Update the text color on the chart for contrast and easier reading. (07/03/2025)
 - **Additional tabs**: Include separate tab for categorised views i.e. Global level, Continent level, SDG category, etc.
 
 ### Completed Tasks
