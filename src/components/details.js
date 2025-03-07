@@ -63,22 +63,24 @@ const getChart = (performance) => {
           display: true,
           overflow: "fit",
           formatter: (ctx) => {
-            if (data[ctx.dataIndex] === "null") {
+            if (data[ctx.dataIndex] === "gray") {
               return `${title[ctx.dataIndex]} - No data`;
             } else if (data[ctx.dataIndex] === "green") {
               return `${title[ctx.dataIndex]} - SDG achieved`;
             } else if (data[ctx.dataIndex] === "yellow") {
               return `${title[ctx.dataIndex]} - Challenges remain`;
             } else if (data[ctx.dataIndex] === "orange") {
-              return `${title[ctx.dataIndex]} - Significant challenges remain`;
+              return `${title[ctx.dataIndex]} - Significant challenges`;
             } else if (data[ctx.dataIndex] === "red") {
-              return `${title[ctx.dataIndex]} - Major challenges remain`;
+              return `${title[ctx.dataIndex]} - Major challenges`;
             }
           },
           font: {
             size: 13,
           },
-          color: "black",
+          color: (ctx) => {
+            return data[ctx.dataIndex] !== "red" ? "black" : "white";
+          },
         },
         captions: {
           display: false,
