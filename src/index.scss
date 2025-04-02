@@ -38,6 +38,13 @@ $media-phone-max-width: 320px;
 
 // dom styles
 body {
+  background: $background-color;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  width: 100vw;
+
   * {
     color: $body-font-color;
     font-family: $body-font-family;
@@ -48,13 +55,6 @@ body {
       font-size: $body-font-size * 0.75;
     }
   }
-
-  background: $background-color;
-  height: 100vh;
-  margin: 0;
-  overflow: hidden;
-  padding: 0;
-  width: 100vw;
 
   a {
     cursor: pointer;
