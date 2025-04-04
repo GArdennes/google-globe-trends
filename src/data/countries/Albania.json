@@ -1,32 +1,94 @@
 [
   {
-    "title": "atalanta vs bologna",
+    "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=AL",
-    "pubdate": "Tue, 4 Feb 2025 12:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIqOEgv_EVYeJAOwXRNskhk4ewbDjO5bugZY5zAk0FiUTS5Un7rPn05p83hqI",
-    "picture_source": "Football Italia",
+    "pubdate": "Thu, 3 Apr 2025 11:40:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIXH8wfewLARn0IO7mB8svFHruCS7Mc3nVzD499dhQO99GrEkzlJdz7-j77Ck",
+    "picture_source": "CNN",
     "news_items": [
       {
-        "title": "Coppa Italia: Atalanta 0-1 Bologna – Rossoblu make 21st century history",
+        "title": "Extreme rainfall brings potentially deadly flooding to parts of central US already slammed by storms",
         "snippet": "",
-        "url": "https://football-italia.net/coppa-italia-qf-atalanta-0-1-bologna/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIqOEgv_EVYeJAOwXRNskhk4ewbDjO5bugZY5zAk0FiUTS5Un7rPn05p83hqI",
-        "source": "Football Italia"
+        "url": "https://www.cnn.com/2025/04/04/weather/extreme-rainfall-deadly-flooding-central-us-hnk/index.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIXH8wfewLARn0IO7mB8svFHruCS7Mc3nVzD499dhQO99GrEkzlJdz7-j77Ck",
+        "source": "CNN"
       },
       {
-        "title": "Super sub Castro sends Bologna into Coppa Italia final four at expense of Atalanta",
+        "title": "More storms threaten central US with 'catastrophic' flooding: Live updates",
         "snippet": "",
-        "url": "https://www.flashscore.com/news/atalanta-bologna-report-2025-02-04/Sb2PtIn2/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxVATFCL0kfot2o4kuw4seUfFTvzjbTcu9OFbtr3knSYeHdeFCZ9s5dqFiFY",
-        "source": "Flashscore.com"
+        "url": "https://www.usatoday.com/story/news/nation/2025/04/04/storm-forecast-tornadoes-flooding-thunderstorm/82838697007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaBgFJbLlK3OC2Vq_knn_U_iBlERWxK8Pwf0y_FH50bxweRUa2luOa1AxE6J8",
+        "source": "USA Today"
       },
       {
-        "title": "Soccer-Italiano cherishes historic moment as Bologna reach Coppa Italia semis after 26 years",
+        "title": "Tornadoes Sweep Across the South and Midwest, Killing at Least 7",
         "snippet": "",
-        "url": "https://www.msn.com/en-ae/sports/football/soccer-italiano-cherishes-historic-moment-as-bologna-reach-coppa-italia-semis-after-26-years/ar-AA1yq9V6",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO5oDt9nz5hZJoSnhLT7N79evfWFH4ZxILEABZlAemZhIkoaEnmKPuU7pbYEY",
-        "source": "MSN"
+        "url": "https://www.nytimes.com/2025/04/03/us/tornadoes-south-midwest.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6Qpa8V-n3HEYHawufZanLWxU8GGZcqrztBuq3MZMqJ6KfM--v0VJU8ImjP1o",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "title": "weather",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Thu, 3 Apr 2025 21:50:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgU4heoLmFt3a6Xns5h_yn-ccbpL4eyo0n8oODukaSSF5NOZfP-LvdPSJMDDQ",
+    "picture_source": "WDSU",
+    "news_items": [
+      {
+        "title": "New Orleans will see temperature drop nearly 20 degrees next week",
+        "snippet": "",
+        "url": "https://www.wdsu.com/article/turning-colder/64367085",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgU4heoLmFt3a6Xns5h_yn-ccbpL4eyo0n8oODukaSSF5NOZfP-LvdPSJMDDQ",
+        "source": "WDSU"
+      },
+      {
+        "title": "Staying hot through the weekend, but another cold front is coming",
+        "snippet": "",
+        "url": "https://www.gulfcoastnewsnow.com/article/staying-hot-through-the-weekend-but-another-cold-front-is-coming/64384804",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa3sNqyxM69yRflDeafjx_GJKRqqKSI-uHJp4hmWwyZvC3F89alcENSr9CMQg",
+        "source": "WBBH"
+      },
+      {
+        "title": "Wake-Up Weather: round 3 for strong/severe storms overnight",
+        "snippet": "",
+        "url": "https://www.bigcountryhomepage.com/weather/ktab-weather/wake-up-weather-round-3-for-strong-severe-storms-overnight/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoBYRWGsvDysL6JTjA77z1ZcHCRMJEOT6RVxwU0uwpOreW2_e8hv423YHuBFg",
+        "source": "BigCountryHomepage.com"
+      }
+    ]
+  },
+  {
+    "title": "chelsea vs tottenham",
+    "link": "https://trends.google.com/trending/rss?geo=AL",
+    "pubdate": "Thu, 3 Apr 2025 12:50:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Chelsea 1-0 Tottenham LIVE: Blues boost top-four hopes to pile pressure on Postecoglou",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/ce3q1n1l023t",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+        "source": "BBC"
+      },
+      {
+        "title": "(Video): Cole Palmer’s perfect assist for Enzo Fernandez who adds to impressive season",
+        "snippet": "",
+        "url": "https://onefootball.com/fr/news/video-cole-palmers-perfect-assist-for-enzo-fernandez-who-adds-to-impressive-season-40923609",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeXWRZ424W3IUGAB6xCeDzDfFgcW6uz-e9j9OeIHUR1epv8YskgBdT1E2fW1k",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Maresca 'happy' with Chelsea's 'dirty' win over Spurs",
+        "snippet": "",
+        "url": "https://sporty.com/news/video/1q92hkl3327yf191zd9vher3c9",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPSZJ0zDA4TsIWrb0jFF6MKwSYiEPL3JD55Ip6zvTBL8uCa3JxyawSKlnNErg",
+        "source": "Sporty.com"
       }
     ]
   }

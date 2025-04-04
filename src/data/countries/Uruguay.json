@@ -1,311 +1,289 @@
 [
   {
-    "title": "monagas - defensor sporting",
+    "title": "cerro largo - defensa y justicia",
     "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 15:30:00 -0800",
-    "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rR2h5E4CaCCfXaFSNPdkuFYDwxepwSt4SV1X2itv3Nra_uG1IAJQZgBm2VQ",
+    "pubdate": "Thu, 3 Apr 2025 16:40:00 -0700",
+    "approx_traffic": 10000,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "newell's - kimberley mar del plata",
+    "link": "https://trends.google.com/trending/rss?geo=UY",
+    "pubdate": "Thu, 3 Apr 2025 16:50:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-ne_juND_UzQwb_hAh2ij7ETohuDxZ24tPmKNwefdfg_pWzx4U7R5Tys4MA8",
+    "picture_source": "ESPN Deportes",
+    "news_items": [
+      {
+        "title": "Newell's sufrió: le ganó por penales a Kimberley de Mar del Plata en su debut en la Copa Argentina",
+        "snippet": "",
+        "url": "https://espndeportes.espn.com/futbol/argentina/nota/_/id/15000423/newells-sufrio-le-gano-por-penales-a-kimberley-de-mar-del-plata-en-debut-en-copa-argentina",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-ne_juND_UzQwb_hAh2ij7ETohuDxZ24tPmKNwefdfg_pWzx4U7R5Tys4MA8",
+        "source": "ESPN Deportes"
+      },
+      {
+        "title": "Las claves de Newell's: un 9 que falló todo, un 9 que se reivindicó y un arquero que no la tocó",
+        "snippet": "",
+        "url": "https://www.lacapital.com.ar/ovacion/las-claves-newells-un-9-que-fallo-todo-un-9-que-se-reivindico-y-un-arquero-que-no-la-toco-n10188239.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbOOYvDX-NknOTE4o-SNEtRpXm0MJNpW13ny64OhCA6ivZ1cZDXwMADs5LR3Q",
+        "source": "La Capital"
+      },
+      {
+        "title": "Mignini luego de la eliminación en Copa Argentina: \"los jugadores estuvieron a la altura y lo disfrutamos\"",
+        "snippet": "",
+        "url": "https://www.elmarplatense.com/mignini-luego-de-la-eliminacion-en-copa-argentina-los-jugadores-estuvieron-a-la-altura-y-lo-disfrutamos",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_rP9ZjQuG5x05eSw9XR5wgMBa-YNqvKsQjPg1pPcNWl0KMVe1-MuJSv9mB0M",
+        "source": "El Marplatense"
+      }
+    ]
+  },
+  {
+    "title": "deportivo táchira - flamengo",
+    "link": "https://trends.google.com/trending/rss?geo=UY",
+    "pubdate": "Thu, 3 Apr 2025 16:50:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUBQ9rCphVFvtNeOMGnY5zjvDZBEvWpPGn7YRHX64lfG6o3fKhAjNc2MNX-QA",
+    "picture_source": "TyC Sports",
+    "news_items": [
+      {
+        "title": "Táchira vs. Flamengo en vivo: seguí el partido minuto a minuto",
+        "snippet": "",
+        "url": "https://www.tycsports.com/copa-libertadores/tachira-vs-flamengo-en-vivo-hora-donde-ver-y-formaciones-id646054.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUBQ9rCphVFvtNeOMGnY5zjvDZBEvWpPGn7YRHX64lfG6o3fKhAjNc2MNX-QA",
+        "source": "TyC Sports"
+      },
+      {
+        "title": "¿Por qué no juega Gonzalo Plata en Flamengo por la Copa Libertadores?",
+        "snippet": "",
+        "url": "https://record.com.do/futbol/por-que-no-juega-gonzalo-plata-en-flamengo-por-la-copa-libertadores-215186.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqndM4J_taMZkOB2PO7GkXdBsSWuzWiozmFir4YAIs4VJGd4UiGvF-y3wmzrk",
+        "source": "RÉCORD"
+      },
+      {
+        "title": "Táchira y Flamengo empatan 0-0 y se van al entretiempo",
+        "snippet": "",
+        "url": "https://www.directvsports.com/futbol/Tachira-y-Flamengo--empatan-0-0-y-se-van-al-entretiempo-20250331-0007.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-q7dRcEszIf6lCavB4-TlLlOmBDKGpvydDbfnjvemCyMbbqa7tfUGAYbg64",
+        "source": "DSports"
+      }
+    ]
+  },
+  {
+    "title": "lakers - warriors",
+    "link": "https://trends.google.com/trending/rss?geo=UY",
+    "pubdate": "Thu, 3 Apr 2025 20:30:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9J2K5_nhT9kOEki-VL65suV-nfuW3n8MBihZZ9-6M1NUbghhr4R6nFGDXjX0",
+    "picture_source": "Sporty.com",
+    "news_items": [
+      {
+        "title": "Curry brings the circus to LA",
+        "snippet": "",
+        "url": "https://sporty.com/news/video/1usy33liyppoo1kho2llry7cg6",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9J2K5_nhT9kOEki-VL65suV-nfuW3n8MBihZZ9-6M1NUbghhr4R6nFGDXjX0",
+        "source": "Sporty.com"
+      },
+      {
+        "title": "Warriors at Lakers: How to watch, stream, lineups, injury report for Thursday",
+        "snippet": "",
+        "url": "https://sports.yahoo.com/article/warriors-lakers-watch-stream-lineups-013230899.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPe-MxhWoZC-WR0fXcZCV6VHtQzsCy1HQCoES3iV8HN--5vfRrB_jznj336tM",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "NBA highlights: Warriors beat Lakers, Giannis posts historic triple-double",
+        "snippet": "",
+        "url": "https://sportstar.thehindu.com/basketball/nba-results-warriors-lakers-giannis-record-morant-buzzer/article69411674.ece",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6FHDVZU7JotuGQEgQd8A6FCbR4Uee4sSycCpnUWjeZCjXxixBSB_OIgsa7N0",
+        "source": "Sportstar"
+      }
+    ]
+  },
+  {
+    "title": "cacique medina",
+    "link": "https://trends.google.com/trending/rss?geo=UY",
+    "pubdate": "Thu, 3 Apr 2025 18:00:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8_7heGNQ-HobDL5f43ajlCK-71MxVT2jikd3eF5WKW5HMlnAYsYwhy-m1uTE",
     "picture_source": "Montevideo Portal",
     "news_items": [
       {
-        "title": "Libertadores: Defensor Sporting y Monagas están empatando 0-0 en Maturín",
+        "title": "Alexander Medina fue cesado de Talleres y Nacional abre los ojos ante un posible candidato",
         "snippet": "",
-        "url": "https://www.montevideo.com.uy/Deportes/Libertadores-Defensor-Sporting-y-Monagas-estan-empatando-0-0-en-Maturin-uc914064",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rR2h5E4CaCCfXaFSNPdkuFYDwxepwSt4SV1X2itv3Nra_uG1IAJQZgBm2VQ",
+        "url": "https://www.montevideo.com.uy/Deportes/Alexander-Medina-fue-cesado-de-Talleres-y-Nacional-abre-los-ojos-ante-un-posible-candidato-uc919717",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8_7heGNQ-HobDL5f43ajlCK-71MxVT2jikd3eF5WKW5HMlnAYsYwhy-m1uTE",
         "source": "Montevideo Portal"
       },
       {
-        "title": "¿A qué hora juega Monagas vs Defensor Sporting hoy por la Copa Libertadores y dónde verlo?",
+        "title": "Talleres anunció la salida de Alexander Medina como DT: quién asumirá en su lugar y los 10 técnicos cesanteados del torneo",
         "snippet": "",
-        "url": "https://www.elobservador.com.uy/copa-libertadores/a-que-hora-juega-monagas-vs-defensor-sporting-hoy-la-copa-libertadores-y-donde-verlo-n5983127",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTKg5CW8HsNMZTOchhnroa69xYI_tqrM4iZh-04tREWnFDuR0hGMQQJS4LOM",
-        "source": "El Observador"
+        "url": "https://www.infobae.com/deportes/2025/04/04/talleres-anuncio-la-salida-de-alexander-medina-como-dt-quien-asumira-en-su-lugar-y-los-10-tecnicos-cesanteados-del-torneo/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0sYpFH2WEkkoLAlpA3cbDY4iEBJdAOsylL3Hbygv8KgU5h3LF8JIoQ4n1og",
+        "source": "Infobae"
       },
       {
-        "title": "Monagas 2-0 Defensor Sporting por Libertadores: el Tuerto perdió la mitad de cancha y complicó sus chances",
+        "title": "Cacique Medina dejó Talleres tras el debut con derrota por Copa Libertadores",
         "snippet": "",
-        "url": "https://www.elpais.com.uy/ovacion/futbol/monagas-vs-defensor-sporting-en-vivo-por-copa-libertadores-el-tuerto-busca-encaminar-la-serie-en-venezuela",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWGLA7LDgrhoTSFhkxTOZ7iAXQV_dcBD-B8lkPsZgnl5t_iPZyKPewAJ-DTKk",
-        "source": "EL PAÍS Uruguay"
+        "url": "https://www.tycsports.com/liga-profesional-de-futbol/alexander-cacique-medina-dejo-talleres-tras-el-debut-con-derrota-por-copa-libertadores-id646530.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJqzf9ka2GgrmjfSX2g-XHJ4DsqnZPmYIyvNQnL3M_Xe6vPL1mbiK-OPC9_U",
+        "source": "TyC Sports"
       }
     ]
   },
   {
-    "title": "libertadores",
+    "title": "flamengo",
     "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 16:00:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 16:50:00 -0700",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDHny0EozeUeb_CPRUuMroYQCKELqDomueWuV3-_fhTI81AEAS3qR3d5xkxh8",
-    "picture_source": "ESPN Brasil",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtoDoXETENxYFbLrN-w7_rpG3RMr-1ZSxN8xYI0KL1pEPqSfrDR64j6g6Fyks",
+    "picture_source": "GE",
     "news_items": [
       {
-        "title": "Como jogo que abre a Libertadores 2025 une nomes importantes de Flamengo e Palmeiras",
+        "title": "Deportivo Táchira x Flamengo: onde assistir ao vivo, horário e escalações",
         "snippet": "",
-        "url": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/14753539/como-jogo-abre-libertadores-2025-une-nomes-importantes-flamengo-palmeiras",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDHny0EozeUeb_CPRUuMroYQCKELqDomueWuV3-_fhTI81AEAS3qR3d5xkxh8",
-        "source": "ESPN Brasil"
+        "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2025/04/03/deportivo-tachira-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtoDoXETENxYFbLrN-w7_rpG3RMr-1ZSxN8xYI0KL1pEPqSfrDR64j6g6Fyks",
+        "source": "GE"
       },
       {
-        "title": "Monagas x Defensor Sporting: onde assistir ao vivo e horário do jogo pela Pré-Libertadores",
+        "title": "JUNINHO marca o PRIMEIRO gol do FLAMENGO na LIBERTADORES 2025 #futebol #colunadofla #flamengo",
         "snippet": "",
-        "url": "https://exame.com/esporte/monagas-x-defensor-sporting-onde-assistir-ao-vivo-e-horario-do-jogo-pela-pre-libertadores/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48fhmfqYpxK9wVRnPPmPgmGEcDJsZ9G6Tj7q-bm4KTwFUyij2mbzecHBt3vM",
-        "source": "Exame"
+        "url": "https://colunadofla.com/2025/04/juninho-marca-o-primeiro-gol-do-flamengo-na-libertadores-2025-futebol-colunadofla-flamengo/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEw_Uw6HyitMTRczhJ2glB_05pQ4qt_e2PsRmLdSHnnlrkfHswFXCEP4Qo6rI",
+        "source": "Coluna do Fla"
       },
       {
-        "title": "Relembre os times brasileiros que foram eliminados na Pré-Libertadores",
+        "title": "Libertadores: Ex-Chaves dá vitória ao Flamengo na estreia contra o Tachira (0-1)",
         "snippet": "",
-        "url": "https://www.96fm.com.br/post/relembre-os-times-brasileiros-que-foram-eliminados-na-pre-libertadores",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFppoWqsSAcKG2CU_MNe0GQufmwYIvRY4x3pYa-UDZUb9piQvBI0At_fI6xMc",
-        "source": "Portal 96FM - Natal"
+        "url": "https://www.flashscore.pt/noticias/futebol-taca-dos-libertadores-libertadores-ex-chaves-da-vitoria-ao-flamengo-na-estreia-contra-o-tachira-0-1/pOt1FZNc/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0fwsAXhelLJY80jfC1oWBIqVh76BMVT8lDjfoaxkrFrIVWulDsh84l8Am16M",
+        "source": "Flashscore.pt"
       }
     ]
   },
   {
-    "title": "cristiano ronaldo",
+    "title": "alerta meteorológica",
     "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 15:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
-    "picture_source": "SportsMint Media",
+    "pubdate": "Fri, 4 Apr 2025 02:20:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf-OYID7-4-zxAyfgId0uTdMv9NWN9Cka0Z8XhmJSANLAa9d0NByrTBcLYqpM",
+    "picture_source": "La Nación",
     "news_items": [
       {
-        "title": "Cristiano Ronaldo: a global brand colossus at 40",
+        "title": "Clima en Necochea hoy: cuál es el pronóstico del tiempo para el 4 de abril de 2025",
         "snippet": "",
-        "url": "https://sportsmintmedia.com/cristiano-ronaldo-a-global-brand-colossus-at-40/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
-        "source": "SportsMint Media"
+        "url": "https://www.lanacion.com.ar/clima/buenos-aires/necochea/clima-en-necochea-hoy-cual-es-el-pronostico-del-tiempo-para-el-4-de-abril-de-2025-nid03042025/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf-OYID7-4-zxAyfgId0uTdMv9NWN9Cka0Z8XhmJSANLAa9d0NByrTBcLYqpM",
+        "source": "La Nación"
       },
       {
-        "title": "Press Review: \"The Day the King Turns 40\" and What's Left in the Transfer Market",
+        "title": "Alerta meteorológica por fuertes vientos en Necochea y la región",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2354344-press-review-the-day-the-king-turns-40-and-what-s-left-in-the-transfer-market",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtVAqOr3ZQXqMZSmJdriAQtj_pasL8sF-HN84RHJRjoCSR45gdsCIeGk7uDec",
-        "source": "FootBoom"
+        "url": "https://necocheadigital.com/nota/114932/alerta-meteorologica-por-fuertes-vientos-en-necochea-y-la-region/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvKvSawQdqRo5SyuY9MXRiOfXjMOSIv--1xfN3R1jew2q3F4mY1mgrcSIrMoA",
+        "source": "Necochea Digital"
       },
       {
-        "title": "European leaders gear up for tariffs after Trump threat",
+        "title": "Lluvias intermitentes y una jornada ventosa para hoy en Necochea y Quequén",
         "snippet": "",
-        "url": "https://www.msn.com/en-za/news/other/european-leaders-gear-up-for-tariffs-after-trump-threat/vi-AA1yp1iR?ocid=hpmsn",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn0Q476C5BV8nsBSowAx_SgrNJ-aqcySfccePHE5c6JQbHlKuXEOkegRdluHY",
-        "source": "MSN"
+        "url": "https://elecos.com.ar/lluvias-intermitentes-y-una-jornada-ventosa-para-hoy-en-necochea-y-quequen",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvFeCDi2EAZG0o0rm_4PiICgrE5kiXxu94Zz9bW7RXF2jx5hUvcbVA0S1dX4A",
+        "source": "Ecos Diarios Necochea"
       }
     ]
   },
   {
     "title": "nba",
     "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 19:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKMj_8v6Lj_bSk8-ksl99FEKvq4j7F_4n_3uBOkZGaB3SOZdv9UepHkHcc9MY",
-    "picture_source": "Xinhua",
-    "news_items": [
-      {
-        "title": "NBA: Chicago Bulls vs. Miami Heat",
-        "snippet": "",
-        "url": "https://english.news.cn/20250205/8a492fc8080a477789faf6b5726ad4e2/c.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKMj_8v6Lj_bSk8-ksl99FEKvq4j7F_4n_3uBOkZGaB3SOZdv9UepHkHcc9MY",
-        "source": "Xinhua"
-      },
-      {
-        "title": "Heat Bulls Basketball",
-        "snippet": "",
-        "url": "https://www.couriernews.com/sports/heat-bulls-basketball/image_c136aa20-2c7d-52bd-852c-77299966387a.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa25IGgS4zCt9HNRCaZBfjfgLEC6xIEbOBzGJ4lCWBAdp2eQMkvndwpnkIxc8",
-        "source": "couriernews.com"
-      },
-      {
-        "title": "Bulls Face Off Against Heat Amid Trade Fallout and Butler Suspension – Sportnews",
-        "snippet": "",
-        "url": "https://www.hpbl.co.in/sportnews/bulls-face-off-against-heat-amid-trade-fallout-and-butler-suspension/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU_Yk5_z604iAupIbBAPvylmgYkK4OfkFO_yUJAowOafrfvCg77TmD4PguIo",
-        "source": "www.hpbl.co.in"
-      }
-    ]
-  },
-  {
-    "title": "lakers",
-    "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 19:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWVoLbsnUJztVpFh9gCGe9r3YL7syL2JyU7XEdF8ax64Xc-AHqDlz7ZwI9uyM",
-    "picture_source": "NBA.Com",
-    "news_items": [
-      {
-        "title": "Mavs trade Quentin Grimes, 2nd-round pick to 76ers for Caleb Martin",
-        "snippet": "",
-        "url": "https://www.nba.com/news/sixers-trade-caleb-martin-mavericks",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWVoLbsnUJztVpFh9gCGe9r3YL7syL2JyU7XEdF8ax64Xc-AHqDlz7ZwI9uyM",
-        "source": "NBA.Com"
-      },
-      {
-        "title": "Luka Doncic to the Lakers, Anthony Davis to the Mavs in blockbuster trade",
-        "snippet": "",
-        "url": "https://www.nbcnews.com/sports/nba/luka-doncic-lakers-anthony-davis-mavs-blockbuster-trade-ap-source-says-rcna190322",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTP1CeT6AJ8a_-GdZiDgV4M3KPMCpFhuoCsgsPezIF4fA2LePsMdHXRgPL6_yE",
-        "source": "NBC News"
-      },
-      {
-        "title": "'Unfathomable': How this stunning Luka Doncic-Anthony Davis trade came together",
-        "snippet": "",
-        "url": "https://www.espn.com/nba/story/_/id/43676830/how-stunning-luka-doncic-anthony-davis-trade-came-together-los-angeles-lakers-dallas-mavericks",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTs-MUDgXODDT1iuWRpdsysVpCbUKvyhNVEA62-mdLsb7wbuILjTtmewp7SOek",
-        "source": "ESPN"
-      }
-    ]
-  },
-  {
-    "title": "kate moss",
-    "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 16:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhjNZx3ZtRzHO07EahCIoy5c1yfDf-iGlPf-_n2wvUTXYK1kFUGgmM4-omMxc",
-    "picture_source": "Yahoo",
-    "news_items": [
-      {
-        "title": "Kate Moss’ ’90s Outfit Features a Trendy Style Staple That’s Still a Travel Must-Have",
-        "snippet": "",
-        "url": "https://www.yahoo.com/lifestyle/kate-moss-90s-outfit-features-115029667.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhjNZx3ZtRzHO07EahCIoy5c1yfDf-iGlPf-_n2wvUTXYK1kFUGgmM4-omMxc",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Kate Moss in the Elisabetta Franchi Spring 2025 Might Give You a Serious Case of Déjà Vu…",
-        "snippet": "",
-        "url": "https://www.thefashionspot.com/forum-buzz/899645-kate-moss-in-the-elisabetta-franchi-spring-2025-might-give-you-a-serious-case-of-deja-vu/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4lL-rD7Tvj1kA_8ylUlkpDzj8I6F3vqt9Z_3VtSxaHUA86sG8Z8ttRFGg_iU",
-        "source": "theFashionSpot"
-      },
-      {
-        "title": "Kate Moss, 51, goes braless under black jumper as she shows off long legs in leather mini-skirt...",
-        "snippet": "",
-        "url": "https://www.thesun.co.uk/tvandshowbiz/33197375/kate-moss-long-legs-mini-skirt/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0DiiRDxqnNDCfYpn23OIKddAzHIYilNRVoHUFaKInYpBoUrhns5BDulF6WI",
-        "source": "The Sun"
-      }
-    ]
-  },
-  {
-    "title": "godoy cruz - talleres",
-    "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 15:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM3MCdHbIy3NSL2Y5s7mv9KuovSlaqjUDDFvK8pQgz88YvxEDBYyDAn498j1c",
-    "picture_source": "Infobae",
-    "news_items": [
-      {
-        "title": "Suspendieron el partido de Godoy Cruz y Talleres por la agresión a un juez de línea antes del inicio del segundo tiempo",
-        "snippet": "",
-        "url": "https://www.infobae.com/deportes/2025/02/04/godoy-cruz-talleres-y-atletico-tucuman-riestra-bajan-el-telon-de-la-fecha-3-del-torneo-apertura-hora-tv-y-formaciones/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM3MCdHbIy3NSL2Y5s7mv9KuovSlaqjUDDFvK8pQgz88YvxEDBYyDAn498j1c",
-        "source": "Infobae"
-      },
-      {
-        "title": "Video: así fue la agresión al línea que provocó la suspensión del Godoy Cruz-Talleres",
-        "snippet": "",
-        "url": "https://www.ole.com.ar/futbol-primera/agresion-juez-linea-godoy-cruz-talleres_0_lusZMsgOmt.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCU2Ftii1csGhAgmmHVhV1zbxDGXMcjDWU4Pp7FbCUeKU3uL2Ny5nXuWpVJPM",
-        "source": "Olé"
-      },
-      {
-        "title": "Escándalo en Mendoza: Godoy Cruz vs. Talleres, suspendido por agresión al juez de línea",
-        "snippet": "",
-        "url": "https://www.tycsports.com/liga-profesional-de-futbol/godoy-cruz-vs-talleres-en-vivo-hora-donde-ver-y-formaciones-id632359.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhiBUC6xnAjYKSnIqq8gtXpcpcbT5Z7E3jm81V1O7BKMFjzCu4Tn9AYR9zYSk",
-        "source": "TyC Sports"
-      }
-    ]
-  },
-  {
-    "title": "teatro de verano hoy",
-    "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 18:30:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 21:40:00 -0700",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVgsrZF4bdLSNB7oXINZpcnESOwHGsGdZMe29ja0jTLQCAD2Ag0miOTtN_oA",
-    "picture_source": "EL PAÍS Uruguay",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4iS3BMijAMsu1FwSOXAyL-ITJP-pqKXKxO5Li1ZeVXCgl738PhyLk0gQqZ00",
+    "picture_source": "Major Wager",
     "news_items": [
       {
-        "title": "Tablados para hoy: programación completa del miércoles 5 de febrero y la etapa del Concurso de Carnaval",
+        "title": "Jazz vs Pacers Match Player Stats | Friday, April 4th 2025",
         "snippet": "",
-        "url": "https://www.elpais.com.uy/tvshow/teatro-y-carnaval/tablados-para-hoy-programacion-completa-del-miercoles-5-de-febrero-y-la-etapa-del-concurso-de-carnaval-2025",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVgsrZF4bdLSNB7oXINZpcnESOwHGsGdZMe29ja0jTLQCAD2Ag0miOTtN_oA",
-        "source": "EL PAÍS Uruguay"
+        "url": "https://www.majorwager.com/nba/jazz-pacers-match-player-stats-apr-04-2025/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4iS3BMijAMsu1FwSOXAyL-ITJP-pqKXKxO5Li1ZeVXCgl738PhyLk0gQqZ00",
+        "source": "Major Wager"
       },
       {
-        "title": "Carnaval en el Sodre: mirá toda la agenda de espectáculos día por día",
+        "title": "Utah faces Indiana, looks to end road slide",
         "snippet": "",
-        "url": "https://ladiaria.com.uy/carnaval/articulo/2025/2/carnaval-2025-en-el-sodre-toda-la-informacion-de-los-espectaculos/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe4jgzJ3A_r-0TjCHdy4Sb_bBJDL1TrS2Jog-qvBse81eFcf8W2CsHc-95NkA",
-        "source": "la diaria"
+        "url": "https://www.heraldbulletin.com/sports/national_sports/utah-faces-indiana-looks-to-end-road-slide/article_ee123730-4a38-5051-a2e4-0fd5fa56a88a.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFhAnKf-Oj6tN-CztZqB9_ID1NBr3x4U3pjFAZQ3yXVS5XZ5jKLwYVBkbCizY",
+        "source": "Herald Bulletin"
       },
       {
-        "title": "Concurso de carnaval en el Teatro de Verano: el programa de este lunes y lo que falta de la primera rueda",
+        "title": "Preview: Utah Jazz Continue Road Trip Against Indiana Pacers",
         "snippet": "",
-        "url": "https://www.elobservador.com.uy/carnaval/concurso-carnaval-el-teatro-verano-el-programa-este-lunes-y-lo-que-falta-la-primera-rueda-n5983064",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsdzbGPJpjpAbylyk0hdNPZNOBFV2ml1Qyr41Q2ns0iw4pUfm31df6ig2s8H8",
-        "source": "El Observador"
+        "url": "https://utahjazz.com/news/preview-utah-jazz-continue-road-trip-against-indiana-pacers",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtAUNKBs__ozbgSkLbPtjtAAHiBRU4sDG0IwevSc3SPLZ1PTobe-5WNvyby48",
+        "source": "NBA"
       }
     ]
   },
   {
-    "title": "colombia sub-20 - paraguay sub-20",
+    "title": "flamengo vs",
     "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 18:00:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 19:10:00 -0700",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRzF4QvkxKKdh2O21kQsZgDb9xxD4hvHHMDEQu3w8HSw0WOz5OaBl1kALGZqo",
-    "picture_source": "The Herald Journal",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0WQy-2c57tAsW7oluH5xIa0c0p2JrfaaLIU0YOEE8kX_tJ3fOP819tQbbq5s",
+    "picture_source": "GE",
     "news_items": [
       {
-        "title": "Colombia Paraguay Soccer South American U20",
+        "title": "Deportivo Táchira 0 x 1 Flamengo | Taça Conmebol Libertadores: melhores momentos",
         "snippet": "",
-        "url": "https://www.hjnews.com/sports/nation/colombia-paraguay-soccer-south-american-u20/image_8c1cbc37-bdf1-5ba5-80f4-cd16d8aa8105.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRzF4QvkxKKdh2O21kQsZgDb9xxD4hvHHMDEQu3w8HSw0WOz5OaBl1kALGZqo",
-        "source": "The Herald Journal"
+        "url": "https://ge.globo.com/futebol/libertadores/jogo/03-04-2025/tachira-flamengo.ghtml",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0WQy-2c57tAsW7oluH5xIa0c0p2JrfaaLIU0YOEE8kX_tJ3fOP819tQbbq5s",
+        "source": "GE"
       },
       {
-        "title": "How to watch today's Colombia U20 vs Bolivia U20 Copa Sudamericano U20 game: Live stream, TV channel, and start time",
+        "title": "Taça CONMEBOL Libertadores 2025 arranca na LALIGA+",
         "snippet": "",
-        "url": "https://www.goal.com/en-us/news/watch-colombia-u20-vs-bolivia-copa-sudamericano-live-stream-tv/blt5d112a7a716944d6",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5qVmRqrICyPC_F3_J0rOZYwaUnWXPsUhstu6YP5Z3WhQ5d2zeQnu3byNQIx4",
-        "source": "Goal.com"
+        "url": "https://eco.sapo.pt/2025/04/02/taca-conmebol-libertadores-2025-arranca-na-laliga/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ95xZ7O5MHrlXpbHtiF8RwvUGYvQF0KChBGXkKxbMviJ59rBY_898v2KGA70M",
+        "source": "ECO"
       },
       {
-        "title": "Colombia vs Paraguay LIVE\nScore Updates (1-0)",
+        "title": "Libertadores: Onde assistir aos jogos decisivos das oitavas de final",
         "snippet": "",
-        "url": "https://www.vavel.com/en-us/soccer/2025/02/05/1212477-colombia-vs-paraguaylivescore-updates-stream-info-and-how-to-watch-conmebol-u20-championship-match.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUoKoC-YXZphP3RR8wb0IKJ9VjS0VZf40Q4cj588e3ClYAkernZWEg3lSuTn0",
-        "source": "VAVEL.com"
+        "url": "https://maquinadoesporte.com.br/futebol/libertadores-onde-assistir-aos-jogos-decisivos-das-oitavas-de-final/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtHlb1wsx1ThEF8FDuZAKCxtA4kblHUg7EadYmdP6r-WlU3YNyhL1i-QKDIfY",
+        "source": "Máquina do Esporte"
       }
     ]
   },
   {
-    "title": "weather tomorrow",
+    "title": "bahia",
     "link": "https://trends.google.com/trending/rss?geo=UY",
-    "pubdate": "Tue, 4 Feb 2025 16:00:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 16:50:00 -0700",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnmD7-M9kgn2pFzmiL89gJW0uABFxVRRQdt7lfxDKtw47IGe1KoaV-8FXLQw",
-    "picture_source": "ABC7 Chicago",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1CelRjk0Smu0KePfrQBXEdYmS2wd85ADztiYyG6n8WylglCxNyMR6rS5agCs",
+    "picture_source": "O Globo",
     "news_items": [
       {
-        "title": "Chicago, Illinois weather forecast tomorrow: Wintry mix could create dangerous travel conditions Wednesday",
+        "title": "Bahia x Internacional: onde assistir ao vivo ao jogo da Libertadores",
         "snippet": "",
-        "url": "https://abc7chicago.com/post/chicago-illinois-weather-forecast-tomorrow-wintry-mix-could-create-dangerous-travel-conditions-wednesday/15864806/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnmD7-M9kgn2pFzmiL89gJW0uABFxVRRQdt7lfxDKtw47IGe1KoaV-8FXLQw",
-        "source": "ABC7 Chicago"
+        "url": "https://oglobo.globo.com/esportes/futebol-2025/noticia/2025/04/03/bahia-x-internacional-onde-assistir-ao-vivo-ao-jogo-da-libertadores.ghtml",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1CelRjk0Smu0KePfrQBXEdYmS2wd85ADztiYyG6n8WylglCxNyMR6rS5agCs",
+        "source": "O Globo"
       },
       {
-        "title": "Winter Weather Advisory issued for Wednesday into Thursday morning",
+        "title": "Pela Libertadores, Bahia e Inter empatam na Arena Fonte Nova",
         "snippet": "",
-        "url": "https://wgntv.com/weather/chicago-weather-tuesday-wednesday-02052025/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDl_VYB7Yv0Pb1TIvNgBUjvRee_sHl-Ja-ZQNK4XfheI2LuRgsvOJS_ZSBYOI",
-        "source": "WGN-TV"
+        "url": "https://theplayoffs.news/noticias/futebol-nacional/pela-libertadores-bahia-e-inter-empatam-na-arena-fonte-nova/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJ3TQXC6wSB52r6MaV_P3wtnETXTfl6rnNg1cUz5bshjSwLX_RRtNVdefVRHQ",
+        "source": "The Playoffs"
       },
       {
-        "title": "Chicago Winter Weather Advisory: Freezing rain, snow and slick roads could impact Wednesday commutes",
+        "title": "Roger falou com os jogadores no vestiário e deu “aula” para a imprensa sobre escalação",
         "snippet": "",
-        "url": "https://www.fox32chicago.com/weather/chicago-winter-weather-advisory-freezing-rain-snow-slick-roads-wednesday-commutes",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjOrWytt-CPz1Qie-bzXp_hQNnU6arct-xNnUuW2dKTF3-iSIvRxxSg2qFyQM",
-        "source": "FOX 32 Chicago"
+        "url": "https://onefootball.com/pt-br/noticias/roger-falou-com-os-jogadores-no-vestiario-e-deu-aula-para-a-imprensa-sobre-escalacao-40924276",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTJkcgWUi3Ves1zhYQzTVCdDreLThy8gR5AQpEjpTbNpJOlTceOFfzAddZ_eQ",
+        "source": "OneFootball"
       }
     ]
   }

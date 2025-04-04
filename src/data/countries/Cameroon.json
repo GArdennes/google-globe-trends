@@ -1,311 +1,187 @@
 [
   {
-    "title": "le mans – paris-sg",
+    "title": "chelsea – tottenham",
     "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 11:40:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 11:10:00 -0700",
     "approx_traffic": 5000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjtfw3y3XOZfTVu-ngdeMsWtE42hAxNgoPOulev26ZeE9RZ-PUtpkWWdnm0gI",
-    "picture_source": "L'Équipe",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Le Mans 0-2 PSG, Coupe de France : Le PSG en contrôle",
+        "title": "Chelsea 1-0 Tottenham LIVE: Blues boost top-four hopes to pile pressure on Postecoglou",
         "snippet": "",
-        "url": "https://www.lequipe.fr/Football/match-direct/coupe-de-france/2024-2025/le-mans-psg-live/669832",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjtfw3y3XOZfTVu-ngdeMsWtE42hAxNgoPOulev26ZeE9RZ-PUtpkWWdnm0gI",
-        "source": "L'Équipe"
+        "url": "https://www.bbc.com/sport/football/live/ce3q1n1l023t",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+        "source": "BBC"
       },
       {
-        "title": "CdF : le président du Mans l’a mauvaise contre le refus du PSG de laisser la recette",
+        "title": "Enzo Maresca hails Chelsea for 'dirty' win over Tottenham and admits 'mistake' with Cole Palmer decision",
         "snippet": "",
-        "url": "https://www.footmercato.net/a8470590269931035728-cdf-le-president-du-mans-la-mauvaise-contre-le-refus-du-psg-de-laisser-la-recette",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ-xdzOraFdMB2WRLj9q0lcNr9ebsdZqjQN-gSaGxjPyJWPkLfmEm93hCx_Oc",
-        "source": "Foot Mercato"
+        "url": "https://www.standard.co.uk/sport/football/enzo-maresca-chelsea-fc-cole-palmer-b1220670.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTrw2_TQL6uTcQRAbtmWjq1MEeGrx7G0Zo36QLd2hMml-acSatkL0P72xLk_A",
+        "source": "London Evening Standard"
       },
       {
-        "title": "CdF : Le Mans-Paris SG, les compos",
+        "title": "Fernandez header lifts Chelsea to London derby win",
         "snippet": "",
-        "url": "https://m.maxifoot.fr/coupe-france/le-mans-paris-sg-les-compos-foot-427858.htm",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTydQzLEMETlH44zyR2tVtFUI1D5oeomPgFbnX658wtK1wGnW5oxC61iPUVctA",
-        "source": "Maxifoot"
-      }
-    ]
-  },
-  {
-    "title": "atlético madrid – getafe",
-    "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
-    "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
-    "picture_source": "El Periódico de España",
-    "news_items": [
-      {
-        "title": "Y Giuliano volvió a demostrar, arrollando al Getafe, que es digno heredero del cántico de su padre",
-        "snippet": "",
-        "url": "https://www.epe.es/es/deportes/20250204/atletico-madrid-getafe-copa-rey-resultado-giuliano-simeone-114008399",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
-        "source": "El Periódico de España"
-      },
-      {
-        "title": "HERRERA EN COPE EN LA RIOJA I 05 FEB 2025 I 07:20 H",
-        "snippet": "",
-        "url": "https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono/audios/herrera-cope-rioja-i-05-feb-2025-i-07-20-h-20250205_3089938.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUM6S89NThDiBVH8-zukoKPyKwQgwtgDS0jTn8MnkIAtvxobMbEo-PGsFILE",
-        "source": "COPE"
-      },
-      {
-        "title": "Antonio Romero: \"El Atlético llega como el equipo en mejor forma de nuestra competición al derbi frente al Real Madrid\"",
-        "snippet": "",
-        "url": "https://cadenaser.com/nacional/2025/02/04/antonio-romero-el-atletico-de-madrid-llega-como-el-equipo-en-mejor-forma-de-nuestra-competicion-al-derbi-frente-al-real-madrid-cadena-ser/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXYPvZg42nC11OlMOVOnojmVeM8eLRTcTYVCGhr532uaYYQs54a4O6g2YNCV8",
-        "source": "Cadena SER"
-      }
-    ]
-  },
-  {
-    "title": "atalanta – bologne",
-    "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 11:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpFDSoH7VYvqk3tunQzriQRi7ETrw7PA5jx3h5GZu7I-XOAjpvYOMrX2qN9CA",
-    "picture_source": "SportyTrader",
-    "news_items": [
-      {
-        "title": "Pronostic Atalanta Bergame - Bologne, Coupe d'Italie",
-        "snippet": "",
-        "url": "https://www.sportytrader.com/pronostics/atalanta-bergame-bologne-244311/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpFDSoH7VYvqk3tunQzriQRi7ETrw7PA5jx3h5GZu7I-XOAjpvYOMrX2qN9CA",
-        "source": "SportyTrader"
-      },
-      {
-        "title": "L'Atalanta, finaliste en 2024, chute en quarts de finale de la Coupe d'Italie",
-        "snippet": "",
-        "url": "https://www.flashscore.fr/actualites/football-coupe-d-italie-l-atalanta-finaliste-en-2024-chute-en-quarts-de-finale-de-la-coupe-d-italie/KMpdafwA/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7rUJLVvruNryFldldXb1NbiLOWh_Z2qS6qL_ljOlyI25sdVmqaFEDThMJU8",
-        "source": "Flashscore.fr"
-      },
-      {
-        "title": "Pronostic Atalanta Bologne : Bergame met Bologne dans la sauce ?",
-        "snippet": "",
-        "url": "https://maligue2.fr/2025/02/03/pronostic-atalanta-bologne-bergame-met-bologne-dans-la-sauce/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJWN9_Hp49CU3cOxgR5vMSi854iyDuk-RjRRyd9hHL_LF3E30qHfPdzrzL-5A",
-        "source": "MaLigue2"
-      }
-    ]
-  },
-  {
-    "title": "atalanta vs bologna",
-    "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 12:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIqOEgv_EVYeJAOwXRNskhk4ewbDjO5bugZY5zAk0FiUTS5Un7rPn05p83hqI",
-    "picture_source": "Football Italia",
-    "news_items": [
-      {
-        "title": "Coppa Italia: Atalanta 0-1 Bologna – Rossoblu make 21st century history",
-        "snippet": "",
-        "url": "https://football-italia.net/coppa-italia-qf-atalanta-0-1-bologna/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIqOEgv_EVYeJAOwXRNskhk4ewbDjO5bugZY5zAk0FiUTS5Un7rPn05p83hqI",
-        "source": "Football Italia"
-      },
-      {
-        "title": "Super sub Castro sends Bologna into Coppa Italia final four at expense of Atalanta",
-        "snippet": "",
-        "url": "https://www.flashscore.com/news/atalanta-bologna-report-2025-02-04/Sb2PtIn2/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxVATFCL0kfot2o4kuw4seUfFTvzjbTcu9OFbtr3knSYeHdeFCZ9s5dqFiFY",
-        "source": "Flashscore.com"
-      },
-      {
-        "title": "Atalanta coach Gasperini admits form slump after Coppa exit",
-        "snippet": "",
-        "url": "https://www.tribalfootball.com/article/soccer-coppa-italia-atalanta-coach-gasperini-admits-form-slump-after-coppa-exit-a4f90908-92cb-438a-bc2b-9ffc39e05059",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ627CTw1u53JzEh4t7YyFwVHIpSFhwppYVwC3EfOzQ3xo8J8PwQQT9vIm6ZPw",
-        "source": "TribalFootball"
-      }
-    ]
-  },
-  {
-    "title": "clippers – lakers",
-    "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 21:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kecZZdEwJHxp7Sf8l6albukKf-RIyitHetNQ2efHX1sxGintqjdfeaTX-vY",
-    "picture_source": "Yahoo Sports",
-    "news_items": [
-      {
-        "title": "Clippers coach Tyronn Lue rips his team after loss to the Lakers",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/clippers-coach-tyronn-lue-rips-073143733.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kecZZdEwJHxp7Sf8l6albukKf-RIyitHetNQ2efHX1sxGintqjdfeaTX-vY",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Kawhi Leonard stats tonight: How did the Clippers star fare in latest Battle of LA? (Feb. 4)",
-        "snippet": "",
-        "url": "https://www.sportskeeda.com/basketball/news-kawhi-leonard-stats-tonight-how-clippers-star-fare-latest-battle-la-feb-4",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcPp-xawdfcJN4iDXuj8dYQCp53IVkH615zrdBmxWfOGvK2Hj3ytwnU1Ft5RI",
-        "source": "Sportskeeda"
-      },
-      {
-        "title": "Kawhi Leonard's Blunt Statement After Clippers' Blowout Loss to Lakers",
-        "snippet": "",
-        "url": "https://www.si.com/nba/clippers/news/kawhi-leonard-s-blunt-statement-after-clippers-blowout-loss-to-lakers-01jkabqtk17s",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg8rZ0UpJOk1d784JPyuJ6IBNkOYH9EnlnNp-iJLlZJYpuY-ailHGOTdr_rPs",
-        "source": "Sports Illustrated"
-      }
-    ]
-  },
-  {
-    "title": "cristiano ronaldo",
-    "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 15:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
-    "picture_source": "SportsMint Media",
-    "news_items": [
-      {
-        "title": "Cristiano Ronaldo: a global brand colossus at 40",
-        "snippet": "",
-        "url": "https://sportsmintmedia.com/cristiano-ronaldo-a-global-brand-colossus-at-40/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
-        "source": "SportsMint Media"
-      },
-      {
-        "title": "Press Review: \"The Day the King Turns 40\" and What's Left in the Transfer Market",
-        "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2354344-press-review-the-day-the-king-turns-40-and-what-s-left-in-the-transfer-market",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtVAqOr3ZQXqMZSmJdriAQtj_pasL8sF-HN84RHJRjoCSR45gdsCIeGk7uDec",
-        "source": "FootBoom"
-      },
-      {
-        "title": "European leaders gear up for tariffs after Trump threat",
-        "snippet": "",
-        "url": "https://www.msn.com/en-za/news/other/european-leaders-gear-up-for-tariffs-after-trump-threat/vi-AA1yp1iR?ocid=hpmsn",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn0Q476C5BV8nsBSowAx_SgrNJ-aqcySfccePHE5c6JQbHlKuXEOkegRdluHY",
-        "source": "MSN"
-      }
-    ]
-  },
-  {
-    "title": "atletico madrid",
-    "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 13:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1wOjmd2JD4p277PN2B9nptT-E16MedRDQM6NSqOkpfUk6qJmZCFV6AP-hFI",
-    "picture_source": "Sporting Life",
-    "news_items": [
-      {
-        "title": "Any Other Bets: Sky Bet Championship and Copa del Rey tips for 4 February",
-        "snippet": "",
-        "url": "https://www.sportinglife.com/football/news/any-other-bets-sky-bet-championship-and-copa-del-rey-tips-for-4-february/223541",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1wOjmd2JD4p277PN2B9nptT-E16MedRDQM6NSqOkpfUk6qJmZCFV6AP-hFI",
-        "source": "Sporting Life"
-      },
-      {
-        "title": "Atlético de Madrid is Unstoppable and Now Awaits Real Madrid in The Copa del Rey",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-us/soccer/articles-video/atl%C3%A9tico-de-madrid-is-unstoppable-and-now-awaits-real-madrid-in-the-copa-del-rey-2025-02-04",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LSHL-SKR9pOFYZ_HDndQmNYQK1OyxbAD11OHcyA62Xx4MoxA1NbaTrubcgM",
+        "url": "https://www.beinsports.com/en-nz/football/premier-league/articles-video/fernandez-header-lifts-chelsea-to-london-derby-win-2025-04-03",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBaCDgxLf64BftWefaW2ly454_t6SLVOR0P69RFLCaqA-VNWbX6Z_yqOtis_E",
         "source": "beIN SPORTS"
-      },
-      {
-        "title": "talkSPORT betting tips – Best football bets and expert advice for Tuesday 4 February...",
-        "snippet": "",
-        "url": "https://talksport.com/football/2875653/betting-tips-best-football-bets-tuesday-4-february/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2a8hYODkgZ_biwf1BGV2byWWQ2EXU4xquxfo9pwwqMxD_T60UkKBZLGPi2Do",
-        "source": "talkSPORT"
       }
     ]
   },
   {
-    "title": "lille fc",
+    "title": "cameroun u17",
     "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRidZ5cgT7wIPpbVHBQdn5gez48aW1iwexv9vfjkin5nRx1Sm_HfkEvWYO8Gqo",
+    "pubdate": "Thu, 3 Apr 2025 07:30:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcB88KC17IxNGVN6z7Gg_j1-CK29k0P4866bGaio2mrVe0mdAVL42H7HML4Sw",
+    "picture_source": "Camfoot.com",
+    "news_items": [
+      {
+        "title": "CAN U17 : David Mimbang, l’infatigable guerrier du milieu",
+        "snippet": "",
+        "url": "https://www.camfoot.com/actualites/can-u-17-david-mimbang-linfatigable-guerrier-du-milieu,515382.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcB88KC17IxNGVN6z7Gg_j1-CK29k0P4866bGaio2mrVe0mdAVL42H7HML4Sw",
+        "source": "Camfoot.com"
+      },
+      {
+        "title": "CAN U17 – Maroc 2025 : Dernière chance pour les Lions U17 face à l’Afrique du Sud !",
+        "snippet": "",
+        "url": "https://actucameroun.com/2025/04/03/can-u17-maroc-2025-derniere-chance-pour-les-lions-u17-face-a-lafrique-du-sud/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnKX-Pw3n8Kut-qJ05a2jN7Dri7gE5rcrARy-MJseemqxzEphN3-qlx3sgQw",
+        "source": "Actu Cameroun"
+      },
+      {
+        "title": "CAN U17 : les Lionceaux au bord du précipice",
+        "snippet": "",
+        "url": "https://www.lebledparle.com/can-u17-les-lionceaux-au-bord-du-precipice/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqRCZIx-g94CRKLxtju6NJs1_luDxsFsOcSch7ncsIjsAplY17fzQR9JYPD78",
+        "source": "Le bled parle"
+      }
+    ]
+  },
+  {
+    "title": "lakers – warriors",
+    "link": "https://trends.google.com/trending/rss?geo=CM",
+    "pubdate": "Thu, 3 Apr 2025 22:00:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq3if6AMnPAFau_zKYKV2fX9BUaf2vxiLm1i2O3e0qsja_WKLBMPZ2dsy5SxE",
+    "picture_source": "NBA",
+    "news_items": [
+      {
+        "title": "Golden State Warriors vs Los Angeles Lakers Apr 3, 2025 Box Scores",
+        "snippet": "",
+        "url": "https://www.nba.com/game/gsw-vs-lal-0022401117/box-score",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq3if6AMnPAFau_zKYKV2fX9BUaf2vxiLm1i2O3e0qsja_WKLBMPZ2dsy5SxE",
+        "source": "NBA"
+      },
+      {
+        "title": "Celtics-Heat Notebook: Jaylen Brown discusses knee injury management, Luke Kornet a bright spot in loss",
+        "snippet": "",
+        "url": "https://www.celticsblog.com/2025/4/3/24399972/celtics-heat-notebook-jaylen-brown-luke-kornet-joe-mazzulla-jd-davison",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKVKBN137OQFdzyJ5CKRmGeI4Ca9eBYbWZ8oFSnGFUOh4ZbyGipCTVUz7tByw",
+        "source": "CelticsBlog"
+      },
+      {
+        "title": "\"Losing Still Sucks\" - After Just Their Second Loss In A Month, The Celtics Were Given A Valuable Reminder Of What Can Happen When You Play Like Assholes",
+        "snippet": "",
+        "url": "https://www.barstoolsports.com/blog/3542206/losing-still-sucks-after-just-their-second-loss-in-a-month-the-celtics-were-given-a-valuable-reminder-of-what-can-happen-when-you-play-like-assholes",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjJprXAR7jnwRrdI-r9DSSy2j-LS3b6k6QoeSs9W4GgzGtHlH4V-ft8opuIw",
+        "source": "Barstool Sports"
+      }
+    ]
+  },
+  {
+    "title": "sporting – rio ave",
+    "link": "https://trends.google.com/trending/rss?geo=CM",
+    "pubdate": "Thu, 3 Apr 2025 14:20:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeBzqE95LePKHhNMb3aGvFHd4LxB1Q4MZ1BOwiaEsaCldlJhP9XZeMmj9AmJ8",
+    "picture_source": "OneFootball",
+    "news_items": [
+      {
+        "title": "Simulação e penalti para o Sporting. O 19º esta temporada",
+        "snippet": "",
+        "url": "https://onefootball.com/fr/news/simulacao-e-penalti-para-o-sporting-o-19-esta-temporada-40923836",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeBzqE95LePKHhNMb3aGvFHd4LxB1Q4MZ1BOwiaEsaCldlJhP9XZeMmj9AmJ8",
+        "source": "OneFootball"
+      },
+      {
+        "title": "As tropas de Gyökeres estão quase na final da Taça",
+        "snippet": "",
+        "url": "https://bomdia.eu/as-tropas-de-gyokeres-estao-quase-na-final-da-taca/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToQvz5oGyghOYRVzimGesa9GSSYaq1UDWJqE2v2jHS9LC-BDEacZpQdA1t4aA",
+        "source": "Bom Dia Europa"
+      },
+      {
+        "title": "Rui Borges: \"Os jogadores tiveram resiliência e a energia é diferente\"",
+        "snippet": "",
+        "url": "https://www.ojogo.pt/4656610938/rui-borges-os-jogadores-tiveram-resiliencia-e-a-energia-e-diferente/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnXOf-iRtFWCqXwtqL6m74t5A0dlPawd8HMJb_Ht2fRj2b7EA3-35zPBDcu3s",
+        "source": "O Jogo"
+      }
+    ]
+  },
+  {
+    "title": "kylian mbappé",
+    "link": "https://trends.google.com/trending/rss?geo=CM",
+    "pubdate": "Thu, 3 Apr 2025 10:40:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc7Qt2EJTv0jiQmv11M_5X6qnFeYa4NTfVcifGg7954qdQrqNoXyhuREQu7fM",
     "picture_source": "Yahoo Sports",
     "news_items": [
       {
-        "title": "🤯 Second-tier Dunkerque shock Lille in Coupe De France with epic comeback",
+        "title": "Kylian Mbappé misses out: Real Madrid’s Player of the Month nominees for March",
         "snippet": "",
-        "url": "https://sports.yahoo.com/second-tier-dunkerque-shock-lille-203000670.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRidZ5cgT7wIPpbVHBQdn5gez48aW1iwexv9vfjkin5nRx1Sm_HfkEvWYO8Gqo",
+        "url": "https://sports.yahoo.com/article/kylian-mbapp-misses-real-madrid-145400374.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc7Qt2EJTv0jiQmv11M_5X6qnFeYa4NTfVcifGg7954qdQrqNoXyhuREQu7fM",
         "source": "Yahoo Sports"
       },
       {
-        "title": "Preview: Lille vs. Dunkerque - prediction, team news, lineups",
+        "title": "Vote Now who’s the best – 365Scores’ Player of the Month of March",
         "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/lille/coupe-de-france/preview/preview-lille-vs-dunkerque-prediction-team-news-lineups_564607.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStFNEAK12ZF6AfI4p6Jf7Z5cLc9WfJWoBY2QVm_-Q2eIA_5vq8Imjg_nRf6ME",
-        "source": "Sports Mole"
+        "url": "https://www.365scores.com/news/vote-now-whos-the-best-365scores-player-of-the-month-of-march",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxKYPTqFqgIqsouhKQFhSA-AJXmjJRQPaJE06x1YaabCZ3fqoHDjmYVu7QXqE",
+        "source": "365Scores"
       },
       {
-        "title": "🤯 Second-tier Dunkerque shock Lille in Coupe De France with epic comeback",
+        "title": "Real Madrid confirm nominees for club's March Player of the Month",
         "snippet": "",
-        "url": "https://onefootball.com/en/news/second-tier-dunkerque-shock-lille-in-coupe-de-france-with-epic-comeback-40664336",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpDeSJGixsK8zu-ZA7zU5JA1kaeo-j-uS4oqSXaN2m5iQFpD037jo3BzLHy1Q",
-        "source": "OneFootball"
+        "url": "https://sports.yahoo.com/article/real-madrid-confirm-nominees-clubs-103900767.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd7U-_yZQgFFX71H5-TGFqbthWYpzVD4rOBd_ylKW6nhhxh7na5kc8_iXZ_wo",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
-    "title": "coupe du roi",
+    "title": "premier league table",
     "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 11:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnSABFA8l26RLFur4MSzwdRa7RdGiMP3uuggBHyQJEVS8i5liShNX_VpXLrR4",
-    "picture_source": "Eurosport",
-    "news_items": [
-      {
-        "title": "Carlo Ancelotti et le Real Madrid \"demandent des explications\" sur l'arbitrage après la défaite chez l'Espanyol",
-        "snippet": "",
-        "url": "https://www.eurosport.fr/football/copa-del-rey/2024-2025/carlo-ancelotti-et-le-real-madrid-demandent-des-explications-sur-l-arbitrage-apres-la-defaite-chez-l-espanyol_vid2315908/video.shtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnSABFA8l26RLFur4MSzwdRa7RdGiMP3uuggBHyQJEVS8i5liShNX_VpXLrR4",
-        "source": "Eurosport"
-      },
-      {
-        "title": "Real Madrid : Kylian Mbappé et Jude Bellingham forfaits contre Leganés",
-        "snippet": "",
-        "url": "https://www.footmercato.net/a6858150337254913161-real-madrid-kylian-mbappe-et-jude-bellingham-forfaits-contre-leganes",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3huO_-LQEzXbacuq5uV5vxuZJvyDFrS7MdIvJ4oAfkAAPHZY6OT4ly2pVolM",
-        "source": "Foot Mercato"
-      },
-      {
-        "title": "8 absents au Real Madrid pour affronter Leganés en Copa",
-        "snippet": "",
-        "url": "https://real-france.fr/8-absents-au-real-madrid-pour-affronter-leganes-en-copa/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-JjU6PP3aR2UEVM8eWrRzVQRc_Tohm6P7AK1LE4rbejmlaIBoyA5hIfBDwPw",
-        "source": "Real France"
-      }
-    ]
-  },
-  {
-    "title": "76ers – mavericks",
-    "link": "https://trends.google.com/trending/rss?geo=CM",
-    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 14:00:00 -0700",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRixkOEOWwrsAE_5eXcV0Ec11T2j96qpDpwASKDLjTrv0x4sPnomsOuueRXNO0",
-    "picture_source": "NBA.Com",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPN_Ij-FC2Kn_zjzztnZ9K5lma0rZ_gdKnbBCywIO39UNBxwW0ODnXDoHp3o",
+    "picture_source": "OneFootball",
     "news_items": [
       {
-        "title": "Game Recap: 76ers 118, Mavericks 116",
+        "title": "Opta predicted final 2024/25 Premier League table updated after Chelsea’s win – Intriguing",
         "snippet": "",
-        "url": "https://www.nba.com/watch/video/game-recap-76ers-118-mavericks-116",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRixkOEOWwrsAE_5eXcV0Ec11T2j96qpDpwASKDLjTrv0x4sPnomsOuueRXNO0",
-        "source": "NBA.Com"
+        "url": "https://onefootball.com/id/berita/opta-predicted-final-202425-premier-league-table-updated-after-chelseas-win-intriguing-40925289",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPN_Ij-FC2Kn_zjzztnZ9K5lma0rZ_gdKnbBCywIO39UNBxwW0ODnXDoHp3o",
+        "source": "OneFootball"
       },
       {
-        "title": "Joel Embiid records triple-double in return as Sixers escape with win vs. Mavericks",
+        "title": "Exact Man United and Man City Premier League points totals predicted as Europe pathway clear",
         "snippet": "",
-        "url": "https://www.libertyballers.com/2025/2/4/24358986/sixers-mavericks-final-score-game-recap-joel-embiid-tyrese-maxey-kyrie-irving",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTH1CEf3cifAA7pgrEu51kjnyKaYG9H1FGH3KrRHSiYvVv59xSeFBqJOSHQ5Wc",
-        "source": "Liberty Ballers"
+        "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/exact-man-united-man-city-31343743",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRJFpP8p8sXoysKn4NDVJyOEkwfX-amGjUIefc5UEOZM5w3kRXpIWrDVhJdzU",
+        "source": "Manchester Evening News"
       },
       {
-        "title": "Joel Embiid posts triple-double in return as Sixers survive Mavs, 118-116",
+        "title": "How many points Man City need to finish fourth - according to Opta",
         "snippet": "",
-        "url": "https://phillysportsnetwork.com/2025/02/04/embiid-triple-double-sixers/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nWrgG6Qrlh0-NCxTxI-Mr1YCgti44H8XIcOBbHcWFJiyX9HeJ_Mno0NiJm8",
-        "source": "Philly Sports Network"
+        "url": "https://www.manchesterworld.uk/sport/football/manchester-city/man-city-final-points-needed-fourth-spot-5066744",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf3FODu6APlZkgYyeFYklL06QgoJA8YbLf6miEFgfTp-azyWVXr4B15GdmErI",
+        "source": "ManchesterWorld"
       }
     ]
   }

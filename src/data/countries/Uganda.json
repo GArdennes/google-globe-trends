@@ -1,311 +1,311 @@
 [
   {
-    "title": "burnley",
+    "title": "chelsea vs tottenham",
     "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 12:00:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 10:00:00 -0700",
+    "approx_traffic": 50000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThjpJdqCiG-dvLDypvz3Hzg2zt-ycJrJ-mwDiwtelWhHLZ4ShsTXEWItcC7jc",
+    "picture_source": "Sky Sports",
+    "news_items": [
+      {
+        "title": "Kick Off 8pm: Chelsea vs Tottenham - live on Sky Sports",
+        "snippet": "",
+        "url": "https://www.skysports.com/football/live-blog/11661/13336734/chelsea-vs-tottenham-live-premier-league-match-updates-news-score-stream-report-and-highlights-live-on-sky-sports",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThjpJdqCiG-dvLDypvz3Hzg2zt-ycJrJ-mwDiwtelWhHLZ4ShsTXEWItcC7jc",
+        "source": "Sky Sports"
+      },
+      {
+        "title": "Levi Colwill praises supporters after Spurs victory: ‘We felt everything' | News | Official Site",
+        "snippet": "",
+        "url": "https://www.chelseafc.com/en/news/article/levi-colwill-praises-our-supporters-during-spurs-victory-we-felt-everything",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaozSVTdt4gvgORz4Qo9BQrzX5-D9ZLUleZXkqP7FZHSB8pDJ3PIikSgrsoKw",
+        "source": "Chelsea"
+      },
+      {
+        "title": "Enzo Fernandez shows true Chelsea colours in shock moment against Tottenham",
+        "snippet": "",
+        "url": "https://www.football.london/chelsea-fc/news/enzo-fernandez-shows-true-chelsea-31348599",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuehlexiT0V-uwpi-Pjo-YXsbVlfl2MJznR1WHPrS1eeJj1NJPUKWnZ5UuWZc",
+        "source": "Football London"
+      }
+    ]
+  },
+  {
+    "title": "sporting vs rio ave",
+    "link": "https://trends.google.com/trending/rss?geo=UG",
+    "pubdate": "Thu, 3 Apr 2025 11:40:00 -0700",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1zQ_r5TEJ9uFoBvDG8jsYXXZlx3mu7ap7MCZUVgiThW94yPTS4jm3AtKqaiA",
+    "picture_source": "A Bola",
+    "news_items": [
+      {
+        "title": "Penálti sobre Geny Catamo foi bem assinalado? A análise de Pedro Henriques",
+        "snippet": "",
+        "url": "https://www.abola.pt/futebol/video/penalti-sobre-geny-catamo-foi-bem-assinalado-a-analise-de-pedro-henriques-2025040320511227284",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1zQ_r5TEJ9uFoBvDG8jsYXXZlx3mu7ap7MCZUVgiThW94yPTS4jm3AtKqaiA",
+        "source": "A Bola"
+      },
+      {
+        "title": "Simulação e penalti para o Sporting. O 19º esta temporada",
+        "snippet": "",
+        "url": "https://onefootball.com/fr/news/simulacao-e-penalti-para-o-sporting-o-19-esta-temporada-40923836",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeBzqE95LePKHhNMb3aGvFHd4LxB1Q4MZ1BOwiaEsaCldlJhP9XZeMmj9AmJ8",
+        "source": "OneFootball"
+      },
+      {
+        "title": "Rui Borges: \"Os jogadores tiveram resiliência e a energia é diferente\"",
+        "snippet": "",
+        "url": "https://www.ojogo.pt/4656610938/rui-borges-os-jogadores-tiveram-resiliencia-e-a-energia-e-diferente/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnXOf-iRtFWCqXwtqL6m74t5A0dlPawd8HMJb_Ht2fRj2b7EA3-35zPBDcu3s",
+        "source": "O Jogo"
+      }
+    ]
+  },
+  {
+    "title": "besiktas fc",
+    "link": "https://trends.google.com/trending/rss?geo=UG",
+    "pubdate": "Thu, 3 Apr 2025 10:40:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Ghax2Cc11RS0fTGgRQa_9YFulq4kxM-t6b9iHorJ8MfyMybH0i-JdSre07M",
+    "picture_source": "Haber7",
+    "news_items": [
+      {
+        "title": "Beşiktaş önce TFF'ye tepki gösterdi! Daha sonra acil çağrıda bulundu",
+        "snippet": "",
+        "url": "https://spor.haber7.com/besiktas/haber/3519043-besiktas-once-tffye-tepki-gosterdi-daha-sonra-acil-cagrida-bulundu",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Ghax2Cc11RS0fTGgRQa_9YFulq4kxM-t6b9iHorJ8MfyMybH0i-JdSre07M",
+        "source": "Haber7"
+      },
+      {
+        "title": "Ole Gunnar Solskjaer, \"Çok basit goller yedik\"",
+        "snippet": "",
+        "url": "https://www.tunagazete.com/haber/24464158/ole-gunnar-solskjaer-cok-basit-goller-yedik",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpcNmlgys1EEy460Q_kOUc8_MjblV2V1sU0gy4iYWuiAtb86rG8uXuS9oVV6k",
+        "source": "Tuna Gazete"
+      },
+      {
+        "title": "Başkanımıza değil 45 gün, 100 maç ceza da verseniz sizinle mücadelemizden geri atmayacağız",
+        "snippet": "",
+        "url": "https://www.duzcetv.com/spor-haberleri-Haberleri/196674-baskanimiza-degil-45-gun-100-mac-ceza-da-verseniz-sizinle-mucadelemizden-geri-atmayacagiz",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNjslKqTVAq33t7dBUeJttPVpJU6DX9OGffZG3B2PsX0KGAKWx8A2Yw16UsGU",
+        "source": "Düzce TV"
+      }
+    ]
+  },
+  {
+    "title": "chelsea results",
+    "link": "https://trends.google.com/trending/rss?geo=UG",
+    "pubdate": "Thu, 3 Apr 2025 19:50:00 -0700",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT47vxJMXE91EeZrZF67cuowHhjBKUK0dmOwLOhhenJgRi4HvevlZTveMUf3rw",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfInsp1XAf2oNApev4iOqpAbP8SLlioNs2P_xF6IXxjHCie-nOcGkObtwA2MU",
+    "picture_source": "Football London",
+    "news_items": [
+      {
+        "title": "Will Chelsea qualify for the Champions League? Take our fixtures predictor and find out",
+        "snippet": "",
+        "url": "https://www.football.london/chelsea-fc/news/chelsea-qualify-champions-league-take-31325959",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfInsp1XAf2oNApev4iOqpAbP8SLlioNs2P_xF6IXxjHCie-nOcGkObtwA2MU",
+        "source": "Football London"
+      },
+      {
+        "title": "I asked AI to predict the Premier League table - here’s the results",
+        "snippet": "",
+        "url": "https://www.londonworld.com/sport/football/chelsea/predicted-premier-league-table-ai-chelsea-5056741",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbTJVvoob7HVYCbU7O7LhLbIHauBjoD-OpZehAvdRn1ltMbx0aPG5SzMZQ6RM",
+        "source": "LondonWorld"
+      },
+      {
+        "title": "Bobby Vincent, football.london: Champions League football 'a must' for Chelsea",
+        "snippet": "",
+        "url": "https://www.brentfordfc.com/en/news/article/analysis-brentford-v-chelsea-premier-league-champions-league-bobby-vincent-football-london",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM6KhrM8kq9jh4RbDcEL2M0KZlloQjVqrYBIcwhLsm5onxiAV0g_dqck0aiGA",
+        "source": "Brentford FC"
+      }
+    ]
+  },
+  {
+    "title": "sporting cp",
+    "link": "https://trends.google.com/trending/rss?geo=UG",
+    "pubdate": "Thu, 3 Apr 2025 12:20:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpYuOJ3mfAs6mBmpW2cxDMXlxQ0a0gvWOQyYdWU5sApcK0jtjJjMnvsD84Z90",
     "picture_source": "Sports Mole",
     "news_items": [
       {
-        "title": "Tuesday's Championship predictions including Burnley vs. Oxford",
+        "title": "Preview: Sporting Lisbon vs. Rio Ave - prediction, team news, lineups",
         "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/burnley/championship-predictions/feature/tuesdays-championship-predictions-including-burnley-vs-oxford_564688.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT47vxJMXE91EeZrZF67cuowHhjBKUK0dmOwLOhhenJgRi4HvevlZTveMUf3rw",
+        "url": "https://www.sportsmole.co.uk/football/sporting-lisbon/taca-de-portugal/preview/preview-sporting-lisbon-vs-rio-ave-prediction-team-news-lineups_569222.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpYuOJ3mfAs6mBmpW2cxDMXlxQ0a0gvWOQyYdWU5sApcK0jtjJjMnvsD84Z90",
         "source": "Sports Mole"
       },
       {
-        "title": "EFL midweek round-up: Burnley go second",
+        "title": "Football Bet of the Day for Thursday: Sporting’s Stars to Shine Early Against Rio Ave",
         "snippet": "",
-        "url": "https://www.efl.com/news/2025/february/04/efl-midweek-round-up-burnley-go-second/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNsbFGFe8SvJS87VxmbJsYscLt93MTziq3fNPusEJvkKexB8vnX96seohvOF4",
-        "source": "EFL"
+        "url": "https://bettingtips4you.com/news/football-bet-of-the-day-for-thursday-sportings-stars-to-shine-early-against-rio-ave/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo-7w7Zq3mc0mVKTO8tWDtFjsBbQTkt6km25CXIXeZYqf_Aq4Kq4riqwOVKhg",
+        "source": "BettingTips4you.com"
       },
       {
-        "title": "Scott Parker knows promotion-chasing Burnley need to be more clinical",
+        "title": "Panenka-style GOLAZO from Viktor Gyökeres with Sporting in the Taça de Portugal!",
         "snippet": "",
-        "url": "https://www.irishnews.com/sport/soccer/scott-parker-knows-promotion-chasing-burnley-need-to-be-more-clinical-NO2FTLUOLFKHJMWWCCFQQCPAJE/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmsKwWzTRvRhWPqOQD6dVB_QbR5RRWsRpShpxzFObn37lD9pb0SY4Ub_AYnt4",
-        "source": "The Irish News"
+        "url": "https://www.beinsports.com/en-us/soccer/articles-video/panenka-style-golazo-from-viktor-gy-keres-with-sporting-in-the-ta%C3%A7a-de-portugal-2025-04-03",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3l3i1nODmzVwcyRr2Ri3XSpnOHDGcanLIqUecb4my_Gqgq4f60p3-sSTt_z8",
+        "source": "beIN SPORTS"
       }
     ]
   },
   {
-    "title": "aga khan",
+    "title": "basel fc",
     "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 20:20:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 11:30:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1guwDfVI73pEipcu6DRdDQBIkAuGG6es3ujbCuNuLpsQeBzGzesmsyw9MNFo",
+    "picture_source": "Schweizer Fernsehen",
+    "news_items": [
+      {
+        "title": "GC zu Gast im St. Jakob-Park - Basel: Mit Notnagel Akahomen gegen den Angstgegner",
+        "snippet": "",
+        "url": "https://www.srf.ch/sport/fussball/super-league/gc-zu-gast-im-st-jakob-park-basel-mit-notnagel-akahomen-gegen-den-angstgegner",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1guwDfVI73pEipcu6DRdDQBIkAuGG6es3ujbCuNuLpsQeBzGzesmsyw9MNFo",
+        "source": "Schweizer Fernsehen"
+      },
+      {
+        "title": "30. Runde der Super League:",
+        "snippet": "",
+        "url": "https://sport.ch/superleague/1456247/basel-gruesst-wieder-von-der-tabellenspitze",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIG9b-ydtnkK41cMmSZ5sIYhlESGmDwL3NkiJq7s52E0SRJo-xuHpLgh19eXE",
+        "source": "sport.ch"
+      },
+      {
+        "title": "Nach erreichtem Saisonziel will der FCB mehr: «Wir wollen Unglaubliches erreichen»",
+        "snippet": "",
+        "url": "https://www.baseljetzt.ch/jetzt-live-der-fcb-will-mit-einem-sieg-gegen-gc-zurueck-an-die-tabellenspitze/364845",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVsSY_6fnUONUJCDwE5pnmfmNr8dWdT0DPfrtwtrYwabr1BTPChf3uwQZxyrI",
+        "source": "Baseljetzt"
+      }
+    ]
+  },
+  {
+    "title": "lakers vs warriors",
+    "link": "https://trends.google.com/trending/rss?geo=UG",
+    "pubdate": "Thu, 3 Apr 2025 21:30:00 -0700",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSem5J38QGoc52CIAbnuAWVy5K3HkBKBRaRGQ-Tijrn5wEA3coOpjF8ZlnE1Eo",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXdZUYFWlQ6bZ4c2E6gKXinPz6uJYbqZD5PZcF5XGmI7UOTsGw5aTZ9F5L_Sc",
     "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Aga Khan: Billionaire and spiritual leader dies at 88",
+        "title": "NBA: Stephen Curry leads Golden State Warriors to victory over Los Angeles Lakers",
         "snippet": "",
-        "url": "https://www.bbc.com/news/articles/c9vmlk4rzzjo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSem5J38QGoc52CIAbnuAWVy5K3HkBKBRaRGQ-Tijrn5wEA3coOpjF8ZlnE1Eo",
+        "url": "https://www.bbc.co.uk/sport/basketball/articles/c5yg4v79yvgo",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXdZUYFWlQ6bZ4c2E6gKXinPz6uJYbqZD5PZcF5XGmI7UOTsGw5aTZ9F5L_Sc",
         "source": "BBC"
       },
       {
-        "title": "His Highness the Aga Khan IV, leader of Ismaili muslims, dies at 88",
+        "title": "Lakers show fight, but Luka Doncic’s struggles prove costly in loss to Warriors",
         "snippet": "",
-        "url": "https://www.monitor.co.ug/uganda/news/national/his-highness-the-aga-khan-iv-leader-of-ismaili-muslims-dies-at-88-4913664",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmIZX1TPipcfN4ZFrd8DdwJeFkQ5qTC628haDvY0F17r9m8B_3PqPwelp4UsM",
-        "source": "Daily Monitor"
+        "url": "https://www.dailygazette.com/tribune/lakers-show-fight-but-luka-doncic-s-struggles-prove-costly-in-loss-to-warriors/article_a6e1bc0c-5514-58a4-bd7a-10d2ab7a8334.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4DN-_m7XcCvls28--JIgRHC6piMfMIal2JQwuGSkQQkmeY06hD1WX0YqvCdU",
+        "source": "The Daily Gazette"
       },
       {
-        "title": "The Aga Khan, philanthropist and spiritual leader, dies aged 88",
+        "title": "2025 Annual Meetings",
         "snippet": "",
-        "url": "https://www.theguardian.com/world/2025/feb/04/the-aga-khan-philanthropist-and-spiritual-leader-dies-aged-88",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfCCx2j1GFKyMbVREGAzhUEMT2ZcIBHcRpTJgxr43NwpiMdXRkSNWegKapU74",
-        "source": "The Guardian"
+        "url": "https://www.couriernews.com/sports/2025-annual-meetings/image_34e7d42c-6470-5600-b46b-5f27cb1c3456.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKWUAzdYqeRpRSIMw8mrHMctdpA9-XJwkKmq_OaL76Fc45PkyrSn6-IyT6d2M",
+        "source": "couriernews.com"
       }
     ]
   },
   {
-    "title": "atletico madrid",
+    "title": "luzern fc",
     "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 13:00:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 11:40:00 -0700",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyivC8GSDMdvsa8yk_FbhyyhNRI7S2PAZYuAh6kBrunVXBCjXRESc8bZ35xV4",
-    "picture_source": "The Guardian",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoBZRD_ZhUvdB_t8REDe70N0NepV_D90Gcr3S7MBmBNq-e12gnheepFDNItzo",
+    "picture_source": "Neue Zürcher Zeitung",
     "news_items": [
       {
-        "title": "European football: Simeone’s son keeps in-form Atlético Madrid on trophy trail",
+        "title": "Mehr Publikum, Geld und Europacup: Der FC St. Gallen floriert. Und bleibt trotzdem stecken",
         "snippet": "",
-        "url": "https://www.theguardian.com/football/2025/feb/04/european-football-simeone-son-atletico-madrid-psg-stuttgart-bologna-atalanta",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyivC8GSDMdvsa8yk_FbhyyhNRI7S2PAZYuAh6kBrunVXBCjXRESc8bZ35xV4",
-        "source": "The Guardian"
+        "url": "https://www.nzz.ch/sport/fussball/der-fc-st-gallen-floriert-und-bleibt-trotzdem-stecken-egal-wer-coach-ist-ld.1878745",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoBZRD_ZhUvdB_t8REDe70N0NepV_D90Gcr3S7MBmBNq-e12gnheepFDNItzo",
+        "source": "Neue Zürcher Zeitung"
       },
       {
-        "title": "talkSPORT betting tips – Best football bets and expert advice for Tuesday 4 February...",
+        "title": "«St.Gallen hat die letzte Chance verpasst»",
         "snippet": "",
-        "url": "https://talksport.com/football/2875653/betting-tips-best-football-bets-tuesday-4-february/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2a8hYODkgZ_biwf1BGV2byWWQ2EXU4xquxfo9pwwqMxD_T60UkKBZLGPi2Do",
-        "source": "talkSPORT"
+        "url": "https://www.bluewin.ch/de/sport/super-league/mehmedi-stgallen-hat-die-letzte-chance-verpasst-2637733.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStaYS8ipnkrYRn9As03WE59HroWzpEiR3h_VYJfIZlifLczghlGSfM8O_DTAw",
+        "source": "blue News"
       },
       {
-        "title": "Atletico vs Getafe: Match Preview and Prediction",
+        "title": "Basel setzt sich an die Tabellenspitze – kein Sieger zwischen Luzern und St. Gallen",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2351119-atletico-vs-getafe-match-preview-and-prediction",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPO0eeIi2ZU9YUWgOoSDF5x-nbApEjVIzR43hOqOINciGjBv7ILGM4GxlGmsk",
-        "source": "FootBoom"
+        "url": "https://www.srf.ch/play/tv/super-league---highlights/video/basel-setzt-sich-an-die-tabellenspitze---kein-sieger-zwischen-luzern-und-st--gallen?urn=urn:srf:video:16f5bd19-796b-4897-9ab8-25ee277e826d",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuqVawGcckyPhsp1rYLDSYMNd9D4atAkK-YIvocVRUFoLomBUqPY3Lx1xQSCo",
+        "source": "Schweizer Fernsehen"
       }
     ]
   },
   {
-    "title": "qpr fc",
+    "title": "vipers",
     "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 12:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnWKtxjqJkK-KSpWpm2ctL9sJRXaeano-MLdWDG-Q54px1f2HUTZK8Crv0shI",
-    "picture_source": "QPR FC",
-    "news_items": [
-      {
-        "title": "Related Videos",
-        "snippet": "",
-        "url": "https://www.qpr.co.uk/videos/0_1pzq4h7b",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnWKtxjqJkK-KSpWpm2ctL9sJRXaeano-MLdWDG-Q54px1f2HUTZK8Crv0shI",
-        "source": "QPR FC"
-      },
-      {
-        "title": "Related Videos",
-        "snippet": "",
-        "url": "https://www.qpr.co.uk/videos/0_szrcb0q3",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnWKtxjqJkK-KSpWpm2ctL9sJRXaeano-MLdWDG-Q54px1f2HUTZK8Crv0shI",
-        "source": "QPR FC"
-      },
-      {
-        "title": "Gallery: Harvey's a Hoop",
-        "snippet": "",
-        "url": "https://www.qpr.co.uk/news/2025/february/03/gallery-harvey-vale/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwX5cWYIE4RYqqGAdktBmP1YAEthJx1KusN9t9yxdo9IJgjgPAuvlrO6Tjr0A",
-        "source": "QPR FC"
-      }
-    ]
-  },
-  {
-    "title": "stuttgart fc",
-    "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 12:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpOEg7FjRHRirDIK_4rchCQ21tktzcocFijKEY1HpVu_S5TPwjbR9r543MXaQ",
-    "picture_source": "Bundesliga | official website",
-    "news_items": [
-      {
-        "title": "Stuttgart vs. Augsburg: DFB Cup LIVE!",
-        "snippet": "",
-        "url": "https://www.bundesliga.com/en/bundesliga/news/vfb-stuttgart-augsburg-live-dfb-cup-blog-preview-report-undav-stiller-millot-30793",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpOEg7FjRHRirDIK_4rchCQ21tktzcocFijKEY1HpVu_S5TPwjbR9r543MXaQ",
-        "source": "Bundesliga | official website"
-      },
-      {
-        "title": "Titans hire Travis Smith as defensive run game coordinator with Lori Locust promoted",
-        "snippet": "",
-        "url": "https://www.thederrick.com/ap/sports/titans-hire-travis-smith-as-defensive-run-game-coordinator-with-lori-locust-promoted/article_6e3a617f-3f95-5279-b287-5de4af2bda63.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7M2c0Z7njfR41UCF8KkdiJyCqpTfkDLFAbYiUc_PHIEAvHCO9UjBFhpco1G4",
-        "source": "thederrick.com"
-      },
-      {
-        "title": "Deniz Undav shoots Stuttgart into the German Cup semifinals",
-        "snippet": "",
-        "url": "https://www.goskagit.com/sports/ap/deniz-undav-shoots-stuttgart-into-the-german-cup-semifinals/article_893dd632-80a1-5d0e-861b-dcdd2ce4610a.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNYEd8TJ6VmwOZLD_YLiq33YXCAaR5MayPvD4PaKvW534DlhJQTfy32G2laK4",
-        "source": "goSkagit"
-      }
-    ]
-  },
-  {
-    "title": "clippers vs lakers",
-    "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 21:50:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 11:30:00 -0700",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB7VE-cNkFhb40JdTOizpUEKUvEzG--kEV0uuIJvQNdp7pqGDhia5GT8WYgpc",
-    "picture_source": "Silver Screen and Roll",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuEn1WvIoXJnP8LZlKqfkruvVZjRPfADJuovmEXpRHVttscmuQpK04U-k49hQ",
+    "picture_source": "Kawowo Sports",
     "news_items": [
       {
-        "title": "Player Grades: Lakers vs. Clippers",
+        "title": "AS IT HAPPENED: Vipers 1-0 Lugazi | Uganda Premier League 2024-2025",
         "snippet": "",
-        "url": "https://www.silverscreenandroll.com/2025/2/4/24359227/player-grades-lakers-clippers-box-score-stats-lebron-james-austin-reaves-luka-doncic",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB7VE-cNkFhb40JdTOizpUEKUvEzG--kEV0uuIJvQNdp7pqGDhia5GT8WYgpc",
-        "source": "Silver Screen and Roll"
+        "url": "https://kawowo.com/2025/04/03/live-vipers-vs-lugazi-uganda-premier-league-2024-2025/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuEn1WvIoXJnP8LZlKqfkruvVZjRPfADJuovmEXpRHVttscmuQpK04U-k49hQ",
+        "source": "Kawowo Sports"
       },
       {
-        "title": "LeBron JamesandLuka Doncic's first lakers moment had the NBA in awe",
+        "title": "Uganda Premier League: Vipers back on track, Bright Stars arrest Police in Kavumba derby",
         "snippet": "",
-        "url": "https://www.marca.com/en/basketball/nba/los-angeles-lakers/2025/02/05/67a300abca474192618b4597.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLYfW17UfwRC4GzV-NTui0Ci0XtCIkGxOR6G43lPubJHPnzbA0E9R-aBu-tuw",
-        "source": "Marca.com"
+        "url": "https://www.panafricafootball.com/post/uganda-premier-league-vipers-back-on-track-bright-stars-arrest-police-in-kavumba-derby",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvrkw2Bm4cigukgboErmNdaUvkBcsbYOaMEGhcfeI15eupl7qnsl5PexXdYZ4",
+        "source": "Pan-Africa Football"
       },
       {
-        "title": "Doncic immediately enjoying being one of the Lakers",
+        "title": "Four Talking points ahead of Matchday 22 of the Uganda Premier League",
         "snippet": "",
-        "url": "https://en.as.com/nba/doncic-immediately-enjoying-being-one-of-the-lakers-n/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPtPKOLqstx7iaU-EcvocBSUjsOrASGbLSnxyMOk74sLf53NtEQ03Yi3aUf3I",
-        "source": "Diario AS"
+        "url": "https://kawowo.com/2025/04/02/four-talking-points-ahead-of-match-day-22-of-the-uganda-premier-league/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3ydrrSJWqXL6jGCCRhfA5AJ-dXS1I5GLhADDHqMd1DhZBgp3RE2Xdt3yRaUo",
+        "source": "Kawowo Sports"
       }
     ]
   },
   {
-    "title": "vfb stuttgart vs augsburg",
+    "title": "kkr vs srh",
     "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 12:20:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 07:50:00 -0700",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwF8rz_AYmmDYzutE2CGysP1tCXPgrBhV178qTSwcx2NBG-D0kUfl1oyL-APY",
-    "picture_source": "FAZ",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-lJi3x15NbhQe_tIhIzXkHivGJqN4A6qNlUCGa3BEQuJluslyzG8cJ54Za4U",
+    "picture_source": "Sporty.com",
     "news_items": [
       {
-        "title": "„War kein Leckerbissen“: Stuttgart im Pokal-Halbfinale, Hoeneß träumt",
+        "title": "Venkatesh haunts Sunrisers again as Kolkata win IPL final rematch",
         "snippet": "",
-        "url": "https://www.faz.net/aktuell/sport/fussball/war-kein-leckerbissen-stuttgart-im-pokal-halbfinale-hoeness-traeumt-110276891.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwF8rz_AYmmDYzutE2CGysP1tCXPgrBhV178qTSwcx2NBG-D0kUfl1oyL-APY",
-        "source": "FAZ"
+        "url": "https://sporty.com/news/article/nznt3fa2y84710jf43lld05uq",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-lJi3x15NbhQe_tIhIzXkHivGJqN4A6qNlUCGa3BEQuJluslyzG8cJ54Za4U",
+        "source": "Sporty.com"
       },
       {
-        "title": "VfB im Pokal-Halbfinale! Aber was ist mit Millot?",
+        "title": "\"I Am The Highest Paid Cricketer, Doesn't Mean...\": KKR Star Venaktesh Iyer Silences Critics",
         "snippet": "",
-        "url": "https://www.dasding.de/newszone/dfb-pokal-vfb-stuttgart-halbfinale-millot-verletzung-100.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-KRpWRcOqb2ubjPqvKnYsKTB0QNbkd48a_hnlnP6ttCljt8KpkfrbKR3jdQ",
-        "source": "dasding.de"
+        "url": "https://sports.ndtv.com/ipl-2025/i-am-the-highest-paid-cricketer-doesnt-mean-i-have-to-kkr-star-venaktesh-iyer-silences-critics-8083557",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQopTbzvmU0DAriMTdkGCK0Pd821wpDBpukrnXkBUhFi6MCKctfA_1_a1m3Idk",
+        "source": "NDTV Sports"
       },
       {
-        "title": "FCA scheitert im Viertelfinale: Augsburg verliert gegen Stuttgart",
+        "title": "Arora makes the right impact for Kolkata in rout of Hyderabad",
         "snippet": "",
-        "url": "http://radio-augsburg.de/fca-scheitert-im-viertelfinale-augsburg-verliert-gegen-stuttgart-91283/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWPowBRRdO_XxQUHR9gvJpT07_j8Rn0AOjnJPiyPojpBxKnCHx78IRSkq9W8",
-        "source": "Radio Augsburg"
-      }
-    ]
-  },
-  {
-    "title": "qpr",
-    "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 12:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2mC-8yMDvC4kyujLiTVQQNizSvjZo250xn1CKadzIDdcvcEnc2Z--RPf639Q",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "QPR 2-1 Blackburn Rovers: Colback strike boosts Rs' play-off hopes",
-        "snippet": "",
-        "url": "https://www.bbc.com/sport/football/live/c9qje0y9949t",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2mC-8yMDvC4kyujLiTVQQNizSvjZo250xn1CKadzIDdcvcEnc2Z--RPf639Q",
-        "source": "BBC"
-      },
-      {
-        "title": "London Soccer Shorts…",
-        "snippet": "",
-        "url": "https://www.yellowad.co.uk/london-soccer-shorts-157/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhPOHaAAOwg8RySV4NQwMVwDKGG23qf3xUFsjnW0xuASg5TnAOWVTLvRkfCXE",
-        "source": "Yellow Advertiser"
-      },
-      {
-        "title": "Eustace rues 'sloppy goals' in defeat at QPR",
-        "snippet": "",
-        "url": "https://sports.yahoo.com/eustace-rues-sloppy-goals-defeat-232304509.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTH89BeMwDirqdlM3xxaIyaXA-GcDdTTkNj9yxu_l5rKS5tLT9FG4Fo3mXzjGk",
-        "source": "Yahoo Sports"
-      }
-    ]
-  },
-  {
-    "title": "cristiano ronaldo",
-    "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 20:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSONKOgbwO5xcMNo3IIIApDTCXiOFjwTi9IYBrLVr06QAiY68qcKweKpNCHaZY",
-    "picture_source": "Al Jazeera",
-    "news_items": [
-      {
-        "title": "Ronaldo says he is better than Messi in greatest football player debate",
-        "snippet": "",
-        "url": "https://www.aljazeera.com/sports/2025/2/4/ronaldo-says-he-is-better-than-messi-in-greatest-football-player-debate",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSONKOgbwO5xcMNo3IIIApDTCXiOFjwTi9IYBrLVr06QAiY68qcKweKpNCHaZY",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "'I am the best player in history: I have never seen anyone better than me'",
-        "snippet": "",
-        "url": "https://www.besoccer.com/new/i-am-the-best-player-in-history-i-have-never-seen-anyone-better-than-me-1346690",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzJLwQXhMStkFkOGh_isszoNN-1A6QtvhcedaG6VYb95KgxDAoJ6kzwYj90bs",
-        "source": "BeSoccer"
-      },
-      {
-        "title": "Cristiano Ronaldo turns 40; declares he’s the 'best' and 'the most complete' player ever",
-        "snippet": "",
-        "url": "https://www.hindustantimes.com/htcity/cristiano-ronaldo-turns-40-declares-he-s-the-best-and-the-most-complete-player-ever-101738737215090.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbSxNdc2OTdn8aq6Hqton3te6N0SYH_hU99JYGuCeFsxv5uvkqdpmpKB0jGV0",
-        "source": "Hindustan Times"
-      }
-    ]
-  },
-  {
-    "title": "download",
-    "link": "https://trends.google.com/trending/rss?geo=UG",
-    "pubdate": "Tue, 4 Feb 2025 14:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8pjdam32jEEFs4Caopz0FQi3iIaqmEarooExwEjgpxmY_JMhp_8LkHGl7nU",
-    "picture_source": "Brookings",
-    "news_items": [
-      {
-        "title": "What’s next for TikTok? | The TechTank Podcast",
-        "snippet": "",
-        "url": "https://www.brookings.edu/articles/whats-next-for-tiktok-the-techtank-podcast/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8pjdam32jEEFs4Caopz0FQi3iIaqmEarooExwEjgpxmY_JMhp_8LkHGl7nU",
-        "source": "Brookings"
-      },
-      {
-        "title": "THE TIK TOK CRISIS",
-        "snippet": "",
-        "url": "https://www.thisdaylive.com/index.php/2025/02/05/the-tik-tok-crisis/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU4WvZP9z7HeWrZvbzI7H6NGJe1Rv4b1S_Ljcv8cu-5ksGVSyhMHVUfCnrOvo",
-        "source": "THISDAYLIVE"
-      },
-      {
-        "title": "Tik Tok’s Absence & Borrowed Time",
-        "snippet": "",
-        "url": "https://www.theslateonline.com/article/2025/02/tik-toks-absence-borrowed-time",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGGNkKvRnsvoGZdmlKKiuQBtii_30gNyNSCZA0grMQgKsHXyadFkFE65tTXWA",
-        "source": "The Slate Online"
+        "url": "https://www.reuters.com/sports/cricket/arora-makes-right-impact-kolkata-rout-hyderabad-2025-04-04/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPnCXk9aOMFUwSvdnqeRu-p1cJ3J32LQ0YN2tIb9GNNbsBw3J5QABPb7T1tI",
+        "source": "Reuters"
       }
     ]
   }

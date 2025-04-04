@@ -1,311 +1,289 @@
 [
   {
-    "title": "сталкинг",
+    "title": "шәріп серік",
     "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 22:50:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 22:50:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "погода астана",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Thu, 3 Apr 2025 19:30:00 -0700",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wlJY9oi2axd3DfGlUDhRYtHVBrtBuntlNRsnFeIbRH-qP9bwaPkfwZOBkCg",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4BHNpFtutbJiCDyk5QIWunBuE5eUQ2gjqIXXxXyvb6Fr-fLCe3RgNcOuuvIk",
     "picture_source": "Tengrinews",
     "news_items": [
       {
-        "title": "Сталкинг в Казахстане может стать уголовным проступком",
+        "title": "Мороз, ливень и гроза: погода в Казахстане в выходные",
         "snippet": "",
-        "url": "https://tengrinews.kz/kazakhstan_news/stalking-v-kazahstane-mojet-stat-ugolovnyim-prostupkom-561643/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wlJY9oi2axd3DfGlUDhRYtHVBrtBuntlNRsnFeIbRH-qP9bwaPkfwZOBkCg",
+        "url": "https://tengrinews.kz/kazakhstan_news/moroz-liven-i-groza-pogoda-v-kazahstane-v-vyihodnyie-566858/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4BHNpFtutbJiCDyk5QIWunBuE5eUQ2gjqIXXxXyvb6Fr-fLCe3RgNcOuuvIk",
         "source": "Tengrinews"
       },
       {
-        "title": "Наказание за сталкинг хотят ввести в Казахстане",
+        "title": "Ливни с градом и жара до +25°C: прогноз погоды по Астане, Алматы и Шымкенту на выходные",
         "snippet": "",
-        "url": "https://www.nur.kz/society/2218074-nakazanie-za-stalking-hotyat-vvesti-v-kazahstane/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBBa5IeGotxuQ-x998L787usnqSIurkPK-TFL2jxx8N15WaLAHH21TezZ8tHI",
-        "source": "NUR.KZ"
-      },
-      {
-        "title": "Сталкинг в Казахстане станет уголовно наказуемым",
-        "snippet": "",
-        "url": "https://online.zakon.kz/Document/?doc_id=33301431",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUIGFfc-iYgIhy8YE8XS0I1yP5v6bAZY_HU-SY9TJAegVdBxtWs2DDVS-UhWc",
+        "url": "https://www.zakon.kz/obshestvo/6472704-livni-s-gradom-i-zhara-do-25C-prognoz-pogody-po-astane-almaty-i-shymkentu-na-vykhodnye.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDmWhRDNzdz8-pPaIOV1wbANhYJRcA9sN5EuW58Hq2o2RfqM_jkbZpKzPojGs",
         "source": "Новости Zakon.kz"
+      },
+      {
+        "title": "Дожди с грозами ожидаются на севере Казахстана",
+        "snippet": "",
+        "url": "https://www.inform.kz/ru/dozhdi-sgrozami-ozhidayutsya-na-severe-kazahstana-37bf3c",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYfdBoWXYEggW6wHRRM3DL6JzxhX9ojwxR8Qr3SmS4XNS2wsGiNw50RypCoI",
+        "source": "Казинформ"
       }
     ]
   },
   {
-    "title": "ufc fight night шара буллет",
+    "title": "лейкерс – уорриорз",
     "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 16:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDb3B_giKOor3m07rk75DgOwLW-j19ZAJwnnyO5OW51ej4xXa9Z8z5_k82tsU",
-    "picture_source": "Vesti.kz",
-    "news_items": [
-      {
-        "title": "Рахмонов узнал имя нового конкурента на титул UFC: это после сенсации",
-        "snippet": "",
-        "url": "https://vesti.kz/ufc/rahmonov-uznal-imya-novogo-konkurenta-titul-ufc-posle-358259/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDb3B_giKOor3m07rk75DgOwLW-j19ZAJwnnyO5OW51ej4xXa9Z8z5_k82tsU",
-        "source": "Vesti.kz"
-      },
-      {
-        "title": "\"Дагестанскому казаху\" вынесли суровый вердикт после сенсационного поражения в UFC",
-        "snippet": "",
-        "url": "https://sportarena.kz/mma-ufc/1024909-dagestanskomu-kazakhu-vynesli-surovyy-verdikt-posle-sensatsionnogo-porazheniya-v-UFC.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvLwHAsTGw5LaBC8L8NYPxM-HON1lJYp_AHGbPPkty2BmntbEgak4DWYtZrp8",
-        "source": "sportarena.kz"
-      },
-      {
-        "title": "Российский боец Шара Буллет может провести следующий поединок в UFC летом-осенью",
-        "snippet": "",
-        "url": "https://sportmail.ru/news/mma/64707191/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvMdN5mkXZeUiycPmKHLHE676T1vPBCk4oG57eQLpJxSsZX7xrCGacVVaHd_c",
-        "source": "Спорт Mail"
-      }
-    ]
-  },
-  {
-    "title": "эспаньол",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 16:00:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 20:50:00 -0700",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw1y--qAm0FtCLIUfn1Z345zLR9UxdIcEv-ggtO_zIreEzAPUi-ZOsEuJtfGU",
-    "picture_source": "Vesti.kz",
-    "news_items": [
-      {
-        "title": "\"Это было некрасиво\". Перед Мбаппе извинились после громкой сенсации",
-        "snippet": "",
-        "url": "https://vesti.kz/spain/eto-nekrasivo-mbappe-izvinilis-gromkoy-sensatsii-358226/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw1y--qAm0FtCLIUfn1Z345zLR9UxdIcEv-ggtO_zIreEzAPUi-ZOsEuJtfGU",
-        "source": "Vesti.kz"
-      },
-      {
-        "title": "\"Реал\" сенсационно проиграл в скандальном матче Ла Лиги против \"Эспаньола\"",
-        "snippet": "",
-        "url": "https://www.zakon.kz/sport/6465650-real-sensatsionno-proigral-v-skandalnom-matche-la-ligi-protiv-espanola.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRPPyCULUcxOl1LF0F8wfaNUIYZ1W16mu84TomASjspQlAPF9kCVXcJjBe2M4",
-        "source": "Новости Zakon.kz"
-      },
-      {
-        "title": "Двух судей отстранили в Испании после матча «Эспаньол» – «Реал»",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/35/1005840826_dvuh_sudey_otstranili_v_ispanii_posle_matcha_espanol__real",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3cmeoWYku_t1uNJrhygASusCMnvSokPdBFoJSpSxNOIXfFHCy-O2x1Nt77lI",
-        "source": "Евро-Футбол"
-      }
-    ]
-  },
-  {
-    "title": "клипперс – лейкерс",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe5rjAh-xpaH3YuUqiBHmvC8btBmu7z-ksrAVSpkRbI6qGnj_disOG3AONWRw",
-    "picture_source": "Спорт Mail",
-    "news_items": [
-      {
-        "title": "Лука Дончич предстал на матче «Клипперс» — «Лейкерс» в качестве игрока гостей",
-        "snippet": "",
-        "url": "https://sportmail.ru/news/basketball/64738465/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe5rjAh-xpaH3YuUqiBHmvC8btBmu7z-ksrAVSpkRbI6qGnj_disOG3AONWRw",
-        "source": "Спорт Mail"
-      },
-      {
-        "title": "НБА. «Кливленд» уступил «Бостону», «Бруклин» обыграл «Хьюстон» и другие матчи",
-        "snippet": "",
-        "url": "https://www.slamdunk.ru/news/nba/nba-klivlend-ustupil-bostonu-bruklin-obygral-hyuston-i-drugie-matchi-r117685/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhSjVW2tZwsEJgDObNUdHhss75B319SlUyHX2ZgnCHkgA32_sewDIKoWsVRHw",
-        "source": "Slamdunk.ru"
-      },
-      {
-        "title": "Кливленд — Милуоки: прогноз и ставка (к. 1.78) на баскетбол. Сегодня в 03:30",
-        "snippet": "",
-        "url": "https://www.livesport.ru/tips/basketball/2025/02/05/cleveland-cavaliers_bostonceltics/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEfkYp1CoEzxKBSh_bD_ZMPyib-IZpGbA3bOlRYn4XPqlFQGWftZNhj1ghNP8",
-        "source": "LiveSport.Ru"
-      }
-    ]
-  },
-  {
-    "title": "бауыржан исламхан",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 21:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKR3J6fCDgfbN_ipESZMuXUwFIrVvC3jN2JXlHJplcErCBdBLv2m9EgynhLXM",
-    "picture_source": "Vesti.kz",
-    "news_items": [
-      {
-        "title": "\"Ордабасы\" решил судьбу Бауыржана Исламхана",
-        "snippet": "",
-        "url": "https://vesti.kz/kazfutbol/ordabasyi-reshil-sudbu-bauyirjana-islamhana-358342/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKR3J6fCDgfbN_ipESZMuXUwFIrVvC3jN2JXlHJplcErCBdBLv2m9EgynhLXM",
-        "source": "Vesti.kz"
-      },
-      {
-        "title": "Бауыржан Исламхан официально покинул \"Ордабасы\"",
-        "snippet": "",
-        "url": "https://www.nur.kz/sport/football/2217948-bauyrzhan-islamhan-oficialno-pokinul-ordabasy/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbLlXQmgHvLeLkF6wWKKKHOX-wF9r1HYD2FjETlZAwvEm7LPNCt9yN19eQCvQ",
-        "source": "NUR.KZ"
-      },
-      {
-        "title": "ИСТОЧНИК. Исламхан станет игроком “Кайсара”",
-        "snippet": "",
-        "url": "https://sports24.kz/football/news/istochnik-islamhan-stanet-igrokom-kaisara/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_HxSnfXC50_1YqA7_rowV6RmPAW77jWXzETWuN1JheLElcnVS2LQYKIXValY",
-        "source": "FOOTBALLHD.RU"
-      }
-    ]
-  },
-  {
-    "title": "землетрясение на санторини",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 19:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBxHWIw_t7Uv1QUoVeayOyHuHZ6K_x7UJd7L61756CICWySqKfofaqzmoOqfM",
-    "picture_source": "Euronews",
-    "news_items": [
-      {
-        "title": "Жители и туристы покидают остров Санторини, опасаясь сильного землетрясения",
-        "snippet": "",
-        "url": "https://ru.euronews.com/my-europe/2025/02/03/greece-santorini-earthquake",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBxHWIw_t7Uv1QUoVeayOyHuHZ6K_x7UJd7L61756CICWySqKfofaqzmoOqfM",
-        "source": "Euronews"
-      },
-      {
-        "title": "Санторини: страх перед новым пробуждением вулкана",
-        "snippet": "",
-        "url": "https://www.dw.com/ru/santorini-strah-pered-novym-probuzdeniem-vulkana/g-71503730",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8gQKOcl-WT7033yBiVq0TbuOwlLwbFOp-bwnUeM1MGjhf63VrjV9N71EXJEM",
-        "source": "DW"
-      },
-      {
-        "title": "Серия землетрясений на Санторини: школы закрыты, туристы эвакуируются",
-        "snippet": "",
-        "url": "https://www.gismeteo.ru/news/nature/seriya-zemletryasenij-na-santorini-shkoly-zakryty-turisty-evakuirujutsya/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoZDMCXJAn1uAusBMHBQyY765_QRQF-7ZycrARhR60moBYl3WsDIf2WxfRSIk",
-        "source": "Gismeteo"
-      }
-    ]
-  },
-  {
-    "title": "штутгарт – аугсбург",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 17:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvPaEievyeMt2ssH_pJdBApaQy57j_1G3ipDIrH4bBbUvT7khTE_l2uURCaqg",
-    "picture_source": "Soccer365.ru",
-    "news_items": [
-      {
-        "title": "Штутгарт ― Аугсбург: превью и прогноз на матч в рамках 1/4 финала Кубка Германии сезона-2024/25 (03.02.2025)",
-        "snippet": "",
-        "url": "https://soccer365.ru/news/22051/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvPaEievyeMt2ssH_pJdBApaQy57j_1G3ipDIrH4bBbUvT7khTE_l2uURCaqg",
-        "source": "Soccer365.ru"
-      },
-      {
-        "title": "«Штутгарт» стал первым полуфиналистом Кубка Германии",
-        "snippet": "",
-        "url": "https://www.euro-football.ru/article/1003386087/1005840503_shtutgart_stal_pervyim_polufinalistom_kubka_germanii",
-        "picture": "",
-        "source": "Евро-Футбол"
-      },
-      {
-        "title": "Экспресс дня 4 февраля. Ставки и прогнозы на футбол / Кэф дня",
-        "snippet": "",
-        "url": "https://www.livesport.ru/tips/express/2025/02/04/express/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ41_gbWcjZRWxsdutmT8wssHIXqAMRY2BJZDukV3bMFRvMTZT5HGLXPcoORWE",
-        "source": "LiveSport.Ru"
-      }
-    ]
-  },
-  {
-    "title": "саид нурмагомедов",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 16:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNBCvT15aLVyoeC9NracCD8dn7h-N56jopbs5Jqj192He9A77kVxKvKLCgKQs",
-    "picture_source": "Vesti.kz",
-    "news_items": [
-      {
-        "title": "Апсетом с камбэком закончился бой Нурмагомедов - Оливейра в UFC",
-        "snippet": "",
-        "url": "https://vesti.kz/asiada/apsetom-kambekom-zakonchilsya-boy-nurmagomedov-oliveyra-ufc-358200/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNBCvT15aLVyoeC9NracCD8dn7h-N56jopbs5Jqj192He9A77kVxKvKLCgKQs",
-        "source": "Vesti.kz"
-      },
-      {
-        "title": "Биография Саида Нурмагомедова: жизнь и спортивная карьера бойца UFC из Махачкалы",
-        "snippet": "",
-        "url": "https://www.sport-express.net/martial/mma/ufc/reviews/said-nurmagomedov-zhizn-i-sportivnaya-karera-boyca-ufc-iz-dagestana-rodstvennik-ili-net-habiba-nurmagomedova-2295061/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyje5JCWsP9IzYSLB8jwXH2hZUyMAMaQ6i_x0za-psyZRUm9b26Jky_qI5VhI",
-        "source": "sport-express.ru"
-      },
-      {
-        "title": "Главный кард турнира в Саудовской Аравии",
-        "snippet": "",
-        "url": "https://alsport.kz/other/glavnyi-kard-tyrnira-v-saydovskoi-aravii/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDN1LI8NUrDImbJ-iRGOjOzOstef6tO6EnIaJwq7xo_NBsWOubH41IAt9Bx0s",
-        "source": "AlSport.kz"
-      }
-    ]
-  },
-  {
-    "title": "амур – барыс",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 16:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTjezu271ETu_htZemRFQi2gYsOAKFsNavLX78yLmTIAB3zltG7GFeEfy0UVI",
-    "picture_source": "sport-express.ru",
-    "news_items": [
-      {
-        "title": "«Барыс» позорит КХЛ. Казахстану не нужна наша лига или хоккей в целом?",
-        "snippet": "",
-        "url": "https://www.sport-express.net/hockey/khl/reviews/hk-barys-rezultaty-komandy-prichiny-neudachnoy-igry-i-budet-li-khl-v-kazahstane-2296485/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTjezu271ETu_htZemRFQi2gYsOAKFsNavLX78yLmTIAB3zltG7GFeEfy0UVI",
-        "source": "sport-express.ru"
-      },
-      {
-        "title": "Как выглядит турнирная таблица КХЛ после разгромного поражения \"Барыса\" от прямого конкурента",
-        "snippet": "",
-        "url": "https://sportarena.kz/hockey/1024797-kak-vyglyadit-turnirnaya-tablitsa-kkhl-posle-razgromnogo-porazheniya-barysa-ot-pryamogo-konkurenta.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVfftG0NoQHO5SOtU2qh4KHmSrR9oUP5BZJSC82w_educ4z8xZJgovfFYB4NE",
-        "source": "sportarena.kz"
-      },
-      {
-        "title": "\"Барыс\" разгромно и всухую проиграл \"Амуру\"",
-        "snippet": "",
-        "url": "https://shaiba.kz/news/782943",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHdJfSC6dgx92pHLW5bToD35vTsdSPv9RZLInWdzQ0MIaShYCKKzGvPpwoRPk",
-        "source": "Шайба.kz"
-      }
-    ]
-  },
-  {
-    "title": "бетис",
-    "link": "https://trends.google.com/trending/rss?geo=KZ",
-    "pubdate": "Tue, 4 Feb 2025 16:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMwKZIe7GJqBl2unvqNH-sAglw4V3B2h_waZsWEo5HCxtDFNVkmzjGwynxulU",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEWz-v4JAaI8fuQ29Sbtjmyk6T_yu1dSocpFEw_W5ui4lN5QOLbRrREPKFkE",
     "picture_source": "sportarena.kz",
     "news_items": [
       {
-        "title": "Изгнанный из \"Ман Юнайтед\" футболист получил первую награду в новом клубе",
+        "title": "Команда Стефена Карри обыграла клуб Леброна Джеймса на глазах у Дэвида Бекхэма (видео)",
         "snippet": "",
-        "url": "https://sportarena.kz/football/1024819-izgnannyy-iz-man-yunayted-futbolist-poluchil-pervuyu-nagradu-v-novom-klube.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMwKZIe7GJqBl2unvqNH-sAglw4V3B2h_waZsWEo5HCxtDFNVkmzjGwynxulU",
+        "url": "https://sportarena.kz/nba/1029241-komanda-stefena-karri-obygrala-klub-lebrona-dzheymsa-na-glazakh-u-devida-bekkhema-video.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEWz-v4JAaI8fuQ29Sbtjmyk6T_yu1dSocpFEw_W5ui4lN5QOLbRrREPKFkE",
         "source": "sportarena.kz"
       },
       {
-        "title": "«Бетис» c «Атлетиком» сыграли на равных",
+        "title": "Перехват Леброна Джеймса мог стать решающим в близкой концовке встречи с «Голден Стэйт»",
         "snippet": "",
-        "url": "https://www.euro-football.ru/article/35/1005839245_betis_c_atletikom_syigrali_na_ravnyih",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqYn_q8YRU1bwDwpAgnMJ3FC6D0LbWtsbJNPO5HtCVlPulEtDxs4MMuFZVNP8",
+        "url": "https://sportmail.ru/news/basketball/65574211/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXZMPWTjPBsEff0pqSycbwp-pJoryIvohQECDNj-rW391qMAI_IAyUo9ngn2s",
+        "source": "Спорт Mail"
+      },
+      {
+        "title": "Леброн Джеймс: «Голден Стэйт» всегда добавляет игроков, которые выводят их на другой уровень»",
+        "snippet": "",
+        "url": "https://www.slamdunk.ru/news/nba/lebron-dzheyms-golden-steyt-vsegda-dobavlyaet-igrokov-kotorye-vyvodyat-ih-na-drugoy-uroven-r120385/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRLNCpbCsfiAWO2ccCvQSjwtayK_Om5NQYb0sbfcaBIzJF4j0JaHDS6wfBwvs",
+        "source": "Slamdunk.ru"
+      }
+    ]
+  },
+  {
+    "title": "кхл",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Thu, 3 Apr 2025 17:50:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbBMNO0nPjVdrnjD2xzjJi6vMU_5JptLzTEoJlP8SRVL2uOyyhtW3EBzrhQtU",
+    "picture_source": "sportarena.kz",
+    "news_items": [
+      {
+        "title": "\"Барыс\" потерпел очередное поражение в чемпионате КХЛ 3х3",
+        "snippet": "",
+        "url": "https://sportarena.kz/hockey/1029252-barys-poterpel-ocherednoe-porazhenie-v-chempionate-kkhl-3kh3.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbBMNO0nPjVdrnjD2xzjJi6vMU_5JptLzTEoJlP8SRVL2uOyyhtW3EBzrhQtU",
+        "source": "sportarena.kz"
+      },
+      {
+        "title": "\"Барыс\" с победы начал выступление в туре нового чемпионата КХЛ",
+        "snippet": "",
+        "url": "https://www.nur.kz/sport/hockey/2232840-barys-s-pobedy-nachal-vystuplenie-v-ture-novogo-chempionata-khl/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFQAozieRhNUg3XtV8G3KjMmoSHNTzQUzAbcXzmCp6Kb9gLilGeJi6_ufsJc",
+        "source": "NUR.KZ"
+      },
+      {
+        "title": "«Барыс» потерпел поражение от «Сибири»",
+        "snippet": "",
+        "url": "https://sport-pulse.kz/barys-poterpel-porazhenie-ot-sibir/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYuJoec6bybgUnH-EUqqa2vs8YrLKsDJzLwbS4LNSLfIh7rmFZRt3SVoZtZQo",
+        "source": "Sport Pulse"
+      }
+    ]
+  },
+  {
+    "title": "милан интер",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Thu, 3 Apr 2025 16:10:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgHniKWdCvR-RcV6EMG-YQxwdoil1ELebSCZfApitLP2Oh6vgX_Yt8Halqwaw",
+    "picture_source": "Soccer.ru",
+    "news_items": [
+      {
+        "title": "«Милан» и «Интер» не выявили победителя в первом матче 1/2 Кубка Италии",
+        "snippet": "",
+        "url": "https://m.soccer.ru/news/1403740/milan-inter",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgHniKWdCvR-RcV6EMG-YQxwdoil1ELebSCZfApitLP2Oh6vgX_Yt8Halqwaw",
+        "source": "Soccer.ru"
+      },
+      {
+        "title": "Гвардиола и правда собрался в «Милан»? На второй план отошло даже дерби с «Интером»",
+        "snippet": "",
+        "url": "https://www.sport-express.net/football/italy/reviews/hosep-gvardiola-mozhet-vozglavit-milan-chto-ob-etom-govoryat-v-italii-2315119/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxYhBBEpstWd2rcjkdBK48sKWnO7DVXlRopTNbD0SAUi-ydvMXYQGlUKP-KRg",
+        "source": "sport-express.ru"
+      },
+      {
+        "title": "Кубок Италии. Ничья в первом матче миланского дерби.",
+        "snippet": "",
+        "url": "https://football.kulichki.net/worldnews/news.htm?832969-Kubok-Italii-Nichja-v-pervom-matche-milanskogo-derbi",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZ5quKDA8Cqv2Ome3yC68skZjdMum9SPldcId-12VVi_IOjGp4b9G-QUcleeU",
+        "source": "Футбол на Куличках"
+      }
+    ]
+  },
+  {
+    "title": "овечкин",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Thu, 3 Apr 2025 16:20:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuIyngR2Yi6Zuwu01ulEBKtSHphrpPtKEAIpuamNkU7_gKD5NhRd01phCN62A",
+    "picture_source": "Sportbox",
+    "news_items": [
+      {
+        "title": "Овечкин заставил НХЛ пойти на беспрецедентные меры. Гретцки придется на это смотреть!",
+        "snippet": "",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Hokkej/NHL/spbnews_NI2187680_Ovechkin_zastavil_NKhL_pojti_na_besprecedentnyje_mery_Gretcki_pridetsa_na_eto_smotret",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuIyngR2Yi6Zuwu01ulEBKtSHphrpPtKEAIpuamNkU7_gKD5NhRd01phCN62A",
+        "source": "Sportbox"
+      },
+      {
+        "title": "В НХЛ ожидают, что Гретцки будет присутствовать на следующем матче «Вашингтона»",
+        "snippet": "",
+        "url": "https://sportmail.ru/news/hockey-nhl/65565109/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_g9xkS7gXRY0zxZKvPYtp7bPADi2l5UH3QzKKxyKoUSqNZp073ndFnHZPiV0",
+        "source": "Спорт Mail"
+      },
+      {
+        "title": "Овечкин в течение недели может улучшить сразу два рекорда Гретцки",
+        "snippet": "",
+        "url": "https://www.zakon.kz/sport/6472570-ovechkin-v-techenie-nedeli-mozhet-uluchshit-srazu-dva-rekorda-grettski.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHmBth2oUJgOLOsFMbxTUY0DrSZxsben5Kmfa2NpUJq0K7mXkMz6gPQriQKBA",
+        "source": "Новости Zakon.kz"
+      }
+    ]
+  },
+  {
+    "title": "учебный год",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Thu, 3 Apr 2025 16:20:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqWAwKUFCspYA56_86j9CwGyTSQ27ovSlShYpxvgoSiKveRMAQBnvE6vsecn4",
+    "picture_source": "NUR.KZ",
+    "news_items": [
+      {
+        "title": "Когда закончится учебный год для казахстанских школьников",
+        "snippet": "",
+        "url": "https://www.nur.kz/society/2231993-kogda-zakonchitsya-uchebnyy-god-dlya-kazahstanskih-shkolnikov/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqWAwKUFCspYA56_86j9CwGyTSQ27ovSlShYpxvgoSiKveRMAQBnvE6vsecn4",
+        "source": "NUR.KZ"
+      },
+      {
+        "title": "Финальный звонок: дата окончания учебного года в Казахстане",
+        "snippet": "",
+        "url": "https://www.lada.kz/kazakhstan-news/136601-finalnyi-zvonok-data-okonchaniia-uchebnogo-goda-v-kazakhstane.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2ReWJ0K2QJutYAA1FevHpkIohDZTB30Hb6swZo7g7f6MhgfMRFesAUr9QHw",
+        "source": "Новости Актау и Мангистауской области - ЛАДА.kz"
+      },
+      {
+        "title": "Учебный год - 2025: объявлена дата окончания. Вернут ли 1 июня?",
+        "snippet": "",
+        "url": "https://tengrinews.kz/newseducation/uchebnyiy-god-2025-obyyavlena-data-okonchaniya-vernut-1-566482/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDlToW7zYb91gMB9zSQAcYJ6y820EqZHW-uMePv7_ZTniU7TQOFnLZ78RzrDQ",
+        "source": "Tengrinews"
+      }
+    ]
+  },
+  {
+    "title": "эндрик фелипе",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Thu, 3 Apr 2025 16:20:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5znAVeG9M3j9ZxDUAfBAlHB4eUmlzFlFNQC5PS1X_rEJvLELX_xR9-zvYCBw",
+    "picture_source": "Vesti.kz",
+    "news_items": [
+      {
+        "title": "\"Реал\" нашел нового Роналду: ему 18 лет и стоит 20 миллиардов",
+        "snippet": "",
+        "url": "https://vesti.kz/spain/real-nashel-novogo-ronaldu-emu-18-let-i-stoit-20-milliardov-361161/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5znAVeG9M3j9ZxDUAfBAlHB4eUmlzFlFNQC5PS1X_rEJvLELX_xR9-zvYCBw",
+        "source": "Vesti.kz"
+      },
+      {
+        "title": "Эндрик — о своём будущем: «Я люблю «Реал»",
+        "snippet": "",
+        "url": "https://www.euro-football.ru/article/35/1005884762_endrik__o_svoem_buduschem_ya_lyublyu_real",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnf8VGDCIESm7Tm7fMf72XVTEulReKTAbw8HHUm9LgomLydQ7ANupCXuPFEQ",
         "source": "Евро-Футбол"
       },
       {
-        "title": "Беренгер становиться новым лидером",
+        "title": "Эндрик делится секретом своего гениального гола с помощью легенды Реала",
         "snippet": "",
-        "url": "https://sportandbets.com/novosti/berenger_stanovitsya_novym_liderom.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwTMEMuxEMaVORUcrOYlq3TTtKvt1Qf79fiLUxBI8U_y20n8PRShTQ3NXimwc",
+        "url": "https://sportandbets.com/novosti/endrik_delitsya_sekretom_svoego_genialnogo.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPRNQqjrqWvE5Pd_-3GghC-CCiTl6Gb6d1wQvQxZqHDVsQrmv7hz5LMP2jwic",
         "source": "sportandbets.com"
+      }
+    ]
+  },
+  {
+    "title": "прием документов в 1 класс 2025",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Thu, 3 Apr 2025 16:10:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQltmXJ5nn4Wia6A80ABPzWsIqDiRwmKL4r5JLlwtbJBuLd1a5AkbfiRHcK9iE",
+    "picture_source": "Устинка",
+    "news_items": [
+      {
+        "title": "В АО \"НИТ\" объяснили причину сбоя на eGov",
+        "snippet": "",
+        "url": "https://ustinka.kz/kazakhstan/society/107816.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQltmXJ5nn4Wia6A80ABPzWsIqDiRwmKL4r5JLlwtbJBuLd1a5AkbfiRHcK9iE",
+        "source": "Устинка"
+      },
+      {
+        "title": "«Мест в гимназии нет». Почему родители первоклассников торопились оформить ребенка именно в первый день",
+        "snippet": "",
+        "url": "https://alau.kz/mest-v-gimnazii-net-pochemu-roditeli-pervoklassnikov-toropilis-oformit-rebenka-imenno-v-pervyj-den/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo-jmaIA8VWLt8PMqEzEyAchQH10Rub65iapValRceAjPf305IC3HpTXHozu0",
+        "source": "Алау"
+      },
+      {
+        "title": "В гимназии им. Горького в Костанае заняты все места для первоклассников",
+        "snippet": "",
+        "url": "https://top-news.kz/v-gimnazii-im-gorkogo-v-kostanae-zanjaty-vse-mesta-dlja-pervoklassnikov/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnbhD6D_AyzvG4CgBKNB2kmu-aDNbVfwwBUK4PeJkkFZd3PX_vh2tNGJqKcBc",
+        "source": "Газета Наш Костанай"
+      }
+    ]
+  },
+  {
+    "title": "кубок германии по футболу",
+    "link": "https://trends.google.com/trending/rss?geo=KZ",
+    "pubdate": "Thu, 3 Apr 2025 16:00:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNulnKAvvrf1lW-JdnnVOmq128dlibO1rDvV5BYglaCUMwcl_TX2-Ai2nZ7dU",
+    "picture_source": "Soccer.ru",
+    "news_items": [
+      {
+        "title": "«Штутгарт» обыграл «РБ Лейпциг» и стал вторым финалистом Кубка Германии",
+        "snippet": "",
+        "url": "https://m.soccer.ru/news/1403738/shtutgart-rb-leypcig",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNulnKAvvrf1lW-JdnnVOmq128dlibO1rDvV5BYglaCUMwcl_TX2-Ai2nZ7dU",
+        "source": "Soccer.ru"
+      },
+      {
+        "title": "«Штутгарт» вышел в финал Кубка Германии впервые с 2013-го и сыграет с «Арминией» из 3-й лиги",
+        "snippet": "",
+        "url": "https://sportmail.ru/news/football/65553698/?from=swap&swap=3",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhF3KHyJ9iRPOQgrCQRdGOSSqFPhzBQz7LjMmy8bPyTSMTcYWhEwEtZ8wwN4",
+        "source": "Спорт Mail"
+      },
+      {
+        "title": "Ни Баварии с Байером, ни Боруссии Д с РБ Лейпциг. Определились финалисты Кубка Германии",
+        "snippet": "",
+        "url": "https://www.ua-football.com/foreign/germany/1743629770-ni-bavarii-s-bayerom-ni-borussii-d-s-rb-leypcig-opredelilis-finalisty-kubka-germanii.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnIhtee_fNFw0ZtsKmiCAoCw-qFrKtmrZTzhm7tkSO5T4GMyx6p0xfJn35FME",
+        "source": "Ua-football.com"
       }
     ]
   }

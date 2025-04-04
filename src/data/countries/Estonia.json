@@ -1,63 +1,143 @@
 [
   {
-    "title": "bob dylan",
+    "title": "märt visnapuu",
     "link": "https://trends.google.com/trending/rss?geo=EE",
-    "pubdate": "Tue, 4 Feb 2025 09:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmhqdQqC53il19sAtwaAKhrgjN51NwH_9cfWxIDvys5lLres8p9WX3rPA0tEg",
-    "picture_source": "Rolling Stone",
+    "pubdate": "Thu, 3 Apr 2025 07:40:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "weather",
+    "link": "https://trends.google.com/trending/rss?geo=EE",
+    "pubdate": "Thu, 3 Apr 2025 20:40:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv18YIF_iI4-L68ODY0fznMItLmbGHaZqqYFNp22s51QOEADifpiehgt7il7E",
+    "picture_source": "Yahoo",
     "news_items": [
       {
-        "title": "Willie Nelson, Bob Dylan Announce 2025 Outlaw Music Festival Summer Tour",
+        "title": "Weather forecast: Saturday rain on the way for Rochester",
         "snippet": "",
-        "url": "https://www.rollingstone.com/music/music-news/bob-dylan-willie-nelson-2025-outlaw-music-festival-tour-dates-1235253589/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmhqdQqC53il19sAtwaAKhrgjN51NwH_9cfWxIDvys5lLres8p9WX3rPA0tEg",
-        "source": "Rolling Stone"
+        "url": "https://www.yahoo.com/news/weather-forecast-saturday-rain-way-092105609.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv18YIF_iI4-L68ODY0fznMItLmbGHaZqqYFNp22s51QOEADifpiehgt7il7E",
+        "source": "Yahoo"
       },
       {
-        "title": "Willie Nelson, Bob Dylan reunite (again) for Outlaw Music Festival 10th anniversary",
+        "title": "Get the umbrella-illa-illa out-out-out-out-out-out. Soggy weekend ahead.",
         "snippet": "",
-        "url": "https://www.aol.com/news/willie-nelson-bob-dylan-reunite-171433798.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6XNp6WUY55Akq3o5u6MdZQqTndgh3xU3PcewiAu0cwBJYKNlbV8veoxvpnpo",
-        "source": "AOL.com"
+        "url": "https://www.mytwintiers.com/news-cat/get-the-umbrella-illa-illa-out-out-out-out-out-out-soggy-weekend-ahead/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAE8UD6TUnYf80wqwOCaOPbf9qXK52kE9TCs0h59naCPwnrS5Aq1WDtuvO7w",
+        "source": "WETM"
       },
       {
-        "title": "Willie Nelson, Bob Dylan, Sheryl Crow coming to Connecticut for Outlaw Festival",
+        "title": "A wet weekend is coming our way",
         "snippet": "",
-        "url": "https://www.nbcconnecticut.com/entertainment/entertainment-news/willie-nelson-bob-dylan-sheryl-crow-coming-to-connecticut-for-outlaw-festival/3490000/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt2KlJbxH7KfB3tBq759PPgT4NS9j8AEztY5vpW0NGQyRhFQpLZ64A4bl-EqU",
-        "source": "NBC Connecticut"
+        "url": "https://www.wbng.com/2025/04/03/wet-weekend-is-coming-our-way/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqQyHV29UQwDWHtTPLMc6Ex1rqZ0ebYCY6_FwwwWbtVwvcanUIWw0RsZIoEbM",
+        "source": "WBNG"
       }
     ]
   },
   {
-    "title": "örebro",
+    "title": "delfi",
     "link": "https://trends.google.com/trending/rss?geo=EE",
-    "pubdate": "Tue, 4 Feb 2025 09:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc-teeI-CSyJSz70ACV5MM6dTzZjwi5bMHLqpMMDrOZpI5i1TtxN2atq5wTmc",
-    "picture_source": "Aftonbladet",
+    "pubdate": "Thu, 3 Apr 2025 20:30:00 -0700",
+    "approx_traffic": 200,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "weather tomorrow",
+    "link": "https://trends.google.com/trending/rss?geo=EE",
+    "pubdate": "Thu, 3 Apr 2025 10:50:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIXH8wfewLARn0IO7mB8svFHruCS7Mc3nVzD499dhQO99GrEkzlJdz7-j77Ck",
+    "picture_source": "CNN",
     "news_items": [
       {
-        "title": "Lasse, 62, hörde skotten – gömde sig i lunchrummet på Risbergska",
+        "title": "Extreme rainfall brings potentially deadly flooding to parts of central US already slammed by storms",
         "snippet": "",
-        "url": "https://www.aftonbladet.se/nyheter/a/25gJX4/lasse-62-horde-skotten-gomde-sig-i-lunchrummet-pa-risbergska",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc-teeI-CSyJSz70ACV5MM6dTzZjwi5bMHLqpMMDrOZpI5i1TtxN2atq5wTmc",
-        "source": "Aftonbladet"
+        "url": "https://www.cnn.com/2025/04/04/weather/extreme-rainfall-deadly-flooding-central-us-hnk/index.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIXH8wfewLARn0IO7mB8svFHruCS7Mc3nVzD499dhQO99GrEkzlJdz7-j77Ck",
+        "source": "CNN"
       },
       {
-        "title": "Polisen: Inget ideologiskt motiv bakom skjutningen",
+        "title": "More storms threaten central US with 'catastrophic' flooding: Live updates",
         "snippet": "",
-        "url": "https://www.dn.se/sverige/polisen-inget-ideologiskt-motiv-bakom-skjutningen/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhr0s2kgUVI4fykuyIWXAxUJIdojstgL0NWlwSUO1X-z6ss63I_2ZHCtY_v2A",
-        "source": "DN"
+        "url": "https://www.usatoday.com/story/news/nation/2025/04/04/storm-forecast-tornadoes-flooding-thunderstorm/82838697007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaBgFJbLlK3OC2Vq_knn_U_iBlERWxK8Pwf0y_FH50bxweRUa2luOa1AxE6J8",
+        "source": "USA Today"
       },
       {
-        "title": "Här är mannen som pekas ut för massakern",
+        "title": "Tornadoes Sweep Across the South and Midwest, Killing at Least 7",
         "snippet": "",
-        "url": "https://www.na.se/2025-02-05/har-ar-mannen-som-pekas-ut-for-massakern/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjYpJuKSlWuD_I4Kz4GTd_JxQ-6n3wv_cPzP8JUXr138Y3kFWfVYnFEhjw7g",
-        "source": "Nerikes Allehanda"
+        "url": "https://www.nytimes.com/2025/04/03/us/tornadoes-south-midwest.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6Qpa8V-n3HEYHawufZanLWxU8GGZcqrztBuq3MZMqJ6KfM--v0VJU8ImjP1o",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "title": "apple stock",
+    "link": "https://trends.google.com/trending/rss?geo=EE",
+    "pubdate": "Thu, 3 Apr 2025 08:00:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrWlLUOrP-X3T1boF47vneCc25T1prydLmMc72bbctwDWeliuHzWyHnSrm-L4",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "What next for products like the iPhone made in China? And more of your questions answered",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/c5y5rzvd5k7o",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrWlLUOrP-X3T1boF47vneCc25T1prydLmMc72bbctwDWeliuHzWyHnSrm-L4",
+        "source": "BBC"
+      },
+      {
+        "title": "Apple sheds over $300 billion in tariff-fueled sell-off, notches worst drop since March 2020",
+        "snippet": "",
+        "url": "https://finance.yahoo.com/news/apple-sheds-over-300-billion-in-tariff-fueled-sell-off-notches-worst-drop-since-march-2020-202710020.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmnOndALA3ymlFht1vsEyHd7X0TG5YLJQ_CuRiAKf-ymMJNvxoCBd807bCpAA",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "A $2,300 Apple iPhone? Trump tariffs could make that happen.",
+        "snippet": "",
+        "url": "https://www.reuters.com/technology/will-trump-tariffs-make-apple-iphones-more-expensive-2025-04-03/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRdsutmzrVZ6fbap0fyiupG10t11VwqWiQMNf5tjNTvpw2n4TFGo4nA188Keg",
+        "source": "Reuters"
+      }
+    ]
+  },
+  {
+    "title": "adolescence",
+    "link": "https://trends.google.com/trending/rss?geo=EE",
+    "pubdate": "Thu, 3 Apr 2025 10:00:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeK87mzR4ngQ7NV469bxx1RMjU39UVQibqBWkdx5zH8y1U5d5wl4QK7JIi7-U",
+    "picture_source": "The Guardian",
+    "news_items": [
+      {
+        "title": "Yes, we should celebrate Adolescence – but it comes at a cost to the UK TV industry | Jane Martinson",
+        "snippet": "",
+        "url": "https://www.theguardian.com/commentisfree/2025/apr/03/adolescence-netflix-uk-tv-industry-british-actors-netflix",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeK87mzR4ngQ7NV469bxx1RMjU39UVQibqBWkdx5zH8y1U5d5wl4QK7JIi7-U",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Adolesence: Teenager dissects Netflix drama with worried parents",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/c93nzv49dg2o",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZ4dWNg4SheHPmAOiad73cKzDslmQjy0ugzf0EjXlsMPZOS2Ms7Z2_WkQ8pA",
+        "source": "BBC"
+      },
+      {
+        "title": "Opinion | Tate-Pilled Boys Are a Problem for Schools",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2025/03/29/opinion/adolescence-misogyny-schools.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlk8tb3UAg1dQVBlZSsSez6CkCqld5aCxw9tEAuYCkEsln0u7wExGUrd6Uy5g",
+        "source": "The New York Times"
       }
     ]
   }

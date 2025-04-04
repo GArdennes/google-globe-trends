@@ -1,304 +1,311 @@
 [
   {
-    "title": "gaza",
+    "title": "sää",
     "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 21:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIiubjCev3X_cs_BIT2n4iVuGi8BDdiAOdDJC25GyFhuMEgRrB4Kvcdu32jFY",
-    "picture_source": "The Guardian",
+    "pubdate": "Thu, 3 Apr 2025 20:30:00 -0700",
+    "approx_traffic": 10000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOWheL__l4fGTgjK1WDoV0Dcu81lzKUBPnNAT0GI4fONJkRkvPLIdZDtWKhcY",
+    "picture_source": "Ilta-Sanomat",
     "news_items": [
       {
-        "title": "Trump declares US will ‘take over’ Gaza Strip and says Palestinians should move to neighbouring countries – live",
+        "title": "Nyt kylmyys saapuu Suomeen – näin kauan se kestää",
         "snippet": "",
-        "url": "https://www.theguardian.com/world/live/2025/feb/05/trump-gaza-take-over-reaction-israel-netanyahu-middle-east-latest-live",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIiubjCev3X_cs_BIT2n4iVuGi8BDdiAOdDJC25GyFhuMEgRrB4Kvcdu32jFY",
-        "source": "The Guardian"
+        "url": "https://www.is.fi/kotimaa/art-2000011145000.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOWheL__l4fGTgjK1WDoV0Dcu81lzKUBPnNAT0GI4fONJkRkvPLIdZDtWKhcY",
+        "source": "Ilta-Sanomat"
       },
       {
-        "title": "Trump’s Gaza ‘Riviera’ plan is the most outlandish idea in the history of US Middle East peacemaking",
+        "title": "Näin pitkään kylmä sääkäänne kestää",
         "snippet": "",
-        "url": "https://www.cnn.com/2025/02/05/politics/trump-gaza-takeover-analysis/index.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB404M-OgiVPprLhE6qOZPJ7YWO5lMVFtolytBVP3Rabq1t6Y3PwLZLggKYw4",
-        "source": "CNN"
-      },
-      {
-        "title": "Arab nations reject Trump’s suggestion to relocate Palestinians from Gaza to Egypt and Jordan",
-        "snippet": "",
-        "url": "https://apnews.com/article/mideast-egypt-jordan-palestinians-trump-51dc4d5225e6bc0a135b7bbafedb3d86",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYWQmT2FIhn1lrENIZN3Nf6AzGauGqIVAHX3mgI_DAc_cJfS1n1TpCDGyUR14",
-        "source": "AP News"
-      }
-    ]
-  },
-  {
-    "title": "riikka purra",
-    "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 23:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3bnhL-t-9XHE7faufU4CZCJubKjiMCZqZg0u_JaKfxc4e6e2byDnpsZkQjNo",
-    "picture_source": "HS.fi",
-    "news_items": [
-      {
-        "title": "Viro | Purra virolaislehdelle: Meidät ryöstettiin monta kertaa hotelli Virussa",
-        "snippet": "",
-        "url": "https://www.hs.fi/alueet/art-2000011009542.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3bnhL-t-9XHE7faufU4CZCJubKjiMCZqZg0u_JaKfxc4e6e2byDnpsZkQjNo",
-        "source": "HS.fi"
-      },
-      {
-        "title": "Postimees: Riikka Purra joutui lapsena selliin Tallinnan satamassa",
-        "snippet": "",
-        "url": "https://www.iltalehti.fi/politiikka/a/923aa9fa-9f87-4bb1-aa3b-942ace6381b5",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWa_TZORZyQ66V04TmDsKmoDD2hpLyrhnDWXw4LoUduDetZ74FqaQUh4mloGY",
+        "url": "https://www.iltalehti.fi/saauutiset/a/15286b57-25f6-4ad1-9de8-0427a4a0b885",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6BJkH--bmHtkQtdhlr8xkT20CkqHqh5gnBde21f3bNHXcV7L5UmjMp-JUtnE",
         "source": "Iltalehti"
       },
       {
-        "title": "Riikka Purra Postimees-lehdelle: Jouduin putkaan Tallinnassa",
+        "title": "Pekka Pouta selitti ennätyskuumaa kevättä kaatamalla olutta terassin pöydälle – taustalla vakava ilmiö",
         "snippet": "",
-        "url": "https://www.mtvuutiset.fi/artikkeli/purra-postimees-lehdelle-jouduin-putkaan-tallinnassa/9094722",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0m8UJaWKqDdowokIiFRILX_wKPRAXys9XdF2CVmeNbZLAfCdBWA1HspyfnQ",
+        "url": "https://www.mtvuutiset.fi/artikkeli/pekka-pouta-kaatoi-oluensa-poydalle-yllattavien-terassikelien-syy-paljastui/9131382",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB1AEKcFilicsyBkUNCe_nP4hS-iv3GLWVKiVK3VphNKy324FEOXkDt46gJSk",
         "source": "mtvuutiset.fi"
       }
     ]
   },
   {
-    "title": "upm",
+    "title": "taivalkoski",
     "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 23:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXDiisGvepyVY1b09u1CtYUYeK5QNRFO6JtRorGQapUfZvyxTT2jI8-TqZML4",
-    "picture_source": "Kauppalehti",
-    "news_items": [
-      {
-        "title": "UPM ylitti ennusteet – Osinko edellisvuoden tasolla",
-        "snippet": "",
-        "url": "https://www.kauppalehti.fi/uutiset/upm-ylitti-ennusteet-osinko-edellisvuoden-tasolla/303c3e6d-adcd-4761-baf5-6262a31feb9e",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXDiisGvepyVY1b09u1CtYUYeK5QNRFO6JtRorGQapUfZvyxTT2jI8-TqZML4",
-        "source": "Kauppalehti"
-      },
-      {
-        "title": "UPM paransi tulostaan reippaasti loka-joulukuussa",
-        "snippet": "",
-        "url": "https://yle.fi/a/74-20141635",
-        "picture": "",
-        "source": "Yle"
-      },
-      {
-        "title": "UPM päivittää tiedonantopolitiikkaansa",
-        "snippet": "",
-        "url": "https://www.arvopaperi.fi/uutiset/upm-paivittaa-tiedonantopolitiikkaansa/49c6aa1e-08ec-44f7-bd40-5d206d4e489a",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXDiisGvepyVY1b09u1CtYUYeK5QNRFO6JtRorGQapUfZvyxTT2jI8-TqZML4",
-        "source": "Arvopaperi"
-      }
-    ]
-  },
-  {
-    "title": "ransu koira",
-    "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 18:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOJ13LfEMUSBri0rw7alCkzkY55dvJuoOYnAHQEXN3eNGq_Fn8YbiTlZa2tI",
-    "picture_source": "Yle",
-    "news_items": [
-      {
-        "title": "Suomalaisten sydämet sulattanut Ransu-koira ei etsikään uutta kotia – väärinkäsitys aiheutti puheluiden vyöryn",
-        "snippet": "",
-        "url": "https://yle.fi/a/74-20141471",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOJ13LfEMUSBri0rw7alCkzkY55dvJuoOYnAHQEXN3eNGq_Fn8YbiTlZa2tI",
-        "source": "Yle"
-      },
-      {
-        "title": "Ransun kulkurielämä päättyi Lappeenrannan Kasukkalaan – Nyt tuhansien seuraama irtokoira on kotihoidossa Kuopiossa",
-        "snippet": "",
-        "url": "https://www.esaimaa.fi/paikalliset/8259066",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU2Vp0P3D_DvZMDZN5wXRCgh4dNP5D91eqMnRrEHZl6Ljyjr8YmLzcDSORgO0",
-        "source": "Etelä-Saimaa"
-      },
-      {
-        "title": "Ransu-koira jolkotteli huiman kilometrimäärän – näin onnelliselta se näytti kiinni jäätyään",
-        "snippet": "",
-        "url": "https://www.is.fi/kotimaa/art-2000011006195.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKr-JRyo0jd17xDqZvFJ-PybPBXzoZ-PaPKOZqBaddnq9AKfREFCU9YIUXPsw",
-        "source": "Ilta-Sanomat"
-      }
-    ]
-  },
-  {
-    "title": "santorinin maanjäristys",
-    "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 17:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_3td9jjPcOS8a4TziUyWsTb3Np8QPhYo5hjvKqRbeZbnzDH76k_0oQJdPU6M",
+    "pubdate": "Fri, 4 Apr 2025 00:50:00 -0700",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2j5BHvQsQGq0op6scyKK8t83eO4lp618yV60moHDsnfIdRtGSqqMGA48FHJA",
     "picture_source": "Ilta-Sanomat",
     "news_items": [
       {
-        "title": "Suomalaisten suosikkikohteessa varaudutaan tsunamiin",
+        "title": "Antti Tuisku maalissa – villi tuuletus",
         "snippet": "",
-        "url": "https://www.is.fi/ulkomaat/art-2000011009155.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_3td9jjPcOS8a4TziUyWsTb3Np8QPhYo5hjvKqRbeZbnzDH76k_0oQJdPU6M",
+        "url": "https://www.is.fi/maastohiihto/art-2000011145840.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2j5BHvQsQGq0op6scyKK8t83eO4lp618yV60moHDsnfIdRtGSqqMGA48FHJA",
         "source": "Ilta-Sanomat"
       },
       {
-        "title": "\"Koko saari on tyhjentynyt\" – Tuhannet paenneet Santorinin järistyksiä",
+        "title": "Kuka voittaa miesten 10 kilometrin kultaa? Yle seuraa Taivalkosken SM-hiihtoja",
         "snippet": "",
-        "url": "https://www.mtvuutiset.fi/artikkeli/koko-saari-on-tyhjentynyt-tuhannet-paenneet-santorinin-jaristyksia/9094856",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN3izv_jZNxyer-9G9KCVYA5SX3hLBWdqcC-lOKy4MCp6-w4aQcnWTapmaTBk",
-        "source": "mtvuutiset.fi"
+        "url": "https://yle.fi/a/74-20153890",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSmATzPJpHoyHdqrlKr0v_ZGVT5vtZPq-scpR8gvoNokYVKaWs5Y1YjOPNbY",
+        "source": "Yle"
       },
       {
-        "title": "Joukkopako Santorinilta jatkuu maanjäristysten pelossa",
+        "title": "Suomen Cupin kausi huipentuu Taivalkosken SM-hiihtoihin",
         "snippet": "",
-        "url": "https://www.ksml.fi/uutissuomalainen/8261320",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTZQbZa3VOxYA3sfDMnXbvToHLe_1j3eXCXaEC0OIQVtN27_VcQowgR_Os1f8",
-        "source": "Keskisuomalainen"
+        "url": "https://hiihtoliitto.fi/suomen-cupin-kausi-huipentuu-taivalkosken-sm-hiihtoihin/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRm6mHe4SjuaL38hvu29Xn7ZuoNAeDBzTHN-oqbGZWJD9WWiCtm4XuMe7dZnM",
+        "source": "Suomen Hiihtoliitto"
       }
     ]
   },
   {
-    "title": "heidi kyrö",
+    "title": "markus granlund",
     "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 23:10:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeXW_wid3fAhD58FbpxmE9LZ3j2gNhEmVTgwMmxYnUjmgYIRCJkeh_HUogRA4",
+    "pubdate": "Fri, 4 Apr 2025 04:20:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG2iRggSj3KpvGyWOLluwTXDq0112wFPAT4gwNXsfhLdEQspqC-9nuaMOA6_E",
     "picture_source": "Ilta-Sanomat",
     "news_items": [
       {
-        "title": "Muistatko iskelmätähti Heidi Kyrön, 47? Tältä hän näyttää nyt",
+        "title": "Yle: Jasmi Joensuulla uusi rakas",
         "snippet": "",
-        "url": "https://www.is.fi/viihde/art-2000010998409.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeXW_wid3fAhD58FbpxmE9LZ3j2gNhEmVTgwMmxYnUjmgYIRCJkeh_HUogRA4",
+        "url": "https://www.is.fi/maastohiihto/art-2000011146907.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG2iRggSj3KpvGyWOLluwTXDq0112wFPAT4gwNXsfhLdEQspqC-9nuaMOA6_E",
         "source": "Ilta-Sanomat"
       },
       {
-        "title": "Heidi Kyrön raskas vuosi isän kuoleman jälkeen",
+        "title": "Olympiavoittaja Markus Granlund seurasi tyttöystäväänsä Jasmi Joensuuta SM-hiihdoissa – ei yritä MM-joukkueeseen",
         "snippet": "",
-        "url": "https://www.seiska.fi/kotimaa/heidi-kyron-raskas-vuosi-isan-kuoleman-jalkeen/1597307",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTOm8wp6zyxu55pJK3EPlbZggq14dUUoPETVDHaqFkavNhtcGOGzH_TmdyKY",
+        "url": "https://yle.fi/a/74-20153941",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG972yQg-2CvmLvqaQa-mJEkW-_VJ0QlTdPYkKvjM3bkkYDWm56S2Ue8bPndg",
+        "source": "Yle"
+      },
+      {
+        "title": "Yle: Jasmi Joensuu ja kiekkotähti seurustelevat",
+        "snippet": "",
+        "url": "https://www.iltalehti.fi/talviurheilu/a/073f0ea3-b57b-47ce-9ceb-552f3efdd3f3",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TZzazrHDSahouzMSDb_pyCXVBmC7Q8ar_kigPr6Z7cDpy4RVv1kPcRaUiBk",
+        "source": "Iltalehti"
+      }
+    ]
+  },
+  {
+    "title": "jone nikula",
+    "link": "https://trends.google.com/trending/rss?geo=FI",
+    "pubdate": "Fri, 4 Apr 2025 01:30:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT23qKjoLDopePhlex1m0J8qDIMupZVKLLNnPd6mFDEyA-SM9SlUQiYpEpJjTs",
+    "picture_source": "Iltalehti",
+    "news_items": [
+      {
+        "title": "Jone Nikula lopetti: Kiitos ja anteeksi",
+        "snippet": "",
+        "url": "https://www.iltalehti.fi/viihdeuutiset/a/db732d68-fbeb-411c-b5c8-d7536fb3f547",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT23qKjoLDopePhlex1m0J8qDIMupZVKLLNnPd6mFDEyA-SM9SlUQiYpEpJjTs",
+        "source": "Iltalehti"
+      },
+      {
+        "title": "Jone Nikula kommentoi yllätyspäätöstään",
+        "snippet": "",
+        "url": "https://www.is.fi/viihde/art-2000011146131.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgK_WhWZjqC1KW-AjBE69CSwUpTZFsqIUAgTd6V7G6mz6J8-qFA2EmmVRxURE",
+        "source": "Ilta-Sanomat"
+      },
+      {
+        "title": "Yllättävä shokkipäätös! Nyt puhuu Jone Nikula",
+        "snippet": "",
+        "url": "https://www.seiska.fi/kotimaa/yllattava-shokkipaatos-nyt-puhuu-jone-nikula/1665802",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAMTSgTQxX5lwLgTDEFOva_ETLrecQasZ3QRkIAOwv_ZBXifFnHzU0KYXg9Wk",
         "source": "Seiska.fi"
       }
     ]
   },
   {
-    "title": "wärtsilä",
+    "title": "billebeino",
     "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 23:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd1v8WCVQoq2KtEkye4W-fe8MC2fh_izwy5KGKFl50iYCrngBPalzUUOEvXCA",
-    "picture_source": "HS.fi",
+    "pubdate": "Fri, 4 Apr 2025 02:10:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXqH3dohAr3iY0K_Yg5l46ufgvBt-P475XvOowhN2HZsnw-xo_xytZ21hifTk",
+    "picture_source": "Iltalehti",
     "news_items": [
       {
-        "title": "Osavuosikatsaukset | Wärtsilän tulos ylitti ennusteet, tilauskanta ennätystasolla",
+        "title": "Billebeinosta karu tieto – ”Takana on menetettyjä öitä”",
         "snippet": "",
-        "url": "https://www.hs.fi/talous/art-2000011010345.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd1v8WCVQoq2KtEkye4W-fe8MC2fh_izwy5KGKFl50iYCrngBPalzUUOEvXCA",
+        "url": "https://www.iltalehti.fi/jaakiekko/a/e9f8bbde-8ec0-4342-87dd-84222ae1daf3",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXqH3dohAr3iY0K_Yg5l46ufgvBt-P475XvOowhN2HZsnw-xo_xytZ21hifTk",
+        "source": "Iltalehti"
+      },
+      {
+        "title": "Talouselämä: Billebeino yrityssaneeraukseen",
+        "snippet": "",
+        "url": "https://www.mtvuutiset.fi/artikkeli/talouselama-billebeino-yrityssaneeraukseen/9131848",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN5X1LVIF2dD3kGBiX1s7V6cdRImCVxsQcarhQevhL1QFdO8MONPF8Mn4EeVU",
+        "source": "mtvuutiset.fi"
+      },
+      {
+        "title": "Yritykset | Billebeino jätti yrityssaneeraushakemuksen – kovat tappiot",
+        "snippet": "",
+        "url": "https://www.hs.fi/urheilu/art-2000011146246.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUaluz_LvJdoTg0_ZdqwVD6EbhSalp6flbUKcHgpN19TNY-IDmB5xsx5aGxI",
         "source": "HS.fi"
-      },
-      {
-        "title": "Wärtsilä paransi tulostaan selvästi loka-joulukuussa",
-        "snippet": "",
-        "url": "https://yle.fi/a/74-20141611",
-        "picture": "",
-        "source": "Yle"
-      },
-      {
-        "title": "Avainviestit ja Q&A vuoden 2024 Tilinpäätöstiedotteesta",
-        "snippet": "",
-        "url": "https://www.wartsila.com/fi/sijoittajat/ir-blogi/post/avainviestit-ja-q-a-vuoden-2024-tilinp%C3%A4%C3%A4t%C3%B6stiedotteesta",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbAjGirz8FZUCaizwDgj78n1c5xnOwj_2VPC513Wuw1MRYqg6T59zn8MOixgQ",
-        "source": "Wärtsilä"
       }
     ]
   },
   {
-    "title": "runebergin",
+    "title": "alajärvi",
     "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 22:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUaaifAmnT35ZNComRtMzN0R6JrLBKNZOq5bbcnfPROIOA7x9ZvwyBwXKV_k",
+    "pubdate": "Thu, 3 Apr 2025 23:30:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbzZ9wIOuXG-Nf9zVYDUKFUIeBSzaxy03SYBfJJvByZaJMQlBmTwkM-oaqNes",
+    "picture_source": "Iltalehti",
+    "news_items": [
+      {
+        "title": "Jäljet Alajärven ABC:n pihalla todistavat synkistä tapahtumista aamutuimaan",
+        "snippet": "",
+        "url": "https://www.iltalehti.fi/kotimaa/a/bcd0ea9a-48ec-48d7-8632-dc5b00d377b8",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbzZ9wIOuXG-Nf9zVYDUKFUIeBSzaxy03SYBfJJvByZaJMQlBmTwkM-oaqNes",
+        "source": "Iltalehti"
+      },
+      {
+        "title": "Poliisi tutkii kahta tapon yritystä Alajärvellä",
+        "snippet": "",
+        "url": "https://poliisi.fi/-/poliisi-tutkii-kahta-tapon-yritysta-alajarvella",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHdwFODqgfIsaRy6vDWtp13WUa3K25pMmt1vvBOzO4j8YoHFfepdWtc6BMs3M",
+        "source": "Poliisi"
+      },
+      {
+        "title": "Tämä tiedetään Alajärven ABC:n suuresta poliisioperaatiosta – tutkitaan tapon yrityksinä",
+        "snippet": "",
+        "url": "https://www.mtvuutiset.fi/artikkeli/poliisilla-iso-operaatio-alajarvella-useita-kiinniottoja/9131722",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTNrAZGVtCZQJXoLrYnlP4Nb9Ev5keSmrKDlaF8Seuzs_Yu125df3LsJ3YEf4",
+        "source": "mtvuutiset.fi"
+      }
+    ]
+  },
+  {
+    "title": "michael rosenvold bandidos",
+    "link": "https://trends.google.com/trending/rss?geo=FI",
+    "pubdate": "Thu, 3 Apr 2025 22:40:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbKOtjIbgC8g8Gc9xMh-WR1k8TTiCFpW8buSzMymqclEpEpexMXWn0q0U00ss",
+    "picture_source": "Iltalehti",
+    "news_items": [
+      {
+        "title": "Bandidos-johtaja on kuollut",
+        "snippet": "",
+        "url": "https://www.iltalehti.fi/ulkomaat/a/77924b01-67d1-4080-a2d4-db3a4100bd1d",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbKOtjIbgC8g8Gc9xMh-WR1k8TTiCFpW8buSzMymqclEpEpexMXWn0q0U00ss",
+        "source": "Iltalehti"
+      },
+      {
+        "title": "Bandidos-pomo on kuollut – kotipaikka Lohjalla",
+        "snippet": "",
+        "url": "https://www.is.fi/kotimaa/art-2000011143809.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_-H3v-BQcBhvEOxTNHQEzL0ki76tBX_eugD9lXtDffX5Rf44lJQK8oaeIHG4",
+        "source": "Ilta-Sanomat"
+      },
+      {
+        "title": "Bandidosin Euroopan-johtaja \"Kokki\" on kuollut",
+        "snippet": "",
+        "url": "https://www.mtvuutiset.fi/artikkeli/bandidosin-euroopan-johtaja-kokki-on-kuollut/9131364",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyg93lxsMXKxFoUCSaBMPQwXbjIrZPh1CF6-AAfIwullGdfoU5ZPVqwbKAVzY",
+        "source": "mtvuutiset.fi"
+      }
+    ]
+  },
+  {
+    "title": "saipa liput",
+    "link": "https://trends.google.com/trending/rss?geo=FI",
+    "pubdate": "Fri, 4 Apr 2025 02:00:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkh5oZaRT60EHExccJYqSVzisfRnlUHNVBKFUQQbT4hxsrjwivj68fy_hJHs",
     "picture_source": "Yle",
     "news_items": [
       {
-        "title": "Tänään juhlitaan Runebergin päivää",
+        "title": "SaiPa-huuma vain kiihtyy – välieräottelun liput menivät alle 10 minuutissa",
         "snippet": "",
-        "url": "https://yle.fi/a/74-20141573",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUaaifAmnT35ZNComRtMzN0R6JrLBKNZOq5bbcnfPROIOA7x9ZvwyBwXKV_k",
+        "url": "https://yle.fi/a/74-20153947",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkh5oZaRT60EHExccJYqSVzisfRnlUHNVBKFUQQbT4hxsrjwivj68fy_hJHs",
         "source": "Yle"
       },
       {
-        "title": "Porvoolaisravintola kehitti Runebergin nimikkomenun – näitä ruokia olisi voitu tarjota kansallisrunoilijan aikana",
+        "title": "SAIPA VÄLIERIIN – ENSIMMÄISTEN KOTIOTTELUIDEN LIPUT MYYNTIIN PE 4.4. KLO 12:00",
         "snippet": "",
-        "url": "https://www.uusimaa.fi/paikalliset/8249804",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsgdhzn78HWjr0leObTsYc_FG4cATIQQVPCwfTzqGAt9OfYQAYEQ0LAEGJfM",
-        "source": "Uusimaa"
+        "url": "https://saipa.fi/fi-fi/article/uutiset/saipa-valieriin-ensimmaisten-kotiotteluiden-liput-myyntiin-pe-44-klo-1200/8876/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxu3PmZfoDCvfgMoEQqcdytnShrAS9cYYhRvWL0SHf-1O-XCVo1J88f3t-OyU",
+        "source": "Lappeenrannan SaiPa"
       },
       {
-        "title": "Tänään juhlitaan kansallisrunoilija Runebergin päivää",
+        "title": "”Kuin hunajaa tulisi taivaalta” – Kaupunki sekosi historiallisesta voitosta",
         "snippet": "",
-        "url": "https://www.msn.com/fi-fi/uutiset/other/t%C3%A4n%C3%A4%C3%A4n-juhlitaan-kansallisrunoilija-runebergin-p%C3%A4iv%C3%A4%C3%A4/ar-AA1yq5gU",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVzSzqQJwwXpYqrlCIxWT_VSNHaxBGzIS7UP3lQXqM9FKveXzFIGya-8N67Ng",
-        "source": "MSN"
+        "url": "https://www.hs.fi/alueet/art-2000011142636.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsoCQ9K9CozdRTRbRYhfBzxMyRMrv2a_MyTXJz9AbbOKj3F8kQehpDRQ8K4wI",
+        "source": "HS.fi"
       }
     ]
   },
   {
-    "title": "ronaldo",
+    "title": "sierra leone",
     "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 21:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbH7TYSbkhmMXuObP-2Az9tkRs7n-cIjGCZVXempZmJxAd3ClDb91Hghff5qE",
-    "picture_source": "talkSPORT",
+    "pubdate": "Fri, 4 Apr 2025 01:40:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqGHkv4D3_euqbPsV-jbNcsrdI0p8kexAubGkkzFMRaFciDsq7kQUEz17UQI",
+    "picture_source": "Blackburn Rovers FC",
     "news_items": [
       {
-        "title": "‘My life changed’ – Cristiano Ronaldo shopping trip turned Georgina Rodriguez’s world upside down to become...",
+        "title": "Augustus loving life in Lancashire!",
         "snippet": "",
-        "url": "https://talksport.com/football/2447348/cristiano-ronaldo-georgina-rodriguez-gucci-married/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbH7TYSbkhmMXuObP-2Az9tkRs7n-cIjGCZVXempZmJxAd3ClDb91Hghff5qE",
-        "source": "talkSPORT"
+        "url": "https://www.rovers.co.uk/news/2025/april/02/augustus-loving-life-in-lancashire-/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqGHkv4D3_euqbPsV-jbNcsrdI0p8kexAubGkkzFMRaFciDsq7kQUEz17UQI",
+        "source": "Blackburn Rovers FC"
       },
       {
-        "title": "Photos from A Guide to Cristiano Ronaldo's Family",
+        "title": "Augustus Kargbo: Sierra Leone star vows to repay Blackburn fans for ‘their love’",
         "snippet": "",
-        "url": "https://www.eonline.com/photos/37515/a-guide-to-cristiano-ronaldos-family",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR38zMuiTsEBSqfx_j9vGgLIePI650IRzJvQcoS9aVV1H4Jua-vFm5e9j8UBmw",
-        "source": "E! Online"
+        "url": "https://www.panafricafootball.com/post/augustus-kargbo-sierra-leone-star-vows-to-repay-blackburn-fans-for-their-love",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWAcY5o3ziLMCAo4Lrbb7SNcTM-5Y-Zwn3Vnxjbj-a-HFzMScWAekDeKomVVo",
+        "source": "Pan-Africa Football"
       },
       {
-        "title": "Cristiano Ronaldo: a global brand colossus at 40",
+        "title": "Blackburn Rovers star provides welcome injury update",
         "snippet": "",
-        "url": "https://sportsmintmedia.com/cristiano-ronaldo-a-global-brand-colossus-at-40/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
-        "source": "SportsMint Media"
+        "url": "https://www.lancashiretelegraph.co.uk/sport/25053360.blackburn-rovers-kargbo-provides-welcome-injury-update/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtBhuMqLMd40eQoA_Eu6LxFijLgnjwicitt4qHTp6rfsbjOHIJDu8UsLRDwrQ",
+        "source": "Lancashire Telegraph"
       }
     ]
   },
   {
-    "title": "kymen sanomat",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=FI",
-    "pubdate": "Tue, 4 Feb 2025 20:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPevd4k82Tk5ETALr_PeNMVF7Nr50ZKu3DZFe8Ly2RXXDxVyUiY4h0qwRpRu8",
-    "picture_source": "Kymen Sanomat",
+    "pubdate": "Thu, 3 Apr 2025 21:00:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9wAh73RS9E0sB2I5xNmAc4tOpkMf-M7tGTstQqamFLi9cD1KePLQRXLrkLuA",
+    "picture_source": "The Tennessean",
     "news_items": [
       {
-        "title": "Henkilöauto törmäsi betoniseinään liukkaalla seiskatiellä Karhulassa",
+        "title": "Tennessee severe weather: Death toll hits 5 as Nashville braces for more storms, flooding",
         "snippet": "",
-        "url": "https://www.kymensanomat.fi/paikalliset/8263404",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPevd4k82Tk5ETALr_PeNMVF7Nr50ZKu3DZFe8Ly2RXXDxVyUiY4h0qwRpRu8",
-        "source": "Kymen Sanomat"
+        "url": "https://www.tennessean.com/story/news/local/2025/04/03/tennessee-severe-weather-latest-nashville-updates-flooding-tornado/82789952007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9wAh73RS9E0sB2I5xNmAc4tOpkMf-M7tGTstQqamFLi9cD1KePLQRXLrkLuA",
+        "source": "The Tennessean"
       },
       {
-        "title": "Eero Saarinen on poissa",
+        "title": "TEMA provides update on storm response, says death toll has risen",
         "snippet": "",
-        "url": "https://www.basket.fi/basket/uutiset/eero-saarinen-on-poissa/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ1Qx6oU7iaJFqet1Heebq61Va1XhNHk7J4vC3jZTeJKq5WqoV7wrFpEsrI_A",
-        "source": "Basket"
+        "url": "https://www.wkrn.com/news/tennessee-news/tema-latest-april-3-2025/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0OiNsFe34tQTZj4uVic92EvHsmlkzKtHOSXHRBhfCkqV5IQgTOH67UB9cdUI",
+        "source": "WKRN News 2"
       },
       {
-        "title": "Entinen KTP-​valmentaja Eero Saarinen on kuollut – \"Hän nosti KTP:n takaisin huipulle\"",
+        "title": "Officials confirm five weather-related fatalities from Thursday's severe storms",
         "snippet": "",
-        "url": "https://www.kymensanomat.fi/urheilu/8262790",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxfks48HpXW0_Z5cDIMeLgouJvVRGTSiXSqFKwEukcmX3K9VWtz0NJkyHrMYo",
-        "source": "Kymen Sanomat"
+        "url": "https://www.newschannel5.com/news/two-weather-related-fatalities-confirmed-by-tennessee-department-of-health",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQt2R84GSsR6spcx7BWJGFQREZgLFGJYPGe9YEiyPTWQ-rYvu9g8gt-zyR2v7I",
+        "source": "News Channel 5 Nashville"
       }
     ]
   }

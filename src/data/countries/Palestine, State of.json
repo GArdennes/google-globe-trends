@@ -1,218 +1,187 @@
 [
   {
-    "title": "الطقس غدًا",
+    "title": "تشيلسي ضد توتنهام",
     "link": "https://trends.google.com/trending/rss?geo=PS",
-    "pubdate": "Tue, 4 Feb 2025 10:40:00 -0800",
-    "approx_traffic": 20000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9dCmVMwaQccQoZEbQmwIYrZLVaE8cRsc7iOxTAMGz2pqiwMuJv8PtCfqrdb8",
-    "picture_source": "وكـالـة مـعـا الاخـبـارية",
-    "news_items": [
-      {
-        "title": "كهرباء القدس\" تعلن جاهزيتها الكاملة لمواجهة المنخفض الجوي العميق",
-        "snippet": "",
-        "url": "https://www.maannews.net/news/2133909.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9dCmVMwaQccQoZEbQmwIYrZLVaE8cRsc7iOxTAMGz2pqiwMuJv8PtCfqrdb8",
-        "source": "وكـالـة مـعـا الاخـبـارية"
-      },
-      {
-        "title": "تطورات الحالة الجوية للساعات القادمة والمنخفض الجوي",
-        "snippet": "",
-        "url": "https://palweather.ps/ar/node/61635.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeufNOW8748aHRLGSQRYVwHiEg0g7LoKsUwbLdggkXz8Z9WIuaWpbUsF-44KU",
-        "source": "طقس فلسطين"
-      },
-      {
-        "title": "إنذار أحمر لسكان قطاع غزة.. منخفض جوي عاصف سيضرب الأراضي الفلسطينية",
-        "snippet": "",
-        "url": "https://www.alwatanvoice.com/arabic/news/2025/02/03/1543597.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQejsnnMXdnGjpwJXzholdPNMVtZtrLT6K8GQHkPuV68_IMpN1nW_XWbwfttrU",
-        "source": "دنيا الوطن"
-      }
-    ]
-  },
-  {
-    "title": "الطقس",
-    "link": "https://trends.google.com/trending/rss?geo=PS",
-    "pubdate": "Tue, 4 Feb 2025 20:30:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5q1qggpW2bFNYMgXT2pLowGm2EAvuuP5f5muW9Bjn4D2-6h61V_l6iC77mU",
-    "picture_source": "طقس العرب",
-    "news_items": [
-      {
-        "title": "مصر | انخفاض ملحوظ في درجات الحرارة ونشاط كبير للرياح مع اقتراب كتلة هوائية باردة من أصل قطبي من الجمهورية",
-        "snippet": "",
-        "url": "https://www.arabiaweather.com/ar/content/%D9%85%D8%B5%D8%B1-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%85%D9%84%D8%AD%D9%88%D8%B8-%D9%81%D9%8A-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D9%86%D8%B4%D8%A7%D8%B7-%D9%83%D8%A8%D9%8A%D8%B1-%D9%84%D9%84%D8%B1%D9%8A%D8%A7%D8%AD-%D9%85%D8%B9-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%A8-%D9%83%D8%AA%D9%84%D8%A9-%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A8%D8%A7%D8%B1%D8%AF%D8%A9-%D9%85%D9%86-%D8%A3%D8%B5%D9%84-%D9%82%D8%B7%D8%A8%D9%8A",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5q1qggpW2bFNYMgXT2pLowGm2EAvuuP5f5muW9Bjn4D2-6h61V_l6iC77mU",
-        "source": "طقس العرب"
-      },
-      {
-        "title": "\"الأرصاد\" تحذر من طقس الـ48 ساعة المقبلة.. ونصائح قبل الخروج من المنزل ..ترفيه و منوعات",
-        "snippet": "",
-        "url": "https://ar.pressbee.net/show9210173.html?title=%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8048-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9-%D9%88%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B2",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXS3ev_kV-2yzN4t9RoikRfR0dW0XL4uhPL71qLnKl4UDufwo-XOo9i79Qkg",
-        "source": "برس بي"
-      },
-      {
-        "title": "متابعينا الكرام ؛... - الهيئة العامة للأرصاد الجوية المصرية",
-        "snippet": "",
-        "url": "https://www.facebook.com/story.php?story_fbid=1020985956726638&id=100064457301517",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwRrbVa5JC3f-9CSK08nkyy9mfYZ5rjKk_ezjch52AEPXkqXZo50JILW_F7qw",
-        "source": "Facebook"
-      }
-    ]
-  },
-  {
-    "title": "weather",
-    "link": "https://trends.google.com/trending/rss?geo=PS",
-    "pubdate": "Tue, 4 Feb 2025 20:30:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 11:40:00 -0700",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM17OPAGsHqI0fROYb9tP_pxA5THWeknP1mDQlRFCkCZ0YYH166gz8UN5ougY",
-    "picture_source": "The Washington Post",
-    "news_items": [
-      {
-        "title": "CWG Live updates: Cold air spills back in tonight; an icy glaze possible Wednesday night",
-        "snippet": "",
-        "url": "https://www.washingtonpost.com/weather/2025/02/04/dc-weather-live-updates-wintry-mix-wednesday-night/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM17OPAGsHqI0fROYb9tP_pxA5THWeknP1mDQlRFCkCZ0YYH166gz8UN5ougY",
-        "source": "The Washington Post"
-      },
-      {
-        "title": "Temps cool off, set up icy conditions into Thursday",
-        "snippet": "",
-        "url": "https://www.wbaltv.com/article/temps-cool-off-set-up-icy-conditions-into-thursday/63670302",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJI_M3VI0fAkp6tXOlHFLYWtYHWzNiaj0t87beMGPVSPTbKC7xyvlqGAV5qyk",
-        "source": "WBAL-TV"
-      },
-      {
-        "title": "Virginia State Police urge drivers to be cautious on roadways ahead of winter storm",
-        "snippet": "",
-        "url": "https://www.dcnewsnow.com/news/local-news/virginia/virginia-state-police-urge-drivers-to-be-cautious-on-roadways-ahead-of-winter-storm/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRskbtqNmxakstOWxEyBJLkL8HbQRWe-1Ay68L9PZLUNsK6e5ZgjUrdzyfjxM4",
-        "source": "DC News Now"
-      }
-    ]
-  },
-  {
-    "title": "weather tomorrow",
-    "link": "https://trends.google.com/trending/rss?geo=PS",
-    "pubdate": "Tue, 4 Feb 2025 10:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnmD7-M9kgn2pFzmiL89gJW0uABFxVRRQdt7lfxDKtw47IGe1KoaV-8FXLQw",
-    "picture_source": "ABC7 Chicago",
-    "news_items": [
-      {
-        "title": "Chicago, Illinois weather forecast tomorrow: Wintry mix could create dangerous travel conditions Wednesday",
-        "snippet": "",
-        "url": "https://abc7chicago.com/post/chicago-illinois-weather-forecast-tomorrow-wintry-mix-could-create-dangerous-travel-conditions-wednesday/15864806/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnmD7-M9kgn2pFzmiL89gJW0uABFxVRRQdt7lfxDKtw47IGe1KoaV-8FXLQw",
-        "source": "ABC7 Chicago"
-      },
-      {
-        "title": "Winter Weather Advisory issued for Wednesday into Thursday morning",
-        "snippet": "",
-        "url": "https://wgntv.com/weather/chicago-weather-tuesday-wednesday-02052025/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDl_VYB7Yv0Pb1TIvNgBUjvRee_sHl-Ja-ZQNK4XfheI2LuRgsvOJS_ZSBYOI",
-        "source": "WGN-TV"
-      },
-      {
-        "title": "Chicago Winter Weather Advisory: Freezing rain, snow and slick roads could impact Wednesday commutes",
-        "snippet": "",
-        "url": "https://www.fox32chicago.com/weather/chicago-winter-weather-advisory-freezing-rain-snow-slick-roads-wednesday-commutes",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjOrWytt-CPz1Qie-bzXp_hQNnU6arct-xNnUuW2dKTF3-iSIvRxxSg2qFyQM",
-        "source": "FOX 32 Chicago"
-      }
-    ]
-  },
-  {
-    "title": "الهلال ضد برسبوليس",
-    "link": "https://trends.google.com/trending/rss?geo=PS",
-    "pubdate": "Tue, 4 Feb 2025 10:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE5huAqFdG3r6pvk_PMF05GnPx2YnP3Y2H1hb1N3scndh6U8BqEFpC-YGZAj0",
-    "picture_source": "هاي كورة",
-    "news_items": [
-      {
-        "title": "سالم الدوسري دخل تاريخ دوري أبطال آسيا من أوسع الأبواب",
-        "snippet": "",
-        "url": "https://hihi2.com/2025/02/05/p3069994.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE5huAqFdG3r6pvk_PMF05GnPx2YnP3Y2H1hb1N3scndh6U8BqEFpC-YGZAj0",
-        "source": "هاي كورة"
-      },
-      {
-        "title": "خطأ قاتل من البليهي بعد دقائق من دخوله.. يمنح برسبوليس هدفًا شرفيًا.. ما القصة؟",
-        "snippet": "",
-        "url": "https://www.alkhabarpress.ma/%D8%AE%D8%B7%D8%A3-%D9%82%D8%A7%D8%AA%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%84%D9%8A%D9%87%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%AF%D9%82%D8%A7%D8%A6%D9%82-%D9%85%D9%86-%D8%AF%D8%AE%D9%88%D9%84%D9%87/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZCdgH-nRn-M0pw1hKu1IuIft00ZFZ05ysjU0RKJ1_FAVKwA8A0ZM3FEV7DM",
-        "source": "الخبر بريس"
-      },
-      {
-        "title": "خيسوس يعلن تشكيل الهلال الرسمي لمواجهة بيرسبوليس في دوري أبطال آسيا",
-        "snippet": "",
-        "url": "https://elwatanplus.com/%D8%AE%D9%8A%D8%B3%D9%88%D8%B3-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGpDqEd0oDKsd_K-CBHS4h_2klsu7Lr-riwWBo_jTDTzKmMVoIzqwrRaZgt2M",
-        "source": "النبأ المصرية"
-      }
-    ]
-  },
-  {
-    "title": "نادي لومان ضد بي اس جي",
-    "link": "https://trends.google.com/trending/rss?geo=PS",
-    "pubdate": "Tue, 4 Feb 2025 12:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGi8anVIpyMPmWm7KKYM5NIIdBM9zeihbXpJ9xW3XA_MLNrIyeAN7eDDEMOHM",
-    "picture_source": "شبكة أطلس سبورت",
-    "news_items": [
-      {
-        "title": "بث مباشر.. مشاهدة مباراة باريس سان جيرمان ولومان في كأس فرنسا - شبكة أطلس سبورت",
-        "snippet": "",
-        "url": "https://ar.atlassport.ps/uncategorized/46390/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D8%B3%D8%A7%D9%86-%D8%AC%D9%8A%D8%B1%D9%85%D8%A7%D9%86-%D9%88%D9%84%D9%88%D9%85%D8%A7%D9%86-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D9%81%D8%B1%D9%86%D8%B3%D8%A7---%D8%B4%D8%A8%D9%83%D8%A9-%D8%A3%D8%B7%D9%84%D8%B3-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGi8anVIpyMPmWm7KKYM5NIIdBM9zeihbXpJ9xW3XA_MLNrIyeAN7eDDEMOHM",
-        "source": "شبكة أطلس سبورت"
-      },
-      {
-        "title": "عين على راموس في مباراة باريس ولومان",
-        "snippet": "",
-        "url": "https://hihi2.com/2025/02/05/p3070535.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLd4GB_zyi5gc-mQmiYYkzliWxyds3eLz2uD8gmv4Lo5_FJgJjDhH19tDFT4",
-        "source": "هاي كورة"
-      },
-      {
-        "title": "اخبار الرياضة إحصائيات كفاراتسخيليا في مباراة باريس ولومان",
-        "snippet": "",
-        "url": "https://blogksa.com/uncategorized/59289/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA-%D9%83%D9%81%D8%A7%D8%B1%D8%A7%D8%AA%D8%B3%D8%AE%D9%8A%D9%84%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D9%88%D9%84%D9%88%D9%85%D8%A7%D9%86.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnx0j8shCC7OJex7Gmght1SIpjYXhOIp5neCXQty7NrOjlnK79CyMKaEk6jss",
-        "source": "اعرف نيوز"
-      }
-    ]
-  },
-  {
-    "title": "كأس الملك",
-    "link": "https://trends.google.com/trending/rss?geo=PS",
-    "pubdate": "Tue, 4 Feb 2025 12:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_ePSRqRonnPMKx_gdmfpvLDLvcCILV6zEb6dmOyimJQ1E5lKqdYXPHsSW7qE",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShfrAxL8fJ5wXKLLKmeed58_2zICy5vI5ZCErITPWXALh0aWa6k6_5l63ktag",
     "picture_source": "كووورة: الموقع العربي الرياضي الأول",
     "news_items": [
       {
-        "title": "مدرب ليجانيس: سأغير خطتي أمام ريال مدريد",
+        "title": "بالصور: لدغة لاتينية تنصر تشيلسي على توتنهام",
         "snippet": "",
-        "url": "https://www.kooora.com/?n=1386372",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_ePSRqRonnPMKx_gdmfpvLDLvcCILV6zEb6dmOyimJQ1E5lKqdYXPHsSW7qE",
+        "url": "https://www.kooora.com/?n=1399556",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShfrAxL8fJ5wXKLLKmeed58_2zICy5vI5ZCErITPWXALh0aWa6k6_5l63ktag",
         "source": "كووورة: الموقع العربي الرياضي الأول"
       },
       {
-        "title": "ملامح تشكيلة ريال مدريد قبل مواجهة ليغانيس",
+        "title": "اهداف مباراة تشلسي وتوتنهام (1-0)| الدوري الإنجليزي الممتاز - الجولة 30",
         "snippet": "",
-        "url": "https://hihi2.com/2025/02/05/p3070794.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe_AsA8gxU1T2YkQLzXl99ShWQtwkxt5CBL37u4qqys3UINlkWC2ySXSeqGCE",
-        "source": "هاي كورة"
+        "url": "https://www.zamalektoday.com/index.php?go=video&more=54558",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0XWn75F7ssSOsP1q_5OEPCP-mT3bXewuFP5BOHRlowrk-Ng6SKnrLOCxZ2BY",
+        "source": "الزمالك اليوم"
       },
       {
-        "title": "قائمة ريال مدريد لمباراة ليجانيس في كأس ملك إسبانيا.. غياب مبابي وبيلينجهام",
+        "title": "ماريسكا: كانت نتيجة مهمة، وأنا سعيد بهذا الأمر",
         "snippet": "",
-        "url": "https://www.msn.com/ar-ae/news/other/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%84%D9%8A%D8%AC%D8%A7%D9%86%D9%8A%D8%B3-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D9%85%D9%84%D9%83-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%BA%D9%8A%D8%A7%D8%A8-%D9%85%D8%A8%D8%A7%D8%A8%D9%8A-%D9%88%D8%A8%D9%8A%D9%84%D9%8A%D9%86%D8%AC%D9%87%D8%A7%D9%85/ar-AA1yosVR",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnMGgVXJOkiRN7rt0BfcWMnQG0fR2rIPCEBt9tUYGSBoiTuEcke29h53eJBiM",
-        "source": "MSN"
+        "url": "https://www.ysscores.com/ar/news/13718246/%D9%85%D8%A7%D8%B1%D9%8A%D8%B3%D9%83%D8%A7-%D9%83%D8%A7%D9%86%D8%AA-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%85%D9%87%D9%85%D8%A9%D8%8C-%D9%88%D8%A3%D9%86%D8%A7-%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A8%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%A3%D9%85%D8%B1",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBH4-8OUtXxnXKjnbaFJNC12SGKckasRol5s38n2uB2bd4T5pFGzrDlXmrbJs",
+        "source": "يلا سبورت"
+      }
+    ]
+  },
+  {
+    "title": "בני סכנין נגד בית\"ר ירושלים",
+    "link": "https://trends.google.com/trending/rss?geo=PS",
+    "pubdate": "Thu, 3 Apr 2025 11:00:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvzOeFOo8QYNW85s8wtqnryebaC2-spr0tDq4dfu__pgAnHjWUcAc-FMVPF4A",
+    "picture_source": "ONE",
+    "news_items": [
+      {
+        "title": "מספר אוהדים השליכו אבנים על אוטובוס סכנין",
+        "snippet": "",
+        "url": "https://www.one.co.il/Article/489057.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvzOeFOo8QYNW85s8wtqnryebaC2-spr0tDq4dfu__pgAnHjWUcAc-FMVPF4A",
+        "source": "ONE"
+      },
+      {
+        "title": "\"ריינה לא תשחק ב-24.4, שיתהפך העולם\"",
+        "snippet": "",
+        "url": "https://www.sport5.co.il/articles.aspx?FolderID=283&docID=502240",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy71rIZJEO0wj0yBAH6FQwEOu2bS6mDtO_LpdbF3yYjp8RYQHHfUz9r9z33hk",
+        "source": "ספורט 5"
+      },
+      {
+        "title": "\"בא בשביל זה\": הרגע הגדול של אצילי וה\"שיגעון\" של שועה",
+        "snippet": "",
+        "url": "https://sports.walla.co.il/item/3740013",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKqS181Wg4rQnjas26FKHWpMxfgwZeoYR5I414R9oGmI3prMuOOn6FulNaElo",
+        "source": "וואלה ספורט"
+      }
+    ]
+  },
+  {
+    "title": "الدولار مقابل الشيكل",
+    "link": "https://trends.google.com/trending/rss?geo=PS",
+    "pubdate": "Thu, 3 Apr 2025 13:30:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpskTCXn2jgQRa99dl1qJxY2Yi1PckNYT-RSiEVjyOkNTn-UyS497Q0fKk_k",
+    "picture_source": "وكـالـة مـعـا الاخـبـارية",
+    "news_items": [
+      {
+        "title": "ارتفاع الدولار مقابل الشيكل صباح الجمعة",
+        "snippet": "",
+        "url": "https://www.maannews.net/news/2137291.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpskTCXn2jgQRa99dl1qJxY2Yi1PckNYT-RSiEVjyOkNTn-UyS497Q0fKk_k",
+        "source": "وكـالـة مـعـا الاخـبـارية"
+      },
+      {
+        "title": "العملات والمعادن في فلسطين",
+        "snippet": "",
+        "url": "https://samanews.ps/ar/post/600555/%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D9%81%D9%8A-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZOTl_XYelI-gHdSaakk08-2SWv9K2mFJ9fgLNUuvdCXwd4_6x-zQ6RZY8gdA",
+        "source": "سما الإخبارية"
+      },
+      {
+        "title": "أسعار صرف العملات من بنك فلسطين",
+        "snippet": "",
+        "url": "https://www.rb2000.ps/news/462214.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNM9NSOFaDzjPhcGliVfChTAZYv79eAJTgmrq9j4nYO9YsD0Siynmil-JMCMw",
+        "source": "راديو بيت لحم 2000"
+      }
+    ]
+  },
+  {
+    "title": "רמי דוידיאן",
+    "link": "https://trends.google.com/trending/rss?geo=PS",
+    "pubdate": "Thu, 3 Apr 2025 22:30:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZ6k4tXG-gCdOW1qrn2nqz5YJ6DfA_hjRfdHoBog7JXC-5Cq9ElTUaxIm4lU",
+    "picture_source": "ערוץ 7",
+    "news_items": [
+      {
+        "title": "אדווה דדון מגבה את רמי דוידיאן: \"הייתי שם וראיתי בעיניים – בזכותו אנשים חזרו הביתה\"",
+        "snippet": "",
+        "url": "https://www.inn.co.il/news/665676",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZ6k4tXG-gCdOW1qrn2nqz5YJ6DfA_hjRfdHoBog7JXC-5Cq9ElTUaxIm4lU",
+        "source": "ערוץ 7"
+      },
+      {
+        "title": "הצלת חיים של צעירים מול רייטינג ופגיעה במוניטין ובשם הטוב: הסיפור של גיבור ישראל",
+        "snippet": "",
+        "url": "https://ashdod10.co.il/%D7%94%D7%A6%D7%9C%D7%AA-%D7%97%D7%99%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D-%D7%9E%D7%95%D7%9C-%D7%A8%D7%99%D7%99%D7%98%D7%99%D7%A0%D7%92-%D7%95%D7%A4%D7%92%D7%99%D7%A2%D7%94/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR69NvULtzArt9Fd-Q7OdQkANKnCfiFBxr69XzjsS-H8XxxBaT-nFRZo46Wuvk",
+        "source": "אשדוד10"
+      },
+      {
+        "title": "רשת גונזת את תחקיר ״המקור״ על רמי דוידיאן",
+        "snippet": "",
+        "url": "https://www.ynet.co.il/entertainment/article/synsqe6a1g",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYMYNSJPULMPdSClR16blpOhJb210m7pkZVPnsCkj6BOPCt1qXRgZtb-lXOgs",
+        "source": "ynet"
+      }
+    ]
+  },
+  {
+    "title": "حسن فرحات",
+    "link": "https://trends.google.com/trending/rss?geo=PS",
+    "pubdate": "Thu, 3 Apr 2025 22:40:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr-wzxs9j7n4CbrSPpo_YXyw3koFXRn2GkvvRNeGTHkC060XSeEwfdkn_uIMo",
+    "picture_source": "وكـالـة مـعـا الاخـبـارية",
+    "news_items": [
+      {
+        "title": "القسام: ننعى القيادي حسن فرحات الذي اغتالته إسرائيل في صيدا",
+        "snippet": "",
+        "url": "https://www.maannews.net/news/2137305.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr-wzxs9j7n4CbrSPpo_YXyw3koFXRn2GkvvRNeGTHkC060XSeEwfdkn_uIMo",
+        "source": "وكـالـة مـعـا الاخـبـارية"
+      },
+      {
+        "title": "اغتيال قيادي في حماس ونجليه بغارة إسرائيلية جنوب لبنان",
+        "snippet": "",
+        "url": "https://www.alwatanvoice.com/arabic/news/2025/04/04/1544365.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXMTL0ZSvf34_8ybRIAFOOrzNM8zDeFFDytHy_8H3eOxMNVPh6NYnG1CMsfuU",
+        "source": "دنيا الوطن"
+      },
+      {
+        "title": "جنوب لبنان.. جيش إسرائيل يعلن قتل حسن فرحات ويبين من هو",
+        "snippet": "",
+        "url": "https://arabic.cnn.com/middle-east/article/2025/04/04/news-three-killed-in-israeli-strike-targeting-hamas-commander-in-southern-lebanon-officials-say",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRG9YJJtTVZjNxVwG_zvRrg3WimQ44AEgmU8VVi9GdFWCubgkO2IeAS43ykk",
+        "source": "CNN Arabic"
+      }
+    ]
+  },
+  {
+    "title": "نسرين طافش",
+    "link": "https://trends.google.com/trending/rss?geo=PS",
+    "pubdate": "Thu, 3 Apr 2025 08:50:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH10VetOAkl2_1EGGp3znY6IhtvkP9FkTiySExaqTsimU3Bwl11mfTalaKqFk",
+    "picture_source": "اليوم السابع",
+    "news_items": [
+      {
+        "title": "رجل الأعمال أحمد جوهر يكشف زواجه من نسرين طافش من خلال الانستجرام.. صورة",
+        "snippet": "",
+        "url": "https://www.youm7.com/story/2025/4/2/%D8%B1%D8%AC%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A3%D8%AD%D9%85%D8%AF-%D8%AC%D9%88%D9%87%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%B2%D9%88%D8%A7%D8%AC%D9%87-%D9%85%D9%86-%D9%86%D8%B3%D8%B1%D9%8A%D9%86-%D8%B7%D8%A7%D9%81%D8%B4-%D9%85%D9%86/6941099",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH10VetOAkl2_1EGGp3znY6IhtvkP9FkTiySExaqTsimU3Bwl11mfTalaKqFk",
+        "source": "اليوم السابع"
+      },
+      {
+        "title": "‎كشف هوية زوج نسرين طافش بعد شهور من إعلان الزواج.. فيديو",
+        "snippet": "",
+        "url": "https://slaati.com/2025/04/04/p2662056.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKUplGS48nI9znbRAxXj97JNo0pcAFXOkGlAcofZ1WOmDWB88V6PG096uBrFM",
+        "source": "صحيفة صدى الالكترونية"
+      },
+      {
+        "title": "نسرين طافش تعلن زواجها من رجل أعمال مصري.. من هو؟",
+        "snippet": "",
+        "url": "https://almashhadalaraby.com/news/502534",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnQ3sX8sEVgaRDf2DH3HbeISvVBsEGFFwUKnJqQAo4aKp1stYkufWgHuE1Lw4",
+        "source": "المشهد العربي"
       }
     ]
   }

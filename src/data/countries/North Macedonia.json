@@ -1,32 +1,94 @@
 [
   {
-    "title": "clippers vs lakers",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=MK",
-    "pubdate": "Tue, 4 Feb 2025 23:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqY1X_jopMl6SuXVRIuoNEG5-sdat9W0xd42_FzDct3g8UXUi1rbNEy8YtIGU",
-    "picture_source": "Silver Screen and Roll",
+    "pubdate": "Thu, 3 Apr 2025 21:50:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpMw8NR6S2ACviCoekOUgViRCE3Ncdx0UWHAN6ZngjSzXvKAPgFhYR_s4_0Q",
+    "picture_source": "Spectrum News",
     "news_items": [
       {
-        "title": "Player Grades: Lakers vs. Clippers",
+        "title": "March kicked off a busy spring severe weather season",
         "snippet": "",
-        "url": "https://www.silverscreenandroll.com/2025/2/4/24359227/player-grades-lakers-clippers-box-score-stats-lebron-james-austin-reaves-luka-doncic",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqY1X_jopMl6SuXVRIuoNEG5-sdat9W0xd42_FzDct3g8UXUi1rbNEy8YtIGU",
-        "source": "Silver Screen and Roll"
+        "url": "https://spectrumlocalnews.com/mo/st-louis/weather/2025/04/03/severe-weather-season--tornadoes",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpMw8NR6S2ACviCoekOUgViRCE3Ncdx0UWHAN6ZngjSzXvKAPgFhYR_s4_0Q",
+        "source": "Spectrum News"
       },
       {
-        "title": "Luka Doncic supports new Lakers teammates from the bench... with fans left wondering when he'll make his debut",
+        "title": "Violent storms hit across the US",
         "snippet": "",
-        "url": "https://www.dailymail.co.uk/sport/nba/article-14361917/luka-doncic-lakers-sidelines-mavericks-trade.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpT4BXD9DSDQgks8Tqk5wzqc920LsaPayQ1q_87cPBgvYOtl2RWh6EALeU1YQ",
-        "source": "Daily Mail"
+        "url": "https://www.msn.com/en-gb/video/other/violent-storms-hit-across-the-us/vi-AA1CfMmi",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Cry2B7pAVLv6kqn-ymv1VBs8qJ82kPQIl0nLDQnNzcvR8SbQa7w6Z1RXnoA",
+        "source": "MSN"
       },
       {
-        "title": "LeBron James with 26 Points vs. LA Clippers",
+        "title": "Tracking destructive and deadly tornadoes in the US, in maps and charts",
         "snippet": "",
-        "url": "https://www.nba.com/watch/video/lebron-james-with-26-points-vs-la-clippers",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRixkOEOWwrsAE_5eXcV0Ec11T2j96qpDpwASKDLjTrv0x4sPnomsOuueRXNO0",
-        "source": "NBA.Com"
+        "url": "https://www.erienewsnow.com/story/52663868/tracking-destructive-and-deadly-tornadoes-in-the-us-in-maps-and-charts",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcVJEIIn6k8R1cBNUsFw5x_wvL5zI871QUBYEDbz-gNoerch1uidqqjn4AQoQ",
+        "source": "Erie News Now"
+      }
+    ]
+  },
+  {
+    "title": "chelsea vs tottenham",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Thu, 3 Apr 2025 12:30:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjYT6ImwBITVnyYlHgo8avMkjZq6LVXNZAZ2tEUc-vfoCiZIQTDaGAWqMBpk",
+    "picture_source": "Chelsea News",
+    "news_items": [
+      {
+        "title": "Levi Colwill names Chelsea player who’s “a huge threat” following Tottenham win",
+        "snippet": "",
+        "url": "https://chelsea.news/2025/04/levi-colwill-nicolas-jackson-praise/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjYT6ImwBITVnyYlHgo8avMkjZq6LVXNZAZ2tEUc-vfoCiZIQTDaGAWqMBpk",
+        "source": "Chelsea News"
+      },
+      {
+        "title": "Premier League: Enzo Maresca relieved after making stoppage time 'mistake' in Chelsea's win over Spurs",
+        "snippet": "",
+        "url": "https://www.flashscore.com/news/soccer-premier-league-maresca-relieved-after-making-stoppage-time-mistake-in-chelsea-s-win-over-spurs/f79iUSEq/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxW7IiE6oUM8EfUppH9gNZ3iRUMJf90GxfhmS1oNVk6aG75LKq7iULJih2dt0",
+        "source": "Flashscore.com"
+      },
+      {
+        "title": "Fernandez fires Chelsea into fourth as pressure mounts on Postecoglou",
+        "snippet": "",
+        "url": "https://www.france24.com/en/live-news/20250403-fernandez-fires-chelsea-into-fourth-as-pressure-mounts-on-postecoglou",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_NMIwFjHQlVSpA2L7Lt08DGOkrF6HKfJZe1ZYtP5P8s9vVtmTuImkt7rS_Mw",
+        "source": "France 24"
+      }
+    ]
+  },
+  {
+    "title": "lakers vs warriors",
+    "link": "https://trends.google.com/trending/rss?geo=MK",
+    "pubdate": "Thu, 3 Apr 2025 23:00:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlh9w9Y_LGoYUcqW1rQwL9fv-fsya5-hDASbPTLX24GhnfUEI7NM8jSdmD_jk",
+    "picture_source": "Sports Illustrated",
+    "news_items": [
+      {
+        "title": "JJ Redick's Three-Word Statement on Luka Doncic After Warriors-Lakers",
+        "snippet": "",
+        "url": "https://www.si.com/nba/warriors/news/jj-redicks-three-word-statement-on-luka-doncic-after-warriors-lakers-01jqzkc21d7n",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlh9w9Y_LGoYUcqW1rQwL9fv-fsya5-hDASbPTLX24GhnfUEI7NM8jSdmD_jk",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "JJ Redick Makes Lakers Admission After Loss to Warriors",
+        "snippet": "",
+        "url": "https://athlonsports.com/nba/los-angeles-lakers/jj-redick-makes-lakers-admission-after-loss-to-warriors",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUg0xoXQ5d_DG2R9rlf0MsHSgDMbNPQWbjFMe_MNd41YI8HxgKFY2nH37_F70",
+        "source": "Athlon Sports"
+      },
+      {
+        "title": "Lakers Overcome 6-1 deficit, Walk-off Win in Back-to-Back games",
+        "snippet": "",
+        "url": "https://www.erienewsnow.com/clip/15505887/lakers-overcome-6-1-deficit-walk-off-win-in-back-to-back-games",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQOU0BVXjiBTZbRaoUwtNOcc9ZaP-sCaVQCiUSZF_ngPJedbvGCbM-1A8ByWQ",
+        "source": "Erie News Now"
       }
     ]
   }

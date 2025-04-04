@@ -1,51 +1,64 @@
 [
   {
-    "title": "jelena rozga",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=BA",
-    "pubdate": "Tue, 4 Feb 2025 01:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "euroleague",
-    "link": "https://trends.google.com/trending/rss?geo=BA",
-    "pubdate": "Tue, 4 Feb 2025 11:00:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 21:30:00 -0700",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7qlKHQ7eZOwgG1MIP3jTttbbldwdZ84jBChQlFZpfshbRjdIwoEUTTY2wgnA",
-    "picture_source": "RotoWire",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpMw8NR6S2ACviCoekOUgViRCE3Ncdx0UWHAN6ZngjSzXvKAPgFhYR_s4_0Q",
+    "picture_source": "Spectrum News",
     "news_items": [
       {
-        "title": "EuroLeague Fantasy Challenge Picks: Round 25",
+        "title": "March kicked off a busy spring severe weather season",
         "snippet": "",
-        "url": "https://www.rotowire.com/euro/article/euroleague-fantasy-challenge-picks-round-25-89874",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7qlKHQ7eZOwgG1MIP3jTttbbldwdZ84jBChQlFZpfshbRjdIwoEUTTY2wgnA",
-        "source": "RotoWire"
+        "url": "https://spectrumlocalnews.com/mo/st-louis/weather/2025/04/03/severe-weather-season--tornadoes",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpMw8NR6S2ACviCoekOUgViRCE3Ncdx0UWHAN6ZngjSzXvKAPgFhYR_s4_0Q",
+        "source": "Spectrum News"
       },
       {
-        "title": "Get ready for February’s double week with the Fantasy Challenge Podcast",
+        "title": "Violent storms hit across the US",
         "snippet": "",
-        "url": "https://www.euroleaguebasketball.net/euroleague/news/get-ready-for-februarys-double-week-with-the-fantasy-challenge-podcast/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhZOnMdt4HM1P_tpg5kUugka3-cEUUoxRU6KpOKANhydMJR_hN720UuXENjk",
-        "source": "Euroleague Basketball"
+        "url": "https://www.msn.com/en-gb/video/other/violent-storms-hit-across-the-us/vi-AA1CfMmi",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Cry2B7pAVLv6kqn-ymv1VBs8qJ82kPQIl0nLDQnNzcvR8SbQa7w6Z1RXnoA",
+        "source": "MSN"
       },
       {
-        "title": "EuroLeague Basketball Picks: Best Bets for Round 24 - Friday",
+        "title": "Tracking destructive and deadly tornadoes in the US, in maps and charts",
         "snippet": "",
-        "url": "https://www.rotowire.com/euro/article/euroleague-basketball-picks-best-bets-for-round-24-friday-89789",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeZx2_6YuZWj0eg9I5lJrBRR6VFj0vEDNjD6Hm5QBw_yfj5RxGE0bc3UjRnPg",
-        "source": "RotoWire"
+        "url": "https://www.erienewsnow.com/story/52663868/tracking-destructive-and-deadly-tornadoes-in-the-us-in-maps-and-charts",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcVJEIIn6k8R1cBNUsFw5x_wvL5zI871QUBYEDbz-gNoerch1uidqqjn4AQoQ",
+        "source": "Erie News Now"
       }
     ]
   },
   {
-    "title": "igor karačić",
+    "title": "chelsea – tottenham",
     "link": "https://trends.google.com/trending/rss?geo=BA",
-    "pubdate": "Tue, 4 Feb 2025 12:20:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 12:30:00 -0700",
     "approx_traffic": 100,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Chelsea 1-0 Tottenham LIVE: Blues boost top-four hopes to pile pressure on Postecoglou",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/ce3q1n1l023t",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+        "source": "BBC"
+      },
+      {
+        "title": "Maresca 'happy' with Chelsea's 'dirty' win over Spurs",
+        "snippet": "",
+        "url": "https://sporty.com/news/video/1q92hkl3327yf191zd9vher3c9",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPSZJ0zDA4TsIWrb0jFF6MKwSYiEPL3JD55Ip6zvTBL8uCa3JxyawSKlnNErg",
+        "source": "Sporty.com"
+      },
+      {
+        "title": "Levi Colwill names Chelsea player who’s “a huge threat” following Tottenham win",
+        "snippet": "",
+        "url": "https://chelsea.news/2025/04/levi-colwill-nicolas-jackson-praise/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjYT6ImwBITVnyYlHgo8avMkjZq6LVXNZAZ2tEUc-vfoCiZIQTDaGAWqMBpk",
+        "source": "Chelsea News"
+      }
+    ]
   }
 ]

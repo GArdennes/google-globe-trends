@@ -1,268 +1,269 @@
 [
   {
-    "title": "temu",
+    "title": "speed youtuber",
     "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 18:20:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 20:30:00 -0700",
     "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIUObOWJIKWnTc90rjmgfBktMKYSABnXYtWhIk__MnpB5kLsCDq9XSoBX8NXA",
-    "picture_source": "Reuters",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdXMvAEVThhJXbv-NBTMuNIvy5tZCppESI60XIpLAk2JR9kaNkFf_rM-MYL5U",
+    "picture_source": "Hindustan Times",
     "news_items": [
       {
-        "title": "Shein, Temu, Amazon Haul set for price hikes as US shuts trade loophole",
+        "title": "China's steep ‘Love Ladder’ conquered by top American YouTuber. It's not MrBeast",
         "snippet": "",
-        "url": "https://www.reuters.com/business/retail-consumer/shein-temu-amazon-haul-set-price-hikes-us-shuts-trade-loophole-2025-02-04/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIUObOWJIKWnTc90rjmgfBktMKYSABnXYtWhIk__MnpB5kLsCDq9XSoBX8NXA",
-        "source": "Reuters"
+        "url": "https://www.hindustantimes.com/world-news/us-news/chinas-love-ladder-conquered-by-ishowspeed-video-101743478339345.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdXMvAEVThhJXbv-NBTMuNIvy5tZCppESI60XIpLAk2JR9kaNkFf_rM-MYL5U",
+        "source": "Hindustan Times"
       },
       {
-        "title": "‘I can’t order 100 pieces of junk for $15?’: How Trump’s tariff will hit fast-fashion devotees",
+        "title": "IShowSpeed livestreams break U.S. lies about China",
         "snippet": "",
-        "url": "https://www.theguardian.com/technology/2025/feb/04/temu-shein-trump-tariffs-china",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl-7GeyuhEHReAjpRR9ZmPeVEM0TspdRtzi2ac1qJW-zUf84j93gJ-lpO8e0c",
-        "source": "The Guardian"
+        "url": "https://m.chinanews.com/wap/detail/ecnszw/heqevhn5357317.shtml",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-66ravUM1y2UkkqgvBMyUBRMINIS7gMrDi_0t1fep6R9H3ZzSk4ZwyVWwNkE",
+        "source": "中国新闻网"
       },
       {
-        "title": "Tariffs may make your Shein and Temu orders more expensive. Here’s why.",
+        "title": "US influencer IShowSpeed’s view of China makes him accidental ambassador",
         "snippet": "",
-        "url": "https://www.washingtonpost.com/business/2025/02/04/tariffs-de-minimis-china-shein-temu/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTg4UK00Z8cRAjJmR6G9FGdga99CAGuHFaOQsLvdEHtUsDaUxQcmLNBYTePR4",
-        "source": "The Washington Post"
-      }
-    ]
-  },
-  {
-    "title": "快艇 對 湖人",
-    "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 19:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRC71qYalxBAjHszFcjnnn6QCybbzjyyePAxcdxlpT-Jrkx81dBNTg1cySskY",
-    "picture_source": "明報新聞網",
-    "news_items": [
-      {
-        "title": "當錫父斥獨行俠虛偽 感兒子被不公對待 - 20250205 - 體育",
-        "snippet": "",
-        "url": "https://news.mingpao.com/pns/%E9%AB%94%E8%82%B2/article/20250205/s00015/1738688568935/%E7%95%B6%E9%8C%AB%E7%88%B6%E6%96%A5%E7%8D%A8%E8%A1%8C%E4%BF%A0%E8%99%9B%E5%81%BD-%E6%84%9F%E5%85%92%E5%AD%90%E8%A2%AB%E4%B8%8D%E5%85%AC%E5%B0%8D%E5%BE%85",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRC71qYalxBAjHszFcjnnn6QCybbzjyyePAxcdxlpT-Jrkx81dBNTg1cySskY",
-        "source": "明報新聞網"
-      },
-      {
-        "title": "NBA球評︱獨行俠為何放棄當錫？ 一圖打破「天生肥底」迷思",
-        "snippet": "",
-        "url": "https://www.hk01.com/Jumper/1100034/nba%E7%90%83%E8%A9%95-%E7%8D%A8%E8%A1%8C%E4%BF%A0%E7%82%BA%E4%BD%95%E6%94%BE%E6%A3%84%E7%95%B6%E9%8C%AB-%E4%B8%80%E5%9C%96%E6%89%93%E7%A0%B4-%E5%A4%A9%E7%94%9F%E8%82%A5%E5%BA%95-%E8%BF%B7%E6%80%9D",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUrrqPXMXo4_JYWCmkn9XA5b1N-bsur8AO1pgv_Q17JCIGfce0kfe3cPPApSo",
-        "source": "香港01"
-      },
-      {
-        "title": "記好這日期！ 東契奇迎接湖人初登場最早在這天",
-        "snippet": "",
-        "url": "https://tw.sports.yahoo.com/news/%E8%A8%98%E5%A5%BD%E9%80%99%E6%97%A5%E6%9C%9F-%E6%9D%B1%E5%A5%91%E5%A5%87%E8%BF%8E%E6%8E%A5%E6%B9%96%E4%BA%BA%E5%88%9D%E7%99%BB%E5%A0%B4%E6%9C%80%E6%97%A9%E5%9C%A8%E9%80%99%E5%A4%A9-092251252.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFZkKNdfNkhPOHunn2KCA_n9MA5hS8p9yaGvxlfXtpInasA5gY5Zn_smYl_h0",
-        "source": "Yahoo奇摩運動"
-      }
-    ]
-  },
-  {
-    "title": "美國郵政",
-    "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 18:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "usps",
-    "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 18:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuDetFhGtm_dfvrT2A21MIgBl-XvLIwL5RwGT-0C67P3r1zxFL-KsdPKrKPI",
-    "picture_source": "BBC",
-    "news_items": [
-      {
-        "title": "US Postal Service stops accepting parcels from China",
-        "snippet": "",
-        "url": "https://www.bbc.com/news/articles/c3w83x38zvwo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuDetFhGtm_dfvrT2A21MIgBl-XvLIwL5RwGT-0C67P3r1zxFL-KsdPKrKPI",
-        "source": "BBC"
-      },
-      {
-        "title": "China’s Foreign Ministry Holds Briefing After US Postal Service Parcel Suspension",
-        "snippet": "",
-        "url": "https://www.bloomberg.com/news/live-blog/2025-02-04/china-s-markets-reopen-after-holiday",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxT62Oz_bkSV2-V-KoBz75S5cKIHbpF1xPpHgIGLlODhb6qssGu6Ev82AEJJw",
-        "source": "Bloomberg"
-      },
-      {
-        "title": "US Postal Service suspends inbound parcels from Hong Kong, mainland China",
-        "snippet": "",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3297391/us-postal-service-suspends-inbound-parcels-hong-kong-mainland-china",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqAukg58oGqFDN6tLEvIgMzaWeZnvidF3u9ejmyEAfRrYxzaRRC51Lfr5ibjo",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3305240/us-influencer-ishowspeeds-view-china-makes-him-accidental-ambassador",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-ziBX7IGGCfyI8r5UQlM35ywyaS9S4ML8rdhP-atTTHQsp3yZK2q54hWBWU",
         "source": "South China Morning Post"
       }
     ]
   },
   {
-    "title": "lakers",
+    "title": "curfew",
     "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 20:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRykCQiE0gaFa56ILurF1xdxnZY9jx0yMLFtNmZo-8u_69NRqPuUzjV2eA4XX0",
-    "picture_source": "NBA.Com",
+    "pubdate": "Fri, 4 Apr 2025 04:00:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQi1_2oukG_4mNTMdE5nmbSHKGpELNfO9TfKWhrymrr-P1wLhl2x9nlU-pTW4A",
+    "picture_source": "KTAR.com",
     "news_items": [
       {
-        "title": "Trending Topics: What does Anthony Davis-for-Luka Dončić deal mean for Lakers?",
+        "title": "New curfew for minors during First Fridays in effect April 4",
         "snippet": "",
-        "url": "https://www.nba.com/news/trending-topics-impact-of-luka-doncic-on-lakers",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRykCQiE0gaFa56ILurF1xdxnZY9jx0yMLFtNmZo-8u_69NRqPuUzjV2eA4XX0",
-        "source": "NBA.Com"
+        "url": "https://ktar.com/arizona-news/curfew-for-minors-first-fridays/5689749/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQi1_2oukG_4mNTMdE5nmbSHKGpELNfO9TfKWhrymrr-P1wLhl2x9nlU-pTW4A",
+        "source": "KTAR.com"
       },
       {
-        "title": "Mavericks trade Luka Doncic to Lakers for Anthony Davis in NBA blockbuster",
+        "title": "Curfew enforcement in effect tomorrow for Phoenix First Friday",
         "snippet": "",
-        "url": "https://www.usatoday.com/story/sports/nba/2025/02/02/luka-doncic-trade-anthony-davis-lakers-mavericks/78145301007/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLy3N7hkTC-sF8JOiuQl8p0cuC6HTvAj7unuPkEA4XA3av-VOj34CLUzDTWGw",
-        "source": "USA Today"
+        "url": "https://www.azfamily.com/video/2025/04/04/curfew-enforcement-effect-tomorrow-phoenix-first-friday/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDUIbcTaJANjAqZxRwEw-z5449WsltQqoeH_dkgLCVJRDT0qxI1ejb0h-ygBA",
+        "source": "AZFamily"
       },
       {
-        "title": "NBA trade deadline live updates: Lakers introduce Luka Dončić, Jimmy Butler market remains fluid",
+        "title": "Violent crime spike at First Friday event in downtown Phoenix leads to curfews",
         "snippet": "",
-        "url": "https://sports.yahoo.com/live/nba-trade-deadline-live-updates-lakers-introduce-luka-doncic-jimmy-butler-market-remains-fluid-041859906.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqPOiEKNDUiTjAc5bztKxxjWB7SLF01Bg74RzJZOdVu0lZ_mfLQzXHnYyQH9U",
-        "source": "Yahoo Sports"
+        "url": "https://www.yourvalley.net/stories/violent-crime-spike-at-first-fridays-in-downtown-phoenix-leads-to-curfews,573770",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXKXY5tFE_pZPIXxdv_pCKD-MazuEMowq3ZwJ0d-IZjvQlqfydpmz700oaL_A",
+        "source": "Your Valley"
       }
     ]
   },
   {
-    "title": "玉澤演",
+    "title": "狂醫魔徒",
     "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 19:30:00 -0800",
-    "approx_traffic": 500,
+    "pubdate": "Fri, 4 Apr 2025 00:00:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJLM7tCN1Yg-cjTcqemxXAypT72BjF14s88tWc7R6EWTlt9fQmkTXGr1VEnU",
+    "picture_source": "Marie Claire 美麗佳人",
+    "news_items": [
+      {
+        "title": "《狂醫魔徒》劇情角色8大亮點：朴恩斌薛景求瘋魔對決，顛覆上帝之手與醫療倫理，誰才是真正的白袍大Boss？！",
+        "snippet": "",
+        "url": "https://www.marieclaire.com.tw/entertainment/tvshow/85390",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJLM7tCN1Yg-cjTcqemxXAypT72BjF14s88tWc7R6EWTlt9fQmkTXGr1VEnU",
+        "source": "Marie Claire 美麗佳人"
+      },
+      {
+        "title": "MBTI視角：《狂醫魔徒》中朴恩斌飾演的天才醫生可能是最可怕的「INTJ」",
+        "snippet": "",
+        "url": "https://www.koreastardaily.com/tc/news/157543",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyVvLnqOC_Nh1Im6ddIDdsRGCr1vH0XN2n0kQZilmAXsCDabOPDBAdwQMlYrI",
+        "source": "KSD 韓星網"
+      },
+      {
+        "title": "越洋專訪》朴恩斌頂撞前輩薛景求不抱歉 他清理殺人現場竟讚「美麗」",
+        "snippet": "",
+        "url": "https://www.chinatimes.com/realtimenews/20250330003482-260404",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrHeSOLnO88DZWlYIO42vCDu-Cc-JdGJM4azvfv11Yb2nxgYUG-pcu8oqVZWs",
+        "source": "中時新聞網"
+      }
+    ]
+  },
+  {
+    "title": "lck",
+    "link": "https://trends.google.com/trending/rss?geo=HK",
+    "pubdate": "Thu, 3 Apr 2025 23:40:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0vo90joIEdPwpeArUfqntYWfNIR_mSKpNuw5KLyCvM2DRDgkaqSiF69qC8Tk",
+    "picture_source": "BetUS",
+    "news_items": [
+      {
+        "title": "Dplus KIA vs FearX Prediction: LCK 2025 Round 1-2 Match Preview, Picks",
+        "snippet": "",
+        "url": "https://www.betus.com.pa/esports/picks/fearx-vs-dplus-kia-prediction-and-odds-04-03-2025/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0vo90joIEdPwpeArUfqntYWfNIR_mSKpNuw5KLyCvM2DRDgkaqSiF69qC8Tk",
+        "source": "BetUS"
+      }
+    ]
+  },
+  {
+    "title": "sabrina carpenter",
+    "link": "https://trends.google.com/trending/rss?geo=HK",
+    "pubdate": "Thu, 3 Apr 2025 22:20:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSul4Nbox8_uSRJooSvITim8vxoNTHawrEeXpBvQ921G41dau_I5vmtMOJ-6y0",
+    "picture_source": "IMDb",
+    "news_items": [
+      {
+        "title": "Sabrina Carpenter Rumored To Have Met With Disney About Playing Rapunzel In Live-Action Tangled Movie",
+        "snippet": "",
+        "url": "https://www.imdb.com/es/news/ni65213971/?ref_=nm_nwr_2",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSul4Nbox8_uSRJooSvITim8vxoNTHawrEeXpBvQ921G41dau_I5vmtMOJ-6y0",
+        "source": "IMDb"
+      },
+      {
+        "title": "Tangled: Sabrina Carpenter Has Met With Disney for Live-Action Remake",
+        "snippet": "",
+        "url": "https://www.yahoo.com/entertainment/tangled-sabrina-carpenter-met-disney-195336120.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeQUMfO5lY3WKNiZTa-YH0-5Y52gFg69OYCRP76JjMIhaq8a81H6ISbmwyn3w",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Sabrina Carpenter Rumored To Have Met With Disney About Playing Rapunzel In Live-Action TANGLED Movie",
+        "snippet": "",
+        "url": "https://comicbookmovie.com/disney/sabrina-carpenter-rumored-to-have-met-with-disney-about-playing-rapunzel-in-live-action-tangled-movie-a217420",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6YoyINy7cEAZVj_jvI8Eor8SVvuywbjC1lwY5zDYaIS2d1q_QxegafzLFeE",
+        "source": "ComicBookMovie.com"
+      }
+    ]
+  },
+  {
+    "title": "warriors",
+    "link": "https://trends.google.com/trending/rss?geo=HK",
+    "pubdate": "Thu, 3 Apr 2025 21:20:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSipIOa3rkEvmBKZIFYXkMM8AGOCQN8_RTEpqRbII8t6avgBUvEOMsxztC_01w",
+    "picture_source": "NBA",
+    "news_items": [
+      {
+        "title": "Memphis Grizzlies vs Miami Heat Apr 3, 2025 Box Scores",
+        "snippet": "",
+        "url": "https://www.nba.com/game/mem-vs-mia-0022401114/box-score",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSipIOa3rkEvmBKZIFYXkMM8AGOCQN8_RTEpqRbII8t6avgBUvEOMsxztC_01w",
+        "source": "NBA"
+      },
+      {
+        "title": "Heat sink Celtics for sixth straight win; Cavs roll on",
+        "snippet": "",
+        "url": "https://news.rthk.hk/rthk/en/component/k2/1798766-20250403.htm",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxQIFLy0Pn-PFnx_tfcAoc9uFqV1-RNIl5FgfXJPEjmyCH266a5mUYg5IcYMU",
+        "source": "香港電台新聞主頁"
+      },
+      {
+        "title": "\"Losing Still Sucks\" - After Just Their Second Loss In A Month, The Celtics Were Given A Valuable Reminder Of What Can Happen When You Play Like Assholes",
+        "snippet": "",
+        "url": "https://www.barstoolsports.com/blog/3542206/losing-still-sucks-after-just-their-second-loss-in-a-month-the-celtics-were-given-a-valuable-reminder-of-what-can-happen-when-you-play-like-assholes",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjJprXAR7jnwRrdI-r9DSSy2j-LS3b6k6QoeSs9W4GgzGtHlH4V-ft8opuIw",
+        "source": "Barstool Sports"
+      }
+    ]
+  },
+  {
+    "title": "羅淑佩",
+    "link": "https://trends.google.com/trending/rss?geo=HK",
+    "pubdate": "Fri, 4 Apr 2025 03:50:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ39nB9wy8Cvxi5UZIWu6DLByex3LhM48emZNpoQbssNoU-xQuVc9ITgzqmqPM",
+    "picture_source": "香港電台新聞主頁",
+    "news_items": [
+      {
+        "title": "羅淑佩稱訪京匯報工作獲夏寶龍勉勵 將秉持守正繼續做好工作",
+        "snippet": "",
+        "url": "https://news.rthk.hk/rthk/ch/component/k2/1798904-20250404.htm",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ39nB9wy8Cvxi5UZIWu6DLByex3LhM48emZNpoQbssNoU-xQuVc9ITgzqmqPM",
+        "source": "香港電台新聞主頁"
+      },
+      {
+        "title": "羅淑佩稱夏寶龍關注本港旅遊業 籲電影業界把握CEPA新機遇",
+        "snippet": "",
+        "url": "https://news.tvb.com/tc/local/67ef68b8ec361c0a9ea27a4f/%E6%B8%AF%E6%BE%B3-%E7%BE%85%E6%B7%91%E4%BD%A9%E7%A8%B1%E5%A4%8F%E5%AF%B6%E9%BE%8D%E9%97%9C%E6%B3%A8%E6%9C%AC%E6%B8%AF%E6%97%85%E9%81%8A%E6%A5%AD-%E7%B1%B2%E9%9B%BB%E5%BD%B1%E6%A5%AD%E7%95%8C%E6%8A%8A%E6%8F%A1CEPA%E6%96%B0%E6%A9%9F%E9%81%87",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7bHEy6VDmK80DttBV-f-vnykYNcec32sqdd4cwmgWiQ58VKtBvAC99q5fRs",
+        "source": "news.tvb.com"
+      },
+      {
+        "title": "羅淑佩拜會國家文化和旅遊部及國家電影局",
+        "snippet": "",
+        "url": "https://www2.hkej.com/landing/articleprint/id/4047108",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnzrmTPfyCfwxkrUHCR1ylBr8szPTmgW8S5s79M4lSsGVPqxy_LLzU241qyao",
+        "source": "hkej.com"
+      }
+    ]
+  },
+  {
+    "title": "淘多多",
+    "link": "https://trends.google.com/trending/rss?geo=HK",
+    "pubdate": "Thu, 3 Apr 2025 22:40:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsgZLGqI9haEMNZqxWNYiSFxVx_RKLthoe_ruFNbJCBs1OQqtO65eMp7ww_SY",
+    "picture_source": "香港01",
+    "news_items": [
+      {
+        "title": "反攻淘寶｜淘多多下周灣仔開1.4萬呎巨舖賣傢俬 雙人梳化售799元",
+        "snippet": "",
+        "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60226274/%E5%8F%8D%E6%94%BB%E6%B7%98%E5%AF%B6-%E6%B7%98%E5%A4%9A%E5%A4%9A%E4%B8%8B%E5%91%A8%E7%81%A3%E4%BB%94%E9%96%8B1-4%E8%90%AC%E5%91%8E%E5%B7%A8%E8%88%96%E8%B3%A3%E5%82%A2%E4%BF%AC-%E9%9B%99%E4%BA%BA%E6%A2%B3%E5%8C%96%E5%94%AE799%E5%85%83",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsgZLGqI9haEMNZqxWNYiSFxVx_RKLthoe_ruFNbJCBs1OQqtO65eMp7ww_SY",
+        "source": "香港01"
+      },
+      {
+        "title": "淘多多灣仔開逾萬呎分店！合共4層高門市破天荒增設傢俬專區",
+        "snippet": "",
+        "url": "https://hk.ulifestyle.com.hk/activity/detail/20061062/%E6%B7%98%E5%A4%9A%E5%A4%9A%E6%AE%BA%E5%85%A5%E7%81%A3%E4%BB%94%E9%96%8B%E9%80%BE%E8%90%AC%E5%91%8E%E5%88%86%E5%BA%97-%E5%90%88%E5%85%B1-%E5%B1%A4%E6%A8%93%E7%A0%B4%E5%A4%A9%E8%8D%92%E5%A2%9E%E8%A8%AD%E5%82%A2%E4%BF%AC%E5%B0%88%E5%8D%80",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe09OkLsma67Z3Vl6wcc6jmOKQ7tUeK5nT1VsQqlf7-_bvFGOdi5gc5MhSJfw",
+        "source": "UHK 港生活"
+      }
+    ]
+  },
+  {
+    "title": "nba standings",
+    "link": "https://trends.google.com/trending/rss?geo=HK",
+    "pubdate": "Thu, 3 Apr 2025 21:50:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0yAIk10GNAEEFdFTNqQAHdnTW3yGWiXLFXd9ME4hlmNiuqb7TIZWOjT-27E",
+    "picture_source": "NBA",
+    "news_items": [
+      {
+        "title": "2025 NBA Play-in, Playoffs & Finals Schedule",
+        "snippet": "",
+        "url": "https://www.nba.com/news/2025-nba-playoffs-schedule",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0yAIk10GNAEEFdFTNqQAHdnTW3yGWiXLFXd9ME4hlmNiuqb7TIZWOjT-27E",
+        "source": "NBA"
+      },
+      {
+        "title": "Warriors vs. Lakers Predictions: Odds, recent stats, trends, best bets for April 3",
+        "snippet": "",
+        "url": "https://sports.yahoo.com/article/warriors-vs-lakers-predictions-odds-131005212.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5njZns4SjA_5X2up3CsY-__W52aNon-5AUWDHpQOhVmMSssidx_ua7ujwDLw",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "If NBA playoffs started today: Matchups and what to expect in each series",
+        "snippet": "",
+        "url": "https://www.nytimes.com/athletic/6251570/2025/04/03/nba-playoffs-matchups-2025/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSU6Lbo68Dl5BZPfvZXkh-OouSXa1uxSZjoF7YI3fCL2tJ0jZp4qX9lmDNWUX4",
+        "source": "The New York Times"
+      }
+    ]
+  },
+  {
+    "title": "青馬大橋",
+    "link": "https://trends.google.com/trending/rss?geo=HK",
+    "pubdate": "Thu, 3 Apr 2025 21:00:00 -0700",
+    "approx_traffic": 100,
     "picture": "",
     "picture_source": "",
     "news_items": []
-  },
-  {
-    "title": "76人 對 獨行俠",
-    "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 17:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3CO1b_Vm-y2ZC4lRkD45XzENA7nspJ1hu8TjMxULKXNThOPEI_QFof3nxY8M",
-    "picture_source": "Yahoo奇摩運動",
-    "news_items": [
-      {
-        "title": "獨行俠送走東契奇後又有動作 去年拒絕續約的24歲後衛被送往76人",
-        "snippet": "",
-        "url": "https://tw.sports.yahoo.com/news/%E7%8D%A8%E8%A1%8C%E4%BF%A0%E9%80%81%E8%B5%B0%E6%9D%B1%E5%A5%91%E5%A5%87%E5%BE%8C%E5%8F%88%E6%9C%89%E5%8B%95%E4%BD%9C-%E5%8E%BB%E5%B9%B4%E6%8B%92%E7%B5%95%E7%BA%8C%E7%B4%84%E7%9A%8424%E6%AD%B2%E5%BE%8C%E8%A1%9B%E8%A2%AB%E9%80%81%E5%BE%8076%E4%BA%BA-021403973.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3CO1b_Vm-y2ZC4lRkD45XzENA7nspJ1hu8TjMxULKXNThOPEI_QFof3nxY8M",
-        "source": "Yahoo奇摩運動"
-      },
-      {
-        "title": "[全部]其他運動",
-        "snippet": "",
-        "url": "https://sports.now.com/home/other/details?id=39087991857",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBP3xgrgbClXFBwjf2S69eMEgGf0mc_HgVBc07LyIsykZL-rl56DYwF46ghE4",
-        "source": "Now Sports"
-      },
-      {
-        "title": "NBA》恩比德歸隊首戰繳大三元 七六人險勝獨行俠賞3連敗",
-        "snippet": "",
-        "url": "https://sports.ltn.com.tw/news/breakingnews/4941749",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRziwT8FNf72BpqYUcV5U4kf7wC0THsgTwJM5fcCFLVV7Wtb6nKICa8P3zW3JU",
-        "source": "自由體育"
-      }
-    ]
-  },
-  {
-    "title": "f",
-    "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 21:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRc-B66z-RAge4kxf00KJr3_7qelVOMVTcrvcsODxJFHehg8-bwQw4mq02mo2Y",
-    "picture_source": "CNN",
-    "news_items": [
-      {
-        "title": "Key GOP senator explains why he's supporting RFK Jr.",
-        "snippet": "",
-        "url": "https://www.cnn.com/2025/02/04/politics/video/senator-bill-cassidy-explains-rfk-jr-vote-digvid",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRc-B66z-RAge4kxf00KJr3_7qelVOMVTcrvcsODxJFHehg8-bwQw4mq02mo2Y",
-        "source": "CNN"
-      },
-      {
-        "title": "RFK Jr. closes in on HHS Cabinet post after Senate panel vote",
-        "snippet": "",
-        "url": "https://www.washingtonpost.com/health/2025/02/04/rfk-jr-confirmation-committee-vote-hhs-secretary/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtkDi_dBm8uye35Cq8xeoxNpeZzUzKhIsC2GLQ3AfOzySOO-SE5HDiwk149YU",
-        "source": "The Washington Post"
-      },
-      {
-        "title": "Kennedy's promises on vaccines secure senior Republican senator's vote",
-        "snippet": "",
-        "url": "https://www.reuters.com/world/us/senate-panel-backs-trump-health-secretary-nominee-robert-f-kennedy-jr-2025-02-04/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sbQJQIVgCflL6S-AI-HlxvG3zrMu1kGSAou_ary7qq4yEw6Lp8ulTWmJ1PY",
-        "source": "Reuters"
-      }
-    ]
-  },
-  {
-    "title": "clippers vs lakers",
-    "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 20:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv_mEhd3FYZAgFjZVneleediZh7hSx_tdNzKc6fg56gfq1r9-2iXq0gMfaCLU",
-    "picture_source": "Silver Screen and Roll",
-    "news_items": [
-      {
-        "title": "Lakers blowout the Clippers behind dominant LeBron James performance",
-        "snippet": "",
-        "url": "https://www.silverscreenandroll.com/2025/2/4/24359141/lakers-vs-clippers-final-score-recap-stats-box-score-lebron-james-austin-reaves-rui-hachimura",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv_mEhd3FYZAgFjZVneleediZh7hSx_tdNzKc6fg56gfq1r9-2iXq0gMfaCLU",
-        "source": "Silver Screen and Roll"
-      },
-      {
-        "title": "LeBron James Puts Up 26",
-        "snippet": "",
-        "url": "https://bleacherreport.com/videos/654646-lebron-james-puts-up-26",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoD85cvXUgFmMqXZG6WeyYM25YKk7sa6OSu9UdjNFUYxXLwomAwQVUX4JM7Dk",
-        "source": "Bleacher Report"
-      },
-      {
-        "title": "LeBron JamesandLuka Doncic's first lakers moment had the NBA in awe",
-        "snippet": "",
-        "url": "https://www.marca.com/en/basketball/nba/los-angeles-lakers/2025/02/05/67a300abca474192618b4597.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLYfW17UfwRC4GzV-NTui0Ci0XtCIkGxOR6G43lPubJHPnzbA0E9R-aBu-tuw",
-        "source": "Marca.com"
-      }
-    ]
-  },
-  {
-    "title": "年初八",
-    "link": "https://trends.google.com/trending/rss?geo=HK",
-    "pubdate": "Tue, 4 Feb 2025 17:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4CoI2UfRkgd5qcJy2dUwhgaXDikLf_I6UN0oiLP3YqiirLk9JoTTCNeGsQLM",
-    "picture_source": "新唐人電視台",
-    "news_items": [
-      {
-        "title": "大年初八聚財日 謹記「三吃、四忌、五要做」",
-        "snippet": "",
-        "url": "https://www.ntdtv.com/gb/2025/02/05/a103955907.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4CoI2UfRkgd5qcJy2dUwhgaXDikLf_I6UN0oiLP3YqiirLk9JoTTCNeGsQLM",
-        "source": "新唐人電視台"
-      },
-      {
-        "title": "农历初九天公诞 马国民众DIY“天公座”",
-        "snippet": "",
-        "url": "https://www.8world.com/southeast-asia/malaysia-diy-tian-gong-zuo-2696446",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5vewwokEagh-uSlv7UuWQIIpgJMmn2dI4HNGbfG4fF13y7A5xz_TnQD2cHE",
-        "source": "8world"
-      },
-      {
-        "title": "吉北納卡黄梨园“旺来”飘香 採割应付天公诞市场",
-        "snippet": "",
-        "url": "https://penang.chinapress.com.my/20250204/%E5%90%89%E5%8C%97%E7%B4%8D%E5%8D%A1%E9%BB%84%E6%A2%A8%E5%9B%AD%E6%97%BA%E6%9D%A5%E9%A3%98%E9%A6%99-%E6%8E%A1%E5%89%B2%E5%BA%94%E4%BB%98%E5%A4%A9%E5%85%AC%E8%AF%9E%E5%B8%82/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa4ALLI0SD-SUjSlgn567c86GwfmOQAbZsIU55de6GQRY_4qBOrc70xyQHeVU",
-        "source": "中國報 China Press"
-      }
-    ]
   }
 ]

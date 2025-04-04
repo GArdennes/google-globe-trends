@@ -1,311 +1,289 @@
 [
   {
-    "title": "colombia sub-20 - paraguay sub-20",
+    "title": "sporting cristal - palmeiras",
     "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 16:10:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZhBOlk28WmSz1HdDhPcNKGafY438T9V3z2DOdZjcAIePqDKS8w0WQ-akM0k",
+    "pubdate": "Thu, 3 Apr 2025 14:10:00 -0700",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR712sKYfPQkyXvFOHZMMalcWnWfKcdYz10_1HOHoI_eFUyvXpx2yGljXM015s",
+    "picture_source": "ge",
+    "news_items": [
+      {
+        "title": "Sporting Cristal x Palmeiras: onde assistir ao vivo, horário e escalações",
+        "snippet": "",
+        "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2025/04/03/sporting-cristal-x-palmeiras-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR712sKYfPQkyXvFOHZMMalcWnWfKcdYz10_1HOHoI_eFUyvXpx2yGljXM015s",
+        "source": "ge"
+      },
+      {
+        "title": "Palmeiras de Abel vence na Libertadores",
+        "snippet": "",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/palmeiras-de-abel-vence-na-libertadores_d1645671",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvZOp7Vsbmx_IMLSDFHJkv4_h0oF3T_9P7MSoIw76ORApAVEIqHmro4ufYMAs",
+        "source": "RTP"
+      },
+      {
+        "title": "🔴 Palmeiras vence jogo de CINCO gols e empate em Salvador; Fla joga logo +",
+        "snippet": "",
+        "url": "https://onefootball.com/pt-br/noticias/palmeiras-vence-jogo-de-cinco-gols-e-empate-em-salvador-fla-joga-logo-40923621",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrYOSRjbgAkMromiAXRyUY5nPjbFj35d-uPjb27j7fi3-mo2DKbvHiQ4ivYM4",
+        "source": "OneFootball"
+      }
+    ]
+  },
+  {
+    "title": "newell's - kimberley mar del plata",
+    "link": "https://trends.google.com/trending/rss?geo=PY",
+    "pubdate": "Thu, 3 Apr 2025 17:00:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYUzeQ5_FV8LZ9Na_PA3S4qw310nEDlkEvZ3eG_syijjtPmj8TMGXcT05iNcc",
+    "picture_source": "DSports",
+    "news_items": [
+      {
+        "title": "Inicia el segundo tiempo sin goles entre Newell`s y Kimberley",
+        "snippet": "",
+        "url": "https://www.directvsports.com/futbol/Inicia-el-segundo-tiempo-sin-goles-entre-Newells-y-Kimberley-20250331-0010.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYUzeQ5_FV8LZ9Na_PA3S4qw310nEDlkEvZ3eG_syijjtPmj8TMGXcT05iNcc",
+        "source": "DSports"
+      },
+      {
+        "title": "Cristian Fabbiani: «Lo importante era ganar y lo conseguimos»",
+        "snippet": "",
+        "url": "https://elciudadanoweb.com/cristian-fabbiani-lo-importante-era-ganar-y-lo-conseguimos/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHRbYtn8wpv0XQcuKXh0JtbYudAu5oVWauXeIyxxPC26Hb7PTM2zqf9Bg4SQI",
+        "source": "El Ciudadano"
+      },
+      {
+        "title": "Una dura derrota política, un complejo escenario institucional",
+        "snippet": "",
+        "url": "https://www.cadena3.com/noticia/radioinforme-3-rosario/una-dura-derrota-politica-un-complejo-escenario-institucional_413486",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZZ-76BjxaX5YkheSouSybd9Swopqi-4qHpnszcMb6k_0fRgoT3GTE8jE9vGg",
+        "source": "Cadena 3 Argentina"
+      }
+    ]
+  },
+  {
+    "title": "deportivo táchira - flamengo",
+    "link": "https://trends.google.com/trending/rss?geo=PY",
+    "pubdate": "Thu, 3 Apr 2025 17:00:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ-OZQZDkKb8kk32X3t-MKP18pGykYqaoumO0Jq4BSQQ4RDYk0vmVtnoJ0Z0o",
     "picture_source": "ESPN Deportes",
     "news_items": [
       {
-        "title": "Colombia golea a Paraguay en el hexagonal final del Sudamericano Sub-20",
+        "title": "Flamengo se quedó con el encuentro ante Deportivo Táchira por la Libertadores",
         "snippet": "",
-        "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/14749667/colombia-golea-a-paraguay-en-el-hexagonal-final-del-sudamericano-sub-20",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZhBOlk28WmSz1HdDhPcNKGafY438T9V3z2DOdZjcAIePqDKS8w0WQ-akM0k",
+        "url": "https://espndeportes.espn.com/futbol/copa-libertadores/nota/_/id/15001913/flamengo-se-quedo-con-el-encuentro-ante-deportivo-tachira-por-la-libertadores",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ-OZQZDkKb8kk32X3t-MKP18pGykYqaoumO0Jq4BSQQ4RDYk0vmVtnoJ0Z0o",
         "source": "ESPN Deportes"
       },
       {
-        "title": "La Albirroja recibe una paliza en el inicio del hexagonal ante Colombia",
+        "title": "Filipe Luis inicia con Flamengo ante Táchira el reto de la Copa Libertadores",
         "snippet": "",
-        "url": "https://d10.ultimahora.com/la-albirroja-recibe-una-paliza-en-el-inicio-del-hexagonal-ante-colombia",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfOAtAVs0ripZP_vmHbRwsdcgLR06ObCiY-L9uALW6pd5SwQbmrepFlP7mmSk",
-        "source": "D10"
+        "url": "https://es-us.noticias.yahoo.com/filipe-luis-inicia-flamengo-t%C3%A1chira-150053074.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwFdXIK6Kq5lo9Bn-IqKpm8znaGNWGRD7WbWujO42DZ5d89iThU2cx5otdjKE",
+        "source": "Yahoo Noticias"
       },
       {
-        "title": "Paraguay y otra goleada en contra, esta vez ante Colombia",
+        "title": "Táchira y Flamengo empatan 0-0 y se van al entretiempo",
         "snippet": "",
-        "url": "https://www.abc.com.py/deportes/futbol/2025/02/04/paraguay-y-otra-goleada-en-contra-esta-vez-ante-colombia/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXGMgPr5gZ0IlILcBOK4huLWpXrx7HRuuA-dMNTeNazPMFt5Io7iD5AjgXwPQ",
-        "source": "ABC Color"
+        "url": "https://www.directvsports.com/futbol/Tachira-y-Flamengo--empatan-0-0-y-se-van-al-entretiempo-20250331-0007.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-q7dRcEszIf6lCavB4-TlLlOmBDKGpvydDbfnjvemCyMbbqa7tfUGAYbg64",
+        "source": "DSports"
       }
     ]
   },
   {
-    "title": "atlético mineiro - athletic club",
+    "title": "palmeiras vs",
     "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 16:10:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 15:10:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "central córdoba - ldu quito",
+    "link": "https://trends.google.com/trending/rss?geo=PY",
+    "pubdate": "Thu, 3 Apr 2025 15:00:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJm8BH-85cE4eEkm5MJL3J8jDPnbeJgvrcGKMq1u_RMRPZhsfy3IXNNNHngwc",
+    "picture_source": "ESPN Deportes",
+    "news_items": [
+      {
+        "title": "La posible formación titular de Liga de Quito ante Central Córdoba",
+        "snippet": "",
+        "url": "https://espndeportes.espn.com/futbol/copa-libertadores/nota/_/id/14075074/liga-de-quito-posible-formacion-titular-central-cordoba",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJm8BH-85cE4eEkm5MJL3J8jDPnbeJgvrcGKMq1u_RMRPZhsfy3IXNNNHngwc",
+        "source": "ESPN Deportes"
+      },
+      {
+        "title": "Pablo Sánchez y el empate de Liga en Argentina: \"Sumar de visitante es bueno\"",
+        "snippet": "",
+        "url": "https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/15001766/pablo-sanchez-empate-liga-de-quito-argentina-sumar-de-visitante-es-bueno",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJNxpu4a-IC0dGEdJGPxZxEQzSOssCpC47f3T8BwoocU8JArkSGOf3wnctwEA",
+        "source": "ESPN Argentina"
+      },
+      {
+        "title": "Así marcha la tabla de posiciones del grupo C de Copa Libertadores luego del empate de Liga de Quito y el triunfo de Flamengo",
+        "snippet": "",
+        "url": "https://www.eluniverso.com/deportes/futbol/asi-marcha-la-tabla-de-posiciones-del-grupo-c-de-copa-libertadores-luego-del-emapte-de-liga-de-quito-y-el-triunfo-de-flamengo-nota/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKkLQQGyFNd8MSnXH7RHUjdciHmOZkDCfEfeiWFmVdtzlHu-RppO13VJe_4Dw",
+        "source": "El Universo"
+      }
+    ]
+  },
+  {
+    "title": "flamengo",
+    "link": "https://trends.google.com/trending/rss?geo=PY",
+    "pubdate": "Thu, 3 Apr 2025 17:00:00 -0700",
     "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUks2kYyNkFOZx4Fz68w67UtS1Qs7CD3Em-NxUeSISOGhuPVc-29ashh8torw",
-    "picture_source": "OneFootball",
-    "news_items": [
-      {
-        "title": "Em coletiva Cuca fala sobre vitória, nova função de Franco e lesão de Cuello",
-        "snippet": "",
-        "url": "https://onefootball.com/fr/news/em-coletiva-cuca-fala-sobre-vitoria-nova-funcao-de-franco-e-lesao-de-cuello-40665291",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUks2kYyNkFOZx4Fz68w67UtS1Qs7CD3Em-NxUeSISOGhuPVc-29ashh8torw",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Análise: vitória dá respiro ao Atlético-MG e afasta pressão precoce em início de temporada",
-        "snippet": "",
-        "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2025/02/05/analise-vitoria-da-respiro-ao-atletico-mg-e-afasta-pressao-precoce-em-inicio-de-temporada.ghtml",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwDf9HsTWkDA0XPGUN2HpqJVliZXXPnEzceNl2398DHGtWHibAnEVIe03JRMY",
-        "source": "GE"
-      },
-      {
-        "title": "Hulk decide, Atlético Mineiro supera Athletic e assume a ponta no Mineiro",
-        "snippet": "",
-        "url": "https://www.msn.com/pt-br/esportes/other/hulk-decide-atl%C3%A9tico-mineiro-supera-athletic-e-assume-a-ponta-no-mineiro/ar-AA1yqzDR",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBFIbhbEoDiTp84DoNj_zAzP-UO7x_5yMU9-N34ZqHr2dL3nwxnkprGjsUrtk",
-        "source": "MSN"
-      }
-    ]
-  },
-  {
-    "title": "cristiano ronaldo",
-    "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 15:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCpQVmQGq01JPkJZ7ojT-MBzJ8AzvR6DZCouyueJE7AncfVS_GzcRMLxFwri0",
-    "picture_source": "Bolavip",
-    "news_items": [
-      {
-        "title": "Carlo Ancelotti names the greatest soccer player of all time",
-        "snippet": "",
-        "url": "https://bolavip.com/en/soccer/carlo-ancelotti-names-the-greatest-soccer-player-of-all-time",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCpQVmQGq01JPkJZ7ojT-MBzJ8AzvR6DZCouyueJE7AncfVS_GzcRMLxFwri0",
-        "source": "Bolavip"
-      },
-      {
-        "title": "Cristiano Ronaldo at 40: CR7's GOAT status is up for debate - but he is definitely football's greatest athlete of all time",
-        "snippet": "",
-        "url": "https://www.goal.com/en-us/lists/cristiano-ronaldo-40-goat-status-debate-football-greatest-athlete/bltbda46a925b1c8d1e",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROrqykdVFpcYuLn6s_-M8HPIf3c5ubeSYlpb4MKi46BOsl59-tKKV4DeQQKMI",
-        "source": "Goal.com"
-      },
-      {
-        "title": "Cristiano Ronaldo Reveals He Was Messi's Translator",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-us/soccer/articles-video/cristiano-ronaldo-reveals-he-was-messi-s-translator-2025-02-04",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTs5yyDx-K4qDS1Stty2KYpifZKHlIDTvp-7-RhIFIrDoEwOX29LnL-IM4lU1w",
-        "source": "beIN SPORTS"
-      }
-    ]
-  },
-  {
-    "title": "uruguay sub-20 - brasil sub-20",
-    "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 14:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8j8jnlExtdODPU1HeQ-TAHYSgZf0rJeri6S4yai5YrWrYv8SbnXpCnC4boQA",
-    "picture_source": "D10",
-    "news_items": [
-      {
-        "title": "Brasil regresa a la victoria en el Sudamericano Sub 20",
-        "snippet": "",
-        "url": "https://d10.ultimahora.com/brasil-regresa-a-la-victoria-en-el-sudamericano-sub-20",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8j8jnlExtdODPU1HeQ-TAHYSgZf0rJeri6S4yai5YrWrYv8SbnXpCnC4boQA",
-        "source": "D10"
-      },
-      {
-        "title": "Brasil derrotó 1-0 a Uruguay en el inicio de la fase final del Sudamericano Sub-20",
-        "snippet": "",
-        "url": "https://www.abc.com.py/deportes/futbol/2025/02/04/brasil-derroto-1-0-a-uruguay-en-el-inicio-de-la-fase-final-del-sudamericano-sub-20/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYlv3EFf4oPml1OON_Ko3JCYGu0s1aIYoqcxCLXeaQw8RdFCx-uyjTW9PuG2o",
-        "source": "ABC Color"
-      },
-      {
-        "title": "El próximo partido de Uruguay por el hexagonal final del Sudamericano sub 20: clásico con Argentina",
-        "snippet": "",
-        "url": "https://www.elobservador.com.uy/seleccion/el-proximo-partido-uruguay-el-hexagonal-final-del-sudamericano-sub-20-clasico-argentina-n5983419",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwAiX3430RbphG8teCFoKLuxRxqiHjCApxNAVzJzdRmZsGy-CPCp16vxA_HYM",
-        "source": "El Observador"
-      }
-    ]
-  },
-  {
-    "title": "godoy cruz - talleres",
-    "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 14:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM3MCdHbIy3NSL2Y5s7mv9KuovSlaqjUDDFvK8pQgz88YvxEDBYyDAn498j1c",
-    "picture_source": "Infobae",
-    "news_items": [
-      {
-        "title": "Suspendieron el partido de Godoy Cruz y Talleres por la agresión a un juez de línea antes del inicio del segundo tiempo",
-        "snippet": "",
-        "url": "https://www.infobae.com/deportes/2025/02/04/godoy-cruz-talleres-y-atletico-tucuman-riestra-bajan-el-telon-de-la-fecha-3-del-torneo-apertura-hora-tv-y-formaciones/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM3MCdHbIy3NSL2Y5s7mv9KuovSlaqjUDDFvK8pQgz88YvxEDBYyDAn498j1c",
-        "source": "Infobae"
-      },
-      {
-        "title": "El juego en Argentina está suspendido después de que Blag sea golpeado por Mast",
-        "snippet": "",
-        "url": "https://www.puertasautomaticasediciones.cl/estilo-vida/el-juego-en-argentina-esta-suspendido-despues-de-que-blag-sea-golpeado-por-mast/103024/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdAXImsCrOl2skuCggBAESWTGe7teLNl0jacDnuZ6qn_4bHItJ_9D5XyvTLHc",
-        "source": "www.puertasautomaticasediciones.cl"
-      },
-      {
-        "title": "Escándalo en el fútbol argentino: agredieron a un juez de línea en Godoy Cruz-Talleres y se suspendió el partido",
-        "snippet": "",
-        "url": "https://radiomitre.cienradios.com/videos/escandalo-en-el-futbol-argentino-agredieron-a-un-juez-de-linea-en-godoy-cruz-talleres-y-se-suspendio-el-partido/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSMo8IoFBqAyTq17MpFxSd23-Oo_sB1ahZglrXQdeuva1bOWVJ8jVNH_qDgug",
-        "source": "Radio Mitre"
-      }
-    ]
-  },
-  {
-    "title": "copa del rey",
-    "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 12:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyHgs8Frv1kto2ZmyqZKEaOTkqAtzVKNP6vST5TXdPqOufWE43yNGi0aB0YoE",
-    "picture_source": "El Debate",
-    "news_items": [
-      {
-        "title": "La broma del Leganés para calentar el partido de Copa ante el Real Madrid",
-        "snippet": "",
-        "url": "https://www.eldebate.com/deportes/futbol/la-liga/20250204/broma-leganes-calentar-partido-copa-ante-real-madrid_267231.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyHgs8Frv1kto2ZmyqZKEaOTkqAtzVKNP6vST5TXdPqOufWE43yNGi0aB0YoE",
-        "source": "El Debate"
-      },
-      {
-        "title": "Brasanac: \"Necesitamos paciencia, mucha tranquilidad y esperar nuestras ocasiones ante el Real Madrid\"",
-        "snippet": "",
-        "url": "https://www.infobae.com/america/agencias/2025/02/04/brasanac-necesitamos-paciencia-mucha-tranquilidad-y-esperar-nuestras-ocasiones-ante-el-real-madrid/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1yAYBXm3Aa4EG03voKmLu219g0qYZDBDJGkChHXKQePhPTWLBbXPqNWBxHxE",
-        "source": "Infobae"
-      },
-      {
-        "title": "¿A qué hora juega Leganés vs Real Madrid hoy con Federico Valverde por la Copa del Rey y dónde verlo?",
-        "snippet": "",
-        "url": "https://www.elobservador.com.uy/futbol-internacional/a-que-hora-juega-leganes-vs-real-madrid-hoy-federico-valverde-la-copa-del-rey-y-donde-verlo-n5983387",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4xWxjsIr0rCppW39SOwi_AF_s8Abg-ZZAhQAebC6r1lVOPYqKyaFsUi6W6A",
-        "source": "El Observador"
-      }
-    ]
-  },
-  {
-    "title": "paraguay vs",
-    "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 17:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrxdTUQhQ3ZEGeHKP9GyTrFWg3nJ4UjqxmhH3D-m0a9YSzov1xjDTE2kHFzuY",
-    "picture_source": "D10",
-    "news_items": [
-      {
-        "title": "Mala noticia para Olimpia: Olveira se pierde el semestre por lesión",
-        "snippet": "",
-        "url": "https://d10.ultimahora.com/mala-noticia-para-olimpia-olveira-se-pierde-el-semestre-por-lesion",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrxdTUQhQ3ZEGeHKP9GyTrFWg3nJ4UjqxmhH3D-m0a9YSzov1xjDTE2kHFzuY",
-        "source": "D10"
-      },
-      {
-        "title": "Bomba en Olimpia: Gastón Olveira, con fractura de peroné",
-        "snippet": "",
-        "url": "https://www.abc.com.py/deportes/futbol/olimpia/2025/02/04/bomba-en-olimpia-gaston-olveira-con-fractura-de-perone/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKmHniyrZ3quGddQdZaZNBpRWUv6fWwpU4mSKqj6zJ7MzTBn-y79Rao9yigBo",
-        "source": "ABC Color"
-      },
-      {
-        "title": "Arzamendia recibe su gran oportunidad en Olimpia a siete años de su debut en Primera",
-        "snippet": "",
-        "url": "https://www.versus.com.py/hoy/2025/02/04/arzamendia-recibe-su-gran-oportunidad-en-olimpia-a-siete-anos-de-su-debut-en-primera/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQe7mOkKqhgTIlLZzN_1qf8wGoT6VwNej2ZFj6eST3b7NxGMQcbW5okwALaJHQ",
-        "source": "Versus"
-      }
-    ]
-  },
-  {
-    "title": "nelson haedo valdez",
-    "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 15:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSe5orJQfH5SLfZSTYybgbvAVRH-egNcj6L5TNqO4cmTL4alr5WEAAuR52p8s",
-    "picture_source": "Diario HOY – En Paraguay y el Mundo",
-    "news_items": [
-      {
-        "title": "Nelson Haedo y Martynka Mescheder, 20 años de “caminar juntos”",
-        "snippet": "",
-        "url": "https://www.hoy.com.py/espectaculos/farandula/2025/02/03/nelson-haedo-y-martynka-mescheder-20-anos-de-caminar-juntos",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSe5orJQfH5SLfZSTYybgbvAVRH-egNcj6L5TNqO4cmTL4alr5WEAAuR52p8s",
-        "source": "Diario HOY – En Paraguay y el Mundo"
-      },
-      {
-        "title": "Haedo le dio “me gusta” a publicación de Crónica y la gente les demostró lo mucho que los quieren",
-        "snippet": "",
-        "url": "https://www.cronica.com.py/2025/02/03/haedo-le-dio-me-gusta-a-publicacion-de-cronica-y-la-gente-les-demostro-lo-mucho-que-lo-quieren/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaiyLi9Fr5OMwi2cMMtZEHdSJs4GI1XRbI74eW4iwelQwQApL6wM_yisMaIAI",
-        "source": "Crónica | El gran diario de la gente"
-      },
-      {
-        "title": "¡20 años juntos! Nelson Haedo y Tynka: amor, fútbol y una vida de película",
-        "snippet": "",
-        "url": "https://www.epa.com.py/20-anos-juntos-nelson-haedo-y-tynka-amor-futbol-y-una-vida-de-pelicula/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8cAbcNSYcU58qYCZ14CAmXkQze-X6_FrPFrtY0490o-K7mhbbwWJy0LpkxeY",
-        "source": "EPA - El Diario de los Famosos"
-      }
-    ]
-  },
-  {
-    "title": "libertadores",
-    "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 15:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEMMEFTdIyz2n5Vvche_n1S9qnhJ8A0lVeVZfowxPM8wuGxLgBXP6rRy-WlhM",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKVn0ZUwJdz2I1_NXOz_6d3pDbfHnKBbB6e0Q270ASRhCnn1_XlRDA7i_D8qM",
     "picture_source": "GE",
     "news_items": [
       {
-        "title": "Pré-Libertadores começa nesta terça-feira; veja todos os confrontos",
+        "title": "Análise: Flamengo espanta fantasmas recentes na Libertadores, mas expõe dificuldades na criação",
         "snippet": "",
-        "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2025/02/04/pre-libertadores-comeca-nesta-terca-feira-veja-todos-os-confrontos.ghtml",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEMMEFTdIyz2n5Vvche_n1S9qnhJ8A0lVeVZfowxPM8wuGxLgBXP6rRy-WlhM",
+        "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2025/04/04/analise-flamengo-espanta-fantasmas-recentes-na-libertadores-mas-expoe-dificuldades-na-criacao.ghtml",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKVn0ZUwJdz2I1_NXOz_6d3pDbfHnKBbB6e0Q270ASRhCnn1_XlRDA7i_D8qM",
         "source": "GE"
       },
       {
-        "title": "Monagas x Defensor Sporting: onde assistir ao vivo e horário do jogo pela Pré-Libertadores",
+        "title": "Deportivo Táchira x Flamengo: siga ao vivo o jogo de hoje, 03/04",
         "snippet": "",
-        "url": "https://exame.com/esporte/monagas-x-defensor-sporting-onde-assistir-ao-vivo-e-horario-do-jogo-pela-pre-libertadores/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48fhmfqYpxK9wVRnPPmPgmGEcDJsZ9G6Tj7q-bm4KTwFUyij2mbzecHBt3vM",
-        "source": "Exame"
+        "url": "https://esporte.ig.com.br/parceiros/jogada10/2025-04-03/deportivo-tachira-x-flamengo-ao-vivo-jogo-de-hoje.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJV-OA8Wz4cK7kru5M5qqY7fBN6KsBVd_tif4-HTDpyq4UJqjLk3uU-2TZIIQ",
+        "source": "iG Esportes"
       },
       {
-        "title": "Relembre os times brasileiros que foram eliminados na Pré-Libertadores",
+        "title": "Libertadores: Ex-Chaves dá vitória ao Flamengo na estreia contra o Tachira (0-1)",
         "snippet": "",
-        "url": "https://www.96fm.com.br/post/relembre-os-times-brasileiros-que-foram-eliminados-na-pre-libertadores",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFppoWqsSAcKG2CU_MNe0GQufmwYIvRY4x3pYa-UDZUb9piQvBI0At_fI6xMc",
-        "source": "Portal 96FM - Natal"
+        "url": "https://www.flashscore.pt/noticias/futebol-taca-dos-libertadores-libertadores-ex-chaves-da-vitoria-ao-flamengo-na-estreia-contra-o-tachira-0-1/pOt1FZNc/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0fwsAXhelLJY80jfC1oWBIqVh76BMVT8lDjfoaxkrFrIVWulDsh84l8Am16M",
+        "source": "Flashscore.pt"
       }
     ]
   },
   {
-    "title": "neymar",
+    "title": "la princesa leonor",
     "link": "https://trends.google.com/trending/rss?geo=PY",
-    "pubdate": "Tue, 4 Feb 2025 19:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLdCyuoLOyLpiLU8UOMTff9sD2GBqY0CK9a93QQY3aUBKYf2JCko7Kf9gfZzY",
+    "pubdate": "Thu, 3 Apr 2025 14:40:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMCTaG_EHJswTOPy5UAoY4c2NMglfV-SfmyBqNWSPzUrp1iC1gVVxBI2sVLOw",
+    "picture_source": "Diez Minutos",
+    "news_items": [
+      {
+        "title": "EXCLUSIVA | Las fotos de la Princesa Leonor disfrutando de un día de playa en Uruguay",
+        "snippet": "",
+        "url": "https://www.diezminutos.es/familia-real/monarquia-espanola/a64348523/leonor-fotos-exclusivas-bikini-playa-uruguay/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMCTaG_EHJswTOPy5UAoY4c2NMglfV-SfmyBqNWSPzUrp1iC1gVVxBI2sVLOw",
+        "source": "Diez Minutos"
+      },
+      {
+        "title": "El Rey Felipe VI también fue fotografiado en bañador durante una escala del Elcano",
+        "snippet": "",
+        "url": "https://www.eldebate.com/gente/20250403/rey-felipe-vi-tambien-fotografiado-banador-durante-escala-elcano_284985.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0QpEBxpBijyi6aPOYUfhjcV00-rNV6AeyEtWM463aqLqKx-Lek74CrIyUBE",
+        "source": "El Debate"
+      },
+      {
+        "title": "\"No tenemos códigos morales\": Pablo Motos, muy crítico en 'El hormiguero' contra el \"morbo\" de las fotos de la princesa Leonor",
+        "snippet": "",
+        "url": "https://www.elconfidencial.com/television/programas-tv/2025-04-04/pablo-motos-el-hormiguero-morbo-fotos-princesa-leonor_4101579/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ6tEeU4lQXVYraUxLQjjNRoHRFBfOVCJ6N26fM1emiYoMed4974tTy2SjtUk",
+        "source": "El Confidencial"
+      }
+    ]
+  },
+  {
+    "title": "lakers - warriors",
+    "link": "https://trends.google.com/trending/rss?geo=PY",
+    "pubdate": "Thu, 3 Apr 2025 22:30:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTX1kBOPb3vet6InJzjU_HIK3JFTofBoA6T0hFKzyEBbJ3Gcd8QGHmwMVHlvs",
+    "picture_source": "Lakers Nation",
+    "news_items": [
+      {
+        "title": "Recap: LeBron James & Lakers Drop First Game Of Season To Stephen Curry & Warriors",
+        "snippet": "",
+        "url": "https://lakersnation.com/recap-lebron-james-lakers-drop-first-game-of-season-to-stephen-curry-warriors/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTX1kBOPb3vet6InJzjU_HIK3JFTofBoA6T0hFKzyEBbJ3Gcd8QGHmwMVHlvs",
+        "source": "Lakers Nation"
+      },
+      {
+        "title": "Curry brings the circus to LA",
+        "snippet": "",
+        "url": "https://sporty.com/news/video/1usy33liyppoo1kho2llry7cg6",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9J2K5_nhT9kOEki-VL65suV-nfuW3n8MBihZZ9-6M1NUbghhr4R6nFGDXjX0",
+        "source": "Sporty.com"
+      },
+      {
+        "title": "NBA highlights: Warriors beat Lakers, Giannis posts historic triple-double",
+        "snippet": "",
+        "url": "https://sportstar.thehindu.com/basketball/nba-results-warriors-lakers-giannis-record-morant-buzzer/article69411674.ece",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6FHDVZU7JotuGQEgQd8A6FCbR4Uee4sSycCpnUWjeZCjXxixBSB_OIgsa7N0",
+        "source": "Sportstar"
+      }
+    ]
+  },
+  {
+    "title": "sporting cristal",
+    "link": "https://trends.google.com/trending/rss?geo=PY",
+    "pubdate": "Thu, 3 Apr 2025 16:40:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0c1gAtj6SIffWAIrdxESfJiMpiLhsEmjAcPLzosdIsygynzYodIZh0NWTL0",
     "picture_source": "D10",
     "news_items": [
       {
-        "title": "Neymar ya puede jugar oficialmente con el Santos",
+        "title": "Palmeiras gana y es segundo en el grupo de Cerro Porteño",
         "snippet": "",
-        "url": "https://d10.ultimahora.com/neymar-ya-puede-jugar-oficialmente-con-el-santos",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLdCyuoLOyLpiLU8UOMTff9sD2GBqY0CK9a93QQY3aUBKYf2JCko7Kf9gfZzY",
+        "url": "https://d10.ultimahora.com/palmeiras-gana-y-es-segundo-en-el-grupo-de-cerro-porteno",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0c1gAtj6SIffWAIrdxESfJiMpiLhsEmjAcPLzosdIsygynzYodIZh0NWTL0",
         "source": "D10"
       },
       {
-        "title": "Cuánto le cuesta a Neymar cada viaje en helicóptero al entrenamiento y qué hará a futuro",
+        "title": "Palmeiras visita hoy al Cristal",
         "snippet": "",
-        "url": "https://www.ole.com.ar/futbol-internacional/neymar-entrenamiento-santos-helicoptero_0_bcj7DzS6H2.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi95eYxC-1tkt-KZqqxL05PiTXgIg8QtZ6ytXZR50fnHs4nG4brpOsgK8xpBs",
-        "source": "Olé"
+        "url": "https://www.lanacion.com.py/futboledicion-impresa/2025/04/03/palmeiras-visita-hoy-al-cristal/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiqBSFIBRuHEpqx3n0NewMed5ILw1iNdkWFxsxSXN710u3x9uZar4yT-QHyAA",
+        "source": "La Nación"
       },
       {
-        "title": "Neymar está listo para debutar hoy con el Santos FC",
+        "title": "Antes de enfrentar a Cerro, Palmeiras le ganó al Sporting Cristal en un partidazo",
         "snippet": "",
-        "url": "https://www.abc.com.py/deportes/futbol/internacional/2025/02/05/neymar-esta-listo-para-debutar-hoy-con-el-santos-fc/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjoTk1w6Ai6ygSzk2BPcI2Pv5HqlM3pzYpkVQu1VqebM83icRrmeQBN0nemnU",
-        "source": "ABC Color"
+        "url": "https://www.popular.com.py/2025/04/03/antes-de-enfrentar-a-cerro-palmeiras-le-gano-al-sporting-cristal-en-un-partidazo/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMfC45CdQWD7w7j5Tz3mnalReV3ywyHZCK9_ngCgTGXMUvXlvvV_ZtFd9wyo4",
+        "source": "Popular"
+      }
+    ]
+  },
+  {
+    "title": "nba",
+    "link": "https://trends.google.com/trending/rss?geo=PY",
+    "pubdate": "Thu, 3 Apr 2025 20:00:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4iS3BMijAMsu1FwSOXAyL-ITJP-pqKXKxO5Li1ZeVXCgl738PhyLk0gQqZ00",
+    "picture_source": "Major Wager",
+    "news_items": [
+      {
+        "title": "Jazz vs Pacers Match Player Stats | Friday, April 4th 2025",
+        "snippet": "",
+        "url": "https://www.majorwager.com/nba/jazz-pacers-match-player-stats-apr-04-2025/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4iS3BMijAMsu1FwSOXAyL-ITJP-pqKXKxO5Li1ZeVXCgl738PhyLk0gQqZ00",
+        "source": "Major Wager"
+      },
+      {
+        "title": "Utah faces Indiana, looks to end road slide",
+        "snippet": "",
+        "url": "https://www.heraldbulletin.com/sports/national_sports/utah-faces-indiana-looks-to-end-road-slide/article_ee123730-4a38-5051-a2e4-0fd5fa56a88a.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFhAnKf-Oj6tN-CztZqB9_ID1NBr3x4U3pjFAZQ3yXVS5XZ5jKLwYVBkbCizY",
+        "source": "Herald Bulletin"
+      },
+      {
+        "title": "Preview: Utah Jazz Continue Road Trip Against Indiana Pacers",
+        "snippet": "",
+        "url": "https://utahjazz.com/news/preview-utah-jazz-continue-road-trip-against-indiana-pacers",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtAUNKBs__ozbgSkLbPtjtAAHiBRU4sDG0IwevSc3SPLZ1PTobe-5WNvyby48",
+        "source": "NBA"
       }
     ]
   }

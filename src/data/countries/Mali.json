@@ -1,125 +1,32 @@
 [
   {
-    "title": "atlético madrid – getafe",
+    "title": "chelsea – tottenham",
     "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
-    "picture_source": "El Periódico de España",
+    "pubdate": "Thu, 3 Apr 2025 11:10:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjYT6ImwBITVnyYlHgo8avMkjZq6LVXNZAZ2tEUc-vfoCiZIQTDaGAWqMBpk",
+    "picture_source": "Chelsea News",
     "news_items": [
       {
-        "title": "Y Giuliano volvió a demostrar, arrollando al Getafe, que es digno heredero del cántico de su padre",
+        "title": "Levi Colwill names Chelsea player who’s “a huge threat” following Tottenham win",
         "snippet": "",
-        "url": "https://www.epe.es/es/deportes/20250204/atletico-madrid-getafe-copa-rey-resultado-giuliano-simeone-114008399",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLitmFtg_8DCP4T-pmtI1sg4Pdo1waLrpMbh6783CTXZ-OveOqvCZFq3p4iI",
-        "source": "El Periódico de España"
+        "url": "https://chelsea.news/2025/04/levi-colwill-nicolas-jackson-praise/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjYT6ImwBITVnyYlHgo8avMkjZq6LVXNZAZ2tEUc-vfoCiZIQTDaGAWqMBpk",
+        "source": "Chelsea News"
       },
       {
-        "title": "Antonio Romero: \"El Atlético llega como el equipo en mejor forma de nuestra competición al derbi frente al Real Madrid\"",
+        "title": "Maresca hails Chelsea for winning ugly in Champions League chase",
         "snippet": "",
-        "url": "https://cadenaser.com/nacional/2025/02/04/antonio-romero-el-atletico-de-madrid-llega-como-el-equipo-en-mejor-forma-de-nuestra-competicion-al-derbi-frente-al-real-madrid-cadena-ser/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXYPvZg42nC11OlMOVOnojmVeM8eLRTcTYVCGhr532uaYYQs54a4O6g2YNCV8",
-        "source": "Cadena SER"
+        "url": "https://www.beinsports.com/en-asia/football/premier-league/articles/maresca-hails-chelsea-for-winning-ugly-in-champions-league-chase-2025-04-03",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_ddJNXL6JzGQy8zzTw8-5ctdpfX5Q-JgvkPdExUyR1VeTf9uR5-MkXB2SjtA",
+        "source": "beIN SPORTS"
       },
       {
-        "title": "Atlético De Madrid Se Pasea Ante El Getafe Y Ya Está En Semis De Copa",
+        "title": "Mariska: It was an important result, and I am happy about it",
         "snippet": "",
-        "url": "https://www.barrons.com/news/spanish/atletico-de-madrid-se-pasea-ante-el-getafe-y-ya-esta-en-semis-de-copa-219033c9?refsec=topics_afp-news",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9gfeM9nRKaK9_PzewxOrW4yWxixdmjl6s0ga885BZ6-pLXbP7hhJ0kBHKPoo",
-        "source": "Barron's"
-      }
-    ]
-  },
-  {
-    "title": "le mans – paris-sg",
-    "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 4 Feb 2025 11:40:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
-    "picture_source": "L'Équipe",
-    "news_items": [
-      {
-        "title": "Le PSG laissera sa part de recette au Mans... seulement en Coupe de France Féminine",
-        "snippet": "",
-        "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-laissera-sa-part-de-recette-au-mans-seulement-en-coupe-de-france-feminine/1537691",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
-        "source": "L'Équipe"
-      },
-      {
-        "title": "Mardi 4 février 2025 au Mans : Alexandre Abrivard en lever de rideau du 8e de finale de Coupe de France de football",
-        "snippet": "",
-        "url": "https://www.paris-turf.com/actualites/vie-des-courses/mardi-4-fevrier-2025-au-mans-alexandre-abrivard-en-lever-de-rideau-du-8e-de-finale-de-coupe-de-france-de-football-30697534620",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4CmXOnPL4FKQ5XXZHiur8pwi05jLDp4xXaia43lFsSsS_zw4WgGmGjuzCAnA",
-        "source": "Paris-Turf"
-      },
-      {
-        "title": "Multiplex Coupe de France : sur quelle chaîne et à quelle heure voir les matchs de ce mercredi ?",
-        "snippet": "",
-        "url": "https://www.ouest-france.fr/sport/football/coupe-de-france/multiplex-coupe-de-france-sur-quelle-chaine-et-a-quelle-heure-voir-les-matchs-de-ce-mercredi-b52d3ce0-e303-11ef-95b5-abc03fff97b2",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJrjo9T6D-M1cSx-z9SsEwMj7GqiwDke1yxFN-lDLUGwv7kV0jxIdK7zJV8OY",
-        "source": "Ouest-France"
-      }
-    ]
-  },
-  {
-    "title": "atalanta – bologne",
-    "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 4 Feb 2025 12:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVQaEWxEuPE5nfAmvi5tHnlHv0Z8SL8VVA663BlhjKFaAL2dpbiYo1KEXE4Ug",
-    "picture_source": "SO FOOT.com",
-    "news_items": [
-      {
-        "title": "Bologne croque l’Atalanta et se hisse en demies",
-        "snippet": "",
-        "url": "https://www.sofoot.com/breves/coupe-ditalie-bologne-croque-bologne-et-se-hisse-en-demies",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVQaEWxEuPE5nfAmvi5tHnlHv0Z8SL8VVA663BlhjKFaAL2dpbiYo1KEXE4Ug",
-        "source": "SO FOOT.com"
-      },
-      {
-        "title": "Pronostic Atalanta Bologne : Bergame met Bologne dans la sauce ?",
-        "snippet": "",
-        "url": "https://maligue2.fr/2025/02/03/pronostic-atalanta-bologne-bergame-met-bologne-dans-la-sauce/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJWN9_Hp49CU3cOxgR5vMSi854iyDuk-RjRRyd9hHL_LF3E30qHfPdzrzL-5A",
-        "source": "MaLigue2"
-      },
-      {
-        "title": "Atalanta contre Bologna : Aperçu du Match et Prédiction",
-        "snippet": "",
-        "url": "https://www.footboom1.com/fr/news/football/2351522-atalanta-vs-bologna-match-preview-and-prediction",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ--DhboJ7e__k1TWjG3wRjKVdoToi0Eg-qRhYc3MFHD6ECL1GsefFy959HC78",
-        "source": "FootBoom"
-      }
-    ]
-  },
-  {
-    "title": "troyes – brest",
-    "link": "https://trends.google.com/trending/rss?geo=ML",
-    "pubdate": "Tue, 4 Feb 2025 10:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjL9wBgYeZD_fJmVttJSjkJIZ-NGSzmrIYZrk0TUh1beNeEylg0SAXPc-2Hxs",
-    "picture_source": "Sports.fr",
-    "news_items": [
-      {
-        "title": "Troyes-Brest en direct",
-        "snippet": "",
-        "url": "https://www.sports.fr/football/coupe-de-france/troyes-brest-en-direct-900092.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjL9wBgYeZD_fJmVttJSjkJIZ-NGSzmrIYZrk0TUh1beNeEylg0SAXPc-2Hxs",
-        "source": "Sports.fr"
-      },
-      {
-        "title": "Pas d'inquiétude pour le Brestois Romain Faivre, sorti sur blessure à Troyes en Coupe de France",
-        "snippet": "",
-        "url": "https://www.lequipe.fr/Football/Actualites/Pas-d-inquietude-pour-le-brestois-romain-faivre-sorti-sur-blessure-a-troyes-en-coupe-de-france/1537742",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5QIloj98WcrRMAEkISMfSZBBFyozqViA-eyF9mnBvKEi7cDz8gI4Vu1VZ9SU",
-        "source": "L'Équipe"
-      },
-      {
-        "title": "Ibrahim Salah buteur en Coupe de France",
-        "snippet": "",
-        "url": "https://mountakhab.net/ibrahim-salah-buteur-en-coupe-de-france/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVS8ndwkxj43GD3-JVZVlDu5Rcoq7ROItIgjVlGpp2X0m5Z1Tx73Nv8yI5Y4",
-        "source": "mountakhab.net"
+        "url": "https://www.ysscores.com/en/news/13718246/Mariska:-It-was-an-important-result,-and-I-am-happy-about-it",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBH4-8OUtXxnXKjnbaFJNC12SGKckasRol5s38n2uB2bd4T5pFGzrDlXmrbJs",
+        "source": "www.ysscores.com"
       }
     ]
   }

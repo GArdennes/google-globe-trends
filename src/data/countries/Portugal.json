@@ -1,311 +1,311 @@
 [
   {
-    "title": "aga khan",
+    "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 13:40:00 -0800",
-    "approx_traffic": 10000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbCalizDo_NB4Jf0ZwElEKymz7t0sR7v388AzFcplC9L5Jai_08YEzTm3P-xI",
+    "pubdate": "Thu, 3 Apr 2025 22:50:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4KmtusN3qdUUU1bQEyFEeKofTL41dCsvIypL-Ok1dr1iC9Yf3P1J8o4BtxG8",
+    "picture_source": "Daily Mail",
+    "news_items": [
+      {
+        "title": "Aintree revellers get the party started early as they don backless dresses and fabulous fascinators to sip on",
+        "snippet": "",
+        "url": "https://www.dailymail.co.uk/femail/article-14570905/Aintree-revellers-party-started-early-don-backless-dresses-fabulous-fascinators-sip-prosecco-ahead-Ladies-Day.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4KmtusN3qdUUU1bQEyFEeKofTL41dCsvIypL-Ok1dr1iC9Yf3P1J8o4BtxG8",
+        "source": "Daily Mail"
+      },
+      {
+        "title": "Grand National: Thousands attend famous race festival's first day",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/ckg5l48y1y5o",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRagc4yjdaBPjm9BRARmeS2tmCgXNxwF5iFMj5_JUYDXj9IBZdv7lS9ToSvNC4",
+        "source": "BBC"
+      },
+      {
+        "title": "Everything you need to know about Ladies Day at Grand National 2025",
+        "snippet": "",
+        "url": "https://www.liverpoolecho.co.uk/whats-on/whats-on-news/everything-you-need-know-ladies-31349114",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI9syjVYlZFvjtNBzAhSc486Tf2naPSNpVSSd4WYSiEkcSPL3hRsrVNBt-EGk",
+        "source": "Liverpool Echo"
+      }
+    ]
+  },
+  {
+    "title": "kevin de bruyne",
+    "link": "https://trends.google.com/trending/rss?geo=PT",
+    "pubdate": "Fri, 4 Apr 2025 04:30:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwwoHV8NpfvTH1Qc_WL5BuwXxkj5_ZoTrwaPiUyOukKWgrVIy4Jjbplfv-ngg",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "De Bruyne to leave Man City at end of the season - Guardiola news conference & reaction",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/cm2ezr12ge0t",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwwoHV8NpfvTH1Qc_WL5BuwXxkj5_ZoTrwaPiUyOukKWgrVIy4Jjbplfv-ngg",
+        "source": "BBC"
+      },
+      {
+        "title": "Kevin De Bruyne to leave Manchester City at end of season: football – live",
+        "snippet": "",
+        "url": "https://www.theguardian.com/football/live/2025/apr/04/weekend-football-countdown-ange-postecoglou-womens-nations-league-live",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIUAXs65Dc3y6ZuZuO9Z_PjF5E5Q8ybOIzM8FXJgsCWbhRdQVfbDjA5LMxDtU",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Kevin De Bruyne will leave Manchester City - Belgium legend's Premier League stats analysed",
+        "snippet": "",
+        "url": "https://www.transfermarkt.com/kevin-de-bruyne-will-leave-manchester-city-belgium-legends-premier-league-stats-analysed/view/news/452224",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2Las8Yd2pXF3xrBqWOc91YRttTgX0-mHLroIMBYcujcp56FwvhYeWYGMt_FE",
+        "source": "Transfermarkt"
+      }
+    ]
+  },
+  {
+    "title": "hungria",
+    "link": "https://trends.google.com/trending/rss?geo=PT",
+    "pubdate": "Fri, 4 Apr 2025 04:20:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4SS35jRm1Gy1q36Q62m3s_d2hSf-9f9-rnx1dRWzfraj_QNlVsFZggsq-OSk",
     "picture_source": "Público",
     "news_items": [
       {
-        "title": "Morreu Aga Khan, líder dos muçulmanos ismailitas",
+        "title": "Hungria anuncia retirada do Tribunal Penal Internacional",
         "snippet": "",
-        "url": "https://www.publico.pt/2025/02/04/mundo/noticia/morreu-aga-khan-lider-muculmanos-xiitas-ismailis-2121378",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbCalizDo_NB4Jf0ZwElEKymz7t0sR7v388AzFcplC9L5Jai_08YEzTm3P-xI",
+        "url": "https://www.publico.pt/2025/04/03/mundo/noticia/hungria-anuncia-retirada-tribunal-penal-internacional-2128378",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4SS35jRm1Gy1q36Q62m3s_d2hSf-9f9-rnx1dRWzfraj_QNlVsFZggsq-OSk",
         "source": "Público"
       },
       {
-        "title": "Aga Khan: Testamento revelará qual dos filhos será o sucessor",
+        "title": "Hungria sai do “tribunal político” e Netanyahu elogia decisão “ousada”",
         "snippet": "",
-        "url": "https://expresso.pt/sociedade/2025-02-04-aga-khan-testamento-revelara-qual-dos-filhos-sera-o-sucessor-0db09c08",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRydIYyFexKxHQY0I_4vi11ld0MrBF33GySBkSdFTTMgR0IqGE9sKVkQ01fPTM",
-        "source": "Expresso"
+        "url": "https://www.dn.pt/internacional/hungria-sai-do-tribunal-pol%C3%ADtico-e-netanyahu-elogia-decis%C3%A3o-ousada",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyC8gbTfR5HoZzj_QN1viX-CT0pAiji8ijLBAQe7bcy2pGSEPHQqMEQQCygnU",
+        "source": "Diário de Notícias"
       },
       {
-        "title": "\"Símbolo de paz\", um \"bom amigo de Portugal\". As reações à morte de Aga Khan",
+        "title": "Hungria abandona Tribunal Penal Internacional",
         "snippet": "",
-        "url": "https://www.jn.pt/7839320648/simbolo-de-paz-um-bom-amigo-de-portugal-as-reacoes-a-morte-de-aga-khan/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgTyalgmYCVQ4okRMmjUTUvNmnZyG-EdFfWutkdkN_9gCnSa2E91qmuijLPAQ",
+        "url": "https://www.cmjornal.pt/mundo/detalhe/hungria-abandona-tribunal-penal-internacional",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUzx13Sf17jZSyJOucygMQJY-KeQHyFjTtyp_pF4zg-q1khonfn1MfFfxIpDc",
+        "source": "Correio da Manhã"
+      }
+    ]
+  },
+  {
+    "title": "wind warning",
+    "link": "https://trends.google.com/trending/rss?geo=PT",
+    "pubdate": "Fri, 4 Apr 2025 00:10:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTEStvtCdzW7ddC1ihY85QGBxkhwoeb7DeqXVsUilbitC1y5LPJ1DvRFv-FSc",
+    "picture_source": "KOAA News 5",
+    "news_items": [
+      {
+        "title": "Work week will start out with high fire danger, end with a taste of winter",
+        "snippet": "",
+        "url": "https://www.koaa.com/weather/work-week-will-start-out-with-high-fire-danger-end-with-a-taste-of-winter",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTEStvtCdzW7ddC1ihY85QGBxkhwoeb7DeqXVsUilbitC1y5LPJ1DvRFv-FSc",
+        "source": "KOAA News 5"
+      },
+      {
+        "title": "Colorado Springs weather: Breezy Tuesday with incoming showers and possible snow and a red flag warning",
+        "snippet": "",
+        "url": "https://gazette.com/weather/colorado-springs-weather-breezy-tuesday-with-incoming-showers-and-possible-snow-and-a-red-flag/article_adc72d1a-74a1-4946-97e0-2893ac087a36.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-Nw6ZYQZO6mEskG504oRno6JWMKhZWTX7_bFcM5gTmqC9aVUNjUMmuzYFWVg",
+        "source": "Colorado Springs Gazette"
+      },
+      {
+        "title": "Red Flag Warning issued March 30 at 2:03PM MDT until March 31 at 9:00PM MDT by NWS Pueblo CO",
+        "snippet": "",
+        "url": "https://krdo.com/weather/alerts-weather/2025/03/30/red-flag-warning-issued-march-30-at-203pm-mdt-until-march-31-at-900pm-mdt-by-nws-pueblo-co/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEbQCeBieyYpz0g1V6QuKN5KP7OrmBurpFi2jLlTIA-Kc4xbPGLaxj1ePquyE",
+        "source": "KRDO"
+      }
+    ]
+  },
+  {
+    "title": "previsão do tempo",
+    "link": "https://trends.google.com/trending/rss?geo=PT",
+    "pubdate": "Thu, 3 Apr 2025 23:00:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-aCBXzayfAnoSLYMWLMVh_k6_7lDHzKBP53hGsau2pApyyqU5bFq6xdDB_P0",
+    "picture_source": "Tempo.pt",
+    "news_items": [
+      {
+        "title": "Alfredo Graça avança a previsão do tempo para a Páscoa: “um jato polar ondulante poderá trazer tempestades a Portugal\"",
+        "snippet": "",
+        "url": "https://www.tempo.pt/noticias/previsao/alfredo-graca-avanca-a-previsao-do-tempo-para-a-pascoa-um-jato-polar-ondulante-podera-trazer-tempestades-a-portugal.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-aCBXzayfAnoSLYMWLMVh_k6_7lDHzKBP53hGsau2pApyyqU5bFq6xdDB_P0",
+        "source": "Tempo.pt"
+      },
+      {
+        "title": "Jato polar 'baralha' estado do tempo em Portugal continental esta Páscoa: saiba o que esperar na Semana Santa",
+        "snippet": "",
+        "url": "https://executivedigest.sapo.pt/noticias/jato-polar-baralha-estado-do-tempo-em-portugal-continental-esta-pascoa-saiba-o-que-esperar-na-semana-santa/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZfhxybq6oTeixKiCSqC_Eg84ImPfAhO7Pw58n0YTfCEFeIQ0vcPFwzhIAizw",
+        "source": "Executive Digest"
+      },
+      {
+        "title": "Tempo \"húmido e instável\" na semana da Páscoa",
+        "snippet": "",
+        "url": "https://www.jn.pt/3334128341/tempo-humido-e-instavel-na-semana-da-pascoa/?utm_source=jn.pt&utm_medium=recomendadas&utm_campaign=rec_edit_externo_marcas",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFx9xueUFFCnEBtpvj8o_u-ts9XdXiMd5X6UBGjHUbruTZz_UkEyN8D-XxO7w",
         "source": "Jornal de Notícias"
       }
     ]
   },
   {
-    "title": "ronaldo",
+    "title": "stop",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 15:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSwcz_f7EXSFPDUk0qHhpmWfLpsT6PojEcYHgkLn9Xp7ZXx8eDDQwmIXptuHE",
-    "picture_source": "Abola.pt",
+    "pubdate": "Fri, 4 Apr 2025 01:20:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtwL7I1EBgiSf7lmSOzbr0FXnwRWqjbA7bUysCi4h92LeiKqr06_yujewD3Mo",
+    "picture_source": "Politico",
     "news_items": [
       {
-        "title": "Eis o melhor quarentão da história do futebol mundial",
+        "title": "Republicans play powerless as Trump tariff fears sweep across the globe",
         "snippet": "",
-        "url": "https://www.abola.pt/futebol/noticias/eis-o-melhor-quarentao-da-historia-do-futebol-mundial-2025020418203868930",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSwcz_f7EXSFPDUk0qHhpmWfLpsT6PojEcYHgkLn9Xp7ZXx8eDDQwmIXptuHE",
-        "source": "Abola.pt"
+        "url": "https://www.politico.com/news/2025/04/03/trump-tariffs-congress-republicans-powerless-00271537",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtwL7I1EBgiSf7lmSOzbr0FXnwRWqjbA7bUysCi4h92LeiKqr06_yujewD3Mo",
+        "source": "Politico"
       },
       {
-        "title": "Ronaldo não é nem o maior nem o melhor português de sempre - está bem além disso",
+        "title": "SEN RAND PAUL: Terminate the Trump tariffs before it's too late",
         "snippet": "",
-        "url": "https://cnnportugal.iol.pt/cristiano/40-anos/ronaldo-nao-e-nem-o-maior-nem-o-melhor-portugues-de-sempre-esta-bem-alem-disso/20250205/67a1fc5dd34e3f0bae9a03ca",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYySC3vLqbsBTohOd6Kw4ArJM--QOOIWBP6J8G1_muk9v8Fq0RhRtBwxLeHtU",
-        "source": "CNN Portugal"
+        "url": "https://www.foxnews.com/opinion/sen-rand-paul-terminate-trump-tariffs-before-its-too-late",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYainMPhPRs0dInqUDwvqd0dPwiLEqsLwq_5IM3_SO-WsT9Y5DQWDNXuH11cM",
+        "source": "Fox News"
       },
       {
-        "title": "Record · 5 fev 2025",
+        "title": "Analysis | Rand Paul warns tariffs could cause GOP ‘decimation.’ He has a point.",
         "snippet": "",
-        "url": "https://www.sapo.pt/jornais/capas/4139/2025-02-05",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMqL7367c_acePRc2DaWL7BZgayIrGJ7YV0yCeNx0O6xO8KFYKajh7jwNzeSc",
-        "source": "SAPO"
+        "url": "https://www.washingtonpost.com/politics/2025/04/03/rand-paul-warns-tariffs-could-cause-gop-decimation-he-has-point/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkrtrXlAJ_rMOK6opBh4aoOnLFeDLIKeTdIC3-MAE6UXBdOgATwVxTC--UOS8",
+        "source": "The Washington Post"
       }
     ]
   },
   {
-    "title": "prince aga khan",
+    "title": "polícia judiciária",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 14:00:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSem5J38QGoc52CIAbnuAWVy5K3HkBKBRaRGQ-Tijrn5wEA3coOpjF8ZlnE1Eo",
-    "picture_source": "BBC",
+    "pubdate": "Thu, 3 Apr 2025 23:40:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzwVqka1PmAjZOO3cveHMwS2oj1rXzDaegSmTquCESqNVCmXEZeK2N7caS8g",
+    "picture_source": "Expresso",
     "news_items": [
       {
-        "title": "Aga Khan: Billionaire and spiritual leader dies at 88",
+        "title": "Buscas no Banco de Portugal e Ministério da Justiça fizeram 43 arguidos",
         "snippet": "",
-        "url": "https://www.bbc.com/news/articles/c9vmlk4rzzjo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSem5J38QGoc52CIAbnuAWVy5K3HkBKBRaRGQ-Tijrn5wEA3coOpjF8ZlnE1Eo",
-        "source": "BBC"
+        "url": "https://expresso.pt/sociedade/justica/2025-04-04-buscas-no-banco-de-portugal-e-ministerio-da-justica-fizeram-43-arguidos-ea0799ce",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzwVqka1PmAjZOO3cveHMwS2oj1rXzDaegSmTquCESqNVCmXEZeK2N7caS8g",
+        "source": "Expresso"
       },
       {
-        "title": "The Aga Khan, spiritual leader of the world’s Ismaili Muslims, has died at age 88",
+        "title": "Constituídos 43 arguidos no âmbito da Operação Pactum",
         "snippet": "",
-        "url": "https://www.cnn.com/2025/02/04/world/aga-khan-ismaili-muslim-obit-intl-latam/index.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT8Duz-Xq40hCUHV_Npo1mrKEP-RwJjmwvQsxqBIuN8qykKVfUlqBnrF3Dim4",
-        "source": "CNN"
+        "url": "https://www.dn.pt/sociedade/constitu%C3%ADdos-43-arguidos-no-%C3%A2mbito-da-opera%C3%A7%C3%A3o-pactum",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUKXQl2I8RzuLPmpueLJPZkb-JinHNumoBOfXNaUxAzvOzzauk4lse1jiszII",
+        "source": "Diário de Notícias"
       },
       {
-        "title": "The Aga Khan Prince Karim Al-Hussaini, spiritual leader and friend of the late Queen, dies aged 88",
+        "title": "Cartel da informática suspeito de controlar compras do Estado",
         "snippet": "",
-        "url": "https://news.sky.com/story/the-aga-khan-prince-karim-al-hussaini-philanthropist-and-friend-of-the-late-queen-dies-aged-88-13303266",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVaTiDCQaPcpVdIlgtsqvLO15Fa_EYmEZ3mI4GtPiAhO6UURo3v9fbjJ-bDC4",
-        "source": "Sky News"
+        "url": "https://www.jn.pt/1914998727/cartel-da-informatica-suspeito-de-controlar-compras-do-estado/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiO2QU04YYWgjA2Ca5wbS-TT4RBxs_JopQDlJDYOtErYqp4yjshLHZDh0NYG0",
+        "source": "Jornal de Notícias"
       }
     ]
   },
   {
-    "title": "neymar",
+    "title": "duarte a fazenda",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 16:40:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWVr3I01MtnXkVKbRyVrkmKn7cmjyWQ94GrXhoPCe2QMgI2ERAZIRBw_sPfg",
-    "picture_source": "Abola.pt",
+    "pubdate": "Thu, 3 Apr 2025 22:50:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0H8E47vgn7mSXK4jIi619eBULEK2lc41HTnhKC-Srl_nk077gGjxQHDz7oBk",
+    "picture_source": "TVI",
     "news_items": [
       {
-        "title": "Neymar gasta €1500 por dia em combustível e festeja 33 anos no dia da reestreia",
+        "title": "Vem aí em «A Fazenda»: Ary encontra uma pista sobre Duarte",
         "snippet": "",
-        "url": "https://www.abola.pt/futebol/noticias/neymar-gasta-euro1500-por-dia-em-combustivel-e-festeja-33-anos-no-dia-da-reestreia-2025020419563859602",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWVr3I01MtnXkVKbRyVrkmKn7cmjyWQ94GrXhoPCe2QMgI2ERAZIRBw_sPfg",
-        "source": "Abola.pt"
+        "url": "https://tvi.iol.pt/novelas/isaac-alfaiate/claudio-de-castro/vem-ai-em-a-fazenda-ary-encontra-uma-pista-sobre-duarte",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0H8E47vgn7mSXK4jIi619eBULEK2lc41HTnhKC-Srl_nk077gGjxQHDz7oBk",
+        "source": "TVI"
       },
       {
-        "title": "Ainda sem casa em Santos, Neymar viaja de helicóptero para os treinos",
+        "title": "A Fazenda: Alba descobre o paradeiro de Duarte e obriga Joel a cometer um crime",
         "snippet": "",
-        "url": "https://rr.sapo.pt/bola-branca/noticia/futebol-internacional/2025/02/04/ainda-sem-casa-em-santos-neymar-viaja-de-helicoptero-para-os-treinos/412379/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdDBAx23xFXsnkkMPkEKw0jNQpJHyfHArpoppYghjlmLzY1prbhOI8EwmfTPs",
-        "source": "Renascença"
+        "url": "https://www.tvguia.pt/novelas/detalhe/a-fazenda-alba-descobre-o-paradeiro-de-duarte-e-obriga-joel-e-cometer-um-crime",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRV2rOoeHOgW2vwLHiC69NllHEhrdoANa_iTR6XicPD37Ch-2iNdgyAhuzFJg",
+        "source": "TV Guia.pt"
       },
       {
-        "title": "Tiquinho apresentado no Santos: «Desculpem dizer, mas Neymar é um jogador f***»",
+        "title": "Júlia está em pânico: «Parece que está obcecado por mim. Ele é tóxico»",
         "snippet": "",
-        "url": "https://www.record.pt/internacional/paises/brasil/detalhe/tiquinho-apresentado-no-santos-desculpem-dizer-mas-neymar-e-um-jogador-f",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1w3SizkYSJDib0xvF8owZosUl7fC25PcYlTw-QfYl9yNiCn8BC3X0TEZhN58",
+        "url": "https://tviplayer.iol.pt/programa/a-fazenda/672c9278d34e94b82907283d/video/67ee9b760cf2ba9f720eba8a",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6HQtuf6uzbrVScrCKkuN4ZUX70Xm24tOoeINYLpgjXwMSRYGX5EaadU6pwno",
+        "source": "TVI Player"
+      }
+    ]
+  },
+  {
+    "title": "nba",
+    "link": "https://trends.google.com/trending/rss?geo=PT",
+    "pubdate": "Thu, 3 Apr 2025 20:50:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkwXnEBU9rJyGSOG4Mu-4fT0aRO-_jNFH9Q82SZcmj0knXbpUJRU-3Yie0Q28",
+    "picture_source": "A Bola",
+    "news_items": [
+      {
+        "title": "NBA só avisou Ja Morant para guardar as pistolas",
+        "snippet": "",
+        "url": "https://www.abola.pt/modalidades/noticias/nba-so-avisou-ja-morant-para-guardar-as-pistolas-2025040321031294966",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkwXnEBU9rJyGSOG4Mu-4fT0aRO-_jNFH9Q82SZcmj0knXbpUJRU-3Yie0Q28",
+        "source": "A Bola"
+      },
+      {
+        "title": "NBA abre investigação após gestos a simular arma de fogo de Ja Morant",
+        "snippet": "",
+        "url": "https://www.record.pt/modalidades/basquetebol/nba/amp/nba-abre-investigacao-apos-gestos-a-simular-arma-de-fogo-de-ja-morant",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBlPsZc7v-HIzNshVhA_vYtjpNOkrsIx8DHc9w06DMXmAUkaprlIV-VDnFxI",
         "source": "Record"
-      }
-    ]
-  },
-  {
-    "title": "washington dc",
-    "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 14:20:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwEYaF-fVmjGJR388sTSyqB643sgdESExRF2-cXiQFScM2orXAb2UAQT-RV1I",
-    "picture_source": "AP News",
-    "news_items": [
-      {
-        "title": "Friends say Army captain killed in midair collision was a ‘brilliant and fearless’ patriot",
-        "snippet": "",
-        "url": "https://apnews.com/article/dc-crash-helicopter-airliner-army-pilot-50b3e82d8ec3713cc4ae1ac3a327104c",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwEYaF-fVmjGJR388sTSyqB643sgdESExRF2-cXiQFScM2orXAb2UAQT-RV1I",
-        "source": "AP News"
       },
       {
-        "title": "Drone footage shows wreckage of Washington DC plane crash",
+        "title": "NBA investiga gesto de arma de Ja Morant em derrota para os Warriors",
         "snippet": "",
-        "url": "https://www.bbc.com/news/videos/czrlegezv26o",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhubCrqlPxTj954owgG1HSvEBoHbrzL79SMJcOVrov3L3EbEzNQqW7jJHWmXE",
-        "source": "BBC"
-      },
-      {
-        "title": "What we know about Charlotte-area victims who died in the DC mid-air collision",
-        "snippet": "",
-        "url": "https://www.wsoctv.com/news/local/family-identifies-flight-attendant-killed-dc-plane-crash/BZAPHTMFXZAWLPXT7D6KAYGSMM/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx_TMCt9R6UL0-q1FfQYUZV0d5U0jTMtAn9Jex3Y-OsZsbkHE6rCNKiDi9_iA",
-        "source": "WSOC TV"
-      }
-    ]
-  },
-  {
-    "title": "atlético-mg - athletic",
-    "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 21:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwDf9HsTWkDA0XPGUN2HpqJVliZXXPnEzceNl2398DHGtWHibAnEVIe03JRMY",
-    "picture_source": "GE",
-    "news_items": [
-      {
-        "title": "Análise: vitória dá respiro ao Atlético-MG e afasta pressão precoce em início de temporada",
-        "snippet": "",
-        "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2025/02/05/analise-vitoria-da-respiro-ao-atletico-mg-e-afasta-pressao-precoce-em-inicio-de-temporada.ghtml",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwDf9HsTWkDA0XPGUN2HpqJVliZXXPnEzceNl2398DHGtWHibAnEVIe03JRMY",
-        "source": "GE"
-      },
-      {
-        "title": "Em coletiva Cuca fala sobre vitória, nova função de Franco e lesão de Cuello",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/em-coletiva-cuca-fala-sobre-vitoria-nova-funcao-de-franco-e-lesao-de-cuello-40665291",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUks2kYyNkFOZx4Fz68w67UtS1Qs7CD3Em-NxUeSISOGhuPVc-29ashh8torw",
-        "source": "OneFootball"
-      },
-      {
-        "title": "Cuca cobra efetividade do ataque do Atlético: ‘Nosso maior defeito’",
-        "snippet": "",
-        "url": "https://esportes.r7.com/jogada-10/cuca-cobra-efetividade-do-ataque-do-atletico-nosso-maior-defeito-05022025/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSosQ117eEouxm5ywNFHgb8RdUk4hc3QN5seQ9KxbIo_6VSx4ThM6j-Xda0kTc",
-        "source": "R7 Esportes"
-      }
-    ]
-  },
-  {
-    "title": "keir starmer",
-    "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 14:10:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUTxZnNj6dRYTw4Bulv1FzUOL5pbNnA0-dnQpB8oPHgLe56_Dky8bE1Nxpqps",
-    "picture_source": "The Guardian",
-    "news_items": [
-      {
-        "title": "Starmer’s EU reset risks being dragged down by the old Brexit undertow | Rafael Behr",
-        "snippet": "",
-        "url": "https://www.theguardian.com/commentisfree/2025/feb/05/keir-starmer-uk-european-union-brexit-reset",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUTxZnNj6dRYTw4Bulv1FzUOL5pbNnA0-dnQpB8oPHgLe56_Dky8bE1Nxpqps",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Newspaper headlines: 'Markets rebound' and 'crawling back to EU'",
-        "snippet": "",
-        "url": "https://www.bbc.com/news/articles/cly52m78gzro",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbyVKKp9lzowZLeZLvBs6SKs-i4Ni3QVOtypNu7TD5MMn1Ymb-cMPWR4gIUyQ",
-        "source": "BBC"
-      },
-      {
-        "title": "Customs union, youth mobility or PEM convention: What exactly could the UK-EU reset look like?",
-        "snippet": "",
-        "url": "https://news.sky.com/story/customs-union-youth-mobility-or-pem-convention-what-exactly-could-the-uk-eu-reset-look-like-13302816",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9pJnhRi6PstFVeppPnUBdiXKjUlS-FJ1qIobLEclBodMNACw6rXXj6o9Gphs",
-        "source": "Sky News"
+        "url": "https://oglobo.globo.com/esportes/noticia/2025/04/02/nba-investiga-gesto-de-arma-de-ja-morant-em-derrota-para-os-warriors.ghtml",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQ0P7ZnYMJMuAHTdYHAw0mfSWOow7U96Qal2TyPSUhzMartrh3ilZ0A_755QU",
+        "source": "O Globo"
       }
     ]
   },
   {
     "title": "lakers",
     "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 19:40:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 19:40:00 -0700",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJv8jEOErJ_AJD0ecGH_g75rNUO5trQixSapwM7RB8Fep_37Bzetb7UQGPOuw",
-    "picture_source": "O Jogo",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I67Mck3EtAzzGfkhOSui037XSnJdRwH2LAA_aoWpVWZRwmngxTi9lZ48Tdo",
+    "picture_source": "ESPN",
     "news_items": [
       {
-        "title": "Mudança para os Lakers faz Luka Doncic perder 111 milhões de euros",
+        "title": "Warriors 123-116 Lakers (Apr 3, 2025) Game Recap",
         "snippet": "",
-        "url": "https://www.ojogo.pt/1852477088/mudanca-para-os-lakers-faz-luka-doncic-perder-111-milhoes-de-euros/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJv8jEOErJ_AJD0ecGH_g75rNUO5trQixSapwM7RB8Fep_37Bzetb7UQGPOuw",
-        "source": "O Jogo"
+        "url": "https://www.espn.com/nba/recap?gameId=401705683",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I67Mck3EtAzzGfkhOSui037XSnJdRwH2LAA_aoWpVWZRwmngxTi9lZ48Tdo",
+        "source": "ESPN"
       },
       {
-        "title": "Anthony Davis despede-se dos Lakers e deixa 'bicada': «O negócio do basquetebol...»",
+        "title": "Post-game: GSW win showdown in LA; Steph scores 37; Podz adds 28; Kuminga returns with beautiful game",
         "snippet": "",
-        "url": "https://www.abola.pt/modalidades/noticias/anthony-davis-despede-se-dos-lakers-e-deixa-bicada-o-negocio-do-basquetebol-2025020410150317428",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjqdAgHKUAypGuRhAZatZ3bMVJHZb-39FKrJpEz9yyJxwWlWHczV74akvhUI",
-        "source": "Abola.pt"
+        "url": "https://dubnationhq.com/p/post-game-gsw-win-showdown-in-la",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-ciNoNhdGUHV_0MMyAdf5JFMXTWbsna6nplzoIxfT-4cQe8WrCadWFKOyFY",
+        "source": "Dub Nation HQ"
       },
       {
-        "title": "Doncic comemora parceria com LeBron, mas admite surpresa com troca: \"Foi muito difícil\"",
+        "title": "Starting 5, April 3: Lakers-Warriors tonight, AD wins It, Thunder set record & Rockets clinch",
         "snippet": "",
-        "url": "https://ge.globo.com/basquete/nba/noticia/2025/02/04/doncic-e-oficialmente-apresentado-pelos-lakers.ghtml",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK1Zy6AzZwNcYpChuEWXx_QwX97H7Yj36MLPJFOZqi3etS2NVoaXO95LS9hok",
-        "source": "GE"
-      }
-    ]
-  },
-  {
-    "title": "a",
-    "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 18:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9cb6VUaHmtJh10SbhlX--vgdRoIEl3aJK6zMroF1gyLv0nYNYf2L_7i2_MQY",
-    "picture_source": "CNBC",
-    "news_items": [
-      {
-        "title": "Trump's trade war could have a clear winner: The UK",
-        "snippet": "",
-        "url": "https://www.cnbc.com/2025/02/05/trumps-trade-war-could-have-a-clear-winner-the-uk.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9cb6VUaHmtJh10SbhlX--vgdRoIEl3aJK6zMroF1gyLv0nYNYf2L_7i2_MQY",
-        "source": "CNBC"
-      },
-      {
-        "title": "UK politics live: Starmer to face questions over Trump tariff threats in wake of Reform poll win over Labour",
-        "snippet": "",
-        "url": "https://www.the-independent.com/news/uk/politics/starmer-trump-tariff-pmqs-uk-politics-live-b2692288.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNMrCPRHTeHg0wggFH179RHJSLbeeDHrECRQEvcQNU_ZOr5JBMKOMPeXAI9k",
-        "source": "The Independent"
-      },
-      {
-        "title": "The U.K. Has Dodged Trump’s Tariffs So Far. Here Are Some (Very British) Reasons Why.",
-        "snippet": "",
-        "url": "https://www.wsj.com/world/uk/uk-avoid-trump-tariff-policy-23776b7d",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl9994tJ_4b85aE2dA1jNexvbN0W_X_R5lgYFNCQ2Tb5WET7NHkm4yIuuuzoQ",
-        "source": "WSJ"
-      }
-    ]
-  },
-  {
-    "title": "numeros euromilhões hoje",
-    "link": "https://trends.google.com/trending/rss?geo=PT",
-    "pubdate": "Tue, 4 Feb 2025 15:40:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4WfSQqFIhHOSyqnvPfInQUIynSdYQ_Ji_Wv2AhLDQmSOxkMX4rjfjMxAmdM",
-    "picture_source": "CNN Portugal",
-    "news_items": [
-      {
-        "title": "Esta é a chave vencedora do Euromilhões desta terça-feira",
-        "snippet": "",
-        "url": "https://cnnportugal.iol.pt/euromilhoes/chave/esta-e-a-chave-vencedora-do-euromilhoes-desta-terca-feira/20250204/67a26ef9d34ef72ee441d826",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4WfSQqFIhHOSyqnvPfInQUIynSdYQ_Ji_Wv2AhLDQmSOxkMX4rjfjMxAmdM",
-        "source": "CNN Portugal"
-      },
-      {
-        "title": "38 milhões de euros como jackpot. Conheça a chave vencedora do Euromilhões",
-        "snippet": "",
-        "url": "https://24.sapo.pt/atualidade/artigos/38-milhoes-de-euros-como-jackpot-conheca-a-chave-vencedora-do-euromilhoes",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJFtUkONN-pugr0GswfkC1tJolbt4PtrLZA88dVS0bDXy1ptxE5Vvt-xy5s-M",
-        "source": "SAPO 24"
-      },
-      {
-        "title": "Os números do Euromilhões",
-        "snippet": "",
-        "url": "https://www.dn.pt/sociedade/os-n%C3%BAmeros-do-euromilh%C3%B5es-7",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC57zrAkCIaqwRTd_URmhZ-P1OxGYk0YXfeg-6dgE448wKUYri4wc3QJ55Wjw",
-        "source": "Diário de Notícias"
+        "url": "https://www.nba.com/news/starting-5-april-3-lakers-warriors-tonight-ad-wins-it-thunder-set-record-rockets-clinch",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5MyYbFogRcUKsR4xa9AxLMQOGUlMFIw4jpS5zGpY--HlDjaNUx7RRzX6b_Mw",
+        "source": "NBA"
       }
     ]
   }

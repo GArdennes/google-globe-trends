@@ -1,179 +1,223 @@
 [
   {
-    "title": "jisoo",
+    "title": "中華職棒",
     "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Tue, 4 Feb 2025 21:50:00 -0800",
+    "pubdate": "Fri, 4 Apr 2025 04:00:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "cpbl",
+    "link": "https://trends.google.com/trending/rss?geo=TW",
+    "pubdate": "Fri, 4 Apr 2025 03:50:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXntDiWD0a7-TICOBCU_5d1uNIb49JsF-zNdIHMMXEeOp9OETBgZnP8c3wn_E",
+    "picture_source": "Yahoo奇摩運動",
+    "news_items": [
+      {
+        "title": "中職》張奕中職初登板就奪勝獲鋒總好評 自評可惜沒能投滿6局",
+        "snippet": "",
+        "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7%E3%80%8B%E5%BC%B5%E5%A5%95%E4%B8%AD%E8%81%B7%E5%88%9D%E7%99%BB%E6%9D%BF%E5%B0%B1%E5%A5%AA%E5%8B%9D%E7%8D%B2%E9%8B%92%E7%B8%BD%E5%A5%BD%E8%A9%95-%E8%87%AA%E8%A9%95%E5%8F%AF%E6%83%9C%E6%B2%92%E8%83%BD%E6%8A%95%E6%BB%BF6%E5%B1%80-143657695.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXntDiWD0a7-TICOBCU_5d1uNIb49JsF-zNdIHMMXEeOp9OETBgZnP8c3wn_E",
+        "source": "Yahoo奇摩運動"
+      },
+      {
+        "title": "中職／「我要全部」打線11分相挺 張奕奪先發首勝",
+        "snippet": "",
+        "url": "https://udn.com/news/story/7001/8650311",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnUA2Go5po1oL5AIuyPNzAhUK5IfGFDnoWv6NLPubDNrClGak4sd4cj_E6bBM",
+        "source": "聯合新聞網"
+      },
+      {
+        "title": "富邦悍將主場發威 單場雙轟 11比5擊敗中信兄弟",
+        "snippet": "",
+        "url": "https://www.peoplenews.tw/articles/726430975c",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFdPXSUa0AXjF45Z1-zC8a1t9xJWPSHo5ZuuddUFanvxVjAeFgIREhWjAmdw",
+        "source": "Taiwan People News"
+      }
+    ]
+  },
+  {
+    "title": "中職",
+    "link": "https://trends.google.com/trending/rss?geo=TW",
+    "pubdate": "Fri, 4 Apr 2025 04:00:00 -0700",
     "approx_traffic": 1000,
     "picture": "",
     "picture_source": "",
     "news_items": []
   },
   {
-    "title": "台南火災",
+    "title": "張學友",
     "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Tue, 4 Feb 2025 23:10:00 -0800",
+    "pubdate": "Fri, 4 Apr 2025 04:30:00 -0700",
     "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "陽明高中",
-    "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Tue, 4 Feb 2025 23:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "吳音寧",
-    "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Tue, 4 Feb 2025 21:30:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0kHKZSMPMd5_K7DGFSdBj4-4q8Vf3-cCv9kWXkkhVDUb-NESaDRSHj22Uc2g",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8u_a5kd06e1YtM4E1rGxBHDQXdcAwYiP8WnouBlu72t_880nq_b-j9KBJ2HQ",
     "picture_source": "奇摩新聞",
     "news_items": [
       {
-        "title": "預算遭砍99% 行政院中辦拉鐵門 綠委：1年只剩7萬",
+        "title": "直擊/張學友現身了！被問身體狀況「雙讚」回應",
         "snippet": "",
-        "url": "https://tw.news.yahoo.com/%E9%A0%90%E7%AE%97%E9%81%AD%E7%A0%8D99-%E8%A1%8C%E6%94%BF%E9%99%A2%E4%B8%AD%E8%BE%A6%E6%8B%89%E9%90%B5%E9%96%80-%E7%B6%A0%E5%A7%94-1%E5%B9%B4%E5%8F%AA%E5%89%A97%E8%90%AC-050900712.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0kHKZSMPMd5_K7DGFSdBj4-4q8Vf3-cCv9kWXkkhVDUb-NESaDRSHj22Uc2g",
+        "url": "https://tw.news.yahoo.com/%E7%9B%B4%E6%93%8A-%E5%BC%B5%E5%AD%B8%E5%8F%8B%E7%8F%BE%E8%BA%AB%E4%BA%86-%E8%A2%AB%E5%95%8F%E8%BA%AB%E9%AB%94%E7%8B%80%E6%B3%81-%E9%9B%99%E8%AE%9A-%E5%9B%9E%E6%87%89-075833462.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8u_a5kd06e1YtM4E1rGxBHDQXdcAwYiP8WnouBlu72t_880nq_b-j9KBJ2HQ",
         "source": "奇摩新聞"
       },
       {
-        "title": "政院中辦稱業務費遭刪可能停擺 藍委：應清楚說明功能避免恐慌 ｜ 公視新聞網 PNN",
+        "title": "張學友演唱會台北場即將開跑，完整歌單完整曝光、驚喜演唱《家後》預告台北場嘉賓？",
         "snippet": "",
-        "url": "https://news.pts.org.tw/article/736318",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQedXY5A98Jx6PaTYosxTFsnbMqrEfxMbPhaolFzkG3rKC7clnf7bpvv-nOCc",
-        "source": "公視新聞網PNN"
+        "url": "https://www.elle.com/tw/entertainment/music/g64336369/jacky-concert-taiwan/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFmiLJCee4CvHripVeo42zNp1u6aWLcVcxKleSsJMF6dU7U_jjm_rdNk7yt58",
+        "source": "ELLE"
       },
       {
-        "title": "中辦業務費遭砍99％ 吳音寧怒點名11藍委 黃健豪回應了",
+        "title": "天王天后都來了！江蕙拿走張學友麥克風 驚人內幕曝光",
         "snippet": "",
-        "url": "https://money.udn.com/money/story/7307/8528430",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKcLXwLJSFqgx-ekZPJB8GHQ2OmcmLKJk_j96e0RmFjuMw93PmYTuEePhooxs",
-        "source": "經濟日報"
+        "url": "https://news.tvbs.com.tw/entertainment/2829931",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLiO9alc83gDHODZd0H0psepGcLHT61WSmR6nRFXGCvCfruw9O6qeM4DYywLE",
+        "source": "TVBS新聞網"
       }
     ]
   },
   {
-    "title": "hbl",
+    "title": "張志豪",
     "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Tue, 4 Feb 2025 20:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "統一發票 11 12 月",
-    "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Tue, 4 Feb 2025 23:20:00 -0800",
+    "pubdate": "Fri, 4 Apr 2025 04:10:00 -0700",
     "approx_traffic": 200,
     "picture": "",
     "picture_source": "",
     "news_items": []
   },
   {
-    "title": "temu",
+    "title": "台南醫院",
     "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Tue, 4 Feb 2025 21:20:00 -0800",
+    "pubdate": "Fri, 4 Apr 2025 03:40:00 -0700",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIUObOWJIKWnTc90rjmgfBktMKYSABnXYtWhIk__MnpB5kLsCDq9XSoBX8NXA",
-    "picture_source": "Reuters",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxlinm1garDAw0Tstt-XTp_GfgEn4LVb72G_uN1GmwW3Ol3ltFoIh6zJJ-meA",
+    "picture_source": "中華新聞雲",
     "news_items": [
       {
-        "title": "Shein, Temu, Amazon Haul set for price hikes as US shuts trade loophole",
+        "title": "國際扶輪社攜手南醫守護婦女健康",
         "snippet": "",
-        "url": "https://www.reuters.com/business/retail-consumer/shein-temu-amazon-haul-set-price-hikes-us-shuts-trade-loophole-2025-02-04/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIUObOWJIKWnTc90rjmgfBktMKYSABnXYtWhIk__MnpB5kLsCDq9XSoBX8NXA",
-        "source": "Reuters"
+        "url": "https://www.cdns.com.tw/articles/1194609",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxlinm1garDAw0Tstt-XTp_GfgEn4LVb72G_uN1GmwW3Ol3ltFoIh6zJJ-meA",
+        "source": "中華新聞雲"
       },
       {
-        "title": "‘I can’t order 100 pieces of junk for $15?’: How Trump’s tariff will hit fast-fashion devotees",
+        "title": "扶輪3502與韓國3590地區傳愛 捐贈衛福部臺南醫院全自動乳房超音波掃描系統",
         "snippet": "",
-        "url": "https://www.theguardian.com/technology/2025/feb/04/temu-shein-trump-tariffs-china",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl-7GeyuhEHReAjpRR9ZmPeVEM0TspdRtzi2ac1qJW-zUf84j93gJ-lpO8e0c",
-        "source": "The Guardian"
+        "url": "https://news.pchome.com.tw/living/greatnews/20250403/index-74368646054057209009.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzbb_Yo7TuBYuZcgKzoJTYfWBXgFLaxNnHrnfTxN4caFK7ZyxrLmpOh8dhPis",
+        "source": "PChome Online 新聞"
       },
       {
-        "title": "Tariffs may make your Shein and Temu orders more expensive. Here’s why.",
+        "title": "國際扶輪3502地區攜手韓國3590地區 贈臺南醫院全自動乳房超音波掃描系統",
         "snippet": "",
-        "url": "https://www.washingtonpost.com/business/2025/02/04/tariffs-de-minimis-china-shein-temu/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTg4UK00Z8cRAjJmR6G9FGdga99CAGuHFaOQsLvdEHtUsDaUxQcmLNBYTePR4",
-        "source": "The Washington Post"
+        "url": "https://tw.news.yahoo.com/%E5%9C%8B%E9%9A%9B%E6%89%B6%E8%BC%AA3502%E5%9C%B0%E5%8D%80%E6%94%9C%E6%89%8B%E9%9F%93%E5%9C%8B3590%E5%9C%B0%E5%8D%80-%E8%B4%88%E8%87%BA%E5%8D%97%E9%86%AB%E9%99%A2%E5%85%A8%E8%87%AA%E5%8B%95%E4%B9%B3%E6%88%BF%E8%B6%85%E9%9F%B3%E6%B3%A2%E6%8E%83%E6%8F%8F%E7%B3%BB%E7%B5%B1-075300631.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrLGu69NIGMBfKf2ZkrFGZRWtux4Pzq3u9MfgKN5AC8wBvRtrvE0VehKLZ6QA",
+        "source": "奇摩新聞"
       }
     ]
   },
   {
-    "title": "景氣燈號",
+    "title": "美股盤前",
     "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Wed, 5 Feb 2025 00:00:00 -0800",
+    "pubdate": "Fri, 4 Apr 2025 03:30:00 -0700",
+    "approx_traffic": 200,
+    "picture": "",
+    "picture_source": "",
+    "news_items": []
+  },
+  {
+    "title": "非農就業數據",
+    "link": "https://trends.google.com/trending/rss?geo=TW",
+    "pubdate": "Fri, 4 Apr 2025 04:50:00 -0700",
     "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDkuLA90ZLxAHGjCiPdJ0H0mB1kBwFIb05Tr_kmMyHYBNXLv5Josx_X1VyczA",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjBFyHFLJQw3EKPEzyLhVVzW1gn4623L6SCMqFFnBHdBN4MUkbVmkG81yVaXs",
+    "picture_source": "經濟日報",
+    "news_items": [
+      {
+        "title": "美就業數據強彈沖淡隱憂 勞工流動性下降 顯示勞動市場穩健",
+        "snippet": "",
+        "url": "https://money.udn.com/money/story/5599/8650337",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjBFyHFLJQw3EKPEzyLhVVzW1gn4623L6SCMqFFnBHdBN4MUkbVmkG81yVaXs",
+        "source": "經濟日報"
+      },
+      {
+        "title": "美3月ADP就業人數大增逾15萬人遠超預期- 國際",
+        "snippet": "",
+        "url": "https://www.ctee.com.tw/news/20250402702106-430701",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGiCzqs9u7A6I2_ohHuxu_gdrNdZDyENE-H0v9k2rCmEnxTnzLP7a9Vu40QrI",
+        "source": "工商時報"
+      },
+      {
+        "title": "美3月小非農就業超預期新增15.5萬人 就業市場穩健",
+        "snippet": "",
+        "url": "https://news.cnyes.com/news/id/5921103",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmqNm8DIagoutHbQiOrbEiIgM4xX8h5iD7VenIh_Sb4m_iKIK3tksYxXm1-o",
+        "source": "鉅亨網"
+      }
+    ]
+  },
+  {
+    "title": "顏清標",
+    "link": "https://trends.google.com/trending/rss?geo=TW",
+    "pubdate": "Fri, 4 Apr 2025 04:20:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdwCzJF81OQE1Ma_vVQjj1QyE-H_NDCY9ehoAb8_he7aXWxUJgCEbsXJmmuIE",
     "picture_source": "奇摩新聞",
     "news_items": [
       {
-        "title": "DeepSeek、川普大魔王還沒過！製造業景氣燈號轉綠燈 台經院示警不確定性超大",
+        "title": "顏寬恒＂表弟＂控顏清標＂摸頭＂？ 顏家聲明駁：捏造謊言",
         "snippet": "",
-        "url": "https://tw.news.yahoo.com/deepseek-%E5%B7%9D%E6%99%AE%E5%A4%A7%E9%AD%94%E7%8E%8B%E9%82%84%E6%B2%92%E9%81%8E-%E8%A3%BD%E9%80%A0%E6%A5%AD%E6%99%AF%E6%B0%A3%E7%87%88%E8%99%9F%E8%BD%89%E7%B6%A0%E7%87%88-%E5%8F%B0%E7%B6%93%E9%99%A2%E7%A4%BA%E8%AD%A6%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7%E8%B6%85%E5%A4%A7-071148220.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDkuLA90ZLxAHGjCiPdJ0H0mB1kBwFIb05Tr_kmMyHYBNXLv5Josx_X1VyczA",
+        "url": "https://tw.news.yahoo.com/%E9%A1%8F%E5%AF%AC%E6%81%92-%E8%A1%A8%E5%BC%9F-%E6%8E%A7%E9%A1%8F%E6%B8%85%E6%A8%99-%E6%91%B8%E9%A0%AD-%E9%A1%8F%E5%AE%B6%E8%81%B2%E6%98%8E%E9%A7%81-095503276.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdwCzJF81OQE1Ma_vVQjj1QyE-H_NDCY9ehoAb8_he7aXWxUJgCEbsXJmmuIE",
         "source": "奇摩新聞"
       },
       {
-        "title": "AI應用加持 國發會：12月景氣燈號轉亮紅燈",
+        "title": "中市罷藍團體聲稱接到顏家「溫柔恐嚇」 顏寬恒斥謊言",
         "snippet": "",
-        "url": "https://udn.com/news/story/7238/8529091",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQMczrpedN10SN5VdFRWK0ZRL0gLEhDN18y0MW5sMbNSuKjreCfGHJipGyjQ",
+        "url": "https://udn.com/news/story/124323/8648598",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReGgdyiRq6jQMQv6sdHqUKx5QBPKlCUXfgKaLBD2zo1a91J1yoLN2hVH-TaK4",
         "source": "聯合新聞網"
       },
       {
-        "title": "市場報導： 剖析近期國內焦點行業的景氣趨勢變化",
+        "title": "反擊「表弟」！顏寬恒聲明：沒有「溫柔的恐嚇」 罷團遭民進黨架空| 政治",
         "snippet": "",
-        "url": "https://iknow.stpi.narl.org.tw/Post/Read.aspx?PostID=21474",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAc7e-HSLv4ef-InNfrlAFHiLht8EZPgrZBoIIvzpSgJF6yn2yfKVTDGWcCYs",
-        "source": "科技產業資訊室"
+        "url": "https://newtalk.tw/news/view/2025-04-02/963571",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl6x4jIOtD2rAVV7krthynkdUXqPf3dDEvFyDYtux7EvbfjjNj94wbUrcZPTA",
+        "source": "Newtalk新聞"
       }
     ]
   },
   {
-    "title": "三鶯線",
+    "title": "日本九州地震",
     "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Tue, 4 Feb 2025 22:10:00 -0800",
+    "pubdate": "Fri, 4 Apr 2025 03:40:00 -0700",
     "approx_traffic": 100,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "usps",
-    "link": "https://trends.google.com/trending/rss?geo=TW",
-    "pubdate": "Tue, 4 Feb 2025 22:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuDetFhGtm_dfvrT2A21MIgBl-XvLIwL5RwGT-0C67P3r1zxFL-KsdPKrKPI",
-    "picture_source": "BBC",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf8zvhf5KBuQxg8SkFI15QXYt_qIg5cDQ-2MWMS1zu_Ny4nLXKIzpWdn1BpgE",
+    "picture_source": "台視新聞網",
     "news_items": [
       {
-        "title": "US Postal Service stops accepting parcels from China",
+        "title": "日本深夜地牛翻身！ 規模達6.0",
         "snippet": "",
-        "url": "https://www.bbc.com/news/articles/c3w83x38zvwo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuDetFhGtm_dfvrT2A21MIgBl-XvLIwL5RwGT-0C67P3r1zxFL-KsdPKrKPI",
-        "source": "BBC"
+        "url": "https://news.ttv.com.tw/news/11404020002500W",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf8zvhf5KBuQxg8SkFI15QXYt_qIg5cDQ-2MWMS1zu_Ny4nLXKIzpWdn1BpgE",
+        "source": "台視新聞網"
       },
       {
-        "title": "USPS Halts All Inbound Packages From China And Hong Kong—Here’s What To Know",
+        "title": "日本宮崎縣外海規模6地震幸未發生海嘯| 國際",
         "snippet": "",
-        "url": "https://www.forbes.com/sites/siladityaray/2025/02/05/usps-halts-all-inbound-packages-from-china-and-hong-kong-heres-what-to-know/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYItDa2PaV2EToLyYT2fd2PAAijDZRKaDOp7FNBbIojUPp0cdi0dyi3oFJy8E",
-        "source": "Forbes"
+        "url": "https://www.cna.com.tw/news/aopl/202504020420.aspx",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxec7Ti4-e0p5UrZ3xUoLShnse6oDbMGf9-E-HjrRtSWHse9Obcbi-gvSNxIE",
+        "source": "中央社 CNA"
       },
       {
-        "title": "China’s Foreign Ministry Holds Briefing After US Postal Service Parcel Suspension",
+        "title": "日本大隅半島近海發生規模6地震 最大震度在宮崎、鹿兒島",
         "snippet": "",
-        "url": "https://www.bloomberg.com/news/live-blog/2025-02-04/china-s-markets-reopen-after-holiday",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxT62Oz_bkSV2-V-KoBz75S5cKIHbpF1xPpHgIGLlODhb6qssGu6Ev82AEJJw",
-        "source": "Bloomberg"
+        "url": "https://udn.com/news/story/6809/8650306",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAcRn0QK9VV-Q4mnF3ZIEnRQPdPXfmeBsJ08mTA4ghGZIzoKmVR3UaGUKpbqc",
+        "source": "聯合新聞網"
       }
     ]
   }

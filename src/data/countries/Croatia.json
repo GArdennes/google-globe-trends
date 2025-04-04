@@ -1,289 +1,218 @@
 [
   {
-    "title": "atlético madrid – getafe",
+    "title": "chelsea – tottenham",
     "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 12:00:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 11:20:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Chelsea 1-0 Tottenham LIVE: Blues boost top-four hopes to pile pressure on Postecoglou",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/ce3q1n1l023t",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+        "source": "BBC"
+      },
+      {
+        "title": "Maresca 'happy' with Chelsea's 'dirty' win over Spurs",
+        "snippet": "",
+        "url": "https://sporty.com/news/video/1q92hkl3327yf191zd9vher3c9",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPSZJ0zDA4TsIWrb0jFF6MKwSYiEPL3JD55Ip6zvTBL8uCa3JxyawSKlnNErg",
+        "source": "Sporty.com"
+      },
+      {
+        "title": "Levi Colwill names Chelsea player who’s “a huge threat” following Tottenham win",
+        "snippet": "",
+        "url": "https://chelsea.news/2025/04/levi-colwill-nicolas-jackson-praise/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjYT6ImwBITVnyYlHgo8avMkjZq6LVXNZAZ2tEUc-vfoCiZIQTDaGAWqMBpk",
+        "source": "Chelsea News"
+      }
+    ]
+  },
+  {
+    "title": "anto nobilo",
+    "link": "https://trends.google.com/trending/rss?geo=HR",
+    "pubdate": "Thu, 3 Apr 2025 22:30:00 -0700",
     "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS49lnR8o4yJBrdk2b_1j_Qwh3Jp4S_0Lq2-XgJNoDqKxkiB0rwvrsUpdlKp3U",
-    "picture_source": "Marca.com",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHXWZ9Q-eSTWl0ZLgGFyJoZCX_4r_8CdtFiOtLC8Ba9IkBtDBBLlaBj8UWcA",
+    "picture_source": "Dnevnik.hr",
     "news_items": [
       {
-        "title": "Hay otro Simeone en la ciudad",
+        "title": "Optužili Tomaševića da je umiješan u milijunsku krađu: \"Ide mi na živce što možemovci ponavljaju da su poš...",
         "snippet": "",
-        "url": "https://www.marca.com/futbol/copa-rey/cronica/2025/02/04/6797bfe7ca47417e6c8b4571.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS49lnR8o4yJBrdk2b_1j_Qwh3Jp4S_0Lq2-XgJNoDqKxkiB0rwvrsUpdlKp3U",
-        "source": "Marca.com"
-      },
-      {
-        "title": "El Metropolitano se rinde a Giuliano",
-        "snippet": "",
-        "url": "https://es-us.noticias.yahoo.com/deportes/metropolitano-rinde-giuliano-222951857.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAXv1w6PGxq-8jSbnjZhlQn5-kN-Zk6CInrBm9dDygs00nXXcDrWsuUOK1TPk",
-        "source": "Yahoo Noticias"
-      },
-      {
-        "title": "El Atlético de Madrid está imparable y ya espera al Real Madrid en Copa",
-        "snippet": "",
-        "url": "https://www.beinsports.com/es-us/football/articles-video/el-atl%C3%A9tico-de-madrid-est%C3%A1-imparable-y-ya-espera-al-real-madrid-en-copa-2025-02-04",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNJ7AbLG-ydHtJnzJ-LR1hmxMGPm-ul7rqUL5S66GYTtQHZRcjRUy3iJwMfwA",
-        "source": "beIN SPORTS"
-      }
-    ]
-  },
-  {
-    "title": "atalanta – bologna",
-    "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 11:30:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "",
-    "picture_source": "",
-    "news_items": []
-  },
-  {
-    "title": "laura gospodin savrseni",
-    "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 13:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v-IXvGsvRZQrBMQWlUBazxNajUY5kiOac2W30w0a-r95dnj-y7zYq30HBtg",
-    "picture_source": "RTL.hr",
-    "news_items": [
-      {
-        "title": "Pogledajte prvi susret Šime i Miloša: 'Na ljestvici od nula do neugodno, koliko je neugodno?'",
-        "snippet": "",
-        "url": "https://www.rtl.hr/tv-emisije/gospodin-savrseni/pogledajte-prvi-susret-sime-i-milosa-na-ljestvici-od-nula-do-neugodno-koliko-je-neugodno.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v-IXvGsvRZQrBMQWlUBazxNajUY5kiOac2W30w0a-r95dnj-y7zYq30HBtg",
-        "source": "RTL.hr"
-      },
-      {
-        "title": "Ljubavna avantura počinje i to s dva 'Gospodina Savršena' i čak 20 žena, među njima je i jedna Šibenčanka",
-        "snippet": "",
-        "url": "https://slobodnadalmacija.hr/sibenik/susur/lifestyle/ljubavna-avantura-pocinje-i-to-s-dva-gospodina-savrsena-i-cak-20-zena-medu-njima-je-i-jedna-sibencanka-1451701",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbEK3G4MJRSslrRHJm_WvbnGZvBNp_YJhCvvgWLOnhHtn-BpxkrvIjI17fPws",
-        "source": "Slobodna Dalmacija"
-      },
-      {
-        "title": "Drama u Gospodinu Savršenom: Miloš sletio helikopterom, Šime se zapjenio i tražio režiju",
-        "snippet": "",
-        "url": "https://www.dnevno.hr/magazin/drama-u-gospodinu-savrsenom-milos-sletio-helikopterom-sime-se-zapjenio-i-trazio-reziju-2628825/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3c7TmKGa7pDDe9ptuwE2-f0ZEBIn88YVw6T1MEhMT-UE65jEf6x0RkKTdK40",
-        "source": "Dnevno.hr"
-      }
-    ]
-  },
-  {
-    "title": "le mans football club – psg",
-    "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
-    "picture_source": "L'Équipe",
-    "news_items": [
-      {
-        "title": "Le PSG laissera sa part de recette au Mans... seulement en Coupe de France Féminine",
-        "snippet": "",
-        "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-laissera-sa-part-de-recette-au-mans-seulement-en-coupe-de-france-feminine/1537691",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
-        "source": "L'Équipe"
-      },
-      {
-        "title": "Multiplex Coupe de France : sur quelle chaîne et à quelle heure voir les matchs de ce mercredi ?",
-        "snippet": "",
-        "url": "https://www.ouest-france.fr/sport/football/coupe-de-france/multiplex-coupe-de-france-sur-quelle-chaine-et-a-quelle-heure-voir-les-matchs-de-ce-mercredi-b52d3ce0-e303-11ef-95b5-abc03fff97b2",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJrjo9T6D-M1cSx-z9SsEwMj7GqiwDke1yxFN-lDLUGwv7kV0jxIdK7zJV8OY",
-        "source": "Ouest-France"
-      },
-      {
-        "title": "Le Mans : Rabillard tout de même fier",
-        "snippet": "",
-        "url": "https://www.maxifoot.fr/le-mans/rabillard-tout-de-meme-fier-foot-427870.htm",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILgbqON4SGZGl6fKGj3H3_W8CyCUgbezNwWsMTXpUtmYL-r-2Qic7P0J4hKg",
-        "source": "Maxifoot"
-      }
-    ]
-  },
-  {
-    "title": "ivan martinović",
-    "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRM3lBCBwNroeLhbJJL3yFbFynX-42wsLm9i-FHjXMuisRRQv-sM5Ejj0Gpno",
-    "picture_source": "Večernji.hr",
-    "news_items": [
-      {
-        "title": "Novi kapetan odabrao je Hrvatsku i razbjesnio Austrijance, a jedan trenutak zauvijek će pamtiti",
-        "snippet": "",
-        "url": "https://www.vecernji.hr/sport/novi-kapetan-odabrao-je-hrvatsku-i-razbjesnio-austrijance-a-jedan-trenutak-zauvijek-ce-pamtiti-1835736",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRM3lBCBwNroeLhbJJL3yFbFynX-42wsLm9i-FHjXMuisRRQv-sM5Ejj0Gpno",
-        "source": "Večernji.hr"
-      },
-      {
-        "title": "Tko je djevojka Ivana Martinovića? Lijepu Miriam ljubi godinama, a evo čime se bavila",
-        "snippet": "",
-        "url": "https://net.hr/hot/zvijezde/tko-je-djevojka-ivana-martinovica-lijepu-miriam-ljubi-godinama-a-evo-cime-se-bavila-18e0e160-e390-11ef-bfeb-ee0b203e749c",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnmA1LP5chSuo0LGb4X5YZnsXx5FaL5of8Ru8MdwNjRx24xnbbvlc1WzSkdg",
-        "source": "Net.hr"
-      },
-      {
-        "title": "Sigurdsson: Martinović je novi kapetan! A nisam siguran jesu li ovi dočeci mogući igdje drugdje",
-        "snippet": "",
-        "url": "https://www.24sata.hr/sport/sigurdsson-martinovic-je-novi-kapetan-a-nisam-siguran-jesu-li-ovi-doceci-moguci-igdje-drugdje-1031067",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTxc4ug2YzPHX6295VuzZopAwGUoXDYcN3RTIQGo8y7iM5nTEW7dyWFZe3tU",
-        "source": "24sata.hr"
-      }
-    ]
-  },
-  {
-    "title": "nogometaš nađen mrtav",
-    "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 20:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmzsiFzEAEhpkmSKBCa8sl4WGdDuqOh4TZSpTf_SbGYSlOueU7TL-MfL8Xh6o",
-    "picture_source": "Slobodna Dalmacija",
-    "news_items": [
-      {
-        "title": "Obavljena autopsija tijela hrvatskog nogometaša (24): policija pretpostavlja kako je došlo do tragedije",
-        "snippet": "",
-        "url": "https://slobodnadalmacija.hr/vijesti/crna-kronika/obavljena-autopsija-tijela-hrvatskog-nogometasa-24-policija-pretpostavlja-kako-je-doslo-do-tragedije-1452041",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmzsiFzEAEhpkmSKBCa8sl4WGdDuqOh4TZSpTf_SbGYSlOueU7TL-MfL8Xh6o",
-        "source": "Slobodna Dalmacija"
-      },
-      {
-        "title": "Ovako je izgledalo kretanje tragično stradalog nogometaša: Snimile su ga i nadzorne kamere",
-        "snippet": "",
-        "url": "https://dnevnik.hr/vijesti/svijet/policija-rekonstruirala-kretanje-tragicno-preminulog-jakova-jelkica---894770.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1Yuvj_Wlw4oOcFAMQp0Tu94zCquSWIv05KkZq-W0VZw8Sk7V4AsuYP-NjaI4",
+        "url": "https://dnevnik.hr/vijesti/hrvatska/anto-nobilo-sazvao-izvanrednu-konferenciju-za-novinare-zbog-tomislava-tomasevica---906033.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHXWZ9Q-eSTWl0ZLgGFyJoZCX_4r_8CdtFiOtLC8Ba9IkBtDBBLlaBj8UWcA",
         "source": "Dnevnik.hr"
       },
       {
-        "title": "Španjolska policija tvrdi da je smrt nogometaša Jakova Jelkića nesretan slučaj, objasnili su što se dogodilo",
+        "title": "Nobilo podigao tužbu protiv šefa Hipodroma i Tomaševića za pljačku dva milijuna eura",
         "snippet": "",
-        "url": "https://www.novilist.hr/novosti/spanjolska-policija-tvrdi-da-je-smrt-nogometasa-jakova-jelkica-nesretan-slucaj-objasnili-su-sto-se-dogodilo/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTree5yKpwiUyD3Ke6Ywe-uw2K8LgodZBPGTpG2nf_zOgVEWFYDfdAf49mpDKc",
-        "source": "Novi list"
-      }
-    ]
-  },
-  {
-    "title": "cristiano ronaldo",
-    "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 15:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
-    "picture_source": "SportsMint Media",
-    "news_items": [
-      {
-        "title": "Cristiano Ronaldo: a global brand colossus at 40",
-        "snippet": "",
-        "url": "https://sportsmintmedia.com/cristiano-ronaldo-a-global-brand-colossus-at-40/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
-        "source": "SportsMint Media"
+        "url": "https://net.hr/danas/vijesti/anto-nobilo-otkriva-zasto-je-podnio-kaznenu-prijavu-protiv-tomislava-tomasevica-44a25cf6-1131-11f0-8645-ee0b203e749c",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkjf_AFNkwmLWCcJ2j-xlGxcNZx-efROyE6rDcNPpidlcxALC_NSQi-2xMhOM",
+        "source": "Net.hr"
       },
       {
-        "title": "Press Review: \"The Day the King Turns 40\" and What's Left in the Transfer Market",
+        "title": "Nobilo: Tomašević je na Hipodromu upetljan u pljačku milijunskih razmjera",
         "snippet": "",
-        "url": "https://www.footboom1.com/en/news/football/2354344-press-review-the-day-the-king-turns-40-and-what-s-left-in-the-transfer-market",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtVAqOr3ZQXqMZSmJdriAQtj_pasL8sF-HN84RHJRjoCSR45gdsCIeGk7uDec",
-        "source": "FootBoom"
-      },
-      {
-        "title": "European leaders gear up for tariffs after Trump threat",
-        "snippet": "",
-        "url": "https://www.msn.com/en-za/news/other/european-leaders-gear-up-for-tariffs-after-trump-threat/vi-AA1yp1iR?ocid=hpmsn",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn0Q476C5BV8nsBSowAx_SgrNJ-aqcySfccePHE5c6JQbHlKuXEOkegRdluHY",
-        "source": "MSN"
-      }
-    ]
-  },
-  {
-    "title": "mad max",
-    "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 13:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyhgsc1frNQDVk782OiPlVEGJF32yqRKDlHxRET3iORW9aGSPKW-FbOkSj4s",
-    "picture_source": "Sibenik.in",
-    "news_items": [
-      {
-        "title": "Tjedan u Arsenu: Balkanski Mad Max, biografski film i dječji program",
-        "snippet": "",
-        "url": "https://www.sibenik.in/tvrdava-kulture/tjedan-u-arsenu-balkanski-mad-max-biografski-film-i-djecji-program/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyhgsc1frNQDVk782OiPlVEGJF32yqRKDlHxRET3iORW9aGSPKW-FbOkSj4s",
-        "source": "Sibenik.in"
-      },
-      {
-        "title": "Furiosa: A Mad Max Saga",
-        "snippet": "",
-        "url": "https://www.mailplus.co.uk/tv/finder/film/391842/furiosa-a-mad-max-saga",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwEze7__2mLHUqK9tIMTuquQAfvScYtJ7dNBaOPKdlPVp9BqBRF5xIXXfVZ34",
-        "source": "Daily Mail Plus"
-      },
-      {
-        "title": "Furiosa: A New Chapter Unfolds",
-        "snippet": "",
-        "url": "https://evrimagaci.org/tpg/furiosa-a-new-chapter-unfolds-173056",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1TdSOE7uWvwvHBMF0JcevnVcBkBYBsNLyyIwq1Pe_qKca1mPQDw5IXr6gCnM",
-        "source": "Evrim Ağacı"
-      }
-    ]
-  },
-  {
-    "title": "martinovic",
-    "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2Ts179sSP8fPPQPR6CfWa_9rsv1dOibu-NpPBOsWQyF63vXHTsGpSURgbTz8",
-    "picture_source": "tportal.hr",
-    "news_items": [
-      {
-        "title": "Danac u idealnu momčad uvrstio Hrvata: 'On je vjerojatno najveće iznenađenje'",
-        "snippet": "",
-        "url": "https://www.tportal.hr/sport/clanak/danac-u-idealnu-momcad-uvrstio-hrvata-on-je-vjerojatno-najvece-iznenadenje-specijal-105-foto-20250203",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2Ts179sSP8fPPQPR6CfWa_9rsv1dOibu-NpPBOsWQyF63vXHTsGpSURgbTz8",
+        "url": "https://www.tportal.hr/vijesti/clanak/nobilo-tomasevic-je-na-hipodromu-upetljan-u-pljacku-milijunskih-razmjera-20250404",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwZino5kJFTctuqohkVEepHkm_VqZOppNEFPymbpmLOJSZXQlA2mr9-ayiC8",
         "source": "tportal.hr"
-      },
-      {
-        "title": "Hrvatska ga je dobro zapamtila: On je apsolutna mašina i dinamit od 190 centimetara koji će obilježiti povijest",
-        "snippet": "",
-        "url": "https://www.jutarnji.hr/sn/sport-mix/rukomet/rukomet-sp2025/hrvatska-ga-je-dobro-zapamtila-on-je-apsolutna-masina-i-dinamit-od-190-centimetara-koji-ce-obiljeziti-povijest-15549879",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5sCrpcCUVeuTuFvd5pJ7UWXqNUF_ItSHLpqI_-BQLmKCsmJ0pMvjdHaK05GY",
-        "source": "Jutarnji list"
-      },
-      {
-        "title": "Rukometni ekspert: Za Šoštarića nema mjesta u najboljoj momčadi turnira",
-        "snippet": "",
-        "url": "https://www.index.hr/sport/clanak/rukometni-ekspert-za-sostarica-nema-mjesta-u-najboljoj-momcadi-turnira/2638547.aspx",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVcERZcKriNVmaHgPDdP-fV9X_3Y5lk7Dzd7K_W7XSPRsuno8MpfwJadG78U0",
-        "source": "Index.hr"
       }
     ]
   },
   {
-    "title": "ronaldo",
+    "title": "bujica",
     "link": "https://trends.google.com/trending/rss?geo=HR",
-    "pubdate": "Tue, 4 Feb 2025 15:50:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbH7TYSbkhmMXuObP-2Az9tkRs7n-cIjGCZVXempZmJxAd3ClDb91Hghff5qE",
-    "picture_source": "talkSPORT",
+    "pubdate": "Thu, 3 Apr 2025 22:00:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4QYytITF8PXE24-3UNnWOQ_lYaPvcFChRTzipthJonqcW3DTDRPamDMVc1YU",
+    "picture_source": "Večernji.hr",
     "news_items": [
       {
-        "title": "‘My life changed’ – Cristiano Ronaldo shopping trip turned Georgina Rodriguez’s world upside down to become...",
+        "title": "FOTO Snimke dronom pokazuju katastrofu u popularnim odmaralištima nakon oluje",
         "snippet": "",
-        "url": "https://talksport.com/football/2447348/cristiano-ronaldo-georgina-rodriguez-gucci-married/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbH7TYSbkhmMXuObP-2Az9tkRs7n-cIjGCZVXempZmJxAd3ClDb91Hghff5qE",
-        "source": "talkSPORT"
+        "url": "https://www.vecernji.hr/vijesti/foto-snimke-dronom-pokazuju-katastrofu-u-popularnim-odmaralistima-nakon-oluje-1850439",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4QYytITF8PXE24-3UNnWOQ_lYaPvcFChRTzipthJonqcW3DTDRPamDMVc1YU",
+        "source": "Večernji.hr"
       },
       {
-        "title": "Photos from A Guide to Cristiano Ronaldo's Family",
+        "title": "VIDEO Stravično nevrijeme pogodilo poznati otok: Bujica nosi sve pred sobom, ulice su pretvorene u rijeke...",
         "snippet": "",
-        "url": "https://www.eonline.com/photos/37515/a-guide-to-cristiano-ronaldos-family",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR38zMuiTsEBSqfx_j9vGgLIePI650IRzJvQcoS9aVV1H4Jua-vFm5e9j8UBmw",
-        "source": "E! Online"
+        "url": "https://dnevnik.hr/vijesti/svijet/nevrijeme-pogodilo-grcki-otok-paros---905318.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa24Iuo24Imi38EYuOzI0VhspSOQwlx1mjZJI0mBuN5xdX-pwTR16QKGL1qTQ",
+        "source": "Dnevnik.hr"
       },
       {
-        "title": "Cristiano Ronaldo: a global brand colossus at 40",
+        "title": "Ovako danas izgledaju omiljena mediteranska odredišta bogatih i slavnih, sve je devastirano u roku dva sata!",
         "snippet": "",
-        "url": "https://sportsmintmedia.com/cristiano-ronaldo-a-global-brand-colossus-at-40/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxiyr_-iWxkCqk_v5OYpNXu1-Djy-p58eD679IooKR3a-H197Nk1jUel7UwQ",
-        "source": "SportsMint Media"
+        "url": "https://www.jutarnji.hr/vijesti/svijet/ovako-danas-izgledaju-omiljena-mediteranska-odredista-bogatih-i-slavnih-sve-je-devastirano-u-roku-dva-sata-15569124",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0GpHUt50U2Qm-s1eauk4t1qsEc1j_51GPf8Wkcb5gj1ERPFKnazraGi_YUkg",
+        "source": "Jutarnji list"
+      }
+    ]
+  },
+  {
+    "title": "stellantis",
+    "link": "https://trends.google.com/trending/rss?geo=HR",
+    "pubdate": "Thu, 3 Apr 2025 09:40:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1uvVKyLbWvQIX4IVuZiPb1GYWI6RKFnxj9nQn2fAWlBYMdGYVnQ54WiKSZI",
+    "picture_source": "CNN",
+    "news_items": [
+      {
+        "title": "Tariff-related layoffs hit five US auto plants that supply factories in Canada and Mexico",
+        "snippet": "",
+        "url": "https://www.cnn.com/2025/04/03/business/tariff-related-layoffs-hit-five-us-auto-plants/index.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1uvVKyLbWvQIX4IVuZiPb1GYWI6RKFnxj9nQn2fAWlBYMdGYVnQ54WiKSZI",
+        "source": "CNN"
+      },
+      {
+        "title": "Stellantis idles plants in Mexico and Canada due to tariffs",
+        "snippet": "",
+        "url": "https://www.cnbc.com/2025/04/03/stellantis-idles-plants-in-mexico-and-canada-due-to-tariffs.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlYezHRmHZtxXyAQ_uxA_8BnmJIZnUp47cfPo-oEIEExhn5QTcP8lh4tjEtJA",
+        "source": "CNBC"
+      },
+      {
+        "title": "Stellantis to temporarily lay off 900 US workers as tariffs bite",
+        "snippet": "",
+        "url": "https://www.reuters.com/business/autos-transportation/stellantis-says-will-temporarily-lay-off-900-us-workers-following-tariff-2025-04-03/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPdc9zc5UA8fAY6iFBV2yk5Vbw31wLS1PTelxEJ5KsfsJrJkKoYYRKFdlHsTU",
+        "source": "Reuters"
+      }
+    ]
+  },
+  {
+    "title": "baba vanga",
+    "link": "https://trends.google.com/trending/rss?geo=HR",
+    "pubdate": "Fri, 4 Apr 2025 04:20:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-GJ8hooO3Abwwf5ln_zwC6kpJgx2mtNFtj5pMal5RA5-ZA_t6QXr5_O9j28g",
+    "picture_source": "Yahoo",
+    "news_items": [
+      {
+        "title": "Blind psychic Baba Vanga’s latest prediction came true — and more of her shocking 2025 prophecies see a dire future",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/blind-psychic-baba-vanga-latest-195305877.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-GJ8hooO3Abwwf5ln_zwC6kpJgx2mtNFtj5pMal5RA5-ZA_t6QXr5_O9j28g",
+        "source": "Yahoo"
+      },
+      {
+        "title": "These Prophecies Of Baba Vanga Came True In 2025. Here's What She Predicted",
+        "snippet": "",
+        "url": "https://www.ndtv.com/offbeat/these-prophecies-of-baba-vanga-came-true-in-2025-heres-what-she-predicted-8067880",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsbRf1_3IcVdMcRHaIqWwzjDOvbDrAhg8tjpRIFeal0mHoIWLlW_TF5TtAZ8",
+        "source": "NDTV"
+      },
+      {
+        "title": "Japanese Baba Vanga who predicted the Kobe Earthquake and 2011 tsunami says another spine chilling disast",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/japanese-baba-vanga-who-predicted-the-kobe-earthquake-and-2011-tsunami-says-another-spine-chilling-disaster-to-follow-soon/articleshow/119965479.cms",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcm02eG8lwZ2Dz_HrCD36scUj-sJB0hW556GH4IebSb8JBVi9ifjSS7lSnPAY",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "title": "laura loomer",
+    "link": "https://trends.google.com/trending/rss?geo=HR",
+    "pubdate": "Thu, 3 Apr 2025 23:50:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPXAUd6Yx_sJm1mh6n-3fpK8VPs2EVPLXEaj7tGC4RnsFlpiD7KI_rWUuF87Y",
+    "picture_source": "The Washington Post",
+    "news_items": [
+      {
+        "title": "National Security Agency chief ousted after far-right activist urged his removal",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/national-security/2025/04/03/nsa-director-fired-tim-haugh/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPXAUd6Yx_sJm1mh6n-3fpK8VPs2EVPLXEaj7tGC4RnsFlpiD7KI_rWUuF87Y",
+        "source": "The Washington Post"
+      },
+      {
+        "title": "After Meeting With Laura Loomer, Trump Fires National Security Council Officials",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/trump-meeting-laura-loomer.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfYm5fyR8ZmYEY6SNpi1Gd_VLyEQhmn31J2XH1Jckd2j3qvZiGFPQ2k3vl3mU",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Democrats decry reported dismissal of NSA director Tim Haugh",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2025/apr/04/democrats-decry-reported-dismissal-of-nsa-director-tim-haugh",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAY85x73LtRELnCCv-kuE8bQCyoG6sJUqZSEMvouNwRIj9Z2oV46bnVdVRWMQ",
+        "source": "The Guardian"
+      }
+    ]
+  },
+  {
+    "title": "vijesti",
+    "link": "https://trends.google.com/trending/rss?geo=HR",
+    "pubdate": "Thu, 3 Apr 2025 20:10:00 -0700",
+    "approx_traffic": 100,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdugWZloipvlek-1lOba5aZoMCjQCLVvbsKNeRmPYdiSX3d-RF49dfvB0Mllw",
+    "picture_source": "Net.hr",
+    "news_items": [
+      {
+        "title": "RTL Danas doznaje nove cijene goriva! Stiže poskupljenje, brzo požurite na benzinske",
+        "snippet": "",
+        "url": "https://net.hr/danas/vijesti/ovo-su-nove-cijene-goriva-60080bac-1132-11f0-a0c0-ee0b203e749c",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdugWZloipvlek-1lOba5aZoMCjQCLVvbsKNeRmPYdiSX3d-RF49dfvB0Mllw",
+        "source": "Net.hr"
+      },
+      {
+        "title": "Od idućeg tjedna gorivo će biti skuplje, ovo su nove cijene...",
+        "snippet": "",
+        "url": "https://www.24sata.hr/news/od-iduceg-tjedna-gorivo-ce-biti-skuplje-ovo-su-nove-cijene-1043081",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT03TJjutI5_dDV_WxLfpR_Eqa4D-vbUJE08nhSEANPTlPGqL416o8P7rbn6Q",
+        "source": "24sata.hr"
+      },
+      {
+        "title": "Loša vijest za vozače, opet poskupljuje gorivo: Ovo su nove cijene",
+        "snippet": "",
+        "url": "https://www.jutarnji.hr/vijesti/hrvatska/losa-vijest-za-vozace-opet-poskupljuje-gorivo-ovo-su-nove-cijene-15570218",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTK2QkeZRNLFqeBQ_-KlTvRdg_vDH47xOCTcK4mm1tfVWhosrUfPYrFtAASSU",
+        "source": "Jutarnji list"
       }
     ]
   }

@@ -1,311 +1,94 @@
 [
   {
-    "title": "atlético madrid - getafe",
+    "title": "sporting - rio ave",
     "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 11:50:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 11:40:00 -0700",
+    "approx_traffic": 5000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW1Bci_Oly3TKCwpNBh20c8uBZ5U9RjuIdMlFyNHg8LUUEr9EgUeBuU0WNgqY",
+    "picture_source": "A Bola",
+    "news_items": [
+      {
+        "title": "Taça de Portugal Penálti por reverter: Duarte Gomes analisa arbitragem do Sporting-Rio Ave",
+        "snippet": "",
+        "url": "https://www.abola.pt/futebol/noticias/penalti-por-reverter-duarte-gomes-analisa-arbitragem-do-sporting-rio-ave-2025040322013416044",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW1Bci_Oly3TKCwpNBh20c8uBZ5U9RjuIdMlFyNHg8LUUEr9EgUeBuU0WNgqY",
+        "source": "A Bola"
+      },
+      {
+        "title": "A Bola · 4 abr 2025",
+        "snippet": "",
+        "url": "https://www.sapo.pt/jornais/capas/4137/2025-04-04",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_sqaKXTFsxPSo5idzTA77PC9Ku-jahRdyxrb-hQ15b3tLmN_b5NCE250mqhs",
+        "source": "SAPO"
+      },
+      {
+        "title": "Jamor mais perto. Sporting 'mete a sexta' e complica sonho do Rio Ave",
+        "snippet": "",
+        "url": "https://www.noticiasaominuto.com/desporto/2760610/sporting-rio-ave-esta-em-jogo-um-lugar-na-final-da-taca-de-portugal",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAVEieXYv_q4izs-eG7-Ugi7q-pjVKMziw-1DlXx6Gb5c-3jL-RlZEiYGc3VE",
+        "source": "Notícias ao Minuto"
+      }
+    ]
+  },
+  {
+    "title": "chelsea - tottenham",
+    "link": "https://trends.google.com/trending/rss?geo=MZ",
+    "pubdate": "Thu, 3 Apr 2025 11:20:00 -0700",
     "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS49lnR8o4yJBrdk2b_1j_Qwh3Jp4S_0Lq2-XgJNoDqKxkiB0rwvrsUpdlKp3U",
-    "picture_source": "Marca.com",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+    "picture_source": "BBC",
     "news_items": [
       {
-        "title": "Hay otro Simeone en la ciudad",
+        "title": "Chelsea 1-0 Tottenham LIVE: Blues boost top-four hopes to pile pressure on Postecoglou",
         "snippet": "",
-        "url": "https://www.marca.com/futbol/copa-rey/cronica/2025/02/04/6797bfe7ca47417e6c8b4571.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS49lnR8o4yJBrdk2b_1j_Qwh3Jp4S_0Lq2-XgJNoDqKxkiB0rwvrsUpdlKp3U",
-        "source": "Marca.com"
+        "url": "https://www.bbc.com/sport/football/live/ce3q1n1l023t",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+        "source": "BBC"
       },
       {
-        "title": "El Metropolitano se rinde a Giuliano",
+        "title": "Maresca 'happy' with Chelsea's 'dirty' win over Spurs",
         "snippet": "",
-        "url": "https://es-us.noticias.yahoo.com/deportes/metropolitano-rinde-giuliano-222951857.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAXv1w6PGxq-8jSbnjZhlQn5-kN-Zk6CInrBm9dDygs00nXXcDrWsuUOK1TPk",
-        "source": "Yahoo Noticias"
+        "url": "https://sporty.com/news/video/1q92hkl3327yf191zd9vher3c9",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPSZJ0zDA4TsIWrb0jFF6MKwSYiEPL3JD55Ip6zvTBL8uCa3JxyawSKlnNErg",
+        "source": "Sporty.com"
       },
       {
-        "title": "Antonio Romero: \"El Atlético llega como el equipo en mejor forma de nuestra competición al derbi frente al Real Madrid\"",
+        "title": "Levi Colwill names Chelsea player who’s “a huge threat” following Tottenham win",
         "snippet": "",
-        "url": "https://cadenaser.com/nacional/2025/02/04/antonio-romero-el-atletico-de-madrid-llega-como-el-equipo-en-mejor-forma-de-nuestra-competicion-al-derbi-frente-al-real-madrid-cadena-ser/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXYPvZg42nC11OlMOVOnojmVeM8eLRTcTYVCGhr532uaYYQs54a4O6g2YNCV8",
-        "source": "Cadena SER"
+        "url": "https://chelsea.news/2025/04/levi-colwill-nicolas-jackson-praise/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjYT6ImwBITVnyYlHgo8avMkjZq6LVXNZAZ2tEUc-vfoCiZIQTDaGAWqMBpk",
+        "source": "Chelsea News"
       }
     ]
   },
   {
-    "title": "le mans football club - psg",
+    "title": "chelsea",
     "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 12:10:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
-    "picture_source": "L'Équipe",
-    "news_items": [
-      {
-        "title": "Le PSG laissera sa part de recette au Mans... seulement en Coupe de France Féminine",
-        "snippet": "",
-        "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-laissera-sa-part-de-recette-au-mans-seulement-en-coupe-de-france-feminine/1537691",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrgk3rEngvKFt-67BQ4fp8NHp2uY4XTHlUhRsUfAiWvmyyiFdzgUa6YcpQUhQ",
-        "source": "L'Équipe"
-      },
-      {
-        "title": "Multiplex Coupe de France : sur quelle chaîne et à quelle heure voir les matchs de ce mercredi ?",
-        "snippet": "",
-        "url": "https://www.ouest-france.fr/sport/football/coupe-de-france/multiplex-coupe-de-france-sur-quelle-chaine-et-a-quelle-heure-voir-les-matchs-de-ce-mercredi-b52d3ce0-e303-11ef-95b5-abc03fff97b2",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJrjo9T6D-M1cSx-z9SsEwMj7GqiwDke1yxFN-lDLUGwv7kV0jxIdK7zJV8OY",
-        "source": "Ouest-France"
-      },
-      {
-        "title": "Le Mans : Rabillard tout de même fier",
-        "snippet": "",
-        "url": "https://www.maxifoot.fr/le-mans/rabillard-tout-de-meme-fier-foot-427870.htm",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILgbqON4SGZGl6fKGj3H3_W8CyCUgbezNwWsMTXpUtmYL-r-2Qic7P0J4hKg",
-        "source": "Maxifoot"
-      }
-    ]
-  },
-  {
-    "title": "atalanta - bologna",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 12:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIqOEgv_EVYeJAOwXRNskhk4ewbDjO5bugZY5zAk0FiUTS5Un7rPn05p83hqI",
-    "picture_source": "Football Italia",
-    "news_items": [
-      {
-        "title": "Coppa Italia: Atalanta 0-1 Bologna – Rossoblu make 21st century history",
-        "snippet": "",
-        "url": "https://football-italia.net/coppa-italia-qf-atalanta-0-1-bologna/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIqOEgv_EVYeJAOwXRNskhk4ewbDjO5bugZY5zAk0FiUTS5Un7rPn05p83hqI",
-        "source": "Football Italia"
-      },
-      {
-        "title": "Super sub Castro sends Bologna into Coppa Italia final four at expense of Atalanta",
-        "snippet": "",
-        "url": "https://www.flashscore.com/news/atalanta-bologna-report-2025-02-04/Sb2PtIn2/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxVATFCL0kfot2o4kuw4seUfFTvzjbTcu9OFbtr3knSYeHdeFCZ9s5dqFiFY",
-        "source": "Flashscore.com"
-      },
-      {
-        "title": "Atalanta coach Gasperini admits form slump after Coppa exit",
-        "snippet": "",
-        "url": "https://www.tribalfootball.com/article/soccer-coppa-italia-atalanta-coach-gasperini-admits-form-slump-after-coppa-exit-a4f90908-92cb-438a-bc2b-9ffc39e05059",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ627CTw1u53JzEh4t7YyFwVHIpSFhwppYVwC3EfOzQ3xo8J8PwQQT9vIm6ZPw",
-        "source": "TribalFootball"
-      }
-    ]
-  },
-  {
-    "title": "atletico madrid",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 18:20:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1wOjmd2JD4p277PN2B9nptT-E16MedRDQM6NSqOkpfUk6qJmZCFV6AP-hFI",
-    "picture_source": "Sporting Life",
-    "news_items": [
-      {
-        "title": "Any Other Bets: Sky Bet Championship and Copa del Rey tips for 4 February",
-        "snippet": "",
-        "url": "https://www.sportinglife.com/football/news/any-other-bets-sky-bet-championship-and-copa-del-rey-tips-for-4-february/223541",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1wOjmd2JD4p277PN2B9nptT-E16MedRDQM6NSqOkpfUk6qJmZCFV6AP-hFI",
-        "source": "Sporting Life"
-      },
-      {
-        "title": "Atlético de Madrid is Unstoppable and Now Awaits Real Madrid in The Copa del Rey",
-        "snippet": "",
-        "url": "https://www.beinsports.com/en-us/soccer/articles-video/atl%C3%A9tico-de-madrid-is-unstoppable-and-now-awaits-real-madrid-in-the-copa-del-rey-2025-02-04",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LSHL-SKR9pOFYZ_HDndQmNYQK1OyxbAD11OHcyA62Xx4MoxA1NbaTrubcgM",
-        "source": "beIN SPORTS"
-      },
-      {
-        "title": "talkSPORT betting tips – Best football bets and expert advice for Tuesday 4 February...",
-        "snippet": "",
-        "url": "https://talksport.com/football/2875653/betting-tips-best-football-bets-tuesday-4-february/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2a8hYODkgZ_biwf1BGV2byWWQ2EXU4xquxfo9pwwqMxD_T60UkKBZLGPi2Do",
-        "source": "talkSPORT"
-      }
-    ]
-  },
-  {
-    "title": "lille fc",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 11:30:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRidZ5cgT7wIPpbVHBQdn5gez48aW1iwexv9vfjkin5nRx1Sm_HfkEvWYO8Gqo",
+    "pubdate": "Thu, 3 Apr 2025 12:40:00 -0700",
+    "approx_traffic": 1000,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd151SGTdIRHWWDs3gENlHtsEHnoYxkZHGmahSkJYleTkAC57Qa7_c7Bl8cbI",
     "picture_source": "Yahoo Sports",
     "news_items": [
       {
-        "title": "🤯 Second-tier Dunkerque shock Lille in Coupe De France with epic comeback",
+        "title": "Report confirms £59 million Chelsea offer for “proper striker” with “huge potential”",
         "snippet": "",
-        "url": "https://sports.yahoo.com/second-tier-dunkerque-shock-lille-203000670.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRidZ5cgT7wIPpbVHBQdn5gez48aW1iwexv9vfjkin5nRx1Sm_HfkEvWYO8Gqo",
+        "url": "https://sports.yahoo.com/article/report-confirms-59-million-chelsea-061900532.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd151SGTdIRHWWDs3gENlHtsEHnoYxkZHGmahSkJYleTkAC57Qa7_c7Bl8cbI",
         "source": "Yahoo Sports"
       },
       {
-        "title": "Preview: Lille vs. Dunkerque - prediction, team news, lineups",
+        "title": "Report confirms £59 million Chelsea offer for “proper striker” with “huge potential”",
         "snippet": "",
-        "url": "https://www.sportsmole.co.uk/football/lille/coupe-de-france/preview/preview-lille-vs-dunkerque-prediction-team-news-lineups_564607.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStFNEAK12ZF6AfI4p6Jf7Z5cLc9WfJWoBY2QVm_-Q2eIA_5vq8Imjg_nRf6ME",
-        "source": "Sports Mole"
-      },
-      {
-        "title": "🤯 Second-tier Dunkerque shock Lille in Coupe De France with epic comeback",
-        "snippet": "",
-        "url": "https://onefootball.com/en/news/second-tier-dunkerque-shock-lille-in-coupe-de-france-with-epic-comeback-40664336",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpDeSJGixsK8zu-ZA7zU5JA1kaeo-j-uS4oqSXaN2m5iQFpD037jo3BzLHy1Q",
-        "source": "OneFootball"
-      }
-    ]
-  },
-  {
-    "title": "lille",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 11:00:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0m_UWUouVFoZk85gWXdXtPLrRUxkAjxxw6z9BKgSOgRCRJoRnlga3ZgZJYpI",
-    "picture_source": "The New York Times",
-    "news_items": [
-      {
-        "title": "Lille agree deal to sign Chuba Akpom on loan from Ajax - The Athletic",
-        "snippet": "",
-        "url": "https://www.nytimes.com/athletic/6102469/2025/01/31/chuba-akpom-transfer-ajax-lille/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0m_UWUouVFoZk85gWXdXtPLrRUxkAjxxw6z9BKgSOgRCRJoRnlga3ZgZJYpI",
-        "source": "The New York Times"
-      },
-      {
-        "title": "Sunderland dealt blow as 'agreement reached' for ex-Middlesbrough and Hull City man",
-        "snippet": "",
-        "url": "https://www.yorkshirepost.co.uk/sport/football/sunderland-dealt-blow-as-agreement-reached-for-ex-middlesbrough-and-hull-city-attacker-4970598",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5b14xliU9fBLwup3c-r9SBOCfvnA-DYf_iV5udxUWeGYdXjtjxSrCXv4lNPc",
-        "source": "Yorkshire Post"
-      },
-      {
-        "title": "Leicester prepare documents to sign goal machine ahead of deadline day",
-        "snippet": "",
-        "url": "https://www.caughtoffside.com/2025/01/30/leicester-ruud-van-nistelrooy-chuba-akpom/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEsbAlG9ej1ug8VlxWiBsXOFSuUxnqRU3W6UOdtUXrZFn8_Vl5NMVYgBwvKs",
+        "url": "https://www.caughtoffside.com/2025/04/04/chelsea-submit-offer-sign-endrick/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxYQGYB93kZGSu4KB7XHP0COhvoDIkx-Kq28cID8qE3XxPDtAtZaxkqfKMVyI",
         "source": "CaughtOffside"
-      }
-    ]
-  },
-  {
-    "title": "al-hilal - persepolis",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 10:40:00 -0800",
-    "approx_traffic": 200,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-LYReHzP207y2r2D5pK-Xkz-N-Ybv7XAsl5vkwo2NPYLX2KkgpeMaplgMBXo",
-    "picture_source": "Sportskeeda",
-    "news_items": [
-      {
-        "title": "Al-Hilal vs Persepolis Prediction and Betting Tips | 4th February 2025",
-        "snippet": "",
-        "url": "https://www.sportskeeda.com/football/al-hilal-vs-persepolis-prediction-betting-tips-4th-february-2025",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-LYReHzP207y2r2D5pK-Xkz-N-Ybv7XAsl5vkwo2NPYLX2KkgpeMaplgMBXo",
-        "source": "Sportskeeda"
       },
       {
-        "title": "Post-Neymar era starts with a bang as Al Hilal continue AFC Champions League dominance by thrashing Persepolis",
+        "title": "Report: Chelsea have €70m offer rejected for attacker with seven goals",
         "snippet": "",
-        "url": "https://www.thenationalnews.com/sport/football/2025/02/05/post-neymar-era-starts-with-a-bang-as-al-hilal-continue-afc-champions-league-dominance-by-thrashing-persepolis/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq7Qga7bt4ihGLBQfdGqteWaTlT0gy1t96ySznxFzsKG9czttTNIw3vyErXSk",
-        "source": "The National"
-      },
-      {
-        "title": "Football: Hilal rout Persepolis to reclaim top spot",
-        "snippet": "",
-        "url": "https://www.gdnonline.com/Details/1343941/Hilal-rout-Persepolis-to-reclaim-top-spot",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-n7Glnc427Trgu7Wgor6V-1SarwluxkzruNc2qCHDezXrxW5YG_oOCRTAga4",
-        "source": "Gulf Daily News"
-      }
-    ]
-  },
-  {
-    "title": "copa del rey",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 19:30:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGd6ZUlG9BToC1pqxadnEfGxAxP3HJugWyz5SOLfmH61yhZJfXjJSRjMzOPDs",
-    "picture_source": "Marca.com",
-    "news_items": [
-      {
-        "title": "El ingenioso guiño del Leganés a la polémica arbitral: 'Partido várbaro'",
-        "snippet": "",
-        "url": "https://www.marca.com/futbol/real-madrid/2025/02/04/ingenioso-guino-leganes-polemica-arbitral-partido-varbaro.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGd6ZUlG9BToC1pqxadnEfGxAxP3HJugWyz5SOLfmH61yhZJfXjJSRjMzOPDs",
-        "source": "Marca.com"
-      },
-      {
-        "title": "Alineación posible del Real Madrid contra el Leganés en Copa",
-        "snippet": "",
-        "url": "https://as.com/futbol/alineacion-posible-del-real-madrid-contra-el-leganes-en-copa-n/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0Z0wV_XVnJTva4xw7sHhkSU18O8fE1MjEi_nbFfBurLQqGw1fh4OZVBeu48Q",
-        "source": "Diario AS"
-      },
-      {
-        "title": "El Leganés la lía en redes sociales con un cartel de lo más polémico para anunciar el partido de Copa del Rey",
-        "snippet": "",
-        "url": "https://www.realmadridexclusivo.com/redes/leganes-lia-en-redes-sociales-con-cartel-mas-polemico-anunciar-partido-copa-rey_217714_102.html",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4W06MpLeHvZvoNoVBoXGZi9G5HfgZTyR0JNi5CHeZG2NnG65MQT-_vCJTZPU",
-        "source": "Real Madrid Exclusivo"
-      }
-    ]
-  },
-  {
-    "title": "atalanta fc",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 18:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ypu8HKREWYOqzQdqd2aNlTwjMbtbRyVSIbqXiipf7Nha9zl2Dl7G-5eSN-w",
-    "picture_source": "Transfermarkt",
-    "news_items": [
-      {
-        "title": "FC Brügge - Atalanta BC prediction & tips 12.02.2025",
-        "snippet": "",
-        "url": "https://www.transfermarkt.com/betting/tips/fc-brugge-vs-atalanta-bergamo-prediction-12-02-2025/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ypu8HKREWYOqzQdqd2aNlTwjMbtbRyVSIbqXiipf7Nha9zl2Dl7G-5eSN-w",
-        "source": "Transfermarkt"
-      },
-      {
-        "title": "Nigerian stars Lookman, Onyedika set for Champions League playoff clash",
-        "snippet": "",
-        "url": "https://www.premiumtimesng.com/sports/football/770878-nigerian-stars-lookman-onyedika-set-for-champions-league-playoff-clash.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTY0-4wG1KvMiDSSWmEbJoW3fV1R2PmoJMdSMdXp-cn2cxI1A59ZAru1ZhzAwA",
-        "source": "Premium Times Nigeria"
-      },
-      {
-        "title": "Atalanta to face Club Brugge in the UCL knockout phase play-offs",
-        "snippet": "",
-        "url": "https://en.atalanta.it/news/facing-club-brugge-in-the-ucl-knockout-phase-play-offs",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn6ebNcfD5URcU_bl4LsxtP11HyF1RaFvzZ1iTaHNOjXuAhTsReckRaXbxTsU",
-        "source": "Atalanta"
-      }
-    ]
-  },
-  {
-    "title": "kaizer chiefs vs amazulu",
-    "link": "https://trends.google.com/trending/rss?geo=MZ",
-    "pubdate": "Tue, 4 Feb 2025 10:00:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAcNk9IDFZA8hE3qoxor6P009KjDaH4Uur4YaHpIPCxoJYRUMSdz4nTPs_83k",
-    "picture_source": "FARPost",
-    "news_items": [
-      {
-        "title": "Five reasons why Nabi made five changes against AmaZulu",
-        "snippet": "",
-        "url": "https://farpost.co.za/2025/02/04/five-reasons-why-nabi-made-five-changes-against-amazulu/",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAcNk9IDFZA8hE3qoxor6P009KjDaH4Uur4YaHpIPCxoJYRUMSdz4nTPs_83k",
-        "source": "FARPost"
-      },
-      {
-        "title": "Zwane defends Ofori: 'He kept us in the game'",
-        "snippet": "",
-        "url": "https://www.snl24.com/kickoff/sanews/premiership/amazulu/arthur-zwane-defends-ofori-after-costly-mistakes-against-chiefs-20250204",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiu_Xc8WMswU1ro5AgJx8Vka3Kcnilz_80JvDPbbet2LbBBcWMX3EQPUwpjjI",
-        "source": "SNL24"
-      },
-      {
-        "title": "Chiefs, AmaZulu share spoils after four-goal thriller",
-        "snippet": "",
-        "url": "https://www.psl.co.za/news/article/5609694-chiefs-amazulu-share-spoils-after-fou",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYi4AIowu_CpTGviKaNEWv5T9jBRomflYXKN67KuMUskuUcrfVNds08TTfeLg",
-        "source": "PSL.co.za"
+        "url": "https://chelsea.news/2025/04/chelsea-real-madrid-endrick/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5Om6k3ef7cv2BhoBZ75Dm4CpBHuVu93d9J-1mX_IZS3I3l5dZqiPro0z8R30",
+        "source": "Chelsea News"
       }
     ]
   }

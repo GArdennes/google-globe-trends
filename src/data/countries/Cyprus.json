@@ -2,186 +2,217 @@
   {
     "title": "weather",
     "link": "https://trends.google.com/trending/rss?geo=CY",
-    "pubdate": "Tue, 4 Feb 2025 20:10:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 20:30:00 -0700",
     "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIIAipymfmKKEKCJCD1XAmTKxeMEZQlb6FU29pRBURStaWNs1bNGyF9uyyLw",
-    "picture_source": "Syracuse.com",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpMw8NR6S2ACviCoekOUgViRCE3Ncdx0UWHAN6ZngjSzXvKAPgFhYR_s4_0Q",
+    "picture_source": "Spectrum News",
     "news_items": [
       {
-        "title": "Winter weather advisory issued for New York for Thursday",
+        "title": "March kicked off a busy spring severe weather season",
         "snippet": "",
-        "url": "https://www.syracuse.com/weather-alerts/2025/02/winter-weather-advisory-issued-for-new-york-for-thursday.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIIAipymfmKKEKCJCD1XAmTKxeMEZQlb6FU29pRBURStaWNs1bNGyF9uyyLw",
-        "source": "Syracuse.com"
+        "url": "https://spectrumlocalnews.com/mo/st-louis/weather/2025/04/03/severe-weather-season--tornadoes",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpMw8NR6S2ACviCoekOUgViRCE3Ncdx0UWHAN6ZngjSzXvKAPgFhYR_s4_0Q",
+        "source": "Spectrum News"
       },
       {
-        "title": "Western New York Braces for Ice and Snow: Hazardous Conditions Expected by Thursday",
+        "title": "Violent storms hit across the US",
         "snippet": "",
-        "url": "https://countryherald.com/news/western-new-york-braces-for-ice-and-snow-hazardous-conditions-expected-by-thursday/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvWbmN6hfGa_-oOgCcSNAB6j1axs7L8u6RzMSVpUp19CBlOfMqTh3B_VOVm-s",
-        "source": "Country Herald"
+        "url": "https://www.msn.com/en-gb/video/other/violent-storms-hit-across-the-us/vi-AA1CfMmi",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Cry2B7pAVLv6kqn-ymv1VBs8qJ82kPQIl0nLDQnNzcvR8SbQa7w6Z1RXnoA",
+        "source": "MSN"
       },
       {
-        "title": "NY weather: Weather alert issued for freezing rain in New York until Monday evening",
+        "title": "Tracking destructive and deadly tornadoes in the US, in maps and charts",
         "snippet": "",
-        "url": "https://www.silive.com/weather-alerts/2025/02/ny-weather-weather-alert-issued-for-freezing-rain-in-new-york-until-monday-evening.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE8AfzHS3ZDcbavAgpOvEPw1MpDN3O-f6rcPYKjixqWqeynTVJUxQP1S5lRV0",
-        "source": "SILive.com"
+        "url": "https://www.erienewsnow.com/story/52663868/tracking-destructive-and-deadly-tornadoes-in-the-us-in-maps-and-charts",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcVJEIIn6k8R1cBNUsFw5x_wvL5zI871QUBYEDbz-gNoerch1uidqqjn4AQoQ",
+        "source": "Erie News Now"
+      }
+    ]
+  },
+  {
+    "title": "thunderstorm warning",
+    "link": "https://trends.google.com/trending/rss?geo=CY",
+    "pubdate": "Thu, 3 Apr 2025 20:00:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsl-tIPaOqyHL4hjxONB14UG9pwQSi3AWOtxXKN8eRx-6fUaaLN_HbAGgaM5A",
+    "picture_source": "WDHN",
+    "news_items": [
+      {
+        "title": "Hot weather over the next few days, as we watch for strong storms on Sunday",
+        "snippet": "",
+        "url": "https://www.wdhn.com/weather/hot-weather-over-the-next-few-days-as-we-watch-for-strong-storms-on-sunday/",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsl-tIPaOqyHL4hjxONB14UG9pwQSi3AWOtxXKN8eRx-6fUaaLN_HbAGgaM5A",
+        "source": "WDHN"
+      },
+      {
+        "title": "Update: Quarter-sized hail possible – tornado warning issued for Lauderdale County Thursday",
+        "snippet": "",
+        "url": "https://www.al.com/weather-alerts/2025/04/quarter-sized-hail-possible-tornado-warning-issued-for-lauderdale-county-thursday.html",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlj_ENechjViDZ55y53ct6UcHRnsiS6Ox9Fux3IBAxoueGialHhlDczfn8g0",
+        "source": "AL.com"
+      },
+      {
+        "title": "James Spann: Storms return to Alabama Saturday night, Sunday; colder next week",
+        "snippet": "",
+        "url": "https://alabamanewscenter.com/2025/04/03/james-spann-storms-return-to-alabama-saturday-night-sunday-colder-next-week/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTueYvwXUpO_22Rua05aRK8dQYbV3sQDNMFI_vFwDBys7eHXUHMHHpu2iA7_RA",
+        "source": "Alabama News Center"
       }
     ]
   },
   {
     "title": "weather tomorrow",
     "link": "https://trends.google.com/trending/rss?geo=CY",
-    "pubdate": "Tue, 4 Feb 2025 10:40:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 10:30:00 -0700",
     "approx_traffic": 2000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnmD7-M9kgn2pFzmiL89gJW0uABFxVRRQdt7lfxDKtw47IGe1KoaV-8FXLQw",
-    "picture_source": "ABC7 Chicago",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIXH8wfewLARn0IO7mB8svFHruCS7Mc3nVzD499dhQO99GrEkzlJdz7-j77Ck",
+    "picture_source": "CNN",
     "news_items": [
       {
-        "title": "Chicago, Illinois weather forecast tomorrow: Wintry mix could create dangerous travel conditions Wednesday",
+        "title": "Extreme rainfall brings potentially deadly flooding to parts of central US already slammed by storms",
         "snippet": "",
-        "url": "https://abc7chicago.com/post/chicago-illinois-weather-forecast-tomorrow-wintry-mix-could-create-dangerous-travel-conditions-wednesday/15864806/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnmD7-M9kgn2pFzmiL89gJW0uABFxVRRQdt7lfxDKtw47IGe1KoaV-8FXLQw",
-        "source": "ABC7 Chicago"
+        "url": "https://www.cnn.com/2025/04/04/weather/extreme-rainfall-deadly-flooding-central-us-hnk/index.html",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIXH8wfewLARn0IO7mB8svFHruCS7Mc3nVzD499dhQO99GrEkzlJdz7-j77Ck",
+        "source": "CNN"
       },
       {
-        "title": "Winter Weather Advisory issued for Wednesday into Thursday morning",
+        "title": "More storms threaten central US with 'catastrophic' flooding: Live updates",
         "snippet": "",
-        "url": "https://wgntv.com/weather/chicago-weather-tuesday-wednesday-02052025/",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDl_VYB7Yv0Pb1TIvNgBUjvRee_sHl-Ja-ZQNK4XfheI2LuRgsvOJS_ZSBYOI",
-        "source": "WGN-TV"
+        "url": "https://www.usatoday.com/story/news/nation/2025/04/04/storm-forecast-tornadoes-flooding-thunderstorm/82838697007/",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaBgFJbLlK3OC2Vq_knn_U_iBlERWxK8Pwf0y_FH50bxweRUa2luOa1AxE6J8",
+        "source": "USA Today"
       },
       {
-        "title": "Chicago Winter Weather Advisory: Freezing rain, snow and slick roads could impact Wednesday commutes",
+        "title": "Tornadoes Sweep Across the South and Midwest, Killing at Least 7",
         "snippet": "",
-        "url": "https://www.fox32chicago.com/weather/chicago-winter-weather-advisory-freezing-rain-snow-slick-roads-wednesday-commutes",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjOrWytt-CPz1Qie-bzXp_hQNnU6arct-xNnUuW2dKTF3-iSIvRxxSg2qFyQM",
-        "source": "FOX 32 Chicago"
+        "url": "https://www.nytimes.com/2025/04/03/us/tornadoes-south-midwest.html",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6Qpa8V-n3HEYHawufZanLWxU8GGZcqrztBuq3MZMqJ6KfM--v0VJU8ImjP1o",
+        "source": "The New York Times"
       }
     ]
   },
   {
-    "title": "الطقس",
+    "title": "beşiktaş - göztepe",
     "link": "https://trends.google.com/trending/rss?geo=CY",
-    "pubdate": "Tue, 4 Feb 2025 20:20:00 -0800",
-    "approx_traffic": 1000,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeb2xEn9z7x-38xGcWJB0OiqGyOa6dXbMYiq_eVQbaZd8jVJ651XXCe8QI5Fk",
-    "picture_source": "Facebook",
+    "pubdate": "Thu, 3 Apr 2025 09:50:00 -0700",
+    "approx_traffic": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxk450D-y2-Tm0UwtoZ-_awfOekyLKNzuu8JVLgNJ3JH0cbaHBGfEiBKjxjk",
+    "picture_source": "NTVSpor",
     "news_items": [
       {
-        "title": "حالة سريعة من... - الهيئة العامة للأرصاد الجوية المصرية",
+        "title": "Beşiktaş-Göztepe maçı bitti, Nihat Kahveci bombayı patlattı: \"Hayırlı olsun, Barcelona kesin alır\"",
         "snippet": "",
-        "url": "https://www.facebook.com/story.php?story_fbid=1021272156698018&id=100064457301517",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeb2xEn9z7x-38xGcWJB0OiqGyOa6dXbMYiq_eVQbaZd8jVJ651XXCe8QI5Fk",
-        "source": "Facebook"
+        "url": "https://www.ntvspor.net/foto-galeri/besiktas-goztepe-maci-bitti-nihat-kahveci-bombayi-patlatti-hayirli-olsun-barcelona-kesin-alir-67ef633e050fd903f7951a50",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxk450D-y2-Tm0UwtoZ-_awfOekyLKNzuu8JVLgNJ3JH0cbaHBGfEiBKjxjk",
+        "source": "NTVSpor"
       },
       {
-        "title": "تغير مفاجئ، درجات الحرارة اليوم الأربعاء 05-2-2025 فى مصر",
+        "title": "Beşiktaş, Göztepe karşısında 10 kişi kaldı! Penaltı bekledi, devam kararı...",
         "snippet": "",
-        "url": "https://www.vetogate.com/5341975",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWQk6OGt7SfhPLI5E-oCrXpDosnIwbCCQVcBoqLWBX2p8JvEJx_SXREqoPAw",
-        "source": "فيتو"
-      },
-      {
-        "title": "تقلبات جوية مفاجئة|الأرصاد الجوية تحذر من حالة الطقس خلال الساعات المقبلة",
-        "snippet": "",
-        "url": "https://kw.misrdy.com/uncategorized/news-53514.html",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yKv04OGG_eEsdLXcbpZ80G3BP-Y9dHYHdq7z_r5QBpaUFQ4KAtPybrR4PHo",
-        "source": "مصر سبورت"
-      }
-    ]
-  },
-  {
-    "title": "beşiktaş - kırklarelispor",
-    "link": "https://trends.google.com/trending/rss?geo=CY",
-    "pubdate": "Tue, 4 Feb 2025 09:00:00 -0800",
-    "approx_traffic": 500,
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSf1Qkm3d9oXcxZ4WZSnseDxtglIew8YzcbRNNe3DoRyCAqwM2_0BgSZEFjNE",
-    "picture_source": "Haber Kıbrıs",
-    "news_items": [
-      {
-        "title": "Beşiktaş kupada 2'de 2 yaptı: Goller ikinci yarıda geldi",
-        "snippet": "",
-        "url": "https://haberkibris.com/besiktas-kupada-2de-2-yapti-goller-ikinci-yarida-geldi-2157-2025-02-04.html",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSf1Qkm3d9oXcxZ4WZSnseDxtglIew8YzcbRNNe3DoRyCAqwM2_0BgSZEFjNE",
-        "source": "Haber Kıbrıs"
-      },
-      {
-        "title": "Ole Gunnar Solskjaer'den transfer açıklaması ve uyarı: Svensson istediği sürece kalacaktır | Semih'in Immobile'den öğreneceği çok şey var",
-        "snippet": "",
-        "url": "https://www.hurriyet.com.tr/spor/videolar/basketbol/video-ole-gunnar-solskjaerden-transfer-aciklamasi-ve-uyari-svensson-istedigi-surece-kalacaktir-semihin-immobileden-42682314",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN91WQcpaKnEULaLVPohm1wTrH6vh4VMQ5eAz5oVN2eD1_w_2GAnClC6-hy2Y",
+        "url": "https://www.hurriyet.com.tr/sporarena/besiktas-goztepe-karsisinda-10-kisi-kaldi-penalti-bekledi-devam-karari-42751198",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuuBjCd4V79lXTlqAYQ9Wy1zaJA4821Dmt66Rhz__UdyGAmloHX1CVeeEqt7s",
         "source": "Hürriyet"
       },
       {
-        "title": "Beşiktaş, Olimpiyat Stadı’nda 3’te 3 yaptı.",
+        "title": "Beşiktaş önce TFF'ye tepki gösterdi! Daha sonra acil çağrıda bulundu",
         "snippet": "",
-        "url": "https://www.izmirtime35.com/besiktas-olimpiyat-stadinda-3te-3-yapti",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUzoCzpOK4mTZpFk_wf5WuNrFkjM0vovaNegMLXBA-IUsoX3Cdd3q2KumM8i8",
-        "source": "İzmir Time 35"
+        "url": "https://spor.haber7.com/besiktas/haber/3519043-besiktas-once-tffye-tepki-gosterdi-daha-sonra-acil-cagrida-bulundu",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Ghax2Cc11RS0fTGgRQa_9YFulq4kxM-t6b9iHorJ8MfyMybH0i-JdSre07M",
+        "source": "Haber7"
       }
     ]
   },
   {
-    "title": "stoiximan",
+    "title": "chelsea vs tottenham",
     "link": "https://trends.google.com/trending/rss?geo=CY",
-    "pubdate": "Tue, 4 Feb 2025 06:20:00 -0800",
+    "pubdate": "Thu, 3 Apr 2025 11:40:00 -0700",
+    "approx_traffic": 500,
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+    "picture_source": "BBC",
+    "news_items": [
+      {
+        "title": "Chelsea 1-0 Tottenham LIVE: Blues boost top-four hopes to pile pressure on Postecoglou",
+        "snippet": "",
+        "url": "https://www.bbc.com/sport/football/live/ce3q1n1l023t",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemz5PWJSkl0ajpXn9KMelXmSCu17WXQvKezkzqWUP9nVu05haHXCUOPeanqk",
+        "source": "BBC"
+      },
+      {
+        "title": "Report & highlights: Chelsea 1-0 Tottenham",
+        "snippet": "",
+        "url": "https://www.skysports.com/football/live-blog/11661/13336734/chelsea-vs-tottenham-live-premier-league-match-updates-news-score-stream-report-and-highlights-live-on-sky-sports",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThjpJdqCiG-dvLDypvz3Hzg2zt-ycJrJ-mwDiwtelWhHLZ4ShsTXEWItcC7jc",
+        "source": "Sky Sports"
+      },
+      {
+        "title": "Levi Colwill names Chelsea player who’s “a huge threat” following Tottenham win",
+        "snippet": "",
+        "url": "https://chelsea.news/2025/04/levi-colwill-nicolas-jackson-praise/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjYT6ImwBITVnyYlHgo8avMkjZq6LVXNZAZ2tEUc-vfoCiZIQTDaGAWqMBpk",
+        "source": "Chelsea News"
+      }
+    ]
+  },
+  {
+    "title": "الطقس غدًا",
+    "link": "https://trends.google.com/trending/rss?geo=CY",
+    "pubdate": "Thu, 3 Apr 2025 10:50:00 -0700",
     "approx_traffic": 200,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZySbQ2GpZFPohao96YwISJq2bK5vGbn4U8njNDYoKXFbRGNmu7c2j6w1HfU",
-    "picture_source": "Kerkida",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjbgQ5XKBb5c3W2vyfDV2kGpe7WjQv08moOPUYjxX0lesUrol1Y7BR5u__ptg",
+    "picture_source": "بوابة الأهرام",
     "news_items": [
       {
-        "title": "Stoiximan: Ενισχυμένες Αποδόσεις στο ΠΑΟ-Φενέρ για την EuroLeague",
+        "title": "حالة الطقس في البحيرة.. مائل للحرارة نهارًا",
         "snippet": "",
-        "url": "https://www.kerkida.net/eidiseis/alles-stiles/must-read/stoiximan-enishymenes-apodoseis-sto-pao-fener-gia-tin-euroleague",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZySbQ2GpZFPohao96YwISJq2bK5vGbn4U8njNDYoKXFbRGNmu7c2j6w1HfU",
-        "source": "Kerkida"
+        "url": "https://gate.ahram.org.eg/News/5146856.aspx",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjbgQ5XKBb5c3W2vyfDV2kGpe7WjQv08moOPUYjxX0lesUrol1Y7BR5u__ptg",
+        "source": "بوابة الأهرام"
       },
       {
-        "title": "Γιασικεβίτσιους: «Γνωρίζουμε το ταλέντο των γκαρντ του Παναθηναϊκού",
+        "title": "بعد تحسن الأحوال الجوية.. عودة حركة الصيد لمراكب اليوم الواحد في البحيرة",
         "snippet": "",
-        "url": "https://balla.com.cy/2025/02/giasikevitsious-gnorizoume-to-talento-ton-gkarnt-tou-panathinaikou/",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhd_sJN25MgbjHKtOL8JJvEdYO-RbRCqfENiMlGgtLDGUx3nniFkZ0UilrrI4",
-        "source": "Balla"
+        "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=02042025&id=74e75c5e-0291-4b90-9d00-e46019cf07a0",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsTai3rbktq30GiTB0JZk-hsC2qMl0qww5DKoqrzbSHQGdlh23rq6edpfmZDo",
+        "source": "بوابة الشروق"
       },
       {
-        "title": "Αταμάν: «Ικανοποιημένος από τον χαρακτήρα, όχι από το μπάσκετ μας»",
+        "title": "طقس غائم جزئيا مع انخفاض درجات الحرارة بالبحيرة",
         "snippet": "",
-        "url": "https://m.24sports.com.cy/gr/sports/kalathosfaira/kalathosfaira-ellada/a1/ataman-ikanopoiimenos-apo-ton-xaraktira-oxi-apo-to-mpasket-mas",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKMWreJ4lUFdl_upHapO-zCJpu9jI7SSxQRjswIAwsHXsH9hGwBsvZVyHaCgo",
-        "source": "24Sports"
+        "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=28032025&id=719ff05a-8b7a-47ab-95df-71838cc6301d",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQm-mCMjJQJsCllIp4TN-KQYHmL2jmJbOCSHNlQS2t9lK3EUHHr1DgZdy9GGk0",
+        "source": "بوابة الشروق"
       }
     ]
   },
   {
-    "title": "euroleague",
+    "title": "kkr vs srh",
     "link": "https://trends.google.com/trending/rss?geo=CY",
-    "pubdate": "Tue, 4 Feb 2025 13:20:00 -0800",
-    "approx_traffic": 100,
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGosM1PYCC80yE1ApA2RVn7W7h2fy9k0FowWm19jpqT8MYLiOIK730sVdd_Vw",
-    "picture_source": "БТА",
+    "pubdate": "Thu, 3 Apr 2025 08:20:00 -0700",
+    "approx_traffic": 200,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPnCXk9aOMFUwSvdnqeRu-p1cJ3J32LQ0YN2tIb9GNNbsBw3J5QABPb7T1tI",
+    "picture_source": "Reuters",
     "news_items": [
       {
-        "title": "Bulgarian Basketball Player Vezenkov Wins Fourth EuroLeague Monthly MVP, Third Most in Its History",
+        "title": "Arora makes the right impact for Kolkata in rout of Hyderabad",
         "snippet": "",
-        "url": "https://www.bta.bg/en/news/826533-bulgarian-basketball-player-vezenkov-wins-fourth-euroleague-monthly-mvp-third-m",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGosM1PYCC80yE1ApA2RVn7W7h2fy9k0FowWm19jpqT8MYLiOIK730sVdd_Vw",
-        "source": "БТА"
+        "url": "https://www.reuters.com/sports/cricket/arora-makes-right-impact-kolkata-rout-hyderabad-2025-04-04/",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPnCXk9aOMFUwSvdnqeRu-p1cJ3J32LQ0YN2tIb9GNNbsBw3J5QABPb7T1tI",
+        "source": "Reuters"
       },
       {
-        "title": "Belgrade derby drama till the last second",
+        "title": "Highest paid in team doesn't mean I have to score every match, it's about impact:Venkatesh Iyer",
         "snippet": "",
-        "url": "https://basketnews.com/stream/222997-belgrade-derby-drama-till-the-last-second.html",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5b5FwnxT22NvKkmN7aup0CBnWQPtKnLF-7Hk8kcUO1x5_OzWk7seb3Ds_LYM",
-        "source": "BasketNews.com"
+        "url": "https://www.dailyexcelsior.com/highest-paid-in-team-doesnt-mean-i-have-to-score-every-match-its-about-impactvenkatesh-iyer/",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRj8ROq_V6SqwfuJjjeFhkEG4TQvwRhILWw2hvBtL9LTMomSNdd3H3WG8AX6tg",
+        "source": "Daily Excelsior"
       },
       {
-        "title": "Sasha Vezenkov named EuroLeague MVP of the Month for January",
+        "title": "Cummins' gung-ho Sunrisers begin to suffer IPL slump",
         "snippet": "",
-        "url": "https://www.eurohoops.net/en/euroleague/1780146/sasha-vezenkov-olympiacos-euroleague-mvp-of-the-month-january-2025/",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN-cx7xEsgxwAxr2h3elV-KXLLWw6HNA-KwrhVWyUNrJ7Z_qy8safRkzXBa2A",
-        "source": "Eurohoops"
+        "url": "https://au.news.yahoo.com/cummins-gung-ho-sunrisers-begin-192423494.html",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEgpA8g2VAYNzl2Eaa8svAfcxcQjA42juNcJrDX53G_NwraE47_LjL20Hjh2M",
+        "source": "Yahoo"
       }
     ]
   }
