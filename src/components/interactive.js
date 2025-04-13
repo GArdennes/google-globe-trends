@@ -94,7 +94,7 @@ export default function Interactive({ show, onHide }) {
     // Default: average of all goals
     const scores = Object.entries(marker.performance)
       .filter(([key]) => key.includes("Score"))
-      .map(([_, score]) => score);
+      .map(([, score]) => score);
 
     if (scores.length === 0) return "#808080";
 
