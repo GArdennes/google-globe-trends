@@ -133,6 +133,184 @@ body {
   }
 }
 
+.interactive {
+  @extend .fixed;
+  background: $background-color;
+  box-sizing: border-box;
+  overflow: auto;
+  padding: $spacing * 4 $spacing * 2;
+  pointer-events: auto;
+  z-index: 1000;
+
+  .interactive-content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+    
+    .close-button {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      z-index: 1010;
+      background-color: $container-background-color;
+      border: 1px solid $border-color;
+      color: $body-font-color;
+      border-radius: $spacing;
+      padding: $spacing $spacing * 1.5;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+      
+      &:hover {
+        background-color: lighten($container-background-color, 10%);
+      }
+    }
+    
+    #map {
+      height: calc(100vh - 60px);
+      width: 100%;
+      z-index: 1001;
+    }
+  }
+}
+
+.interactive-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  background: $background-color;
+  overflow: hidden;
+}
+
+// Country details panel
+.country-details {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  bottom: 1rem;
+  width: 320px;
+  max-width: calc(100% - 2rem);
+  background-color: rgba($container-background-color, 0.9);
+  border: 1px solid $border-color;
+  border-radius: $spacing;
+  padding: $spacing * 2;
+  overflow-y: auto;
+  z-index: 1005;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  
+  h2 {
+    margin-top: 0;
+    padding-bottom: $spacing;
+    border-bottom: 1px solid rgba($border-color, 0.3);
+  }
+  
+  h3 {
+    margin-top: $spacing * 2;
+    font-family: $header-font-family;
+    color: $header-font-color;
+    font-size: 1.2rem;
+  }
+  
+  p {
+    margin: $spacing 0;
+  }
+  
+  div {
+    margin: $spacing 0;
+    display: flex;
+    justify-content: space-between;
+    
+    span:first-child {
+      font-weight: bold;
+    }
+  }
+  
+  button {
+    margin-top: $spacing * 2;
+    width: 100%;
+  }
+}
+
+// Custom Leaflet styling
+.leaflet-container {
+  background-color: #222 !important;
+  font-family: $body-font-family;
+}
+
+.leaflet-popup-content-wrapper {
+  background-color: $container-background-color;
+  color: $body-font-color;
+  border-radius: $spacing;
+  border: 1px solid $border-color;
+}
+
+.leaflet-popup-tip {
+  background-color: $container-background-color;
+  border: 1px solid $border-color;
+}
+
+.leaflet-popup-content {
+  margin: $spacing;
+  
+  h3 {
+    margin-top: 0;
+    color: $header-font-color;
+    font-family: $header-font-family;
+    font-size: 1.2rem;
+  }
+  
+  p {
+    margin: $spacing/2 0;
+  }
+  
+  button {
+    background-color: rgba(lighten($container-background-color, 10%), 0.8);
+    border: 1px solid $border-color;
+    color: $body-font-color;
+    padding: $spacing/2 $spacing;
+    border-radius: $spacing/2;
+    margin-top: $spacing/2;
+    cursor: pointer;
+    
+    &:hover {
+      background-color: lighten($container-background-color, 15%);
+    }
+  }
+}
+
+.custom-marker {
+  div {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    transition: transform 0.2s ease;
+    
+    &:hover {
+      transform: scale(1.5);
+    }
+  }
+}
+
+// Media query for smaller screens for interactive map
+@media only screen and (max-width: 768px) {
+  .country-details {
+    width: calc(100% - 2rem);
+    height: auto;
+    max-height: 50vh;
+    top: auto;
+    bottom: 1rem;
+  }
+  
+  .interactive-content .close-button {
+    top: 0.5rem;
+    right: 0.5rem;
+    padding: $spacing/2 $spacing;
+  }
+}
+
 .content {
   display: flex;
   background-color:black;
@@ -250,15 +428,11 @@ body {
 }
 
 .hover-scale {
-
   transition: transform 0.3s;
-
 }
 
 .hover-scale:hover {
-
   transform: scale(1.2);
-
 }
 
 .taskbar-icon {

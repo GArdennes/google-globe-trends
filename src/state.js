@@ -31,6 +31,11 @@ export function reducer(state, action) {
         ...state,
         focusedMarker: payload,
       };
+    case "TOGGLE_INTERACTIVE":
+      return {
+        ...state,
+        showInteractive: action.payload,
+      };
     default:
       return state;
   }

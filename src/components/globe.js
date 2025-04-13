@@ -5,7 +5,7 @@ import Fade from "./fade";
 
 export default function World() {
   const [places, setPlaces] = useState([]);
-  const [{ hasLoaded, markers }, dispatch] = useStateValue();
+  const [{ hasLoaded, markers, showInteractive }, dispatch] = useStateValue();
 
   useEffect(() => {
     // load data
@@ -25,6 +25,10 @@ export default function World() {
       dispatch({ type: "LOADED" });
     }
   }, []);
+
+  if (showInteractive) {
+    return null;
+  }
 
   return (
     <>
