@@ -65,6 +65,8 @@ export default function Interactive({ show, onHide }) {
         return "#FFEB3B";
       case "red":
         return "#F44336";
+      case "orange":
+        return "#F44336";
       default:
         return "#808080"; // Gray for unknown
     }

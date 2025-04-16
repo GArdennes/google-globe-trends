@@ -2,15 +2,15 @@
 
 // variables
 $background-color: rgba(0, 0, 0, 0.95);
-$body-font-color: #fcdcbf;
+$body-font-color: #ffff; // High contrast color for better readability
 $body-font-family: Karla, sans-serif;
 $body-font-size: 16px;
-$border-color: #fcdcbf;
+$border-color: #ff8c00; // Adjusted to a higher contrast orange
 $container-background-color: #222222;
 $darken-background-color: rgba(0, 0, 0, 0.05);
 $h1-font-size: 48px;
 $h2-font-size: 32px;
-$header-font-color: #ffffff;
+$header-font-color: #ffffff; // High contrast white for better readability
 $header-font-family: Ovo, serif;
 $spacing: 12px;
 $media-phone-max-width: 320px;
@@ -39,7 +39,7 @@ $media-phone-max-width: 320px;
 // dom styles
 body {
   * {
-    color: $body-font-color;
+    color: #222;
     font-family: $body-font-family;
     font-size: $body-font-size;
     text-rendering: geometricPrecision;
@@ -59,6 +59,7 @@ body {
   a {
     cursor: pointer;
     font-weight: bold;
+    color: $body-font-color;
     pointer-events: auto;
     &:hover {
       color: lighten($body-font-color, 10%);
@@ -72,11 +73,11 @@ body {
 
   h1,
   h2 {
-    color: $header-font-color;
     font-family: $header-font-family;
     margin: $spacing 0;
   }
   h1 {
+    color: $header-font-color;
     font-size: $h1-font-size;
     @media only screen and (max-width: $media-phone-max-width) {
       font-size: $h1-font-size * 0.75;

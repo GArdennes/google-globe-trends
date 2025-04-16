@@ -29,7 +29,7 @@ export default function Overlay() {
       <Fade className="overlay" show={showOverlay}>
         <div className="header">
           <div>
-            <h2>Global view of SDG performance</h2>
+            <h1>Global view of SDG performance</h1>
             <div className="overlay-subtitle">
               <Description />
             </div>
