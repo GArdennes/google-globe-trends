@@ -1,13 +1,12 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import Globe from "react-globe.gl";
 import { useStateValue } from "../state";
 import Fade from "./fade";
 
 export default function World() {
   const [{ hasLoaded, markers, start }, dispatch] = useStateValue();
-  // const [hasLoaded, setHasLoaded] = useState(false);
   const [ownMarkers, setOwnMarkers] = useState([]);
-  // const [focusedMarker, setFocusedMarker] = useState(null);
+  const globeRef = useRef(null); // Create a ref for the Globe component
 
   const markerSvg = `<svg viewBox="-4 0 36 36">
     <path fill="currentColor" d="M14,0 C21.732,0 28,5.641 28,12.6 C28,23.963 14,36 14,36 C14,36 0,24.064 0,12.6 C0,5.641 6.268,0 14,0 Z"></path>
@@ -27,7 +26,6 @@ export default function World() {
           markers.some((marker) => marker.ISO === city.properties.iso_a2),
         );
 
-        // console.log("Main cities", mainCities.length, mainCities.slice(0, 5));
         // Generate some example markers
         const exampleMarkers = mainCities.map((city) => ({
           ISO: city.properties.iso_a2,
@@ -54,6 +52,7 @@ export default function World() {
     <>
       <div className={hasLoaded ? undefined : "hidden"}>
         <Globe
+          ref={globeRef} // Attach the ref to the Globe component
           globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
           backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
           htmlElementsData={ownMarkers}
@@ -94,7 +93,6 @@ export default function World() {
               container.appendChild(markerElement);
               container.appendChild(labelElement);
             }
-            container.appendChild(labelElement);
 
             // Show label on hover
             container.onmouseenter = () => {
@@ -115,9 +113,43 @@ export default function World() {
 
             return container;
           }}
-          htmlElementVisibilityModifier={(el, isVisible) =>
-            (el.style.opacity = isVisible ? 1 : 0)
-          }
+          htmlElementVisibilityModifier={(el, isVisible) => {
+            let zoomLevel = 1;
+
+            // Safe access to camera distance (which indicates zoom level)
+            if (
+              globeRef.current &&
+              globeRef.current.scene() &&
+              globeRef.current.camera()
+            ) {
+              const cameraDistance = globeRef.current
+                .camera()
+                .position.distanceTo(globeRef.current.scene().position);
+              // Convert distance to a zoom value (higher distance = lower zoom)
+              // Adjust these values based on your globe size
+              zoomLevel = 1000 / cameraDistance;
+            }
+
+            const minZoomToShowLabels = 7; // Adjust this threshold based on testing
+
+            if (isVisible) {
+              // Always show the marker when visible
+              el.style.opacity = 1;
+
+              // Show or hide the label based on zoom level
+              const labelElement = el.querySelector("div:nth-child(2)");
+              if (labelElement) {
+                if (zoomLevel >= minZoomToShowLabels) {
+                  labelElement.style.opacity = "1";
+                } else {
+                  labelElement.style.opacity = "0";
+                }
+              }
+            } else {
+              // Hide everything when not visible
+              el.style.opacity = 0;
+            }
+          }}
         />
       </div>
       <Fade animationDuration={3000} className="cover" show={!hasLoaded} />

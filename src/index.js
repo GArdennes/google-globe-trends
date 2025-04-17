@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import { createRoot } from "react-dom/client";
 
 import App from "./components/app";
 import { StateProvider, initialState, reducer } from "./state";
@@ -14,4 +14,6 @@ function Root() {
   );
 }
 
-ReactDOM.render(<Root />, document.getElementById("root"));
+const rootElement = document.getElementById("root");
+const root = createRoot(rootElement);
+root.render(<Root />);
