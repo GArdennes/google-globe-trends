@@ -47,7 +47,7 @@ export default function Overlay() {
           </div>
         </div>
         <div className="footer">
-          Sustainable Development Goals
+          <h4 style={{ color: "white" }}>Sustainable Development Goals</h4>
           <div style={{ display: "flex", marginRight: "5rem" }}>
             <Icons />
           </div>

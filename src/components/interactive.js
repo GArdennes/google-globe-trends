@@ -3,7 +3,6 @@ import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 import { useStateValue } from "../state";
 import Fade from "./fade";
-import Button from "./button";
 
 export default function Interactive({ show, onHide }) {
   const mapRef = useRef(null);
@@ -302,7 +301,7 @@ export default function Interactive({ show, onHide }) {
           })}
         </div>
 
-        <Button onClick={() => setSelectedCountry(null)}>Close</Button>
+        <button onClick={() => setSelectedCountry(null)}>Close</button>
       </div>
     );
   };
@@ -410,12 +409,12 @@ export default function Interactive({ show, onHide }) {
       </style>
       <Fade className="interactive-overlay" show={show}>
         <div className="interactive-content">
-          <Button
+          <button
             onClick={onHide}
             className="close-button"
             style={{ margin: "1rem", position: "absolute", top: 0, right: 0 }}>
             Close
-          </Button>
+          </button>
           {renderSdgFilterTray()}
           <div
             id="map"
