@@ -2,7 +2,7 @@ import React from "react";
 import { createRoot } from "react-dom/client";
 
 import App from "./components/app";
-import { StateProvider, initialState, reducer } from "./state";
+import { StateProvider, initialState, reducer } from "./state.js";
 
 import "./index.scss";
 
