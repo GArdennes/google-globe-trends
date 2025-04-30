@@ -1,9 +1,9 @@
 import React, { Suspense, lazy } from "react";
 
-const Details = lazy(() => import("./details"));
-const World = lazy(() => import("./globe"));
-const Intro = lazy(() => import("./intro"));
-const Overlay = lazy(() => import("./overlay"));
+const Details = lazy(() => import("./details.js"));
+const World = lazy(() => import("./globe.js"));
+const Intro = lazy(() => import("./intro.js"));
+const Overlay = lazy(() => import("./overlay.js"));
 
 export default function App() {
   return (

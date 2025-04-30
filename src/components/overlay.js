@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 
-import { useStateValue } from "../state";
-import About from "./about";
-import Interactive from "./interactive";
-import Description from "./description";
-import Fade from "./fade";
-import Link from "./link";
-import Icons from "./icons";
+import { useStateValue } from "../state.js";
+import About from "./about.js";
+import Interactive from "./interactive.js";
+import Description from "./description.js";
+import Fade from "./fade.js";
+import Link from "./link.js";
+import Icons from "./icons.js";
 
 export default function Overlay() {
   const [{ focusedMarker, markers, start }] = useStateValue();

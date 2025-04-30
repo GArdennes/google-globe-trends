@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useReducer } from "react";
 
-import config from "./config";
+import config from "./config.js";
 import data from "./data/data.json";
 
 const trends = data;

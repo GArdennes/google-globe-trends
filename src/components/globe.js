@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Globe from "react-globe.gl";
-import { useStateValue } from "../state";
-import Fade from "./fade";
+import { useStateValue } from "../state.js";
+import Fade from "./fade.js";
 
 export default function World() {
   const [places, setPlaces] = useState([]);

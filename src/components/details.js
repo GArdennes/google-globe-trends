@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo } from "react";
-import { useStateValue } from "../state";
-import Button from "./button";
-import Fade from "./fade";
+import { useStateValue } from "../state.js";
+import Button from "./button.js";
+import Fade from "./fade.js";
 
 const getSearchUrl = (country) => {
   return `https://en.wikipedia.org/wiki/${country}`;

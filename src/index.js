@@ -1,7 +1,7 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 
-import App from "./components/app";
+import App from "./components/app.js";
 import { StateProvider, initialState, reducer } from "./state.js";
 
 import "./index.scss";

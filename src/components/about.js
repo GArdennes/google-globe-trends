@@ -1,8 +1,8 @@
 import React from "react";
 
-import Button from "./button";
-import Fade from "./fade";
-import Link from "./link";
+import Button from "./button.js";
+import Fade from "./fade.js";
+import Link from "./link.js";
 
 export default function About({ onHide, show }) {
   return (

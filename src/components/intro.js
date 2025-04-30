@@ -1,7 +1,7 @@
 import React from "react";
-import { useStateValue } from "../state";
-import Button from "./button";
-import Fade from "./fade";
+import { useStateValue } from "../state.js";
+import Button from "./button.js";
+import Fade from "./fade.js";
 
 export default function Intro() {
   const [{ hasLoaded, start }, dispatch] = useStateValue();

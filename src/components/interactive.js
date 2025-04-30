@@ -1,8 +1,8 @@
 import React, { useEffect, useRef, useState } from "react";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
-import { useStateValue } from "../state";
-import Fade from "./fade";
+import { useStateValue } from "../state.js";
+import Fade from "./fade.js";
 
 export default function Interactive({ show, onHide }) {
   const mapRef = useRef(null);
