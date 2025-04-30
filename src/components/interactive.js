@@ -3,6 +3,7 @@ import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 import { useStateValue } from "../state.js";
 import Fade from "./fade.js";
+import Button from "./button.js";
 
 export default function Interactive({ show, onHide }) {
   const mapRef = useRef(null);
@@ -65,7 +66,7 @@ export default function Interactive({ show, onHide }) {
       case "red":
         return "#F44336";
       case "orange":
-        return "#F44336";
+        return "#FF9800"; // Distinct orange color
       default:
         return "#808080"; // Gray for unknown
     }
@@ -167,9 +168,10 @@ export default function Interactive({ show, onHide }) {
       const div = L.DomUtil.create("div", "legend");
       div.innerHTML = `
         <h4>SDG Performance</h4>
-        <div><i style="background: #4CAF50"></i> Good (≥75)</div>
-        <div><i style="background: #FFEB3B"></i> Moderate (50-74)</div>
-        <div><i style="background: #F44336"></i> Needs Improvement (<50)</div>
+        <div><i style="background: #4CAF50"></i> Good </div>
+        <div><i style="background: #FFEB3B"></i> Moderate </div>
+        <div><i style="background: #FF9800"></i> Needs Attention </div>
+        <div><i style="background: #F44336"></i> Needs Improvement </div>
         <div><i style="background: #808080"></i> No Data</div>
       `;
       return div;
@@ -247,19 +249,26 @@ export default function Interactive({ show, onHide }) {
   // Render SDG goal filter tray
   const renderSdgFilterTray = () => {
     return (
-      <div className="sdg-filter-tray">
-        <h3>SDG Goals</h3>
-        <div className="sdg-icons">
-          {sdgGoals.map((goal) => (
-            <div
-              key={goal}
-              className={`sdg-icon ${selectedGoal === goal ? "selected" : ""}`}
-              onClick={() =>
-                setSelectedGoal(selectedGoal === goal ? null : goal)
-              }>
-              {goal}
-            </div>
-          ))}
+      <div>
+        <div className="sdg-filter-tray">
+          <h3>SDG Goals</h3>
+          <div className="sdg-icons">
+            {sdgGoals.map((goal) => (
+              <div
+                key={goal}
+                className={`sdg-icon ${
+                  selectedGoal === goal ? "selected" : ""
+                }`}
+                onClick={() =>
+                  setSelectedGoal(selectedGoal === goal ? null : goal)
+                }>
+                {goal}
+              </div>
+            ))}
+          </div>
+        </div>
+        <div className="sdg-close-button">
+          <Button onClick={onHide} label="Back" />
         </div>
       </div>
     );
@@ -332,6 +341,7 @@ export default function Interactive({ show, onHide }) {
             border-radius: 5px;
             box-shadow: 0 0 15px rgba(0,0,0,0.2);
             z-index: 1000;
+            overflow: visible;
           }
           
           .sdg-filter-tray h3 {
@@ -405,21 +415,29 @@ export default function Interactive({ show, onHide }) {
             height: 15px;
             border-radius: 50%;
           }
+
+          .sdg-close-button {
+            position: absolute;
+            top: 10px;
+            left: 10%;
+            transform: translateX(-50%);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 1000;
+          }
+
         `}
       </style>
       <Fade className="interactive-overlay" show={show}>
         <div className="interactive-content">
-          <button
-            onClick={onHide}
-            className="close-button"
-            style={{ margin: "1rem", position: "absolute", top: 0, right: 0 }}>
-            Close
-          </button>
           {renderSdgFilterTray()}
           <div
             id="map"
             ref={mapRef}
-            style={{ height: "calc(100vh - 60px)", width: "100%" }}
+            style={{ height: "calc(100vh - 5px)", width: "100%" }}
           />
           {renderCountryDetails()}
         </div>
