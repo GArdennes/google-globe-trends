@@ -212,8 +212,7 @@ export default function Interactive({ show, onHide }) {
   const createPopupContent = (marker) => {
     let content = `
       <div class="popup-content">
-        <h3>${marker.country}</h3>
-        <p>Population: ${marker.population.toLocaleString()}</p>
+        <h4>${marker.country.toLocaleString()}</h4>
     `;
 
     if (selectedGoal) {
@@ -390,6 +389,11 @@ export default function Interactive({ show, onHide }) {
             max-height: 80vh;
             overflow-y: auto;
             z-index: 1000;
+          }
+
+          .country-details-panel p {
+            margin: 0 0 10px;
+            padding: 0;
           }
           
           .sdg-performance-grid {

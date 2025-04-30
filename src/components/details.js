@@ -163,7 +163,6 @@ export default function Details() {
     if (!focusedMarker) return null;
 
     const countryName = focusedMarker.country;
-    const value = focusedMarker.population;
     const url = getSearchUrl(countryName);
 
     return (
