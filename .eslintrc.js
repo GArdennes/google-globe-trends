@@ -1,13 +1,23 @@
 module.exports = {
+  root: true,
+  env: { browser: true, es2020: true, node: true },
   extends: [
-    "plugin:prettier/recommended",
-    "plugin:react/recommended",
-    "plugin:@typescript-eslint/recommended",
-    "prettier",
+    'eslint:recommended',
+    'plugin:react/recommended',
+    'plugin:react/jsx-runtime',
+    'plugin:react-hooks/recommended',
+    'plugin:prettier/recommended',
+    'prettier',
   ],
-  plugins: ["prettier"],
+  ignorePatterns: ['dist', '.eslintrc.js'],
+  parserOptions: { ecmaVersion: 'latest', sourceType: 'module' },
+  settings: { react: { version: '18.2' } },
+  plugins: ['prettier', 'react-refresh'],
   rules: {
-    "@typescript-eslint/explicit-function-return-type": "off",
+    'react-refresh/only-export-components': [
+      'warn',
+      { allowConstantExport: true },
+    ],
     "prettier/prettier": [
       "error",
       {
@@ -21,11 +31,6 @@ module.exports = {
       },
     ],
     "react/prop-types": "off",
+    "no-unused-vars": "warn"
   },
-  settings: {
-    react: {
-      version: "detect",
-    },
-  },
-  plugins: ["prettier"],
 };
