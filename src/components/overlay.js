@@ -1,4 +1,3 @@
-import moment from "moment";
 import React, { useState } from "react";
 
 import { useStateValue } from "../state";
@@ -36,7 +35,12 @@ export default function Overlay() {
           </div>
         </div>
         <div className="footer">
-          Updated on {moment(lastUpdated).format("MMM D, YYYY")}
+          Updated on{" "}
+          {new Intl.DateTimeFormat("en-US", {
+            month: "short",
+            day: "2-digit",
+            year: "numeric",
+          }).format(new Date(lastUpdated))}
         </div>
       </Fade>
     </>

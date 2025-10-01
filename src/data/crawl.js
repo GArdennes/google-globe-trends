@@ -1,5 +1,4 @@
 import fs from "fs";
-import axios from "axios";
 import { parseStringPromise } from "xml2js";
 
 function delay(ms) {
@@ -9,10 +8,14 @@ function delay(ms) {
 async function fetchWithRetry(url, retries = 3, backoff = 1000) {
   for (let i = 0; i < retries; i++) {
     try {
-      const response = await axios.get(url);
-      return response;
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      const data = await response.text();
+      return { data };
     } catch (error) {
-      if (error.response && error.response.status === 429 && i < retries - 1) {
+      if (error.message.includes("429") && i < retries - 1) {
         console.warn(`Rate limit exceeded. Retrying in ${backoff}ms...`);
         await delay(backoff);
         backoff *= 4; // Exponential backoff
@@ -101,7 +104,6 @@ export default async function crawl(data) {
     data: tableData,
   };
   fs.writeFileSync(`./src/data/data.json`, JSON.stringify(res, null, 2));
-  // fs.writeFileSync(`./public/data/data.json`, JSON.stringify(res, null, 2));
   return "Crawl completed";
 }
 
@@ -109,8 +111,3 @@ var list = JSON.parse(fs.readFileSync("./src/data/all.json", "utf8"));
 (async () => {
   await crawl(list);
 })();
-
-// const url = `https://trends.google.com/trending/rss?geo=ZA`;
-// const feed = await axios.get(url);
-// const response = await parser.parseStringPromise(feed.data);
-// console.log(response.rss.channel[0].item);

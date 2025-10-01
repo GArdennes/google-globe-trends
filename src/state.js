@@ -6,8 +6,6 @@ import data from "./data/data.json";
 const lastUpdated = data.lastUpdate;
 const trends = data.data;
 
-// console.log("Trends", trends.slice(0, 5));
-
 export const initialState = {
   config,
   focusedMarker: null,
