@@ -25,49 +25,46 @@
   ],
   "scripts": {
     "crawl": "npm run untrack && babel-node ./src/data/crawl.js",
-    "build": "npm run clean; npm run crawl; react-scripts build",
-    "clean": "rm -rf build",
+    "build": "npm run clean && npm run crawl && vite build",
+    "clean": "rm -rf dist",
+    "dev": "vite",
     "lint": "eslint --fix .",
-    "start": "react-scripts start",
+    "preview": "vite preview",
+    "start": "vite",
     "untrack": "git update-index --assume-unchanged ./src/data/data.json"
   },
   "dependencies": {
-    "@types/react": "^16.9.45",
-    "@types/react-dom": "^16.9.8",
     "axios": "^1.7.9",
-    "date-format": "^4.0.14",
-    "moment": "^2.24.0",
+    "moment": "^2.30.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-globe.gl": "^2.33.2",
-    "react-scripts": "^5.0.1",
-    "rss-parser": "^3.13.0",
     "sass": "^1.56.0",
-    "three": "^0.175.0",
-    "typescript": "^3.4.4",
     "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/node": "^7.10.5",
     "@babel/preset-env": "^7.11.0",
-    "country-reverse-geocoding": "^0.2.2",
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.7.0",
+    "eslint": "^8.57.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
     "google-trends-api": "^4.9.0",
     "prettier": "^2.0.5",
-    "webpack": "^5.97.1",
-    "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^5.2.0"
+    "vite": "^5.2.0"
   },
   "babel": {
     "presets": [
       "@babel/preset-env"
     ]
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
+
   "browserslist": [
     ">0.2%",
     "not dead",
