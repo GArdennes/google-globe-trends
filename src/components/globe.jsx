@@ -65,11 +65,6 @@ export default function World() {
       });
   }, [markers, dispatch]);
 
-  useEffect(() => {
-    console.log("Markers state:", markers);
-    console.log("Processed markers:", ownMarkers);
-  }, [markers, ownMarkers]);
-
   return (
     <>
       <div className={hasLoaded ? undefined : "hidden"}>
