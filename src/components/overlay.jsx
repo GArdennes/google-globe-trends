@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { navigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { useStateValue } from "../state";
 import About from "./about";
 import Description from "./description";
@@ -9,6 +9,7 @@ import Link from "./link";
 export default function Overlay() {
   const [{ focusedMarker, lastUpdated, markers, start }] = useStateValue();
   const [showAbout, setShowAbout] = useState(false);
+  const navigate = useNavigate();
 
   if (!markers) {
     console.error("No markers found.");

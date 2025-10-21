@@ -44,8 +44,21 @@ export default function World() {
         });
       })
       .catch((error) => {
-        console.error("Error fetching data:", error);
-        // Still dispatch LOADED even if data fetch fails to prevent infinite loading
+        console.error("Error fetching geojson data:", error);
+        
+        // Provide fallback markers based on existing data to prevent empty globe
+        if (markers && Array.isArray(markers)) {
+          const fallbackMarkers = markers.slice(0, 10).map((marker, index) => ({
+            ISO: marker.ISO,
+            name: marker.country,
+            lat: 0, // Will need to be positioned manually without geojson
+            lng: index * 36, // Spread around globe
+            size: 20,
+            color: ["orange", "red", "blue", "green"][Math.round(Math.random() * 3)],
+          }));
+          setOwnMarkers(fallbackMarkers);
+        }
+        
         dispatch({
           type: "LOADED",
         });
