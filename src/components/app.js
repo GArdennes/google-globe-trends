@@ -1,17 +1,15 @@
-import React, { Suspense, lazy } from "react";
-
-const Details = lazy(() => import("./details"));
-const World = lazy(() => import("./globe"));
-const Intro = lazy(() => import("./intro"));
-const Overlay = lazy(() => import("./overlay"));
+// In index.js or App.js
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import GlobePage from '../pages/GlobePage';
+import AboutPage from '../pages/AboutPage';
 
 export default function App() {
   return (
-    <Suspense fallback={<div>Loading...</div>}>
-      <World />
-      <Intro />
-      <Overlay />
-      <Details />
-    </Suspense>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<GlobePage />} />
+        <Route path="/about" element={<AboutPage />} />
+      </Routes>
+    </BrowserRouter>
   );
 }

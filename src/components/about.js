@@ -25,7 +25,7 @@ export default function About({ onHide, show }) {
           aims to simplify building beautiful globe visualizations with Google
           Trends datasets.
         </p>
-        <Button label="Back" onClick={onHide} />
+        {/* <Button label="Back" onClick={onHide} /> */}
       </div>
     </Fade>
   );

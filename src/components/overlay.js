@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import { navigate } from "react-router-dom";
 import { useStateValue } from "../state";
 import About from "./about";
 import Description from "./description";
@@ -28,7 +28,7 @@ export default function Overlay() {
             </div>
           </div>
           <div>
-            <Link className="nudge-right" onClick={() => setShowAbout(true)}>
+            <Link className="nudge-right" onClick={() => navigate("/about")}>
               About
             </Link>
             <Link link="GITHUB_REPO">Github</Link>

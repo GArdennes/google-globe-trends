@@ -15,7 +15,7 @@ export default function World() {
 
   useEffect(() => {
     // Load capital cities data
-    fetch(`../data/populatedmap.geojson`)
+    fetch(`/data/populatedmap.geojson`)
       .then((res) => res.json())
       .then(({ features }) => {
         const capitalCities = features.filter(
@@ -23,7 +23,7 @@ export default function World() {
         );
 
         const mainCities = capitalCities.filter((city) =>
-          markers.some((marker) => marker.ISO === city.properties.iso_a2),
+          markers && Array.isArray(markers) && markers.some((marker) => marker.ISO === city.properties.iso_a2),
         );
 
         // Generate some example markers
@@ -45,8 +45,12 @@ export default function World() {
       })
       .catch((error) => {
         console.error("Error fetching data:", error);
+        // Still dispatch LOADED even if data fetch fails to prevent infinite loading
+        dispatch({
+          type: "LOADED",
+        });
       });
-  }, []);
+  }, [markers, dispatch]);
 
   return (
     <>
