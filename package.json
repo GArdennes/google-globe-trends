@@ -2,12 +2,16 @@
   "private": true,
   "name": "google-globe-trends",
   "version": "1.0.0",
+  "type": "module",
   "description": "Create beautiful and interactive Google Trends globe visualizations with ease.",
   "license": "MIT",
   "homepage": "https://globe-trends.netlify.com/",
   "repository": "GArdennes/google-globe-trends",
   "bugs": "https://github.com/GArdennes/google-globe-trends/issues",
   "author": "Kevin Afachao",
+  "engines": {
+    "node": ">=20.19.0"
+  },
   "keywords": [
     "google",
     "globe",
